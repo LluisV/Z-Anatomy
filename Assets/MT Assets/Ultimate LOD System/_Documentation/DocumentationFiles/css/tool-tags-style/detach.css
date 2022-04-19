@@ -1,0 +1,16 @@
+.toolTagDetach{
+    display: inline;
+    background-color: rgb(239, 239, 239);
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 0px;
+    border-radius: 4px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(209, 209, 209);
+    font-size: 11px;
+    font-weight: normal;
+    color: #303030;
+}

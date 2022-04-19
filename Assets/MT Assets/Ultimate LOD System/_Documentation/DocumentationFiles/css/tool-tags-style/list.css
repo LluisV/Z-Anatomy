@@ -1,0 +1,12 @@
+.toolTagList{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 38px;
+}
+.toolTagList li{
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+.toolTagList li::marker{
+    font-weight: bold;
+}

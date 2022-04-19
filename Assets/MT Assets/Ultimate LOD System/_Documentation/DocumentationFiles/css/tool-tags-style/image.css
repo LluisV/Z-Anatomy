@@ -1,0 +1,26 @@
+.toolTagImageContainer{
+    display: grid;
+    grid-template-rows: auto auto;
+    background-color: rgb(239, 239, 239);
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.toolTagImageImg{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+}
+.toolTagImageImg img{
+    width: 100%;
+    max-width: 640px;
+    border-radius: 4px;
+    cursor: zoom-in;
+    transition: all 250ms;
+}
+.toolTagImageComment{
+    text-align: center;
+    font-style: italic;
+    color: rgb(121, 121, 121);
+}

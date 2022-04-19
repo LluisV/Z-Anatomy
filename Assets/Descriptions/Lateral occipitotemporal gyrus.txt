@@ -1,0 +1,656 @@
+
+
+LATERAL OCCIPITOTEMPORAL GYRUS/
+FUSIFORM GYRUS
+
+
+The fusiform gyrus, also known as the lateral occipitotemporal gyrus, is part of the temporal lobe and occipital lobe in Brodmann area 37. 
+
+The fusiform gyrus is located between the lingual gyrus and parahippocampal gyrus above, and the inferior temporal gyrus below. 
+
+Though the functionality of the fusiform gyrus is not fully understood, it has been linked with various neural pathways related to recognition. 
+
+Additionally, it has been linked to various neurological phenomena such as synesthesia, dyslexia, and prosopagnosia.
+
+
+== Anatomy ==
+
+Anatomically, the fusiform gyrus is the largest macro-anatomical structure within the ventral temporal cortex, which mainly includes structures involved in high-level vision. 
+
+The term fusiform gyrus (lit. „spindle-shaped convolution“) refers to the fact that the shape of the gyrus is wider at its centre than at its ends. 
+
+This term is based on the description of the gyrus by Emil Huschke in 1854. (see also section on history). 
+
+The fusiform gyrus is situated at the basal surface of the temporal and occipital lobes and is delineated by the collateral sulcus (CoS) and occipitotemporal sulcus (OTS), respectively. 
+
+The OTS separates the fusiform gyrus from the inferior temporal gyrus (located laterally in respect to the fusiform gyrus) and the CoS separates the fusiform gyrus from the parahippocampal gyrus (located medially in respect to the fusiform gyrus).
+
+The fusiform gyrus can be further delineated into a lateral and medial portion, as it is separated in its middle by the relatively shallow mid-fusiform sulcus (MFS). 
+
+Thus, the lateral fusiform gyrus is delineated by the OTS laterally and the MFS medially. 
+
+Likewise, the medial fusiform gyrus is delineated by the MFS laterally and the CoS medially.
+
+Importantly, the mid-fusiform sulcus serves as a macroanatomical landmark for the fusiform face area (FFA), a functional subregion of the fusiform gyrus assumed to play a key role in processing faces.
+
+
+== History ==
+
+The fusiform gyrus has a contentious history that has recently been clarified. 
+
+The term was first used in 1854 by Emil Huschke from Jena, Germany, who called the fusiform gyrus a “Spindelwulst” (lit. spindle bulge). 
+
+He chose this term because of the similarity that the respective cerebral gyrus bears to the shape of a spindle, or fusil, due to its wider central section. 
+
+At first, researchers located the fusiform gyrus in other mammals as well, without taking into account the variations in gross organizations of other species’ brains. 
+
+Today, the fusiform gyrus is considered to be specific to hominoids. 
+
+This is supported by research showing only three temporal gyri and no fusiform gyrus in macaques.
+
+The first accurate definition of the mid-fusiform sulcus was coined by Gustav Retzius in 1896. 
+
+He was the first to describe the sulcus sagittalis gyri fusiformis (today: mid-fusiform sulcus), and correctly determined that a sulcus divides the fusiform gyrus into lateral and
+medial partitions. 
+
+W. 
+
+Julius Mickle mentioned the mid-fusiform sulcus in 1897 and attempted to clarify the relation between temporal sulci and the fusiform gyrus, calling it the “intra-gyral sulcus of the fusiform lobule”.
+
+
+== Function ==
+
+The exact functionality of the fusiform gyrus is still disputed, but there is relative consensus on its involvement in the following pathways:
+
+
+=== Processing of color information ===
+
+
+In 2003, V. S.Ramachandran collaborated with scientists from the Salk Institute for Biological Studies in order to identify the potential role of the fusiform gyrus within the color processing pathway in the brain. 
+
+Examining the relationship within the pathway specifically in cases of synesthesia, Ramachandran found that synesthetes on average have a higher density of fibers surrounding the angular gyrus. 
+
+The angular gyrus is involved in higher processing of colors. 
+
+The fibers relay shape information from the fusiform gyrus to the angular gyrus in order to produce the association of colors and shapes in grapheme-color synesthesia. 
+
+Cross-activation between the angular and fusiform gyri has been observed in the average brain, implying that the fusiform gyrus regularly communicates with the visual pathway.
+
+
+=== Face and body recognition ===
+
+
+Portions of the fusiform gyrus are critical for face and body recognition.
+
+
+=== Word recognition ===
+
+
+It is believed that portions of the left hemisphere fusiform gyrus are used in word recognition.
+
+
+=== Within-category identification ===
+
+Further research by MIT scientists showed that the left and right fusiform gyri played different roles, which subsequently interlinked. 
+
+The left fusiform gyrus recognizes "face-like" features in objects that may or may not be actual faces, whereas the right fusiform gyrus determines if that recognized face-like feature is, in fact, a face.
+
+
+== Related neural transmitter system ==
+
+In a 2015 study, dopamine was proposed to play a key role in face recognition task and was considered to be related to neural activity in fusiform gyrus. 
+
+By studying the correlation between the binding potential (BP) of dopamine D1 receptor by PET and blood-oxygen-level-dependent (BOLD) in fMRI scan during a face recognition task, higher availability of D1 receptor was shown to be associated with higher BOLD level. 
+
+This study showed that this association with D1 BP is only significant for FFG, not other brain regions. 
+
+The researchers also showed the possibility that higher availability of dopamine D1 receptor may underlie better performance in face recognition task. 
+
+Dopamine is known to be related to the reward system. 
+
+The dopaminergic system shows an active response to stimuli that predict possible rewards. 
+
+As a social demand, a face recognition task could be a cognition process that involves dopamine, which can elicit a reinforcement feedback.
+
+A 2007 study investigated how dopamine may regulate FFG activity during a face recognition task. 
+
+It indicated that BOLD activity can be modulated by dopamine's influence on postsynaptic D1 receptors. 
+
+The regulation is achieved in a way that dopamine first influence post-synaptic potential, and then further cause BOLD activity increase in the local area. 
+
+This link between post-synaptic BOLD activity increase and dopamine release can be explained by blockage of dopamine reuptake.
+
+
+== Associated neurological phenomena ==
+
+The fusiform gyrus has been speculated to be associated with various neurological phenomena.
+
+
+=== Prosopagnosia ===
+
+Some researchers think that the fusiform gyrus may be related to the disorder known as prosopagnosia, or face blindness. 
+
+Research has also shown that the fusiform face area, the area within the fusiform gyrus, is heavily involved in face perception but only to any generic within-category identification that is shown to be one of the functions of the fusiform gyrus. 
+
+Abnormalities of the fusiform gyrus have also been linked to Williams syndrome. 
+
+Fusiform gyrus has also been involved in the perception of emotions in facial stimuli. 
+
+However, individuals with autism show little to no activation in the fusiform gyrus in response to seeing a human face.
+
+
+=== Synaesthesia ===
+
+Recent research has seen activation of the fusiform gyrus during subjective grapheme–color perception in people with synaesthesia. 
+
+The effect of the fusiform gyrus in grapheme sense seems somewhat more clear as the fusiform gyrus seems to play a key role in word recognition. 
+
+The connection to color may be due to cross wiring of (being directly connected to) areas of the fusiform gyrus and other areas of the visual cortex associated with experiencing color.
+
+
+=== Dyslexia ===
+
+For those with dyslexia, it has been seen that the fusiform gyrus is underactivated and has reduced gray matter density.
+
+
+=== Face hallucinations ===
+
+Increased neurophysiological activity in the fusiform face area may produce hallucinations of faces, whether realistic or cartoonesque, as seen in Charles Bonnet syndrome, hypnagogic hallucinations, peduncular hallucinations, or drug-induced hallucinations.
+
+
+
+https://en.wikipedia.org/wiki/Fusiform_gyrus
+;;;ES;;;
+
+
+
+GIRO OCCIPITOTEMPORAL LATERAL/
+GIRO FUSIFORME
+
+
+La circunvolución fusiforme, también conocida como circunvolución occipitotemporal lateral, es parte del lóbulo temporal y del lóbulo occipital en el área 37 de Brodmann. 
+
+La circunvolución fusiforme se encuentra entre la circunvolución lingual y la circunvolución parahipocampal por encima, y ​​la circunvolución temporal inferior por debajo. 
+
+Aunque la funcionalidad de la circunvolución fusiforme no se comprende completamente, se ha relacionado con varias vías neuronales relacionadas con el reconocimiento. 
+
+Además, se ha relacionado con diversos fenómenos neurológicos como la sinestesia, la dislexia y la prosopagnosia.
+
+
+== Anatomía ==
+
+Anatómicamente, la circunvolución fusiforme es la estructura macroanatómica más grande dentro de la corteza temporal ventral, que incluye principalmente estructuras involucradas en la visión de alto nivel. 
+
+El término circunvolución fusiforme (literalmente, "convolución en forma de huso") se refiere al hecho de que la forma de la circunvolución es más ancha en su centro que en sus extremos.
+
+Este término se basa en la descripción de la circunvolución por Emil Huschke en 1854 (ver también la sección de historia).
+
+La circunvolución fusiforme está situada en la superficie basal de los lóbulos temporal y occipital y está delineada por el surco colateral (CoS) y el surco occipitotemporal (OTS), respectivamente.
+
+El OTS separa el giro fusiforme del giro temporal inferior (ubicado lateralmente con respecto al giro fusiforme) y el CoS separa el giro fusiforme del giro parahipocampal (ubicado medialmente con respecto al giro fusiforme).
+
+La circunvolución fusiforme se puede delinear aún más en una porción lateral y medial, ya que está separada en su centro por el surco fusiforme medio (MFS) relativamente poco profundo.
+
+Por lo tanto, la circunvolución fusiforme lateral está delineada por el OTS lateralmente y el MFS medialmente.
+
+Asimismo, la circunvolución fusiforme medial está delineada por el MFS lateralmente y el CoS medialmente.
+
+Es importante destacar que el surco fusiforme medio sirve como punto de referencia macroanatómico para el área de la cara fusiforme (FFA), una subregión funcional de la circunvolución fusiforme que se supone que desempeña un papel clave en el procesamiento de las caras.
+
+
+== Historia ==
+
+La circunvolución fusiforme tiene una historia polémica que se ha aclarado recientemente.
+
+El término fue utilizado por primera vez en 1854 por Emil Huschke de Jena, Alemania, quien llamó a la circunvolución fusiforme "Spindelwulst" (lit. protuberancia del huso).
+
+Eligió este término por la similitud que la respectiva circunvolución cerebral guarda con la forma de un huso, o fusil, debido a su sección central más ancha.
+
+Al principio, los investigadores localizaron la circunvolución fusiforme también en otros mamíferos, sin tener en cuenta las variaciones en las organizaciones generales de los cerebros de otras especies. 
+
+Hoy en día, la circunvolución fusiforme se considera específica de los homínidos. 
+
+Esto está respaldado por investigaciones que muestran solo tres giros temporales y ningún giro fusiforme en macacos.
+
+La primera definición precisa del surco fusiforme medio fue acuñada por Gustav Retzius en 1896. 
+
+Fue el primero en describir el sulcus sagittalis gyri fusiformis (hoy: surco fusiforme medio), y determinó correctamente que un surco divide el giro fusiforme en lateral y
+particiones mediales. 
+
+w 
+
+Julius Mickle mencionó el surco fusiforme medio en 1897 e intentó aclarar la relación entre los surcos temporales y la circunvolución fusiforme, llamándolo “surco intragiral del lóbulo fusiforme”.
+
+
+== Función ==
+
+La funcionalidad exacta de la circunvolución fusiforme aún se discute, pero existe un consenso relativo sobre su participación en las siguientes vías:
+
+
+=== Procesamiento de información de color ===
+
+
+En 2003, VSRamachandran colaboró ​​con científicos del Instituto Salk de Estudios Biológicos para identificar el papel potencial del giro fusiforme dentro de la vía de procesamiento del color en el cerebro.
+
+Al examinar la relación dentro de la vía específicamente en casos de sinestesia, Ramachandran descubrió que los sinestésicos en promedio tienen una mayor densidad de fibras que rodean la circunvolución angular.
+
+El giro angular está involucrado en un mayor procesamiento de colores.
+
+Las fibras transmiten información de forma desde la circunvolución fusiforme a la circunvolución angular para producir la asociación de colores y formas en la sinestesia grafema-color.
+
+La activación cruzada entre las circunvoluciones angular y fusiforme se ha observado en el cerebro promedio, lo que implica que la circunvolución fusiforme se comunica regularmente con la vía visual.
+
+
+=== Reconocimiento facial y corporal ===
+
+
+Las porciones de la circunvolución fusiforme son críticas para el reconocimiento facial y corporal.
+
+
+=== Reconocimiento de palabras ===
+
+
+Se cree que porciones de la circunvolución fusiforme del hemisferio izquierdo se utilizan en el reconocimiento de palabras.
+
+
+=== Identificación dentro de la categoría ===
+
+La investigación adicional realizada por científicos del MIT mostró que las circunvoluciones fusiformes izquierda y derecha desempeñaban diferentes funciones, que posteriormente se interrelacionaron.
+
+La circunvolución fusiforme izquierda reconoce características "parecidas a un rostro" en objetos que pueden o no ser rostros reales, mientras que la circunvolución fusiforme derecha determina si esa característica reconocida como un rostro es, de hecho, un rostro.
+
+
+== Sistema transmisor neural relacionado ==
+
+En un estudio de 2015, se propuso que la dopamina desempeñara un papel clave en la tarea de reconocimiento facial y se consideró que estaba relacionada con la actividad neuronal en la circunvolución fusiforme.
+
+Al estudiar la correlación entre el potencial de unión (BP) del receptor de dopamina D1 por PET y el nivel de oxígeno en sangre dependiente (BOLD) en la resonancia magnética funcional durante una tarea de reconocimiento facial, se demostró que una mayor disponibilidad del receptor D1 está asociada con un BOLD más alto. nivel.
+
+Este estudio mostró que esta asociación con D1 BP solo es significativa para FFG, no para otras regiones del cerebro.
+
+Los investigadores también mostraron la posibilidad de que una mayor disponibilidad del receptor de dopamina D1 pueda ser la base de un mejor rendimiento en la tarea de reconocimiento facial.
+
+Se sabe que la dopamina está relacionada con el sistema de recompensa.
+
+El sistema dopaminérgico muestra una respuesta activa a los estímulos que predicen posibles recompensas.
+
+Como demanda social, una tarea de reconocimiento facial podría ser un proceso de cognición que involucre dopamina, que puede provocar una retroalimentación de refuerzo.
+
+Un estudio de 2007 investigó cómo la dopamina puede regular la actividad de FFG durante una tarea de reconocimiento facial.
+
+Indicó que la actividad BOLD puede ser modulada por la influencia de la dopamina en los receptores postsinápticos D1.
+
+La regulación se logra de manera que la dopamina primero influya en el potencial postsináptico y luego provoque un aumento adicional de la actividad BOLD en el área local.
+
+Este vínculo entre el aumento de la actividad BOLD postsináptica y la liberación de dopamina puede explicarse por el bloqueo de la recaptación de dopamina.
+
+
+== Fenómenos neurológicos asociados ==
+
+Se ha especulado que la circunvolución fusiforme está asociada con varios fenómenos neurológicos.
+
+
+=== Prosopagnosia ===
+
+Algunos investigadores piensan que la circunvolución fusiforme puede estar relacionada con el trastorno conocido como prosopagnosia o ceguera facial. 
+
+La investigación también ha demostrado que el área fusiforme de la cara, el área dentro de la circunvolución fusiforme, está muy involucrada en la percepción de la cara, pero solo en cualquier identificación genérica dentro de la categoría que se demuestre que es una de las funciones de la circunvolución fusiforme. 
+
+Las anomalías de la circunvolución fusiforme también se han relacionado con el síndrome de Williams. 
+
+El giro fusiforme también ha estado involucrado en la percepción de emociones en los estímulos faciales. 
+
+Sin embargo, las personas con autismo muestran poca o ninguna activación en la circunvolución fusiforme en respuesta a ver un rostro humano.
+
+
+=== Sinestesia ===
+
+Investigaciones recientes han visto la activación del giro fusiforme durante la percepción subjetiva del color del grafema en personas con sinestesia. 
+
+El efecto de la circunvolución fusiforme en el sentido del grafema parece algo más claro, ya que la circunvolución fusiforme parece desempeñar un papel clave en el reconocimiento de palabras. 
+
+La conexión con el color puede deberse al cableado cruzado de (estar directamente conectado a) áreas de la circunvolución fusiforme y otras áreas de la corteza visual asociadas con la experiencia del color.
+
+
+=== Dislexia ===
+
+Para aquellos con dislexia, se ha visto que la circunvolución fusiforme está infraactivada y tiene una densidad de materia gris reducida.
+
+
+=== Cara de alucinaciones ===
+
+El aumento de la actividad neurofisiológica en el área fusiforme de la cara puede producir alucinaciones de caras, ya sean realistas o caricaturescas, como se ve en el síndrome de Charles Bonnet, alucinaciones hipnagógicas, alucinaciones pedunculares o alucinaciones inducidas por drogas.
+
+
+
+https://en.wikipedia.org/wiki/Fusiform_gyrus
+
+;;;FR;;;
+
+
+
+GYRUS OCCIPIO-TEMPORAL LATÉRAL/
+GYRUS FUSIFORME
+
+
+Le gyrus fusiforme, également connu sous le nom de gyrus occipitotemporal latéral, fait partie du lobe temporal et du lobe occipital dans la zone 37 de Brodmann.
+
+Le gyrus fusiforme est situé entre le gyrus lingual et le gyrus parahippocampique en haut, et le gyrus temporal inférieur en bas.
+
+Bien que la fonctionnalité du gyrus fusiforme ne soit pas entièrement comprise, elle a été liée à diverses voies neuronales liées à la reconnaissance.
+
+De plus, il a été lié à divers phénomènes neurologiques tels que la synesthésie, la dyslexie et la prosopagnosie.
+
+
+== Anatomie ==
+
+Anatomiquement, le gyrus fusiforme est la plus grande structure macro-anatomique du cortex temporal ventral, qui comprend principalement des structures impliquées dans la vision de haut niveau.
+
+Le terme gyrus fusiforme (allumé "convolution en forme de fuseau") fait référence au fait que la forme du gyrus est plus large en son centre qu'à ses extrémités.
+
+Ce terme est basé sur la description du gyrus par Emil Huschke en 1854. (voir aussi la section sur l'histoire).
+
+Le gyrus fusiforme est situé à la surface basale des lobes temporaux et occipitaux et est délimité par le sillon collatéral (CoS) et le sillon occipitotemporal (OTS), respectivement.
+
+L'OTS sépare le gyrus fusiforme du gyrus temporal inférieur (situé latéralement par rapport au gyrus fusiforme) et le CoS sépare le gyrus fusiforme du gyrus parahippocampique (situé médialement par rapport au gyrus fusiforme).
+
+Le gyrus fusiforme peut être délimité en une partie latérale et médiale, car il est séparé en son milieu par le sulcus mi-fusiforme relativement peu profond (MFS).
+
+Ainsi, le gyrus fusiforme latéral est délimité par l'OTS latéralement et le MFS médialement.
+
+De même, le gyrus fusiforme médial est délimité par le MFS latéralement et le CoS médialement.
+
+Il est important de noter que le sulcus mi-fusiforme sert de repère macroanatomique pour la zone faciale fusiforme (FFA), une sous-région fonctionnelle du gyrus fusiforme supposée jouer un rôle clé dans le traitement des visages.
+
+
+== Historique ==
+
+Le gyrus fusiforme a une histoire controversée qui a récemment été clarifiée.
+
+Le terme a été utilisé pour la première fois en 1854 par Emil Huschke de Jena, en Allemagne, qui a appelé le gyrus fusiforme un "Spindelwulst" (renflement du fuseau).
+
+Il a choisi ce terme en raison de la similitude entre le gyrus cérébral respectif et la forme d'un fuseau, ou fusil, en raison de sa section centrale plus large.
+
+Au début, les chercheurs ont également localisé le gyrus fusiforme chez d'autres mammifères, sans tenir compte des variations dans les organisations grossières des cerveaux d'autres espèces. 
+
+Aujourd'hui, le gyrus fusiforme est considéré comme spécifique aux hominoïdes. 
+
+Ceci est soutenu par des recherches montrant seulement trois gyrus temporaux et aucun gyrus fusiforme chez les macaques.
+
+La première définition précise du sulcus mi-fusiforme a été inventée par Gustav Retzius en 1896. 
+
+Il a été le premier à décrire le sulcus sagittalis gyri fusiformis (aujourd'hui : sulcus mi-fusiforme), et a correctement déterminé qu'un sulcus divise le gyrus fusiforme en latéral et
+cloisons médiales. 
+
+W 
+
+Julius Mickle a mentionné le sillon mi-fusiforme en 1897 et a tenté de clarifier la relation entre les sillons temporaux et le gyrus fusiforme, l'appelant le «sillon intra-gyral du lobule fusiforme».
+
+
+== Fonction ==
+
+La fonctionnalité exacte du gyrus fusiforme est encore contestée, mais il existe un consensus relatif sur son implication dans les voies suivantes :
+
+
+=== Traitement des informations de couleur ===
+
+
+En 2003, VSRamachandran a collaboré avec des scientifiques du Salk Institute for Biological Studies afin d'identifier le rôle potentiel du gyrus fusiforme dans la voie de traitement des couleurs dans le cerveau. 
+
+En examinant la relation au sein de la voie spécifiquement dans les cas de synesthésie, Ramachandran a découvert que les synesthètes ont en moyenne une densité plus élevée de fibres entourant le gyrus angulaire. 
+
+Le gyrus angulaire est impliqué dans le traitement supérieur des couleurs. 
+
+Les fibres relaient les informations de forme du gyrus fusiforme au gyrus angulaire afin de produire l'association de couleurs et de formes dans la synesthésie graphème-couleur. 
+
+Une activation croisée entre les gyrus angulaire et fusiforme a été observée dans le cerveau moyen, ce qui implique que le gyrus fusiforme communique régulièrement avec la voie visuelle.
+
+
+=== Reconnaissance du visage et du corps ===
+
+
+Des parties du gyrus fusiforme sont essentielles pour la reconnaissance du visage et du corps.
+
+
+=== Reconnaissance de mots ===
+
+
+On pense que des parties du gyrus fusiforme de l'hémisphère gauche sont utilisées dans la reconnaissance des mots.
+
+
+=== Identification intra-catégorie ===
+
+Des recherches plus poussées menées par des scientifiques du MIT ont montré que les gyri fusiformes gauche et droit jouaient des rôles différents, qui se sont ensuite liés.
+
+Le gyrus fusiforme gauche reconnaît les caractéristiques «ressemblant à un visage» dans des objets qui peuvent ou non être des visages réels, tandis que le gyrus fusiforme droit détermine si cette caractéristique semblable à un visage reconnue est, en fait, un visage.
+
+
+== Système d'émetteur neuronal associé ==
+
+Dans une étude de 2015, il a été proposé que la dopamine joue un rôle clé dans la tâche de reconnaissance faciale et était considérée comme étant liée à l'activité neuronale dans le gyrus fusiforme.
+
+En étudiant la corrélation entre le potentiel de liaison (BP) du récepteur de la dopamine D1 par TEP et le taux d'oxygène sanguin dépendant (BOLD) en IRMf lors d'une tâche de reconnaissance faciale, il a été démontré qu'une plus grande disponibilité du récepteur D1 était associée à un BOLD plus élevé. niveau.
+
+Cette étude a montré que cette association avec D1 BP n'est significative que pour FFG, pas pour les autres régions du cerveau.
+
+Les chercheurs ont également montré la possibilité qu'une plus grande disponibilité du récepteur de la dopamine D1 puisse sous-tendre de meilleures performances dans la tâche de reconnaissance faciale.
+
+La dopamine est connue pour être liée au système de récompense.
+
+Le système dopaminergique montre une réponse active aux stimuli qui prédisent les récompenses possibles.
+
+En tant que demande sociale, une tâche de reconnaissance faciale pourrait être un processus cognitif impliquant la dopamine, qui peut provoquer une rétroaction de renforcement.
+
+Une étude de 2007 a étudié comment la dopamine peut réguler l'activité FFG lors d'une tâche de reconnaissance faciale.
+
+Il a indiqué que l'activité BOLD peut être modulée par l'influence de la dopamine sur les récepteurs postsynaptiques D1.
+
+La régulation est réalisée de manière à ce que la dopamine influence d'abord le potentiel post-synaptique, puis provoque une augmentation de l'activité BOLD dans la zone locale.
+
+Ce lien entre l'augmentation de l'activité BOLD post-synaptique et la libération de dopamine peut s'expliquer par le blocage de la recapture de la dopamine.
+
+
+== Phénomènes neurologiques associés ==
+
+Le gyrus fusiforme a été supposé être associé à divers phénomènes neurologiques.
+
+
+=== Prosopagnosie ===
+
+Certains chercheurs pensent que le gyrus fusiforme peut être lié au trouble connu sous le nom de prosopagnosie, ou cécité faciale.
+
+La recherche a également montré que la zone du visage fusiforme, la zone à l'intérieur du gyrus fusiforme, est fortement impliquée dans la perception du visage, mais uniquement pour toute identification générique intra-catégorie qui s'avère être l'une des fonctions du gyrus fusiforme.
+
+Des anomalies du gyrus fusiforme ont également été liées au syndrome de Williams.
+
+Le gyrus fusiforme a également été impliqué dans la perception des émotions dans les stimuli faciaux.
+
+Cependant, les personnes autistes montrent peu ou pas d'activation dans le gyrus fusiforme en réponse à la vue d'un visage humain.
+
+
+=== Synesthésie ===
+
+Des recherches récentes ont vu l'activation du gyrus fusiforme lors de la perception subjective des graphèmes et des couleurs chez les personnes atteintes de synesthésie.
+
+L'effet du gyrus fusiforme au sens du graphème semble un peu plus clair car le gyrus fusiforme semble jouer un rôle clé dans la reconnaissance des mots. 
+
+La connexion à la couleur peut être due à un câblage croisé (directement connecté à) des zones du gyrus fusiforme et d'autres zones du cortex visuel associées à l'expérience de la couleur.
+
+
+=== Dyslexie ===
+
+Pour ceux qui souffrent de dyslexie, il a été constaté que le gyrus fusiforme est sous-activé et a une densité de matière grise réduite.
+
+
+=== Hallucinations du visage ===
+
+Une activité neurophysiologique accrue dans la zone faciale fusiforme peut produire des hallucinations de visages, qu'elles soient réalistes ou caricaturales, comme on le voit dans le syndrome de Charles Bonnet, des hallucinations hypnagogiques, des hallucinations pédonculaires ou des hallucinations induites par la drogue.
+
+
+
+https://en.wikipedia.org/wiki/Fusiform_gyrus
+
+;;;PT;;;
+
+
+
+GIRUS OCCIPITOTEMPORAL LATERAL/
+GIRO FUSIFORME
+
+
+O giro fusiforme, também conhecido como giro occipitotemporal lateral, faz parte do lobo temporal e do lobo occipital na área de Brodmann 37.
+
+O giro fusiforme está localizado entre o giro lingual e o giro parahipocampal acima e o giro temporal inferior abaixo.
+
+Embora a funcionalidade do giro fusiforme não seja totalmente compreendida, ela tem sido associada a várias vias neurais relacionadas ao reconhecimento.
+
+Além disso, tem sido associada a vários fenômenos neurológicos, como sinestesia, dislexia e prosopagnosia.
+
+
+== Anatomia ==
+
+Anatomicamente, o giro fusiforme é a maior estrutura macroanatômica dentro do córtex temporal ventral, que inclui principalmente estruturas envolvidas na visão de alto nível.
+
+O termo giro fusiforme (lit. „convolução em forma de fuso“) refere-se ao fato de que a forma do giro é mais larga em seu centro do que em suas extremidades.
+
+Este termo é baseado na descrição do giro por Emil Huschke em 1854. (ver também seção sobre história).
+
+O giro fusiforme está situado na superfície basal dos lobos temporal e occipital e é delineado pelo sulco colateral (CoS) e sulco occipitotemporal (OTS), respectivamente.
+
+O OTS separa o giro fusiforme do giro temporal inferior (localizado lateralmente em relação ao giro fusiforme) e o CoS separa o giro fusiforme do giro parahipocampal (localizado medialmente em relação ao giro fusiforme).
+
+O giro fusiforme pode ser ainda delineado em uma porção lateral e medial, pois é separado em seu meio pelo sulco médio fusiforme (MFS) relativamente raso.
+
+Assim, o giro fusiforme lateral é delineado pelo OTS lateralmente e o MFS medialmente. 
+
+Da mesma forma, o giro fusiforme medial é delineado pelo MFS lateralmente e pelo CoS medialmente.
+
+É importante ressaltar que o sulco médio fusiforme serve como um marco macroanatômico para a área da face fusiforme (FFA), uma sub-região funcional do giro fusiforme que desempenha um papel fundamental no processamento de faces.
+
+
+== História ==
+
+O giro fusiforme tem uma história controversa que foi recentemente esclarecida. 
+
+O termo foi usado pela primeira vez em 1854 por Emil Huschke de Jena, Alemanha, que chamou o giro fusiforme de “Spindelwulst” (lit. protuberância do fuso). 
+
+Ele escolheu esse termo devido à semelhança que o respectivo giro cerebral tem com a forma de um fuso, ou fúsil, devido à sua seção central mais larga. 
+
+A princípio, os pesquisadores localizaram o giro fusiforme também em outros mamíferos, sem levar em conta as variações nas organizações grosseiras dos cérebros de outras espécies. 
+
+Hoje, o giro fusiforme é considerado específico para hominóides. 
+
+Isso é apoiado por pesquisas que mostram apenas três giros temporais e nenhum giro fusiforme em macacos.
+
+A primeira definição precisa do sulco fusiforme médio foi cunhada por Gustav Retzius em 1896. 
+
+Ele foi o primeiro a descrever o sulcus sagittalis gyri fusiformis (hoje: sulco fusiforme médio), e determinou corretamente que um sulco divide o giro fusiforme em giro lateral e fusiforme.
+divisórias mediais. 
+
+C. 
+
+Julius Mickle mencionou o sulco médio-fusiforme em 1897 e tentou esclarecer a relação entre os sulcos temporais e o giro fusiforme, chamando-o de “sulco intra-giral do lóbulo fusiforme”.
+
+
+== Função ==
+
+A funcionalidade exata do giro fusiforme ainda é contestada, mas há relativo consenso sobre seu envolvimento nas seguintes vias:
+
+
+=== Processamento de informações de cores ===
+
+
+Em 2003, VSRamachandran colaborou com cientistas do Salk Institute for Biological Studies para identificar o papel potencial do giro fusiforme na via de processamento de cores no cérebro. 
+
+Examinando a relação dentro da via especificamente em casos de sinestesia, Ramachandran descobriu que os sinestetas, em média, têm uma densidade mais alta de fibras ao redor do giro angular. 
+
+O giro angular está envolvido no maior processamento de cores. 
+
+As fibras transmitem informações de forma do giro fusiforme para o giro angular para produzir a associação de cores e formas na sinestesia grafema-cor. 
+
+A ativação cruzada entre os giros angular e fusiforme foi observada no cérebro médio, o que implica que o giro fusiforme se comunica regularmente com a via visual.
+
+
+=== Reconhecimento facial e corporal ===
+
+
+Porções do giro fusiforme são críticas para o reconhecimento facial e corporal.
+
+
+=== Reconhecimento de palavras ===
+
+
+Acredita-se que porções do giro fusiforme do hemisfério esquerdo sejam usadas no reconhecimento de palavras.
+
+
+=== Identificação dentro da categoria ===
+
+Outras pesquisas de cientistas do MIT mostraram que os giros fusiformes esquerdo e direito desempenharam papéis diferentes, que posteriormente se interligaram. 
+
+O giro fusiforme esquerdo reconhece características "semelhantes a um rosto" em objetos que podem ou não ser rostos reais, enquanto o giro fusiforme direito determina se esse recurso semelhante a um rosto reconhecido é, de fato, um rosto.
+
+
+== Sistema de transmissor neural relacionado ==
+
+Em um estudo de 2015, a dopamina foi proposta para desempenhar um papel fundamental na tarefa de reconhecimento facial e foi considerada relacionada à atividade neural no giro fusiforme.
+
+Ao estudar a correlação entre o potencial de ligação (BP) do receptor de dopamina D1 por PET e dependente do nível de oxigênio no sangue (BOLD) em fMRI durante uma tarefa de reconhecimento de face, a maior disponibilidade do receptor D1 mostrou estar associada a maior BOLD nível.
+
+Este estudo mostrou que esta associação com D1 BP é significativa apenas para FFG, não para outras regiões do cérebro.
+
+Os pesquisadores também mostraram a possibilidade de que a maior disponibilidade do receptor de dopamina D1 pode estar subjacente a um melhor desempenho na tarefa de reconhecimento facial.
+
+A dopamina é conhecida por estar relacionada ao sistema de recompensa.
+
+O sistema dopaminérgico mostra uma resposta ativa a estímulos que predizem possíveis recompensas.
+
+Como uma demanda social, uma tarefa de reconhecimento facial pode ser um processo de cognição que envolve dopamina, que pode eliciar um feedback de reforço.
+
+Um estudo de 2007 investigou como a dopamina pode regular a atividade de FFG durante uma tarefa de reconhecimento facial.
+
+Ele indicou que a atividade BOLD pode ser modulada pela influência da dopamina nos receptores D1 pós-sinápticos.
+
+A regulação é alcançada de forma que a dopamina primeiro influencie o potencial pós-sináptico e, em seguida, cause aumento da atividade BOLD na área local.
+
+Essa ligação entre o aumento da atividade BOLD pós-sináptica e a liberação de dopamina pode ser explicada pelo bloqueio da recaptação de dopamina.
+
+
+== Fenômenos neurológicos associados ==
+
+Especula-se que o giro fusiforme esteja associado a vários fenômenos neurológicos.
+
+
+=== Prosopagnosia ===
+
+Alguns pesquisadores pensam que o giro fusiforme pode estar relacionado ao distúrbio conhecido como prosopagnosia, ou cegueira facial.
+
+A pesquisa também mostrou que a área fusiforme da face, a área dentro do giro fusiforme, está fortemente envolvida na percepção da face, mas apenas para qualquer identificação genérica dentro da categoria que se mostre ser uma das funções do giro fusiforme.
+
+Anormalidades do giro fusiforme também foram associadas à síndrome de Williams.
+
+O giro fusiforme também está envolvido na percepção de emoções em estímulos faciais.
+
+No entanto, indivíduos com autismo mostram pouca ou nenhuma ativação no giro fusiforme em resposta a ver um rosto humano.
+
+
+=== Sinestesia ===
+
+Pesquisas recentes viram a ativação do giro fusiforme durante a percepção subjetiva de cor e grafema em pessoas com sinestesia.
+
+O efeito do giro fusiforme no sentido do grafema parece um pouco mais claro, pois o giro fusiforme parece desempenhar um papel fundamental no reconhecimento de palavras.
+
+A conexão com a cor pode ser devido à fiação cruzada de áreas do giro fusiforme e outras áreas do córtex visual associadas à experiência da cor.
+
+
+=== Dislexia ===
+
+Para aqueles com dislexia, observou-se que o giro fusiforme está subativado e tem densidade de substância cinzenta reduzida.
+
+
+=== Alucinações faciais ===
+
+O aumento da atividade neurofisiológica na área fusiforme da face pode produzir alucinações de rostos, sejam realistas ou caricaturais, como visto na síndrome de Charles Bonnet, alucinações hipnagógicas, alucinações pedunculares ou alucinações induzidas por drogas.
+
+
+
+https://en.wikipedia.org/wiki/Fusiform_gyrus

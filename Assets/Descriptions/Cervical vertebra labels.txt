@@ -1,0 +1,32 @@
+CERVICAL VERTEBRA
+    Uncinate process of vertebra
+    Foramen transversarium
+    Anterior tubercle of transverse process
+    Posterior tubercle of transverse process
+    Groove for spinal nerve
+;;;ES;;;
+
+VERTEBRA CERVICAL
+Proceso uncinado de la vértebra
+Agujero transverso
+Tubérculo anterior del proceso transverso
+Tubérculo posterior del proceso transverso
+Surco para nervio espinal
+
+;;;FR;;;
+
+LES VERTÈBRES CERVICALES
+ Processus unciforme de la vertèbre
+ Foramen transverse
+ Tubercule antérieur de l'apophyse transverse
+ Tubercule postérieur de l'apophyse transverse
+ Rainure pour nerf spinal
+
+;;;PT;;;
+
+VÉRTEBRA CERVICAL
+ Processo uncinado da vértebra
+ Forame transversarium
+ Tubérculo anterior do processo transverso
+ Tubérculo posterior do processo transverso
+ Sulco para nervo espinhal

@@ -1,0 +1,72 @@
+
+
+CYLINDRICAL JOINT
+
+
+A cylindrical joint is a two-degrees-of-freedom kinematic pair used in mechanisms. 
+
+Cylindrical joints provide single-axis sliding function as well as a single axis rotation, providing a way for two rigid bodies to translate and rotate freely. 
+
+This can be pictured by an unsecured axle mounted on a chassis, as it may freely rotate and translate. 
+
+An example of this would be the rotating rods of a Table football.
+
+
+
+https://en.wikipedia.org/wiki/Cylindrical_joint
+;;;ES;;;
+
+
+
+JUNTA CILÍNDRICA
+
+
+Una junta cilíndrica es un par cinemático de dos grados de libertad que se utiliza en los mecanismos. 
+
+Las juntas cilíndricas proporcionan una función de deslizamiento de un solo eje, así como una rotación de un solo eje, lo que proporciona una forma para que dos cuerpos rígidos se trasladen y giren libremente.
+
+Esto se puede representar con un eje no asegurado montado en un chasis, ya que puede girar y trasladarse libremente.
+
+Un ejemplo de esto serían las varillas giratorias de un futbolín.
+
+
+
+https://en.wikipedia.org/wiki/Cylindrical_joint
+
+;;;FR;;;
+
+
+
+JOINT CYLINDRIQUE
+
+
+Une articulation cylindrique est une paire cinématique à deux degrés de liberté utilisée dans les mécanismes. 
+
+Les joints cylindriques offrent une fonction de glissement sur un seul axe ainsi qu'une rotation sur un seul axe, permettant à deux corps rigides de se déplacer et de tourner librement.
+
+Cela peut être illustré par un essieu non sécurisé monté sur un châssis, car il peut tourner et se déplacer librement.
+
+Un exemple de ceci serait les tiges rotatives d'un baby-foot.
+
+
+
+https://en.wikipedia.org/wiki/Cylindrical_joint
+
+;;;PT;;;
+
+
+
+JUNTA CILÍNDRICA
+
+
+Uma junta cilíndrica é um par cinemático de dois graus de liberdade usado em mecanismos. 
+
+As juntas cilíndricas fornecem função de deslizamento de eixo único, bem como rotação de eixo único, proporcionando uma maneira de dois corpos rígidos transladarem e girarem livremente. 
+
+Isso pode ser ilustrado por um eixo não seguro montado em um chassi, pois pode girar e transladar livremente. 
+
+Um exemplo disso seriam as hastes giratórias de um futebol de mesa.
+
+
+
+https://en.wikipedia.org/wiki/Cylindrical_joint

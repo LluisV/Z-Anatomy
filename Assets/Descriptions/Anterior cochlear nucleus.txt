@@ -1,0 +1,780 @@
+
+
+COCHLEAR NUCLEUS
+
+
+The cochlear nuclear (CN) complex comprises two cranial nerve nuclei in the human brainstem, the ventral cochlear nucleus (VCN) and the dorsal cochlear nucleus (DCN). 
+
+The ventral (anterior) cochlear nucleus is unlayered whereas the dorsal cochlear nucleus is layered. 
+
+Auditory nerve fibers, fibers that travel through the auditory nerve (also known as the cochlear nerve or eighth cranial nerve) carry information from the inner ear, the cochlea, on the same side of the head, to the nerve root in the ventral cochlear nucleus. 
+
+At the nerve root the fibers branch to innervate the ventral cochlear nucleus and the deep layer of the dorsal cochlear nucleus. 
+
+All acoustic information thus enters the brain through the cochlear nuclei, where the processing of acoustic information begins. 
+
+The outputs from the cochlear nuclei are received in higher regions of the auditory brainstem.
+
+
+== Structure ==
+
+The cochlear nuclei (CN) are located at the dorso-lateral side of the brainstem, spanning the junction of the pons and medulla.
+
+The ventral cochlear nucleus (VCN) on the ventral aspect of the brain stem, ventrolateral to the inferior peduncle.
+
+The dorsal cochlear nucleus (DCN), also known as the tuberculum acusticum or acoustic tubercle, curves over the VCN and wraps around the cerebellar peduncle.
+
+The VCN is further divided by the nerve root into the posteroventral cochlear nucleus (PVCN) and the anteroventral cochlear nucleus (AVCN).
+
+
+=== Projections to the cochlear nuclei ===
+
+The major input to the cochlear nucleus is from the auditory nerve, a part of cranial nerve VIII (the vestibulocochlear nerve). 
+
+The auditory nerve fibers form a highly organized system of connections according to their peripheral innervation of the cochlea. 
+
+Axons from the spiral ganglion cells of the lower frequencies innervate the ventrolateral portions of the ventral cochlear nucleus and lateral-ventral portions of the dorsal cochlear nucleus. 
+
+The axons from the higher frequency organ of corti hair cells project to the dorsal portion of the ventral cochlear nucleus and the dorsal-medial portions of the dorsal cochlear nucleus. 
+
+The mid frequency projections end up in between the two extremes; in this way the tonotopic organization that is established in the cochlea is preserved in the cochlear nuclei. 
+
+This tonotopic organization is preserved because only a few inner hair cells synapse on the dendrites of a nerve cell in the spiral ganglion, and the axon from that nerve cell synapses on only a very few dendrites in the cochlear nucleus. 
+
+In contrast with the VCN that receives all acoustic input from the auditory nerve, the DCN receives input not only from the auditory nerve but it also receives acoustic input from neurons in the VCN (T stellate cells). 
+
+The DCN is therefore in a sense a second order sensory nucleus.
+The cochlear nuclei have long been thought to receive input only from the ipsilateral ear. 
+
+There is evidence, however, for stimulation from the contralateral ear via the contralateral CN, and also the somatosensory parts of the brain.
+
+
+=== Projections from the cochlear nuclei ===
+
+There are three major fiber bundles, axons of cochlear nuclear neurons, that carry information from the cochlear nuclei to targets that are mainly on the opposite side of the brain.  
+
+Through the medulla, one projection goes to the contralateral superior olivary complex (SOC) via the trapezoid body, whilst the other half shoots to the ipsilateral SOC. 
+
+This pathway is called the ventral acoustic stria (VAS or, more commonly, the trapezoid body). 
+
+Another pathway, called the dorsal acoustic stria (DAS, also known as the stria of von Monakow), rises above the medulla into the pons where it hits the nuclei of the lateral lemniscus along with its kin, the intermediate acoustic stria (IAS, also known as the stria of Held). 
+
+The IAS decussates across the medulla, before joining the ascending fibers in the contralateral lateral lemniscus. 
+
+The lateral lemniscus contains cells of the nuclei of the lateral lemniscus, and in turn projects to the inferior colliculus. 
+
+The inferior colliculus receives direct, monosynaptic projections from the superior olivary complex, the contralateral dorsal acoustic stria, some classes of stellate neurons of the VCN, as well as from the different nuclei of the lateral lemniscus.
+
+Most of these inputs terminate in the inferior colliculus, although there are a few small projections that bypass the inferior colliculus and project to the medial geniculate, or other forebrain structures.
+
+Medial superior olive (MSO) via trapezoid body (TB) – Ipsilateral and contralateral stimulation for low frequency sounds.
+
+Lateral superior olive (LSO) directly and via TB – Ipsilateral stimulation for high frequency sounds.
+
+Medial nucleus of trapezoid body (MNTB) – Contralateral stimulation.
+Inferior colliculus – Contralateral stimulation.
+
+Periolivary nuclei (PON) – Ipsilateral and contralateral stimulation.
+Lateral lemniscus (LL) and lemniscal nuclei (LN) – Ipsilateral and contralateral stimulation.
+
+
+=== Histology ===
+
+Three types of principal cells convey information out of the ventral cochlear nucleus: Bushy cells, stellate cells, and octopus cells.
+
+Bushy cells are found mainly in the anterior ventral cochlear nucleus (AVCN). 
+
+These can be further divided into large spherical, small spherical and globular bushy cells, depending on their appearance, and also their location. 
+
+Within the AVCN there is an area of large spherical cells; caudal to this are smaller spherical cells, and globular cells occupy the region around the nerve root. 
+
+An important difference between these subtypes is that they project to differing targets in the superior olivary complex. 
+
+Large spherical bushy cells project to the ipsilateral and contralateral medial superior olive. 
+
+Globular bushy cells project to the contralateral medial nucleus of the trapezoid body, and small spherical bushy cells likely project to the lateral superior olive. 
+
+They have a few (1-4) very short dendrites with numerous small branching, which cause it to resemble a “bush”. 
+
+The bushy cells have specialized electrical properties that allow them to transmit timing information from the auditory nerve to more central areas of the auditory system. 
+
+Because bushy cells receive input from multiple auditory nerve fibers that are tuned to similar frequencies, bushy cells can improve the precision of the timing information by in essence averaging out jitter in timing of the inputs. 
+
+Bushy cells can also be inhibited by sounds adjacent to the frequency to which they are tuned, leading to even sharper tuning than seen in auditory nerve fibers. 
+
+These cells are usually innervated only by a few auditory nerve fibres, which dominate its firing pattern. 
+
+These afferent nerve fibres wrap their terminal branches around the entire soma, creating a large synapse onto the bushy cells, called an "endbulb of Held". 
+
+Therefore, a single unit recording of an electrically stimulated bushy neuron characteristically produces exactly one action potential and constitutes the primary response.
+
+Stellate cells (aka multipolar cells), have longer dendrites that lie parallel to fascicles of auditory nerve fibers. 
+
+They are also called chopper cells, in reference to their ability to fire a regularly spaced train of action potentials for the duration of a tonal or noise stimulus. 
+
+The chopping pattern is intrinsic to the electrical excitability of the stellate cell, and the firing rate depends on the strength of the auditory input more than on the frequency. 
+
+Each stellate cell is narrowly tuned and has inhibitory sidebands, enabling the population of stellate cells to encode the spectrum of sounds, enhancing spectral peaks and valleys. 
+
+These neurons provide acoustic input to the DCN.
+Octopus cells are found in a small region of the posterior ventral cochlear nucleus (PVCN). 
+
+The distinguishing features of these cells are their long, thick and tentacle-shaped dendrites that typically emanate from one side of the cell body. 
+
+Octopus cells produce an "Onset Response" to simple tonal stimuli. 
+
+That is, they respond only at the onset of a broad-band stimulus. 
+
+The octopus cells can fire with some of the highest temporal precision of any neuron in the brain. 
+
+Electrical stimuli to the auditory nerve evoke a graded excitatory postsynaptic potential in the octopus cells. 
+
+These EPSPs are very brief. 
+
+The octopus cells are thought to be important for extracting timing information. 
+
+It has been reported that these cells can respond to click trains at a rate of 800 Hz.Two types of principal cells convey information out of the dorsal cochlear nucleus (DCN) to the contralateral inferior colliculus. 
+
+The principal cells receive two systems of inputs. 
+
+Acoustic input comes to the deep layer through several paths. 
+
+Excitatory acoustic input comes from auditory nerve fibers and also from stellate cells of the VCN. 
+
+Acoustic input is also conveyed through inhibitory interneurons (tuberculoventral cells of the DCN and "wide band inhibitors" in the VCN). 
+
+Through the outermost molecular layer, the DCN receives other types of sensory information, most importantly information about the location of the head and ears, through parallel fibers. 
+
+This information is distributed through a cerebellar like circuit that also includes inhibitory interneurons.  
+
+Fusiform cells (also known as pyramidal cells). 
+
+Fusiform cells integrate information through two tufts of dendrites, the apical dendrites receiving multisensory, excitatory and inhibitory input through the outermost molecular layer and the basal dendrites receiving excitatory and inhibitory acoustic input from the basal dendrites that extend into the deep layer. 
+
+These neurons are thought to enable mammals to analyze the spectral cues that enable us to localize sounds in elevation and when we lose hearing in one ear.
+
+Giant cells also integrate inputs from the molecular and deep layers but input from the deep layer is predominant. 
+
+It is unclear what their role is in hearing.
+
+
+== Function ==
+
+The cochlear nuclear complex is the first integrative, or processing, stage in the auditory system. 
+
+Information is brought to the nuclei from the ipsilateral cochlea via the cochlear nerve. 
+
+Several tasks are performed in the cochlear nuclei. 
+
+By distributing acoustic input to multiple types of principal cells, the auditory pathway is subdivided into parallel ascending pathways, which can simultaneously extract different types of information. 
+
+The cells of the ventral cochlear nucleus extract information that is carried by the auditory nerve in the timing of firing and in the pattern of activation of the population of auditory nerve fibers. 
+
+The cells of the dorsal cochlear nucleus perform a non-linear spectral analysis and place that spectral analysis into the context of the location of the head, ears and shoulders and that separate expected, self-generated spectral cues from more interesting, unexpected spectral cues using input from the auditory cortex, pontine nuclei, trigeminal ganglion and nucleus, dorsal column nuclei and the second dorsal root ganglion. 
+
+It is likely that these neurons help mammals to use spectral cues for orienting toward those sounds. 
+
+The information is used by higher brainstem regions to achieve further computational objectives (such as sound source location or improvement in signal to noise ratio). 
+
+The inputs from these other areas of the brain probably play a role in sound localization.
+
+In order to understand in more detail the specific functions of the cochlear nuclei it is first necessary to understand the way sound information is represented by the fibers of the auditory nerve. 
+
+Briefly, there are around 30,000 auditory nerve fibres in each of the two auditory nerves. 
+
+Each fiber is an axon of a spiral ganglion cell that represents a particular frequency of sound, and a particular range of loudness. 
+
+Information in each nerve fibre is represented by the rate of action potentials as well as the particular timing of individual action potentials. 
+
+The particular physiology and morphology of each cochlear nucleus cell type enhances different aspects of sound information.
+
+
+
+https://en.wikipedia.org/wiki/Cochlear_nucleus
+;;;ES;;;
+
+
+
+NÚCLEO COCLEAR
+
+
+El complejo nuclear coclear (CN) comprende dos núcleos de nervios craneales en el tronco encefálico humano, el núcleo coclear ventral (VCN) y el núcleo coclear dorsal (DCN).
+
+El núcleo coclear ventral (anterior) no tiene capas, mientras que el núcleo coclear dorsal tiene capas.
+
+Fibras nerviosas auditivas, fibras que viajan a través del nervio auditivo (también conocido como nervio coclear u octavo nervio craneal) transportan información desde el oído interno, la cóclea, en el mismo lado de la cabeza, hasta la raíz nerviosa en el núcleo coclear ventral. . 
+
+En la raíz nerviosa, las fibras se ramifican para inervar el núcleo coclear ventral y la capa profunda del núcleo coclear dorsal. 
+
+Toda la información acústica entra así en el cerebro a través de los núcleos cocleares, donde comienza el procesamiento de la información acústica. 
+
+Las salidas de los núcleos cocleares se reciben en regiones superiores del tronco encefálico auditivo.
+
+
+== Estructura ==
+
+Los núcleos cocleares (CN) se encuentran en el lado dorsolateral del tronco encefálico, abarcando la unión de la protuberancia y el bulbo raquídeo.
+
+El núcleo coclear ventral (VCN) en la cara ventral del tronco encefálico, ventrolateral al pedúnculo inferior.
+
+El núcleo coclear dorsal (DCN), también conocido como tuberculum acusticum o tubérculo acústico, se curva sobre el VCN y envuelve el pedúnculo cerebeloso.
+
+La VCN se divide además por la raíz nerviosa en el núcleo coclear posteroventral (PVCN) y el núcleo coclear anteroventral (AVCN).
+
+
+=== Proyecciones a los núcleos cocleares ===
+
+La entrada principal al núcleo coclear proviene del nervio auditivo, una parte del nervio craneal VIII (nervio vestibulococlear).
+
+Las fibras del nervio auditivo forman un sistema altamente organizado de conexiones según su inervación periférica de la cóclea.
+
+Los axones de las células ganglionares espirales de las frecuencias más bajas inervan las porciones ventrolaterales del núcleo coclear ventral y las porciones lateral-ventrales del núcleo coclear dorsal. 
+
+Los axones del órgano de mayor frecuencia de las células ciliadas de corti se proyectan hacia la porción dorsal del núcleo coclear ventral y las porciones dorsal medial del núcleo coclear dorsal. 
+
+Las proyecciones de frecuencia media terminan entre los dos extremos; de esta manera la organización tonotópica que se establece en la cóclea se conserva en los núcleos cocleares.
+
+Esta organización tonotópica se conserva porque solo unas pocas células ciliadas internas hacen sinapsis con las dendritas de una célula nerviosa en el ganglio espiral, y el axón de esa célula nerviosa hace sinapsis solo con unas pocas dendritas en el núcleo coclear. 
+
+En contraste con la VCN que recibe toda la información acústica del nervio auditivo, la DCN recibe información no solo del nervio auditivo, sino que también recibe información acústica de las neuronas en la VCN (células T estrelladas). 
+
+Por lo tanto, el DCN es, en cierto sentido, un núcleo sensorial de segundo orden.
+Durante mucho tiempo se pensó que los núcleos cocleares recibían información solo del oído ipsilateral. 
+
+Sin embargo, hay evidencia de estimulación del oído contralateral a través del NC contralateral y también de las partes somatosensoriales del cerebro.
+
+
+=== Proyecciones de los núcleos cocleares ===
+
+Hay tres haces de fibras principales, los axones de las neuronas nucleares cocleares, que transportan información desde los núcleos cocleares a objetivos que se encuentran principalmente en el lado opuesto del cerebro. 
+
+A través del bulbo raquídeo, una proyección se dirige al complejo olivar superior (COS) contralateral a través del cuerpo trapezoidal, mientras que la otra mitad se dirige al SOC ipsolateral. 
+
+Esta vía se denomina estría acústica ventral (VAS o, más comúnmente, el cuerpo trapezoidal). 
+
+Otra vía, llamada estría acústica dorsal (DAS, también conocida como la estría de von Monakow), se eleva por encima del bulbo raquídeo hacia la protuberancia donde golpea los núcleos del lemnisco lateral junto con sus parientes, la estría acústica intermedia (IAS, también conocida como estría acústica intermedia). conocida como la estría de Held). 
+
+El IAS se decusa a través del bulbo raquídeo antes de unirse a las fibras ascendentes en el lemnisco lateral contralateral. 
+
+El lemnisco lateral contiene células de los núcleos del lemnisco lateral y, a su vez, se proyecta hacia el colículo inferior. 
+
+El colículo inferior recibe proyecciones monosinápticas directas del complejo olivar superior, la estría acústica dorsal contralateral, algunas clases de neuronas estrelladas del VCN, así como de los diferentes núcleos del lemnisco lateral.
+
+La mayoría de estas entradas terminan en el colículo inferior, aunque hay algunas pequeñas proyecciones que pasan por alto el colículo inferior y se proyectan hacia el geniculado medial u otras estructuras del prosencéfalo.
+
+Oliva superior medial (MSO) a través del cuerpo trapezoidal (TB): estimulación ipsilateral y contralateral para sonidos de baja frecuencia.
+
+Oliva lateral superior (LSO) directamente y vía TB – Estimulación ipsilateral para sonidos de alta frecuencia.
+
+Núcleo medial del cuerpo trapezoidal (MNTB) – Estimulación contralateral.
+Colículo inferior – Estimulación contralateral.
+
+Núcleos periolivares (PON) – Estimulación ipsilateral y contralateral.
+Lemnisco lateral (LL) y núcleos lemniscales (LN) – Estimulación ipsilateral y contralateral.
+
+
+=== Histología ===
+
+Tres tipos de células principales transmiten información desde el núcleo coclear ventral: células tupidas, células estrelladas y células de pulpo.
+
+Las células tupidas se encuentran principalmente en el núcleo coclear ventral anterior (AVCN). 
+
+Estos se pueden dividir en células tupidas esféricas grandes, esféricas pequeñas y globulares, dependiendo de su apariencia y también de su ubicación. 
+
+Dentro de la AVCN hay un área de grandes celdas esféricas; caudalmente a esto hay células esféricas más pequeñas, y las células globulares ocupan la región alrededor de la raíz nerviosa.
+
+Una diferencia importante entre estos subtipos es que se proyectan a objetivos diferentes en el complejo olivar superior. 
+
+Grandes células tupidas esféricas se proyectan hacia la oliva superior medial ipsolateral y contralateral. 
+
+Las células tupidas globulares se proyectan hacia el núcleo medial contralateral del cuerpo trapezoidal, y las células tupidas esféricas pequeñas probablemente se proyectan hacia la oliva superior lateral. 
+
+Tienen unas pocas (1-4) dendritas muy cortas con numerosas ramificaciones pequeñas, que hacen que parezca un "arbusto". 
+
+Las células tupidas tienen propiedades eléctricas especializadas que les permiten transmitir información de sincronización desde el nervio auditivo a áreas más centrales del sistema auditivo. 
+
+Debido a que las células arbustivas reciben información de múltiples fibras nerviosas auditivas que están sintonizadas a frecuencias similares, las células arbustivas pueden mejorar la precisión de la información de sincronización, en esencia, promediando la fluctuación en la sincronización de las entradas. 
+
+Las células tupidas también pueden ser inhibidas por sonidos adyacentes a la frecuencia a la que están sintonizadas, lo que lleva a una sintonización aún más aguda que la que se ve en las fibras nerviosas auditivas.
+
+Estas células suelen estar inervadas solo por unas pocas fibras nerviosas auditivas, que dominan su patrón de activación.
+
+Estas fibras nerviosas aferentes envuelven sus ramas terminales alrededor de todo el soma, creando una gran sinapsis en las células tupidas, llamada "bulbo terminal de Held".
+
+Por lo tanto, el registro de una sola unidad de una neurona tupida estimulada eléctricamente produce de forma característica exactamente un potencial de acción y constituye la respuesta primaria.
+
+Las células estrelladas (también conocidas como células multipolares) tienen dendritas más largas que se encuentran paralelas a los fascículos de las fibras nerviosas auditivas.
+
+También se denominan células chopper, en referencia a su capacidad para disparar un tren de potenciales de acción espaciados regularmente durante la duración de un estímulo tonal o de ruido.
+
+El patrón de corte es intrínseco a la excitabilidad eléctrica de la célula estrellada, y la tasa de disparo depende de la fuerza de la entrada auditiva más que de la frecuencia.
+
+Cada célula estrellada está estrechamente sintonizada y tiene bandas laterales inhibitorias, lo que permite que la población de células estrelladas codifique el espectro de sonidos, mejorando los picos y valles espectrales.
+
+Estas neuronas proporcionan información acústica a la DCN.
+Las células de pulpo se encuentran en una pequeña región del núcleo coclear ventral posterior (PVCN).
+
+Las características distintivas de estas células son sus dendritas largas, gruesas y con forma de tentáculo que normalmente emanan de un lado del cuerpo celular.
+
+Las células de pulpo producen una "respuesta de inicio" a estímulos tonales simples.
+
+Es decir, responden solo al inicio de un estímulo de banda ancha.
+
+Las células del pulpo pueden disparar con una precisión temporal de las más altas de cualquier neurona en el cerebro.
+
+Los estímulos eléctricos al nervio auditivo evocan un potencial postsináptico excitatorio graduado en las células del pulpo.
+
+Estos EPSP son muy breves.
+
+Se cree que las células del pulpo son importantes para extraer información de tiempo.
+
+Se ha informado que estas células pueden responder a trenes de clics a una frecuencia de 800 Hz. Dos tipos de células principales transmiten información desde el núcleo coclear dorsal (DCN) al colículo inferior contralateral.
+
+Las celdas principales reciben dos sistemas de entradas.
+
+La entrada acústica llega a la capa profunda a través de varios caminos.
+
+La entrada acústica excitatoria proviene de las fibras nerviosas auditivas y también de las células estrelladas del VCN. 
+
+La entrada acústica también se transmite a través de interneuronas inhibitorias (células tuberculoventrales de la DCN e "inhibidores de banda ancha" en la VCN). 
+
+A través de la capa molecular más externa, la DCN recibe otros tipos de información sensorial, principalmente información sobre la ubicación de la cabeza y las orejas, a través de fibras paralelas. 
+
+Esta información se distribuye a través de un circuito similar al cerebeloso que también incluye interneuronas inhibidoras. 
+
+Células fusiformes (también conocidas como células piramidales). 
+
+Las células fusiformes integran información a través de dos mechones de dendritas, las dendritas apicales reciben información multisensorial, excitatoria e inhibidora a través de la capa molecular más externa y las dendritas basales reciben información acústica excitadora e inhibidora de las dendritas basales que se extienden hacia la capa profunda.
+
+Se cree que estas neuronas permiten a los mamíferos analizar las señales espectrales que nos permiten localizar los sonidos en altura y cuando perdemos la audición en un oído.
+
+Las células gigantes también integran entradas de las capas molecular y profunda, pero predomina la entrada de la capa profunda.
+
+No está claro cuál es su papel en la audición.
+
+
+== Función ==
+
+El complejo nuclear coclear es la primera etapa integradora o de procesamiento en el sistema auditivo.
+
+La información llega a los núcleos desde la cóclea ipsilateral a través del nervio coclear.
+
+Varias tareas se realizan en los núcleos cocleares. 
+
+Al distribuir la entrada acústica a múltiples tipos de células principales, la vía auditiva se subdivide en vías ascendentes paralelas, que pueden extraer simultáneamente diferentes tipos de información. 
+
+Las células del núcleo coclear ventral extraen información que es transportada por el nervio auditivo en el momento del disparo y en el patrón de activación de la población de fibras nerviosas auditivas. 
+
+Las células del núcleo coclear dorsal realizan un análisis espectral no lineal y ubican ese análisis espectral en el contexto de la ubicación de la cabeza, las orejas y los hombros y separan las señales espectrales esperadas y autogeneradas de las señales espectrales inesperadas más interesantes utilizando entradas de la corteza auditiva, los núcleos pontinos, el ganglio y el núcleo del trigémino, los núcleos de la columna dorsal y el segundo ganglio de la raíz dorsal.
+
+Es probable que estas neuronas ayuden a los mamíferos a usar señales espectrales para orientarse hacia esos sonidos.
+
+La información es utilizada por las regiones superiores del tronco encefálico para lograr otros objetivos computacionales (como la ubicación de la fuente de sonido o la mejora en la relación señal/ruido).
+
+Las entradas de estas otras áreas del cerebro probablemente juegan un papel en la localización del sonido.
+
+Para comprender con más detalle las funciones específicas de los núcleos cocleares, primero es necesario comprender la forma en que las fibras del nervio auditivo representan la información sonora.
+
+Brevemente, hay alrededor de 30.000 fibras nerviosas auditivas en cada uno de los dos nervios auditivos.
+
+Cada fibra es un axón de una célula ganglionar espiral que representa una frecuencia particular de sonido y un rango particular de volumen.
+
+La información en cada fibra nerviosa está representada por la tasa de potenciales de acción, así como por el momento particular de los potenciales de acción individuales.
+
+La fisiología y morfología particular de cada tipo de célula del núcleo coclear mejora diferentes aspectos de la información de sonido.
+
+
+
+https://en.wikipedia.org/wiki/Cochlear_nucleus
+
+;;;FR;;;
+
+
+
+NOYAU COCHLEAIRE
+
+
+Le complexe nucléaire cochléaire (CN) comprend deux noyaux nerveux crâniens dans le tronc cérébral humain, le noyau cochléaire ventral (VCN) et le noyau cochléaire dorsal (DCN). 
+
+Le noyau cochléaire ventral (antérieur) est non stratifié tandis que le noyau cochléaire dorsal est stratifié. 
+
+Fibres nerveuses auditives, fibres qui traversent le nerf auditif (également connu sous le nom de nerf cochléaire ou huitième nerf crânien) transportent des informations de l'oreille interne, la cochlée, du même côté de la tête, à la racine nerveuse du noyau cochléaire ventral . 
+
+Au niveau de la racine nerveuse, les fibres se ramifient pour innerver le noyau cochléaire ventral et la couche profonde du noyau cochléaire dorsal. 
+
+Toutes les informations acoustiques pénètrent ainsi dans le cerveau par les noyaux cochléaires, là où commence le traitement des informations acoustiques. 
+
+Les sorties des noyaux cochléaires sont reçues dans les régions supérieures du tronc cérébral auditif.
+
+
+== Structure ==
+
+Les noyaux cochléaires (CN) sont situés sur le côté dorso-latéral du tronc cérébral, couvrant la jonction du pont et de la moelle.
+
+Le noyau cochléaire ventral (VCN) sur la face ventrale du tronc cérébral, ventrolatéral au pédoncule inférieur.
+
+Le noyau cochléaire dorsal (DCN), également connu sous le nom de tuberculum acusticum ou tubercule acoustique, se courbe sur le VCN et s'enroule autour du pédoncule cérébelleux.
+
+Le VCN est ensuite divisé par la racine nerveuse en noyau cochléaire postéro-ventral (PVCN) et en noyau cochléaire antéro-ventral (AVCN).
+
+
+=== Projections vers les noyaux cochléaires ===
+
+L'apport principal au noyau cochléaire provient du nerf auditif, une partie du nerf crânien VIII (le nerf vestibulocochléaire). 
+
+Les fibres du nerf auditif forment un système de connexions très organisé en fonction de leur innervation périphérique de la cochlée. 
+
+Les axones des cellules du ganglion spiral des fréquences inférieures innervent les parties ventrolatérales du noyau cochléaire ventral et les parties latéro-ventrales du noyau cochléaire dorsal. 
+
+Les axones de l'organe de fréquence plus élevée des cellules ciliées corti se projettent vers la partie dorsale du noyau cochléaire ventral et les parties dorsales-médiales du noyau cochléaire dorsal. 
+
+Les projections de fréquence moyenne se situent entre les deux extrêmes ; ainsi l'organisation tonotopique qui s'établit dans la cochlée est préservée dans les noyaux cochléaires.
+
+Cette organisation tonotopique est préservée car seules quelques cellules ciliées internes se synapsent sur les dendrites d'une cellule nerveuse dans le ganglion spiral, et l'axone de cette cellule nerveuse se synapse sur seulement très peu de dendrites dans le noyau cochléaire. 
+
+Contrairement au VCN qui reçoit toute l'entrée acoustique du nerf auditif, le DCN reçoit non seulement l'entrée du nerf auditif, mais il reçoit également l'entrée acoustique des neurones du VCN (cellules étoilées T). 
+
+Le DCN est donc en quelque sorte un noyau sensoriel de second ordre.
+On a longtemps pensé que les noyaux cochléaires ne recevaient d'entrée que de l'oreille ipsilatérale. 
+
+Il existe cependant des preuves d'une stimulation de l'oreille controlatérale via le CN controlatéral, ainsi que des parties somatosensorielles du cerveau.
+
+
+=== Projections des noyaux cochléaires ===
+
+Il existe trois principaux faisceaux de fibres, les axones des neurones nucléaires cochléaires, qui transportent les informations des noyaux cochléaires vers des cibles situées principalement du côté opposé du cerveau. 
+
+À travers la moelle, une projection va au complexe olivaire supérieur controlatéral (SOC) via le corps trapézoïdal, tandis que l'autre moitié se dirige vers le SOC ipsilatéral.
+
+Cette voie est appelée la strie acoustique ventrale (VAS ou, plus communément, le corps trapézoïdal).
+
+Une autre voie, appelée strie acoustique dorsale (DAS, également connue sous le nom de strie de von Monakow), s'élève au-dessus de la moelle dans le pont où elle frappe les noyaux du lemniscus latéral avec ses parents, la strie acoustique intermédiaire (IAS, également connue sous le nom de strie de Held).
+
+L'IAS décusse à travers la moelle, avant de rejoindre les fibres ascendantes dans le lemnisque latéral controlatéral.
+
+Le lemniscus latéral contient des cellules des noyaux du lemniscus latéral et se projette à son tour vers le colliculus inférieur.
+
+Le colliculus inférieur reçoit des projections monosynaptiques directes du complexe olivaire supérieur, de la strie acoustique dorsale controlatérale, de certaines classes de neurones étoilés du VCN, ainsi que des différents noyaux du lemnisque latéral.
+
+La plupart de ces entrées se terminent dans le colliculus inférieur, bien qu'il existe quelques petites projections qui contournent le colliculus inférieur et se projettent vers le genou médian ou d'autres structures du cerveau antérieur.
+
+Olive supérieure médiale (MSO) via le corps trapézoïdal (TB) - Stimulation ipsilatérale et controlatérale pour les sons à basse fréquence.
+
+Olive supérieure latérale (LSO) directement et via TB - Stimulation ipsilatérale pour les sons à haute fréquence.
+
+Noyau médial du corps trapézoïdal (MNTB) – Stimulation controlatérale.
+Colliculus inférieur – Stimulation controlatérale.
+
+Noyaux périolivaires (PON) - Stimulation ipsilatérale et controlatérale.
+Lemnisque latéral (LL) et noyaux lemniscaux (LN) – Stimulation ipsilatérale et controlatérale.
+
+
+=== Histologie ===
+
+Trois types de cellules principales transmettent des informations hors du noyau cochléaire ventral : les cellules touffues, les cellules étoilées et les cellules de poulpe.
+
+Les cellules touffues se trouvent principalement dans le noyau cochléaire ventral antérieur (AVCN).
+
+Celles-ci peuvent être divisées en grandes cellules touffues sphériques, petites sphériques et globulaires, en fonction de leur apparence et de leur emplacement.
+
+Dans l'AVCN, il y a une zone de grandes cellules sphériques ; caudal à cela sont des cellules sphériques plus petites et des cellules globulaires occupent la région autour de la racine nerveuse.
+
+Une différence importante entre ces sous-types est qu'ils projettent vers des cibles différentes dans le complexe olivaire supérieur.
+
+De grandes cellules touffues sphériques se projettent sur l'olive supérieure médiale ipsilatérale et controlatérale. 
+
+Les cellules touffues globulaires se projettent vers le noyau médial controlatéral du corps trapézoïdal, et de petites cellules touffues sphériques se projettent probablement vers l'olive supérieure latérale. 
+
+Ils ont quelques (1-4) dendrites très courtes avec de nombreuses petites ramifications, ce qui les fait ressembler à un "buisson". 
+
+Les cellules touffues ont des propriétés électriques spécialisées qui leur permettent de transmettre des informations de synchronisation du nerf auditif à des zones plus centrales du système auditif. 
+
+Étant donné que les cellules touffues reçoivent des entrées de plusieurs fibres nerveuses auditives qui sont accordées sur des fréquences similaires, les cellules touffues peuvent améliorer la précision des informations de synchronisation en faisant essentiellement la moyenne de la gigue dans la synchronisation des entrées. 
+
+Les cellules touffues peuvent également être inhibées par les sons adjacents à la fréquence à laquelle elles sont accordées, ce qui conduit à un accord encore plus net que celui observé dans les fibres nerveuses auditives.
+
+Ces cellules ne sont généralement innervées que par quelques fibres nerveuses auditives, qui dominent son schéma de déclenchement.
+
+Ces fibres nerveuses afférentes enroulent leurs branches terminales autour de l'ensemble du soma, créant une grande synapse sur les cellules touffues, appelée « bulbe de Held ».
+
+Par conséquent, un seul enregistrement unitaire d'un neurone touffu stimulé électriquement produit typiquement exactement un potentiel d'action et constitue la réponse primaire.
+
+Les cellules étoilées (alias cellules multipolaires) ont des dendrites plus longues parallèles aux faisceaux de fibres nerveuses auditives.
+
+Elles sont également appelées cellules hacheuses, en référence à leur capacité à déclencher un train de potentiels d'action régulièrement espacés pendant la durée d'un stimulus tonal ou sonore.
+
+Le schéma de hachage est intrinsèque à l'excitabilité électrique de la cellule étoilée, et la cadence de déclenchement dépend de la force de l'entrée auditive plus que de la fréquence.
+
+Chaque cellule étoilée est étroitement réglée et possède des bandes latérales inhibitrices, permettant à la population de cellules étoilées de coder le spectre des sons, améliorant les pics et les creux spectraux.
+
+Ces neurones fournissent une entrée acoustique au DCN.
+Les cellules de poulpe se trouvent dans une petite région du noyau cochléaire ventral postérieur (PVCN).
+
+Les caractéristiques distinctives de ces cellules sont leurs dendrites longues, épaisses et en forme de tentacule qui émanent généralement d'un côté du corps cellulaire.
+
+Les cellules de poulpe produisent une "réponse initiale" à des stimuli tonals simples. 
+
+Autrement dit, ils ne répondent qu'au début d'un stimulus à large bande. 
+
+Les cellules de la pieuvre peuvent se déclencher avec une précision temporelle parmi les plus élevées de tous les neurones du cerveau. 
+
+Les stimuli électriques du nerf auditif évoquent un potentiel post-synaptique excitateur gradué dans les cellules de la pieuvre. 
+
+Ces EPSP sont très succincts. 
+
+On pense que les cellules de poulpe sont importantes pour extraire des informations de synchronisation. 
+
+Il a été rapporté que ces cellules peuvent répondre aux trains de clics à une fréquence de 800 Hz. Deux types de cellules principales transmettent des informations du noyau cochléaire dorsal (DCN) au colliculus inférieur controlatéral. 
+
+Les cellules principales reçoivent deux systèmes d'entrées. 
+
+L'entrée acoustique arrive à la couche profonde par plusieurs chemins. 
+
+L'entrée acoustique excitatrice provient des fibres nerveuses auditives et également des cellules étoilées du VCN. 
+
+L'entrée acoustique est également véhiculée par les interneurones inhibiteurs (cellules tuberculoventrales du DCN et "inhibiteurs à large bande" dans le VCN). 
+
+À travers la couche moléculaire la plus externe, le DCN reçoit d'autres types d'informations sensorielles, notamment des informations sur l'emplacement de la tête et des oreilles, via des fibres parallèles. 
+
+Cette information est distribuée par un circuit de type cérébelleux qui comprend également des interneurones inhibiteurs. 
+
+Cellules fusiformes (également appelées cellules pyramidales). 
+
+Les cellules fusiformes intègrent des informations à travers deux touffes de dendrites, les dendrites apicales recevant une entrée multisensorielle, excitatrice et inhibitrice à travers la couche moléculaire la plus externe et les dendrites basales recevant une entrée acoustique excitatrice et inhibitrice des dendrites basales qui s'étendent dans la couche profonde. 
+
+On pense que ces neurones permettent aux mammifères d'analyser les signaux spectraux qui nous permettent de localiser les sons en élévation et lorsque nous perdons l'ouïe d'une oreille.
+
+Les cellules géantes intègrent également les apports des couches moléculaires et profondes, mais les apports de la couche profonde sont prédominants. 
+
+On ne sait pas quel est leur rôle dans l'audition.
+
+
+== Fonction ==
+
+Le complexe nucléaire cochléaire est la première étape d'intégration ou de traitement dans le système auditif. 
+
+L'information est apportée aux noyaux depuis la cochlée homolatérale via le nerf cochléaire. 
+
+Plusieurs tâches sont effectuées dans les noyaux cochléaires.
+
+En distribuant l'entrée acoustique à plusieurs types de cellules principales, la voie auditive est subdivisée en voies ascendantes parallèles, qui peuvent simultanément extraire différents types d'informations.
+
+Les cellules du noyau cochléaire ventral extraient des informations qui sont portées par le nerf auditif dans le moment du déclenchement et dans le schéma d'activation de la population de fibres nerveuses auditives.
+
+Les cellules du noyau cochléaire dorsal effectuent une analyse spectrale non linéaire et placent cette analyse spectrale dans le contexte de l'emplacement de la tête, des oreilles et des épaules et qui séparent les signaux spectraux attendus et auto-générés des signaux spectraux plus intéressants et inattendus en utilisant entrée du cortex auditif, des noyaux pontiques, du ganglion et du noyau trijumeau, des noyaux de la colonne dorsale et du deuxième ganglion de la racine dorsale. 
+
+Il est probable que ces neurones aident les mammifères à utiliser des signaux spectraux pour s'orienter vers ces sons. 
+
+Les informations sont utilisées par les régions supérieures du tronc cérébral pour atteindre d'autres objectifs de calcul (tels que l'emplacement de la source sonore ou l'amélioration du rapport signal sur bruit). 
+
+Les entrées de ces autres zones du cerveau jouent probablement un rôle dans la localisation des sons.
+
+Afin de comprendre plus en détail les fonctions spécifiques des noyaux cochléaires, il est d'abord nécessaire de comprendre la manière dont les informations sonores sont représentées par les fibres du nerf auditif. 
+
+En bref, il y a environ 30 000 fibres nerveuses auditives dans chacun des deux nerfs auditifs. 
+
+Chaque fibre est un axone d'une cellule ganglionnaire en spirale qui représente une fréquence particulière de son et une gamme particulière d'intensité. 
+
+L'information dans chaque fibre nerveuse est représentée par le taux de potentiels d'action ainsi que le moment particulier des potentiels d'action individuels. 
+
+La physiologie et la morphologie particulières de chaque type de cellule du noyau cochléaire améliorent différents aspects de l'information sonore.
+
+
+
+https://en.wikipedia.org/wiki/Cochlear_nucleus
+
+;;;PT;;;
+
+
+
+NÚCLEO COCLEAR
+
+
+O complexo nuclear coclear (NC) compreende dois núcleos de nervos cranianos no tronco cerebral humano, o núcleo coclear ventral (VCN) e o núcleo coclear dorsal (DCN). 
+
+O núcleo coclear ventral (anterior) é sem camadas, enquanto o núcleo coclear dorsal é estratificado. 
+
+Fibras do nervo auditivo, fibras que viajam através do nervo auditivo (também conhecido como nervo coclear ou oitavo nervo craniano) transportam informações do ouvido interno, a cóclea, no mesmo lado da cabeça, para a raiz nervosa no núcleo coclear ventral .
+
+Na raiz nervosa, as fibras se ramificam para inervar o núcleo coclear ventral e a camada profunda do núcleo coclear dorsal.
+
+Toda a informação acústica entra assim no cérebro através dos núcleos cocleares, onde começa o processamento da informação acústica.
+
+As saídas dos núcleos cocleares são recebidas em regiões superiores do tronco encefálico auditivo.
+
+
+== Estrutura ==
+
+Os núcleos cocleares (NC) estão localizados no lado dorso-lateral do tronco encefálico, abrangendo a junção da ponte e da medula.
+
+O núcleo coclear ventral (VCN) na face ventral do tronco encefálico, ventrolateral ao pedúnculo inferior.
+
+O núcleo coclear dorsal (NCD), também conhecido como tuberculum acusticum ou tubérculo acústico, curva-se sobre o VCN e envolve o pedúnculo cerebelar.
+
+O VCN é ainda dividido pela raiz nervosa no núcleo coclear posteroventral (PVCN) e no núcleo coclear anteroventral (AVCN).
+
+
+=== Projeções para os núcleos cocleares ===
+
+A principal entrada para o núcleo coclear é do nervo auditivo, uma parte do nervo craniano VIII (o nervo vestibulococlear). 
+
+As fibras do nervo auditivo formam um sistema altamente organizado de conexões de acordo com sua inervação periférica da cóclea. 
+
+Os axônios das células ganglionares espirais das frequências mais baixas inervam as porções ventrolaterais do núcleo coclear ventral e as porções ventrais laterais do núcleo coclear dorsal.
+
+Os axônios do órgão de maior frequência das células ciliadas de corti projetam-se para a porção dorsal do núcleo coclear ventral e para as porções dorso-mediais do núcleo coclear dorsal.
+
+As projeções de frequência média terminam entre os dois extremos; desta forma a organização tonotópica que se estabelece na cóclea é preservada nos núcleos cocleares.
+
+Essa organização tonotópica é preservada porque apenas algumas células ciliadas internas fazem sinapse com os dendritos de uma célula nervosa no gânglio espiral, e o axônio dessa célula nervosa faz sinapse com apenas alguns dendritos no núcleo coclear.
+
+Em contraste com a VCN que recebe todas as informações acústicas do nervo auditivo, a DCN recebe informações não apenas do nervo auditivo, mas também recebe informações acústicas dos neurônios da VCN (células T estreladas).
+
+O DCN é, portanto, em certo sentido, um núcleo sensorial de segunda ordem.
+Há muito se pensa que os núcleos cocleares recebem informações apenas da orelha ipsilateral.
+
+Há evidências, no entanto, de estimulação da orelha contralateral através do NC contralateral, e também das partes somatossensoriais do cérebro.
+
+
+=== Projeções dos núcleos cocleares ===
+
+Existem três feixes de fibras principais, axônios de neurônios nucleares cocleares, que transportam informações dos núcleos cocleares para alvos que estão principalmente no lado oposto do cérebro.
+
+Através da medula, uma projeção vai para o complexo olivar superior (SOC) contralateral através do corpo trapezóide, enquanto a outra metade vai para o SOC ipsilateral.
+
+Essa via é chamada de estria acústica ventral (VAS ou, mais comumente, corpo trapezóide).
+
+Outra via, chamada de estria acústica dorsal (DAS, também conhecida como estria de von Monakow), eleva-se acima da medula para a ponte, onde atinge os núcleos do lemnisco lateral junto com seus parentes, a estria acústica intermediária (IAS, também conhecida como estria de Held).
+
+O IAS decussa através da medula, antes de se juntar às fibras ascendentes no lemnisco lateral contralateral.
+
+O lemnisco lateral contém células dos núcleos do lemnisco lateral e, por sua vez, projeta-se para o colículo inferior.
+
+O colículo inferior recebe projeções monossinápticas diretas do complexo olivar superior, da estria acústica dorsal contralateral, de algumas classes de neurônios estrelados do NCV, bem como dos diferentes núcleos do lemnisco lateral.
+
+A maioria dessas entradas termina no colículo inferior, embora existam algumas pequenas projeções que contornam o colículo inferior e se projetam para o geniculado medial ou outras estruturas do prosencéfalo.
+
+Olival superior medial (MSO) via corpo trapezoidal (TB) – Estimulação ipsilateral e contralateral para sons de baixa frequência.
+
+Lateral superior oliva (LSO) diretamente e via TB – Estimulação ipsilateral para sons de alta frequência.
+
+Núcleo medial do corpo trapezóide (MNTB) – Estimulação contralateral.
+Colículo inferior – Estimulação contralateral.
+
+Núcleos periolivar (PON) – Estimulação ipsilateral e contralateral.
+Lemnisco lateral (LL) e núcleos lemniscais (LN) – Estimulação ipsilateral e contralateral.
+
+
+=== Histologia ===
+
+Três tipos de células principais transmitem informações do núcleo coclear ventral: células espessas, células estreladas e células de polvo.
+
+As células espessas são encontradas principalmente no núcleo coclear ventral anterior (AVCN). 
+
+Estas podem ser divididas em grandes células esféricas, pequenas esféricas e globulares, dependendo de sua aparência e também de sua localização. 
+
+Dentro do AVCN existe uma área de grandes células esféricas; caudal a isso estão as células esféricas menores, e as células globulares ocupam a região ao redor da raiz nervosa.
+
+Uma diferença importante entre esses subtipos é que eles se projetam para diferentes alvos no complexo olivar superior. 
+
+Grandes células esféricas e espessas projetam-se para a oliva superior medial ipsilateral e contralateral.
+
+Células espessas globulares projetam-se para o núcleo medial contralateral do corpo trapezóide, e pequenas células espessas esféricas provavelmente se projetam para a oliva superior lateral.
+
+Eles têm alguns (1-4) dendritos muito curtos com numerosas pequenas ramificações, que fazem com que pareça um “arbusto”.
+
+As células espessas têm propriedades elétricas especializadas que lhes permitem transmitir informações de tempo do nervo auditivo para áreas mais centrais do sistema auditivo.
+
+Como as células espessas recebem informações de várias fibras nervosas auditivas que são sintonizadas em frequências semelhantes, as células espessas podem melhorar a precisão das informações de tempo, em essência, calculando a média do jitter no tempo das entradas.
+
+Células espessas também podem ser inibidas por sons adjacentes à frequência em que estão sintonizadas, levando a uma sintonização ainda mais nítida do que a observada nas fibras nervosas auditivas. 
+
+Essas células geralmente são inervadas apenas por algumas fibras nervosas auditivas, que dominam seu padrão de disparo. 
+
+Essas fibras nervosas aferentes envolvem seus ramos terminais ao redor de todo o soma, criando uma grande sinapse nas células espessas, chamada de "bulbo terminal de Held". 
+
+Portanto, uma única unidade de registro de um neurônio denso eletricamente estimulado caracteristicamente produz exatamente um potencial de ação e constitui a resposta primária.
+
+As células estreladas (também conhecidas como células multipolares) têm dendritos mais longos que se encontram paralelos aos fascículos das fibras do nervo auditivo. 
+
+Eles também são chamados de células chopper, em referência à sua capacidade de disparar um trem regularmente espaçado de potenciais de ação durante a duração de um estímulo tonal ou de ruído. 
+
+O padrão de corte é intrínseco à excitabilidade elétrica da célula estrelada, e a taxa de disparo depende mais da força da entrada auditiva do que da frequência. 
+
+Cada célula estrelada é estreitamente sintonizada e possui bandas laterais inibitórias, permitindo que a população de células estreladas codifique o espectro de sons, aprimorando picos e vales espectrais. 
+
+Esses neurônios fornecem entrada acústica para o DCN.
+As células do polvo são encontradas em uma pequena região do núcleo coclear ventral posterior (PVCN). 
+
+As características distintivas dessas células são seus dendritos longos, grossos e em forma de tentáculo que normalmente emanam de um lado do corpo celular. 
+
+As células do polvo produzem uma "resposta de início" a estímulos tonais simples.
+
+Ou seja, eles respondem apenas no início de um estímulo de banda larga.
+
+As células do polvo podem disparar com a mais alta precisão temporal de qualquer neurônio no cérebro.
+
+Estímulos elétricos para o nervo auditivo evocam um potencial pós-sináptico excitatório graduado nas células do polvo.
+
+Esses EPSPs são muito breves.
+
+Acredita-se que as células do polvo sejam importantes para extrair informações de tempo.
+
+Foi relatado que essas células podem responder a sequências de cliques a uma taxa de 800 Hz. Dois tipos de células principais transmitem informações do núcleo coclear dorsal (DCN) para o colículo inferior contralateral.
+
+As células principais recebem dois sistemas de entradas.
+
+A entrada acústica chega à camada profunda através de vários caminhos.
+
+A entrada acústica excitatória vem das fibras do nervo auditivo e também das células estreladas da VCN.
+
+A entrada acústica também é transmitida através de interneurônios inibitórios (células tuberculoventrais do DCN e "inibidores de banda larga" no VCN).
+
+Através da camada molecular mais externa, o DCN recebe outros tipos de informações sensoriais, principalmente informações sobre a localização da cabeça e das orelhas, por meio de fibras paralelas.
+
+Esta informação é distribuída através de um circuito cerebelar que também inclui interneurônios inibitórios.
+
+Células fusiformes (também conhecidas como células piramidais).
+
+As células fusiformes integram informações através de dois tufos de dendritos, os dendritos apicais recebendo estímulos multissensoriais, excitatórios e inibitórios através da camada molecular mais externa e os dendritos basais recebendo estímulos acústicos excitatórios e inibitórios dos dendritos basais que se estendem até a camada profunda.
+
+Acredita-se que esses neurônios permitem que os mamíferos analisem as pistas espectrais que nos permitem localizar sons em elevação e quando perdemos a audição em um ouvido.
+
+As células gigantes também integram entradas das camadas molecular e profunda, mas a entrada da camada profunda é predominante.
+
+Não está claro qual é o seu papel na audição.
+
+
+== Função ==
+
+O complexo nuclear coclear é o primeiro estágio integrador ou de processamento no sistema auditivo.
+
+A informação é trazida para os núcleos da cóclea ipsilateral através do nervo coclear.
+
+Várias tarefas são realizadas nos núcleos cocleares.
+
+Ao distribuir a entrada acústica para vários tipos de células principais, a via auditiva é subdividida em vias ascendentes paralelas, que podem extrair simultaneamente diferentes tipos de informação.
+
+As células do núcleo coclear ventral extraem informações que são transportadas pelo nervo auditivo no momento do disparo e no padrão de ativação da população de fibras do nervo auditivo.
+
+As células do núcleo coclear dorsal realizam uma análise espectral não linear e colocam essa análise espectral no contexto da localização da cabeça, orelhas e ombros e que separam pistas espectrais esperadas e autogeradas de pistas espectrais mais interessantes e inesperadas usando entrada do córtex auditivo, núcleos pontinos, gânglio e núcleo do trigêmeo, núcleos da coluna dorsal e o segundo gânglio da raiz dorsal. 
+
+É provável que esses neurônios ajudem os mamíferos a usar pistas espectrais para se orientar em direção a esses sons. 
+
+A informação é usada por regiões superiores do tronco cerebral para alcançar objetivos computacionais adicionais (como localização da fonte sonora ou melhoria na relação sinal/ruído). 
+
+As entradas dessas outras áreas do cérebro provavelmente desempenham um papel na localização do som.
+
+Para entender com mais detalhes as funções específicas dos núcleos cocleares é necessário primeiro entender a forma como a informação sonora é representada pelas fibras do nervo auditivo. 
+
+Resumidamente, existem cerca de 30.000 fibras nervosas auditivas em cada um dos dois nervos auditivos. 
+
+Cada fibra é um axônio de uma célula ganglionar espiral que representa uma frequência específica de som e uma faixa específica de intensidade. 
+
+As informações em cada fibra nervosa são representadas pela taxa de potenciais de ação, bem como pelo momento específico dos potenciais de ação individuais. 
+
+A fisiologia e a morfologia particulares de cada tipo de célula do núcleo coclear aprimoram diferentes aspectos da informação sonora.
+
+
+
+https://en.wikipedia.org/wiki/Cochlear_nucleus

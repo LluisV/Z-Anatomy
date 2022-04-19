@@ -1,0 +1,36 @@
+STERNUM
+    MANUBRIUM OF STERNUM
+        ...
+    Sternal angle
+    Body of sternum
+    Xyphoid process
+    Costal notches
+;;;ES;;;
+
+ESTERNÓN
+MANUBRIO DEL ESTERNO
+...
+Ángulo esternal
+cuerpo de esternón
+proceso xifoides
+muescas costales
+
+;;;FR;;;
+
+STERNUM
+MANUBRIUM DU STERNUM
+...
+Angle droit
+Corps du sternum
+Processus xyphoïde
+Encoches côtières
+
+;;;PT;;;
+
+ESTERNO
+ MANÚBRIO DO ESTERNO
+ ...
+ Ângulo esternal
+ Corpo do esterno
+ Processo xifóide
+ entalhes costais

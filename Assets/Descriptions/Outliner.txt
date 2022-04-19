@@ -1,0 +1,72 @@
+
+
+OUTLINER
+                    
+                    
+Press '+' or '-'
+    to develop or collapse all
+    
+Press the arrows 
+    to navigate and develop/collapse each line
+    
+Press the eye icon
+    to show/hide the underlying visible collection
+    
+Press 'Shift + the eye icon'
+    to show/hide all the objects inside a collection
+;;;ES;;;
+
+
+
+ESQUEMA
+ 
+ 
+Presione '+' o '-'
+desarrollar o colapsar todo
+ 
+Presiona las flechas
+para navegar y desarrollar/contraer cada línea
+ 
+Presiona el ícono del ojo
+para mostrar/ocultar la colección visible subyacente
+ 
+Presiona 'Shift + el ícono del ojo'
+para mostrar/ocultar todos los objetos dentro de una colección
+
+;;;FR;;;
+
+
+
+CONTOUR
+ 
+ 
+Appuyez sur '+' ou '-'
+développer ou effondrer tout
+ 
+Appuyez sur les flèches
+pour naviguer et développer/réduire chaque ligne
+ 
+Appuyez sur l'icône de l'œil
+pour afficher/masquer la collection visible sous-jacente
+ 
+Appuyez sur 'Maj + l'icône en forme d'œil'
+pour afficher/masquer tous les objets d'une collection
+
+;;;PT;;;
+
+
+
+ESBOÇO
+ 
+ 
+Pressione '+' ou '-'
+ desenvolver ou desmoronar todos
+ 
+Pressione as setas 
+ para navegar e desenvolver/recolher cada linha
+ 
+Pressione o ícone do olho
+ para mostrar/ocultar a coleção visível subjacente
+ 
+Pressione 'Shift + o ícone do olho'
+ para mostrar/ocultar todos os objetos dentro de uma coleção

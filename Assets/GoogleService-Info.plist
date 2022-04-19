@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>410270737457-b9b4vqapi32dhbuufs3th5g56411k3bv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.410270737457-b9b4vqapi32dhbuufs3th5g56411k3bv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA2J31F2CTjrvx4MgldvLw52DQ3KgoLCaI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>410270737457</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.LluisVinent.Z-Anatomy</string>
+	<key>PROJECT_ID</key>
+	<string>z-anatomy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>z-anatomy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:410270737457:ios:d133f9af0b5e0c407aa110</string>
+</dict>
+</plist>

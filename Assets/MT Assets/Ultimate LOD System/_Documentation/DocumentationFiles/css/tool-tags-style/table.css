@@ -1,0 +1,46 @@
+.toolTagTable{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+    border-collapse: separate;
+    border-color:rgb(239, 239, 239);
+    border-spacing: 0px;
+    border-width: 1px;
+    width: calc(100%  + 2px);
+    margin-left: 0px;
+    margin-right: 0px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+.toolTagTable{
+    font-size: 13px;
+}
+.toolTagTable td, th{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.toolTagTable tr:nth-child(odd){
+    background-color: rgba(236, 236, 236, 0.152);
+    transition: all 250ms;
+}
+.toolTagTable tr:hover{
+    background-color: #ecf3ff;
+}
+.toolTagTable td{
+    padding: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.toolTagTable td:hover{
+    cursor: text;
+}
+.toolTagTable th {
+    padding: 10px;
+    border-bottom-width: 2px;
+    font-weight: bolder;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: left;
+    background-color: rgb(239, 239, 239);
+}

@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 513c1763d9238ba499eb3007438cdefa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fabric01
+    100004: fabric02
+    100006: fabric03
+    100008: fabric04
+    100010: fabric05
+    100012: fabric06
+    100014: fabric07
+    100016: fabric08
+    100018: fabric09
+    100020: fabric10
+    100022: fabric11
+    400000: //RootNode
+    400002: fabric01
+    400004: fabric02
+    400006: fabric03
+    400008: fabric04
+    400010: fabric05
+    400012: fabric06
+    400014: fabric07
+    400016: fabric08
+    400018: fabric09
+    400020: fabric10
+    400022: fabric11
+    2100000: fabric03
+    2100002: fabric06
+    2100004: fabric02
+    2100006: fabric05
+    2100008: fabric04
+    2100010: fabric01
+    2300000: fabric01
+    2300002: fabric02
+    2300004: fabric03
+    2300006: fabric04
+    2300008: fabric05
+    2300010: fabric06
+    2300012: fabric07
+    2300014: fabric08
+    2300016: fabric09
+    2300018: fabric10
+    2300020: fabric11
+    3300000: fabric01
+    3300002: fabric02
+    3300004: fabric03
+    3300006: fabric04
+    3300008: fabric05
+    3300010: fabric06
+    3300012: fabric07
+    3300014: fabric08
+    3300016: fabric09
+    3300018: fabric10
+    3300020: fabric11
+    4300000: fabric01
+    4300002: fabric10
+    4300004: fabric03
+    4300006: fabric04
+    4300008: fabric05
+    4300010: fabric06
+    4300012: fabric07
+    4300014: fabric08
+    4300016: fabric09
+    4300018: fabric11
+    4300020: fabric02
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric01
+    second: {fileID: 2100000, guid: 1a57c7f7b909eca41985c5fecd66f7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric02
+    second: {fileID: 2100000, guid: ebd386b0d410cdd4cb7f81a3f3c2b6fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric03
+    second: {fileID: 2100000, guid: e33616e1c88b67941bd9c5d774fb7168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric04
+    second: {fileID: 2100000, guid: 0b7200db547609c42b440b5f0af4bda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric05
+    second: {fileID: 2100000, guid: 1377ddd60ba0b414ea426db663e486ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fabric06
+    second: {fileID: 2100000, guid: 51218e4a72c4a7441b374f70724eb06c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,136 @@
+OCCIPITAL BONE
+    Foramen magnum
+    Basilar part of occipital bone
+        Pharyngeal tubercle
+    Lateral part of occipital bone
+        Occipital condyle
+        Condylar canal
+        Hypoglossal canal
+        Condylar fossa
+        Jugular tubercle
+        Jugular notch of occipital bone
+        Jugular process
+        Intrajugular process of occipital bone
+    Squamous part of occipital bone
+        Mastoid border of occipital bone
+        Lambdoidal border of occipital bone
+        External occipital protuberance
+        External occipital crest
+        Supreme nuchal line
+        Superior nuchal line
+        Inferior nuchal line
+        Occipital plane
+        Cruciform eminence
+        Internal occipital protuberance
+        Internal occipital crest
+        Groove for transverse sinus
+        Groove for occipital sinus
+        Groove for marginal sinus
+        Paramastoid process
+        Cerebral fossa
+        Cerebellar fossa
+        Vermian fossa
+;;;ES;;;
+
+HUESO OCCIPITAL
+ agujero magno
+ Parte basilar del hueso occipital
+ tubérculo faríngeo
+ Parte lateral del hueso occipital
+ Cóndilo occipital
+ canal condilar
+ canal hipogloso
+ fosa condilar
+ tubérculo yugular
+ muesca yugular del hueso occipital
+ proceso yugular
+ Proceso intrayugular del hueso occipital
+ Parte escamosa del hueso occipital
+ Borde mastoideo del hueso occipital
+ Borde lambdoidal del hueso occipital
+ Protuberancia occipital externa
+ Cresta occipital externa
+ línea nucal suprema
+ Línea nucal superior
+ Línea nucal inferior
+ plano occipital
+ eminencia cruciforme
+ Protuberancia occipital interna
+ Cresta occipital interna
+ Ranura para seno transverso
+ Ranura para seno occipital
+ Surco para seno marginal
+ proceso paramastoideo
+ fosa cerebral
+ fosa cerebelosa
+ fosa vermiana
+
+;;;FR;;;
+
+OS OCCIPITAL
+ Foramen magnum
+ Partie basilaire de l'os occipital
+ Tubercule pharyngé
+ Partie latérale de l'os occipital
+ Condyle occipital
+ Canal condylien
+ Canal hypoglosse
+ Fosse condylienne
+ Tubercule jugulaire
+ Encoche jugulaire de l'os occipital
+ Processus jugulaire
+ Processus intrajugulaire de l'os occipital
+ Partie squameuse de l'os occipital
+ Bord mastoïdien de l'os occipital
+ Bord lambdoïdal de l'os occipital
+ Protubérance occipitale externe
+ Crête occipitale externe
+ Ligne nucale suprême
+ Ligne nucale supérieure
+ Ligne nucale inférieure
+ Plan occipital
+ Éminence cruciforme
+ Protubérance occipitale interne
+ Crête occipitale interne
+ Rainure pour sinus transverse
+ Rainure pour sinus occipital
+ Rainure pour sinus marginal
+ Processus paramastoïdien
+ Fosse cérébrale
+ Fosse cérébelleuse
+ Fosse vermienne
+
+;;;PT;;;
+
+OSSO OCCIPITAL
+ Forame magno
+ Parte basilar do osso occipital
+ Tubérculo faríngeo
+ Parte lateral do osso occipital
+ Côndilo occipital
+ Canal condilar
+ Canal hipoglosso
+ fossa condilar
+ Tubérculo jugular
+ Incisura jugular do osso occipital
+ Processo jugular
+ Processo intrajugular do osso occipital
+ Parte escamosa do osso occipital
+ Borda mastóide do osso occipital
+ Borda lambdoidal do osso occipital
+ Protuberância occipital externa
+ Crista occipital externa
+ linha nucal suprema
+ Linha nucal superior
+ linha nucal inferior
+ Plano occipital
+ eminência cruciforme
+ Protuberância occipital interna
+ Crista occipital interna
+ Sulco para seio transverso
+ Sulco para o seio occipital
+ Sulco para seio marginal
+ Processo paramastóide
+ Fossa cerebral
+ fossa cerebelar
+ fossa vermiana

@@ -1,0 +1,64 @@
+.toolTagCodeContainer{
+    display: grid;
+    grid-template-rows: auto auto;
+    background-color: rgb(239, 239, 239);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 4px;
+    transition: all 250ms;
+}
+.toolTagCodeContent{
+    width: 92%;
+    max-width: calc(640px - 22px);
+    margin-top: 8px;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    overflow-x: scroll;
+    transition: all 250ms;
+    transition-delay: 300ms;
+}
+.toolTagCodeContent:hover{
+    max-width: 92%;
+}
+.toolTagCodeContent::-webkit-scrollbar {
+    height: 8px;
+    border-radius: 4px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.toolTagCodeContent::-webkit-scrollbar-track {
+    background-color: #00000000;
+    border-radius: 4px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.toolTagCodeContent::-webkit-scrollbar-thumb {
+    background: #00000061;
+    border-radius: 4px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.toolTagCodeContent::-webkit-scrollbar-thumb:hover {
+    background: #00000061;
+    border-radius: 4px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    cursor: pointer;
+}
+.toolTagCodeTitle{
+    font-style: italic;
+    color: rgb(121, 121, 121);
+    font-family: Helvetica, sans-seri;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    margin-top: -6px;
+    margin-bottom: 6px;
+}
+.toolTagCodeComment{
+    text-align: center;
+    font-style: italic;
+    color: rgb(121, 121, 121);
+}

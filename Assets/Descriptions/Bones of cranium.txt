@@ -1,0 +1,84 @@
+
+
+BONES OF CRANIUM
+
+    -Parietal bones (2)
+    -Frontal bone
+    -Occipital bone
+    -Sphenoid bone
+    -Temporal bone (2)
+    -Ethmoid bone
+    -Inferior nasal concha bone (2)
+    -Lacrimal bone (2)
+    -Nasal bone (2)
+    -Vomer
+    -Maxilla (2)
+    -Palatine bone (2)
+    -Zygomatic bone (2)
+
+Total: 21 bones
+;;;ES;;;
+
+
+
+HUESOS DEL CRÁNEO
+
+-Huesos parietales (2)
+-Hueso frontal
+-Hueso occipital
+-Hueso esfenoide
+-Hueso temporal (2)
+-Hueso etmoidal
+-Concha nasal inferior (2)
+-Hueso lagrimal (2)
+-Hueso nasal (2)
+-Vomer
+-Maxilar (2)
+-Hueso palatino (2)
+-Hueso cigomático (2)
+
+Total: 21 huesos
+
+;;;FR;;;
+
+
+
+OS DU CRANE
+
+-Os pariétaux (2)
+- Os frontal
+-Os occipital
+-L'os sphénoïde
+-Os temporal (2)
+-Os ethmoïde
+- Os de la conque nasale inférieure (2)
+-Os lacrymal (2)
+-Os nasal (2)
+-Vomer
+-Maxillaire (2)
+-Os palatin (2)
+-Os zygomatique (2)
+
+Total : 21 os
+
+;;;PT;;;
+
+
+
+OSSOS DO CRÂNIO
+
+-Ossos parietais (2)
+-Osso frontal
+-Osso occipital
+-Osso esfenóide
+-Osso temporal (2)
+-Osso etmóide
+-Osso da concha nasal inferior (2)
+ -Osso lacrimal (2)
+ -Osso nasal (2)
+ -Vômer
+ -Maxila (2)
+ -Osso palatino (2)
+ -Osso zigomático (2)
+
+Total: 21 ossos

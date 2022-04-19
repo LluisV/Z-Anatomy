@@ -1,0 +1,1992 @@
+
+
+RETINA
+
+
+The retina (from Latin: rete "net") is the innermost, light-sensitive layer of tissue of the eye of most vertebrates and some molluscs. 
+
+The optics of the eye create a focused two-dimensional image of the visual world on the retina, which translates that image into electrical neural impulses to the brain to create visual perception. 
+
+The retina serves a function analogous to that of the film or image sensor in a camera.
+
+The neural retina consists of several layers of neurons interconnected by synapses and is supported by an outer layer of pigmented epithelial cells. 
+
+The primary light-sensing cells in the retina are the photoreceptor cells, which are of two types: rods and cones. 
+
+Rods function mainly in dim light and provide black-and-white vision. 
+
+Cones function in well-lit conditions and are responsible for the perception of colour, as well as high-acuity vision used for tasks such as reading. 
+
+A third type of light-sensing cell, the photosensitive ganglion cell, is important for entrainment of circadian rhythms and reflexive responses such as the pupillary light reflex.
+
+Light striking the retina initiates a cascade of chemical and electrical events that ultimately trigger nerve impulses that are sent to various visual centres of the brain through the fibres of the optic nerve. 
+
+Neural signals from the rods and cones undergo processing by other neurons, whose output takes the form of action potentials in retinal ganglion cells whose axons form the optic nerve. 
+
+Several important features of visual perception can be traced to the retinal encoding and processing of light.
+
+In vertebrate embryonic development, the retina and the optic nerve originate as outgrowths of the developing brain, specifically the embryonic diencephalon; thus, the retina is considered part of the central nervous system (CNS) and is actually brain tissue. 
+
+It is the only part of the CNS that can be visualized non-invasively.
+
+
+== Structure ==
+
+
+
+=== Inverted versus non-inverted retina ===
+
+The vertebrate retina is inverted in the sense that the light sensing cells are in back of the retina, so that light has to pass through layers of neurons and capillaries before it reaches the rods and cones. 
+
+The ganglion cells, whose axons form the optic nerve, are at the front of the retina; therefore the optic nerve must cross through the retina en route to the brain. 
+
+In this region there are no photoreceptors, giving rise to the blind spot. 
+
+In contrast, in the cephalopod retina the photoreceptors are in front, with processing neurons and capillaries behind them. 
+
+Because of this, cephalopods do not have a blind spot.
+Although the overlying neural tissue is partly transparent, and the accompanying glial cells have been shown to act as fibre-optic channels to transport photons directly to the photoreceptors, light scattering does occur. 
+
+Some vertebrates, including humans, have an area of the central retina adapted for high-acuity vision. 
+
+This area, termed the fovea centralis, is avascular (does not have blood vessels), and has minimal neural tissue in front of the photoreceptors, thereby minimizing light scattering.The cephalopods have a non-inverted retina which is comparable in resolving power to the eyes of many vertebrates. 
+
+Squid eyes do not have an analog of the vertebrate retinal pigment epithelium (RPE). 
+
+Although their photoreceptors contain a protein, retinochrome, that recycles retinal and replicates one of the functions of the vertebrate RPE, one could argue that cephalopod photoreceptors are not maintained as well as in vertebrates and that, as a result, the useful lifetime of photoreceptors in invertebrates is much shorter than in vertebrates. 
+
+Having easily replaced stalk-eyes (some lobsters) or retinae (some spiders, such as Deinopis) rarely occurs.
+The cephalopod retina does not originate as an outgrowth of the brain, as the vertebrate one does. 
+
+It is arguable that this difference shows that vertebrate and cephalopod eyes are not homologous but have evolved separately. 
+
+From an evolutionary perspective, a more complex structure such as the inverted retina can generally come about as a consequence of two alternate processes: (a) an advantageous "good" compromise between competing functional limitations, or (b) as a historical maladaptive relic of the convoluted path of organ evolution and transformation. 
+
+Vision is an important adaptation in higher vertebrates.
+A third view of the "inverted" vertebrate eye is that it combines two benefits: the maintenance of the photoreceptors mentioned above, and the reduction in light intensity necessary to avoid blinding the photoreceptors, which are based on the extremely sensitive eyes of the ancestors of modern hagfishes (a fish that lives in very deep, dark water).
+
+
+=== Retinal layers ===
+
+
+The vertebrate retina has ten distinct layers. 
+
+From closest to farthest from the vitreous body:
+
+Inner limiting membrane – basement membrane elaborated by Müller cells.
+Nerve fibre layer – axons of the ganglion cell bodies (note that a thin layer of Müller cell footplates exists between this layer and the inner limiting membrane).
+Ganglion cell layer – contains nuclei of ganglion cells, the axons of which become the optic nerve fibres, and some displaced amacrine cells.
+Inner plexiform layer – contains the synapse between the bipolar cell axons and the dendrites of the ganglion and amacrine cells.
+Inner nuclear layer – contains the nuclei and surrounding cell bodies (perikarya) of the amacrine cells, bipolar cells, and horizontal cells.
+Outer plexiform layer – projections of rods and cones ending in the rod spherule and cone pedicle, respectively. 
+
+These make synapses with dendrites of bipolar cells and horizontal cells. 
+
+In the macular region, this is known as the Fiber layer of Henle.
+Outer nuclear layer – cell bodies of rods and cones.
+External limiting membrane – layer that separates the inner segment portions of the photoreceptors from their cell nuclei.
+Inner segment / outer segment layer – inner segments and outer segments of rods and cones. 
+
+The outer segments contain a highly specialized light-sensing apparatus.
+Retinal pigment epithelium – single layer of cuboidal epithelial cells (with extrusions not shown in diagram). 
+
+This layer is closest to the choroid, and provides nourishment and supportive functions to the neural retina, The black pigment melanin in the pigment layer prevents light reflection throughout the globe of the eyeball; this is extremely important for clear vision.These layers can be grouped into 4 main processing stages: photoreception; transmission to bipolar cells; transmission to ganglion cells, which also contain photoreceptors, the photosensitive ganglion cells; and transmission along the optic nerve. 
+
+At each synaptic stage there are also laterally connecting horizontal and amacrine cells.
+The optic nerve is a central tract of many axons of ganglion cells connecting primarily to the lateral geniculate body, a visual relay station in the diencephalon (the rear of the forebrain). 
+
+It also projects to the superior colliculus, the suprachiasmatic nucleus, and the nucleus of the optic tract. 
+
+It passes through the other layers, creating the optic disc in primates.Additional structures, not directly associated with vision, are found as outgrowths of the retina in some vertebrate groups. 
+
+In birds, the pecten is a vascular structure of complex shape that projects from the retina into the vitreous humour; it supplies oxygen and nutrients to the eye, and may also aid in vision. 
+
+Reptiles have a similar, but much simpler, structure.In adult humans, the entire retina is approximately 72% of a sphere about 22 mm in diameter. 
+
+The entire retina contains about 7 million cones and 75 to 150 million rods. 
+
+The optic disc, a part of the retina sometimes called "the blind spot" because it lacks photoreceptors, is located at the optic papilla, where the optic-nerve fibres leave the eye. 
+
+It appears as an oval white area of 3 mm². 
+
+Temporal (in the direction of the temples) to this disc is the macula, at whose centre is the fovea, a pit that is responsible for our sharp central vision but is actually less sensitive to light because of its lack of rods. 
+
+Human and non-human primates possess one fovea, as opposed to certain bird species, such as hawks, who are bifoviate, and dogs and cats, who possess no fovea but a central band known as the visual streak. 
+
+Around the fovea extends the central retina for about 6 mm and then the peripheral retina. 
+
+The farthest edge of the retina is defined by the ora serrata. 
+
+The distance from one ora to the other (or macula), the most sensitive area along the horizontal meridian is about 32 mm.In section, the retina is no more than 0.5 mm thick. 
+
+It has three layers of nerve cells and two of synapses, including the unique ribbon synapse. 
+
+The optic nerve carries the ganglion cell axons to the brain, and the blood vessels that supply the retina. 
+
+The ganglion cells lie innermost in the eye while the photoreceptive cells lie beyond. 
+
+Because of this counter-intuitive arrangement, light must first pass through and around the ganglion cells and through the thickness of the retina, (including its capillary vessels, not shown) before reaching the rods and cones. 
+
+Light is absorbed by the retinal pigment epithelium or the choroid (both of which are opaque).
+The white blood cells in the capillaries in front of the photoreceptors can be perceived as tiny bright moving dots when looking into blue light. 
+
+This is known as the blue field entoptic phenomenon (or Scheerer's phenomenon).
+Between the ganglion cell layer and the rods and cones there are two layers of neuropils where synaptic contacts are made. 
+
+The neuropil layers are the outer plexiform layer and the inner plexiform layer. 
+
+In the outer neuropil layer, the rods and cones connect to the vertically running bipolar cells, and the horizontally oriented horizontal cells connect to ganglion cells.
+The central retina predominantly contains cones, while the peripheral retina predominantly contains rods. 
+
+In total, there are about seven million cones and a hundred million rods. 
+
+At the centre of the macula is the foveal pit where the cones are narrow and long, and, arranged in a hexagonal mosaic, the most dense, in contradistinction to the much fatter cones located more peripherally in the retina. 
+
+At the foveal pit the other retinal layers are displaced, before building up along the foveal slope until the rim of the fovea, or parafovea, is reached, which is the thickest portion of the retina. 
+
+The macula has a yellow pigmentation, from screening pigments, and is known as the macula lutea. 
+
+The area directly surrounding the fovea has the highest density of rods converging on single bipolar cells. 
+
+Since its cones have a much lesser convergence of signals, the fovea allows for the sharpest vision the eye can attain.Though the rod and cones are a mosaic of sorts, transmission from receptors, to bipolars, to ganglion cells is not direct. 
+
+Since there are about 150 million receptors and only 1 million optic nerve fibres, there must be convergence and thus mixing of signals. 
+
+Moreover, the horizontal action of the horizontal and amacrine cells can allow one area of the retina to control another (e.g. one stimulus inhibiting another). 
+
+This inhibition is key to lessening the sum of messages sent to the higher regions of the brain. 
+
+In some lower vertebrates (e.g. the pigeon), there is a "centrifugal" control of messages – that is, one layer can control another, or higher regions of the brain can drive the retinal nerve cells, but in primates this does not occur.
+
+
+==== Layers imagable with optical coherence tomography ====
+Using optical coherence tomography (OCT) there are 18 layers that can be identified in the retina. 
+
+The layers and anatomical correlation are as follows:
+
+From innermost to outermost, the layers identifiable by OCT are as follows:
+
+
+=== Development ===
+
+Retinal development begins with the establishment of the eye fields mediated by the SHH and SIX3 proteins, with subsequent development of the optic vesicles regulated by the PAX6 and LHX2 proteins. 
+
+The role of Pax6 in eye development was elegantly demonstrated by Walter Gehring and colleagues, who showed that ectopic expression of Pax6 can lead to eye formation on Drosophila antennae, wings, and legs. 
+
+The optic vesicle gives rise to three structures: the neural retina, the retinal pigmented epithelium, and the optic stalk. 
+
+The neural retina contains the retinal progenitor cells (RPCs) that give rise to the seven cell types of the retina. 
+
+Differentiation begins with the retinal ganglion cells and concludes with production of the Muller glia. 
+
+Although each cell type differentiates from the RPCs in a sequential order, there is considerable overlap in the timing of when individual cell types differentiate. 
+
+The cues that determine a RPC daughter cell fate are coded by multiple transcription factor families including the bHLH and homeodomain factors.In addition to guiding cell fate determination, cues exist in the retina to determine the dorsal-ventral (D-V) and nasal-temporal (N-T) axes. 
+
+The D-V axis is established by a ventral to dorsal gradient of VAX2, whereas the N-T axis is coordinated by expression of the forkhead transcription factors FOXD1 and FOXG1. 
+
+Additional gradients are formed within the retina. 
+
+This spatial distribution may aid in proper targeting of RGC axons that function to establish the retinotopic map.
+
+
+=== Blood supply ===
+
+
+The retina is stratified into distinct layers, each containing specific cell types or cellular compartments that have metabolisms with different nutritional requirements. 
+
+To satisfy these requirements, the ophthalmic artery bifurcates and supplies the retina via two distinct vascular networks: the choroidal network, which supplies the choroid and the outer retina, and the retinal network, which supplies the retina's inner layer.
+
+
+==== Circulatory mechanisms ====
+At first glance, one may think that the vertebrate retina is "wired wrongly" or "badly designed"; but in fact, the retina could not function if it were not inverted. 
+
+The photoreceptor layer must be embedded in the retinal pigment epithelium (RPE), which performs at least seven vital functions, one of the most obvious being to supply oxygen and other necessary nutrients needed for the photoreceptors to function. 
+
+These nutrients include glucose, fatty acids, and retinal. 
+
+The mammalian photoreceptor amplification process uses large quantities energy for vision in photopic conditions (requiring less under scotopic conditions) and, thus, requires the large supply nutrients supplied by the blood vessels in the choroid, which lies beyond the RPE. 
+
+The choroid supplies about 75% of these nutrients to the retina and the retinal vasculature only 25%.When light strikes 11-cis-retinal (in the disks in the rods and cones), 11-cis-retinal changes to all-trans-retinal which then triggers changes in the opsins. 
+
+Now, the outer segments do not regenerate the retinal back into the cis- form once it has been changed by light. 
+
+Instead the retinal is pumped out to the surrounding RPE where it is regenerated and transported back into the outer segments of the photoreceptors. 
+
+This recycling function of the RPE protects the photoreceptors against photo-oxidative damage and allows the photoreceptor cells to have decades-long useful lives.
+
+
+==== In birds ====
+The bird retina is devoid of blood vessels, perhaps to give unobscured passage of light for forming images, thus giving better resolution. 
+
+It is, therefore, a considered view that the bird retina depends for nutrition and oxygen supply on a specialized organ, called the "pecten" or pecten oculi, located on the blind spot or optic disk. 
+
+This organ is extremely rich in blood vessels and is thought to supply nutrition and oxygen to the bird retina by diffusion through the vitreous body. 
+
+The pecten is highly rich in alkaline phosphatase activity and polarized cells in its bridge portion – both befitting its secretory role. 
+
+Pecten cells are packed with dark melanin granules, which have been theorized to keep this organ warm with the absorption of stray light falling on the pecten. 
+
+This is considered to enhance metabolic rate of the pecten, thereby exporting more nutritive molecules to meet the stringent energy requirements of the retina during long periods of exposure to light.
+
+
+=== Biometric identification and diagnosis of disease ===
+
+
+The bifurcations and other physical characteristics of the inner retinal vascular network are known to vary among individuals, and these individual variances have been used for biometric identification and for early detection of the onset of disease. 
+
+The mapping of vascular bifurcations is one of the basic steps in biometric identification. 
+
+Results of such analyses of retinal blood vessel structure can be evaluated against the ground truth data of vascular bifurcations of retinal fundus images that are obtained from the DRIVE dataset. 
+
+In addition, the classes of vessels of the DRIVE dataset have also been identified, and an automated method for accurate extraction of these bifurcations is also available. 
+
+Changes in retinal blood circulation are seen with aging and exposure to air pollution, and may indicate cardiovascular diseases such as hypertension and atherosclerosis. 
+
+Determining the equivalent width of arterioles and venules near the optic disc is also a widely used technique to identify cardiovascular risks.
+
+
+== Function ==
+
+
+The retina translates an optical image into neural impulses starting with the patterned excitation of the colour-sensitive pigments of its rods and cones, the retina's photoreceptor cells. 
+
+The excitation is processed by the neural system and various parts of the brain working in parallel to form a representation of the external environment in the brain.
+The cones respond to bright light and mediate high-resolution colour vision during daylight illumination (also called photopic vision). 
+
+The rod responses are saturated at daylight levels and don't contribute to pattern vision. 
+
+However, rods do respond to dim light and mediate lower-resolution, monochromatic vision under very low levels of illumination (called scotopic vision). 
+
+The illumination in most office settings falls between these two levels and is called mesopic vision. 
+
+At mesopic light levels, both the rods and cones are actively contributing pattern information. 
+
+What contribution the rod information makes to pattern vision under these circumstances is unclear.
+The response of cones to various wavelengths of light is called their spectral sensitivity. 
+
+In normal human vision, the spectral sensitivity of a cone falls into one of three subtypes, often called blue, green, and red, but more accurately known as short, medium, and long wavelength-sensitive cone subtypes. 
+
+It is a lack of one or more of the cone subtypes that causes individuals to have deficiencies in colour vision or various kinds of colour blindness. 
+
+These individuals are not blind to objects of a particular colour, but are unable to distinguish between colours that can be distinguished by people with normal vision. 
+
+Humans have this trichromatic vision, while most other mammals lack cones with red sensitive pigment and therefore have poorer dichromatic colour vision. 
+
+However, some animals have four spectral subtypes, e.g. the trout adds an ultraviolet subgroup to short, medium, and long subtypes that are similar to humans. 
+
+Some fish are sensitive to the polarization of light as well.
+In the photoreceptors, exposure to light hyperpolarizes the membrane in a series of graded shifts. 
+
+The outer cell segment contains a photopigment. 
+
+Inside the cell the normal levels of cyclic guanosine monophosphate (cGMP) keep the Na+ channel open, and thus in the resting state the cell is depolarised. 
+
+The photon causes the retinal bound to the receptor protein to isomerise to trans-retinal. 
+
+This causes the receptor to activate multiple G-proteins. 
+
+This in turn causes the Ga-subunit of the protein to activate a phosphodiesterase (PDE6), which degrades cGMP, resulting in the closing of Na+ cyclic nucleotide-gated ion channels (CNGs). 
+
+Thus the cell is hyperpolarised. 
+
+The amount of neurotransmitter released is reduced in bright light and increases as light levels fall. 
+
+The actual photopigment is bleached away in bright light and only replaced as a chemical process, so in a transition from bright light to darkness the eye can take up to thirty minutes to reach full sensitivity.
+When thus excited by light, the photoceptor sends a proportional response synaptically to bipolar cells which in turn signal the retinal ganglion cells. 
+
+The photoreceptors are also cross-linked by horizontal cells and amacrine cells, which modify the synaptic signal before it reaches the ganglion cells, the neural signals being intermixed and combined. 
+
+Of the retina's nerve cells, only the retinal ganglion cells and few amacrine cells create action potentials.
+In the retinal ganglion cells there are two types of response, depending on the receptive field of the cell. 
+
+The receptive fields of retinal ganglion cells comprise a central, approximately circular area, where light has one effect on the firing of the cell, and an annular surround, where light has the opposite effect. 
+
+In ON cells, an increment in light intensity in the centre of the receptive field causes the firing rate to increase. 
+
+In OFF cells, it makes it decrease. 
+
+In a linear model, this response profile is well described by a difference of Gaussians and is the basis for edge detection algorithms. 
+
+Beyond this simple difference, ganglion cells are also differentiated by chromatic sensitivity and the type of spatial summation. 
+
+Cells showing linear spatial summation are termed X cells (also called parvocellular, P, or midget ganglion cells), and those showing non-linear summation are Y cells (also called magnocellular, M, or parasol retinal ganglion cells), although the correspondence between X and Y cells (in the cat retina) and P and M cells (in the primate retina) is not as simple as it once seemed.
+In the transfer of visual signals to the brain, the visual pathway, the retina is vertically divided in two, a temporal (nearer to the temple) half and a nasal (nearer to the nose) half. 
+
+The axons from the nasal half cross the brain at the optic chiasma to join with axons from the temporal half of the other eye before passing into the lateral geniculate body.
+Although there are more than 130 million retinal receptors, there are only approximately 1.2 million fibres (axons) in the optic nerve. 
+
+So, a large amount of pre-processing is performed within the retina. 
+
+The fovea produces the most accurate information. 
+
+Despite occupying about 0.01% of the visual field (less than 2° of visual angle), about 10% of axons in the optic nerve are devoted to the fovea. 
+
+The resolution limit of the fovea has been determined to be around 10,000 points. 
+
+The information capacity is estimated at 500,000 bits per second (for more information on bits, see information theory) without colour or around 600,000 bits per second including colour.
+
+
+=== Spatial encoding ===
+
+
+When the retina sends neural impulses representing an image to the brain, it spatially encodes (compresses) those impulses to fit the limited capacity of the optic nerve. 
+
+Compression is necessary because there are 100 times more photoreceptor cells than ganglion cells. 
+
+This is done by "decorrelation", which is carried out by the "centre–surround structures", which are implemented by the bipolar and ganglion cells.
+There are two types of centre–surround structures in the retina – on-centres and off-centres. 
+
+On-centres have a positively weighted centre and a negatively weighted surround. 
+
+Off-centres are just the opposite. 
+
+Positive weighting is more commonly known as excitatory, and negative weighting as inhibitory.
+These centre–surround structures are not physical apparent, in the sense that one cannot see them by staining samples of tissue and examining the retina's anatomy. 
+
+The centre–surround structures are logical (i.e., mathematically abstract) in the sense that they depend on the connection strengths between bipolar and ganglion cells. 
+
+It is believed that the connection strength between cells is caused by the number and types of ion channels embedded in the synapses between the bipolar and ganglion cells.
+The centre–surround structures are mathematically equivalent to the edge detection algorithms used by computer programmers to extract or enhance the edges in a digital photograph. 
+
+Thus, the retina performs operations on the image-representing impulses to enhance the edges of objects within its visual field. 
+
+For example, in a picture of a dog, a cat and a car, it is the edges of these objects that contain the most information. 
+
+In order for higher functions in the brain (or in a computer for that matter) to extract and classify objects such as a dog and a cat, the retina is the first step to separating out the various objects within the scene.
+As an example, the following matrix is at the heart of a computer algorithm that implements edge detection. 
+
+This matrix is the computer equivalent to the centre–surround structure. 
+
+In this example, each box (element) within this matrix would be connected to one photoreceptor. 
+
+The photoreceptor in the centre is the current receptor being processed. 
+
+The centre photoreceptor is multiplied by the +1 weight factor. 
+
+The surrounding photoreceptors are the "nearest neighbors" to the centre and are multiplied by the −1/8 value. 
+
+The sum of all nine of these elements is finally calculated. 
+
+This summation is repeated for every photoreceptor in the image by shifting left to the end of a row and then down to the next line.
+
+The total sum of this matrix is zero, if all the inputs from the nine photoreceptors are of the same value. 
+
+The zero result indicates the image was uniform (non-changing) within this small patch. 
+
+Negative or positive sums mean the image was varying (changing) within this small patch of nine photoreceptors.
+The above matrix is only an approximation to what really happens inside the retina. 
+
+The differences are:
+
+The above example is called "balanced". 
+
+The term balanced means that the sum of the negative weights is equal to the sum of the positive weights so that they cancel out perfectly. 
+
+Retinal ganglion cells are almost never perfectly balanced.
+The table is square while the centre–surround structures in the retina are circular.
+Neurons operate on spike trains traveling down nerve cell axons. 
+
+Computers operate on a single floating point number that is essentially constant from each input pixel. (The computer pixel is basically the equivalent of a biological photoreceptor.)
+The retina performs all these calculations in parallel while the computer operates on each pixel one at a time. 
+
+The retina performs no repeated summations and shifting as would a computer.
+Finally, the horizontal and amacrine cells play a significant role in this process, but that is not represented here.Here is an example of an input image and how edge detection would modify it.
+
+Once the image is spatially encoded by the centre–surround structures, the signal is sent out along the optic nerve (via the axons of the ganglion cells) through the optic chiasm to the LGN (lateral geniculate nucleus). 
+
+The exact function of the LGN is unknown at this time. 
+
+The output of the LGN is then sent to the back of the brain. 
+
+Specifically, the output of the LGN "radiates" out to the V1 primary visual cortex.
+Simplified signal flow: Photoreceptors → Bipolar → Ganglion → Chiasm → LGN → V1 cortex
+
+
+== Clinical significance ==
+
+There are many inherited and acquired diseases or disorders that may affect the retina. 
+
+Some of them include:
+
+Retinitis pigmentosa is a group of genetic diseases that affect the retina and cause the loss of night vision and peripheral vision.
+Macular degeneration describes a group of diseases characterized by loss of central vision because of death or impairment of the cells in the macula.
+Cone-rod dystrophy (CORD) describes a number of diseases where vision loss is caused by deterioration of the cones and/or rods in the retina.
+In retinal separation, the retina detaches from the back of the eyeball. 
+
+Ignipuncture is an outdated treatment method. 
+
+The term retinal detachment is used to describe a separation of the neurosensory retina from the retinal pigment epithelium. 
+
+There are several modern treatment methods for fixing a retinal detachment: pneumatic retinopexy, scleral buckle, cryotherapy, laser photocoagulation and pars plana vitrectomy.
+Both hypertension and diabetes mellitus can cause damage to the tiny blood vessels that supply the retina, leading to hypertensive retinopathy and diabetic retinopathy.
+Retinoblastoma is a cancer of the retina.
+Retinal diseases in dogs include retinal dysplasia, progressive retinal atrophy, and sudden acquired retinal degeneration.
+Lipemia retinalis is a white appearance of the retina, and can occur by lipid deposition in lipoprotein lipase deficiency.
+Retinal Detachment. 
+
+The neural retina occasionally detaches from the pigment epithelium. 
+
+In some instances, the cause of such detachment is injury to the eyeball that allows fluid or blood to collect between the neural retina and the pigment epithelium. 
+
+Detachment is occasionally caused by contracture of fine collagenous fibrils in the vitreous humor, which pull areas of the retina toward the interior of the globe.
+Night Blindness : Night blindness occurs in any person with severe vitamin A deficiency. 
+
+The reason for this is that without vitamin A, the amounts of retinal and rhodopsin that can be formed are severely depressed. 
+
+This condition is called night blindness because the amount of light available at night is too little to permit adequate vision in vitamin A–deficient persons.In addition, the retina has been described as a "window" into the brain and body, given that abnormalities detected through an examination of the retina can discover both neurological and systemic diseases.
+
+
+=== Diagnosis ===
+
+A number of different instruments are available for the diagnosis of diseases and disorders affecting the retina. 
+
+Ophthalmoscopy and fundus photography have long been used to examine the retina. 
+
+Recently, adaptive optics has been used to image individual rods and cones in the living human retina, and a company based in Scotland has engineered technology that allows physicians to observe the complete retina without any discomfort to patients.The electroretinogram is used to non-invasively measure the retina's electrical activity, which is affected by certain diseases. 
+
+A relatively new technology, now becoming widely available, is optical coherence tomography (OCT). 
+
+This non-invasive technique allows one to obtain a 3D volumetric or high resolution cross-sectional tomogram of the fine structures of the retina, with histologic quality. 
+
+Retinal vessel analysis is a non-invasive method to examine the small arteries and veins in the retina which allows to draw conclusions about the morphology and the function of small vessels elsewhere in the human body. 
+
+It has been established as a predictor of cardiovascular disease and seems to have, according to a study published in 2019, potential in the early detection of Alzheimer's disease.
+
+
+=== Treatment ===
+
+Treatment depends upon the nature of the disease or disorder.
+
+
+==== Common treatment modalities ====
+The following are commonly modalities of management for retinal disease:
+
+Intravitreal medication, such as anti-VEGF or corticosteroid agents
+Vitreoretinal surgery
+Use of nutritional supplements
+Modification of systemic risk factors for retinal disease
+
+
+==== Uncommon treatment modalities ====
+
+
+== History ==
+
+Around 300 BCE, Herophilos identified the retina from dissections of cadaver eyes. 
+
+He called it the arachnoid layer, from its resemblance to a spider web, and retiform, from its resemblance to a casting net. 
+
+The term arachnoid came to refer to a layer around the brain; the term retiform came to refer to the retina.Between 1011 and 1021 CE, Ibn Al-Haytham published numerous experiments demonstrating that sight occurs from light reflecting from objects into the eye. 
+
+This is consistent with intromission theory and against emission theory, the theory that sight occurs from rays emitted by the eyes. 
+
+However, Ibn Al-Haytham decided that the retina could not be responsible for the beginnings of vision because the image formed on it was inverted. 
+
+Instead he decided it must begin at the surface of the lens.In 1604, Johannes Kepler worked out the optics of the eye and decided that the retina must be where sight begins. 
+
+He left it up to other scientists to reconcile the inverted retinal image with our perception of the world as upright.In 1894, Santiago Ramón y Cajal published the first major characterization of retinal neurons in Retina der Wirbelthiere (The Retina of Vertebrates).George Wald, Haldan Keffer Hartline, and Ragnar Granit won the 1967 Nobel Prize in Physiology or Medicine for their scientific research on the retina.A recent University of Pennsylvania study calculated that the approximate bandwidth of human retinas is 8.75 megabits per second, whereas a guinea pig's retinal transfer rate is 875 kilobits per second.MacLaren & Pearson and colleagues at University College London and Moorfields Eye Hospital in London, in 2006, showed that photoreceptor cells could be transplanted successfully in the mouse retina if donor cells were at a critical developmental stage. 
+
+Recently Ader and colleagues in Dublin showed, using the electron microscope, that transplanted photoreceptors formed synaptic connections.In 2012, Sebastian Seung and his laboratory at MIT launched EyeWire, an online Citizen science game where players trace neurons in the retina. 
+
+The goals of the EyeWire project are to identify specific cell types within the known broad classes of retinal cells, and to map the connections between neurons in the retina, which will help to determine how vision works.
+
+
+
+https://en.wikipedia.org/wiki/Retina
+;;;ES;;;
+
+
+
+RETINA
+
+
+La retina (del latín: rete "net") es la capa de tejido sensible a la luz más interna del ojo de la mayoría de los vertebrados y algunos moluscos. 
+
+La óptica del ojo crea una imagen bidimensional enfocada del mundo visual en la retina, que traduce esa imagen en impulsos eléctricos neuronales al cerebro para crear la percepción visual. 
+
+La retina cumple una función análoga a la de la película o el sensor de imagen de una cámara.
+
+La retina neural consta de varias capas de neuronas interconectadas por sinapsis y está sostenida por una capa externa de células epiteliales pigmentadas. 
+
+Las principales células sensibles a la luz en la retina son las células fotorreceptoras, que son de dos tipos: bastones y conos. 
+
+Los bastones funcionan principalmente con poca luz y proporcionan una visión en blanco y negro. 
+
+Los conos funcionan en condiciones de buena iluminación y son responsables de la percepción del color, así como de la visión de alta agudeza que se utiliza para tareas como la lectura. 
+
+Un tercer tipo de célula sensible a la luz, la célula ganglionar fotosensible, es importante para la sincronización de los ritmos circadianos y las respuestas reflejas, como el reflejo pupilar a la luz.
+
+La luz que golpea la retina inicia una cascada de eventos químicos y eléctricos que finalmente desencadenan impulsos nerviosos que se envían a varios centros visuales del cerebro a través de las fibras del nervio óptico. 
+
+Las señales neuronales de los conos y bastones son procesadas por otras neuronas, cuya salida toma la forma de potenciales de acción en las células ganglionares de la retina cuyos axones forman el nervio óptico. 
+
+Varias características importantes de la percepción visual se pueden rastrear hasta la codificación y el procesamiento de la luz en la retina.
+
+En el desarrollo embrionario de vertebrados, la retina y el nervio óptico se originan como excrecencias del cerebro en desarrollo, específicamente el diencéfalo embrionario; por lo tanto, la retina se considera parte del sistema nervioso central (SNC) y en realidad es tejido cerebral.
+
+Es la única parte del SNC que se puede visualizar de forma no invasiva.
+
+
+== Estructura ==
+
+
+
+=== Retina invertida versus no invertida ===
+
+La retina de los vertebrados está invertida en el sentido de que las células sensibles a la luz están detrás de la retina, por lo que la luz tiene que pasar a través de capas de neuronas y capilares antes de llegar a los bastones y conos. 
+
+Las células ganglionares, cuyos axones forman el nervio óptico, están al frente de la retina; por lo tanto, el nervio óptico debe atravesar la retina de camino al cerebro.
+
+En esta región no hay fotorreceptores, dando lugar al punto ciego. 
+
+Por el contrario, en la retina de los cefalópodos, los fotorreceptores están al frente, con las neuronas de procesamiento y los capilares detrás de ellos. 
+
+Debido a esto, los cefalópodos no tienen un punto ciego.
+Aunque el tejido neural suprayacente es parcialmente transparente y se ha demostrado que las células gliales que lo acompañan actúan como canales de fibra óptica para transportar fotones directamente a los fotorreceptores, se produce dispersión de luz. 
+
+Algunos vertebrados, incluidos los humanos, tienen un área de la retina central adaptada para una visión de alta agudeza. 
+
+Esta área, denominada fóvea central, es avascular (no tiene vasos sanguíneos) y tiene un tejido neural mínimo frente a los fotorreceptores, lo que minimiza la dispersión de la luz. Los cefalópodos tienen una retina no invertida que es comparable en poder de resolución a la ojos de muchos vertebrados. 
+
+Los ojos de calamar no tienen un análogo del epitelio pigmentario de la retina de vertebrados (EPR).
+
+Aunque sus fotorreceptores contienen una proteína, el retinocromo, que recicla la retina y replica una de las funciones del RPE de los vertebrados, se podría argumentar que los fotorreceptores de los cefalópodos no se mantienen tan bien como en los vertebrados y que, como resultado, la vida útil de los fotorreceptores en invertebrados es mucho más corto que en los vertebrados.
+
+Rara vez ocurre que se hayan reemplazado fácilmente los ojos de tallo (algunas langostas) o las retinas (algunas arañas, como Deinopis).
+La retina de los cefalópodos no se origina como una excrecencia del cerebro, como lo hace la de los vertebrados.
+
+Es discutible que esta diferencia muestre que los ojos de los vertebrados y los cefalópodos no son homólogos sino que han evolucionado por separado.
+
+Desde una perspectiva evolutiva, una estructura más compleja como la retina invertida generalmente puede surgir como consecuencia de dos procesos alternativos: (a) un "buen" compromiso ventajoso entre limitaciones funcionales en competencia, o (b) como una reliquia histórica de mala adaptación de el enrevesado camino de la evolución y transformación de los órganos. 
+
+La visión es una adaptación importante en los vertebrados superiores.
+Una tercera visión del ojo de los vertebrados "invertido" es que combina dos beneficios: el mantenimiento de los fotorreceptores mencionados anteriormente y la reducción de la intensidad de la luz necesaria para evitar el cegamiento de los fotorreceptores, que se basan en los ojos extremadamente sensibles de los ancestros de mixinos modernos (un pez que vive en aguas muy profundas y oscuras).
+
+
+=== Capas retinales ===
+
+
+La retina de los vertebrados tiene diez capas distintas. 
+
+De más cercano a más lejano del cuerpo vítreo:
+
+Membrana limitante interna: membrana basal elaborada por las células de Müller.
+Capa de fibras nerviosas: axones de los cuerpos de las células ganglionares (tenga en cuenta que existe una capa delgada de placas de base de células de Müller entre esta capa y la membrana limitante interna).
+Capa de células ganglionares: contiene núcleos de células ganglionares, cuyos axones se convierten en fibras del nervio óptico y algunas células amacrinas desplazadas.
+Capa plexiforme interna: contiene la sinapsis entre los axones de las células bipolares y las dendritas de las células ganglionares y amacrinas.
+Capa nuclear interna: contiene los núcleos y los cuerpos celulares circundantes (perikarya) de las células amacrinas, las células bipolares y las células horizontales.
+Capa plexiforme externa: proyecciones de bastones y conos que terminan en la esférula de los bastones y el pedículo del cono, respectivamente.
+
+Estos hacen sinapsis con dendritas de células bipolares y células horizontales. 
+
+En la región macular, esto se conoce como la capa de Fibra de Henle.
+Capa nuclear externa: cuerpos celulares de bastones y conos.
+Membrana limitante externa: capa que separa las porciones del segmento interno de los fotorreceptores de sus núcleos celulares.
+Capa de segmento interno/segmento externo: segmentos internos y segmentos externos de bastones y conos. 
+
+Los segmentos exteriores contienen un aparato sensor de luz altamente especializado.
+Epitelio pigmentario de la retina: capa única de células epiteliales cuboidales (con extrusiones que no se muestran en el diagrama). 
+
+Esta capa es la más cercana a la coroides y proporciona nutrición y funciones de apoyo a la retina neural. El pigmento negro melanina en la capa de pigmento evita el reflejo de la luz en todo el globo ocular; esto es extremadamente importante para una visión clara. Estas capas se pueden agrupar en 4 etapas principales de procesamiento: fotorrecepción; transmisión a células bipolares; transmisión a las células ganglionares, que también contienen fotorreceptores, las células ganglionares fotosensibles; y transmisión a lo largo del nervio óptico.
+
+En cada etapa sináptica también hay células horizontales y amacrinas que se conectan lateralmente.
+El nervio óptico es un tracto central de muchos axones de células ganglionares que se conectan principalmente al cuerpo geniculado lateral, una estación de retransmisión visual en el diencéfalo (la parte posterior del cerebro anterior).
+
+También se proyecta hacia el colículo superior, el núcleo supraquiasmático y el núcleo del tracto óptico. 
+
+Pasa a través de las otras capas, creando el disco óptico en los primates. En algunos grupos de vertebrados se encuentran estructuras adicionales, no asociadas directamente con la visión, como excrecencias de la retina. 
+
+En las aves, el pecten es una estructura vascular de forma compleja que se proyecta desde la retina hacia el humor vítreo; suministra oxígeno y nutrientes al ojo y también puede ayudar en la visión.
+
+Los reptiles tienen una estructura similar, pero mucho más simple. En los humanos adultos, la retina completa es aproximadamente el 72% de una esfera de unos 22 mm de diámetro. 
+
+Toda la retina contiene alrededor de 7 millones de conos y de 75 a 150 millones de bastones. 
+
+El disco óptico, una parte de la retina a veces llamada "el punto ciego" porque carece de fotorreceptores, está ubicado en la papila óptica, donde las fibras del nervio óptico salen del ojo.
+
+Aparece como un área blanca ovalada de 3 mm².
+
+Temporalmente (en la dirección de las sienes) a este disco se encuentra la mácula, en cuyo centro se encuentra la fóvea, un hoyo que es responsable de nuestra aguda visión central pero que en realidad es menos sensible a la luz debido a que carece de bastones.
+
+Los primates humanos y no humanos poseen una fóvea, a diferencia de ciertas especies de aves, como los halcones, que son bifoviados, y los perros y gatos, que no poseen fóvea sino una banda central conocida como racha visual.
+
+Alrededor de la fóvea se extiende la retina central unos 6 mm y luego la retina periférica.
+
+El borde más lejano de la retina está definido por la ora serrata.
+
+La distancia de una ora a otra (o mácula), la zona más sensible a lo largo del meridiano horizontal es de unos 32 mm. En corte, la retina no tiene más de 0,5 mm de espesor.
+
+Tiene tres capas de células nerviosas y dos de sinapsis, incluida la sinapsis de cinta única.
+
+El nervio óptico lleva los axones de las células ganglionares al cerebro y los vasos sanguíneos que irrigan la retina.
+
+Las células ganglionares se encuentran más internas en el ojo, mientras que las células fotorreceptoras se encuentran más allá.
+
+Debido a esta disposición contraria a la intuición, la luz primero debe pasar a través y alrededor de las células ganglionares ya través del grosor de la retina (incluidos sus vasos capilares, que no se muestran) antes de llegar a los bastones y conos.
+
+La luz es absorbida por el epitelio pigmentario de la retina o la coroides (ambos opacos).
+Los glóbulos blancos en los capilares frente a los fotorreceptores se pueden percibir como pequeños puntos brillantes en movimiento cuando se miran a la luz azul. 
+
+Esto se conoce como el fenómeno entóptico del campo azul (o fenómeno de Scheerer).
+Entre la capa de células ganglionares y los bastones y conos hay dos capas de neuropilos donde se realizan los contactos sinápticos. 
+
+Las capas de neuropilo son la capa plexiforme externa y la capa plexiforme interna. 
+
+En la capa externa del neuropilo, los bastones y los conos se conectan a las células bipolares que corren verticalmente, y las células horizontales orientadas horizontalmente se conectan a las células ganglionares.
+La retina central contiene predominantemente conos, mientras que la retina periférica contiene predominantemente bastones. 
+
+En total, hay unos siete millones de conos y cien millones de bastones. 
+
+En el centro de la mácula se encuentra la fosa foveal, donde los conos son estrechos y largos y, dispuestos en un mosaico hexagonal, son los más densos, a diferencia de los conos mucho más gruesos que se encuentran en la periferia de la retina.
+
+En la fosa foveal, las otras capas de la retina se desplazan, antes de acumularse a lo largo de la pendiente foveal hasta alcanzar el borde de la fóvea o parafovea, que es la porción más gruesa de la retina.
+
+La mácula tiene una pigmentación amarilla, debido a los pigmentos de detección, y se conoce como mácula lútea.
+
+El área que rodea directamente a la fóvea tiene la mayor densidad de bastones que convergen en células bipolares individuales.
+
+Dado que sus conos tienen una convergencia de señales mucho menor, la fóvea permite la visión más nítida que el ojo puede lograr. Aunque los conos y bastones son una especie de mosaico, la transmisión de los receptores a los bipolares y a las células ganglionares no es directa. 
+
+Dado que hay alrededor de 150 millones de receptores y solo 1 millón de fibras nerviosas ópticas, debe haber convergencia y, por lo tanto, mezcla de señales. 
+
+Además, la acción horizontal de las células horizontales y amacrinas puede permitir que un área de la retina controle a otra (p. ej., un estímulo que inhibe a otro). 
+
+Esta inhibición es clave para disminuir la suma de mensajes enviados a las regiones superiores del cerebro. 
+
+En algunos vertebrados inferiores (por ejemplo, la paloma), existe un control "centrífugo" de los mensajes, es decir, una capa puede controlar a otra, o regiones superiores del cerebro pueden impulsar las células nerviosas de la retina, pero en los primates esto no ocurre.
+
+
+==== Capas imaginable con tomografía de coherencia óptica ====
+Usando tomografía de coherencia óptica (OCT) hay 18 capas que se pueden identificar en la retina.
+
+Las capas y la correlación anatómica son las siguientes:
+
+De la más interna a la más externa, las capas identificables por OCT son las siguientes:
+
+
+=== Desarrollo ===
+
+El desarrollo de la retina comienza con el establecimiento de los campos oculares mediados por las proteínas SHH y SIX3, con el desarrollo posterior de las vesículas ópticas reguladas por las proteínas PAX6 y LHX2.
+
+El papel de Pax6 en el desarrollo de los ojos fue demostrado con elegancia por Walter Gehring y sus colegas, quienes demostraron que la expresión ectópica de Pax6 puede conducir a la formación de ojos en las antenas, alas y patas de Drosophila. 
+
+La vesícula óptica da lugar a tres estructuras: la retina neural, el epitelio pigmentado de la retina y el tallo óptico. 
+
+La retina neural contiene las células progenitoras de la retina (RPC) que dan lugar a los siete tipos de células de la retina. 
+
+La diferenciación comienza con las células ganglionares de la retina y concluye con la producción de la glía de Muller. 
+
+Aunque cada tipo de célula se diferencia de las RPC en un orden secuencial, existe una superposición considerable en el momento en que se diferencian los tipos de células individuales. 
+
+Las señales que determinan el destino de una célula hija RPC están codificadas por múltiples familias de factores de transcripción, incluidos los factores bHLH y homeodominio. Además de guiar la determinación del destino celular, existen señales en la retina para determinar el dorsal-ventral (DV) y nasal-temporal ( NT) ejes.
+
+El eje DV está establecido por un gradiente ventral a dorsal de VAX2, mientras que el eje NT está coordinado por la expresión de los factores de transcripción de cabeza de horquilla FOXD1 y FOXG1.
+
+Se forman gradientes adicionales dentro de la retina.
+
+Esta distribución espacial puede ayudar en la orientación adecuada de los axones de RGC que funcionan para establecer el mapa retinotópico.
+
+
+=== Suministro de sangre ===
+
+
+La retina está estratificada en distintas capas, cada una de las cuales contiene tipos de células específicas o compartimentos celulares que tienen metabolismos con diferentes requisitos nutricionales.
+
+Para satisfacer estos requisitos, la arteria oftálmica se bifurca e irriga la retina a través de dos redes vasculares distintas: la red coroidea, que irriga la coroides y la retina externa, y la red retinal, que irriga la capa interna de la retina.
+
+
+==== Mecanismos circulatorios ====
+A primera vista, uno puede pensar que la retina de los vertebrados está "mal cableada" o "mal diseñada"; pero, de hecho, la retina no podría funcionar si no estuviera invertida.
+
+La capa de fotorreceptores debe estar incrustada en el epitelio pigmentario de la retina (RPE), que realiza al menos siete funciones vitales, una de las más obvias es suministrar oxígeno y otros nutrientes necesarios para que funcionen los fotorreceptores.
+
+Estos nutrientes incluyen glucosa, ácidos grasos y retinal.
+
+El proceso de amplificación de los fotorreceptores de los mamíferos utiliza grandes cantidades de energía para la visión en condiciones fotópicas (requiriendo menos en condiciones escotópicas) y, por lo tanto, requiere el gran suministro de nutrientes suministrado por los vasos sanguíneos de la coroides, que se encuentra más allá del EPR.
+
+La coroides suministra aproximadamente el 75% de estos nutrientes a la retina y la vasculatura retiniana solo el 25%. retinal que luego desencadena cambios en las opsinas.
+
+Ahora bien, los segmentos externos no regeneran el retinal de nuevo en la forma cis una vez que ha sido cambiado por la luz.
+
+En cambio, el retinal se bombea hacia el RPE circundante, donde se regenera y se transporta de regreso a los segmentos externos de los fotorreceptores.
+
+Esta función de reciclaje del RPE protege a los fotorreceptores contra el daño fotooxidativo y permite que las células fotorreceptoras tengan una vida útil de décadas.
+
+
+==== En pájaros ====
+La retina de las aves está desprovista de vasos sanguíneos, tal vez para permitir el paso de la luz sin obstrucciones para formar imágenes, lo que brinda una mejor resolución. 
+
+Por lo tanto, es una opinión considerada que la retina de las aves depende para la nutrición y el suministro de oxígeno de un órgano especializado, llamado "pecten" o pecten oculi, ubicado en el punto ciego o disco óptico. 
+
+Este órgano es extremadamente rico en vasos sanguíneos y se cree que suministra nutrición y oxígeno a la retina de las aves por difusión a través del cuerpo vítreo. 
+
+El pecten es muy rico en actividad de fosfatasa alcalina y células polarizadas en su porción de puente, ambas acordes con su función secretora. 
+
+Las células de pecten están repletas de gránulos de melanina oscura, que se ha teorizado para mantener este órgano caliente con la absorción de la luz dispersa que cae sobre el pecten.
+
+Se considera que esto mejora la tasa metabólica del pecten, exportando así más moléculas nutritivas para cumplir con los estrictos requisitos de energía de la retina durante largos períodos de exposición a la luz.
+
+
+=== Identificación biométrica y diagnóstico de enfermedades ===
+
+
+Se sabe que las bifurcaciones y otras características físicas de la red vascular retiniana interna varían entre los individuos, y estas variaciones individuales se han utilizado para la identificación biométrica y para la detección temprana de la aparición de enfermedades.
+
+El mapeo de bifurcaciones vasculares es uno de los pasos básicos en la identificación biométrica.
+
+Los resultados de tales análisis de la estructura de los vasos sanguíneos de la retina se pueden evaluar frente a los datos reales de las bifurcaciones vasculares de las imágenes del fondo de la retina que se obtienen del conjunto de datos DRIVE.
+
+Además, también se identificaron las clases de embarcaciones del conjunto de datos DRIVE y también está disponible un método automatizado para la extracción precisa de estas bifurcaciones.
+
+Los cambios en la circulación sanguínea de la retina se observan con el envejecimiento y la exposición a la contaminación del aire, y pueden indicar enfermedades cardiovasculares como la hipertensión y la aterosclerosis.
+
+La determinación del ancho equivalente de arteriolas y vénulas cerca del disco óptico también es una técnica muy utilizada para identificar riesgos cardiovasculares.
+
+
+== Función ==
+
+
+La retina traduce una imagen óptica en impulsos neurales a partir de la excitación modelada de los pigmentos sensibles al color de sus bastones y conos, las células fotorreceptoras de la retina. 
+
+La excitación es procesada por el sistema neural y varias partes del cerebro trabajando en paralelo para formar una representación del ambiente externo en el cerebro.
+Los conos responden a la luz brillante y median la visión de color de alta resolución durante la iluminación diurna (también llamada visión fotópica). 
+
+Las respuestas de los bastones están saturadas en los niveles de luz diurna y no contribuyen a la visión del patrón. 
+
+Sin embargo, los bastones responden a la luz tenue y median una visión monocromática de baja resolución bajo niveles muy bajos de iluminación (llamada visión escotópica). 
+
+La iluminación en la mayoría de los entornos de oficina se encuentra entre estos dos niveles y se denomina visión mesópica. 
+
+En niveles de luz mesópicos, tanto los bastones como los conos contribuyen activamente con la información del patrón.
+
+No está claro qué contribución hace la información de la barra a la visión del patrón en estas circunstancias.
+La respuesta de los conos a varias longitudes de onda de luz se denomina sensibilidad espectral.
+
+En la visión humana normal, la sensibilidad espectral de un cono cae en uno de los tres subtipos, a menudo llamados azul, verde y rojo, pero más exactamente conocidos como subtipos de cono sensible a la longitud de onda corta, media y larga.
+
+Es la falta de uno o más de los subtipos de conos lo que hace que las personas tengan deficiencias en la visión del color o varios tipos de daltonismo.
+
+Estos individuos no son ciegos a los objetos de un color particular, pero son incapaces de distinguir entre los colores que pueden distinguir las personas con visión normal.
+
+Los humanos tienen esta visión tricromática, mientras que la mayoría de los otros mamíferos carecen de conos con pigmento sensible al rojo y, por lo tanto, tienen una visión de color dicromática más pobre.
+
+Sin embargo, algunos animales tienen cuatro subtipos espectrales, por ejemplo, la trucha agrega un subgrupo ultravioleta a los subtipos cortos, medianos y largos que son similares a los humanos.
+
+Algunos peces también son sensibles a la polarización de la luz.
+En los fotorreceptores, la exposición a la luz hiperpolariza la membrana en una serie de cambios graduales.
+
+El segmento celular externo contiene un fotopigmento.
+
+Dentro de la célula, los niveles normales de monofosfato de guanosina cíclico (cGMP) mantienen abierto el canal de Na+ y, por lo tanto, en el estado de reposo, la célula se despolariza.
+
+El fotón hace que el retinal unido a la proteína receptora se isomerice a trans-retinal.
+
+Esto hace que el receptor active múltiples proteínas G.
+
+Esto, a su vez, hace que la subunidad Ga de la proteína active una fosfodiesterasa (PDE6), que degrada el cGMP, lo que provoca el cierre de los canales iónicos activados por nucleótidos cíclicos (CNG) de Na+.
+
+Por lo tanto, la célula está hiperpolarizada.
+
+La cantidad de neurotransmisor liberado se reduce con luz brillante y aumenta a medida que bajan los niveles de luz.
+
+El fotopigmento real se decolora con la luz brillante y solo se reemplaza como un proceso químico, por lo que en una transición de la luz brillante a la oscuridad, el ojo puede tardar hasta treinta minutos en alcanzar la sensibilidad total.
+Cuando es excitado así por la luz, el fotoceptor envía una respuesta proporcional sinápticamente a las células bipolares que a su vez envían señales a las células ganglionares de la retina.
+
+Los fotorreceptores también están entrecruzados por células horizontales y células amacrinas, que modifican la señal sináptica antes de que llegue a las células ganglionares, entremezclándose y combinándose las señales neurales. 
+
+De las células nerviosas de la retina, solo las células ganglionares de la retina y unas pocas células amacrinas crean potenciales de acción.
+En las células ganglionares de la retina hay dos tipos de respuesta, dependiendo del campo receptivo de la célula. 
+
+Los campos receptivos de las células ganglionares de la retina comprenden un área central, aproximadamente circular, donde la luz tiene un efecto sobre la activación de la célula, y un entorno anular, donde la luz tiene el efecto opuesto. 
+
+En las células ON, un incremento en la intensidad de la luz en el centro del campo receptivo hace que aumente la tasa de disparo. 
+
+En celdas OFF hace que disminuya. 
+
+En un modelo lineal, este perfil de respuesta está bien descrito por una diferencia de gaussianas y es la base de los algoritmos de detección de bordes.
+
+Más allá de esta simple diferencia, las células ganglionares también se diferencian por la sensibilidad cromática y el tipo de suma espacial.
+
+Las células que muestran una suma espacial lineal se denominan células X (también llamadas parvocelulares, P o células ganglionares enanas), y las que muestran una suma no lineal son células Y (también llamadas magnocelulares, M o células ganglionares de la retina en parasol), aunque la correspondencia entre Las células X e Y (en la retina del gato) y las células P y M (en la retina de los primates) no son tan simples como parecía.
+En la transferencia de señales visuales al cerebro, la vía visual, la retina se divide verticalmente en dos, una mitad temporal (más cerca de la sien) y una mitad nasal (más cerca de la nariz).
+
+Los axones de la mitad nasal cruzan el cerebro en el quiasma óptico para unirse con los axones de la mitad temporal del otro ojo antes de pasar al cuerpo geniculado lateral.
+Aunque hay más de 130 millones de receptores en la retina, solo hay aproximadamente 1,2 millones de fibras (axones) en el nervio óptico.
+
+Por lo tanto, se realiza una gran cantidad de preprocesamiento dentro de la retina.
+
+La fóvea produce la información más precisa.
+
+A pesar de ocupar alrededor del 0,01 % del campo visual (menos de 2° del ángulo visual), alrededor del 10 % de los axones del nervio óptico están dedicados a la fóvea.
+
+Se ha determinado que el límite de resolución de la fóvea es de unos 10.000 puntos.
+
+La capacidad de información se estima en 500.000 bits por segundo (para más información sobre bits ver teoría de la información) sin color o alrededor de 600.000 bits por segundo con color.
+
+
+=== Codificación espacial ===
+
+
+Cuando la retina envía impulsos neurales que representan una imagen al cerebro, codifica espacialmente (comprime) esos impulsos para adaptarse a la capacidad limitada del nervio óptico.
+
+La compresión es necesaria porque hay 100 veces más células fotorreceptoras que células ganglionares.
+
+Esto se hace por "decorrelación", que se lleva a cabo por las "estructuras centro-entorno", que son implementadas por las células bipolares y ganglionares.
+Hay dos tipos de estructuras centro-alrededor en la retina: en el centro y fuera del centro.
+
+Los centros on tienen un centro ponderado positivamente y un entorno ponderado negativamente.
+
+Los descentrados son todo lo contrario.
+
+La ponderación positiva se conoce más comúnmente como excitatoria y la negativa como inhibitoria.
+Estas estructuras centro-circundantes no son aparentes físicamente, en el sentido de que no se pueden ver tiñendo muestras de tejido y examinando la anatomía de la retina.
+
+Las estructuras centro-alrededor son lógicas (es decir, matemáticamente abstractas) en el sentido de que dependen de las fuerzas de conexión entre las células bipolares y ganglionares.
+
+Se cree que la fuerza de conexión entre las células es causada por la cantidad y los tipos de canales iónicos incrustados en las sinapsis entre las células bipolares y ganglionares.
+Las estructuras centro-entorno son matemáticamente equivalentes a los algoritmos de detección de bordes que utilizan los programadores de computadoras para extraer o mejorar los bordes de una fotografía digital.
+
+Por lo tanto, la retina realiza operaciones sobre los impulsos que representan la imagen para mejorar los bordes de los objetos dentro de su campo visual.
+
+Por ejemplo, en una imagen de un perro, un gato y un automóvil, son los bordes de estos objetos los que contienen la mayor cantidad de información.
+
+Para que las funciones superiores en el cerebro (o en una computadora para el caso) extraigan y clasifiquen objetos como un perro y un gato, la retina es el primer paso para separar los diversos objetos dentro de la escena.
+Como ejemplo, la siguiente matriz está en el corazón de un algoritmo informático que implementa la detección de bordes.
+
+Esta matriz es el equivalente informático a la estructura centro-circunferencia.
+
+En este ejemplo, cada caja (elemento) dentro de esta matriz estaría conectada a un fotorreceptor.
+
+El fotorreceptor en el centro es el receptor actual que se está procesando.
+
+El fotorreceptor central se multiplica por el factor de peso +1.
+
+Los fotorreceptores circundantes son los "vecinos más cercanos" al centro y se multiplican por el valor -1/8.
+
+Finalmente se calcula la suma de los nueve de estos elementos.
+
+Esta suma se repite para cada fotorreceptor de la imagen desplazándose hacia la izquierda hasta el final de una fila y luego hacia abajo hasta la siguiente línea.
+
+La suma total de esta matriz es cero, si todas las entradas de los nueve fotorreceptores tienen el mismo valor.
+
+El resultado cero indica que la imagen era uniforme (sin cambios) dentro de este pequeño parche.
+
+Las sumas negativas o positivas significan que la imagen estaba variando (cambiando) dentro de este pequeño parche de nueve fotorreceptores.
+La matriz anterior es solo una aproximación a lo que realmente sucede dentro de la retina.
+
+Las diferencias son:
+
+El ejemplo anterior se llama "equilibrado".
+
+El término equilibrado significa que la suma de los pesos negativos es igual a la suma de los pesos positivos, de modo que se cancelan perfectamente. 
+
+Las células ganglionares de la retina casi nunca están perfectamente equilibradas.
+La mesa es cuadrada, mientras que las estructuras centrales y circundantes de la retina son circulares.
+Las neuronas operan en trenes de picos que viajan por los axones de las células nerviosas. 
+
+Las computadoras operan con un solo número de coma flotante que es esencialmente constante desde cada píxel de entrada. (El píxel de la computadora es básicamente el equivalente de un fotorreceptor biológico).
+La retina realiza todos estos cálculos en paralelo mientras la computadora opera en cada píxel uno a la vez. 
+
+La retina no realiza sumas ni cambios repetidos como lo haría una computadora.
+Finalmente, las células horizontales y amacrinas juegan un papel importante en este proceso, pero eso no está representado aquí. Aquí hay un ejemplo de una imagen de entrada y cómo la modificaría la detección de bordes.
+
+Una vez que la imagen está codificada espacialmente por las estructuras centro-circundantes, la señal se envía a lo largo del nervio óptico (a través de los axones de las células ganglionares) a través del quiasma óptico hasta el LGN (núcleo geniculado lateral). 
+
+La función exacta del LGN se desconoce en este momento. 
+
+Luego, la salida del LGN se envía a la parte posterior del cerebro. 
+
+Específicamente, la salida del LGN "irradia" hacia la corteza visual primaria V1.
+Flujo de señal simplificado: Fotorreceptores → Bipolar → Ganglión → Quiasma → LGN → Corteza V1
+
+
+== Importancia clínica ==
+
+Hay muchas enfermedades o trastornos hereditarios y adquiridos que pueden afectar la retina. 
+
+Algunos de ellos incluyen:
+
+La retinitis pigmentosa es un grupo de enfermedades genéticas que afectan a la retina y provocan la pérdida de la visión nocturna y la visión periférica.
+La degeneración macular describe un grupo de enfermedades caracterizadas por la pérdida de la visión central debido a la muerte o deterioro de las células de la mácula.
+La distrofia de conos y bastones (CORD) describe una serie de enfermedades en las que la pérdida de visión es causada por el deterioro de los conos y/o bastones en la retina.
+En la separación de la retina, la retina se desprende de la parte posterior del globo ocular.
+
+La ignipuntura es un método de tratamiento obsoleto.
+
+El término desprendimiento de retina se utiliza para describir una separación de la retina neurosensorial del epitelio pigmentario de la retina.
+
+Existen varios métodos de tratamiento modernos para reparar un desprendimiento de retina: retinopexia neumática, cerclaje escleral, crioterapia, fotocoagulación con láser y vitrectomía pars plana.
+Tanto la hipertensión como la diabetes mellitus pueden dañar los diminutos vasos sanguíneos que irrigan la retina, lo que provoca retinopatía hipertensiva y retinopatía diabética.
+El retinoblastoma es un cáncer de la retina.
+Las enfermedades de la retina en perros incluyen displasia retinal, atrofia retinal progresiva y degeneración retinal adquirida repentina.
+La lipemia retinalis es una apariencia blanca de la retina y puede ocurrir por depósito de lípidos en la deficiencia de lipoproteína lipasa.
+Desprendimiento de retina. 
+
+En ocasiones, la retina neural se desprende del epitelio pigmentario. 
+
+En algunos casos, la causa de dicho desprendimiento es una lesión en el globo ocular que permite que se acumule líquido o sangre entre la retina neural y el epitelio pigmentario. 
+
+En ocasiones, el desprendimiento es causado por la contractura de finas fibrillas de colágeno en el humor vítreo, que tiran de áreas de la retina hacia el interior del globo.
+Ceguera nocturna: La ceguera nocturna ocurre en cualquier persona con deficiencia severa de vitamina A. 
+
+La razón de esto es que sin vitamina A, las cantidades de retinal y rodopsina que se pueden formar están severamente deprimidas. 
+
+Esta condición se llama ceguera nocturna porque la cantidad de luz disponible en la noche es muy poca para permitir una visión adecuada en personas con deficiencia de vitamina A. Además, la retina se ha descrito como una "ventana" al cerebro y al cuerpo, dado que las anomalías detectado a través de un examen de la retina puede descubrir enfermedades tanto neurológicas como sistémicas.
+
+
+=== Diagnóstico ===
+
+Hay varios instrumentos diferentes disponibles para el diagnóstico de enfermedades y trastornos que afectan a la retina. 
+
+La oftalmoscopia y la fotografía del fondo de ojo se han utilizado durante mucho tiempo para examinar la retina. 
+
+Recientemente, la óptica adaptativa se ha utilizado para obtener imágenes de conos y bastones individuales en la retina humana viva, y una empresa con sede en Escocia ha diseñado una tecnología que permite a los médicos observar la retina completa sin molestias para los pacientes. medir la actividad eléctrica de la retina, que se ve afectada por ciertas enfermedades. 
+
+Una tecnología relativamente nueva, que ahora está ampliamente disponible, es la tomografía de coherencia óptica (OCT). 
+
+Esta técnica no invasiva permite obtener un tomograma 3D volumétrico o transversal de alta resolución de las estructuras finas de la retina, con calidad histológica. 
+
+El análisis de los vasos de la retina es un método no invasivo para examinar las pequeñas arterias y venas de la retina que permite sacar conclusiones sobre la morfología y la función de los pequeños vasos en otras partes del cuerpo humano. 
+
+Se ha establecido como predictor de enfermedad cardiovascular y parece tener, según un estudio publicado en 2019, potencial en la detección precoz de la enfermedad de Alzheimer.
+
+
+=== Tratamiento ===
+
+El tratamiento depende de la naturaleza de la enfermedad o trastorno.
+
+
+==== Modalidades comunes de tratamiento ====
+Las siguientes son modalidades comunes de manejo para la enfermedad de la retina:
+
+Medicamentos intravítreos, como agentes anti-VEGF o corticosteroides
+Cirugía vitreorretiniana
+Uso de suplementos nutricionales.
+Modificación de los factores de riesgo sistémicos para la enfermedad de la retina
+
+
+==== Modalidades de tratamiento poco comunes ====
+
+
+== Historia ==
+
+Alrededor del 300 a. C., Herophilos identificó la retina a partir de disecciones de ojos de cadáveres. 
+
+La llamó capa aracnoidea, por su parecido con una telaraña, y retiforme, por su parecido con una red de pesca. 
+
+El término aracnoides pasó a referirse a una capa alrededor del cerebro; el término retiforme pasó a referirse a la retina. Entre 1011 y 1021 d. C., Ibn Al-Haytham publicó numerosos experimentos que demostraban que la vista se produce a partir de la luz que se refleja desde los objetos hacia el ojo.
+
+Esto es consistente con la teoría de la intromisión y contra la teoría de la emisión, la teoría de que la vista se produce a partir de los rayos emitidos por los ojos. 
+
+Sin embargo, Ibn Al-Haytham decidió que la retina no podía ser la responsable de los inicios de la visión porque la imagen que se formaba sobre ella estaba invertida. 
+
+En cambio, decidió que debía comenzar en la superficie del cristalino. En 1604, Johannes Kepler elaboró ​​la óptica del ojo y decidió que la retina debe estar donde comienza la vista.
+
+Dejó en manos de otros científicos reconciliar la imagen retiniana invertida con nuestra percepción del mundo en posición vertical. En 1894, Santiago Ramón y Cajal publicó la primera caracterización importante de las neuronas retinianas en Retina der Wirbelthiere (La retina de los vertebrados). George Wald , Haldan Keffer Hartline y Ragnar Granit ganaron el Premio Nobel de Fisiología o Medicina en 1967 por su investigación científica sobre la retina. Un estudio reciente de la Universidad de Pennsylvania calculó que el ancho de banda aproximado de las retinas humanas es de 8,75 megabits por segundo, mientras que el tasa de transferencia es de 875 kilobits por segundo. MacLaren & Pearson y colegas del University College London y Moorfields Eye Hospital en Londres, en 2006,mostró que las células fotorreceptoras podrían trasplantarse con éxito en la retina del ratón si las células del donante se encontraban en una etapa crítica de desarrollo.
+
+Recientemente, Ader y sus colegas en Dublín demostraron, utilizando el microscopio electrónico, que los fotorreceptores trasplantados formaban conexiones sinápticas. En 2012, Sebastian Seung y su laboratorio en el MIT lanzaron EyeWire, un juego de ciencia ciudadana en línea donde los jugadores trazan neuronas en la retina.
+
+Los objetivos del proyecto EyeWire son identificar tipos de células específicas dentro de las amplias clases conocidas de células de la retina y mapear las conexiones entre las neuronas en la retina, lo que ayudará a determinar cómo funciona la visión.
+
+
+
+https://en.wikipedia.org/wiki/Retina
+
+;;;FR;;;
+
+
+
+RÉTINE
+
+
+La rétine (du latin : rete "filet") est la couche de tissu la plus interne et sensible à la lumière de l'œil de la plupart des vertébrés et de certains mollusques. 
+
+L'optique de l'œil crée une image bidimensionnelle focalisée du monde visuel sur la rétine, qui traduit cette image en impulsions neurales électriques vers le cerveau pour créer une perception visuelle. 
+
+La rétine remplit une fonction analogue à celle du film ou du capteur d'image d'un appareil photo.
+
+La rétine neurale est constituée de plusieurs couches de neurones interconnectés par des synapses et est soutenue par une couche externe de cellules épithéliales pigmentées. 
+
+Les principales cellules photosensibles de la rétine sont les cellules photoréceptrices, qui sont de deux types : les bâtonnets et les cônes. 
+
+Les bâtonnets fonctionnent principalement dans la pénombre et offrent une vision en noir et blanc. 
+
+Les cônes fonctionnent dans des conditions bien éclairées et sont responsables de la perception des couleurs, ainsi que de la vision de haute acuité utilisée pour des tâches telles que la lecture. 
+
+Un troisième type de cellule sensible à la lumière, la cellule ganglionnaire photosensible, est important pour l'entraînement des rythmes circadiens et des réponses réflexives telles que le réflexe lumineux pupillaire.
+
+La lumière frappant la rétine déclenche une cascade d'événements chimiques et électriques qui déclenchent finalement des impulsions nerveuses qui sont envoyées à divers centres visuels du cerveau par les fibres du nerf optique. 
+
+Les signaux neuronaux des bâtonnets et des cônes subissent un traitement par d'autres neurones, dont la sortie prend la forme de potentiels d'action dans les cellules ganglionnaires rétiniennes dont les axones forment le nerf optique. 
+
+Plusieurs caractéristiques importantes de la perception visuelle peuvent être attribuées au codage rétinien et au traitement de la lumière.
+
+Dans le développement embryonnaire des vertébrés, la rétine et le nerf optique proviennent d'excroissances du cerveau en développement, en particulier du diencéphale embryonnaire ; ainsi, la rétine est considérée comme faisant partie du système nerveux central (SNC) et est en fait un tissu cérébral.
+
+C'est la seule partie du SNC qui peut être visualisée de manière non invasive.
+
+
+== Structure ==
+
+
+
+=== Rétine inversée versus non inversée ===
+
+La rétine des vertébrés est inversée dans le sens où les cellules photosensibles se trouvent à l'arrière de la rétine, de sorte que la lumière doit traverser des couches de neurones et de capillaires avant d'atteindre les bâtonnets et les cônes.
+
+Les cellules ganglionnaires, dont les axones forment le nerf optique, sont à l'avant de la rétine ; par conséquent, le nerf optique doit traverser la rétine pour se rendre au cerveau.
+
+Dans cette région, il n'y a pas de photorécepteurs, ce qui donne lieu à la tache aveugle.
+
+En revanche, dans la rétine des céphalopodes, les photorécepteurs sont devant, avec les neurones de traitement et les capillaires derrière eux. 
+
+Pour cette raison, les céphalopodes n'ont pas d'angle mort.
+Bien que le tissu neural sus-jacent soit partiellement transparent et qu'il ait été démontré que les cellules gliales qui l'accompagnent agissent comme des canaux à fibres optiques pour transporter les photons directement vers les photorécepteurs, une diffusion de la lumière se produit. 
+
+Certains vertébrés, y compris les humains, ont une zone de la rétine centrale adaptée à une vision de haute acuité. 
+
+Cette zone, appelée fovea centralis, est avasculaire (n'a pas de vaisseaux sanguins) et a un tissu neural minimal devant les photorécepteurs, minimisant ainsi la diffusion de la lumière. Les céphalopodes ont une rétine non inversée qui est comparable en pouvoir de résolution à la yeux de nombreux vertébrés. 
+
+Les yeux de calmar n'ont pas d'analogue de l' épithélium pigmentaire rétinien des vertébrés (RPE). 
+
+Bien que leurs photorécepteurs contiennent une protéine, le rétinochrome, qui recycle la rétine et reproduit l'une des fonctions de l'EPR des vertébrés, on pourrait soutenir que les photorécepteurs des céphalopodes ne sont pas aussi bien entretenus que chez les vertébrés et que, par conséquent, la durée de vie utile des photorécepteurs chez les chez les invertébrés est beaucoup plus courte que chez les vertébrés. 
+
+Avoir facilement remplacé les yeux de la tige (certains homards) ou les rétines (certaines araignées, comme Deinopis) se produit rarement.
+La rétine des céphalopodes ne provient pas d'une excroissance du cerveau, contrairement à celle des vertébrés. 
+
+On peut soutenir que cette différence montre que les yeux des vertébrés et des céphalopodes ne sont pas homologues mais ont évolué séparément. 
+
+D'un point de vue évolutif, une structure plus complexe telle que la rétine inversée peut généralement survenir à la suite de deux processus alternatifs : (a) un « bon » compromis avantageux entre des limitations fonctionnelles concurrentes, ou (b) comme une relique historique inadaptée de le chemin sinueux de l'évolution et de la transformation des organes.
+
+La vision est une adaptation importante chez les vertébrés supérieurs.
+Une troisième vision de l'œil "inversé" des vertébrés est qu'il cumule deux bénéfices : le maintien des photorécepteurs évoqués plus haut, et la diminution de l'intensité lumineuse nécessaire pour éviter d'aveugler les photorécepteurs, qui reposent sur les yeux extrêmement sensibles des ancêtres des les myxines modernes (un poisson qui vit dans des eaux très profondes et sombres).
+
+
+=== Couches rétiniennes ===
+
+
+La rétine des vertébrés a dix couches distinctes.
+
+Du plus proche au plus éloigné du corps vitré :
+
+Membrane limitante interne - membrane basale élaborée par les cellules de Müller.
+Couche de fibres nerveuses - axones des corps des cellules ganglionnaires (notez qu'une fine couche de plaques de base des cellules de Müller existe entre cette couche et la membrane limitante interne).
+Couche de cellules ganglionnaires - contient des noyaux de cellules ganglionnaires, dont les axones deviennent les fibres du nerf optique, et certaines cellules amacrines déplacées.
+Couche plexiforme interne - contient la synapse entre les axones des cellules bipolaires et les dendrites des cellules ganglionnaires et amacrines.
+Couche nucléaire interne - contient les noyaux et les corps cellulaires environnants (péricarye) des cellules amacrines, des cellules bipolaires et des cellules horizontales.
+Couche plexiforme externe - projections de bâtonnets et de cônes se terminant respectivement par la sphérule de la tige et le pédicule du cône.
+
+Ceux-ci forment des synapses avec les dendrites des cellules bipolaires et des cellules horizontales. 
+
+Dans la région maculaire, c'est ce qu'on appelle la couche de fibres de Henle.
+Couche nucléaire externe - corps cellulaires de bâtonnets et de cônes.
+Membrane limitante externe - couche qui sépare les parties du segment interne des photorécepteurs de leurs noyaux cellulaires.
+Segment interne / couche de segment externe - segments internes et segments externes de bâtonnets et de cônes. 
+
+Les segments externes contiennent un appareil de détection de lumière hautement spécialisé.
+Épithélium pigmentaire rétinien - couche unique de cellules épithéliales cuboïdes (avec des extrusions non représentées sur le schéma). 
+
+Cette couche est la plus proche de la choroïde et fournit des fonctions de nutrition et de soutien à la rétine neurale. La mélanine pigmentée noire dans la couche pigmentaire empêche la réflexion de la lumière dans tout le globe oculaire; ceci est extrêmement important pour une vision claire. Ces couches peuvent être regroupées en 4 étapes de traitement principales : photoréception ; transmission aux cellules bipolaires; transmission aux cellules ganglionnaires, qui contiennent également des photorécepteurs, les cellules ganglionnaires photosensibles ; et transmission le long du nerf optique.
+
+À chaque stade synaptique, il existe également des cellules horizontales et amacrines qui se connectent latéralement.
+Le nerf optique est un faisceau central de nombreux axones de cellules ganglionnaires se connectant principalement au corps genouillé latéral, une station de relais visuel dans le diencéphale (l'arrière du cerveau antérieur).
+
+Il se projette également vers le colliculus supérieur, le noyau suprachiasmatique et le noyau du tractus optique.
+
+Il traverse les autres couches, créant le disque optique chez les primates. Des structures supplémentaires, non directement associées à la vision, se trouvent sous forme d'excroissances de la rétine chez certains groupes de vertébrés.
+
+Chez les oiseaux, le pecten est une structure vasculaire de forme complexe qui se projette de la rétine dans l'humeur vitrée ; il fournit de l'oxygène et des nutriments à l'œil et peut également aider à la vision.
+
+Les reptiles ont une structure similaire, mais beaucoup plus simple. Chez l'homme adulte, la rétine entière représente environ 72 % d'une sphère d'environ 22 mm de diamètre.
+
+La rétine entière contient environ 7 millions de cônes et 75 à 150 millions de bâtonnets.
+
+La papille optique, une partie de la rétine parfois appelée "la tache aveugle" parce qu'elle est dépourvue de photorécepteurs, est située au niveau de la papille optique, là où les fibres du nerf optique quittent l'œil. 
+
+Il se présente sous la forme d'une zone blanche ovale de 3 mm². 
+
+Temporelle (en direction des tempes) à ce disque se trouve la macula, au centre de laquelle se trouve la fovéa, une fosse qui est responsable de notre vision centrale nette mais qui est en réalité moins sensible à la lumière en raison de son absence de bâtonnets. 
+
+Les primates humains et non humains possèdent une fovéa, contrairement à certaines espèces d'oiseaux, comme les faucons, qui sont bifoviés, et les chiens et les chats, qui ne possèdent pas de fovéa mais une bande centrale appelée strie visuelle. 
+
+Autour de la fovéa s'étend la rétine centrale sur environ 6 mm puis la rétine périphérique. 
+
+Le bord le plus éloigné de la rétine est défini par l'ora serrata. 
+
+La distance d'une ore à l'autre (ou macula), la zone la plus sensible le long du méridien horizontal est d'environ 32 mm. En coupe, la rétine n'a pas plus de 0,5 mm d'épaisseur.
+
+Il a trois couches de cellules nerveuses et deux de synapses, y compris la synapse ruban unique.
+
+Le nerf optique transporte les axones des cellules ganglionnaires vers le cerveau et les vaisseaux sanguins qui irriguent la rétine.
+
+Les cellules ganglionnaires se trouvent à l'intérieur de l'œil tandis que les cellules photoréceptrices se trouvent au-delà.
+
+En raison de cet arrangement contre-intuitif, la lumière doit d'abord traverser et autour des cellules ganglionnaires et à travers l'épaisseur de la rétine (y compris ses vaisseaux capillaires, non représentés) avant d'atteindre les bâtonnets et les cônes.
+
+La lumière est absorbée par l'épithélium pigmentaire rétinien ou la choroïde (tous deux opaques).
+Les globules blancs dans les capillaires devant les photorécepteurs peuvent être perçus comme de minuscules points mobiles brillants lorsqu'ils regardent dans la lumière bleue.
+
+Ceci est connu sous le nom de phénomène entoptique de champ bleu (ou phénomène de Scheerer).
+Entre la couche de cellules ganglionnaires et les bâtonnets et les cônes, il y a deux couches de neuropiles où se font les contacts synaptiques.
+
+Les couches de neuropiles sont la couche plexiforme externe et la couche plexiforme interne.
+
+Dans la couche externe de neuropile, les bâtonnets et les cônes se connectent aux cellules bipolaires verticales, et les cellules horizontales orientées horizontalement se connectent aux cellules ganglionnaires.
+La rétine centrale contient principalement des cônes, tandis que la rétine périphérique contient principalement des bâtonnets.
+
+Au total, il y a environ sept millions de cônes et cent millions de bâtonnets.
+
+Au centre de la macula se trouve la fosse fovéale où les cônes sont étroits et longs, et, disposés en mosaïque hexagonale, les plus denses, contrairement aux cônes beaucoup plus gros situés plus en périphérie de la rétine. 
+
+Au niveau de la fosse fovéale, les autres couches rétiniennes sont déplacées, avant de s'accumuler le long de la pente fovéale jusqu'à ce que le bord de la fovéa, ou parafovéa, soit atteint, qui est la partie la plus épaisse de la rétine. 
+
+La macula a une pigmentation jaune, provenant des pigments de criblage, et est connue sous le nom de macula lutea. 
+
+La zone entourant directement la fovéa a la plus forte densité de bâtonnets convergeant vers des cellules bipolaires uniques. 
+
+Étant donné que ses cônes ont une convergence de signaux beaucoup moindre, la fovéa permet la vision la plus nette que l'œil puisse atteindre. Bien que la tige et les cônes soient une sorte de mosaïque, la transmission des récepteurs, aux bipolaires, aux cellules ganglionnaires n'est pas directe. 
+
+Comme il y a environ 150 millions de récepteurs et seulement 1 million de fibres nerveuses optiques, il doit y avoir convergence et donc mélange des signaux. 
+
+De plus, l'action horizontale des cellules horizontales et amacrines peut permettre à une zone de la rétine d'en contrôler une autre (par exemple un stimulus en inhibant un autre). 
+
+Cette inhibition est essentielle pour réduire la somme des messages envoyés aux régions supérieures du cerveau. 
+
+Chez certains vertébrés inférieurs (par exemple le pigeon), il existe un contrôle "centrifuge" des messages - c'est-à-dire qu'une couche peut en contrôler une autre, ou que des régions supérieures du cerveau peuvent piloter les cellules nerveuses rétiniennes, mais chez les primates, cela ne se produit pas.
+
+
+==== Couches imagables avec la tomographie par cohérence optique ====
+En utilisant la tomographie par cohérence optique (OCT), 18 couches peuvent être identifiées dans la rétine. 
+
+Les couches et la corrélation anatomique sont les suivantes :
+
+De la plus interne à la plus externe, les couches identifiables par OCT sont les suivantes :
+
+
+=== Développement ===
+
+Le développement rétinien commence par l'établissement des champs oculaires médiés par les protéines SHH et SIX3, suivi du développement des vésicules optiques régulées par les protéines PAX6 et LHX2. 
+
+Le rôle de Pax6 dans le développement des yeux a été élégamment démontré par Walter Gehring et ses collègues, qui ont montré que l'expression ectopique de Pax6 peut conduire à la formation d'œil sur les antennes, les ailes et les pattes de Drosophila.
+
+La vésicule optique donne naissance à trois structures : la rétine neurale, l'épithélium pigmenté rétinien et le pédoncule optique.
+
+La rétine neurale contient les cellules progénitrices rétiniennes (RPC) qui donnent naissance aux sept types de cellules de la rétine.
+
+La différenciation commence par les cellules ganglionnaires rétiniennes et se termine par la production de la glie de Muller.
+
+Bien que chaque type de cellule se différencie des RPC dans un ordre séquentiel, il existe un chevauchement considérable dans le moment où les types de cellules individuelles se différencient.
+
+Les signaux qui déterminent le destin d'une cellule fille RPC sont codés par plusieurs familles de facteurs de transcription, y compris les facteurs bHLH et homéodomaine. NT).
+
+L'axe DV est établi par un gradient ventral à dorsal de VAX2, tandis que l'axe NT est coordonné par l'expression des facteurs de transcription en fourche FOXD1 et FOXG1.
+
+Des gradients supplémentaires se forment dans la rétine.
+
+Cette distribution spatiale peut aider à cibler correctement les axones RGC qui fonctionnent pour établir la carte rétinotopique.
+
+
+=== Approvisionnement en sang ===
+
+
+La rétine est stratifiée en couches distinctes, chacune contenant des types de cellules spécifiques ou des compartiments cellulaires qui ont des métabolismes avec des exigences nutritionnelles différentes.
+
+Pour répondre à ces besoins, l'artère ophtalmique bifurque et irrigue la rétine via deux réseaux vasculaires distincts : le réseau choroïdien, qui alimente la choroïde et la rétine externe, et le réseau rétinien, qui irrigue la couche interne de la rétine.
+
+
+==== Mécanismes circulatoires ====
+A première vue, on peut penser que la rétine des vertébrés est « mal câblée » ou « mal conçue » ; mais en fait, la rétine ne pourrait pas fonctionner si elle n'était pas inversée.
+
+La couche photoréceptrice doit être intégrée dans l'épithélium pigmentaire rétinien (RPE), qui remplit au moins sept fonctions vitales, l'une des plus évidentes étant de fournir de l'oxygène et d'autres nutriments nécessaires au fonctionnement des photorécepteurs.
+
+Ces nutriments comprennent le glucose, les acides gras et la rétine.
+
+Le processus d'amplification des photorécepteurs de mammifères utilise de grandes quantités d'énergie pour la vision dans des conditions photopiques (nécessitant moins dans des conditions scotopiques) et nécessite donc l'apport important de nutriments fournis par les vaisseaux sanguins de la choroïde, qui se situe au-delà de l'EPR.
+
+La choroïde fournit environ 75 % de ces nutriments à la rétine et le système vasculaire rétinien seulement 25 %. Lorsque la lumière frappe le 11-cis-rétinien (dans les disques des bâtonnets et des cônes), le 11-cis-rétinien se transforme en tout-trans- rétinien qui déclenche alors des changements dans les opsines.
+
+Maintenant, les segments externes ne régénèrent pas la rétine dans la forme cis une fois qu'elle a été modifiée par la lumière.
+
+Au lieu de cela, la rétine est pompée vers l'EPR environnant où elle est régénérée et transportée dans les segments externes des photorécepteurs.
+
+Cette fonction de recyclage du RPE protège les photorécepteurs contre les dommages photo-oxydatifs et permet aux cellules photoréceptrices d'avoir une durée de vie utile de plusieurs décennies.
+
+
+==== Chez les oiseaux ====
+La rétine des oiseaux est dépourvue de vaisseaux sanguins, peut-être pour donner un passage clair de la lumière pour former des images, donnant ainsi une meilleure résolution.
+
+C'est donc une opinion réfléchie que la rétine d'oiseau dépend pour la nutrition et l'apport d'oxygène d'un organe spécialisé, appelé le "pecten" ou pecten oculi, situé sur la tache aveugle ou le disque optique.
+
+Cet organe est extrêmement riche en vaisseaux sanguins et on pense qu'il fournit de la nutrition et de l'oxygène à la rétine de l'oiseau par diffusion à travers le corps vitré.
+
+Le pecten est très riche en activité de phosphatase alcaline et en cellules polarisées dans sa partie pont - les deux convenant à son rôle sécrétoire.
+
+Les cellules de pecten sont emballées avec des granules de mélanine sombre, qui ont été théorisées pour garder cet organe au chaud avec l'absorption de la lumière parasite tombant sur le pecten.
+
+Ceci est considéré comme améliorant le taux métabolique du pecten, exportant ainsi plus de molécules nutritives pour répondre aux besoins énergétiques rigoureux de la rétine pendant de longues périodes d'exposition à la lumière.
+
+
+=== Identification biométrique et diagnostic de la maladie ===
+
+
+Les bifurcations et autres caractéristiques physiques du réseau vasculaire rétinien interne sont connues pour varier selon les individus, et ces variances individuelles ont été utilisées pour l'identification biométrique et pour la détection précoce de l'apparition de la maladie.
+
+La cartographie des bifurcations vasculaires est l'une des étapes fondamentales de l'identification biométrique.
+
+Les résultats de ces analyses de la structure des vaisseaux sanguins rétiniens peuvent être évalués par rapport aux données de vérité terrain des bifurcations vasculaires des images du fond d'œil rétinien obtenues à partir de l'ensemble de données DRIVE.
+
+De plus, les classes de navires du jeu de données DRIVE ont également été identifiées, et une méthode automatisée d'extraction précise de ces bifurcations est également disponible.
+
+Des changements dans la circulation sanguine rétinienne sont observés avec le vieillissement et l'exposition à la pollution de l'air, et peuvent indiquer des maladies cardiovasculaires telles que l'hypertension et l'athérosclérose.
+
+La détermination de la largeur équivalente des artérioles et des veinules à proximité du disque optique est également une technique largement utilisée pour identifier les risques cardiovasculaires.
+
+
+== Fonction ==
+
+
+La rétine traduit une image optique en impulsions neurales en commençant par l'excitation structurée des pigments sensibles à la couleur de ses bâtonnets et cônes, les cellules photoréceptrices de la rétine.
+
+L'excitation est traitée par le système neuronal et diverses parties du cerveau travaillant en parallèle pour former une représentation de l'environnement externe dans le cerveau.
+Les cônes réagissent à la lumière vive et permettent une vision des couleurs haute résolution pendant l'éclairage de la lumière du jour (également appelée vision photopique).
+
+Les réponses des bâtonnets sont saturées aux niveaux de la lumière du jour et ne contribuent pas à la vision des motifs.
+
+Cependant, les bâtonnets réagissent à la faible lumière et assurent une vision monochromatique à faible résolution sous de très faibles niveaux d'éclairage (appelée vision scotopique).
+
+L'illumination dans la plupart des environnements de bureau se situe entre ces deux niveaux et est appelée vision mésopique.
+
+Aux niveaux de lumière mésopique, les bâtonnets et les cônes contribuent activement à l'information sur les motifs. 
+
+La contribution des informations de la tige à la vision des motifs dans ces circonstances n'est pas claire.
+La réponse des cônes à diverses longueurs d'onde de lumière s'appelle leur sensibilité spectrale. 
+
+Dans la vision humaine normale, la sensibilité spectrale d'un cône appartient à l'un des trois sous-types, souvent appelés bleu, vert et rouge, mais plus précisément connus sous le nom de sous-types de cônes sensibles aux longueurs d'onde courtes, moyennes et longues. 
+
+C'est l'absence d'un ou plusieurs des sous-types de cônes qui provoque chez les individus des déficiences dans la vision des couleurs ou divers types de daltonisme. 
+
+Ces personnes ne sont pas aveugles aux objets d'une couleur particulière, mais sont incapables de distinguer les couleurs qui peuvent être distinguées par des personnes ayant une vision normale. 
+
+Les humains ont cette vision trichromatique, tandis que la plupart des autres mammifères n'ont pas de cônes avec un pigment sensible au rouge et ont donc une vision des couleurs dichromatique plus faible. 
+
+Cependant, certains animaux ont quatre sous-types spectraux, par exemple la truite ajoute un sous-groupe ultraviolet aux sous-types courts, moyens et longs qui sont similaires aux humains. 
+
+Certains poissons sont également sensibles à la polarisation de la lumière.
+Dans les photorécepteurs, l'exposition à la lumière hyperpolarise la membrane en une série de décalages gradués. 
+
+Le segment cellulaire externe contient un photopigment. 
+
+À l'intérieur de la cellule, les niveaux normaux de guanosine monophosphate cyclique (cGMP) maintiennent le canal Na + ouvert, et donc à l'état de repos, la cellule est dépolarisée. 
+
+Le photon provoque l'isomérisation du rétinien lié à la protéine réceptrice en trans-rétinien. 
+
+Cela amène le récepteur à activer plusieurs protéines G. 
+
+Cela amène à son tour la sous-unité Ga de la protéine à activer une phosphodiestérase (PDE6), qui dégrade le cGMP, entraînant la fermeture des canaux ioniques nucléotidiques cycliques Na + (CNG). 
+
+Ainsi la cellule est hyperpolarisée. 
+
+La quantité de neurotransmetteur libérée est réduite en pleine lumière et augmente à mesure que les niveaux de lumière diminuent. 
+
+Le photopigment proprement dit est blanchi à la lumière vive et remplacé uniquement par un processus chimique, de sorte que lors d'une transition de la lumière vive à l'obscurité, l'œil peut prendre jusqu'à trente minutes pour atteindre sa pleine sensibilité.
+Lorsqu'il est ainsi excité par la lumière, le photorécepteur envoie une réponse proportionnelle de manière synaptique aux cellules bipolaires qui à leur tour signalent les cellules ganglionnaires rétiniennes. 
+
+Les photorécepteurs sont également réticulés par des cellules horizontales et des cellules amacrines, qui modifient le signal synaptique avant qu'il n'atteigne les cellules ganglionnaires, les signaux neuronaux étant entremêlés et combinés. 
+
+Parmi les cellules nerveuses de la rétine, seules les cellules ganglionnaires rétiniennes et quelques cellules amacrines créent des potentiels d'action.
+Dans les cellules ganglionnaires rétiniennes, il existe deux types de réponse, selon le champ récepteur de la cellule. 
+
+Les champs récepteurs des cellules ganglionnaires rétiniennes comprennent une zone centrale, approximativement circulaire, où la lumière a un effet sur le déclenchement de la cellule, et un pourtour annulaire, où la lumière a l'effet opposé. 
+
+Dans les cellules ON, une augmentation de l'intensité lumineuse au centre du champ récepteur entraîne une augmentation de la cadence de tir. 
+
+Dans les cellules OFF, il le fait diminuer. 
+
+Dans un modèle linéaire, ce profil de réponse est bien décrit par une différence de gaussiennes et constitue la base des algorithmes de détection des contours. 
+
+Au-delà de cette simple différence, les cellules ganglionnaires se différencient également par la sensibilité chromatique et le type de sommation spatiale. 
+
+Les cellules présentant une sommation spatiale linéaire sont appelées cellules X (également appelées cellules ganglionnaires parvocellulaires, P ou midget), et celles présentant une sommation non linéaire sont des cellules Y (également appelées cellules ganglionnaires rétiniennes magnocellulaires, M ou parasol), bien que la correspondance entre Les cellules X et Y (dans la rétine du chat) et les cellules P et M (dans la rétine du primate) ne sont pas aussi simples qu'elles le semblaient autrefois.
+Lors du transfert des signaux visuels au cerveau, la voie visuelle, la rétine est divisée verticalement en deux, une moitié temporale (plus proche de la tempe) et une moitié nasale (plus proche du nez). 
+
+Les axones de la moitié nasale traversent le cerveau au niveau du chiasma optique pour rejoindre les axones de la moitié temporale de l'autre œil avant de passer dans le corps genouillé latéral.
+Bien qu'il existe plus de 130 millions de récepteurs rétiniens, il n'y a qu'environ 1,2 million de fibres (axones) dans le nerf optique. 
+
+Ainsi, une grande quantité de prétraitement est effectuée dans la rétine. 
+
+La fovéa produit les informations les plus précises. 
+
+Bien qu'ils occupent environ 0,01 % du champ visuel (moins de 2 ° d'angle visuel), environ 10 % des axones du nerf optique sont consacrés à la fovéa. 
+
+La limite de résolution de la fovéa a été déterminée à environ 10 000 points. 
+
+La capacité d'information est estimée à 500 000 bits par seconde (pour plus d'informations sur les bits, voir la théorie de l'information) sans couleur ou environ 600 000 bits par seconde avec la couleur.
+
+
+=== Encodage spatial ===
+
+
+Lorsque la rétine envoie des impulsions neurales représentant une image au cerveau, elle code spatialement (comprime) ces impulsions pour s'adapter à la capacité limitée du nerf optique.
+
+La compression est nécessaire car il y a 100 fois plus de cellules photoréceptrices que de cellules ganglionnaires.
+
+Cela se fait par «décorrélation», qui est réalisée par les «structures centre-entourage», qui sont mises en œuvre par les cellules bipolaires et ganglionnaires.
+Il existe deux types de structures centre-entourage dans la rétine - centrées et décentrées.
+
+Les centres ont un centre pondéré positivement et un contour pondéré négativement.
+
+Les décentrés sont tout le contraire.
+
+La pondération positive est plus communément appelée excitatrice et la pondération négative comme inhibitrice.
+Ces structures centre-entourage ne sont pas physiquement apparentes, en ce sens qu'on ne peut pas les voir en colorant des échantillons de tissu et en examinant l'anatomie de la rétine.
+
+Les structures centre-entourage sont logiques (c'est-à-dire mathématiquement abstraites) en ce sens qu'elles dépendent des forces de connexion entre les cellules bipolaires et ganglionnaires.
+
+On pense que la force de connexion entre les cellules est causée par le nombre et les types de canaux ioniques intégrés dans les synapses entre les cellules bipolaires et ganglionnaires.
+Les structures centre-entourage sont mathématiquement équivalentes aux algorithmes de détection des contours utilisés par les programmeurs informatiques pour extraire ou améliorer les contours d'une photographie numérique.
+
+Ainsi, la rétine effectue des opérations sur les impulsions représentant l'image pour améliorer les bords des objets dans son champ visuel.
+
+Par exemple, dans une photo d'un chien, d'un chat et d'une voiture, ce sont les bords de ces objets qui contiennent le plus d'informations. 
+
+Pour que des fonctions supérieures dans le cerveau (ou dans un ordinateur d'ailleurs) extraient et classent des objets tels qu'un chien et un chat, la rétine est la première étape pour séparer les différents objets de la scène.
+A titre d'exemple, la matrice suivante est au cœur d'un algorithme informatique qui implémente la détection des contours. 
+
+Cette matrice est l'équivalent informatique de la structure centre-entourage. 
+
+Dans cet exemple, chaque boîte (élément) de cette matrice serait connectée à un photorécepteur. 
+
+Le photorécepteur au centre est le récepteur actuel en cours de traitement. 
+
+Le photorécepteur central est multiplié par le facteur de pondération +1. 
+
+Les photorécepteurs environnants sont les "voisins les plus proches" du centre et sont multipliés par la valeur -1/8.
+
+La somme de ces neuf éléments est finalement calculée.
+
+Cette sommation est répétée pour chaque photorécepteur de l'image en se déplaçant vers la gauche jusqu'à la fin d'une ligne, puis vers le bas jusqu'à la ligne suivante.
+
+La somme totale de cette matrice est nulle, si toutes les entrées des neuf photorécepteurs sont de même valeur.
+
+Le résultat zéro indique que l'image était uniforme (non changeante) dans ce petit patch.
+
+Des sommes négatives ou positives signifient que l'image variait (changeait) dans ce petit patch de neuf photorécepteurs.
+La matrice ci-dessus n'est qu'une approximation de ce qui se passe réellement à l'intérieur de la rétine.
+
+Les différences sont :
+
+L'exemple ci-dessus est dit "équilibré".
+
+Le terme équilibré signifie que la somme des poids négatifs est égale à la somme des poids positifs de sorte qu'ils s'annulent parfaitement.
+
+Les cellules ganglionnaires rétiniennes ne sont presque jamais parfaitement équilibrées.
+La table est carrée tandis que les structures centre-entourage de la rétine sont circulaires.
+Les neurones fonctionnent sur des trains de pointes se déplaçant le long des axones des cellules nerveuses.
+
+Les ordinateurs fonctionnent sur un seul nombre à virgule flottante qui est essentiellement constant à partir de chaque pixel d'entrée. (Le pixel informatique est essentiellement l'équivalent d'un photorécepteur biologique.)
+La rétine effectue tous ces calculs en parallèle tandis que l'ordinateur opère sur chaque pixel un à la fois.
+
+La rétine n'effectue pas de sommations ni de décalages répétés comme le ferait un ordinateur.
+Enfin, les cellules horizontales et amacrines jouent un rôle important dans ce processus, mais cela n'est pas représenté ici. Voici un exemple d'image d'entrée et comment la détection des bords la modifierait.
+
+Une fois l'image encodée spatialement par les structures centre-entourage, le signal est envoyé le long du nerf optique (via les axones des cellules ganglionnaires) à travers le chiasma optique jusqu'au LGN (noyau géniculé latéral).
+
+La fonction exacte du LGN est inconnue à ce jour.
+
+La sortie du LGN est ensuite envoyée à l'arrière du cerveau.
+
+Plus précisément, la sortie du LGN "rayonne" vers le cortex visuel primaire V1.
+Flux de signal simplifié : photorécepteurs → bipolaire → ganglion → chiasme → LGN → cortex V1
+
+
+== Signification clinique ==
+
+Il existe de nombreuses maladies ou troubles héréditaires et acquis qui peuvent affecter la rétine.
+
+Certains d'entre eux incluent:
+
+La rétinite pigmentaire est un groupe de maladies génétiques qui affectent la rétine et entraînent la perte de la vision nocturne et de la vision périphérique.
+La dégénérescence maculaire décrit un groupe de maladies caractérisées par une perte de la vision centrale due à la mort ou à une altération des cellules de la macula.
+La dystrophie des cônes et des bâtonnets (CORD) décrit un certain nombre de maladies dans lesquelles la perte de vision est causée par la détérioration des cônes et/ou des bâtonnets de la rétine.
+Lors de la séparation rétinienne, la rétine se détache de l'arrière du globe oculaire.
+
+L'ignipuncture est une méthode de traitement dépassée.
+
+Le terme décollement de la rétine est utilisé pour décrire une séparation de la rétine neurosensorielle de l'épithélium pigmentaire rétinien.
+
+Il existe plusieurs méthodes de traitement modernes pour réparer un décollement de la rétine : la rétinopexie pneumatique, la boucle sclérale, la cryothérapie, la photocoagulation au laser et la vitrectomie par la pars plana.
+L'hypertension et le diabète sucré peuvent endommager les minuscules vaisseaux sanguins qui alimentent la rétine, entraînant une rétinopathie hypertensive et une rétinopathie diabétique.
+Le rétinoblastome est un cancer de la rétine.
+Les maladies rétiniennes chez les chiens comprennent la dysplasie rétinienne, l'atrophie rétinienne progressive et la dégénérescence rétinienne acquise soudaine.
+La lipémie rétinienne est une apparence blanche de la rétine et peut se produire par dépôt de lipides dans un déficit en lipoprotéine lipase.
+Décollement de la rétine. 
+
+La rétine neurale se détache occasionnellement de l'épithélium pigmentaire. 
+
+Dans certains cas, la cause d'un tel détachement est une lésion du globe oculaire qui permet au liquide ou au sang de s'accumuler entre la rétine neurale et l'épithélium pigmentaire. 
+
+Le détachement est parfois causé par la contracture de fines fibrilles de collagène dans l'humeur vitrée, qui tirent des zones de la rétine vers l'intérieur du globe.
+Cécité nocturne : La cécité nocturne survient chez toute personne présentant une carence sévère en vitamine A.
+
+La raison en est que sans vitamine A, les quantités de rétinal et de rhodopsine qui peuvent être formées sont fortement réduites.
+
+Cette condition est appelée cécité nocturne car la quantité de lumière disponible la nuit est trop faible pour permettre une vision adéquate chez les personnes carencées en vitamine A. De plus, la rétine a été décrite comme une « fenêtre » sur le cerveau et le corps, étant donné que les anomalies détectés par un examen de la rétine peuvent découvrir des maladies neurologiques et systémiques.
+
+
+=== Diagnostic ===
+
+Un certain nombre d'instruments différents sont disponibles pour le diagnostic des maladies et des troubles affectant la rétine. 
+
+L'ophtalmoscopie et la photographie du fond d'œil sont utilisées depuis longtemps pour examiner la rétine. 
+
+Récemment, l'optique adaptative a été utilisée pour imager des bâtonnets et des cônes individuels dans la rétine humaine vivante, et une société basée en Écosse a mis au point une technologie qui permet aux médecins d'observer la rétine complète sans aucune gêne pour les patients. L'électrorétinogramme est utilisé de manière non invasive mesurer l'activité électrique de la rétine, qui est affectée par certaines maladies. 
+
+Une technologie relativement nouvelle, maintenant largement disponible, est la tomographie par cohérence optique (OCT). 
+
+Cette technique non invasive permet d'obtenir une tomographie 3D volumétrique ou en coupe haute résolution des structures fines de la rétine, avec une qualité histologique. 
+
+L'analyse des vaisseaux rétiniens est une méthode non invasive pour examiner les petites artères et veines de la rétine qui permet de tirer des conclusions sur la morphologie et la fonction des petits vaisseaux ailleurs dans le corps humain.
+
+Il a été établi comme prédicteur des maladies cardiovasculaires et semble avoir, selon une étude publiée en 2019, un potentiel dans la détection précoce de la maladie d'Alzheimer.
+
+
+=== Traitement ===
+
+Le traitement dépend de la nature de la maladie ou du trouble.
+
+
+==== Modalités de traitement communes ====
+Voici les modalités courantes de prise en charge des maladies rétiniennes :
+
+Médicaments intravitréens, tels que les anti-VEGF ou les corticostéroïdes
+Chirurgie vitréorétinienne
+Utilisation de suppléments nutritionnels
+Modification des facteurs de risque systémiques de maladie rétinienne
+
+
+==== Modalités de traitement peu courantes ====
+
+
+== Historique ==
+
+Vers 300 avant notre ère, Herophilos a identifié la rétine à partir de dissections d'yeux de cadavres. 
+
+Il l'a appelé la couche arachnoïde, de sa ressemblance avec une toile d'araignée, et rétiforme, de sa ressemblance avec un filet de coulée. 
+
+Le terme arachnoïde en est venu à désigner une couche autour du cerveau; le terme retiform en est venu à désigner la rétine.
+
+Ceci est cohérent avec la théorie de l'intromission et contre la théorie de l'émission, la théorie selon laquelle la vue se produit à partir des rayons émis par les yeux. 
+
+Cependant, Ibn Al-Haytham a décidé que la rétine ne pouvait pas être responsable des débuts de la vision car l'image qui s'y formait était inversée. 
+
+Au lieu de cela, il a décidé que cela devait commencer à la surface du cristallin. En 1604, Johannes Kepler a élaboré l'optique de l'œil et a décidé que la rétine devait être là où la vue commence.
+
+Il a laissé à d'autres scientifiques le soin de réconcilier l'image rétinienne inversée avec notre perception du monde comme debout. En 1894, Santiago Ramón y Cajal a publié la première caractérisation majeure des neurones rétiniens dans Retina der Wirbelthiere (La rétine des vertébrés). George Wald , Haldan Keffer Hartline et Ragnar Granit ont remporté le prix Nobel de physiologie ou médecine en 1967 pour leurs recherches scientifiques sur la rétine. le taux de transfert est de 875 kilobits par seconde. MacLaren & Pearson et ses collègues de l'University College London et du Moorfields Eye Hospital de Londres, en 2006,ont montré que les cellules photoréceptrices pouvaient être transplantées avec succès dans la rétine de la souris si les cellules du donneur étaient à un stade de développement critique.
+
+Récemment, Ader et ses collègues de Dublin ont montré, à l'aide du microscope électronique, que les photorécepteurs transplantés formaient des connexions synaptiques. En 2012, Sebastian Seung et son laboratoire du MIT ont lancé EyeWire, un jeu scientifique citoyen en ligne où les joueurs tracent des neurones dans la rétine.
+
+Les objectifs du projet EyeWire sont d'identifier des types de cellules spécifiques au sein des grandes classes connues de cellules rétiniennes et de cartographier les connexions entre les neurones de la rétine, ce qui aidera à déterminer le fonctionnement de la vision.
+
+
+
+https://en.wikipedia.org/wiki/Retina
+
+;;;PT;;;
+
+
+
+RETINA
+
+
+A retina (do latim: rete "rede") é a camada de tecido mais interna e sensível à luz do olho da maioria dos vertebrados e alguns moluscos. 
+
+A ótica do olho cria uma imagem bidimensional focada do mundo visual na retina, que traduz essa imagem em impulsos neurais elétricos para o cérebro para criar a percepção visual.
+
+A retina tem uma função análoga à do filme ou sensor de imagem em uma câmera.
+
+A retina neural consiste em várias camadas de neurônios interconectados por sinapses e é sustentada por uma camada externa de células epiteliais pigmentadas.
+
+As células sensíveis à luz primárias na retina são as células fotorreceptoras, que são de dois tipos: bastonetes e cones.
+
+Os bastonetes funcionam principalmente com pouca luz e fornecem visão em preto e branco.
+
+Os cones funcionam em condições bem iluminadas e são responsáveis ​​pela percepção de cores, bem como pela visão de alta acuidade usada para tarefas como leitura.
+
+Um terceiro tipo de célula sensível à luz, a célula ganglionar fotossensível, é importante para o arrastamento de ritmos circadianos e respostas reflexivas, como o reflexo pupilar à luz.
+
+A luz que atinge a retina inicia uma cascata de eventos químicos e elétricos que, em última análise, desencadeiam impulsos nervosos que são enviados para vários centros visuais do cérebro através das fibras do nervo óptico. 
+
+Os sinais neurais dos bastonetes e cones são processados ​​por outros neurônios, cuja saída assume a forma de potenciais de ação nas células ganglionares da retina cujos axônios formam o nervo óptico. 
+
+Várias características importantes da percepção visual podem ser atribuídas à codificação retiniana e ao processamento da luz.
+
+No desenvolvimento embrionário de vertebrados, a retina e o nervo óptico originam-se como conseqüências do cérebro em desenvolvimento, especificamente o diencéfalo embrionário; assim, a retina é considerada parte do sistema nervoso central (SNC) e é, na verdade, tecido cerebral.
+
+É a única parte do SNC que pode ser visualizada de forma não invasiva.
+
+
+== Estrutura ==
+
+
+
+=== Retina invertida versus não invertida ===
+
+A retina dos vertebrados é invertida no sentido de que as células sensíveis à luz estão na parte de trás da retina, de modo que a luz tem que passar por camadas de neurônios e capilares antes de atingir os bastonetes e cones. 
+
+As células ganglionares, cujos axônios formam o nervo óptico, estão na frente da retina; portanto, o nervo óptico deve atravessar a retina a caminho do cérebro.
+
+Nesta região não há fotorreceptores, dando origem ao ponto cego. 
+
+Em contraste, na retina dos cefalópodes os fotorreceptores estão na frente, com neurônios de processamento e capilares atrás deles. 
+
+Por causa disso, os cefalópodes não têm um ponto cego.
+Embora o tecido neural sobrejacente seja parcialmente transparente e as células gliais que o acompanham tenham demonstrado atuar como canais de fibra ótica para transportar fótons diretamente para os fotorreceptores, ocorre dispersão de luz. 
+
+Alguns vertebrados, incluindo humanos, têm uma área da retina central adaptada para visão de alta acuidade. 
+
+Esta área, denominada fóvea centralis, é avascular (não possui vasos sanguíneos) e possui tecido neural mínimo na frente dos fotorreceptores, minimizando assim a dispersão da luz. olhos de muitos vertebrados. 
+
+Olhos de lula não têm um análogo do epitélio pigmentar da retina de vertebrados (RPE).
+
+Embora seus fotorreceptores contenham uma proteína, o retinocromo, que recicla a retina e replica uma das funções do EPR de vertebrados, pode-se argumentar que os fotorreceptores de cefalópodes não são mantidos tão bem quanto nos vertebrados e que, como resultado, a vida útil dos fotorreceptores em invertebrados é muito mais curto do que nos vertebrados.
+
+Raramente ocorre a substituição fácil de olhos de haste (algumas lagostas) ou retinas (algumas aranhas, como Deinopis).
+A retina dos cefalópodes não se origina como uma conseqüência do cérebro, como a dos vertebrados.
+
+É discutível que essa diferença mostra que os olhos de vertebrados e cefalópodes não são homólogos, mas evoluíram separadamente.
+
+De uma perspectiva evolutiva, uma estrutura mais complexa como a retina invertida geralmente pode surgir como consequência de dois processos alternativos: (a) um "bom" compromisso vantajoso entre limitações funcionais concorrentes, ou (b) como uma relíquia histórica mal-adaptativa de o caminho complicado da evolução e transformação do órgão. 
+
+A visão é uma adaptação importante em vertebrados superiores.
+Uma terceira visão do olho "invertido" dos vertebrados é que ele combina dois benefícios: a manutenção dos fotorreceptores mencionados acima e a redução da intensidade da luz necessária para não cegar os fotorreceptores, que se baseiam nos olhos extremamente sensíveis dos ancestrais dos modernos peixes-bruxa (um peixe que vive em águas muito profundas e escuras).
+
+
+=== Camadas da retina ===
+
+
+A retina dos vertebrados tem dez camadas distintas. 
+
+Do mais próximo ao mais distante do corpo vítreo:
+
+Membrana limitante interna – membrana basal elaborada pelas células de Müller.
+Camada de fibras nervosas – axônios dos corpos celulares ganglionares (observe que existe uma fina camada de platinas das células de Müller entre essa camada e a membrana limitante interna).
+Camada de células ganglionares – contém núcleos de células ganglionares, cujos axônios se tornam as fibras do nervo óptico, e algumas células amácrinas deslocadas.
+Camada plexiforme interna – contém a sinapse entre os axônios das células bipolares e os dendritos das células ganglionares e amácrinas.
+Camada nuclear interna – contém os núcleos e os corpos celulares circundantes (perikarya) das células amácrinas, células bipolares e células horizontais.
+Camada plexiforme externa – projeções de bastonetes e cones terminando na esférula do bastonete e no pedículo do cone, respectivamente.
+
+Estes fazem sinapses com dendritos de células bipolares e células horizontais.
+
+Na região macular, isso é conhecido como a camada de fibra de Henle.
+Camada nuclear externa – corpos celulares de bastonetes e cones.
+Membrana limitante externa – camada que separa as porções do segmento interno dos fotorreceptores de seus núcleos celulares.
+Segmento interno/camada de segmento externo – segmentos internos e segmentos externos de bastonetes e cones.
+
+Os segmentos externos contêm um aparelho de detecção de luz altamente especializado.
+Epitélio pigmentar da retina – camada única de células epiteliais cuboidais (com extrusões não mostradas no diagrama).
+
+Esta camada está mais próxima da coróide e fornece nutrição e funções de suporte para a retina neural. O pigmento preto melanina na camada de pigmento impede a reflexão da luz em todo o globo ocular; isso é extremamente importante para uma visão clara. Essas camadas podem ser agrupadas em 4 etapas principais de processamento: fotorrecepção; transmissão para células bipolares; transmissão para células ganglionares, que também contêm fotorreceptores, as células ganglionares fotossensíveis; e transmissão ao longo do nervo óptico.
+
+Em cada estágio sináptico há também células horizontais e amácrinas que se conectam lateralmente.
+O nervo óptico é um trato central de muitos axônios de células ganglionares que se conectam principalmente ao corpo geniculado lateral, uma estação de retransmissão visual no diencéfalo (a parte posterior do prosencéfalo). 
+
+Também se projeta para o colículo superior, o núcleo supraquiasmático e o núcleo do trato óptico. 
+
+Ele passa pelas outras camadas, criando o disco óptico em primatas. Estruturas adicionais, não diretamente associadas à visão, são encontradas como protuberâncias da retina em alguns grupos de vertebrados. 
+
+Nas aves, o pecten é uma estrutura vascular de forma complexa que se projeta da retina para o humor vítreo; fornece oxigênio e nutrientes ao olho e também pode ajudar na visão.
+
+Os répteis têm uma estrutura semelhante, mas muito mais simples. Em humanos adultos, toda a retina é aproximadamente 72% de uma esfera com cerca de 22 mm de diâmetro. 
+
+A retina inteira contém cerca de 7 milhões de cones e 75 a 150 milhões de bastonetes. 
+
+O disco óptico, uma parte da retina às vezes chamado de "ponto cego" porque não tem fotorreceptores, está localizado na papila óptica, onde as fibras do nervo óptico deixam o olho.
+
+Aparece como uma área branca oval de 3 mm².
+
+Temporal (na direção das têmporas) a este disco é a mácula, em cujo centro está a fóvea, um buraco que é responsável pela nossa visão central nítida, mas na verdade é menos sensível à luz por causa da falta de bastonetes.
+
+Os primatas humanos e não humanos possuem uma fóvea, ao contrário de certas espécies de aves, como falcões, que são bifoviados, e cães e gatos, que não possuem fóvea, mas uma faixa central conhecida como faixa visual.
+
+Ao redor da fóvea estende-se a retina central por cerca de 6 mm e depois a retina periférica.
+
+A borda mais distante da retina é definida pela ora serrata.
+
+A distância de uma ora à outra (ou mácula), a área mais sensível ao longo do meridiano horizontal, é de cerca de 32 mm.Em corte, a retina não tem mais de 0,5 mm de espessura. 
+
+Possui três camadas de células nervosas e duas de sinapses, incluindo a única sinapse de fita. 
+
+O nervo óptico transporta os axônios das células ganglionares para o cérebro e os vasos sanguíneos que suprem a retina. 
+
+As células ganglionares ficam mais internas no olho, enquanto as células fotorreceptoras ficam além. 
+
+Por causa desse arranjo contra-intuitivo, a luz deve primeiro passar através e ao redor das células ganglionares e através da espessura da retina (incluindo seus vasos capilares, não mostrados) antes de atingir os bastonetes e cones. 
+
+A luz é absorvida pelo epitélio pigmentar da retina ou pela coróide (ambos opacos).
+Os glóbulos brancos nos capilares na frente dos fotorreceptores podem ser percebidos como pequenos pontos brilhantes em movimento ao olhar para a luz azul. 
+
+Isso é conhecido como fenômeno entóptico de campo azul (ou fenômeno de Scheerer).
+Entre a camada de células ganglionares e os bastonetes e cones existem duas camadas de neurópilos onde são feitos os contatos sinápticos. 
+
+As camadas do neurópilo são a camada plexiforme externa e a camada plexiforme interna. 
+
+Na camada externa do neurópilo, os bastonetes e cones se conectam às células bipolares que correm verticalmente, e as células horizontais orientadas horizontalmente se conectam às células ganglionares.
+A retina central contém predominantemente cones, enquanto a retina periférica contém predominantemente bastonetes. 
+
+No total, existem cerca de sete milhões de cones e cem milhões de bastonetes. 
+
+No centro da mácula está a fosseta foveal onde os cones são estreitos e longos, e, dispostos em um mosaico hexagonal, o mais denso, em contraste com os cones muito mais gordos localizados mais perifericamente na retina. 
+
+Na foveal, as outras camadas retinianas são deslocadas, antes de se acumularem ao longo da inclinação foveal até atingir a borda da fóvea, ou parafóvea, que é a porção mais espessa da retina. 
+
+A mácula tem uma pigmentação amarela, proveniente de pigmentos de triagem, e é conhecida como mácula lútea. 
+
+A área diretamente ao redor da fóvea tem a maior densidade de bastonetes convergindo em células bipolares únicas. 
+
+Como seus cones têm uma convergência de sinais muito menor, a fóvea permite a visão mais nítida que o olho pode alcançar. Embora o bastonete e os cones sejam uma espécie de mosaico, a transmissão de receptores para bipolares e células ganglionares não é direta. 
+
+Como existem cerca de 150 milhões de receptores e apenas 1 milhão de fibras de nervo óptico, deve haver convergência e, portanto, mistura de sinais. 
+
+Além disso, a ação horizontal das células horizontais e amácrinas pode permitir que uma área da retina controle outra (por exemplo, um estímulo inibindo outro). 
+
+Essa inibição é fundamental para diminuir a soma de mensagens enviadas às regiões superiores do cérebro. 
+
+Em alguns vertebrados inferiores (por exemplo, o pombo), há um controle “centrífugo” das mensagens – ou seja, uma camada pode controlar outra, ou regiões superiores do cérebro podem acionar as células nervosas da retina, mas em primatas isso não ocorre.
+
+
+==== Camadas imagináveis ​​com tomografia de coerência óptica ====
+Usando a tomografia de coerência óptica (OCT) existem 18 camadas que podem ser identificadas na retina.
+
+As camadas e a correlação anatômica são as seguintes:
+
+Do mais interno ao mais externo, as camadas identificáveis ​​pelo OCT são as seguintes:
+
+
+=== Desenvolvimento ===
+
+O desenvolvimento da retina inicia-se com o estabelecimento dos campos oculares mediados pelas proteínas SHH e SIX3, com posterior desenvolvimento das vesículas ópticas reguladas pelas proteínas PAX6 e LHX2.
+
+O papel de Pax6 no desenvolvimento do olho foi elegantemente demonstrado por Walter Gehring e colegas, que mostraram que a expressão ectópica de Pax6 pode levar à formação de olhos em antenas, asas e pernas de Drosophila.
+
+A vesícula óptica dá origem a três estruturas: a retina neural, o epitélio pigmentado da retina e o pedúnculo óptico.
+
+A retina neural contém as células progenitoras da retina (RPCs) que dão origem aos sete tipos de células da retina.
+
+A diferenciação começa com as células ganglionares da retina e termina com a produção da glia de Muller.
+
+Embora cada tipo de célula se diferencie das RPCs em uma ordem sequencial, há uma sobreposição considerável no momento em que os tipos de células individuais se diferenciam.
+
+As pistas que determinam o destino de uma célula filha RPC são codificadas por várias famílias de fatores de transcrição, incluindo os fatores bHLH e homeodomain. eixos NT). 
+
+O eixo DV é estabelecido por um gradiente ventral para dorsal de VAX2, enquanto o eixo NT é coordenado pela expressão dos fatores de transcrição forkhead FOXD1 e FOXG1. 
+
+Gradientes adicionais são formados dentro da retina. 
+
+Essa distribuição espacial pode auxiliar no direcionamento adequado dos axônios RGC que funcionam para estabelecer o mapa retinotópico.
+
+
+=== Suprimento sanguíneo ===
+
+
+A retina é estratificada em camadas distintas, cada uma contendo tipos celulares específicos ou compartimentos celulares que possuem metabolismos com diferentes necessidades nutricionais. 
+
+Para satisfazer esses requisitos, a artéria oftálmica se bifurca e supre a retina por meio de duas redes vasculares distintas: a rede coróide, que supre a coróide e a retina externa, e a rede retiniana, que supre a camada interna da retina.
+
+
+==== Mecanismos circulatórios ====
+À primeira vista, pode-se pensar que a retina dos vertebrados está "conectada de forma errada" ou "mal projetada"; mas, na verdade, a retina não poderia funcionar se não fosse invertida.
+
+A camada de fotorreceptores deve estar inserida no epitélio pigmentar da retina (EPR), que desempenha pelo menos sete funções vitais, sendo uma das mais óbvias fornecer oxigênio e outros nutrientes necessários para o funcionamento dos fotorreceptores.
+
+Esses nutrientes incluem glicose, ácidos graxos e retinal.
+
+O processo de amplificação de fotorreceptores de mamíferos usa grandes quantidades de energia para visão em condições fotópicas (requerendo menos em condições escotópicas) e, portanto, requer o grande suprimento de nutrientes fornecido pelos vasos sanguíneos na coróide, que fica além do EPR. 
+
+A coróide fornece cerca de 75% desses nutrientes para a retina e a vasculatura retiniana apenas 25%. retinal que então desencadeia alterações nas opsinas. 
+
+Agora, os segmentos externos não regeneram a retina de volta à forma cis, uma vez que foi alterada pela luz. 
+
+Em vez disso, o retinal é bombeado para o EPR circundante, onde é regenerado e transportado de volta para os segmentos externos dos fotorreceptores. 
+
+Esta função de reciclagem do RPE protege os fotorreceptores contra danos foto-oxidativos e permite que as células fotorreceptoras tenham uma vida útil de décadas.
+
+
+==== Em pássaros ====
+A retina da ave é desprovida de vasos sanguíneos, talvez para dar passagem desobstruída de luz para a formação de imagens, dando assim melhor resolução. 
+
+É, portanto, uma visão considerada que a retina da ave depende para nutrição e fornecimento de oxigênio em um órgão especializado, chamado de "pecten" ou pecten oculi, localizado no ponto cego ou disco óptico. 
+
+Este órgão é extremamente rico em vasos sanguíneos e acredita-se que forneça nutrição e oxigênio à retina das aves por difusão através do corpo vítreo. 
+
+O pecten é altamente rico em atividade de fosfatase alcalina e células polarizadas em sua porção de ponte – ambas condizentes com seu papel secretor. 
+
+As células de pecten são embaladas com grânulos escuros de melanina, que foram teorizados para manter esse órgão aquecido com a absorção de luz difusa que incide sobre o pecten. 
+
+Considera-se que isso aumenta a taxa metabólica da pecten, exportando assim moléculas mais nutritivas para atender aos rigorosos requisitos de energia da retina durante longos períodos de exposição à luz.
+
+
+=== Identificação biométrica e diagnóstico da doença ===
+
+
+Sabe-se que as bifurcações e outras características físicas da rede vascular interna da retina variam entre os indivíduos, e essas variações individuais têm sido usadas para identificação biométrica e para detecção precoce do início da doença. 
+
+O mapeamento das bifurcações vasculares é uma das etapas básicas na identificação biométrica. 
+
+Os resultados de tais análises da estrutura dos vasos sanguíneos da retina podem ser avaliados em relação aos dados de verdade de bifurcações vasculares de imagens de fundo de retina que são obtidas a partir do conjunto de dados DRIVE. 
+
+Além disso, as classes de vasos do conjunto de dados DRIVE também foram identificadas, e um método automatizado para extração precisa dessas bifurcações também está disponível. 
+
+Alterações na circulação sanguínea da retina são observadas com o envelhecimento e a exposição à poluição do ar, podendo indicar doenças cardiovasculares, como hipertensão e aterosclerose. 
+
+A determinação da largura equivalente das arteríolas e vênulas próximas ao disco óptico também é uma técnica amplamente utilizada para identificar riscos cardiovasculares.
+
+
+== Função ==
+
+
+A retina traduz uma imagem óptica em impulsos neurais começando com a excitação padronizada dos pigmentos sensíveis à cor de seus bastonetes e cones, as células fotorreceptoras da retina.
+
+A excitação é processada pelo sistema neural e várias partes do cérebro trabalhando em paralelo para formar uma representação do ambiente externo no cérebro.
+Os cones respondem à luz brilhante e mediam a visão de cores de alta resolução durante a iluminação diurna (também chamada de visão fotópica).
+
+As respostas dos bastonetes são saturadas nos níveis de luz do dia e não contribuem para a visão padrão.
+
+No entanto, os bastonetes respondem à luz fraca e mediam a visão monocromática de baixa resolução sob níveis muito baixos de iluminação (chamada visão escotópica).
+
+A iluminação na maioria dos ambientes de escritório fica entre esses dois níveis e é chamada de visão mesópica.
+
+Em níveis de luz mesópicos, tanto os bastonetes quanto os cones contribuem ativamente com informações de padrão.
+
+Que contribuição a informação da haste faz para a visão do padrão nessas circunstâncias não é clara.
+A resposta dos cones a vários comprimentos de onda de luz é chamada de sensibilidade espectral.
+
+Na visão humana normal, a sensibilidade espectral de um cone se enquadra em um dos três subtipos, geralmente chamados de azul, verde e vermelho, mas mais precisamente conhecidos como subtipos de cone sensíveis a comprimentos de onda curtos, médios e longos.
+
+É a falta de um ou mais dos subtipos de cone que faz com que os indivíduos tenham deficiências na visão de cores ou vários tipos de daltonismo.
+
+Esses indivíduos não são cegos para objetos de uma determinada cor, mas são incapazes de distinguir entre cores que podem ser distinguidas por pessoas com visão normal.
+
+Os seres humanos têm essa visão tricromática, enquanto a maioria dos outros mamíferos não possui cones com pigmento sensível ao vermelho e, portanto, têm uma visão dicromática de cores mais pobre.
+
+No entanto, alguns animais têm quatro subtipos espectrais, por exemplo, a truta adiciona um subgrupo ultravioleta aos subtipos curto, médio e longo que são semelhantes aos humanos.
+
+Alguns peixes também são sensíveis à polarização da luz.
+Nos fotorreceptores, a exposição à luz hiperpolariza a membrana em uma série de mudanças graduais.
+
+O segmento de célula externa contém um fotopigmento.
+
+Dentro da célula, os níveis normais de monofosfato de guanosina cíclico (cGMP) mantêm o canal de Na+ aberto e, portanto, no estado de repouso, a célula é despolarizada.
+
+O fóton faz com que o retinal ligado à proteína receptora se isomerize em trans-retiniano.
+
+Isso faz com que o receptor ative várias proteínas G.
+
+Isso, por sua vez, faz com que a subunidade Ga da proteína ative uma fosfodiesterase (PDE6), que degrada o cGMP, resultando no fechamento dos canais iônicos controlados por nucleotídeos cíclicos (CNGs) de Na+. 
+
+Assim, a célula é hiperpolarizada. 
+
+A quantidade de neurotransmissor liberada é reduzida em luz brilhante e aumenta à medida que os níveis de luz caem. 
+
+O fotopigmento real é branqueado na luz brilhante e substituído apenas como um processo químico, de modo que, na transição da luz brilhante para a escuridão, o olho pode levar até trinta minutos para atingir a sensibilidade total.
+Quando assim excitado pela luz, o fotoceptor envia uma resposta proporcional sinapticamente às células bipolares que, por sua vez, sinalizam as células ganglionares da retina. 
+
+Os fotorreceptores também são reticulados por células horizontais e células amácrinas, que modificam o sinal sináptico antes de atingir as células ganglionares, sendo os sinais neurais misturados e combinados.
+
+Das células nervosas da retina, apenas as células ganglionares da retina e poucas células amácrinas criam potenciais de ação.
+Nas células ganglionares da retina existem dois tipos de resposta, dependendo do campo receptivo da célula.
+
+Os campos receptivos das células ganglionares da retina compreendem uma área central, aproximadamente circular, onde a luz tem um efeito sobre o disparo da célula, e um contorno anular, onde a luz tem o efeito oposto.
+
+Nas células ON, um incremento na intensidade da luz no centro do campo receptivo faz com que a taxa de disparo aumente.
+
+Em células OFF, faz com que diminua.
+
+Em um modelo linear, este perfil de resposta é bem descrito por uma diferença de Gaussianas e é a base para algoritmos de detecção de bordas. 
+
+Além dessa simples diferença, as células ganglionares também são diferenciadas pela sensibilidade cromática e pelo tipo de soma espacial. 
+
+As células que apresentam somação espacial linear são denominadas células X (também chamadas de células ganglionares parvocelulares, P ou anão), e aquelas que apresentam somação não linear são células Y (também chamadas de células ganglionares da retina magnocelulares, M ou guarda-sol), embora a correspondência entre As células X e Y (na retina do gato) e as células P e M (na retina dos primatas) não são tão simples quanto pareciam.
+Na transferência de sinais visuais para o cérebro, a via visual, a retina é dividida verticalmente em duas, uma metade temporal (mais próxima da têmpora) e uma metade nasal (mais próxima do nariz). 
+
+Os axônios da metade nasal cruzam o cérebro no quiasma óptico para se unirem aos axônios da metade temporal do outro olho antes de passarem para o corpo geniculado lateral.
+Embora existam mais de 130 milhões de receptores retinianos, existem apenas aproximadamente 1,2 milhão de fibras (axônios) no nervo óptico.
+
+Assim, uma grande quantidade de pré-processamento é realizada dentro da retina.
+
+A fóvea produz as informações mais precisas.
+
+Apesar de ocupar cerca de 0,01% do campo visual (menos de 2° do ângulo visual), cerca de 10% dos axônios do nervo óptico são dedicados à fóvea.
+
+O limite de resolução da fóvea foi determinado em cerca de 10.000 pontos.
+
+A capacidade de informação é estimada em 500.000 bits por segundo (para mais informações sobre bits, ver teoria da informação) sem cor ou cerca de 600.000 bits por segundo incluindo cor.
+
+
+=== Codificação espacial ===
+
+
+Quando a retina envia impulsos neurais representando uma imagem para o cérebro, ela codifica espacialmente (comprime) esses impulsos para se adequar à capacidade limitada do nervo óptico.
+
+A compressão é necessária porque existem 100 vezes mais células fotorreceptoras do que células ganglionares.
+
+Isso é feito por "descorrelação", que é realizada pelas "estruturas centro-surround", que são implementadas pelas células bipolares e ganglionares.
+Existem dois tipos de estruturas centro-surround na retina – centros dentro e fora do centro.
+
+On-centers têm um centro com peso positivo e um surround com peso negativo.
+
+Off-centers são exatamente o oposto.
+
+A ponderação positiva é mais comumente conhecida como excitatória e a ponderação negativa como inibitória.
+Essas estruturas centro-surround não são fisicamente aparentes, no sentido de que não se pode vê-las corando amostras de tecido e examinando a anatomia da retina.
+
+As estruturas centro-surround são lógicas (ou seja, matematicamente abstratas) no sentido de que dependem das forças de conexão entre as células bipolares e ganglionares.
+
+Acredita-se que a força da conexão entre as células seja causada pelo número e tipos de canais iônicos embutidos nas sinapses entre as células bipolares e ganglionares.
+As estruturas center-surround são matematicamente equivalentes aos algoritmos de detecção de borda usados ​​por programadores de computador para extrair ou aprimorar as bordas em uma fotografia digital.
+
+Assim, a retina realiza operações nos impulsos que representam a imagem para realçar as bordas dos objetos dentro de seu campo visual.
+
+Por exemplo, em uma foto de um cachorro, um gato e um carro, são as bordas desses objetos que contêm mais informações.
+
+Para que funções superiores no cérebro (ou em um computador) extraiam e classifiquem objetos como um cachorro e um gato, a retina é o primeiro passo para separar os vários objetos dentro da cena.
+Como exemplo, a matriz a seguir está no centro de um algoritmo de computador que implementa a detecção de bordas.
+
+Esta matriz é o computador equivalente à estrutura centro-surround.
+
+Neste exemplo, cada caixa (elemento) dentro desta matriz seria conectada a um fotorreceptor.
+
+O fotorreceptor no centro é o receptor atual que está sendo processado.
+
+O fotorreceptor central é multiplicado pelo fator de peso +1.
+
+Os fotorreceptores circundantes são os "vizinhos mais próximos" do centro e são multiplicados pelo valor de -1/8. 
+
+A soma de todos os nove desses elementos é finalmente calculada. 
+
+Essa soma é repetida para cada fotorreceptor na imagem, deslocando-se para a esquerda até o final de uma linha e depois para a próxima linha.
+
+A soma total desta matriz é zero, se todas as entradas dos nove fotorreceptores forem do mesmo valor. 
+
+O resultado zero indica que a imagem era uniforme (sem alteração) dentro deste pequeno patch. 
+
+Somas negativas ou positivas significam que a imagem estava variando (mudando) dentro desse pequeno pedaço de nove fotorreceptores.
+A matriz acima é apenas uma aproximação do que realmente acontece dentro da retina. 
+
+As diferenças são:
+
+O exemplo acima é chamado de "balanceado". 
+
+O termo balanceado significa que a soma dos pesos negativos é igual à soma dos pesos positivos, de modo que eles se cancelam perfeitamente. 
+
+As células ganglionares da retina quase nunca são perfeitamente equilibradas.
+A mesa é quadrada, enquanto as estruturas centro-surround na retina são circulares.
+Neurônios operam em trens de espigas que viajam pelos axônios das células nervosas. 
+
+Os computadores operam em um único número de ponto flutuante que é essencialmente constante a partir de cada pixel de entrada. (O pixel do computador é basicamente o equivalente a um fotorreceptor biológico.)
+A retina realiza todos esses cálculos em paralelo enquanto o computador opera em cada pixel um de cada vez. 
+
+A retina não realiza somas e deslocamentos repetidos como faria um computador.
+Finalmente, as células horizontais e amácrinas desempenham um papel significativo neste processo, mas isso não é representado aqui. Aqui está um exemplo de uma imagem de entrada e como a detecção de borda a modificaria.
+
+Uma vez que a imagem é codificada espacialmente pelas estruturas center-surround, o sinal é enviado ao longo do nervo óptico (através dos axônios das células ganglionares) através do quiasma óptico para o LGN (núcleo geniculado lateral). 
+
+A função exata do LGN é desconhecida neste momento. 
+
+A saída do LGN é então enviada para a parte de trás do cérebro. 
+
+Especificamente, a saída do LGN "irradia" para o córtex visual primário V1.
+Fluxo de sinal simplificado: Fotorreceptores → Bipolar → Gânglio → Quiasma → LGN → córtex V1
+
+
+== Significado clínico ==
+
+Existem muitas doenças ou distúrbios hereditários e adquiridos que podem afetar a retina. 
+
+Alguns deles incluem:
+
+A retinite pigmentosa é um grupo de doenças genéticas que afetam a retina e causam a perda da visão noturna e da visão periférica.
+A degeneração macular descreve um grupo de doenças caracterizadas pela perda da visão central devido à morte ou comprometimento das células da mácula.
+A distrofia de cone-rod (CORD) descreve uma série de doenças em que a perda de visão é causada pela deterioração dos cones e/ou bastonetes na retina.
+Na separação da retina, a retina se descola da parte de trás do globo ocular.
+
+Ignipuntura é um método de tratamento desatualizado.
+
+O termo descolamento de retina é usado para descrever uma separação da retina neurossensorial do epitélio pigmentar da retina.
+
+Existem vários métodos modernos de tratamento para a fixação de um descolamento de retina: retinopexia pneumática, fivela escleral, crioterapia, fotocoagulação a laser e vitrectomia pars plana.
+Tanto a hipertensão quanto o diabetes mellitus podem causar danos aos minúsculos vasos sanguíneos que suprem a retina, levando à retinopatia hipertensiva e à retinopatia diabética.
+O retinoblastoma é um câncer da retina.
+Doenças retinianas em cães incluem displasia retiniana, atrofia retiniana progressiva e degeneração retiniana adquirida súbita.
+Lipemia retinalis é uma aparência branca da retina, e pode ocorrer por deposição de lipídios na deficiência de lipoproteína lipase.
+Descolamento da retina. 
+
+A retina neural ocasionalmente se desprende do epitélio pigmentar. 
+
+Em alguns casos, a causa de tal descolamento é lesão no globo ocular que permite que fluido ou sangue se acumule entre a retina neural e o epitélio pigmentar. 
+
+O descolamento é ocasionalmente causado pela contratura de finas fibrilas colagenosas no humor vítreo, que puxam áreas da retina para o interior do globo.
+Cegueira Noturna: A cegueira noturna ocorre em qualquer pessoa com deficiência grave de vitamina A. 
+
+A razão para isso é que sem vitamina A, as quantidades de retinal e rodopsina que podem ser formadas são severamente deprimidas. 
+
+Essa condição é chamada de cegueira noturna porque a quantidade de luz disponível à noite é muito pequena para permitir visão adequada em pessoas com deficiência de vitamina A. detectada através de um exame da retina pode descobrir doenças neurológicas e sistêmicas.
+
+
+=== Diagnóstico ===
+
+Vários instrumentos diferentes estão disponíveis para o diagnóstico de doenças e distúrbios que afetam a retina.
+
+A oftalmoscopia e a fotografia de fundo de olho são usadas há muito tempo para examinar a retina.
+
+Recentemente, a óptica adaptativa tem sido usada para obter imagens de bastonetes e cones individuais na retina humana viva, e uma empresa sediada na Escócia desenvolveu uma tecnologia que permite aos médicos observar a retina completa sem nenhum desconforto para os pacientes. medir a atividade elétrica da retina, que é afetada por certas doenças.
+
+Uma tecnologia relativamente nova, agora amplamente disponível, é a tomografia de coerência óptica (OCT).
+
+Esta técnica não invasiva permite obter um tomograma volumétrico 3D ou de corte transversal de alta resolução das estruturas finas da retina, com qualidade histológica.
+
+A análise dos vasos da retina é um método não invasivo para examinar as pequenas artérias e veias da retina que permite tirar conclusões sobre a morfologia e a função dos pequenos vasos em outras partes do corpo humano. 
+
+Foi estabelecido como um preditor de doença cardiovascular e parece ter, segundo um estudo publicado em 2019, potencial na detecção precoce da doença de Alzheimer.
+
+
+=== Tratamento ===
+
+O tratamento depende da natureza da doença ou distúrbio.
+
+
+==== Modalidades comuns de tratamento ====
+A seguir, são comumente modalidades de tratamento para doenças da retina:
+
+Medicação intravítrea, como agentes anti-VEGF ou corticosteróides
+Cirurgia vítreo-retiniana
+Uso de suplementos nutricionais
+Modificação dos fatores de risco sistêmicos para doença da retina
+
+
+==== Modalidades de tratamento incomuns ====
+
+
+== História ==
+
+Por volta de 300 aC, Herophilos identificou a retina a partir de dissecções de olhos de cadáveres.
+
+Ele a chamou de camada aracnóide, de sua semelhança com uma teia de aranha, e retiforme, de sua semelhança com uma rede de arremesso.
+
+O termo aracnóide passou a se referir a uma camada ao redor do cérebro; o termo retiforme passou a se referir à retina.
+
+Isso é consistente com a teoria da intromissão e contra a teoria da emissão, a teoria de que a visão ocorre a partir de raios emitidos pelos olhos.
+
+No entanto, Ibn Al-Haytham decidiu que a retina não poderia ser responsável pelo início da visão porque a imagem formada nela era invertida.
+
+Em vez disso, decidiu que deveria começar na superfície da lente. Em 1604, Johannes Kepler elaborou a ótica do olho e decidiu que a retina deve ser onde a visão começa.
+
+Ele deixou para outros cientistas a tarefa de reconciliar a imagem retiniana invertida com nossa percepção do mundo como vertical. , Haldan Keffer Hartline e Ragnar Granit ganharam o Prêmio Nobel de Fisiologia ou Medicina em 1967 por suas pesquisas científicas sobre a retina. a taxa de transferência é de 875 kilobits por segundo. MacLaren & Pearson e colegas da University College London e Moorfields Eye Hospital em Londres, em 2006,mostraram que células fotorreceptoras poderiam ser transplantadas com sucesso na retina de camundongos se as células doadoras estivessem em um estágio crítico de desenvolvimento.
+
+Recentemente, Ader e colegas em Dublin mostraram, usando o microscópio eletrônico, que fotorreceptores transplantados formavam conexões sinápticas. 
+
+Os objetivos do projeto EyeWire são identificar tipos específicos de células dentro das amplas classes conhecidas de células da retina e mapear as conexões entre os neurônios na retina, o que ajudará a determinar como a visão funciona.
+
+
+
+https://en.wikipedia.org/wiki/Retina

@@ -1,0 +1,38 @@
+.toolTagInfoContainer{
+    display: block;
+    width: calc(100% - 8px);
+    background-color: #c9f3ff;
+    border-radius: 4px;
+    padding: 4px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.toolTagInfoSubcontainer{
+    display: grid;
+    grid-template-columns: 32px auto;
+    width: 100%;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.toolTagInfoIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2px;
+    padding-right: 8px;
+    padding-bottom: 2px;
+    margin-left: 0px;
+}
+.toolTagInfoIcon img{
+    width: 24px;
+}
+.toolTagInfoContent{
+    display: flex;
+    align-items: center;
+}
+.toolTagInfoText{
+    padding-left: 4px;
+    color: #005979;
+    font-weight: bolder;
+}

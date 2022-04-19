@@ -1,0 +1,53 @@
+
+/////////////////////
+	  MT ASSETS
+	   Credits
+/////////////////////
+
+- Young Girl
+	created by 3dCottage
+	used through TurboSquid's "Royalty Free License", just as a demonstration model of the operation of this asset.
+	available in
+	https://www.turbosquid.com/FullPreview/Index.cfm/ID/1197435 (Free)
+
+- Realistic Trees 2
+	created by blenderblock
+	used through TurboSquid's "Royalty Free License", just as a demonstration model of the operation of this asset.
+	available in
+	https://www.turbosquid.com/FullPreview/Index.cfm/ID/1218839 (Free)
+
+- Industrial Building 22
+	created by arch_3d
+	used through TurboSquid's "Royalty Free License", just as a demonstration model of the operation of this asset.
+	available in
+	https://www.turbosquid.com/FullPreview/Index.cfm/ID/1540346 (Free)
+
+- Bed 01
+	created by CG Stuffs
+	used through TurboSquid's "Royalty Free License", just as a demonstration model of the operation of this asset.
+	available in
+	https://www.turbosquid.com/FullPreview/Index.cfm/ID/1536687 (Free)
+
+
+	Unity Mesh Simplifier Warning About License: This package uses an adapted version of UnityMeshSimplifier, created
+	in C# by "Whinarn" under the MIT license, which was deeply based on the "FastQuadricMeshSimplification" algorithm,
+	created by "sp4cerat". The MIT license for adapted use of UnityMeshSimplifier is included in each script belonging
+	to UnityMeshSimplifier, present in "Editor/Runtime". Any other C# script belonging to this package, which does
+	not have the UnityMeshSimplifier MIT license notice, was entirely created by Marcos Tomaz (MT Assets).
+	UnityMeshSimplifier: https://github.com/Whinarn/UnityMeshSimplifier (by Whinarn)
+	FastQuadricMeshSimplification: https://github.com/sp4cerat/Fast-Quadric-Mesh-Simplification (by sp4cerat)
+
+	Please note that: All third party assets (that were not created by MT Assets) included here, are used based on
+	the license of the original authors contained in each asset link. You cannot use the third party assets included
+	in this package, if you want to use them in your creation, purchase them from each link (informed above) and
+	make sure you have permission from the author or carefully read the license that is in each link.
+
+	However, any asset in this package, which is not listed here, was created by MT Assets, and since you have purchased
+	this package, you can use them in accordance with the license contained on this package's page on the Asset Store.
+	If you have any questions about licensing or permission to use assets, do not hesitate to contact us through 
+	mtassets@windsoft.xyz
+
+/////////////////////
+  Email for support
+mtassets@windsoft.xyz
+/////////////////////

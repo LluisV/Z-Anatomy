@@ -1,0 +1,24 @@
+THORACIC VERTEBRA
+    Superior costal facet
+    Inferior costal facet
+    Transverse costal facet
+;;;ES;;;
+
+VÉRTEBRA TORÁCICA
+Faceta costal superior
+Faceta costal inferior
+Faceta costal transversa
+
+;;;FR;;;
+
+VERTÈBRE THORACIQUE
+Facette costale supérieure
+Facette costale inférieure
+Facette costale transversale
+
+;;;PT;;;
+
+VÉRTEBRA TORÁCICA
+ Faceta costal superior
+ Faceta costal inferior
+ Faceta costal transversa

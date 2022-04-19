@@ -1,0 +1,900 @@
+
+
+ADENOHYPOPHYSIS/ANTERIOR PITUITARY
+
+
+A major organ of the endocrine system, the anterior pituitary (also called the adenohypophysis or pars anterior) is the glandular, anterior lobe that together with the posterior lobe (posterior pituitary, or the neurohypophysis) makes up the pituitary gland (hypophysis). 
+
+The anterior pituitary regulates several physiological processes, including stress, growth, reproduction, and lactation. 
+
+Proper functioning of the anterior pituitary and of the organs it regulates can often be ascertained via blood tests that measure hormone levels.
+
+
+== Structure ==
+
+
+The pituitary gland sits in a protective bony enclosure called the sella turcica (Turkish chair/saddle). 
+
+It is composed of three lobes: the anterior, intermediate, and posterior lobes. 
+
+In many animals, these lobes are distinct. 
+
+However, in humans, the intermediate lobe is but a few cell layers thick and indistinct; as a result, it is often considered part of the anterior pituitary. 
+
+In all animals, the fleshy, glandular anterior pituitary is distinct from the neural composition of the posterior pituitary.
+
+The anterior pituitary is composed of three regions:
+
+Pars distalisThe pars distalis (distal part) comprises the majority of the anterior pituitary and is where the bulk of pituitary hormone production occurs. 
+
+The pars distalis contains two types of cells, including chromophobe cells and chromophil cells. 
+
+The chromophils can be further divided into acidophils (alpha cells) and basophils (beta cells). 
+
+These cells all together produce hormones of the anterior pituitary and release them into the blood stream.
+
+Nota bene: The terms "basophil" and "acidophil" are used by some books, whereas others prefer not to use these terms. 
+
+This is due to the possible confusion with white blood cells, where one may also find basophils and acidophils.
+
+		
+Pars tuberalis
+The pars tuberalis (tubular part) forms a part of the sheath extending up from the pars distalis, which joins with the pituitary stalk (also known as the infundibular stalk or infundibulum), arising from the posterior lobe. 
+
+(The pituitary stalk connects the hypothalamus to the posterior pituitary.) The function of the pars tuberalis is poorly understood. 
+
+However, it has been seen to be important in receiving the endocrine signal in the form of TSHB (a β subunit of TSH), informing the pars tuberalis of the photoperiod (length of day). 
+
+The expression of this subunit is regulated by the secretion of melatonin in response to light information transmitted to the pineal gland. 
+
+Earlier studies have shown localization of melatonin receptors in this region.
+
+Pars intermedia
+The pars intermedia (intermediate part) sits between the pars distalis and the posterior pituitary, forming the boundary between the anterior and posterior pituitaries. 
+
+It is very small and indistinct in humans.
+
+
+=== Development ===
+
+The anterior pituitary is derived from the ectoderm, more specifically from that of Rathke’s pouch, part of the developing hard palate in the embryo.Rathke’s pouch is also ectodermal in origin.
+
+The pouch eventually loses its connection with the pharynx, giving rise to the anterior pituitary. 
+
+The anterior wall of Rathke's pouch proliferates, filling most of the pouch to form the pars distalis and the pars tuberalis. 
+
+The posterior wall of the anterior pituitary forms the pars intermedia. 
+
+Its formation from the soft tissues of the upper palate contrasts with the posterior pituitary, which originates from neuroectoderm.
+
+
+== Function ==
+
+The anterior pituitary contains five types of endocrine cell, and they are defined by the hormones they secrete: somatotropes (GH); Lactotropes (PRL); gonadotropes (LH and FSH); corticotropes (ACTH) and thyrotropes (TSH). 
+
+It also contains non-endocrine folliculostellate cells which are thought to stimulate and support the endocrine cell populations.
+
+Hormones secreted by the anterior pituitary are trophic hormones (Greek: trophe, “nourishment”). 
+
+Trophic hormones directly affect growth either as hyperplasia or hypertrophy on the tissue it is stimulating. 
+
+Tropic hormones are named for their ability to act directly on target tissues or other endocrine glands to release hormones, causing numerous cascading physiological responses.
+
+
+=== Role in the endocrine system ===
+
+
+Hypothalamic controlHormone secretion from the anterior pituitary gland is regulated by hormones secreted by the hypothalamus. 
+
+Neuroendocrine cells in the hypothalamus project axons to the median eminence, at the base of the brain. 
+
+At this site, these cells can release substances into small blood vessels that travel directly to the anterior pituitary gland (the hypothalamo-hypophyseal portal vessels).
+
+Other Control MechanismsAside from hypothalamic control of the anterior pituitary, other systems in the body have been shown to regulate the anterior pituitary’s function. 
+
+GABA can either stimulate or inhibit the secretion of luteinizing hormone (LH) and growth hormone (GH) and can stimulate the secretion of thyroid-stimulating hormone (TSH). 
+
+Prostaglandins are now known to inhibit adrenocorticotropic hormone (ACTH) and also to stimulate TSH, GH and LH release. 
+
+GABA, through action with the hypothalamus, has been shown experimentally to influence the level of GH secretion. 
+
+Clinical evidence supports the experimental findings of the excitatory and inhibitory effects GABA has on GH secretion, dependent on GABA’s site of action within the hypothalamic-pituitary unit.
+
+
+=== Effects of the anterior pituitary ===
+
+Thermal homeostasisThe homeostatic maintenance of the anterior pituitary is crucial to our physiological well being. 
+
+Increased plasma levels of TSH induce hyperthermia through a mechanism involving increased metabolism and cutaneous vasodilation. 
+
+Increased levels of LH also result in hypothermia but through a decreased metabolism action. 
+
+ACTH increase metabolism and induce cutaneous vasoconstriction, increased plasma levels also result in hyperthermia and prolactin decreases with decreasing temperature values. 
+
+Follicle-stimulating hormone (FSH) also may cause hypothermia if increased beyond homeostatic levels through an increased metabolic mechanism only.
+
+Gonadal function
+Gonadotropes, primarily luteinising hormone (LH) secreted from the anterior pituitary stimulates the ovulation cycle in female mammals, whilst in the males, LH stimulates the synthesis of androgen which drives the ongoing will to mate together with a constant production of sperm.
+
+HPA axis
+Hypothalamic-pituitary-adrenal axis
+The anterior pituitary plays a role in stress response. 
+
+Corticotropin releasing hormone (CRH) from the hypothalamus stimulates ACTH release in a cascading effect that ends with the production of glucocorticoids from the adrenal cortex.
+
+
+=== Behavioral effects ===
+
+Development
+The release of GH, LH, and FSH are required for correct human development, including gonadal development.
+
+Breast-feeding
+Release of the hormone prolactin is essential for lactation.
+Stress
+Operating through the hypothalamic-pituitary-adrenal axis (HPA), the anterior pituitary gland has a large role in the neuroendocrine system’s stress response. 
+
+Stress induces a release of corticotropin-releasing hormone (CRH) and vasopressin from the hypothalamus, which activates the release of adrenocorticotropic hormone (ACTH) from the anterior pituitary gland. 
+
+Then, this acts on the adrenal cortex to produce glucocorticoids such as cortisol. 
+
+These glucocorticoids act back on the anterior pituitary gland and the hypothalamus with negative feedback to slow the production of CRH and ACTH. 
+
+Increased cortisol under stress conditions can cause the following: metabolic effects (mobilization of glucose, fatty acids, and amino acids), bone re-absorption (calcium mobilization), activation of the sympathetic nervous system response (fight or flight), anti-inflammatory effects, and inhibition of reproduction/growth. 
+
+When the anterior pituitary gland is removed (hypophysectomy) in rats, their avoidance learning mechanisms were slowed, but injections of ACTH restored their performance. 
+
+In addition, stress may delay the release of reproductive hormones such as luteinizing hormone (LH) and follicle-stimulating hormone (FSH). 
+
+This shows that the anterior pituitary gland is involved in behavioral functions as well as being part of a larger pathway for stress responses. 
+
+It is also known that (HPA) hormones are related to certain skin diseases and skin homeostasis. 
+
+There is evidence linking hyperactivity of HPA hormones to stress-related skin diseases and skin tumors.
+
+Aging
+Operating through the hypothalamic-pituitary-gonadal axis, the anterior pituitary gland also affects the reproductive system. 
+
+The hypothalamus releases gonadotropin-releasing hormone (GnRH), which stimulates the release of luteinizing hormone (LH) and follicle-stimulating hormone. 
+
+Then the gonads produce estrogen and testosterone. 
+
+The decrease in release of gonadotropins (LH and FSH) caused by normal aging may be responsible for impotence and frailty in elderly men because of the eventual decrease in production of testosterone. 
+
+This lower level of testosterone can have other effects, such as reduced libido, well-being and mood, muscle and bone strength, and metabolism.
+
+Tactile responding
+It has been shown that infant mice who were stroked with a paintbrush (simulating motherly care) had more release and binding of growth hormone (GH) from the anterior pituitary gland.Circadian rhythms
+
+Light information received by the eyes is transmitted to the pineal gland via the circadian pacemaker (the suprachiasmatic nucleus). 
+
+Diminishing light stimulates the release of melatonin from the pineal gland which can also affect the secretion levels in the hypothalamic-pituitary-gonadal axis. 
+
+Melatonin can lower levels of LH and FSH, which will decrease levels of estrogen and testosterone. 
+
+In addition, melatonin may affect production of prolactin.
+
+
+== Clinical significance ==
+
+
+=== Increased activity ===
+
+Hyperpituitarism is the condition where the pituitary secretes excessive amounts of hormones. 
+
+This hypersecretion often results in the formation of a pituitary adenoma (tumour), which are benign apart from a tiny fraction. 
+
+There are mainly three types of anterior pituitary tumors and their associated disorders. 
+
+For example, acromegaly results from excessive secretion of growth hormone (GH) often being released by a pituitary adenoma. 
+
+This disorder can cause disfigurement and possibly death and can lead to gigantism, a hormone disorder shown in “giants” such as André the Giant, where it occurs before the epiphyseal plates in bones close in puberty. 
+
+The most common type of pituitary tumour is a prolactinoma which hypersecretes prolactin. 
+
+A third type of pituitary adenoma secretes excess ACTH, which in turn, causes an excess of cortisol to be secreted and is the cause of Cushing's disease.
+
+
+=== Decreased activity ===
+
+
+Hypopituitarism is characterized by a decreased secretion of hormones released by the anterior pituitary. 
+
+For example, hypo-secretion of GH prior to puberty can be a cause of dwarfism. 
+
+In addition, secondary adrenal insufficiency can be caused by hypo-secretion of ACTH which, in turn, does not signal the adrenal cortex to produce a sufficient amount of cortisol. 
+
+This is a life-threatening condition. 
+
+Hypopituitarism could be caused by the destruction or removal of the anterior pituitary tissue through traumatic brain injury, tumor, tuberculosis, or syphilis, among other causes. 
+
+This disorder used to be referred to as Simmonds' disease but now according to the Diseases Database it is called Sheehan syndrome. 
+
+If the hypopituitarism is caused by the blood loss associated with childbirth, the disorder is referred to as Sheehan syndrome.
+
+
+== History ==
+
+=== Etymology ===
+
+The anterior pituitary is also known as the adenohypophysis, meaning "glandular undergrowth", from the Greek adeno- ("gland"), hypo ("under"), and physis ("growth").
+
+
+
+https://en.wikipedia.org/wiki/Anterior_pituitary
+;;;ES;;;
+
+
+
+ADENOHIPOFISIS/HIPÓFISIS ANTERIOR
+
+
+Un órgano importante del sistema endocrino, la hipófisis anterior (también llamada adenohipófisis o pars anterior) es el lóbulo glandular anterior que, junto con el lóbulo posterior (hipófisis posterior o neurohipófisis) forma la glándula pituitaria (hipófisis). 
+
+La hipófisis anterior regula varios procesos fisiológicos, incluidos el estrés, el crecimiento, la reproducción y la lactancia. 
+
+El funcionamiento adecuado de la hipófisis anterior y de los órganos que regula a menudo se puede determinar mediante análisis de sangre que miden los niveles hormonales.
+
+
+== Estructura ==
+
+
+La glándula pituitaria se asienta en un recinto óseo protector llamado silla turca (silla/silla de montar turca).
+
+Se compone de tres lóbulos: los lóbulos anterior, intermedio y posterior.
+
+En muchos animales, estos lóbulos son distintos.
+
+Sin embargo, en los humanos, el lóbulo intermedio tiene solo unas pocas capas de células gruesas e indistintas; como resultado, a menudo se considera parte de la hipófisis anterior.
+
+En todos los animales, la pituitaria anterior glandular y carnosa es distinta de la composición neural de la pituitaria posterior.
+
+La hipófisis anterior se compone de tres regiones:
+
+Pars distalisLa pars distalis (parte distal) comprende la mayor parte de la hipófisis anterior y es donde se produce la mayor parte de la producción de hormonas hipofisarias.
+
+La pars distalis contiene dos tipos de células, incluidas las células cromófobas y las células cromófilas.
+
+Los cromófilos se pueden dividir en acidófilos (células alfa) y basófilos (células beta).
+
+Todas estas células juntas producen hormonas de la hipófisis anterior y las liberan en el torrente sanguíneo.
+
+Nota bene: Los términos "basófilo" y "acidofilo" se utilizan en algunos libros, mientras que otros prefieren no utilizar estos términos.
+
+Esto se debe a la posible confusión con los glóbulos blancos, donde también se pueden encontrar basófilos y acidófilos.
+
+ 
+pars tuberalis
+La pars tuberalis (parte tubular) forma parte de la vaina que se extiende desde la pars distalis, que se une con el tallo pituitario (también conocido como tallo infundibular o infundíbulo), que surge del lóbulo posterior. 
+
+(El tallo pituitario conecta el hipotálamo con la hipófisis posterior). La función de la pars tuberalis es poco conocida. 
+
+Sin embargo, se ha visto que es importante para recibir la señal endocrina en forma de TSHB (una subunidad β de TSH), informando a la pars tuberalis del fotoperíodo (duración del día). 
+
+La expresión de esta subunidad está regulada por la secreción de melatonina en respuesta a la información lumínica transmitida a la glándula pineal. 
+
+Estudios anteriores han mostrado la localización de los receptores de melatonina en esta región.
+
+pars intermedia
+La pars intermedia (parte intermedia) se encuentra entre la pars distalis y la pituitaria posterior, formando el límite entre las pituitarias anterior y posterior.
+
+Es muy pequeño e indistinto en los humanos.
+
+
+=== Desarrollo ===
+
+La pituitaria anterior se deriva del ectodermo, más específicamente de la bolsa de Rathke, parte del paladar duro en desarrollo en el embrión. La bolsa de Rathke también es de origen ectodérmico.
+
+La bolsa finalmente pierde su conexión con la faringe, dando lugar a la hipófisis anterior.
+
+La pared anterior de la bolsa de Rathke prolifera, llenando la mayor parte de la bolsa para formar la pars distalis y la pars tuberalis.
+
+La pared posterior de la hipófisis anterior forma la pars intermedia.
+
+Su formación a partir de los tejidos blandos del paladar superior contrasta con la hipófisis posterior, que se origina en el neuroectodermo.
+
+
+== Función ==
+
+La pituitaria anterior contiene cinco tipos de células endocrinas, y se definen por las hormonas que secretan: somatotropos (GH); lactotropos (PRL); gonadotropos (LH y FSH); corticotropos (ACTH) y tirotropos (TSH).
+
+También contiene células foliculoestelares no endocrinas que se cree que estimulan y respaldan las poblaciones de células endocrinas.
+
+Las hormonas secretadas por la hipófisis anterior son hormonas tróficas (del griego: trophe, "nutrición"). 
+
+Las hormonas tróficas afectan directamente el crecimiento ya sea como hiperplasia o hipertrofia en el tejido que estimulan. 
+
+Las hormonas trópicas reciben su nombre por su capacidad para actuar directamente sobre los tejidos diana u otras glándulas endocrinas para liberar hormonas, lo que provoca numerosas respuestas fisiológicas en cascada.
+
+
+=== Papel en el sistema endocrino ===
+
+
+Control hipotalámico La secreción de hormonas de la glándula pituitaria anterior está regulada por hormonas secretadas por el hipotálamo. 
+
+Las células neuroendocrinas del hipotálamo proyectan axones a la eminencia media, en la base del cerebro. 
+
+En este sitio, estas células pueden liberar sustancias en pequeños vasos sanguíneos que viajan directamente a la glándula pituitaria anterior (los vasos portales hipotálamo-hipofisarios).
+
+Otros mecanismos de control Además del control hipotalámico de la pituitaria anterior, se ha demostrado que otros sistemas del cuerpo regulan la función de la pituitaria anterior. 
+
+GABA puede estimular o inhibir la secreción de hormona luteinizante (LH) y hormona de crecimiento (GH) y puede estimular la secreción de hormona estimulante de la tiroides (TSH). 
+
+Ahora se sabe que las prostaglandinas inhiben la hormona adrenocorticotrópica (ACTH) y también estimulan la liberación de TSH, GH y LH.
+
+Se ha demostrado experimentalmente que GABA, a través de la acción con el hipotálamo, influye en el nivel de secreción de GH.
+
+La evidencia clínica apoya los hallazgos experimentales de los efectos inhibidores y excitadores que tiene el GABA sobre la secreción de GH, dependiendo del sitio de acción del GABA dentro de la unidad hipotálamo-pituitaria.
+
+
+=== Efectos de la hipófisis anterior ===
+
+Homeostasis térmica El mantenimiento homeostático de la pituitaria anterior es crucial para nuestro bienestar fisiológico.
+
+Los niveles plasmáticos elevados de TSH inducen hipertermia a través de un mecanismo que implica aumento del metabolismo y vasodilatación cutánea.
+
+Los niveles elevados de LH también dan como resultado hipotermia, pero a través de una acción metabólica disminuida.
+
+La ACTH aumenta el metabolismo e induce la vasoconstricción cutánea, el aumento de los niveles plasmáticos también produce hipertermia y la prolactina disminuye con la disminución de los valores de temperatura. 
+
+La hormona foliculoestimulante (FSH) también puede causar hipotermia si aumenta más allá de los niveles homeostáticos únicamente a través de un mecanismo metabólico aumentado.
+
+función gonadal
+Los gonadotropos, principalmente la hormona luteinizante (LH) secretada por la hipófisis anterior, estimulan el ciclo de ovulación en las hembras de los mamíferos, mientras que en los machos, la LH estimula la síntesis de andrógenos que impulsa la voluntad constante de aparearse junto con una producción constante de esperma.
+
+eje HPA
+Eje hipotalámico pituitario adrenal
+La pituitaria anterior juega un papel en la respuesta al estrés. 
+
+La hormona liberadora de corticotropina (CRH) del hipotálamo estimula la liberación de ACTH en un efecto en cascada que termina con la producción de glucocorticoides de la corteza suprarrenal.
+
+
+=== Efectos de comportamiento ===
+
+Desarrollo
+La liberación de GH, LH y FSH son necesarias para el correcto desarrollo humano, incluido el desarrollo gonadal.
+
+Amamantamiento
+La liberación de la hormona prolactina es esencial para la lactancia.
+Estrés
+Operando a través del eje hipotálamo-pituitario-suprarrenal (HPA), la glándula pituitaria anterior tiene un papel importante en la respuesta al estrés del sistema neuroendocrino. 
+
+El estrés induce una liberación de hormona liberadora de corticotropina (CRH) y vasopresina del hipotálamo, lo que activa la liberación de hormona adrenocorticotrópica (ACTH) de la glándula pituitaria anterior. 
+
+Luego, esto actúa sobre la corteza suprarrenal para producir glucocorticoides como el cortisol. 
+
+Estos glucocorticoides actúan sobre la glándula pituitaria anterior y el hipotálamo con retroalimentación negativa para retardar la producción de CRH y ACTH. 
+
+El aumento de cortisol en condiciones de estrés puede causar lo siguiente: efectos metabólicos (movilización de glucosa, ácidos grasos y aminoácidos), reabsorción ósea (movilización de calcio), activación de la respuesta del sistema nervioso simpático (lucha o huida), efecto antiinflamatorio e inhibición de la reproducción/crecimiento. 
+
+Cuando se extirpa la glándula pituitaria anterior (hipofisectomía) en ratas, sus mecanismos de aprendizaje de evitación se ralentizaron, pero las inyecciones de ACTH restauraron su rendimiento. 
+
+Además, el estrés puede retrasar la liberación de hormonas reproductivas como la hormona luteinizante (LH) y la hormona estimulante del folículo (FSH). 
+
+Esto muestra que la glándula pituitaria anterior está involucrada en funciones de comportamiento, además de ser parte de un camino más amplio para las respuestas al estrés. 
+
+También se sabe que las hormonas (HPA) están relacionadas con ciertas enfermedades de la piel y la homeostasis de la piel. 
+
+Existe evidencia que relaciona la hiperactividad de las hormonas HPA con enfermedades de la piel y tumores de la piel relacionados con el estrés.
+
+Envejecimiento
+Operando a través del eje hipotálamo-pituitario-gonadal, la glándula pituitaria anterior también afecta el sistema reproductivo. 
+
+El hipotálamo libera la hormona liberadora de gonadotropina (GnRH), que estimula la liberación de la hormona luteinizante (LH) y la hormona estimulante del folículo. 
+
+Luego, las gónadas producen estrógeno y testosterona. 
+
+La disminución en la liberación de gonadotropinas (LH y FSH) causada por el envejecimiento normal puede ser responsable de la impotencia y la fragilidad en los hombres mayores debido a la eventual disminución en la producción de testosterona. 
+
+Este nivel más bajo de testosterona puede tener otros efectos, como la reducción de la libido, el bienestar y el estado de ánimo, la fuerza muscular y ósea y el metabolismo.
+
+respuesta táctil
+Se ha demostrado que los ratones lactantes que fueron acariciados con un pincel (simulando el cuidado materno) tenían más liberación y unión de la hormona del crecimiento (GH) de la glándula pituitaria anterior. Ritmos circadianos
+
+La información luminosa recibida por los ojos se transmite a la glándula pineal a través del marcapasos circadiano (el núcleo supraquiasmático). 
+
+La disminución de la luz estimula la liberación de melatonina de la glándula pineal que también puede afectar los niveles de secreción en el eje hipotálamo-pituitario-gonadal. 
+
+La melatonina puede reducir los niveles de LH y FSH, lo que disminuirá los niveles de estrógeno y testosterona.
+
+Además, la melatonina puede afectar la producción de prolactina.
+
+
+== Importancia clínica ==
+
+
+=== Mayor actividad ===
+
+El hiperpituitarismo es la condición en la que la hipófisis secreta cantidades excesivas de hormonas.
+
+Esta hipersecreción a menudo resulta en la formación de un adenoma hipofisario (tumor), que son benignos excepto en una pequeña fracción.
+
+Existen principalmente tres tipos de tumores de hipófisis anterior y sus trastornos asociados.
+
+Por ejemplo, la acromegalia resulta de la secreción excesiva de la hormona del crecimiento (GH) que a menudo es liberada por un adenoma hipofisario.
+
+Este trastorno puede causar desfiguración y posiblemente la muerte y puede provocar gigantismo, un trastorno hormonal que se presenta en "gigantes" como André the Giant, donde ocurre antes de que las placas epifisarias de los huesos se cierren en la pubertad. 
+
+El tipo más común de tumor hipofisario es un prolactinoma que hipersecreta prolactina. 
+
+Un tercer tipo de adenoma hipofisario segrega un exceso de ACTH, que a su vez provoca la secreción de un exceso de cortisol y es la causa de la enfermedad de Cushing.
+
+
+=== Actividad disminuida ===
+
+
+El hipopituitarismo se caracteriza por una disminución de la secreción de hormonas liberadas por la hipófisis anterior. 
+
+Por ejemplo, la hiposecreción de GH antes de la pubertad puede ser una causa de enanismo. 
+
+Además, la insuficiencia suprarrenal secundaria puede ser causada por hiposecreción de ACTH que, a su vez, no indica a la corteza suprarrenal que produzca una cantidad suficiente de cortisol. 
+
+Esta es una condición potencialmente mortal.
+
+El hipopituitarismo puede ser causado por la destrucción o extirpación del tejido de la hipófisis anterior a través de un traumatismo craneoencefálico, tumor, tuberculosis o sífilis, entre otras causas.
+
+Este trastorno solía denominarse enfermedad de Simmonds, pero ahora, según la base de datos de enfermedades, se llama síndrome de Sheehan.
+
+Si el hipopituitarismo es causado por la pérdida de sangre asociada con el parto, el trastorno se conoce como síndrome de Sheehan.
+
+
+== Historia ==
+
+=== Etimología ===
+
+La hipófisis anterior también se conoce como adenohipófisis, que significa "crecimiento glandular", del griego adeno- ("glándula"), hypo ("debajo") y physis ("crecimiento").
+
+
+
+https://en.wikipedia.org/wiki/Anterior_pituitaria
+
+;;;FR;;;
+
+
+
+ADÉNOHYPOPHYSE/ANTÉRIEURE DE L'HYPOPHYSE
+
+
+Organe majeur du système endocrinien, l'hypophyse antérieure (également appelée adénohypophyse ou pars antérieur) est le lobe antérieur glandulaire qui, avec le lobe postérieur (hypophyse postérieure ou neurohypophyse), constitue l'hypophyse. 
+
+L'hypophyse antérieure régule plusieurs processus physiologiques, notamment le stress, la croissance, la reproduction et la lactation. 
+
+Le bon fonctionnement de l'hypophyse antérieure et des organes qu'elle régule peut souvent être vérifié par des tests sanguins qui mesurent les niveaux d'hormones.
+
+
+== Structure ==
+
+
+La glande pituitaire se trouve dans une enceinte osseuse protectrice appelée selle turcique (chaise/selle turque). 
+
+Il est composé de trois lobes : les lobes antérieur, intermédiaire et postérieur. 
+
+Chez de nombreux animaux, ces lobes sont distincts. 
+
+Cependant, chez l'homme, le lobe intermédiaire n'est que de quelques couches de cellules épaisses et indistinctes; en conséquence, il est souvent considéré comme faisant partie de l'hypophyse antérieure.
+
+Chez tous les animaux, l'hypophyse antérieure charnue et glandulaire est distincte de la composition neurale de l'hypophyse postérieure.
+
+L'hypophyse antérieure est composée de trois régions :
+
+Pars distalisLa pars distalis (partie distale) comprend la majorité de l'hypophyse antérieure et est l'endroit où se produit l'essentiel de la production d'hormones hypophysaires.
+
+La pars distalis contient deux types de cellules, dont les cellules chromophobes et les cellules chromophiles.
+
+Les chromophiles peuvent être divisés en acidophiles (cellules alpha) et basophiles (cellules bêta).
+
+Ces cellules produisent toutes ensemble des hormones de l'hypophyse antérieure et les libèrent dans la circulation sanguine.
+
+Nota bene : Les termes « basophile » et « acidophile » sont utilisés par certains livres, alors que d'autres préfèrent ne pas utiliser ces termes.
+
+Cela est dû à la confusion possible avec les globules blancs, où l'on peut également trouver des basophiles et des acidophiles.
+
+ 
+Pars tuberalis
+La pars tuberalis (partie tubulaire) fait partie de la gaine s'étendant de la pars distalis, qui se joint à la tige pituitaire (également connue sous le nom de tige infundibulaire ou infundibulum), issue du lobe postérieur.
+
+(La tige pituitaire relie l'hypothalamus à l'hypophyse postérieure.) La fonction de la pars tuberalis est mal comprise.
+
+Cependant, il s'est avéré important de recevoir le signal endocrinien sous la forme de TSHB (une sous-unité β de la TSH), informant la pars tuberalis de la photopériode (durée du jour).
+
+L'expression de cette sous-unité est régulée par la sécrétion de mélatonine en réponse à une information lumineuse transmise à la glande pinéale.
+
+Des études antérieures ont montré la localisation des récepteurs de la mélatonine dans cette région.
+
+Pars intermédiaire
+La pars intermedia (partie intermédiaire) se situe entre la pars distalis et l'hypophyse postérieure, formant la limite entre les hypophyses antérieure et postérieure.
+
+Il est très petit et indistinct chez l'homme.
+
+
+=== Développement ===
+
+L'hypophyse antérieure est dérivée de l'ectoderme, plus précisément de celle de la poche de Rathke, qui fait partie du palais dur en développement chez l'embryon. La poche de Rathke est également d'origine ectodermique.
+
+La poche finit par perdre sa connexion avec le pharynx, donnant naissance à l'hypophyse antérieure.
+
+La paroi antérieure de la poche de Rathke prolifère, remplissant la majeure partie de la poche pour former la pars distalis et la pars tuberalis.
+
+La paroi postérieure de l'hypophyse antérieure forme la pars intermedia.
+
+Sa formation à partir des tissus mous du palais supérieur contraste avec l'hypophyse postérieure, qui provient du neuroectoderme.
+
+
+== Fonction ==
+
+L'hypophyse antérieure contient cinq types de cellules endocrines, et elles sont définies par les hormones qu'elles sécrètent : les somatotropes (GH) ; Lactotropes (PRL); gonadotropes (LH et FSH); corticotropes (ACTH) et thyrotropes (TSH).
+
+Il contient également des cellules folliculostellées non endocrines qui sont censées stimuler et soutenir les populations de cellules endocrines.
+
+Les hormones sécrétées par l'antéhypophyse sont des hormones trophiques (en grec : trophe, "nourriture").
+
+Les hormones trophiques affectent directement la croissance sous forme d'hyperplasie ou d'hypertrophie du tissu qu'elles stimulent.
+
+Les hormones tropiques sont nommées pour leur capacité à agir directement sur les tissus cibles ou d'autres glandes endocrines pour libérer des hormones, provoquant de nombreuses réponses physiologiques en cascade.
+
+
+=== Rôle dans le système endocrinien ===
+
+
+Contrôle hypothalamiqueLa sécrétion hormonale de l'hypophyse antérieure est régulée par des hormones sécrétées par l'hypothalamus. 
+
+Les cellules neuroendocrines de l'hypothalamus projettent des axones vers l'éminence médiane, à la base du cerveau. 
+
+À ce site, ces cellules peuvent libérer des substances dans de petits vaisseaux sanguins qui se rendent directement à l'hypophyse antérieure (les vaisseaux portes hypothalamo-hypophysaires).
+
+Autres mécanismes de contrôle Mis à part le contrôle hypothalamique de l'antéhypophyse, d'autres systèmes du corps se sont révélés capables de réguler la fonction de l'antéhypophyse. 
+
+Le GABA peut stimuler ou inhiber la sécrétion de l'hormone lutéinisante (LH) et de l'hormone de croissance (GH) et peut stimuler la sécrétion de l'hormone stimulant la thyroïde (TSH). 
+
+Les prostaglandines sont maintenant connues pour inhiber l'hormone adrénocorticotrope (ACTH) et également pour stimuler la libération de TSH, GH et LH. 
+
+Il a été démontré expérimentalement que le GABA, par son action sur l'hypothalamus, influence le niveau de sécrétion de GH. 
+
+Les preuves cliniques appuient les résultats expérimentaux des effets excitateurs et inhibiteurs du GABA sur la sécrétion de GH, en fonction du site d'action du GABA dans l'unité hypothalamo-hypophysaire.
+
+
+=== Effets de l'hypophyse antérieure ===
+
+Homéostase thermiqueLe maintien homéostatique de l'hypophyse antérieure est crucial pour notre bien-être physiologique. 
+
+L'augmentation des taux plasmatiques de TSH induit une hyperthermie par un mécanisme impliquant un métabolisme accru et une vasodilatation cutanée. 
+
+Des niveaux accrus de LH entraînent également une hypothermie, mais par une action métabolique réduite. 
+
+L'ACTH augmente le métabolisme et induit une vasoconstriction cutanée, l'augmentation des taux plasmatiques entraîne également une hyperthermie et une diminution de la prolactine avec la diminution des valeurs de température. 
+
+L'hormone folliculo-stimulante (FSH) peut également provoquer une hypothermie si elle est augmentée au-delà des niveaux homéostatiques uniquement par un mécanisme métabolique accru.
+
+Fonction gonadique
+Les gonadotropes, principalement l'hormone lutéinisante (LH) sécrétée par l'hypophyse antérieure, stimulent le cycle d'ovulation chez les mammifères femelles, tandis que chez les mâles, la LH stimule la synthèse d'androgènes qui entraîne la volonté continue de s'accoupler avec une production constante de sperme.
+
+Axe HPA
+Axe hypothalamo-hypophyso-surrénalien
+L'hypophyse antérieure joue un rôle dans la réponse au stress. 
+
+L'hormone de libération de la corticotropine (CRH) de l'hypothalamus stimule la libération d'ACTH dans un effet en cascade qui se termine par la production de glucocorticoïdes à partir du cortex surrénalien.
+
+
+=== Effets comportementaux ===
+
+Développement
+La libération de GH, LH et FSH est nécessaire au développement humain correct, y compris le développement gonadique.
+
+Allaitement maternel
+La libération de l'hormone prolactine est essentielle à la lactation.
+Stress
+Fonctionnant à travers l'axe hypothalamo-hypophyso-surrénalien (HPA), l'hypophyse antérieure joue un rôle important dans la réponse au stress du système neuroendocrinien. 
+
+Le stress induit une libération de l'hormone de libération de la corticotropine (CRH) et de la vasopressine par l'hypothalamus, ce qui active la libération de l'hormone adrénocorticotrope (ACTH) par l'hypophyse antérieure. 
+
+Ensuite, cela agit sur le cortex surrénalien pour produire des glucocorticoïdes comme le cortisol. 
+
+Ces glucocorticoïdes agissent en retour sur l'hypophyse antérieure et l'hypothalamus avec une rétroaction négative pour ralentir la production de CRH et d'ACTH. 
+
+L'augmentation du cortisol dans des conditions de stress peut provoquer les effets suivants : effets métaboliques (mobilisation du glucose, des acides gras et des acides aminés), réabsorption osseuse (mobilisation du calcium), activation de la réponse du système nerveux sympathique (combat ou fuite), anti-inflammatoire effets indésirables et inhibition de la reproduction/croissance. 
+
+Lorsque l'hypophyse antérieure est retirée (hypophysectomie) chez le rat, ses mécanismes d'apprentissage de l'évitement ont été ralentis, mais des injections d'ACTH ont restauré ses performances. 
+
+De plus, le stress peut retarder la libération d'hormones reproductives telles que l'hormone lutéinisante (LH) et l'hormone folliculo-stimulante (FSH). 
+
+Cela montre que l'hypophyse antérieure est impliquée dans les fonctions comportementales et fait partie d'une voie plus large de réponses au stress. 
+
+On sait également que les hormones (HPA) sont liées à certaines maladies de la peau et à l'homéostasie cutanée. 
+
+Il existe des preuves établissant un lien entre l'hyperactivité des hormones HPA et les maladies de la peau et les tumeurs cutanées liées au stress.
+
+Vieillissement
+Fonctionnant à travers l'axe hypothalamo-hypophyso-gonadique, l'hypophyse antérieure affecte également le système reproducteur. 
+
+L'hypothalamus libère l'hormone de libération des gonadotrophines (GnRH), qui stimule la libération de l'hormone lutéinisante (LH) et de l'hormone folliculo-stimulante. 
+
+Ensuite, les gonades produisent des œstrogènes et de la testostérone. 
+
+La diminution de la libération des gonadotrophines (LH et FSH) causée par le vieillissement normal peut être responsable de l'impuissance et de la fragilité chez les hommes âgés en raison de la diminution éventuelle de la production de testostérone.
+
+Ce niveau inférieur de testostérone peut avoir d'autres effets, tels qu'une réduction de la libido, du bien-être et de l'humeur, de la force musculaire et osseuse et du métabolisme.
+
+Réponse tactile
+Il a été démontré que les souris infantiles qui ont été caressées avec un pinceau (simulant les soins maternels) avaient plus de libération et de liaison de l'hormone de croissance (GH) de l'hypophyse antérieure. Rythmes circadiens
+
+Les informations lumineuses reçues par les yeux sont transmises à la glande pinéale via le stimulateur circadien (le noyau suprachiasmatique).
+
+La diminution de la lumière stimule la libération de mélatonine par la glande pinéale, ce qui peut également affecter les niveaux de sécrétion dans l'axe hypothalamo-hypophyso-gonadique.
+
+La mélatonine peut réduire les niveaux de LH et de FSH, ce qui diminuera les niveaux d'œstrogène et de testostérone.
+
+De plus, la mélatonine peut affecter la production de prolactine.
+
+
+== Signification clinique ==
+
+
+=== Activité accrue ===
+
+L'hyperpituitarisme est la condition où l'hypophyse sécrète des quantités excessives d'hormones.
+
+Cette hypersécrétion se traduit souvent par la formation d'un adénome hypophysaire (tumeur), qui sont bénins à part une infime fraction.
+
+Il existe principalement trois types de tumeurs hypophysaires antérieures et leurs troubles associés.
+
+Par exemple, l'acromégalie résulte d'une sécrétion excessive d'hormone de croissance (GH) souvent libérée par un adénome hypophysaire.
+
+Ce trouble peut entraîner une défiguration et éventuellement la mort et peut conduire au gigantisme, un trouble hormonal observé chez les «géants» comme André le Géant, où il survient avant que les plaques épiphysaires des os ne se ferment à la puberté. 
+
+Le type le plus courant de tumeur hypophysaire est un prolactinome qui hypersécrète de la prolactine. 
+
+Un troisième type d'adénome hypophysaire sécrète un excès d'ACTH, qui à son tour provoque la sécrétion d'un excès de cortisol et est la cause de la maladie de Cushing.
+
+
+=== Diminution de l'activité ===
+
+
+L'hypopituitarisme se caractérise par une diminution de la sécrétion d'hormones libérées par l'antéhypophyse. 
+
+Par exemple, l'hypo-sécrétion de GH avant la puberté peut être une cause de nanisme. 
+
+De plus, une insuffisance surrénalienne secondaire peut être causée par une hyposécrétion d'ACTH qui, à son tour, ne signale pas au cortex surrénalien de produire une quantité suffisante de cortisol. 
+
+Il s'agit d'une condition potentiellement mortelle.
+
+L'hypopituitarisme peut être causé par la destruction ou l'ablation du tissu hypophysaire antérieur par une lésion cérébrale traumatique, une tumeur, la tuberculose ou la syphilis, entre autres causes.
+
+Ce trouble était autrefois appelé la maladie de Simmonds, mais maintenant, selon la base de données sur les maladies, il s'appelle le syndrome de Sheehan.
+
+Si l'hypopituitarisme est causé par la perte de sang associée à l'accouchement, le trouble est appelé syndrome de Sheehan.
+
+
+== Historique ==
+
+=== Étymologie ===
+
+L'hypophyse antérieure est également connue sous le nom d' adénohypophyse , qui signifie «sous-croissance glandulaire», du grec adéno- («glande»), hypo («sous») et physis («croissance»).
+
+
+
+https://en.wikipedia.org/wiki/Anterior_pituitary
+
+;;;PT;;;
+
+
+
+ADENO-HIPÓFISE/HIPÓFISE ANTERIOR
+
+
+Um órgão importante do sistema endócrino, a hipófise anterior (também chamada de adeno-hipófise ou pars anterior) é o lobo anterior glandular que, juntamente com o lobo posterior (hipófise posterior ou neuro-hipófise) compõe a glândula pituitária (hipófise).
+
+A hipófise anterior regula vários processos fisiológicos, incluindo estresse, crescimento, reprodução e lactação.
+
+O funcionamento adequado da hipófise anterior e dos órgãos que ela regula pode ser verificado por meio de exames de sangue que medem os níveis hormonais.
+
+
+== Estrutura ==
+
+
+A glândula pituitária fica em um invólucro ósseo protetor chamado sela turca (cadeira/sela turca). 
+
+É composto por três lobos: os lobos anterior, intermediário e posterior. 
+
+Em muitos animais, esses lobos são distintos. 
+
+No entanto, em humanos, o lobo intermediário tem apenas algumas camadas de células espessas e indistintas; como resultado, muitas vezes é considerado parte da hipófise anterior.
+
+Em todos os animais, a hipófise anterior glandular carnosa é distinta da composição neural da hipófise posterior.
+
+A hipófise anterior é composta por três regiões:
+
+Pars distalisA pars distalis (parte distal) compreende a maior parte da hipófise anterior e é onde ocorre a maior parte da produção de hormônios hipofisários.
+
+A pars distalis contém dois tipos de células, incluindo células cromófobas e células cromófilas.
+
+Os cromófilos podem ser divididos em acidófilos (células alfa) e basófilos (células beta).
+
+Todas essas células juntas produzem hormônios da hipófise anterior e os liberam na corrente sanguínea.
+
+Nota bene: Os termos "basófilo" e "acidofilo" são usados ​​por alguns livros, enquanto outros preferem não usar esses termos.
+
+Isso se deve à possível confusão com glóbulos brancos, onde também se podem encontrar basófilos e acidófilos.
+
+ 
+Pars tuberalis
+A pars tuberalis (parte tubular) forma uma parte da bainha que se estende a partir da pars distalis, que se une ao pedúnculo hipofisário (também conhecido como pedúnculo infundibular ou infundíbulo), originando-se do lobo posterior.
+
+(A haste pituitária conecta o hipotálamo à pituitária posterior.) A função da pars tuberalis é pouco compreendida.
+
+No entanto, tem se mostrado importante no recebimento do sinal endócrino na forma de TSHB (uma subunidade β do TSH), informando a pars tuberalis do fotoperíodo (duração do dia).
+
+A expressão desta subunidade é regulada pela secreção de melatonina em resposta à informação luminosa transmitida à glândula pineal.
+
+Estudos anteriores mostraram a localização de receptores de melatonina nesta região.
+
+Pars intermedia
+A pars intermedia (parte intermediária) fica entre a pars distalis e a hipófise posterior, formando o limite entre as hipófises anterior e posterior.
+
+É muito pequeno e indistinto em humanos.
+
+
+=== Desenvolvimento ===
+
+A hipófise anterior é derivada do ectoderma, mais especificamente da bolsa de Rathke, parte do palato duro em desenvolvimento no embrião. A bolsa de Rathke também é de origem ectodérmica.
+
+A bolsa eventualmente perde sua conexão com a faringe, dando origem à hipófise anterior.
+
+A parede anterior da bolsa de Rathke prolifera, preenchendo a maior parte da bolsa para formar a pars distalis e a pars tuberalis.
+
+A parede posterior da hipófise anterior forma a pars intermedia.
+
+Sua formação a partir dos tecidos moles do palato superior contrasta com a hipófise posterior, que se origina do neuroectoderma.
+
+
+== Função ==
+
+A hipófise anterior contém cinco tipos de células endócrinas, e elas são definidas pelos hormônios que secretam: somatotropos (GH); Lactotrópicos (PRL); gonadotrofos (LH e FSH); corticotrópicos (ACTH) e tireotrópicos (TSH).
+
+Ele também contém células foliculoestreladas não endócrinas que estimulam e sustentam as populações de células endócrinas.
+
+Os hormônios secretados pela hipófise anterior são hormônios tróficos (grego: trophe, “nutrição”).
+
+Os hormônios tróficos afetam diretamente o crescimento como hiperplasia ou hipertrofia no tecido que está estimulando.
+
+Os hormônios trópicos são nomeados por sua capacidade de atuar diretamente nos tecidos-alvo ou em outras glândulas endócrinas para liberar hormônios, causando inúmeras respostas fisiológicas em cascata.
+
+
+=== Papel no sistema endócrino ===
+
+
+Controle hipotalâmico A secreção hormonal da glândula pituitária anterior é regulada por hormônios secretados pelo hipotálamo. 
+
+Células neuroendócrinas no hipotálamo projetam axônios para a eminência mediana, na base do cérebro. 
+
+Nesse local, essas células podem liberar substâncias em pequenos vasos sanguíneos que viajam diretamente para a glândula pituitária anterior (os vasos portais hipotálamo-hipofisários).
+
+Outros Mecanismos de Controle Além do controle hipotalâmico da hipófise anterior, outros sistemas do corpo demonstraram regular a função da hipófise anterior. 
+
+O GABA pode estimular ou inibir a secreção do hormônio luteinizante (LH) e do hormônio do crescimento (GH) e pode estimular a secreção do hormônio estimulante da tireóide (TSH). 
+
+Sabe-se agora que as prostaglandinas inibem o hormônio adrenocorticotrófico (ACTH) e também estimulam a liberação de TSH, GH e LH.
+
+O GABA, através da ação com o hipotálamo, demonstrou experimentalmente influenciar o nível de secreção de GH.
+
+Evidências clínicas suportam os achados experimentais dos efeitos excitatórios e inibitórios que o GABA tem na secreção de GH, dependendo do local de ação do GABA dentro da unidade hipotálamo-hipofisária.
+
+
+=== Efeitos da hipófise anterior ===
+
+Homeostase térmicaA manutenção homeostática da hipófise anterior é crucial para o nosso bem-estar fisiológico.
+
+Níveis plasmáticos aumentados de TSH induzem hipertermia através de um mecanismo que envolve aumento do metabolismo e vasodilatação cutânea.
+
+Níveis aumentados de LH também resultam em hipotermia, mas através de uma ação metabólica diminuída.
+
+O ACTH aumenta o metabolismo e induz vasoconstrição cutânea, o aumento dos níveis plasmáticos também resulta em hipertermia e diminui a prolactina com a diminuição dos valores de temperatura. 
+
+O hormônio folículo-estimulante (FSH) também pode causar hipotermia se aumentado além dos níveis homeostáticos apenas por meio de um mecanismo metabólico aumentado.
+
+Função gonadal
+Os gonadotrofos, principalmente o hormônio luteinizante (LH) secretado pela hipófise anterior, estimulam o ciclo de ovulação nas fêmeas de mamíferos, enquanto nos machos, o LH estimula a síntese de andrógenos que impulsionam o desejo contínuo de acasalar juntamente com uma produção constante de esperma.
+
+Eixo HPA
+Eixo hipotálamo-hipófise-adrenal
+A hipófise anterior desempenha um papel na resposta ao estresse. 
+
+O hormônio liberador de corticotropina (CRH) do hipotálamo estimula a liberação de ACTH em um efeito em cascata que termina com a produção de glicocorticóides pelo córtex adrenal.
+
+
+=== Efeitos comportamentais ===
+
+Desenvolvimento
+A liberação de GH, LH e FSH são necessárias para o correto desenvolvimento humano, incluindo o desenvolvimento gonadal.
+
+Amamentação
+A liberação do hormônio prolactina é essencial para a lactação.
+Estresse
+Operando através do eixo hipotálamo-hipófise-adrenal (HPA), a hipófise anterior tem um grande papel na resposta ao estresse do sistema neuroendócrino.
+
+O estresse induz a liberação de hormônio liberador de corticotropina (CRH) e vasopressina do hipotálamo, que ativa a liberação de hormônio adrenocorticotrófico (ACTH) da glândula pituitária anterior.
+
+Então, isso age no córtex adrenal para produzir glicocorticóides como o cortisol.
+
+Esses glicocorticóides agem de volta na glândula pituitária anterior e no hipotálamo com feedback negativo para retardar a produção de CRH e ACTH. 
+
+O aumento do cortisol em condições de estresse pode causar: efeitos metabólicos (mobilização de glicose, ácidos graxos e aminoácidos), reabsorção óssea (mobilização de cálcio), ativação da resposta do sistema nervoso simpático (luta ou fuga), anti-inflamatório efeitos e inibição da reprodução/crescimento. 
+
+Quando a glândula pituitária anterior é removida (hipofisectomia) em ratos, seus mecanismos de aprendizagem de evitação foram retardados, mas as injeções de ACTH restauraram seu desempenho. 
+
+Além disso, o estresse pode retardar a liberação de hormônios reprodutivos, como o hormônio luteinizante (LH) e o hormônio folículo-estimulante (FSH). 
+
+Isso mostra que a glândula pituitária anterior está envolvida em funções comportamentais, além de fazer parte de um caminho maior para respostas ao estresse. 
+
+Sabe-se também que os hormônios (HPA) estão relacionados a certas doenças de pele e à homeostase da pele. 
+
+Há evidências que ligam a hiperatividade dos hormônios HPA a doenças de pele relacionadas ao estresse e tumores de pele.
+
+Envelhecimento
+Operando através do eixo hipotálamo-hipófise-gonadal, a glândula pituitária anterior também afeta o sistema reprodutivo. 
+
+O hipotálamo libera o hormônio liberador de gonadotrofinas (GnRH), que estimula a liberação do hormônio luteinizante (LH) e do hormônio folículo-estimulante. 
+
+Em seguida, as gônadas produzem estrogênio e testosterona. 
+
+A diminuição da liberação de gonadotrofinas (LH e FSH) causada pelo envelhecimento normal pode ser responsável pela impotência e fragilidade em homens idosos devido à eventual diminuição da produção de testosterona. 
+
+Esse nível mais baixo de testosterona pode ter outros efeitos, como redução da libido, bem-estar e humor, força muscular e óssea e metabolismo.
+
+Resposta tátil
+Foi demonstrado que camundongos bebês que foram acariciados com um pincel (simulando cuidados maternos) tiveram mais liberação e ligação do hormônio do crescimento (GH) da glândula pituitária anterior. Ritmos circadianos
+
+A informação luminosa recebida pelos olhos é transmitida para a glândula pineal através do marcapasso circadiano (o núcleo supraquiasmático). 
+
+A diminuição da luz estimula a liberação de melatonina da glândula pineal, que também pode afetar os níveis de secreção no eixo hipotálamo-hipófise-gonadal. 
+
+A melatonina pode diminuir os níveis de LH e FSH, o que diminuirá os níveis de estrogênio e testosterona.
+
+Além disso, a melatonina pode afetar a produção de prolactina.
+
+
+== Significado clínico ==
+
+
+=== Aumento da atividade ===
+
+O hiperpituitarismo é a condição em que a hipófise secreta quantidades excessivas de hormônios.
+
+Essa hipersecreção geralmente resulta na formação de um adenoma hipofisário (tumor), que são benignos, exceto em uma pequena fração.
+
+Existem principalmente três tipos de tumores da hipófise anterior e seus distúrbios associados.
+
+Por exemplo, a acromegalia resulta da secreção excessiva de hormônio do crescimento (GH) muitas vezes sendo liberado por um adenoma hipofisário.
+
+Esse distúrbio pode causar desfiguração e possivelmente a morte e pode levar ao gigantismo, um distúrbio hormonal mostrado em “gigantes” como André, o Gigante, onde ocorre antes das placas epifisárias nos ossos fecharem na puberdade. 
+
+O tipo mais comum de tumor hipofisário é um prolactinoma que hipersecreta prolactina. 
+
+Um terceiro tipo de adenoma hipofisário secreta ACTH em excesso, que, por sua vez, faz com que um excesso de cortisol seja secretado e é a causa da doença de Cushing.
+
+
+=== Diminuição da atividade ===
+
+
+O hipopituitarismo é caracterizado por uma secreção diminuída de hormônios liberados pela hipófise anterior. 
+
+Por exemplo, a hiposecreção de GH antes da puberdade pode ser uma causa de nanismo. 
+
+Além disso, a insuficiência adrenal secundária pode ser causada por hiposecreção de ACTH que, por sua vez, não sinaliza ao córtex adrenal para produzir uma quantidade suficiente de cortisol. 
+
+Esta é uma condição com risco de vida.
+
+O hipopituitarismo pode ser causado pela destruição ou remoção do tecido hipofisário anterior por traumatismo cranioencefálico, tumor, tuberculose ou sífilis, entre outras causas.
+
+Esse distúrbio costumava ser chamado de doença de Simmonds, mas agora, de acordo com o banco de dados de doenças, é chamado de síndrome de Sheehan.
+
+Se o hipopituitarismo é causado pela perda de sangue associada ao parto, o distúrbio é referido como síndrome de Sheehan.
+
+
+== História ==
+
+=== Etimologia ===
+
+A hipófise anterior também é conhecida como adenohipófise, que significa "crescimento glandular", do grego adeno- ("glândula"), hipo ("sob") e physis ("crescimento").
+
+
+
+https://en.wikipedia.org/wiki/Anterior_pituitary

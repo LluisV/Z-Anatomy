@@ -1,0 +1,884 @@
+
+
+COCHLEA
+
+
+The cochlea is the part of the inner ear involved in hearing. 
+
+It is a spiral-shaped cavity in the bony labyrinth, in humans making 2.75 turns around its axis, the modiolus. 
+
+A core component of the cochlea is the Organ of Corti, the sensory organ of hearing, which is distributed along the partition separating the fluid chambers in the coiled tapered tube of the cochlea.
+
+The name cochlea derives from Ancient Greek κοχλίας (kokhlias) 'spiral, snail shell'.
+
+
+== Structure ==
+
+
+The cochlea (plural is cochleae) is a spiraled, hollow, conical chamber of bone, in which waves propagate from the base (near the middle ear and the oval window) to the apex (the top or center of the spiral). 
+
+The spiral canal of the cochlea is a section of the bony labyrinth of the inner ear that is approximately 30 mm long and makes 2¾ turns about the modiolus. 
+
+The cochlear structures include:
+
+Three scalae or chambers:
+the vestibular duct or scala vestibuli (containing perilymph), which lies superior to the cochlear duct and abuts the oval window
+the tympanic duct or scala tympani (containing perilymph), which lies inferior to the cochlear duct and terminates at the round window
+the cochlear duct or scala media (containing endolymph) a region of high potassium ion concentration that the stereocilia of the hair cells project into
+The helicotrema, the location where the tympanic duct and the vestibular duct merge, at the apex of the cochlea
+Reissner's membrane, which separates the vestibular duct from the cochlear duct
+The osseous spiral lamina, a main structural element that separates the cochlear duct from the tympanic duct
+The basilar membrane, a main structural element that separates the cochlear duct from the tympanic duct and determines the mechanical wave propagation properties of the cochlear partition
+The Organ of Corti, the sensory epithelium, a cellular layer on the basilar membrane, in which sensory hair cells are powered by the potential difference between the perilymph and the endolymph
+hair cells, sensory cells in the Organ of Corti, topped with hair-like structures called stereocilia
+The spiral ligament.The cochlea is a portion of the inner ear that looks like a snail shell (cochlea is Greek for snail). 
+
+The cochlea receives sound in the form of vibrations, which cause the stereocilia to move. 
+
+The stereocilia then convert these vibrations into nerve impulses which are taken up to the brain to be interpreted. 
+
+Two of the three fluid sections are canals and the third is the 'Organ of Corti' which detects pressure impulses that travel along the auditory nerve to the brain. 
+
+The two canals are called the vestibular canal and the tympanic canal.
+
+
+=== Microanatomy ===
+
+The walls of the hollow cochlea are made of bone, with a thin, delicate lining of epithelial tissue. 
+
+This coiled tube is divided through most of its length by an inner membranous partition. 
+
+Two fluid-filled outer spaces (ducts or scalae) are formed by this dividing membrane. 
+
+At the top of the snailshell-like coiling tubes, there is a reversal of the direction of the fluid, thus changing the vestibular duct to the tympanic duct. 
+
+This area is called the helicotrema. 
+
+This continuation at the helicotrema allows fluid being pushed into the vestibular duct by the oval window to move back out via movement in the tympanic duct and deflection of the round window; since the fluid is nearly incompressible and the bony walls are rigid, it is essential for the conserved fluid volume to exit somewhere.
+The lengthwise partition that divides most of the cochlea is itself a fluid-filled tube, the third 'duct'. 
+
+This central column is called the cochlear duct. 
+
+Its fluid, endolymph, also contains electrolytes and proteins, but is chemically quite different from perilymph. 
+
+Whereas the perilymph is rich in sodium ions, the endolymph is rich in potassium ions, which produces an ionic, electrical potential.
+The hair cells are arranged in four rows in the Organ of Corti along the entire length of the cochlear coil. 
+
+Three rows consist of outer hair cells (OHCs) and one row consists of inner hair cells (IHCs). 
+
+The inner hair cells provide the main neural output of the cochlea. 
+
+The outer hair cells, instead, mainly 'receive' neural input from the brain, which influences their motility as part of the cochlea's mechanical "pre-amplifier". 
+
+The input to the OHC is from the olivary body via the medial olivocochlear bundle.
+The cochlear duct is almost as complex on its own as the ear itself. 
+
+The cochlear duct is bounded on three sides by the basilar membrane, the stria vascularis, and Reissner's membrane. 
+
+The stria vascularis is a rich bed of capillaries and secretory cells; Reissner's membrane is a thin membrane that separates endolymph from perilymph; and the basilar membrane is a mechanically somewhat stiff membrane, supporting the receptor organ for hearing, the Organ of Corti, and determines the mechanical wave propagation properties of the cochlear system.
+
+
+== Function ==
+
+
+The cochlea is filled with a watery liquid, the endolymph, which moves in response to the vibrations coming from the middle ear via the oval window. 
+
+As the fluid moves, the cochlear partition (basilar membrane and organ of Corti) moves; thousands of hair cells sense the motion via their stereocilia, and convert that motion to electrical signals that are communicated via neurotransmitters to many thousands of nerve cells. 
+
+These primary auditory neurons transform the signals into electrochemical impulses known as action potentials, which travel along the auditory nerve to structures in the brainstem for further processing.
+
+
+=== Hearing ===
+
+
+The stapes (stirrup) ossicle bone of the middle ear transmits vibrations to the fenestra ovalis (oval window) on the outside of the cochlea, which vibrates the perilymph in the vestibular duct (upper chamber of the cochlea). 
+
+The ossicles are essential for efficient coupling of sound waves into the cochlea, since the cochlea environment is a fluid–membrane system, and it takes more pressure to move sound through fluid–membrane waves than it does through air. 
+
+A pressure increase is achieved by reducing the area ratio from the tympanic membrane (drum) to the oval window (stapes bone) by 20. 
+
+As pressure = force/area, results in a pressure gain of about 20 times from the original sound wave pressure in air. 
+
+This gain is a form of impedance matching – to match the soundwave travelling through air to that travelling in the fluid–membrane system.
+At the base of the cochlea, each 'duct' ends in a membranous portal that faces the middle ear cavity: The vestibular duct ends at the oval window, where the footplate of the stapes sits. 
+
+The footplate vibrates when the pressure is transmitted via the ossicular chain. 
+
+The wave in the perilymph moves away from the footplate and towards the helicotrema. 
+
+Since those fluid waves move the cochlear partition that separates the ducts up and down, the waves have a corresponding symmetric part in perilymph of the tympanic duct, which ends at the round window, bulging out when the oval window bulges in.
+The perilymph in the vestibular duct and the endolymph in the cochlear duct act mechanically as a single duct, being kept apart only by the very thin Reissner's membrane.
+The vibrations of the endolymph in the cochlear duct displace the basilar membrane in a pattern that peaks a distance from the oval window depending upon the soundwave frequency. 
+
+The Organ of Corti vibrates due to outer hair cells further amplifying these vibrations. 
+
+Inner hair cells are then displaced by the vibrations in the fluid, and depolarise by an influx of K+ via their tip-link-connected channels, and send their signals via neurotransmitter to the primary auditory neurons of the spiral ganglion.
+The hair cells in the Organ of Corti are tuned to certain sound frequencies by way of their location in the cochlea, due to the degree of stiffness in the basilar membrane. 
+
+This stiffness is due to, among other things, the thickness and width of the basilar membrane, which along the length of the cochlea is stiffest nearest its beginning at the oval window, where the stapes introduces the vibrations coming from the eardrum. 
+
+Since its stiffness is high there, it allows only high-frequency vibrations to move the basilar membrane, and thus the hair cells. 
+
+The farther a wave travels towards the cochlea's apex (the helicotrema), the less stiff the basilar membrane is; thus lower frequencies travel down the tube, and the less-stiff membrane is moved most easily by them where the reduced stiffness allows: that is, as the basilar membrane gets less and less stiff, waves slow down and it responds better to lower frequencies. 
+
+In addition, in mammals, the cochlea is coiled, which has been shown to enhance low-frequency vibrations as they travel through the fluid-filled coil. 
+
+This spatial arrangement of sound reception is referred to as tonotopy.
+For very low frequencies (below 20 Hz), the waves propagate along the complete route of the cochlea – differentially up vestibular duct and tympanic duct all the way to the helicotrema. 
+
+Frequencies this low still activate the Organ of Corti to some extent but are too low to elicit the perception of a pitch. 
+
+Higher frequencies do not propagate to the helicotrema, due to the stiffness-mediated tonotopy.
+A very strong movement of the basilar membrane due to very loud noise may cause hair cells to die. 
+
+This is a common cause of partial hearing loss and is the reason why users of firearms or heavy machinery often wear earmuffs or earplugs.
+
+
+=== Hair cell amplification ===
+
+Not only does the cochlea "receive" sound, a healthy cochlea generates and amplifies sound when necessary. 
+
+Where the organism needs a mechanism to hear very faint sounds, the cochlea amplifies by the reverse transduction of the OHCs, converting electrical signals back to mechanical in a positive-feedback configuration. 
+
+The OHCs have a protein motor called prestin on their outer membranes; it generates additional movement that couples back to the fluid–membrane wave. 
+
+This "active amplifier" is essential in the ear's ability to amplify weak sounds.The active amplifier also leads to the phenomenon of soundwave vibrations being emitted from the cochlea back into the ear canal through the middle ear (otoacoustic emissions).
+
+
+=== Otoacoustic emissions ===
+
+Otoacoustic emissions are due to a wave exiting the cochlea via the oval window, and propagating back through the middle ear to the eardrum, and out the ear canal, where it can be picked up by a microphone. 
+
+Otoacoustic emissions are important in some types of tests for hearing impairment, since they are present when the cochlea is working well, and less so when it is suffering from loss of OHC activity.
+
+
+=== Role of gap junctions ===
+
+Gap-junction proteins, called connexins, expressed in the cochlea play an important role in auditory functioning. 
+
+Mutations in gap-junction genes have been found to cause syndromic and nonsyndromic deafness. 
+
+Certain connexins, including connexin 30 and connexin 26, are prevalent in the two distinct gap-junction systems found in the cochlea. 
+
+The epithelial-cell gap-junction network couples non-sensory epithelial cells, while the connective-tissue gap-junction network couples connective-tissue cells. 
+
+Gap-junction channels recycle potassium ions back to the endolymph after mechanotransduction in hair cells. 
+
+Importantly, gap junction channels are found between cochlear supporting cells, but not auditory hair cells.
+
+
+== Clinical significance ==
+
+
+
+=== Hearing loss ===
+
+ 
+
+
+=== Bionics ===
+
+In 2009, engineers at the Massachusetts Institute of Technology created an electronic chip that can quickly analyze a very large range of radio frequencies while using only a fraction of the power needed for existing technologies; its design specifically mimics a cochlea.
+
+
+== Other animals ==
+
+The coiled form of cochlea is unique to mammals. 
+
+In birds and in other non-mammalian vertebrates, the compartment containing the sensory cells for hearing is occasionally also called "cochlea," despite not being coiled up. 
+
+Instead, it forms a blind-ended tube, also called the cochlear duct. 
+
+This difference apparently evolved in parallel with the differences in frequency range of hearing between mammals and non-mammalian vertebrates. 
+
+The superior frequency range in mammals is partly due to their unique mechanism of pre-amplification of sound by active cell-body vibrations of outer hair cells. 
+
+Frequency resolution is, however, not better in mammals than in most lizards and birds, but the upper frequency limit is – sometimes much – higher. 
+
+Most bird species do not hear above 4–5 kHz, the currently known maximum being ~ 11 kHz in the barn owl. 
+
+Some marine mammals hear up to 200 kHz. 
+
+A long coiled compartment, rather than a short and straight one, provides more space for additional octaves of hearing range, and has made possible some of the highly derived behaviors involving mammalian hearing.As the study of the cochlea should fundamentally be focused at the level of hair cells, it is important to note the anatomical and physiological differences between the hair cells of various species. 
+
+In birds, for instance, instead of outer and inner hair cells, there are tall and short hair cells. 
+
+There are several similarities of note in regard to this comparative data. 
+
+For one, the tall hair cell is very similar in function to that of the inner hair cell, and the short hair cell, lacking afferent auditory-nerve fiber innervation, resembles the outer hair cell. 
+
+One unavoidable difference, however, is that while all hair cells are attached to a tectorial membrane in birds, only the outer hair cells are attached to the tectorial membrane in mammals.
+
+
+== History ==
+
+The name cochlea is derived from the Latin word for snail shell, which in turn is from the Greek κοχλίας kokhlias ("snail, screw"), from κόχλος kokhlos ("spiral shell") in reference to its coiled shape; the cochlea is coiled in mammals with the exception of monotremes.
+
+
+
+https://en.wikipedia.org/wiki/Cochlea
+;;;ES;;;
+
+
+
+CÓCLEA
+
+
+La cóclea es la parte del oído interno involucrada en la audición.
+
+Es una cavidad en forma de espiral en el laberinto óseo, que en humanos da 2,75 vueltas alrededor de su eje, el modiolo.
+
+Un componente central de la cóclea es el Órgano de Corti, el órgano sensorial de la audición, que se distribuye a lo largo de la partición que separa las cámaras de líquido en el tubo cónico enrollado de la cóclea.
+
+El nombre cóclea deriva del griego antiguo κοχλίας (kokhlias) 'espiral, concha de caracol'.
+
+
+== Estructura ==
+
+
+La cóclea (plural es cochleae) es una cámara de hueso cónica, hueca y en espiral, en la que las ondas se propagan desde la base (cerca del oído medio y la ventana oval) hasta el vértice (la parte superior o el centro de la espiral).
+
+El canal espiral de la cóclea es una sección del laberinto óseo del oído interno que tiene aproximadamente 30 mm de largo y da 2¾ vueltas alrededor del modiolo.
+
+Las estructuras cocleares incluyen:
+
+Tres escalas o cámaras:
+el conducto vestibular o scala vestibuli (que contiene perilinfa), que se encuentra por encima del conducto coclear y se apoya en la ventana oval
+el conducto timpánico o rampa timpánica (que contiene perilinfa), que se encuentra por debajo del conducto coclear y termina en la ventana redonda
+el conducto coclear o escala media (que contiene endolinfa) una región de alta concentración de iones de potasio en la que se proyectan los estereocilios de las células ciliadas
+El helicotrema, el lugar donde se unen el conducto timpánico y el conducto vestibular, en el vértice de la cóclea
+Membrana de Reissner, que separa el conducto vestibular del conducto coclear
+La lámina espiral ósea, elemento estructural principal que separa el conducto coclear del conducto timpánico.
+La membrana basilar, un elemento estructural principal que separa el conducto coclear del conducto timpánico y determina las propiedades mecánicas de propagación de ondas del tabique coclear.
+El órgano de Corti, el epitelio sensorial, una capa celular en la membrana basilar, en la que las células ciliadas sensoriales reciben energía de la diferencia de potencial entre la perilinfa y la endolinfa.
+células ciliadas, células sensoriales en el Órgano de Corti, rematadas con estructuras parecidas a cabellos llamadas estereocilios
+El ligamento espiral. La cóclea es una porción del oído interno que se parece a una concha de caracol (cóclea en griego significa caracol).
+
+La cóclea recibe el sonido en forma de vibraciones, lo que hace que los estereocilios se muevan.
+
+Los estereocilios luego convierten estas vibraciones en impulsos nerviosos que son llevados al cerebro para ser interpretados.
+
+Dos de las tres secciones de fluido son canales y la tercera es el 'Órgano de Corti' que detecta los impulsos de presión que viajan a lo largo del nervio auditivo hasta el cerebro. 
+
+Los dos canales se denominan canal vestibular y canal timpánico.
+
+
+=== Microanatomía ===
+
+Las paredes de la cóclea hueca están hechas de hueso, con un revestimiento delgado y delicado de tejido epitelial. 
+
+Este tubo enrollado está dividido en la mayor parte de su longitud por una partición membranosa interna. 
+
+Esta membrana divisoria forma dos espacios exteriores llenos de líquido (conductos o escamas). 
+
+En la parte superior de los tubos enrollados en forma de concha de caracol, hay una inversión de la dirección del fluido, cambiando así el conducto vestibular al conducto timpánico. 
+
+Esta área se llama helicotrema. 
+
+Esta continuación en el helicotrema permite que el líquido que es empujado hacia el conducto vestibular por la ventana oval retroceda a través del movimiento en el conducto timpánico y la desviación de la ventana redonda; dado que el fluido es casi incompresible y las paredes óseas son rígidas, es esencial que el volumen de fluido conservado salga por alguna parte.
+La partición longitudinal que divide la mayor parte de la cóclea es en sí misma un tubo lleno de líquido, el tercer "conducto". 
+
+Esta columna central se llama conducto coclear. 
+
+Su líquido, la endolinfa, también contiene electrolitos y proteínas, pero es químicamente bastante diferente de la perilinfa. 
+
+Mientras que la perilinfa es rica en iones de sodio, la endolinfa es rica en iones de potasio, lo que produce un potencial eléctrico iónico.
+Las células ciliadas están dispuestas en cuatro filas en el Órgano de Corti a lo largo de toda la longitud de la bobina coclear. 
+
+Tres filas consisten en células ciliadas externas (OHC) y una fila consta de células ciliadas internas (IHC). 
+
+Las células ciliadas internas proporcionan la salida neural principal de la cóclea. 
+
+Las células ciliadas externas, en cambio, "reciben" principalmente información neuronal del cerebro, lo que influye en su motilidad como parte del "preamplificador" mecánico de la cóclea. 
+
+La entrada al OHC proviene del cuerpo olivar a través del haz olivococlear medial.
+El conducto coclear es casi tan complejo por sí solo como el propio oído. 
+
+El conducto coclear está limitado por tres lados por la membrana basilar, la estría vascular y la membrana de Reissner. 
+
+La stria vascularis es un rico lecho de capilares y células secretoras; La membrana de Reissner es una membrana delgada que separa la endolinfa de la perilinfa; y la membrana basilar es una membrana mecánicamente algo rígida, que soporta el órgano receptor para la audición, el Órgano de Corti, y determina las propiedades mecánicas de propagación de ondas del sistema coclear.
+
+
+== Función ==
+
+
+La cóclea está llena de un líquido acuoso, la endolinfa, que se mueve en respuesta a las vibraciones provenientes del oído medio a través de la ventana oval.
+
+A medida que se mueve el líquido, se mueve la partición coclear (membrana basilar y órgano de Corti); miles de células ciliadas perciben el movimiento a través de sus estereocilios y convierten ese movimiento en señales eléctricas que se comunican a través de neurotransmisores a muchos miles de células nerviosas.
+
+Estas neuronas auditivas primarias transforman las señales en impulsos electroquímicos conocidos como potenciales de acción, que viajan a lo largo del nervio auditivo hasta las estructuras del tronco encefálico para su posterior procesamiento.
+
+
+=== Escuchar ===
+
+
+El huesecillo del estribo (estribo) del oído medio transmite vibraciones a la fenestra ovalis (ventana oval) en el exterior de la cóclea, que hace vibrar la perilinfa en el conducto vestibular (cámara superior de la cóclea).
+
+Los huesecillos son esenciales para el acoplamiento eficiente de las ondas sonoras en la cóclea, ya que el entorno de la cóclea es un sistema de membrana fluida y se necesita más presión para mover el sonido a través de las ondas de membrana fluida que a través del aire.
+
+Se logra un aumento de la presión al reducir en 20 la relación del área entre la membrana timpánica (tambor) y la ventana oval (hueso del estribo).
+
+Como presión = fuerza/área, se obtiene una ganancia de presión de unas 20 veces la presión de la onda de sonido original en el aire. 
+
+Esta ganancia es una forma de emparejamiento de impedancias, para hacer coincidir la onda de sonido que viaja a través del aire con la que viaja en el sistema de membrana de fluido.
+En la base de la cóclea, cada "conducto" termina en un portal membranoso que mira hacia la cavidad del oído medio: el conducto vestibular termina en la ventana oval, donde se asienta la base del estribo. 
+
+El reposapiés vibra cuando la presión se transmite a través de la cadena osicular. 
+
+La onda en la perilinfa se aleja de la platina y se dirige hacia el helicotrema. 
+
+Dado que esas ondas de fluido mueven la partición coclear que separa los conductos hacia arriba y hacia abajo, las ondas tienen una parte simétrica correspondiente en la perilinfa del conducto timpánico, que termina en la ventana redonda y sobresale cuando la ventana oval sobresale.
+La perilinfa en el conducto vestibular y la endolinfa en el conducto coclear actúan mecánicamente como un solo conducto, siendo separados únicamente por la muy delgada membrana de Reissner.
+Las vibraciones de la endolinfa en el conducto coclear desplazan la membrana basilar en un patrón que alcanza su punto máximo a una distancia de la ventana oval dependiendo de la frecuencia de la onda sonora. 
+
+El Órgano de Corti vibra debido a las células ciliadas externas que amplifican aún más estas vibraciones. 
+
+Luego, las células ciliadas internas son desplazadas por las vibraciones en el fluido y se despolarizan por una afluencia de K+ a través de sus canales conectados a la punta y envían sus señales a través de un neurotransmisor a las neuronas auditivas primarias del ganglio espiral.
+Las células ciliadas del Órgano de Corti están sintonizadas con ciertas frecuencias de sonido debido a su ubicación en la cóclea, debido al grado de rigidez de la membrana basilar. 
+
+Esta rigidez se debe, entre otras cosas, al grosor y ancho de la membrana basilar, que a lo largo de la cóclea es más rígida cerca de su inicio en la ventana oval, donde el estribo introduce las vibraciones provenientes del tímpano. 
+
+Dado que su rigidez es alta allí, solo permite que las vibraciones de alta frecuencia muevan la membrana basilar y, por lo tanto, las células ciliadas. 
+
+Cuanto más viaja una onda hacia el vértice de la cóclea (el helicotrema), menos rígida es la membrana basilar; por lo tanto, las frecuencias más bajas viajan por el tubo y la membrana menos rígida se mueve más fácilmente donde la rigidez reducida lo permite: es decir, a medida que la membrana basilar se vuelve cada vez menos rígida, las ondas se ralentizan y responde mejor a las frecuencias más bajas.
+
+Además, en los mamíferos, la cóclea está enrollada, lo que se ha demostrado que mejora las vibraciones de baja frecuencia a medida que viajan a través de la espiral llena de líquido. 
+
+Esta disposición espacial de la recepción del sonido se denomina tonotopía.
+Para frecuencias muy bajas (por debajo de 20 Hz), las ondas se propagan a lo largo de la ruta completa de la cóclea, diferencialmente hacia el conducto vestibular y el conducto timpánico hasta el helicotrema. 
+
+Las frecuencias tan bajas todavía activan el Órgano de Corti hasta cierto punto, pero son demasiado bajas para provocar la percepción de un tono. 
+
+Las frecuencias más altas no se propagan al helicotrema, debido a la tonotopía mediada por la rigidez.
+Un movimiento muy fuerte de la membrana basilar debido a un ruido muy fuerte puede provocar la muerte de las células ciliadas. 
+
+Esta es una causa común de pérdida auditiva parcial y es la razón por la cual los usuarios de armas de fuego o maquinaria pesada suelen usar orejeras o tapones para los oídos.
+
+
+=== Amplificación de células ciliadas ===
+
+La cóclea no solo "recibe" el sonido, sino que una cóclea sana genera y amplifica el sonido cuando es necesario. 
+
+Cuando el organismo necesita un mecanismo para escuchar sonidos muy débiles, la cóclea amplifica mediante la transducción inversa de los OHC, convirtiendo las señales eléctricas nuevamente en mecánicas en una configuración de retroalimentación positiva. 
+
+Los OHC tienen una proteína motora llamada prestina en sus membranas externas; genera un movimiento adicional que se acopla de nuevo a la onda de membrana fluida.
+
+Este "amplificador activo" es esencial en la capacidad del oído para amplificar los sonidos débiles. El amplificador activo también conduce al fenómeno de las vibraciones de las ondas sonoras que se emiten desde la cóclea hacia el canal auditivo a través del oído medio (emisiones otoacústicas).
+
+
+=== Emisiones otoacústicas ===
+
+Las emisiones otoacústicas se deben a una onda que sale de la cóclea a través de la ventana oval y se propaga de regreso a través del oído medio hasta el tímpano y sale por el canal auditivo, donde puede ser captada por un micrófono.
+
+Las emisiones otoacústicas son importantes en algunos tipos de pruebas para la discapacidad auditiva, ya que están presentes cuando la cóclea funciona bien y menos cuando sufre una pérdida de actividad OHC.
+
+
+=== Rol de los cruces gap ===
+
+Las proteínas de unión comunicante, llamadas conexinas, expresadas en la cóclea, juegan un papel importante en el funcionamiento auditivo.
+
+Se ha descubierto que las mutaciones en los genes de unión comunicante causan sordera sindrómica y no sindrómica.
+
+Ciertas conexinas, incluidas la conexina 30 y la conexina 26, prevalecen en los dos sistemas distintos de uniones comunicantes que se encuentran en la cóclea.
+
+La red de unión gap de células epiteliales acopla células epiteliales no sensoriales, mientras que la red de unión gap de tejido conectivo acopla células de tejido conectivo.
+
+Los canales de unión gap reciclan los iones de potasio de regreso a la endolinfa después de la mecanotransducción en las células ciliadas.
+
+Es importante destacar que los canales de unión gap se encuentran entre las células de soporte cocleares, pero no entre las células ciliadas auditivas.
+
+
+== Importancia clínica ==
+
+
+
+=== Pérdida de audición ===
+
+ 
+
+
+=== Biónica ===
+
+En 2009, los ingenieros del Instituto Tecnológico de Massachusetts crearon un chip electrónico que puede analizar rápidamente una amplia gama de frecuencias de radio utilizando solo una fracción de la energía necesaria para las tecnologías existentes; su diseño imita específicamente una cóclea.
+
+
+== Otros animales ==
+
+La forma enrollada de la cóclea es exclusiva de los mamíferos. 
+
+En las aves y en otros vertebrados no mamíferos, el compartimento que contiene las células sensoriales para la audición también se denomina ocasionalmente "cóclea", a pesar de no estar enrollado. 
+
+En cambio, forma un tubo con un extremo ciego, también llamado conducto coclear. 
+
+Esta diferencia aparentemente evolucionó en paralelo con las diferencias en el rango de frecuencias de audición entre mamíferos y vertebrados no mamíferos. 
+
+El rango de frecuencia superior en los mamíferos se debe en parte a su mecanismo único de preamplificación del sonido por las vibraciones activas del cuerpo celular de las células ciliadas externas. 
+
+Sin embargo, la resolución de frecuencia no es mejor en los mamíferos que en la mayoría de los lagartos y las aves, pero el límite superior de frecuencia es, a veces, mucho más alto. 
+
+La mayoría de las especies de aves no escuchan por encima de 4-5 kHz, siendo el máximo actualmente conocido ~ 11 kHz en la lechuza común. 
+
+Algunos mamíferos marinos escuchan hasta 200 kHz. 
+
+Un compartimento enrollado largo, en lugar de uno corto y recto, proporciona más espacio para octavas adicionales de rango auditivo y ha hecho posible algunos de los comportamientos altamente derivados que involucran la audición de los mamíferos. Como el estudio de la cóclea debe centrarse fundamentalmente en el nivel de las células ciliadas, es importante tener en cuenta las diferencias anatómicas y fisiológicas entre las células ciliadas de varias especies.
+
+En las aves, por ejemplo, en lugar de células ciliadas internas y externas, hay células ciliadas altas y cortas.
+
+Hay varias similitudes de nota con respecto a estos datos comparativos.
+
+Por un lado, la célula ciliada alta tiene una función muy similar a la de la célula ciliada interna, y la célula ciliada corta, que carece de inervación de fibras nerviosas auditivas aferentes, se asemeja a la célula ciliada externa.
+
+Sin embargo, una diferencia inevitable es que mientras todas las células ciliadas están unidas a una membrana tectoria en las aves, solo las células ciliadas externas están unidas a la membrana tectoria en los mamíferos.
+
+
+== Historia ==
+
+El nombre cóclea se deriva de la palabra latina para concha de caracol, que a su vez es del griego κοχλίας kokhlias ("caracol, tornillo"), de κόχλος kokhlos ("concha en espiral") en referencia a su forma enrollada; la cóclea está enrollada en los mamíferos con la excepción de los monotremas.
+
+
+
+https://en.wikipedia.org/wiki/Cochlea
+
+;;;FR;;;
+
+
+
+LIMAÇON
+
+
+La cochlée est la partie de l'oreille interne impliquée dans l'audition.
+
+C'est une cavité en forme de spirale dans le labyrinthe osseux, chez l'homme faisant 2,75 tours autour de son axe, le modiolus.
+
+Un composant central de la cochlée est l'organe de Corti, l'organe sensoriel de l'ouïe, qui est réparti le long de la cloison séparant les chambres à fluide dans le tube conique enroulé de la cochlée.
+
+Le nom cochlée dérive du grec ancien κοχλίας (kokhlias) « spirale, coquille d'escargot ».
+
+
+== Structure ==
+
+
+La cochlée (le pluriel est cochleae) est une chambre osseuse conique, creuse et en spirale, dans laquelle les ondes se propagent de la base (près de l'oreille moyenne et de la fenêtre ovale) au sommet (le sommet ou le centre de la spirale).
+
+Le canal spiral de la cochlée est une section du labyrinthe osseux de l'oreille interne qui mesure environ 30 mm de long et fait 2¾ tours autour du modiolus.
+
+Les structures cochléaires comprennent :
+
+Trois échelles ou chambres :
+le canal vestibulaire ou scala vestibuli (contenant la périlymphe), qui se trouve au-dessus du canal cochléaire et jouxte la fenêtre ovale
+le canal tympanique ou la rampe tympanique (contenant la périlymphe), qui se trouve en dessous du canal cochléaire et se termine à la fenêtre ronde
+le canal cochléaire ou scala media (contenant de l'endolymphe) une région à forte concentration en ions potassium dans laquelle les stéréocils des cellules ciliées se projettent
+L'helicotrème, l'endroit où le canal tympanique et le canal vestibulaire fusionnent, au sommet de la cochlée
+La membrane de Reissner, qui sépare le conduit vestibulaire du conduit cochléaire
+La lame en spirale osseuse , un élément structurel principal qui sépare le conduit cochléaire du conduit tympanique
+La membrane basilaire, élément structurel principal qui sépare le canal cochléaire du canal tympanique et détermine les propriétés mécaniques de propagation des ondes de la cloison cochléaire
+L'Organe de Corti, l'épithélium sensoriel, une couche cellulaire sur la membrane basilaire, dans laquelle les cellules ciliées sensorielles sont alimentées par la différence de potentiel entre la périlymphe et l'endolymphe
+cellules ciliées, cellules sensorielles de l'organe de Corti, surmontées de structures ressemblant à des cheveux appelées stéréocils
+Le ligament spiralé. La cochlée est une partie de l'oreille interne qui ressemble à une coquille d'escargot (cochlée signifie escargot en grec). 
+
+La cochlée reçoit le son sous forme de vibrations, ce qui provoque le mouvement des stéréocils. 
+
+Les stéréocils convertissent ensuite ces vibrations en influx nerveux qui sont acheminés vers le cerveau pour être interprétés. 
+
+Deux des trois sections fluides sont des canaux et la troisième est « l'organe de Corti » qui détecte les impulsions de pression qui voyagent le long du nerf auditif jusqu'au cerveau. 
+
+Les deux canaux sont appelés canal vestibulaire et canal tympanique.
+
+
+=== Microanatomie ===
+
+Les parois de la cochlée creuse sont constituées d'os, avec une fine et délicate doublure de tissu épithélial. 
+
+Ce tube enroulé est divisé sur la majeure partie de sa longueur par une cloison membraneuse interne. 
+
+Deux espaces extérieurs remplis de liquide (conduits ou scalae) sont formés par cette membrane de division. 
+
+Au sommet des tubes d'enroulement en forme de coquille d'escargot, il y a une inversion de la direction du fluide, changeant ainsi le conduit vestibulaire en conduit tympanique. 
+
+Cette zone s'appelle l'hélicotrème. 
+
+Cette continuation au niveau de l'hélicotrème permet au fluide poussé dans le canal vestibulaire par la fenêtre ovale de refluer via le mouvement dans le canal tympanique et la déviation de la fenêtre ronde ; le fluide étant quasiment incompressible et les parois osseuses étant rigides, il est indispensable que le volume de fluide conservé sorte quelque part.
+La cloison longitudinale qui divise la majeure partie de la cochlée est elle-même un tube rempli de liquide, le troisième «conduit». 
+
+Cette colonne centrale s'appelle le canal cochléaire. 
+
+Son fluide, l'endolymphe, contient également des électrolytes et des protéines, mais est chimiquement assez différent de la périlymphe. 
+
+Alors que la périlymphe est riche en ions sodium, l'endolymphe est riche en ions potassium, ce qui produit un potentiel électrique ionique.
+Les cellules ciliées sont disposées en quatre rangées dans l'organe de Corti sur toute la longueur de la bobine cochléaire. 
+
+Trois rangées sont constituées de cellules ciliées externes (OHC) et une rangée est constituée de cellules ciliées internes (IHC). 
+
+Les cellules ciliées internes fournissent la principale sortie neuronale de la cochlée. 
+
+Les cellules ciliées externes, au contraire, « reçoivent » principalement l'apport neuronal du cerveau, qui influence leur motilité dans le cadre du « préamplificateur » mécanique de la cochlée. 
+
+L'entrée dans l'OHC provient du corps olivaire via le faisceau olivocochléaire médial.
+Le canal cochléaire est presque aussi complexe que l'oreille elle-même. 
+
+Le canal cochléaire est délimité sur trois côtés par la membrane basilaire, la strie vasculaire et la membrane de Reissner. 
+
+La strie vasculaire est un riche lit de capillaires et de cellules sécrétoires ; La membrane de Reissner est une fine membrane qui sépare l'endolymphe de la périlymphe ; et la membrane basilaire est une membrane mécaniquement quelque peu rigide, supportant l'organe récepteur de l'audition, l'organe de Corti, et détermine les propriétés mécaniques de propagation des ondes du système cochléaire.
+
+
+== Fonction ==
+
+
+La cochlée est remplie d'un liquide aqueux, l'endolymphe, qui se déplace en réponse aux vibrations provenant de l'oreille moyenne via la fenêtre ovale.
+
+Lorsque le fluide se déplace, la cloison cochléaire (membrane basilaire et organe de Corti) se déplace ; des milliers de cellules ciliées détectent le mouvement via leurs stéréocils et convertissent ce mouvement en signaux électriques qui sont communiqués via des neurotransmetteurs à plusieurs milliers de cellules nerveuses.
+
+Ces neurones auditifs primaires transforment les signaux en impulsions électrochimiques appelées potentiels d'action, qui voyagent le long du nerf auditif jusqu'aux structures du tronc cérébral pour un traitement ultérieur.
+
+
+=== Audition ===
+
+
+L'os osselet de l'étrier (étrier) de l'oreille moyenne transmet des vibrations à la fenestra ovalis (fenêtre ovale) à l'extérieur de la cochlée, qui fait vibrer la périlymphe dans le conduit vestibulaire (chambre supérieure de la cochlée).
+
+Les osselets sont essentiels pour un couplage efficace des ondes sonores dans la cochlée, car l'environnement de la cochlée est un système fluide-membrane, et il faut plus de pression pour déplacer le son à travers les ondes fluide-membrane que dans l'air.
+
+Une augmentation de la pression est obtenue en réduisant de 20 le rapport de surface entre la membrane tympanique (tambour) et la fenêtre ovale (os de l'étrier).
+
+Comme pression = force/surface, il en résulte un gain de pression d'environ 20 fois par rapport à la pression d'origine de l'onde sonore dans l'air.
+
+Ce gain est une forme d'adaptation d'impédance - pour faire correspondre l'onde sonore voyageant dans l'air à celle voyageant dans le système fluide-membrane.
+À la base de la cochlée, chaque « conduit » se termine par un portail membraneux qui fait face à la cavité de l'oreille moyenne : le canal vestibulaire se termine à la fenêtre ovale, où se trouve la plaque de base de l'étrier.
+
+La semelle vibre lorsque la pression est transmise via la chaîne ossiculaire.
+
+L'onde dans la périlymphe s'éloigne de la plaque de base et se dirige vers l'hélicotrème.
+
+Étant donné que ces ondes fluides déplacent la cloison cochléaire qui sépare les canaux de haut en bas, les ondes ont une partie symétrique correspondante dans la périlymphe du canal tympanique, qui se termine à la fenêtre ronde, se bombant lorsque la fenêtre ovale se gonfle.
+La périlymphe du canal vestibulaire et l'endolymphe du canal cochléaire agissent mécaniquement comme un seul canal, n'étant séparés que par la très fine membrane de Reissner.
+Les vibrations de l'endolymphe dans le canal cochléaire déplacent la membrane basilaire selon un schéma qui culmine à une certaine distance de la fenêtre ovale en fonction de la fréquence des ondes sonores. 
+
+L'organe de Corti vibre en raison des cellules ciliées externes qui amplifient encore ces vibrations. 
+
+Les cellules ciliées internes sont alors déplacées par les vibrations dans le fluide et se dépolarisent par un afflux de K + via leurs canaux connectés à la pointe et envoient leurs signaux via un neurotransmetteur aux neurones auditifs primaires du ganglion spiral.
+Les cellules ciliées de l'organe de Corti sont accordées à certaines fréquences sonores en raison de leur emplacement dans la cochlée, en raison du degré de rigidité de la membrane basilaire.
+
+Cette rigidité est due, entre autres, à l'épaisseur et à la largeur de la membrane basilaire, qui sur toute la longueur de la cochlée est la plus rigide le plus près de son début au niveau de la fenêtre ovale, où l'étrier introduit les vibrations provenant du tympan.
+
+Comme sa raideur y est élevée, elle ne permet qu'aux vibrations à haute fréquence de déplacer la membrane basilaire, et donc les cellules ciliées.
+
+Plus une onde se déplace vers l'apex de la cochlée (l'hélicotrème), moins la membrane basilaire est rigide ; ainsi les basses fréquences voyagent dans le tube, et la membrane moins rigide est déplacée plus facilement par elles là où la rigidité réduite le permet : c'est-à-dire que la membrane basilaire devient de moins en moins rigide, les ondes ralentissent et elle répond mieux aux basses fréquences.
+
+De plus, chez les mammifères, la cochlée est enroulée, ce qui améliore les vibrations à basse fréquence lorsqu'elles traversent la bobine remplie de liquide.
+
+Cette disposition spatiale de la réception sonore est appelée tonotopie.
+Pour les très basses fréquences (inférieures à 20 Hz), les ondes se propagent le long du parcours complet de la cochlée - différentiellement le conduit vestibulaire et le conduit tympanique jusqu'à l'hélicotrème.
+
+Des fréquences aussi basses activent encore l'orgue de Corti dans une certaine mesure mais sont trop basses pour susciter la perception d'une hauteur.
+
+Les fréquences plus élevées ne se propagent pas à l'hélicotrème, en raison de la tonotopie médiée par la rigidité.
+Un très fort mouvement de la membrane basilaire dû à un bruit très fort peut entraîner la mort des cellules ciliées.
+
+Il s'agit d'une cause fréquente de perte auditive partielle et c'est la raison pour laquelle les utilisateurs d'armes à feu ou de machinerie lourde portent souvent des cache-oreilles ou des bouchons d'oreille.
+
+
+=== Amplification des cellules ciliées ===
+
+Non seulement la cochlée « reçoit » le son, mais une cochlée saine génère et amplifie le son si nécessaire.
+
+Là où l'organisme a besoin d'un mécanisme pour entendre des sons très faibles, la cochlée s'amplifie par la transduction inverse des OHC, reconvertissant les signaux électriques en signaux mécaniques dans une configuration à rétroaction positive.
+
+Les OHC ont un moteur protéique appelé prestin sur leurs membranes externes; il génère un mouvement supplémentaire qui se couple à l'onde fluide-membrane.
+
+Cet "amplificateur actif" est essentiel dans la capacité de l'oreille à amplifier les sons faibles. L'amplificateur actif entraîne également le phénomène d'émission de vibrations sonores par la cochlée dans le conduit auditif via l'oreille moyenne (émissions otoacoustiques).
+
+
+=== Otoémissions acoustiques ===
+
+Les émissions otoacoustiques sont dues à une onde sortant de la cochlée par la fenêtre ovale et se propageant à travers l'oreille moyenne jusqu'au tympan et hors du conduit auditif, où elle peut être captée par un microphone. 
+
+Les émissions otoacoustiques sont importantes dans certains types de tests de déficience auditive, car elles sont présentes lorsque la cochlée fonctionne bien, et moins lorsqu'elle souffre d'une perte d'activité OHC.
+
+
+=== Rôle des jonctions lacunaires ===
+
+Les protéines de la jonction lacunaire, appelées connexines, exprimées dans la cochlée jouent un rôle important dans le fonctionnement auditif.
+
+Il a été découvert que des mutations dans les gènes des jonctions lacunaires provoquent une surdité syndromique et non syndromique.
+
+Certaines connexines, y compris la connexine 30 et la connexine 26, sont répandues dans les deux systèmes distincts de jonction lacunaire trouvés dans la cochlée.
+
+Le réseau de jonction lacunaire des cellules épithéliales couple les cellules épithéliales non sensorielles, tandis que le réseau de jonction lacunaire du tissu conjonctif couple les cellules du tissu conjonctif.
+
+Les canaux de jonction lacunaire recyclent les ions potassium vers l'endolymphe après mécanotransduction dans les cellules ciliées.
+
+Il est important de noter que les canaux de jonction lacunaire se trouvent entre les cellules de soutien cochléaires, mais pas les cellules ciliées auditives.
+
+
+== Signification clinique ==
+
+
+
+=== Perte auditive ===
+
+ 
+
+
+=== Bionique ===
+
+En 2009, des ingénieurs du Massachusetts Institute of Technology ont créé une puce électronique capable d'analyser rapidement une très large gamme de fréquences radio tout en n'utilisant qu'une fraction de la puissance nécessaire aux technologies existantes ; sa conception imite spécifiquement une cochlée.
+
+
+== Autres animaux ==
+
+La forme enroulée de la cochlée est unique aux mammifères.
+
+Chez les oiseaux et chez d'autres vertébrés non mammifères, le compartiment contenant les cellules sensorielles pour l'audition est parfois aussi appelé «cochlée», bien qu'il ne soit pas enroulé.
+
+Au lieu de cela, il forme un tube à extrémité aveugle, également appelé conduit cochléaire.
+
+Cette différence a apparemment évolué en parallèle avec les différences de gamme de fréquences d'audition entre les mammifères et les vertébrés non mammifères.
+
+La gamme de fréquences supérieure chez les mammifères est en partie due à leur mécanisme unique de préamplification du son par les vibrations actives du corps cellulaire des cellules ciliées externes. 
+
+La résolution en fréquence n'est cependant pas meilleure chez les mammifères que chez la plupart des lézards et des oiseaux, mais la limite de fréquence supérieure est – parfois beaucoup – plus élevée. 
+
+La plupart des espèces d'oiseaux n'entendent pas au-dessus de 4 à 5 kHz, le maximum actuellement connu étant d'environ 11 kHz chez la chouette effraie. 
+
+Certains mammifères marins entendent jusqu'à 200 kHz. 
+
+Un long compartiment enroulé, plutôt qu'un compartiment court et droit, offre plus d'espace pour des octaves supplémentaires de plage d'audition et a rendu possible certains des comportements hautement dérivés impliquant l'audition des mammifères. Comme l'étude de la cochlée devrait fondamentalement se concentrer au niveau des cellules ciliées, il est important de noter les différences anatomiques et physiologiques entre les cellules ciliées des différentes espèces.
+
+Chez les oiseaux, par exemple, au lieu de cellules ciliées externes et internes, il existe des cellules ciliées hautes et courtes.
+
+Il existe plusieurs similitudes à noter en ce qui concerne ces données comparatives.
+
+D'une part, la cellule ciliée haute a une fonction très similaire à celle de la cellule ciliée interne, et la cellule ciliée courte, dépourvue d'innervation des fibres nerveuses auditives afférentes, ressemble à la cellule ciliée externe.
+
+Une différence inévitable, cependant, est que si toutes les cellules ciliées sont attachées à une membrane tectoriale chez les oiseaux, seules les cellules ciliées externes sont attachées à la membrane tectoriale chez les mammifères.
+
+
+== Historique ==
+
+Le nom cochlée est dérivé du mot latin pour coquille d'escargot, qui à son tour vient du grec κοχλίας kokhlias ("escargot, vis"), de κόχλος kokhlos ("coquille en spirale") en référence à sa forme enroulée ; la cochlée est enroulée chez les mammifères à l'exception des monotrèmes.
+
+
+
+https://en.wikipedia.org/wiki/Cochlée
+
+;;;PT;;;
+
+
+
+CÓCLEA
+
+
+A cóclea é a parte do ouvido interno envolvida na audição.
+
+É uma cavidade em forma de espiral no labirinto ósseo, em humanos fazendo 2,75 voltas em torno de seu eixo, o modíolo.
+
+Um componente central da cóclea é o Órgão de Corti, o órgão sensorial da audição, que é distribuído ao longo da partição que separa as câmaras de fluido no tubo cônico enrolado da cóclea.
+
+O nome cóclea deriva do grego antigo κοχλίας (kokhlias) 'espiral, concha de caracol'.
+
+
+== Estrutura ==
+
+
+A cóclea (plural é cóclea) é uma câmara de osso espiralada, oca e cônica, na qual as ondas se propagam da base (perto da orelha média e da janela oval) até o ápice (o topo ou centro da espiral).
+
+O canal espiral da cóclea é uma seção do labirinto ósseo da orelha interna que tem aproximadamente 30 mm de comprimento e faz 2¾ de voltas em torno do modíolo.
+
+As estruturas cocleares incluem:
+
+Três escalas ou câmaras:
+o ducto vestibular ou escala vestibular (contendo perilinfa), que se situa superiormente ao ducto coclear e confina com a janela oval
+o ducto timpânico ou escala timpânica (contendo perilinfa), que se situa inferiormente ao ducto coclear e termina na janela redonda
+o ducto coclear ou escala média (contendo endolinfa) uma região de alta concentração de íons potássio na qual os estereocílios das células ciliadas se projetam
+O helicotrema, o local onde o ducto timpânico e o ducto vestibular se fundem, no ápice da cóclea
+Membrana de Reissner, que separa o ducto vestibular do ducto coclear
+A lâmina espiral óssea, um elemento estrutural principal que separa o ducto coclear do ducto timpânico
+A membrana basilar, principal elemento estrutural que separa o ducto coclear do ducto timpânico e determina as propriedades mecânicas de propagação das ondas da partição coclear
+O órgão de Corti, o epitélio sensorial, uma camada celular na membrana basilar, na qual as células ciliadas sensoriais são alimentadas pela diferença de potencial entre a perilinfa e a endolinfa
+células ciliadas, células sensoriais no órgão de Corti, cobertas com estruturas semelhantes a cabelos chamadas estereocílios
+O ligamento espiral. A cóclea é uma porção do ouvido interno que se parece com uma concha de caracol (cóclea é grego para caracol). 
+
+A cóclea recebe o som na forma de vibrações, que fazem com que os estereocílios se movam. 
+
+Os estereocílios então convertem essas vibrações em impulsos nervosos que são levados ao cérebro para serem interpretados. 
+
+Duas das três seções de fluido são canais e a terceira é o 'órgão de Corti' que detecta impulsos de pressão que viajam ao longo do nervo auditivo até o cérebro. 
+
+Os dois canais são chamados de canal vestibular e canal timpânico.
+
+
+=== Microanatomia ===
+
+As paredes da cóclea oca são feitas de osso, com um revestimento fino e delicado de tecido epitelial. 
+
+Este tubo enrolado é dividido na maior parte de seu comprimento por uma partição membranosa interna. 
+
+Dois espaços externos cheios de fluido (dutos ou escalas) são formados por essa membrana divisória. 
+
+Na parte superior dos tubos espiralados em forma de concha de caracol, há uma inversão da direção do fluido, alterando assim o ducto vestibular para o ducto timpânico. 
+
+Esta área é chamada de helicotrema. 
+
+Essa continuação no helicotrema permite que o fluido que está sendo empurrado para o ducto vestibular pela janela oval volte para fora via movimento no ducto timpânico e deflexão da janela redonda; como o fluido é quase incompressível e as paredes ósseas são rígidas, é essencial que o volume de fluido conservado saia em algum lugar.
+A partição longitudinal que divide a maior parte da cóclea é em si um tubo cheio de líquido, o terceiro 'ducto'.
+
+Esta coluna central é chamada de ducto coclear.
+
+Seu fluido, a endolinfa, também contém eletrólitos e proteínas, mas é quimicamente bem diferente da perilinfa.
+
+Enquanto a perilinfa é rica em íons sódio, a endolinfa é rica em íons potássio, que produz um potencial elétrico iônico.
+As células ciliadas estão dispostas em quatro fileiras no órgão de Corti ao longo de todo o comprimento da espiral coclear.
+
+Três fileiras consistem em células ciliadas externas (CCEs) e uma fileira consiste em células ciliadas internas (IHCs). 
+
+As células ciliadas internas fornecem a principal saída neural da cóclea. 
+
+As células ciliadas externas, em vez disso, principalmente 'recebem' entrada neural do cérebro, o que influencia sua motilidade como parte do "pré-amplificador" mecânico da cóclea. 
+
+A entrada para o OHC é do corpo olivar através do feixe olivococlear medial.
+O ducto coclear é quase tão complexo sozinho quanto o próprio ouvido. 
+
+O ducto coclear é delimitado em três lados pela membrana basilar, pela estria vascular e pela membrana de Reissner. 
+
+A estria vascular é um rico leito de capilares e células secretoras; A membrana de Reissner é uma membrana fina que separa a endolinfa da perilinfa; e a membrana basilar é uma membrana mecanicamente um tanto rígida, que sustenta o órgão receptor da audição, o Órgão de Corti, e determina as propriedades mecânicas de propagação de ondas do sistema coclear.
+
+
+== Função ==
+
+
+A cóclea é preenchida com um líquido aquoso, a endolinfa, que se move em resposta às vibrações provenientes do ouvido médio através da janela oval. 
+
+À medida que o fluido se move, a partição coclear (membrana basilar e órgão de Corti) se move; milhares de células ciliadas percebem o movimento por meio de seus estereocílios e convertem esse movimento em sinais elétricos que são comunicados por meio de neurotransmissores a muitos milhares de células nervosas.
+
+Esses neurônios auditivos primários transformam os sinais em impulsos eletroquímicos conhecidos como potenciais de ação, que viajam ao longo do nervo auditivo para estruturas no tronco cerebral para processamento posterior.
+
+
+=== Ouvindo ===
+
+
+O osso ossicular do estribo (estribo) do ouvido médio transmite vibrações para a fenestra ovalis (janela oval) na parte externa da cóclea, que vibra a perilinfa no ducto vestibular (câmara superior da cóclea). 
+
+Os ossículos são essenciais para o acoplamento eficiente das ondas sonoras na cóclea, uma vez que o ambiente da cóclea é um sistema fluido-membrana, e é preciso mais pressão para mover o som através das ondas fluido-membrana do que através do ar. 
+
+Um aumento de pressão é alcançado reduzindo a razão de área da membrana timpânica (tambor) para a janela oval (osso do estribo) em 20. 
+
+Como pressão = força/área, resulta em um ganho de pressão de cerca de 20 vezes a partir da pressão da onda sonora original no ar.
+
+Esse ganho é uma forma de casamento de impedância – para combinar a onda sonora que viaja pelo ar com aquela que viaja no sistema fluido-membrana.
+Na base da cóclea, cada 'ducto' termina em um portal membranoso voltado para a cavidade do ouvido médio: O ducto vestibular termina na janela oval, onde fica a platina do estribo.
+
+A platina vibra quando a pressão é transmitida através da cadeia ossicular.
+
+A onda na perilinfa se afasta da platina e em direção ao helicotrema.
+
+Como essas ondas fluidas movem a partição coclear que separa os ductos para cima e para baixo, as ondas têm uma parte simétrica correspondente na perilinfa do ducto timpânico, que termina na janela redonda, saliente quando a janela oval se projeta.
+A perilinfa no ducto vestibular e a endolinfa no ducto coclear atuam mecanicamente como um único ducto, sendo mantidas separadas apenas pela muito fina membrana de Reissner.
+As vibrações da endolinfa no ducto coclear deslocam a membrana basilar em um padrão que atinge o pico a uma distância da janela oval, dependendo da frequência da onda sonora. 
+
+O Órgão de Corti vibra devido às células ciliadas externas que amplificam ainda mais essas vibrações. 
+
+As células ciliadas internas são então deslocadas pelas vibrações no fluido e despolarizadas por um influxo de K+ por meio de seus canais conectados por ponteiras e enviam seus sinais via neurotransmissor para os neurônios auditivos primários do gânglio espiral.
+As células ciliadas do Órgão de Corti são sintonizadas em determinadas frequências sonoras por meio de sua localização na cóclea, devido ao grau de rigidez da membrana basilar.
+
+Essa rigidez se deve, entre outras coisas, à espessura e largura da membrana basilar, que ao longo do comprimento da cóclea é mais rígida próximo ao seu início na janela oval, onde o estribo introduz as vibrações provenientes do tímpano.
+
+Como sua rigidez é alta, permite que apenas vibrações de alta frequência movam a membrana basilar e, portanto, as células ciliadas.
+
+Quanto mais uma onda viaja em direção ao ápice da cóclea (o helicotrema), menos rígida é a membrana basilar; assim as frequências mais baixas viajam pelo tubo, e a membrana menos rígida é movida mais facilmente por eles onde a rigidez reduzida permite: ou seja, à medida que a membrana basilar fica cada vez menos rígida, as ondas diminuem e responde melhor às frequências mais baixas.
+
+Além disso, em mamíferos, a cóclea é enrolada, o que demonstrou aumentar as vibrações de baixa frequência à medida que viajam pela espiral cheia de fluido. 
+
+Esse arranjo espacial de recepção sonora é chamado de tonotopia.
+Para frequências muito baixas (abaixo de 20 Hz), as ondas se propagam ao longo de todo o trajeto da cóclea – diferencialmente para cima do ducto vestibular e do ducto timpânico até o helicotrema. 
+
+Frequências tão graves ainda ativam o órgão de Corti até certo ponto, mas são muito baixas para provocar a percepção de um tom. 
+
+Frequências mais altas não se propagam para o helicotrema, devido à tonotopia mediada por rigidez.
+Um movimento muito forte da membrana basilar devido a um ruído muito alto pode causar a morte das células ciliadas. 
+
+Esta é uma causa comum de perda auditiva parcial e é a razão pela qual os usuários de armas de fogo ou máquinas pesadas costumam usar protetores de ouvido ou tampões de ouvido.
+
+
+=== Amplificação de células ciliadas ===
+
+Não apenas a cóclea "recebe" o som, uma cóclea saudável gera e amplifica o som quando necessário. 
+
+Onde o organismo precisa de um mecanismo para ouvir sons muito fracos, a cóclea amplifica pela transdução reversa das CCEs, convertendo os sinais elétricos de volta para mecânicos em uma configuração de feedback positivo. 
+
+As CCEs têm uma proteína motora chamada prestina em suas membranas externas; ela gera movimento adicional que se acopla de volta à onda fluido-membrana.
+
+Este "amplificador ativo" é essencial na capacidade do ouvido de amplificar sons fracos. O amplificador ativo também leva ao fenômeno das vibrações das ondas sonoras sendo emitidas da cóclea de volta ao canal auditivo através do ouvido médio (emissões otoacústicas).
+
+
+=== Emissões otoacústicas ===
+
+As emissões otoacústicas são devidas a uma onda que sai da cóclea pela janela oval e se propaga de volta pelo ouvido médio até o tímpano e sai pelo canal auditivo, onde pode ser captada por um microfone.
+
+As emissões otoacústicas são importantes em alguns tipos de exames para deficiência auditiva, pois estão presentes quando a cóclea está funcionando bem, e menos quando está com perda da atividade das CCE.
+
+
+=== Papel das junções comunicantes ===
+
+As proteínas de junção comunicante, chamadas conexinas, expressas na cóclea desempenham um papel importante no funcionamento auditivo. 
+
+Mutações em genes de junções de hiato foram encontradas para causar surdez sindrômica e não sindrômica. 
+
+Certas conexinas, incluindo a conexina 30 e a conexina 26, são predominantes nos dois sistemas distintos de junções comunicantes encontrados na cóclea. 
+
+A rede de junção gap de células epiteliais acopla células epiteliais não sensoriais, enquanto a rede de junção gap de tecido conjuntivo acopla células de tecido conjuntivo. 
+
+Os canais de junção comunicante reciclam os íons de potássio de volta à endolinfa após a mecanotransdução nas células ciliadas. 
+
+É importante ressaltar que os canais das junções comunicantes são encontrados entre as células de suporte da cóclea, mas não entre as células ciliadas auditivas.
+
+
+== Significado clínico ==
+
+
+
+=== Perda auditiva ===
+
+ 
+
+
+=== Biônica ===
+
+Em 2009, engenheiros do Instituto de Tecnologia de Massachusetts criaram um chip eletrônico que pode analisar rapidamente uma faixa muito grande de frequências de rádio usando apenas uma fração da energia necessária para as tecnologias existentes; seu design imita especificamente uma cóclea.
+
+
+== Outros animais ==
+
+A forma enrolada da cóclea é exclusiva dos mamíferos.
+
+Nas aves e em outros vertebrados não mamíferos, o compartimento que contém as células sensoriais para a audição é ocasionalmente também chamado de "cóclea", apesar de não estar enrolado.
+
+Em vez disso, forma um tubo cego, também chamado de ducto coclear.
+
+Essa diferença aparentemente evoluiu em paralelo com as diferenças na faixa de frequência de audição entre mamíferos e vertebrados não mamíferos.
+
+A faixa de frequência superior em mamíferos se deve em parte ao seu mecanismo único de pré-amplificação do som por vibrações ativas do corpo celular das células ciliadas externas.
+
+A resolução de frequência, no entanto, não é melhor em mamíferos do que na maioria dos lagartos e pássaros, mas o limite superior de frequência é – às vezes muito – maior.
+
+A maioria das espécies de aves não ouve acima de 4-5 kHz, sendo o máximo atualmente conhecido ~ 11 kHz na suindara.
+
+Alguns mamíferos marinhos ouvem até 200 kHz.
+
+Um compartimento enrolado longo, em vez de um compartimento curto e reto, fornece mais espaço para oitavas adicionais de alcance auditivo e possibilitou alguns dos comportamentos altamente derivados envolvendo a audição de mamíferos. das células ciliadas, é importante notar as diferenças anatômicas e fisiológicas entre as células ciliadas de várias espécies.
+
+Em pássaros, por exemplo, em vez de células ciliadas externas e internas, existem células ciliadas altas e curtas.
+
+Há várias semelhanças dignas de nota em relação a esses dados comparativos.
+
+Por um lado, a célula ciliada alta é muito semelhante em função à célula ciliada interna, e a célula ciliada curta, sem inervação da fibra do nervo auditivo aferente, assemelha-se à célula ciliada externa.
+
+Uma diferença inevitável, no entanto, é que enquanto todas as células ciliadas estão ligadas a uma membrana tectorial nas aves, apenas as células ciliadas externas estão ligadas à membrana tectorial nos mamíferos.
+
+
+== História ==
+
+O nome cóclea é derivado da palavra latina para concha de caracol, que por sua vez é do grego κοχλίας kokhlias ("caracol, parafuso"), de κόχλος kokhlos ("concha espiral") em referência à sua forma enrolada; a cóclea é enrolada em mamíferos com exceção de monotremados.
+
+
+
+https://en.wikipedia.org/wiki/Cochlea

@@ -1,0 +1,21 @@
+<!-- Copyright (C) 2018 Google Inc. All Rights Reserved.
+
+FirebaseAnalytics iOS and Android Dependencies.
+-->
+
+<dependencies>
+  <iosPods>
+    <iosPod name="Firebase/Analytics" version="8.11.0" minTargetSdk="9.0">
+    </iosPod>
+  </iosPods>
+  <androidPackages>
+    <androidPackage spec="com.google.firebase:firebase-analytics:20.0.0">
+    </androidPackage>
+    <androidPackage spec="com.google.firebase:firebase-analytics-unity:8.8.0">
+      <repositories>
+        <repository>Assets/Firebase/m2repository</repository>
+      </repositories>
+    </androidPackage>
+  </androidPackages>
+</dependencies>
+

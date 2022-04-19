@@ -1,0 +1,84 @@
+
+
+DISPLAY
+                    
+                    
+Press 'H' 
+    to hide the selected objects
+    
+Press 'SHIFT+H'
+    to isolate the selected objects
+    
+Press 'Alt+H'
+    to show everything inside the active layer(s)
+    
+Press '%'
+    to change the language
+    
+Press 'Shift+%'
+    to toggle the group-labels visibility
+;;;ES;;;
+
+
+
+MONITOR
+ 
+ 
+Presione 'H'
+para ocultar los objetos seleccionados
+ 
+Presiona 'MAYÚS+H'
+para aislar los objetos seleccionados
+ 
+Presiona 'Alt+H'
+para mostrar todo dentro de la(s) capa(s) activa(s)
+ 
+Imprenta '%'
+para cambiar el idioma
+ 
+Presiona 'Mayús+%'
+para alternar la visibilidad de las etiquetas de grupo
+
+;;;FR;;;
+
+
+
+AFFICHAGE
+ 
+ 
+Appuyez sur 'H' 
+ pour masquer les objets sélectionnés
+ 
+Appuyez sur 'MAJ+H'
+ pour isoler les objets sélectionnés
+ 
+Appuyez sur 'Alt+H'
+ pour tout afficher à l'intérieur du ou des calques actifs
+ 
+Presse '%'
+ changer de langue
+ 
+Appuyez sur 'Maj+%'
+ pour basculer la visibilité des étiquettes de groupe
+
+;;;PT;;;
+
+
+
+EXIBIÇÃO
+ 
+ 
+Pressione 'H'
+para ocultar os objetos selecionados
+ 
+Pressione 'SHIFT+H'
+para isolar os objetos selecionados
+ 
+Pressione 'Alt+H'
+para mostrar tudo dentro da(s) camada(s) ativa(s)
+ 
+Pressione '%'
+para mudar o idioma
+ 
+Pressione 'Shift+%'
+ para alternar a visibilidade dos rótulos de grupo

@@ -1,0 +1,38 @@
+.toolTagWarnContainer{
+    display: block;
+    width: calc(100% - 8px);
+    background-color: #ff000013;
+    border-radius: 4px;
+    padding: 4px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.toolTagWarnSubcontainer{
+    display: grid;
+    grid-template-columns: 32px auto;
+    width: 100%;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.toolTagWarnIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2px;
+    padding-right: 8px;
+    padding-bottom: 2px;
+    margin-left: 0px;
+}
+.toolTagWarnIcon img{
+    width: 24px;
+}
+.toolTagWarnContent{
+    display: flex;
+    align-items: center;
+}
+.toolTagWarnText{
+    padding-left: 4px;
+    color: #7b0000;
+    font-weight: bolder;
+}

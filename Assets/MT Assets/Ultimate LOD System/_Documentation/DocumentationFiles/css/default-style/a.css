@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+    color: #0046c0;
+    cursor: pointer;
+}
+a:link {
+    text-decoration: none;
+    color: #0046c0;
+}
+a:hover {
+    color: #0046c0;
+    text-decoration: underline dotted #3a505b;
+}
+a:visited {
+    color: #0046c0;
+    text-decoration: none;
+}

@@ -1,0 +1,123 @@
+.topBar {
+    z-index: 200;
+    width: 100%;
+    height: 45px;
+    position: fixed;
+    top: 0px;
+    background: linear-gradient(141deg, #375e9b 0%, #2b4a7d 51%, #375e9b 75%);
+    box-shadow: 0px 2px 16px -2px rgba(0, 0, 0, 0.56);
+}
+.topBarLogoIcon{
+    float: left;
+    height: 36px;
+    margin: 4.5px;
+    margin-left: 12px;
+}
+.topBarLogoTextContainer{
+    float: left;
+    height: 45px;
+}
+@media screen and (max-width: 720px){
+    /* IF IS MOBILE */
+    .topBarLogoTextContainer {
+        max-width: 40%;
+    }
+}
+.topBarLogoText{
+    line-height: 45px;
+    vertical-align: middle;
+    margin-left: 3px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+}
+@media screen and (max-width: 720px){
+    /* IF IS MOBILE */
+    .topBarLogoText {
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        width: 100%;
+        font-size: 16px;
+    }
+}
+.topBarSupportTextContainer{
+    float: right;
+    height: 45px;
+    margin-right: 4px;
+    margin-top: 1px;
+}
+@media screen and (max-width: 720px){
+    /* IF IS MOBILE */
+    .topBarSupportTextContainer {
+        margin-top: 2px;
+        max-width: calc(100% - 45% - 36px - 12px - 3px);
+    }
+}
+.topBarSupportText{
+    line-height: 2px;
+    vertical-align: middle;
+    margin-right: 10px;
+    color: #d3d3d3;
+    font-size: 10px;
+    text-align: right;
+    margin-top: 11px;
+}
+.topBarSupportTextEmail{
+    line-height: 28px;
+    vertical-align: middle;
+    margin-right: 9px;
+    margin-top: -1px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 16px;
+}
+@media screen and (max-width: 720px){
+    /* IF IS MOBILE */
+    .topBarSupportTextEmail {
+        font-size: 12px;
+    }
+}
+.topBarItemContainer{
+    float: right;
+    height: 28px;
+    width: 28px;
+    margin: 7.5px;
+    margin-right: 12px;
+    margin-left: 0px;
+    border-radius: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    transition: all 250ms;
+}
+@media screen and (max-width: 720px){
+    /* IF IS MOBILE */
+    .topBarItemContainer {
+        display: none;
+    }
+}
+.topBarItemContainer img{
+    height: 28px;
+    transition: all 250ms;
+    cursor: pointer;
+}
+.topBarItemContainer img:hover{
+    filter: blur(4px);
+}
+.topBarItemDivider{
+    float: right;
+    width: 1px;
+    height: 28px;
+    background-color: #ffffff;
+    margin-right: 13px;
+    margin-top: 8px;
+    opacity: 0.4;
+}
+@media screen and (max-width: 720px){
+    /* IF IS MOBILE */
+    .topBarItemDivider {
+        display: none;
+    }
+}

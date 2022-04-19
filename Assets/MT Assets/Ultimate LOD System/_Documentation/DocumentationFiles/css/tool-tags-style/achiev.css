@@ -1,0 +1,38 @@
+.toolTagAchievContainer{
+    display: block;
+    width: calc(100% - 8px);
+    background-color: #b1e0c0;
+    border-radius: 4px;
+    padding: 4px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.toolTagAchievSubcontainer{
+    display: grid;
+    grid-template-columns: 32px auto;
+    width: 100%;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.toolTagAchievIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2px;
+    padding-right: 8px;
+    padding-bottom: 2px;
+    margin-left: 0px;
+}
+.toolTagAchievIcon img{
+    width: 24px;
+}
+.toolTagAchievContent{
+    display: flex;
+    align-items: center;
+}
+.toolTagAchievText{
+    padding-left: 4px;
+    color: #00490d;
+    font-weight: bolder;
+}

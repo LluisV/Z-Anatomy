@@ -1,0 +1,128 @@
+HUMERUS
+    Head of humerus
+    Anatomical neck of humerus
+    Surgical neck of humerus
+    Greater tubercle
+    Lesser tubercle
+    Intertubercular sulcus
+        Crest of greater tubercle
+        Crest of lesser tubercle
+    Body of humerus
+        Anteromedial surface of humerus
+        Anterior border of humerus
+        Anterolateral surface of humerus
+            Deltoid tuberosity
+    Lateral border of humerus
+        Lateral supracondylar ridge
+    Posterior surface of humerus
+        Radial groove
+    Medial border of humerus
+        Medial supracondylar ridge
+        Supracondylar process
+    Condyle of humerus
+        Capitulum of humerus
+        Trochlea of humerus
+        Olecranon fossa
+        Coronoid fossa
+        Radial fossa
+    Medial epicondyle of humerus
+        Groove for ulnar nerve
+    Lateral epicondyle of humerus
+;;;ES;;;
+
+HÚMERO
+ cabeza de húmero
+ Cuello anatómico del húmero
+ Cuello quirúrgico del húmero
+ tubérculo mayor
+ tubérculo menor
+ surco intertubercular
+ Cresta del tubérculo mayor
+ Cresta del tubérculo menor
+ Cuerpo de húmero
+ Superficie anteromedial del humero
+ Borde anterior del húmero
+ Superficie anterolateral del humero
+ Tuberosidad deltoidea
+ Borde lateral del húmero
+ Cresta supracondílea lateral
+ Superficie posterior del húmero
+ ranura radial
+ Borde medial del húmero
+ Cresta supracondílea medial
+ proceso supracondíleo
+ Cóndilo del húmero
+ Capítulo del húmero
+ tróclea del húmero
+ fosa del olécranon
+ fosa coronoides
+ fosa radial
+ Epicóndilo medial del húmero
+ Surco para nervio cubital
+ Epicóndilo lateral del húmero
+
+;;;FR;;;
+
+HUMÉRUS
+ Tête d'humérus
+ Col anatomique de l'humérus
+Col chirurgical de l'humérus
+Grand tubercule
+Petit tubercule
+Sillon intertuberculaire
+Crête du tubercule majeur
+Crête du petit tubercule
+Corps de l'humérus
+Face antéro-médiale de l'humérus
+Bord antérieur de l'humérus
+Face antérolatérale de l'humérus
+Tubérosité deltoïde
+Bord latéral de l'humérus
+Crête supracondylienne latérale
+Face postérieure de l'humérus
+Rainure radiale
+Bord médial de l'humérus
+Crête supracondylienne médiale
+Processus supracondylien
+Condyle de l'humérus
+Capitule de l'humérus
+Trochlée de l'humérus
+Fosse olécrânienne
+Fosse coronoïde
+Fosse radiale
+Épicondyle médial de l'humérus
+Rainure pour nerf cubital
+Épicondyle latéral de l'humérus
+
+;;;PT;;;
+
+ÚMERO
+ Cabeça do úmero
+ Colo anatômico do úmero
+Colo cirúrgico do úmero
+Tubérculo maior
+Tubérculo menor
+Sulco intertubercular
+Crista do tubérculo maior
+Crista do tubérculo menor
+Corpo do úmero
+Superfície ântero-medial do úmero
+Borda anterior do úmero
+Superfície anterolateral do úmero
+Tuberosidade deltóide
+Borda lateral do úmero
+Crista supracondilar lateral
+Superfície posterior do úmero
+Sulco radial
+Borda medial do úmero
+Crista supracondilar medial
+Processo supracondilar
+Côndilo do úmero
+Capítulo do úmero
+Tróclea do úmero
+Fossa do olécrano
+fossa coronóide
+fossa radial
+Epicôndilo medial do úmero
+Sulco para nervo ulnar
+Epicôndilo lateral do úmero

@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &164064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 406902}
+  - component: {fileID: 11416984}
+  - component: {fileID: 11441180}
+  m_Layer: 0
+  m_Name: ToDoListExample
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &406902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 164064}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11416984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 164064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 948c6eac03994cd49bad23b71ceeec7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: PROJECT Beta 0.86
+  textList:
+  - s: bug in level 3
+    state: 1
+    show: 0
+    deleteQuestion: 0
+  - s: bug in level 5
+    state: 1
+    show: 0
+    deleteQuestion: 0
+  - s: 'main menu
+
+      - basic button functionality
+
+      - button hover animation
+      states'
+    state: 2
+    show: 1
+    deleteQuestion: 0
+  - s: 'idea stack
+
+      - new weather system using clouds and day/night cycle
+
+      -
+      smarter NPCs that have daily needs like food and entertainment
+
+      - scalable
+      interface and fonts'
+    state: 3
+    show: 1
+    deleteQuestion: 0
+  - s: empty content item
+    state: 0
+    show: 1
+    deleteQuestion: 0
+--- !u!114 &11441180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 164064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 948c6eac03994cd49bad23b71ceeec7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: PROJECT Release Candidate
+  textList:
+  - s: 'replace current 3d models
+
+      - trees
+
+      - houses
+
+      - player'
+    state: 0
+    show: 1
+    deleteQuestion: 0
+  - s: optimize overall code performance
+    state: 2
+    show: 0
+    deleteQuestion: 0
+  - s: prepare release for online store
+    state: 3
+    show: 0
+    deleteQuestion: 0
