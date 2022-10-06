@@ -1,0 +1,147 @@
+Nerves-10
+Temporal plane.r
+Superior temporal gyrus (Lateral part).r
+Lateral occipitotemporal gyrus.r
+Medial occipitotemporal gyrus (Parahippocampal*).r
+Inferior temporal sulcus.r
+Inferior temporal gyrus.r
+Middle temporal gyrus.r
+Superior temporal sulcus.r
+Occipitotemporal sulcus (Lateral part*).r
+Insula (Subcentral gyrus and ant. and post. sulci*).r
+Cingulate gyrus and sulcus (Middle anterior part).r
+Cingulate gyrus and sulcus (Middle posterior part).r
+Cingulate gyrus and sulcus (Posterior dorsal part).r
+Cingulate gyrus (Posteroventral part*).r
+Lat_Fis-ant-Horizont.r
+Lat_Fis-post.r
+Posterior transverse collateral sulcus.r
+Sulcus interm_prim-Jensen.r
+Temporal pole.l
+Occipital pole.l
+Central sulcus.l
+Parieto-occipital sulcus.l
+Subparietal sulcus.l
+Cingulate sulcus (Marginal part*).l
+Circular sulcus of insula.l
+Collateral sulcus.l
+Anterior occipital sulcus*.l
+Opercular part of inferior frontal gyrus.l
+Orbital part of  inferior frontal gyrus.l
+Triangular part of inferior frontal gyrus.l
+Orbital gyri (Frontomarginal gyrus and sulcus*).l
+Paracentral gyrus and sulcus*.l
+Transverse frontopolar gyrus and sulcus*.l
+Straight gyrus (Gyrus rectus).l
+Lat_Fis-ant-Vertical.l
+Inferior frontal sulcus.l
+Middle frontal gyrus.l
+Orbital gyri.l
+Precentral gyrus.l
+Superior frontal gyrus.l
+Superior frontal sulcus.l
+Paracentral sulcus.l
+Orbital sulci (H-shaped orbital sulci*).l
+Orbital sulci (Lateral Orbital sulcus*).l
+Olfactory sulcus.l
+Precentral sulcus (inferior part)*.l
+Precentral sulcus (Superior part)*.l
+Angular gyrus.l
+Supramarginal gyrus.l
+Postcentral gyrus.l
+Postcentral sulcus.l
+Precuneus.l
+Superior parietal lobule.l
+Intraparietal sulcus.l
+Inferior occipital gyrus and sulcus*.l
+Lingual gyrus.l
+Lateral occipital gyrus (Middle occipital gyrus*).l
+Calcarine sulcus.l
+Cuneus.l
+Superior occipital gyri.l
+Lunate sulcus.l
+Transverse occipital sulcus.l
+Transverse temporal gyri.l
+Temporal plane.l
+Superior temporal gyrus (Lateral part).l
+Lateral occipitotemporal gyrus.l
+Medial occipitotemporal gyrus (Parahippocampal*).l
+Inferior temporal sulcus.l
+Inferior temporal gyrus.l
+Middle temporal gyrus.l
+Superior temporal sulcus.l
+Occipitotemporal sulcus (Lateral part*).l
+Insula (Subcentral gyrus and ant. and post. sulci*).l
+Cingulate gyrus and sulcus (Middle anterior part).l
+Cingulate gyrus and sulcus (Middle posterior part).l
+Cingulate gyrus and sulcus (Posterior dorsal part).l
+Cingulate gyrus (Posteroventral part*).l
+Dorsal digital branches of radial nerve.l
+Inferior lateral brachial cutaneous nerve.l
+Dorsal digital branches of ulnar nerve.l
+Muscular branches of ulnar nerve.l
+Muscular branches of median nerve.l
+Infrapatellar branch of saphenous nerve.l
+Sural communicating branch of common fibular nerve.l
+Medial sural cutaneous nerve.l
+Dorsal digital branches of superficial fibular nerve.l
+Dorsal digital branches of deep fibular nerve.l
+Proper plantar digital branches of medial plantar nerve.l
+Lat_Fis-ant-Horizont.l
+Lat_Fis-post.l
+Posterior transverse collateral sulcus.l
+Sulcus interm_prim-Jensen.l
+Proper plantar digital branches of lateral plantar nerve.l
+Orbital part of inferior frontal gyrus.l
+Orbital part of inferior frontal gyrus.r
+Temporal pole.r
+Occipital pole.r
+Central sulcus.r
+Parieto-occipital sulcus.r
+Subparietal sulcus.r
+Cingulate sulcus (Marginal part*).r
+Circular sulcus of insula.r
+Collateral sulcus.r
+Anterior occipital sulcus*.r
+Opercular part of inferior frontal gyrus.r
+Orbital part of  inferior frontal gyrus.r
+Triangular part of inferior frontal gyrus.r
+Orbital gyri (Frontomarginal gyrus and sulcus*).r
+Paracentral gyrus and sulcus*.r
+Transverse frontopolar gyrus and sulcus*.r
+Straight gyrus (Gyrus rectus).r
+Lat_Fis-ant-Vertical.r
+Inferior frontal sulcus.r
+Middle frontal gyrus.r
+Orbital gyri.r
+Precentral gyrus.r
+Superior frontal gyrus.r
+Superior frontal sulcus.r
+Paracentral sulcus.r
+Orbital sulci (H-shaped orbital sulci*).r
+Orbital sulci (Lateral Orbital sulcus*).r
+Olfactory sulcus.r
+Precentral sulcus (inferior part)*.r
+Precentral sulcus (Superior part)*.r
+Angular gyrus.r
+Supramarginal gyrus.r
+Postcentral gyrus.r
+Postcentral sulcus.r
+Precuneus.r
+Superior parietal lobule.r
+Intraparietal sulcus.r
+Inferior occipital gyrus and sulcus*.r
+Lingual gyrus.r
+Lateral occipital gyrus (Middle occipital gyrus*).r
+Calcarine sulcus.r
+Cuneus.r
+Superior occipital gyri.r
+Lunate sulcus.r
+Transverse occipital sulcus.r
+Transverse temporal gyri.r
+Proper plantar digital branches of medial plantar nerve.r
+Proper plantar digital branches of lateral plantar nerve.r
+Dorsal digital branches of radial nerve.r
+Dorsal digital branches of ulnar nerve.r
+Dorsal digital branches of superficial fibular nerve.r
+Dorsal digital branches of deep fibular nerve.r

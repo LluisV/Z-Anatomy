@@ -1,0 +1,59 @@
+Veins-2
+Great cardiac vein
+????????
+Middle cardiac vein
+Inferior vein of left ventricle (//Posterior '')
+Coronary sinus
+Inferior vein of left ventricle
+Left subcostal vein
+Right superior phrenic vein
+Right subcostal vein
+Vertebral vein.r
+Vertebral vein.l
+Internal thoracic veins.l
+Musculophrenic veins.l
+Internal thoracic veins.r
+Superior epigastric veins.r
+Musculophrenic veins.r
+Superior epigastric veins.l
+Left superior intercostal vein
+Right superior intercostal vein
+Posterior division of retromandibular vein.r
+Angular vein.r
+Submental vein.r
+Inferior labial veins.r
+Superior labial vein.r
+Facial vein.r
+Superior ophtalmic vein.r
+Inferior ophthalmic vein.r
+Superior thyroid vein.r
+Occipital vein.r
+Superficial temporal veins.r
+Posterior auricular vein.r
+Maxillary veins.r
+Lingual vein.r
+Posterior division of retromandibular vein.l
+Angular vein.l
+Submental vein.l
+Inferior labial veins.l
+Superior labial vein.l
+Facial vein.l
+Inferior ophthalmic vein.l
+Superior thyroid vein.l
+Occipital vein.l
+Superficial temporal veins.l
+Posterior auricular vein.l
+Maxillary veins.l
+Lingual vein.l
+Common facial vein.r
+Common facial vein.l
+Straight sinus
+Occipital sinus
+Anterior jugular vein.l
+Anterior jugular vein.r
+Suprascapular vein.r
+Suprascapular vein.l
+
+
+
+

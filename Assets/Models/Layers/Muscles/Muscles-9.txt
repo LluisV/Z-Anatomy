@@ -1,0 +1,119 @@
+Muscles-9
+Frontalis muscle.r
+Occipitalis muscle.r
+Epicranial aponeurosis.r
+Frontalis muscle.l
+Occipitalis muscle.l
+Epicranial aponeurosis.l
+Temporoparietalis muscle.r
+Temporoparietalis muscle.l
+Platysma.r
+Platysma.l
+Ascending part of trapezius muscle.r
+Descending part of trapezius muscle.r
+Transverse part of trapezius muscle.r
+Ascending part of trapezius muscle.l
+Descending part of trapezius muscle.l
+Transverse part of trapezius muscle.l
+External abdominal oblique muscle.r
+External abdominal oblique muscle.l
+Acromial part of deltoid muscle.r
+Clavicular part of deltoid muscle.r
+Scapular spinal part of deltoid muscle.r
+Acromial part of deltoid muscle.l
+Clavicular part of deltoid muscle.l
+Scapular spinal part of deltoid muscle.l
+Brachioradialis muscle.r
+Brachioradialis muscle.l
+Gluteus maximus muscle.r
+Tensor fasciae latae.r
+Gluteus maximus muscle.l
+Tensor fasciae latae.l
+Lateral head of gastrocnemius.r
+Medial head of gastrocnemius.r
+Calcaneal tendon.r
+Lateral head of gastrocnemius.l
+Medial head of gastrocnemius.l
+Calcaneal tendon.l
+Iliotibial tract.r
+Iliotibial tract.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+Bones-2
+Sphenoid bone
+Inferior nasal concha bone.r
+Inferior nasal concha bone.l
+Temporal bone.r
+Fifth rib.l
+Fifth rib.r
+First rib.l
+First rib.r
+Fourth rib.l
+Fourth rib.r
+Second rib.l
+Second rib.r
+Seventh rib.l
+Seventh rib.r
+Sixth rib.l
+Sixth rib.r
+Third rib.l
+Third rib.r
+Eleventh rib.l
+Eleventh rib.r
+Twelfth rib.l
+Twelfth rib.r
+Eighth rib.l
+Eighth rib.r
+Ninth rib.l
+Ninth rib.r
+Tenth rib.l
+Tenth rib.r
+Manubrium of sternum
+Xiphoid process
+Body of sternum
+Temporal bone.l
+Sinus of sphenoid bone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

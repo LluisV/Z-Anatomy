@@ -1,0 +1,43 @@
+Skin-1
+Eyebrow.r
+Eyebrow.l
+Mastoid region.r
+Mastoid region.l
+Cavity of concha.l
+Cavity of concha.r
+Cymba conchae.l
+Cymba conchae.r
+Apex of auricle.r
+Auricular tubercle.r
+Eminentia conchae.r
+Triangular fossa.r
+Apex of auricle.l
+Auricular tubercle.l
+Eminentia conchae.l
+Triangular fossa.l
+Angle of mouth.r
+Philtrum.r
+Tubercle of upper lip.r
+Angle of mouth.l
+Philtrum.l
+Tubercle of upper lip.l
+Infra-orbital region.r
+Mentolabial sulcus.r
+Nasolabial sulcus.r
+Infra-orbital region.l
+Mentolabial sulcus.l
+Nasolabial sulcus.l
+Carotid triangle.r
+Carotid triangle.l
+
+
+
+
+
+
+
+
+
+
+
+

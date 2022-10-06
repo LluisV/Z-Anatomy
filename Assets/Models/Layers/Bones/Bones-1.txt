@@ -1,0 +1,49 @@
+Bones-1
+Stapes.r
+Stapes.l
+Incus.r
+Incus.l
+Malleus.r
+Malleus.l
+Occipital bone
+Atlas (C1)
+Vertebra C6
+Vertebra C3
+Vertebra C5
+Vertebra C7
+Vertebra C4
+Vertebra T2
+Vertebra T3
+Vertebra T4
+Vertebra T5
+Vertebra T6
+Vertebra T7
+Vertebra T9
+Vertebra T10
+Vertebra T11
+Vertebra T12
+Vertebra T8
+Vertebra T1
+Vertebra L1
+Vertebra L2
+Vertebra L4
+Vertebra L5
+Vertebra L3
+Coccyx
+Axis (C2)
+Sacrum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,119 @@
+Muscles-6
+Nasalis muscle.r
+Nasalis muscle.l
+Corrugator supercilii.r
+Depressor anguli oris.r
+Levator labii superioris.r
+Depressor septi nasi.r
+Corrugator supercilii.l
+Depressor anguli oris.l
+Levator labii superioris.l
+Temporalis muscle.r
+Temporalis muscle.l
+Intermediate tendon of digastric muscle.r
+Anterior belly of digastric muscle.r
+Posterior belly of digastric muscle.r
+Intermediate tendon of digastric muscle.l
+Anterior belly of digastric muscle.l
+Posterior belly of digastric muscle.l
+Stylohyoid muscle.r
+Stylohyoid muscle.l
+Sternohyoid muscle.r
+Sternohyoid muscle.l
+Iliocostalis lumborum muscle.r
+Iliocostalis lumborum muscle.l
+Longissimus thoracis muscle.r
+Longissimus thoracis muscle.l
+Serratus posterior superior muscle.r
+Serratus posterior superior muscle.l
+External intercostal muscles.r
+Subclavius muscle.r
+External intercostal muscles.l
+Subclavius muscle.l
+Transversus abdominis muscle.r
+Transversus abdominis muscle.l
+Subscapularis muscle.r
+Subscapularis muscle.l
+Long head of biceps brachii.r
+Short head of biceps brachii.r
+Long head of biceps brachii.l
+Short head of biceps brachii.l
+Long head of triceps brachii.r
+Long head of triceps brachii.l
+Ulnar head of flexor carpi ulnaris.r
+Ulnar head of flexor carpi ulnaris.l
+Flexor carpi radialis.r
+Flexor carpi radialis.l
+Deep head of flexor pollicis brevis.r
+Deep head of flexor pollicis brevis.l
+Flexor digiti minimi of hand.r
+Abductor pollicis brevis.l
+Abductor digiti minimi of hand.l
+Piriformis muscle.r
+Piriformis muscle.l
+Vastus lateralis muscle.r
+Vastus medialis muscle.r
+Vastus lateralis muscle.l
+Vastus medialis muscle.l
+Extensor digitorum longus.r
+Tendon of extensor digitorum longus.r
+Extensor digitorum longus.l
+Tendon of extensor digitorum longus.l
+Soleus muscle.r
+Soleus muscle.l
+Flexor digitorum brevis.r
+Flexor digitorum brevis.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

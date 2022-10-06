@@ -1,0 +1,43 @@
+Skin-3
+Lateral border of forearm.r
+Medial border of forearm.r
+Lateral border of forearm.l
+Medial border of forearm.l
+Anterior region of wrist.r
+Radial foveola.r
+Anterior region of wrist.l
+Radial foveola.l
+Gluteal fold.r
+Gluteal fold.l
+Femoral triangle.r
+Femoral triangle.l
+Popliteal fossa.r
+Popliteal fossa.l
+Lateral malleolus.l
+Medial malleolus.l
+Lateral malleolus.r
+Medial malleolus.r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

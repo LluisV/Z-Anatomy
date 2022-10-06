@@ -1,0 +1,85 @@
+Ligaments-4
+Stylomandibular ligament.r
+Pterygospinous ligament.r
+Stylomandibular ligament.l
+Pterygospinous ligament.l
+Lateral thyrohyoid ligament.r
+Lateral thyrohyoid ligament.l
+Median cricothyroid ligament.r
+Median cricothyroid ligament.l
+Superior transverse scapular ligament.r
+Inferior transverse scapular ligament.r
+Superior transverse scapular ligament.l
+Inferior transverse scapular ligament.l
+Anterior sternoclavicular ligament.r
+Posterior sternoclavicular ligament.r
+Anterior sternoclavicular ligament.l
+Posterior sternoclavicular ligament.l
+Collateral metacarpophalangeal ligaments.r
+Collateral metacarpophalangeal ligaments.l
+Collateral interphalangeal ligaments of hand.r
+Collateral interphalangeal ligaments of hand.l
+Radiocapitate ligament.r
+Ulnocapitate ligament.r
+Radiocapitate ligament.l
+Ulnocapitate ligament.l
+Inferior pubic ligament
+Superior pubic ligament
+Posterior sacro-iliac ligament.r
+Posterior sacro-iliac ligament.l
+Transverse tibiofibular ligament.r
+Transverse tibiofibular ligament.l
+Transverse part of iliofemoral ligament.r
+Descending part of iliofemoral ligament.r
+Transverse part of iliofemoral ligament.l
+Descending part of iliofemoral ligament.l
+Pubofemoral ligament.r
+Ischiofemoral ligament.r
+Pubofemoral ligament.l
+Ischiofemoral ligament.l
+Superficial part of tibial collateral ligament.r
+Superficial part of tibial collateral ligament.l
+Transverse ligament of knee.r
+Oblique popliteal ligament.r
+Arcuate popliteal ligament.l
+Transverse ligament of knee.l
+Oblique popliteal ligament.l
+Arcuate popliteal ligament.r
+Anterior ligament of fibular head.r
+Posterior ligament of fibular head.r
+Anterior ligament of fibular head.l
+Posterior ligament of fibular head.l
+Posterior talofibular ligament.r
+Posterior talofibular ligament.l
+Medial talocalcaneal ligament.r
+Posterior talocalcaneal ligament.r
+Medial talocalcaneal ligament.l
+Posterior talocalcaneal ligament.l
+Talonavicular ligament.r
+Talonavicular ligament.l
+Dorsal calcaneocuboid ligament.r
+Dorsal calcaneocuboid ligament.l
+Dorsal cuneonavicular ligaments.r
+Plantar cuneonavicular ligaments.r
+Dorsal cuneonavicular ligaments.l
+Plantar cuneonavicular ligaments.l
+Dorsal tarsometatarsal ligaments.r
+Dorsal tarsometatarsal ligaments.l
+Collateral metatarsophalangeal ligaments.r
+Collateral metatarsophalangeal ligaments.l
+Collateral interphalangeal ligaments of foot.r
+Collateral interphalangeal ligaments of foot.l
+Tibionavicular ligament.l
+Tibiocalcaneal ligament.l
+Tibionavicular ligament.r
+Tibiocalcaneal ligament.r
+Dorsal intercuneiform ligaments.l
+Dorsal intercuneiform ligaments.r
+Deep transverse metatarsal ligament.l
+Deep transverse metatarsal ligament.r
+
+
+
+
+
+

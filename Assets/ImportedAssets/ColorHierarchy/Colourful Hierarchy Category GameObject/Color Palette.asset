@@ -23,6 +23,11 @@ MonoBehaviour:
     backgroundColor: {r: 0.065859735, g: 0.2572381, b: 0.3773585, a: 1}
     textAlignment: 4
     fontStyle: 0
+  - keyChar: )))
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 0, g: 0.1268344, b: 0.20754719, a: 1}
+    textAlignment: 4
+    fontStyle: 0
   - keyChar: '#'
     textColor: {r: 1, g: 1, b: 1, a: 1}
     backgroundColor: {r: 0.25698647, g: 0.3301887, b: 0.3242853, a: 1}
@@ -30,11 +35,31 @@ MonoBehaviour:
     fontStyle: 0
   - keyChar: '@'
     textColor: {r: 1, g: 1, b: 1, a: 1}
-    backgroundColor: {r: 0.8207547, g: 0.6350863, b: 0, a: 1}
+    backgroundColor: {r: 0, g: 0.37765354, b: 0.81960785, a: 1}
     textAlignment: 4
     fontStyle: 1
   - keyChar: $
     textColor: {r: 1, g: 1, b: 1, a: 1}
     backgroundColor: {r: 0.5448583, g: 0.49675152, b: 0.5754717, a: 1}
+    textAlignment: 4
+    fontStyle: 0
+  - keyChar: '%'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 0.31110784, g: 0.4716981, b: 0.22917409, a: 1}
+    textAlignment: 4
+    fontStyle: 0
+  - keyChar: '&&'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 0.4662828, g: 0.22745098, b: 0.47058824, a: 1}
+    textAlignment: 4
+    fontStyle: 0
+  - keyChar: '!!!'
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 0.8018868, g: 0.4793983, b: 0.14751692, a: 1}
+    textAlignment: 4
+    fontStyle: 0
+  - keyChar: "\xBF\xBF"
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    backgroundColor: {r: 0.3584906, g: 0.07068107, b: 0.018600928, a: 1}
     textAlignment: 4
     fontStyle: 0

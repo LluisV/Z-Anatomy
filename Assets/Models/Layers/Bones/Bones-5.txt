@@ -1,0 +1,49 @@
+Bones-5
+Lacrimal bone.r
+Lacrimal bone.l
+Nasal bone.r
+Nasal bone.l
+Vomer
+Palatine bone.r
+Palatine bone.l
+Upper medial incisor.r
+Upper lateral incisor.r
+Upper canine.r
+Upper medial incisor.l
+Upper lateral incisor.l
+Upper canine.l
+Upper first premolar.r
+Upper second premolar.r
+Upper first molar tooth.r
+Upper second molar tooth.r
+Upper first premolar.l
+Upper second premolar.l
+Upper first molar tooth.l
+Upper second molar tooth.l
+Arytenoid cartilage.r
+Arytenoid cartilage.l
+Corniculate cartilage.r
+Corniculate cartilage.l
+Patella.r
+Patella.l
+First metatarsal bone.l
+First metatarsal bone.r
+Fifth metatarsal bone.l
+Fifth metatarsal bone.r
+Second metatarsal bone.r
+Third metatarsal bone.r
+Fourth metatarsal bone.r
+Second metatarsal bone.l
+Third metatarsal bone.l
+Fourth metatarsal bone.l
+First metacarpal bone.r
+Second metacarpal bone.r
+Third metacarpal bone.r
+Fourth metacarpal bone.r
+Fifth metacarpal bone.r
+First metacarpal bone.l
+Second metacarpal bone.l
+Third metacarpal bone.l
+Fourth metacarpal bone.l
+Fifth metacarpal bone.l
+Trapezoid bone.l

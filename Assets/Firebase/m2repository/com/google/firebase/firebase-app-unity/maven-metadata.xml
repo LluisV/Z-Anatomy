@@ -2,9 +2,8 @@
   <groupId>com.google.firebase</groupId>
   <artifactId>firebase-app-unity</artifactId>
   <versioning>
-    <release>8.8.0</release>
-    <versions><version>8.8.0</version></versions>
+    <release>9.4.0</release>
+    <versions><version>9.4.0</version></versions>
     <lastUpdated/>
   </versioning>
 </metadata>
-

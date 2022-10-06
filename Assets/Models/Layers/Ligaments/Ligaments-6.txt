@@ -1,0 +1,85 @@
+Ligaments-6
+External intercostal membrane.r
+Internal intercostal membrane.r
+External intercostal membrane.l
+Internal intercostal membrane.l
+Articular disc of acromioclavicular joint.r
+Articular disc of acromioclavicular joint.l
+Interosseous membrane of forearm.r
+Interosseous membrane of forearm.l
+Articular disc of distal radio-ulnar joint.r
+Articular disc of distal radio-ulnar joint.l
+Palmar radio-ulnar ligament.l
+Palmar radio-ulnar ligament.r
+Dorsal radio-ulnar ligament.l
+Dorsal radio-ulnar ligament.r
+Dorsal scaphotriquetral ligament.r
+Dorsal intercarpal ligaments.r
+Dorsal scaphotriquetral ligament.l
+Dorsal intercarpal ligaments.l
+Scaphotrapeziotrapezoidal ligament.r
+Scaphocapitate ligament.r
+Palmar scaphotriquetral ligament.r
+Triquetrocapitate ligament.r
+Triquetrohamate ligament.r
+Pisotriquetral ligament.r
+Palmar capitohamate ligament.r
+Palmar trapezoideocapitate ligament.r
+Palmar lunotriquetral ligament.r
+Scaphotrapeziotrapezoidal ligament.l
+Scaphocapitate ligament.l
+Palmar scaphotriquetral ligament.l
+Triquetrocapitate ligament.l
+Triquetrohamate ligament.l
+Pisotriquetral ligament.l
+Palmar capitohamate ligament.l
+Palmar trapezoideocapitate ligament.l
+Palmar lunotriquetral ligament.l
+Scapholunate interosseous ligament.r
+Trapeziotrapezoidal interosseous ligament.r
+Capitohamate interosseous ligament.r
+Trapezoideocapitate interosseous ligament.r
+Lunotriquetral interosseous ligament.r
+Scapholunate interosseous ligament.l
+Trapeziotrapezoidal interosseous ligament.l
+Capitohamate interosseous ligament.l
+Trapezoideocapitate interosseous ligament.l
+Lunotriquetral interosseous ligament.l
+Pisohamate ligament.r
+Pisometacarpal ligament.r
+Pisohamate ligament.l
+Pisometacarpal ligament.l
+Dorsal carpometacarpal ligaments.r
+Palmar carpometacarpal ligaments.r
+Dorsal carpometacarpal ligaments.l
+Palmar carpometacarpal ligaments.l
+Dorsal metacarpal ligaments.r
+Interosseous metacarpal ligaments.r
+Dorsal metacarpal ligaments.l
+Interosseous metacarpal ligaments.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

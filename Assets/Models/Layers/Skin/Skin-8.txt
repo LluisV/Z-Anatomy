@@ -1,0 +1,43 @@
+Skin-8
+Frontal region.r
+Frontal region.l
+Anterior notch of auricle.r
+Crura of antihelix.r
+Eminentia scaphae.r
+Posterior auricular groove.r
+Anterior notch of auricle.l
+Crura of antihelix.l
+Eminentia scaphae.l
+Posterior auricular groove.l
+Buccal region.r
+Buccal region.l
+Sternocleidomastoid region.r
+Sternocleidomastoid region.l
+Hypogastric region.r
+Hypogastric region.l
+Lumbar region.r
+Lumbar region.l
+Scapular region.r
+Scapular region.l
+Posterior region of forearm.r
+Posterior region of forearm.l
+Dorsal surfaces of digits of hand.r
+Dorsal surfaces of digits of hand.l
+Posterior region of thigh.r
+Posterior region of thigh.l
+Anterior region of knee.r
+Anterior region of knee.l
+Posterior region of leg.r
+Posterior region of leg.l
+Anterior region of ankle.r
+Anterior region of ankle.l
+Proximal transverse arch of foot.r
+Proximal transverse arch of foot.l
+Metatarsal region.r
+Metatarsal region.l
+Inframammary region.r
+Inframammary region.l
+
+
+
+

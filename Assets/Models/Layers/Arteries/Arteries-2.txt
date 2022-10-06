@@ -1,0 +1,85 @@
+Arteries-2
+Right atrium
+Right ventricle
+Left atrium
+Left ventricle
+Facial artery.r
+Facial artery.l
+Superficial temporal artery.r
+Superficial temporal artery.l
+Maxillary artery.r
+Maxillary artery.l
+Middle cerebral artery (M1-segment).r
+Middle cerebral artery (M1-segment).l
+Internal carotid artery.r
+Internal carotid artery.l
+Posterior communicating artery.r
+Posterior communicating artery.l
+Anterior cerebral artery.r
+Anterior cerebral artery.l
+External carotid artery.r
+External carotid artery.l
+Vertebral artery.r
+Vertebral artery.l
+Inferior leaflet of right atrioventricular valve
+Septal leaflet of right atrioventricular valve
+Posterior leaflet of left atrioventricular valve
+Left coronary leaflet
+Non-coronary leaflet
+Right coronary leaflet
+Anterior semilunar leaflet of pulmonary valve
+Left semilunar leaflet of pulmonary valve
+Right semilunar leaflet of pulmonary valve
+Inferior papillary muscle of right ventricle
+Anterior papillary muscle of right ventricle
+Septal papillary muscle of right ventricle
+Inferior papillary muscle of left ventricle
+Brachiocephalic trunk
+Aortic arch
+Left common carotid artery
+Left subclavian artery
+Thoracic aorta
+Right renal artery
+Left renal artery
+Abdominal aorta
+Internal iliac artery.r
+Internal iliac artery.l
+External iliac artery.l
+Ascending aorta
+Axillary artery.l
+Deep palmar arch.l
+Radial artery.l
+Ulnar artery.l
+Superficial palmar arch.l
+Brachial artery.l
+Dorsal digital arteries of foot.l
+Arcuate artery.l
+Dorsalis pedis artery.l
+Lateral tarsal artery.l
+Anterior tibial artery.l
+Fibular artery.l
+Posterior tibial artery.l
+Popliteal artery.l
+Femoral artery.l
+Dorsal metatarsal arteries.l
+Deep palmar arch.r
+Radial artery.r
+Ulnar artery.r
+Superficial palmar arch.r
+Brachial artery.r
+Dorsal digital arteries of foot.r
+Arcuate artery.r
+Dorsalis pedis artery.r
+Lateral tarsal artery.r
+Anterior tibial artery.r
+Fibular artery.r
+Posterior tibial artery.r
+Popliteal artery.r
+Femoral artery.r
+Dorsal metatarsal arteries.r
+Right common carotid artery
+Right subclavian artery
+External iliac artery.r
+Common iliac artery.r
+Axillary artery.r
+Common iliac artery.l

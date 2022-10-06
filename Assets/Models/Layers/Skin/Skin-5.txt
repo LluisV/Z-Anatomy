@@ -1,0 +1,43 @@
+Skin-5
+Occipital region.r
+Temporal region.r
+Occipital region.l
+Temporal region.l
+Antihelix.r
+Fossa antihelica.r
+Helix.r
+Intertragic incisure.r
+Antihelix.l
+Fossa antihelica.l
+Helix.l
+Intertragic incisure.l
+Orbital region.r
+Orbital region.l
+Labial commissure.r
+Labial commissure.l
+Mental region.r
+Parotideomasseteric region.r
+Mental region.l
+Parotideomasseteric region.l
+Muscular triangle.r
+Muscular triangle.l
+Greater supraclavicular fossa.l
+Greater supraclavicular fossa.r
+Umbilical region.r
+Umbilical region.l
+Hypochondriac region.r
+Inguinal region.r
+Hypochondriac region.l
+Inguinal region.l
+
+
+
+
+
+
+
+
+
+
+
+

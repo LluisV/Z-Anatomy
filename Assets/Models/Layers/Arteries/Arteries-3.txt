@@ -1,0 +1,85 @@
+Arteries-3
+Anterior inferior cerebellar artery.r
+Basilar artery
+Superior cerebellar artery.r
+Right coronary artery
+Circumflex artery of heart
+Anterior interventricular artery
+Left coronary artery
+[Right posterolateral branch]
+Septal branches of anterior interventricular artery
+Inferior phrenic artery
+Splenic artery
+Superior mesenteric artery
+Proper hepatic artery
+Coeliac trunk
+Left gastric artery
+Common hepatic artery
+Gastroduodenal artery
+Anterior branch of renal artery.r
+Anterior branch of renal artery.l
+Posterior branch of renal artery.r
+Posterior branch of renal artery.l
+Inferior mesenteric artery
+Superior gluteal artery.l
+Posterior division of internal iliac artery.r
+Posterior division of internal iliac artery.l
+Inferior gluteal artery.l
+Anterior division of internal iliac artery.r
+(Deep branch of transverse cervical artery).l
+Pectoral branches of thoraco-acromial artery.r
+Pectoral branches of thoraco-acromial artery.l
+Deep brachial artery.l
+Radial collateral artery.l
+Middle collateral artery.l
+Dorsal metacarpal arteries.l
+Dorsal carpal anastomosis.l
+(Ulnar recurrent artery).l
+Recurrent interosseous artery.l
+Posterior interosseous artery.l
+Dorsal carpal branch of ulnar artery.l
+Superior ulnar collateral artery.l
+Inferior ulnar collateral artery.l
+Anterior circumflex humeral artery.l
+Posterior circumflex humeral artery.l
+Medial circumflex femoral artery.l
+Lateral circumflex femoral artery.l
+Deep femoral artery.l
+Medial plantar artery.l
+Plantar arch.l
+Lateral plantar artery.l
+Middle genicular arteries.l
+Common interosseous artery.l
+Common interosseous artery.r
+Deep brachial artery.r
+Radial collateral artery.r
+Middle collateral artery.r
+Dorsal metacarpal arteries.r
+Dorsal carpal anastomosis.r
+(Ulnar recurrent artery).r
+Recurrent interosseous artery.r
+Posterior interosseous artery.r
+Dorsal carpal branch of ulnar artery.r
+Superior ulnar collateral artery.r
+Inferior ulnar collateral artery.r
+Anterior circumflex humeral artery.r
+Posterior circumflex humeral artery.r
+Medial circumflex femoral artery.r
+Lateral circumflex femoral artery.r
+Perforating femoral arteries.r
+Deep femoral artery.r
+Medial plantar artery.r
+Plantar arch.r
+Lateral plantar artery.r
+Middle genicular arteries.r
+Superior phrenic arteries
+Superior gluteal artery.r
+Inferior gluteal artery.r
+Deep branch of transverse cervical artery.r
+Anterior inferior cerebellar artery.l
+Superior cerebellar artery.l
+Anterior division of internal iliac artery.l
+Perforating femoral arteries.l
+
+
+

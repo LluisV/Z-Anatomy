@@ -1,0 +1,147 @@
+Nerves-7
+whole_brain.l
+Uvula of vermis
+Tuber of vermis
+Pyramis of vermis
+Peduncle of flocculus.l
+Nodule of vermis
+Folium of vermis
+Flocculus.l
+Declive
+Culmen
+Peduncle of flocculus.r
+Flocculus.r
+Middle cerebellar peduncle.l
+Middle cerebellar peduncle.r
+whole_brain.r
+Medulla oblongata.r
+Pons.r
+Lateral antebrachial cutaneous nerve.r
+Superficial branch of radial nerve.r
+Palmar branch of ulnar nerve.r
+Deep branch of ulnar nerve.r
+Medial brachial cutaneous nerve.r
+(Communicating branch of median nerve with ulnar nerve).r
+Palmar branch of median nerve.r
+Saphenous nerve.r
+Anterior cutaneous branches of femoral nerve.r
+Posterior branch of obturator nerve.r
+Anterior branch of obturator nerve.r
+Intermediate dorsal cutaneous nerve of foot.r
+Muscular branches of deep fibular nerve.r
+Deep fibular nerve.r
+Muscular branches of radial nerve.r
+Intercostal nerves.r
+Pons.l
+Medulla oblongata.l
+Lateral antebrachial cutaneous nerve.l
+Superficial branch of radial nerve.l
+Muscular branches of radial nerve.l
+Palmar branch of ulnar nerve.l
+Deep branch of ulnar nerve.l
+Medial brachial cutaneous nerve.l
+(Communicating branch of median nerve with ulnar nerve).l
+Palmar branch of median nerve.l
+Intercostal nerves.l
+Saphenous nerve.l
+Anterior cutaneous branches of femoral nerve.l
+Posterior branch of obturator nerve.l
+Anterior branch of obturator nerve.l
+Intermediate dorsal cutaneous nerve of foot.l
+Muscular branches of deep fibular nerve.l
+Deep fibular nerve.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

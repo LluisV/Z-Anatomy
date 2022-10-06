@@ -1,0 +1,34 @@
+Lymph-2
+Occipital nodes.l
+Bucinator node.l
+Submental nodes.l
+Infra-auricular nodes.l
+Occipital nodes.r
+Bucinator node.r
+Submental nodes.r
+Infra-auricular nodes.r
+Supraclavicular nodes.r
+Superficial anterior cervical nodes
+Supraclavicular nodes.l
+Brachiocephalic nodes
+Inferior tracheobronchial nodes
+Retrocaval nodes
+Parasternal nodes.l
+Inferior epigastric nodes.l
+Superior pancreatic nodes
+Cystic node
+Precaecal nodes
+Medial common iliac nodes
+Medial external iliac nodes.r
+Medial external iliac nodes.l
+Inferior epigastric nodes.r
+Brachial nodes.r
+Anterior axillary nodes.r
+Brachial nodes.l
+Anterior axillary nodes.l
+Superficial popliteal nodes.l
+Superficial popliteal nodes.r
+(Anterior tibial node).l
+(Anterior tibial node).r
+(Proximal deep inguinal node).l
+(Proximal deep inguinal node).r

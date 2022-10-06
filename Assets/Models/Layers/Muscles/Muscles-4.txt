@@ -1,0 +1,119 @@
+Muscles-4
+Lateral rectus muscle.l
+Lateral rectus muscle.r
+Inferior rectus muscle.r
+Medial rectus muscle.r
+Superior rectus muscle.r
+Inferior rectus muscle.l
+Medial rectus muscle.l
+Superior rectus muscle.l
+Mentalis muscle.r
+Bucinator.r
+Mentalis muscle.l
+Bucinator.l
+Sternothyroid muscle.r
+Sternothyroid muscle.l
+Iliocostalis thoracis muscle.r
+Iliocostalis colli muscle.r
+Iliocostalis thoracis muscle.l
+Iliocostalis colli muscle
+Longissimus capitis muscle.r
+Longissimus colli muscle.r
+Longissimus capitis muscle.l
+Longissimus colli muscle.l
+Interspinales colli muscles.r
+Interspinales thoracis muscles.r
+Interspinales lumborum muscles.r
+Interspinales colli muscles.l
+Interspinales thoracis muscles.l
+Interspinales lumborum muscles.l
+Internal intercostal muscles.r
+Internal intercostal muscles.l
+Quadratus lumborum muscle.r
+Quadratus lumborum muscle.l
+Medial head of triceps brachii.r
+Medial head of triceps brachii.l
+Flexor digitorum profundus.r
+Flexor digitorum profundus.l
+Obturator internus.r
+Obturator internus.l
+Lateral patellar retinaculum.r
+Medial patellar retinaculum.r
+Lateral patellar retinaculum.l
+Medial patellar retinaculum.l
+Pectineus muscle.r
+Gracilis muscle.r
+Obturator externus.r
+Pectineus muscle.l
+Gracilis muscle.l
+Obturator externus.l
+Short head of biceps femoris.r
+Short head of biceps femoris.l
+Tibialis posterior muscle.r
+Tibialis posterior muscle.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

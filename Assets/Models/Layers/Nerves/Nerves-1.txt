@@ -1,0 +1,147 @@
+Nerves-1
+Aqueduct of midbrain
+Third ventricle
+Sense organs.g
+Eye'.g
+Eyeball.g
+Accessory visual structures.g
+Ear.g
+Middle ear.g
+External ear.g
+Internal ear.g
+Lacrimal apparatus.g
+Vestibular nuclei.r
+Tympanic membrane.r
+Vestibule.r
+Cochlea.r
+Lacrimal gland.r
+Ampulla of lacrimal canaliculus.l
+Lacrimal canaliculus.r
+Lacrimal sac.r
+Nasolacrimal duct.r
+Suspensory ligament of eyeball.r
+Iris.r
+Cornea.r
+Sclera.r
+Retina.r
+Anterior chamber of eyeball.r
+Zonular fibres.r
+Zonular fibers-curve.r
+Lens.r
+Vitreous body.r
+Equator of eyeball
+Meridians of eyeball
+External axis of eyeball
+Internal axis of eyeball
+Olive.r
+Sensory root of trigeminal nerve.r
+Anterior cochlear nucleus.r
+Nucleus of oculomotor nerve.r
+Accessory nucleus of oculomotor nerve.r
+Nucleus of abducens nerve.r
+Motor nucleus of facial nerve.r
+Superior salivatory nucleus.r
+Inferior salivatory nucleus.r
+Nucleus of trochlear nerve.r
+Pyramid of medulla oblongata.r
+Ciliary body-curve.r
+Posterior nucleus of vagus nerve.r
+Nucleus of hypoglossal nerve.r
+Nucleus of accessory nerve.r
+Nucleus of solitary tract.r
+Nucleus ambiguus.r
+Posterior cochlear nucleus.r
+Anterior segment of eyeball.r
+Cornea.l
+Sclera.l
+Iris.l
+Retina.l
+Anterior chamber of eyeball.l
+Zonular fibres.l
+Lens.l
+Anterior segment of eyeball.l
+Vitreous body.l
+Posterior segment of eyeball.l
+Lacrimal gland.l
+Ampulla of lacrimal canaliculus.r
+Lacrimal canaliculus.l
+Lacrimal sac.l
+Nasolacrimal duct.l
+Suspensory ligament of eyeball.l
+Tympanic membrane.l
+Sensory root of trigeminal nerve.l
+Nucleus of oculomotor nerve.l
+Nucleus of abducens nerve.l
+Motor nucleus of facial nerve.l
+Superior salivatory nucleus.l
+Inferior salivatory nucleus.l
+Nucleus of trochlear nerve.l
+Nucleus of hypoglossal nerve.l
+Vestibular nuclei.l
+Accessory nucleus of oculomotor nerve.l
+Pyramid of medulla oblongata.l
+Olive.l
+Anterior cochlear nucleus.l
+Posterior cochlear nucleus.l
+Posterior nucleus of vagus nerve.l
+Nucleus of solitary tract.l
+Nucleus of accessory nerve.l
+Nucleus ambiguus.l
+Vestibule.l
+Cochlea.l
+Posterior segment of eyeball.r
+Dilator pupillae.l
+Dilator pupillae.r
+Cauda equina
+Gracile fasciculus
+Cuneate fasciculus
+Medial vestibulospinal tract
+Intermediomedial nucleus
+Nucleus proprius
+Intermediolateral nucleus
+Spinal reticular process
+Lateral corticospinal tract
+Rubrospinal tract
+Lateral reticulospinal tract
+Lateral vestibulospinal tract
+Medial reticulospinal tract
+Anterior corticospinal tract
+Anterior spinothalamic tract
+Lateral spinothalamic tract
+Posterolateral tract
+Posterior spinocerebellar tract
+Anterior spinocerebellar tract
+Tectospinal tract
+Lateral intermediate substance
+Posterior fasciculus proprius
+Lateral fasciculus proprius
+Posterior horn of spinal cord
+Anterior fasciculus proprius
+Anterior horn of spinal cord
+Spinotectal tract
+Spinal ganglion.r
+Spinal ganglion.l
+Posterior root of spinal nerve.l
+Posterior root of spinal nerve.r
+Anterior root of spinal nerve.l
+Anterior root of spinal nerve.r
+White matter of spinal cord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

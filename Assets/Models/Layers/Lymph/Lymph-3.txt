@@ -1,0 +1,34 @@
+Lymph-3
+Nasolabial node.l
+Mandibular node.l
+Pre-auricular nodes.r
+Intraglandular parotid nodes.r
+Pre-auricular nodes.l
+Intraglandular parotid nodes.l
+Nasolabial node.r
+Mandibular node.r
+Paratracheal cervical nodes
+Parasternal nodes.r
+Inferior diaphragmatic nodes
+Paratracheal thoracic nodes
+Right gastric nodes
+(Retropyloric nodes)
+Splenic nodes
+Right colic nodes
+Left colic nodes
+Retropharyngeal nodes.r
+Mastoid nodes.l
+Palatine tonsil.l
+Submandibular nodes.l
+Retropharyngeal nodes.l
+Mastoid nodes.r
+Palatine tonsil.r
+Submandibular nodes.r
+Juxta-oesophageal nodes
+Node of arch of azygos vein
+Retro-aortic nodes
+
+
+
+
+

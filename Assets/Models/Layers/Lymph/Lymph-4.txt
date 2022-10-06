@@ -1,0 +1,34 @@
+Lymph-4
+Intermediate common iliac nodes
+Median sacral nodes
+Superior gluteal nodes.r
+Superior gluteal nodes.l
+Pararectal nodes
+Posterior axillary nodes.r
+Posterior axillary nodes.l
+Cubital nodes.l
+Apical axillary nodes.l
+Apical axillary nodes.r
+Cubital nodes.r
+(Fibular node).l
+(Fibular node).r
+(Medial lacunar node).r
+Superolateral superficial inguinal nodes.l
+Superolateral superficial inguinal nodes.r
+(Medial lacunar node).l
+
+Retrocaecal nodes
+Postvesical nodes
+Infraclavicular nodes.l
+Infraclavicular nodes.r
+Deep popliteal nodes.l
+Deep popliteal nodes.r
+(Posterior tibial node).l
+(Posterior tibial node).r
+(Intermediate deep inguinal node).l
+(Intermediate deep inguinal node).r
+Lymph node
+Deep parotid nodes
+Pretracheal nodes.r
+Pretracheal nodes.l
+(Suprapyloric node)

@@ -1,0 +1,119 @@
+Muscles-10
+Subtendinous bursa of trapezius muscle.r
+Subtendinous bursa of trapezius muscle.l
+Subcutaneous acromial bursa.r
+Subcutaneous acromial bursa.l
+Subacromial bursa.r
+Subacromial bursa.l
+Subdeltoid bursa.r
+Subdeltoid bursa.l
+Coracobrachial bursa.r
+Coracobrachial bursa.l
+Subtendinous bursa of infraspinatus muscle.r
+Subtendinous bursa of infraspinatus muscle.l
+Subtendinous bursa of teres major muscle.r
+Subtendinous bursa of teres major muscle.l
+Subtendinous bursa of triceps brachii muscle.r
+Subtendinous bursa of triceps brachii muscle.l
+Bicipitoradial bursa.r
+Bicipitoradial bursa.l
+Subcutaneous trochanteric bursa.r
+Subcutaneous trochanteric bursa.l
+Trochanteric bursa of gluteus medius muscle.r
+Trochanteric bursa of gluteus maximus muscle.r
+Trochanteric bursa of gluteus maximus muscle.l
+Trochanteric bursa of gluteus medius muscle.l
+Trochanteric bursa of gluteus minimus muscle.r
+Trochanteric bursa of gluteus minimus muscle.l
+Bursa of piriformis muscle.r
+Bursa of piriformis muscle.l
+Sciatic bursa of obturator internus.r
+Sciatic bursa of obturator internus.l
+Subtendinous bursa of obturator internus.r
+Subtendinous bursa of obturator internus.l
+Sciatic bursa of gluteus maximus muscle.r
+Sciatic bursa of gluteus maximus muscle.l
+Intermuscular gluteal bursae.r
+Intermuscular gluteal bursae.l
+(Iliopectineal bursa).r
+(Iliopectineal bursa).l
+Subtendinous bursa of iliacus muscle.r
+Subtendinous bursa of iliacus muscle.l
+Superior bursa of biceps femoris muscle.r
+Superior bursa of biceps femoris muscle.l
+Subtendinous prepatellar bursa.r
+Subtendinous prepatellar bursa.l
+Subcutaneous prepatellar bursa.r
+Subcutaneous prepatellar bursa.l
+Deep infrapatellar bursa.r
+Deep infrapatellar bursa.l
+Subfacial prepatellar bursa.r
+Subfacial prepatellar bursa.l
+Subcutaneous infrapatellar bursa.r
+Subcutaneous infrapatellar bursa.l
+Suprapatellar bursa.r
+Suprapatellar bursa.l
+Subcutaneous bursa of tuberosity of tibia.r
+Subcutaneous bursa of tuberosity of tibia.l
+Inferior subtendinous bursa of biceps femoris muscle.r
+Subtendinous bursa of sartorius muscle.r
+Subtendinous bursa of sartorius muscle.l
+Anserine bursa.r
+Anserine bursa.l
+Inferior subtendinous bursa of biceps femoris muscle.l
+Medial subtendinous bursa of gastrocnemius muscle.r
+Lateral subtendinous bursa of gastrocnemius muscle.r
+Medial subtendinous bursa of gastrocnemius muscle.l
+Lateral subtendinous bursa of gastrocnemius muscle.l
+Semimembranosus bursa.r
+Semimembranosus bursa.l
+Subcutaneous bursa of lateral malleolus.r
+Subcutaneous bursa of medial malleolus.r
+Subcutaneous bursa of lateral malleolus.l
+Subcutaneous bursa of medial malleolus.l
+Subtendinous bursa of tibialis anterior.r
+Subcutaneous calcaneal bursa.r
+Subtendinous calcaneal bursa.r
+Subtendinous bursa of tibialis anterior.l
+Subcutaneous calcaneal bursa.l
+Subtendinous calcaneal bursa.l
+Intertubercular tendon sheath.r
+Intertubercular tendon sheath.l
+Tendon sheath of flexor pollicis longus.r
+Tendon sheath of flexor pollicis longus.l
+Tendon sheath of flexor carpi radialis.r
+Tendon sheath of flexor carpi radialis.l
+Common flexor tendon sheath.r
+Common flexor tendon sheath.l
+Tendon sheath - abd. pollicis longus - ext. pollicis brevis.l
+Tendon sheath of extensor carpi ulnaris.l
+Tendon sheath of extensor carpi ulnaris.r
+Synovial sheaths of digits of hand.r
+Tendon sheath of extensor digiti minimi manus.r
+Tendon sheath of extensor digiti minimi manus.l
+Tendon sheath of extensor pollicis longus.r
+Tendon sheath of extensor pollicis longus.l
+Tendon sheath - abd. pollicis longus - ext. pollicis brevis.r
+Tendon sheath of extensors carpi radialis.r
+Tendon sheath of extensors carpi radialis.l
+Synovial sheaths of digits of hand.l
+Tendon sheath of extensor digitorum and extensor indicis.r
+Tendon sheath of extensor digitorum and extensor indicis.l
+Tendon sheath of tibialis anterior.r
+Tendon sheath of extensor hallucis longus.r
+Tendon sheath of extensor digitorum longus.r
+Tendon sheath of tibialis anterior.l
+Tendon sheath of extensor hallucis longus.l
+Tendon sheath of extensor digitorum longus.l
+Tendon sheath of flexor digitorum longus.r
+Tendon sheath of tibialis posterior muscle.r
+Tendon sheath of flexor hallucis longus.r
+Tendon sheath of flexor digitorum longus.l
+Tendon sheath of tibialis posterior muscle.l
+Tendon sheath of flexor hallucis longus.l
+Common tendon sheath of fibularis muscles.r
+Common tendon sheath of fibularis muscles.l
+Plantar tendon sheath of fibularis longus muscle.r
+Plantar tendon sheath of fibularis longus muscle.l
+Cruciform part of fibrous sheath of digit of hand.r
+Cruciform part of fibrous sheath of digit of hand.l

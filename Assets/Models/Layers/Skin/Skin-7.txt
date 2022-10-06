@@ -1,0 +1,43 @@
+Skin-7
+Parietal region.r
+Parietal region.l
+Antitragus.r
+Scapha.r
+Tragus.r
+Antitragus.l
+Scapha.l
+Tragus.l
+Oral region.r
+Oral region.l
+Zygomatic region.r
+Zygomatic region.l
+Submental triangle.r
+Submental triangle.l
+Lateral region of neck.r
+Lateral region of neck.l
+Epigastric region.r
+Epigastric region.l
+Infrascapular region.r
+Infrascapular region.l
+Anterior region of arm.r
+Anterior region of arm.l
+Posterior region of elbow.r
+Posterior region of elbow.l
+Anterior region of forearm.r
+Anterior region of forearm.l
+Posterior region of wrist.r
+Posterior region of wrist.l
+Palm.r
+Palm.l
+Gluteal region.r
+Gluteal region.l
+Anterior region of thigh.r
+Anterior region of thigh.l
+Medial retromalleolar region.r
+Medial retromalleolar region.l
+Plantar surfaces of digits of foot.l
+Plantar surfaces of digits of foot.r
+Lateral border of foot.l
+Lateral border of foot.r
+Eyelashes.l
+Eyelashes.r

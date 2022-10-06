@@ -1,0 +1,85 @@
+Arteries-5
+Posterior deep temporal artery.r
+Posterior deep temporal artery.l
+Ophthalmic artery.r
+Ophthalmic artery.l
+Callosomarginal artery.r
+Callosomarginal artery.l
+Pericallosal artery.r
+Pericallosal artery.l
+Orbitofrontal branches of anterior cerebral artery.r
+Orbitofrontal branches of anterior cerebral artery.l
+Proximal lateral striate branches.r
+Distal lateral striate branches.r
+Proximal lateral striate branches.l
+Distal lateral striate branches.l
+Insular branches of middle cerebral artery (M2).r
+Insular branches of middle cerebral artery (M2).l
+Anterior communicating artery
+Lateral pontine branches of basilar artery.r
+Medial pontine branches of basilar artery.r
+Lumbar arteries.l
+Left colic artery
+Inferior epigastric artery.r
+Inferior epigastric artery.l
+Internal thoracic artery.l
+Superior epigastric artery.l
+Internal thoracic artery.r
+Superior epigastric artery.r
+Deep cervical artery.l
+Lateral thoracic artery.l
+Inferior pancreaticoduodenal artery
+Superior anorectal artery
+Dorsal digital arteries of hand.l
+Palmar metacarpal arteries.l
+Palmar carpal branch of radial artery.l
+Common plantar digital arteries.l
+Proper plantar digital arteries.l
+Inferior medial genicular artery.l
+Inferior lateral genicular artery.l
+Superior lateral genicular artery.l
+Dorsal digital arteries of hand.r
+Palmar metacarpal arteries.r
+Palmar carpal branch of radial artery.r
+Common plantar digital arteries.r
+Proper plantar digital arteries.r
+Inferior medial genicular artery.r
+Inferior lateral genicular artery.r
+Superior lateral genicular artery.r
+Deep cervical artery.r
+Lumbar arteries.r
+Iliacus branch of iliolumbar artery.r
+Lateral thoracic artery.r
+Iliolumbar artery.r
+Superficial external pudendal artery.r
+Obturator artery.r
+Obturator artery.l
+Lateral pontine branches of basilar artery.l
+Medial pontine branches of basilar artery.l
+Iliacus branch of iliolumbar artery.l
+Iliolumbar artery.l
+Superficial external pudendal artery.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

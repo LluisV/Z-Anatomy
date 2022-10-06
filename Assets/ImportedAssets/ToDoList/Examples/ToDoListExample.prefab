@@ -61,7 +61,7 @@ MonoBehaviour:
       - button hover animation
       states'
     state: 2
-    show: 1
+    show: 0
     deleteQuestion: 0
   - s: 'idea stack
 

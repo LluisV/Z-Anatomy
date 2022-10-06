@@ -1,0 +1,1128 @@
+Neck
+Hyoid bone
+Thyroid cartilage
+Cricoid cartilage
+Arytenoid cartilage.r
+Corniculate cartilage.r
+Atlas (C1)
+Vertebra C6
+Vertebra C3
+Vertebra C5
+Vertebra C7
+Vertebra C4
+Axis (C2)
+Arytenoid cartilage.l
+Corniculate cartilage.l
+Lateral thyrohyoid ligament.r
+Lateral thyrohyoid ligament.l
+Median thyrohyoid ligament
+Quadrangular membrane.r
+Quadrangular membrane.l
+Median cricothyroid ligament
+Cricopharyngeal ligament.r
+Cricopharyngeal ligament.l
+Interspinous ligaments
+Anterior longitudinal ligament
+Posterior longitudinal ligament
+Nuchal ligament
+Intertransverse ligaments.r
+Ligamenta flava
+Intertransverse ligaments.l
+Intervertebral disc C2-C3
+Intervertebral disc C3-C4
+Intervertebral disc C4-C5
+Intervertebral disc C5-C6
+Intervertebral disc C6-C7
+Nucleus pulposus C6-C7
+Nucleus pulposus C5-C6
+Nucleus pulposus C4-C5
+Nucleus pulposus C3-C4
+Nucleus pulposus C2-C3
+Sternocleidomastoid muscle.r
+Sternocleidomastoid muscle.l
+Intermediate tendon of digastric muscle.r
+Anterior belly of digastric muscle.r
+Posterior belly of digastric muscle.r
+Intermediate tendon of digastric muscle.l
+Anterior belly of digastric muscle.l
+Posterior belly of digastric muscle.l
+Mylohyoid muscle.r
+Stylohyoid muscle.r
+Geniohyoid muscle.r
+Mylohyoid muscle.l
+Stylohyoid muscle.l
+Geniohyoid muscle.l
+Omohyoid muscle.r
+Omohyoid muscle.l
+Sternohyoid muscle.r
+Sternothyroid muscle.r
+Thyrohyoid muscle.r
+Sternohyoid muscle.l
+Sternothyroid muscle.l
+Thyrohyoid muscle.l
+Stylopharyngeus muscle.l
+Oblique part of cricothyroid muscle.r
+Straight part of cricothyroid muscle.r
+Oblique part of cricothyroid muscle.l
+Straight part of cricothyroid muscle.l
+External part of thyro-arytenoid muscle.r
+External part of thyro-arytenoid muscle.l
+Ary-epiglottic part of oblique arytenoid muscle.r
+Thyro-epiglottic part of thyro-arytenoid muscle.r
+Ary-epiglottic part of oblique arytenoid muscle.l
+Thyro-epiglottic part of thyro-arytenoid muscle.l
+Transverse arytenoid muscle
+Lateral crico-arytenoid muscle.r
+Lateral crico-arytenoid muscle.l
+Posterior crico-arytenoid muscle.r
+Posterior crico-arytenoid muscle.l
+Platysma.r
+Scalenus medius muscle.r
+Scalenus posterior muscle.r
+Scalenus anterior muscle.r
+Longus capitis muscle.r
+Longus colli muscle.r
+Rectus anterior capitis muscle.r
+Rectus lateralis capitis muscle.r
+Platysma.l
+Scalenus medius muscle.l
+Scalenus posterior muscle.l
+Scalenus anterior muscle.l
+Longus capitis muscle.l
+Longus colli muscle.l
+Rectus anterior capitis muscle.l
+Rectus lateralis capitis muscle.l
+Superficial investing cervical fascia.r
+Superficial investing cervical fascia.l
+Obliquus inferior capitis muscle.r
+Obliquus superior capitis muscle.r
+Rectus posterior major capitis muscle.r
+Rectus posterior minor capitis muscle.r
+Obliquus inferior capitis muscle.l
+Obliquus superior capitis muscle.l
+Rectus posterior major capitis muscle.l
+Rectus posterior minor capitis muscle.l
+Iliocostalis colli muscle.r
+Iliocostalis colli muscle
+Longissimus capitis muscle.r
+Longissimus colli muscle.r
+Longissimus capitis muscle.l
+Longissimus colli muscle.l
+Spinalis capitis muscle.r
+Spinalis colli muscle.r
+Spinalis capitis muscle.l
+Spinalis colli muscle.l
+Splenius capitis muscle.r
+Splenius colli muscle.r
+Splenius capitis muscle.l
+Splenius colli muscle.l
+Multifidus colli muscle.r
+Multifidus colli muscle.l
+Semispinalis colli muscle.r
+Semispinalis colli muscle.l
+Rotatores.l
+Rotatores.r
+Interspinales colli muscles.r
+Interspinales colli muscles.l
+Ascending part of trapezius muscle.r
+Ascending part of trapezius muscle.l
+Levator scapulae.r
+Levator scapulae.l
+Right common carotid artery
+Left common carotid artery
+External carotid artery.r
+External carotid artery.l
+Internal carotid artery.r
+Internal carotid artery.l
+Vertebral artery.r
+Vertebral artery.l
+Inferior thyroid artery.r
+Inferior thyroid artery.l
+Transverse cervical artery.r
+Transverse cervical artery.l
+Deep cervical artery.r
+Deep cervical artery.l
+Vertebral vein.r
+Vertebral vein.l
+Posterior division of retromandibular vein.r
+Facial vein.r
+Superior thyroid vein.r
+Posterior division of retromandibular vein.l
+Facial vein.l
+Superior thyroid vein.l
+Internal jugular vein.r
+Internal jugular vein.l
+Anterior jugular vein.l
+Anterior jugular vein.r
+External jugular vein.r
+External jugular vein.l
+Anterior division of retromandibular vein.l
+Anterior division of retromandibular vein.r
+Pretraqueal nodes.r
+Thyroid nodes.r
+Anterior inferior jugular nodes.r
+Supraclavicular nodes.r
+Superficial lateral cervical nodes.r
+Superficial anterior cervical nodes
+Jugulodigastric node.r
+Lateral superior jugular node.r
+Inferior deep lateral cervical nodes.r
+Pretraqueal nodes.l
+Thyroid nodes.l
+Anterior inferior jugular nodes.l
+Supraclavicular nodes.l
+Superficial lateral cervical nodes.l
+Jugulodigastric node.l
+Lateral superior jugular node.l
+Inferior deep lateral cervical nodes.l
+Paratracheal cervical nodes
+Glossopharyngeal nerve (IX).r
+Glossopharyngeal nerve (IX).l
+Vagus nerve (X).r
+Vagus nerve (X).l
+Accessory nerve (XI).r
+Accessory nerve (XI).l
+Roots of brachial plexus.r
+Roots of brachial plexus.l
+Dorsal scapular nerve.r
+Long thoracic nerve.r
+Dorsal scapular nerve.l
+Long thoracic nerve.l
+Sympathetic nerves.r
+Ganglia of sympathetic trunk.r
+Sympathetic trunk.r
+Sympathetic nerves.l
+Ganglia of sympathetic trunk.l
+Sympathetic trunk.l
+Submandibular triangle.r
+Submental triangle.r
+Submandibular triangle.l
+Submental triangle.l
+Carotid triangle.r
+Muscular triangle.r
+Carotid triangle.l
+Muscular triangle.l
+Sternocleidomastoid region.r
+Lesser supraclavicular fossa.r
+Sternocleidomastoid region.l
+Lesser supraclavicular fossa.l
+Lateral region of neck.r
+Greater supraclavicular fossa.r
+Lateral region of neck.l
+Greater supraclavicular fossa.l
+Posterior region of neck.r
+Posterior region of neck.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

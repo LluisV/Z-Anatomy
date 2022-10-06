@@ -1,0 +1,1128 @@
+Thorax
+Fifth rib.r
+First rib.r
+Fourth rib.r
+Second rib.r
+Seventh rib.r
+Sixth rib.r
+Third rib.r
+Eleventh rib.r
+Twelfth rib.r
+Eighth rib.r
+Ninth rib.r
+Tenth rib.r
+Manubrium of sternum
+Xiphoid process
+Body of sternum
+Costal cartilage of first rib.r
+Costal cartilage of second rib.r
+Costal cartilage of third rib.r
+Costal cartilage of fourth rib.r
+Costal cartilage of fifth rib.r
+Costal cartilage of sixth rib.r
+Costal cartilage of seventh rib.r
+Costal cartilage of eighth rib.r
+Costal cartilage of tenth rib.r
+Costal cartilage of ninth rib.r
+Fifth rib.l
+First rib.l
+Fourth rib.l
+Second rib.l
+Seventh rib.l
+Sixth rib.l
+Third rib.l
+Eleventh rib.l
+Twelfth rib.l
+Eighth rib.l
+Ninth rib.l
+Tenth rib.l
+Costal cartilage of first rib.l
+Costal cartilage of second rib.l
+Costal cartilage of third rib.l
+Costal cartilage of fourth rib.l
+Costal cartilage of fifth rib.l
+Costal cartilage of sixth rib.l
+Costal cartilage of seventh rib.l
+Costal cartilage of eighth rib.l
+Costal cartilage of tenth rib.l
+Costal cartilage of ninth rib.l
+Supraspinous ligament
+Interspinous ligaments
+Anterior longitudinal ligament
+Posterior longitudinal ligament
+Intertransverse ligaments.r
+Ligamenta flava
+Intertransverse ligaments.l
+Intervertebral disc C7-T1
+Intervertebral disc T1-T2
+Intervertebral disc T10-T11
+Intervertebral disc T11-T12
+Intervertebral disc T12-L1
+Intervertebral disc T2-T3
+Intervertebral disc T3-T4
+Intervertebral disc T4-T5
+Intervertebral disc T5-T6
+Intervertebral disc T6-T7
+Intervertebral disc T7-T8
+Intervertebral disc T8-T9
+Intervertebral disc T9-T10
+Nucleus pulposus T12-L1
+Nucleus pulposus T11-T12
+Nucleus pulposus T10-T11
+Nucleus pulposus T9-T10
+Nucleus pulposus T8-T9
+Nucleus pulposus T7-T8
+Nucleus pulposus T6-T7
+Nucleus pulposus T5-T6
+Nucleus pulposus T4-T5
+Nucleus pulposus T3-T4
+Nucleus pulposus T2-T3
+Nucleus pulposus T1-T2
+External intercostal membrane.r
+Internal intercostal membrane.r
+External intercostal membrane.l
+Internal intercostal membrane.l
+Intra-articular ligament of head of rib.r
+Intra-articular ligament of head of rib
+Radiate ligament of head of rib.l
+Radiate ligament of head of rib.r
+Costotransverse ligament.r
+Costotransverse ligament.l
+Clavicular head of pectoralis major muscle.r
+Sternocostal head of pectoralis major muscle.r
+Clavicular head of pectoralis major muscle.l
+Sternocostal head of pectoralis major muscle.l
+Pectoralis minor muscle.r
+External intercostal muscles.r
+Internal intercostal muscles.r
+Serratus anterior muscle.r
+Innermost intercostal muscles.r
+Subclavius muscle.r
+Transversus thoracis muscle.r
+Pectoralis minor muscle.l
+External intercostal muscles.l
+Internal intercostal muscles.l
+Serratus anterior muscle.l
+Innermost intercostal muscles.l
+Subclavius muscle.l
+Transversus thoracis muscle.l
+Pectoral fascia.r
+Pectoral fascia.l
+Diaphragm
+Clavipectoral fascia.r
+Clavipectoral fascia.l
+Diaphragmatic fascia
+Inferior leaflet of right atrioventricular valve
+Septal leaflet of right atrioventricular valve
+Posterior leaflet of left atrioventricular valve
+Left coronary leaflet
+Non-coronary leaflet
+Right coronary leaflet
+Anterior semilunar leaflet of pulmonary valve
+Left semilunar leaflet of pulmonary valve
+Right semilunar leaflet of pulmonary valve
+Right atrium
+Inferior papillary muscle of right ventricle
+Anterior papillary muscle of right ventricle
+Septal papillary muscle of right ventricle
+Right ventricle
+Left atrium
+Inferior papillary muscle of left ventricle
+Left ventricle
+Bifurcation of pulmonary trunk
+Pulmonary trunk
+Superior lobar artery of right lung
+Apical segmental artery of right lung
+Anterior segmental artery of right lung
+Posterior segmental artery of right lung
+Middle lobar artery of right lung
+Posterior basal segmental artery of right lung
+Inferior lobar artery of right lung
+Lateral basal segmental artery of right lung
+Anterior basal segmental artery of right lung
+Medial basal segmental artery of right lung
+Medial segmental artery of right lung
+Lateral segmental artery of right lung
+Superior segmental artery of right lung
+Superior lingular artery of left lung
+Inferior lingular artery of left lung
+Apical segmental artery of left lung
+Posterior segmental artery of left lung
+Anterior segmental artery of left lung
+Superior segmental artery of left lung
+Lateral basal segmental artery of left lung
+Posterior basal segmental artery of left lung
+Medial basal segmental artery of left lung
+Anterior basal segmental artery of left lung
+Left pulmonary artery
+Right superior pulmonary vein
+Medial vein of right lung
+Apical vein of right lung
+Posterior vein of right lung
+Anterior vein of right lung
+Lateral vein of right lung
+Inferior basal vein of right lung
+Superior vein of right lung
+Superior basal vein of right lung
+Anterior vein of left lung
+Apicoposterior vein of left lung
+Inferior lingular vein of left lung
+Superior lingular vein of left lung
+Superior basal vein of left lung
+Superior vein of left lung
+Inferior basal vein of left lung
+Right coronary artery
+Circumflex artery of heart
+Anterior interventricular artery
+Left coronary artery
+Right inferolateral branch of right coronary artery
+Septal branches of anterior interventricular artery
+Great cardiac vein
+????????
+Middle cardiac vein
+Inferior vein of left ventricle (//Posterior '')
+Coronary sinus
+Inferior vein of left ventricle
+Posterior intercostal arteries.l
+Posterior intercostal arteries.r
+Subcostal artery.l
+Subcostal artery.r
+Superior phrenic arteries
+Thoracic aorta
+Internal thoracic artery.l
+Musculophrenic artery.l
+Superior epigastric artery.l
+Internal thoracic artery.r
+Superior epigastric artery.r
+Musculophrenic artery.r
+First posterior intercostal artery.l
+First posterior intercostal artery.r
+Second posterior intercostal artery.l
+Second posterior intercostal artery.r
+Accessory hemi-azygos vein
+Left ascending lumbar vein
+Hemi-azygos vein
+Left subcostal vein
+Azygos vein
+Right ascending lumbar vein
+Right superior phrenic vein
+Right subcostal vein
+Internal thoracic veins.l
+Musculophrenic veins.l
+Internal thoracic veins.r
+Superior epigastric veins.r
+Musculophrenic veins.r
+Superior epigastric veins.l
+Left superior intercostal vein
+Right superior intercostal vein
+Hepatic veins
+Intrarenal veins of right kidney
+Right renal vein
+Intrarenal veins of left kidney
+Left renal vein
+Right testicular vein
+Lateral sacral veins.r
+Lateral sacral veins.l
+Internal pudendal vein.r
+Internal pudendal vein.l
+Deep dorsal vein of penis
+Inferior gluteal veins.r
+Internal iliac vein.r
+Superior gluteal veins.r
+Inferior gluteal veins.l
+Internal iliac vein.l
+Superior gluteal veins.l
+Inferior epigastric vein.r
+Inferior epigastric vein.l
+External iliac vein.r
+External iliac vein.l
+Common iliac vein.l
+Common iliac vein.r
+Iliolumbar vein.r
+Iliolumbar vein.l
+Inferior vena cava (thoracic part)
+Inferior vena cava (abdominal part)
+Lumbar veins.l
+Lumbar veins.r
+Left testicular vein
+Right pulmonary artery
+Right inferior pulmonary vein
+Left inferior pulmonary vein
+Left superior pulmonary vein
+Lingular vein of left lung
+Intercostal nodes.r
+Prevertebral nodes
+Juxta-oesophageal nodes
+Inferior diaphragmatic nodes
+Brachiocephalic nodes
+Node of ligamentum arteriosum
+Node of arch of azygos vein
+Prepericardial nodes
+Lateral pericardial nodes
+Paratracheal thoracic nodes
+Inferior tracheobronchial nodes
+Superior tracheobronchial nodes
+Intrapulmonary nodes
+Intercostal nodes.l
+Parasternal nodes.l
+Superior diaphragmatic nodes
+Left lobe of thymus
+Right lobe of thymus
+Parasternal nodes.r
+Vagus nerve (X).r
+Lateral pectoral nerve.r
+Lateral pectoral nerve.l
+Intercostal nerves.r
+Intercostal nerves.l
+Sympathetic nerves.r
+Ganglia of sympathetic trunk.r
+Sympathetic trunk.r
+Sympathetic nerves.l
+Ganglia of sympathetic trunk.l
+Sympathetic trunk.l
+Oesophagus
+Trachea
+Superior segmental bronchus of right lung (BVI)
+Lateral segmental bronchus of right lung (BIV)
+Right inferior lobar bronchus
+Posterior basal segmental bronchus of right lung (BX)
+Medial basal segmental bronchus of right lung
+Lateral basal segmental bronchus of right lung (BIX)
+Anterior segmental bronchus of right lung (BIII)
+Left superior lobar bronchus
+Apicoposterior segmental bronchus of left lung (BI+BII)
+Anterior segmental bronchus of left lung (BIII)
+Superior lingular segmental bronchus of left lung (BIV)
+Inferior lingular segmental bronchus of left lung (BV)
+Superior segmental bronchus of left lung (BVI)
+Medial basal segmental bronchus of left lung (BVII)
+Anterior basal segmental bronchus of left lung (BVIII)
+Left inferior lobar bronchus
+Lateral basal segmental bronchus of left lung
+Left main bronchus
+Anterior segmental bronchus of right lung (BIII)*
+Apical segmental bronchus of right lung (BI)
+Posterior segmental bronchus of right lung (BII)
+Right superior lobar bronchus
+Right main bronchus
+Superior lobe of right lung
+Middle lobe of right lung
+Inferior lobe of right lung
+Superior lobe of left lung
+Inferior lobe of left lung
+Middle lobar bronchus.r
+Intermediate bronchus.r
+Medial segmental bronchus of right lung (BV)
+Posterior basal segmental bronchus of left lung (BX)
+(Anteromedial basal segmental bronchus of left lung)
+Pleura
+Epigastric region.r
+Epigastric region.l
+Hypochondriac region.r
+Hypochondriac region.l
+Infrascapular region.r
+Interscapular region.r
+Scapular region.r
+Triangle of auscultation.r
+Vertebral region.r
+Infrascapular region.l
+Interscapular region.l
+Scapular region.l
+Triangle of auscultation.l
+Vertebral region.l
+Inframammary region.r
+Mammary region.r
+Pectoral region.r
+Inframammary region.l
+Mammary region.l
+Pectoral region.l
+Presternal region.r
+Presternal region.l
+Lateral region of thorax.r
+Lateral region of thorax.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

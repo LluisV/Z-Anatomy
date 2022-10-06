@@ -1,0 +1,119 @@
+Muscles-2
+Genioglossus muscle.r
+Genioglossus muscle.l
+Palatopharyngeus muscle.r
+Palatopharyngeus muscle.l
+Stylopharyngeus muscle.r
+Stylopharyngeus muscle.l
+Oblique part of cricothyroid muscle.r
+Straight part of cricothyroid muscle.r
+Oblique part of cricothyroid muscle.l
+Straight part of cricothyroid muscle.l
+Obliquus inferior capitis muscle.r
+Obliquus superior capitis muscle.r
+Rectus posterior major capitis muscle.r
+Rectus posterior minor capitis muscle.r
+Obliquus inferior capitis muscle.l
+Obliquus superior capitis muscle.l
+Rectus posterior major capitis muscle.l
+Rectus posterior minor capitis muscle.l
+Semispinalis thoracis muscle.r
+Semispinalis colli muscle.r
+Semispinalis thoracis muscle.l
+Semispinalis colli muscle.l
+Rotatores.l
+Rotatores.r
+Levatores breves costarum.r
+Levatores breves costarum.l
+Diaphragm
+Iliococcygeus muscle.r
+Iliococcygeus muscle.l
+Flexor pollicis longus.r
+Flexor pollicis longus.l
+Ulnar head of extensor carpi ulnaris.r
+Ulnar head of extensor carpi ulnaris.l
+Supinator.r
+Supinator.l
+Extensor indicis.r
+Extensor indicis.l
+Transverse head of adductor pollicis.r
+Transverse head of adductor pollicis.l
+Iliacus muscle.r
+Iliacus muscle.l
+Adductor brevis.r
+Adductor brevis.l
+Medial head of flexor hallucis brevis.r
+Medial head of flexor hallucis brevis.l
+Extensor digitorum brevis.r
+Flexor digiti minimi of foot.r
+Quadratus plantae muscle.r
+Extensor digitorum brevis.l
+Flexor digiti minimi of foot.l
+Quadratus plantae muscle.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

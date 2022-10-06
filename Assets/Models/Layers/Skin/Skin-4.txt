@@ -1,0 +1,43 @@
+Skin-4
+Lateral part of longitudinal arch of foot.r
+Medial part of longitudinal arch of foot.r
+Lateral part of longitudinal arch of foot.l
+Medial part of longitudinal arch of foot.l
+Distal transverse arch of foot.r
+Distal transverse arch of foot.l
+Heel region.r
+Heel region.l
+Hip region.r
+Hip region.l
+Mammary region.r
+Mammary region.l
+Presternal region.r
+Deltopectoral triangle.r
+Presternal region.l
+Deltopectoral triangle.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+Arteries-10
+Ascending pharyngeal artery.r
+Ascending pharyngeal artery.l
+Frontal branch of superficial temporal artery.r
+Frontal branch of superficial temporal artery.l
+Mylohyoid branch of inferior alveolar artery.r
+Mylohyoid branch of inferior alveolar artery.l
+Posterior superior alveolar artery.r
+Posterior superior alveolar artery.l
+?.r
+Long posterior ciliary arteries.r
+Long posterior ciliary arteries.l
+Posterior ethmoidal artery.r
+Posterior ethmoidal artery.l
+Lacrimal artery.r
+Supra-orbital artery.r
+Supratrochlear artery.r
+Lacrimal artery.l
+Supra-orbital artery.l
+Supratrochlear artery.l
+Frontal branches of callosomarginal artery.r
+Frontal branches of callosomarginal artery.l
+Branch to angular gyrus.r
+Temporo-occipital branch.r
+Branch to angular gyrus.l
+Temporo-occipital branch.l
+Lateral frontobasal artery.r
+Lateral frontobasal artery.l
+Lateral occipital artery.r
+Lateral occipital artery.l
+Buccal artery.r
+Buccal artery.l
+Descending palatine artery.r
+Infra-orbital artery.r
+Infra-orbital artery.l
+Greater palatine artery.l
+Greater palatine artery.r
+Descending palatine artery.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

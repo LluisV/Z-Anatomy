@@ -1,0 +1,49 @@
+Bones-4
+Parietal bone.r
+Parietal bone.l
+Ethmoid bone
+Zygomatic bone.r
+Zygomatic bone.l
+Hyoid bone
+Cricoid cartilage
+Clavicle.r
+Clavicle.l
+Humerus.r
+Talus.r
+Talus.l
+Calcaneus.r
+Calcaneus.l
+Navicular bone.r
+Navicular bone.l
+Cuboid bone.r
+Cuboid bone.l
+Intermediate cuneiform bone.r
+Lateral cuneiform bone.r
+Medial cuneiform bone.r
+Intermediate cuneiform bone.l
+Lateral cuneiform bone.l
+Medial cuneiform bone.l
+Capitate bone.r
+Hamate bone.r
+Lunate bone.r
+Pisiform bone.r
+Scaphoid bone.r
+Trapezium bone.r
+Trapezoid bone.r
+Triquetrum bone.r
+Capitate bone.l
+Hamate bone.l
+Lunate bone.l
+Pisiform bone.l
+Scaphoid bone.l
+Trapezium bone.l
+Triquetrum bone.l
+Humerus.l
+Scapula.r
+Scapula.l
+Femur.l
+Femur.r
+
+
+
+

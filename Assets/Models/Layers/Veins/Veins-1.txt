@@ -1,0 +1,59 @@
+Veins-1
+Accessory hemi-azygos vein
+Left ascending lumbar vein
+Hemi-azygos vein
+Azygos vein
+Right ascending lumbar vein
+Right brachiocephalic vein
+Left brachiocephalic vein
+Superior vena cava
+Internal jugular vein.r
+Internal jugular vein.l
+Inferior sagittal sinus.l
+Superior sagittal sinus
+Superior petrosal sinus.r
+Transverse sinus.r
+Superior petrosal sinus.l
+Transverse sinus.l
+Sigmoid sinus.r
+Sigmoid sinus.l
+External jugular vein.r
+External jugular vein.l
+Dorsal venous network of hand.r
+Dorsal venous network of hand.l
+Cephalic vein.r
+Cephalic vein.l
+Basilic vein.r
+Basilic vein.l
+Ulnar veins.r
+Ulnar veins.l
+Brachial veins.r
+Brachial veins.l
+Axillary vein.r
+Axillary vein.l
+Left subclavian vein
+Right subclavian vein
+Internal iliac vein.r
+Internal iliac vein.l
+External iliac vein.r
+External iliac vein.l
+Common iliac vein.l
+Common iliac vein.r
+Inferior vena cava (thoracic part)
+Inferior vena cava (abdominal part)
+Anterior tibial veins.r
+Anterior tibial veins.l
+Lateral plantar veins.r
+Lateral plantar veins.l
+Posterior tibial veins.r
+Medial plantar veins.r
+Posterior tibial veins.l
+Medial plantar veins.l
+Popliteal vein.r
+Popliteal vein.l
+Femoral vein.r
+Femoral vein.l
+Inferior petrosal sinus.r
+Inferior petrosal sinus.l
+Radial veins.l
+Radial veins.r

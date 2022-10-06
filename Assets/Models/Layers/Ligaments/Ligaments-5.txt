@@ -1,0 +1,85 @@
+Ligaments-5
+Stylohyoid ligament.r
+Stylohyoid ligament.l
+Articular capsule of temporomandibular joint.r
+Articular capsule of temporomandibular joint.l
+Quadrangular membrane.r
+Quadrangular membrane.l
+Cricopharyngeal ligament.r
+Cricopharyngeal ligament.l
+Coraco-acromial ligament.r
+Coraco-acromial ligament.l
+Acromioclavicular joint's capsule.r
+Acromioclavicular joint's capsule.l
+Costoclavicular ligament.r
+Costoclavicular ligament.l
+Coracohumeral ligament.r
+Coracohumeral ligament.l
+Palmar metacarpal ligaments.r
+Palmar metacarpal ligaments.l
+Palmar interphalangeal ligaments.r
+Palmar interphalangeal ligaments.l
+Radioscaphocapitate ligament.r
+Ulnopisiform ligament
+Ulnolunate ligament.r
+Radioscaphocapitate ligament.l
+Ulnopisiform ligament.l
+Ulnolunate ligament.l
+Pubic symphysis
+Anterior sacro-iliac ligament.r
+Anterior sacro-iliac ligament.l
+Transverse acetabular ligament.r
+Acetabular labrum.r
+Frenula capsulae.r
+Transverse acetabular ligament.l
+Acetabular labrum.l
+Frenula capsulae.l
+Meniscopatellar ligament.r
+Infrapatellar fat pad.r
+Meniscopatellar ligament.l
+Infrapatellar fat pad.l
+Anterior talofibular ligament.r
+Calcaneofibular ligament.r
+Calcaneofibular ligament.l
+Anterior talofibular ligament.l
+Talocalcaneal interosseous ligament.r
+Anterior talocalcaneal ligament.r
+Talocalcaneal interosseous ligament.l
+Anterior talocalcaneal ligament.l
+Dorsal metatarsal ligaments.r
+Metatarsal interosseous ligaments.r
+Dorsal metatarsal ligaments.l
+Metatarsal interosseous ligaments.l
+Plantar metatarsophalangeal ligaments.r
+Plantar metatarsophalangeal ligaments.l
+Plantar interphalangeal ligaments.r
+Plantar interphalangeal ligaments.l
+Plantar calcaneonavicular ligament.l
+Plantar calcaneonavicular ligament.r
+Anterior meniscotibial ligament (Lateral meniscus).l
+Anterior meniscotibial ligament (Medial meniscus).l
+Posterior meniscotibial ligament (Lateral meniscus).l
+Posterior meniscotibial ligament (Medial meniscus).l
+Anterior meniscotibial ligament (Lateral meniscus).r
+Anterior meniscotibial ligament (Medial meniscus).r
+Posterior meniscotibial ligament (Lateral meniscus).r
+Posterior meniscotibial ligament (Medial meniscus).r
+Medial meniscus.l
+Medial meniscus.r
+Posterior tibiotalar ligament.l
+Posterior tibiotalar ligament.r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

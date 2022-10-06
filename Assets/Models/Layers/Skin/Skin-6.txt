@@ -1,0 +1,43 @@
+Skin-6
+Sacral region.r
+Sacral region.l
+Interscapular region.r
+Interscapular region.l
+Anterior region of elbow.r
+Anterior region of elbow.l
+Palmar surfaces of digits of hand.r
+Palmar surfaces of digits of hand.l
+Dorsum of hand.r
+Dorsum of hand.l
+Deltoid region.r
+Deltoid region.l
+Posterior region of knee.r
+Posterior region of knee.l
+Anterior region of leg.r
+Anterior region of leg.l
+Lateral retromalleolar region.r
+Lateral retromalleolar region.l
+Sole.r
+Sole.l
+Hallucial eminence.r
+Hallucial eminence.l
+Dorsal surfaces of digits of foot.l
+Dorsal surfaces of digits of foot.r
+Dorsum of foot.r
+Dorsum of foot.l
+Pectoral region.r
+Pectoral region.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+

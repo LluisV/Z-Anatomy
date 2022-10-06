@@ -1,0 +1,5998 @@
+Skeletal system.g;0
+Axial skeleton.g;0
+Neurocranium.g;0
+Viscerocranium.g;1
+Facial bones.g;2
+Appendicular skeleton.g;1
+Skeleton of upper limbs.g;0
+Pectoral girdle.g;0
+Skeleton of free upper limb.g;1
+Skeleton of lower limbs.g;1
+Pelvic girdle.g;0
+Skeleton of free lower limb.g;1
+Cranium.g;2
+Bones of cranium.g;0
+Parietal bone.l;0
+Parietal bone.r;1
+Internal surface of parietal bone.t;0
+Groove for middle meningeal artery.t;1
+External surface of parietal bone.t;2
+Superior temporal line.t;3
+Inferior temporal line.t;4
+Parietal eminence.t;5
+Occipital border of parietal bone.t;6
+Squamosal border of parietal bone.t;7
+Sagittal border of parietal bone.t;8
+Frontal border of parietal bone.t;9
+Frontal angle of parietal bone.t;10
+Occipital angle of parietal bone.t;11
+Sphenoidal angle of parietal bone.t;12
+Mastoid angle of parietal bone.t;13
+Parietal foramen.t;14
+External surface of parietal bone.j;15
+Frontal angle of parietal bone.j;16
+Frontal border of parietal bone.j;17
+Groove for middle meningeal artery.j;18
+Inferior temporal line.j;19
+Internal surface of parietal bone.j;20
+Mastoid angle of parietal bone.j;21
+Occipital angle of parietal bone.j;22
+Occipital border of parietal bone.j;23
+Parietal eminence.j;24
+Parietal foramen.j;25
+Sagittal border of parietal bone.j;26
+Sphenoidal angle of parietal bone.j;27
+Squamosal border of parietal bone.j;28
+Superior temporal line.j;29
+Frontal bone;2
+Squamous part of frontal bone.t;0
+External surface of squamous part of frontal bone.t;1
+Frontal eminence.t;2
+Superciliary arch.t;3
+Glabella.t;4
+Frontal part of orbital margin.t;5
+(Supra-orbital notch).t;6
+Temporal surface of frontal bone.t;7
+Parietal margin of frontal bone.t;8
+Temporal line.t;9
+Zygomatic process of frontal bone.t;10
+Internal surface of squamous part of frontal bone.t;11
+Frontal crest.t;12
+Foramen caecum of frontal bone.t;13
+Nasal part of frontal bone.t;14
+Nasal spine of frontal bone.t;15
+Nasal margin of frontal bone.t;16
+Orbital part of frontal bone.t;17
+Orbital plate of frontal bone.t;18
+Orbital surface of frontal bone.t;19
+(Trochlear spine).t;20
+Trochlear fovea.t;21
+Fossa for lacrimal gland.t;22
+Sphenoidal margin of frontal bone.t;23
+Ethmoidal notch.t;24
+Sinus of frontal bone;25
+Septum of frontal sinuses.t;0
+Septum of frontal sinuses.j;1
+Opening of frontal sinus.t;26
+(Supra-orbital notch).j;27
+[Trochlear spine].j;28
+Ethmoidal notch.j;29
+External surface of frontal bone.j;30
+Foramen caecum of frontal bone.j;31
+Fossa for lacrimal gland.j;32
+Frontal crest.j;33
+Frontal eminence.j;34
+Frontal part of orbital margin.j;35
+Glabella.j;36
+Internal surface of squamous part of frontal bone.j;37
+Nasal margin of frontal bone.j;38
+Nasal part of frontal bone.j;39
+Nasal spine of frontal bone.j;40
+Opening of frontal sinus.j;41
+Orbital part of frontal bone.j;42
+Orbital plate of frontal bone.j;43
+Orbital surface of frontal bone.j;44
+Parietal margin of frontal bone.j;45
+Sphenoidal margin of frontal bone.j;46
+Squamous part of frontal bone.j;47
+Supercilliary arch.j;48
+Temporal line.j;49
+Temporal surface of frontal bone.j;50
+Trochlear fovea.j;51
+Zygomatic process of frontal bone.j;52
+Occipital bone;3
+Foramen magnum.t;0
+Basilar part of occipital bone.t;1
+Pharyngeal tubercle.t;2
+Lateral part of occipital bone.t;3
+Occipital condyle.t;4
+Condylar canal.t;5
+Hypoglossal canal.t;6
+Condylar fossa.t;7
+Jugular notch of occipital bone.t;8
+Jugular process.t;9
+Intrajugular process of occipital bone.t;10
+Squamous part of occipital bone.t;11
+Mastoid border of occipital bone.t;12
+External occipital protuberance.t;13
+(External occipital crest).t;14
+Supreme nuchal line.t;15
+Superior nuchal line.t;16
+Inferior nuchal line.t;17
+Occipital plane.t;18
+Cruciform eminence.t;19
+Internal occipital protuberance.t;20
+(Internal occipital crest).t;21
+Groove for transverse sinus.t;22
+Groove for occipital sinus.t;23
+Groove for marginal sinus.t;24
+Cerebral fossa.t;25
+Cerebellar fossa.t;26
+(Vermian fossa).t;27
+(External occipital crest).j;28
+(Internal occipital crest).j;29
+(Vermian fossa).j;30
+Basilar part of occipital bone.j;31
+Cerebellar fossa.j;32
+Cerebral fossa.j;33
+Condylar canal.j;34
+Condylar fossa.j;35
+Cruciform eminence.j;36
+External occipital protuberance.j;37
+Foramen magnum.j;38
+Groove for marginal sinus.j;39
+Groove for occipital sinus.j;40
+Groove for transverse sinus.j;41
+Hypoglossal canal.j;42
+Inferior nuchal line.j;43
+Internal occipital protuberance.j;44
+Intrajugular process of occipital bone.j;45
+Jugular notch of occipital bone.j;46
+Jugular process.j;47
+Lateral part of occipital bone.j;48
+Mastoid border of occipital bone.j;49
+Occipital condyle.j;50
+Occipital plane.j;51
+Pharyngeal tubercle.j;52
+Squamous part of occipital bone.j;53
+Superior nuchal line.j;54
+Supreme nuchal line.j;55
+Sphenoid bone;4
+Body of sphenoid bone.t;0
+Sphenoidal yoke.t;1
+Limbus of sphenoid.t;2
+Chiasmatic sulcus.t;3
+Sella turcica.t;4
+Tuberculum sellae.t;5
+(Middle clinoid process).t;6
+Hypophysial fossa.t;7
+Dorsum sellae.t;8
+Posterior clinoid process.t;9
+Carotid sulcus.t;10
+Sphenoidal lingula.t;11
+Sphenoidal crest.t;12
+Sinus of sphenoid bone;13
+Septum of sphenoidal sinuses.t;0
+Septum of sphenoidal sinuses.j;1
+Lesser wing.t;14
+Optic canal.t;15
+Anterior clinoid process.t;16
+Greater wing.t;17
+Cerebral surface of greater wing.t;18
+Temporal surface of greater wing.t;19
+Infratemporal surface of greater wing.t;20
+Maxillary surface of greater wing.t;21
+Orbital surface of greater wing.t;22
+Zygomatic margin of greater wing.t;23
+Frontal margin of greater wing.t;24
+Parietal margin of greater wing.t;25
+Squamosal margin of greater wing.t;26
+Foramen rotundum.t;27
+Foramen ovale.t;28
+Foramen spinosum.t;29
+Spine of sphenoid bone.t;30
+Sulcus of auditory tube.t;31
+Pterygoid process.t;32
+Lateral pterygoid plate.t;33
+Medial pterygoid plate.t;34
+Pterygoid notch.t;35
+Pterygoid fossa.t;36
+Scaphoid fossa.t;37
+Vaginal process of sphenoid bone.t;38
+Pterygoid hamulus.t;39
+Groove of pterygoid hamulus.t;40
+Pterygoid canal.t;41
+Pterygospinous process.t;42
+(Middle clinoid process).j;43
+Anterior clinoid process.j;44
+Body of sphenoid bone.j;45
+Carotid sulcus.j;46
+Cerebral surface of greater wing.j;47
+Chiasmatic sulcus.j;48
+Dorsum sellae.j;49
+Foramen ovale.j;50
+Foramen rotundum.j;51
+Foramen spinosum.j;52
+Frontal margin of greater wing.j;53
+Greater wing.j;54
+Groove of pterygoid hamulus.j;55
+Hypophysial fossa.j;56
+Infratemporal surface of greater wing.j;57
+Lateral pterygoid plate.j;58
+Lesser wing.j;59
+Limbus of sphenoid.j;60
+Maxillary surface of greater wing.j;61
+Medial pterygoid plate.j;62
+Optic canal.j;63
+Orbital surface of greater wing.j;64
+Parietal margin of greater wing.j;65
+Posterior clinoid process.j;66
+Pterygoid canal.j;67
+Pterygoid fossa.j;68
+Pterygoid hamulus.j;69
+Pterygoid notch.j;70
+Pterygoid process .j;71
+Pterygospinous process.j;72
+Scaphoid fossa.j;73
+Sella turcica.j;74
+Sphenoidal crest.j;75
+Sphenoidal lingula.j;76
+Sphenoidal yoke.j;77
+Spine of sphenoid bone.j;78
+Squamosal margin of greater wing.j;79
+Sulcus of auditory tube.j;80
+Temporal surface of greater wing.j;81
+Tuberculum sellae.j;82
+Vaginal process of sphenoid bone.j;83
+Zygomatic margin of greater wing.j;84
+Temporal bone.l;5
+Petrous part of temporal bone.s;0
+Occipital margin of temporal bone.s;1
+Mastoid process.s;2
+Mastoid notch.s;3
+Apex of petrous part.s;4
+Anterior surface of petrous part.s;5
+Tegmen tympani.s;6
+Arcuate eminence.s;7
+Posterior surface of petrous part.s;8
+Tympanic part of temporal bone.s;9
+Squamous part of temporal bone.s;10
+Styloid process of temporal bone.s;11
+Anterior surface of petrous part.i;12
+Apex of petrous part.i;13
+Arcuate eminence.i;14
+Mastoid notch.i;15
+Mastoid process.i;16
+Occipital margin of temporal bone.i;17
+Petrous part of temporal bone.i;18
+Posterior surface of petrous part.i;19
+Squamous part of temporal bone.i;20
+Styloid process of temporal bone.i;21
+Tegmen tympani.i;22
+Tympanic part of temporal bone.i;23
+Temporal bone.r;6
+Petrous part of temporal bone.t;0
+Occipital margin of temporal bone.t;1
+Mastoid process.t;2
+Mastoid notch.t;3
+Apex of petrous part.t;4
+Anterior surface of petrous part.t;5
+Tegmen tympani.t;6
+Arcuate eminence.t;7
+Posterior surface of petrous part.t;8
+Tympanic part of temporal bone.t;9
+Squamous part of temporal bone.t;10
+Styloid process of temporal bone.t;11
+Anterior surface of petrous part.j;12
+Apex of petrous part.j;13
+Arcuate eminence.j;14
+Mastoid notch.j;15
+Mastoid process.j;16
+Occipital margin of temporal bone.j;17
+Petrous part of temporal bone.j;18
+Posterior surface of petrous part.j;19
+Squamous part of temporal bone.j;20
+Styloid process of temporal bone.j;21
+Tegmen tympani.j;22
+Tympanic part of temporal bone.j;23
+Ethmoid bone;7
+Anterior cells of ethmoid bone.l;0
+Anterior cells of ethmoid bone.r;1
+Middle cells of ethmoid bone.l;2
+Middle cells of ethmoid bone.r;3
+Posterior cells of ethmoid bone.l;4
+Posterior cells of ethmoid bone.r;5
+Inferior nasal concha bone.l;8
+Inferior nasal concha bone.r;9
+Lacrimal bone.l;10
+Lacrimal bone.r;11
+Nasal bone.l;12
+Nasal bone.r;13
+Vomer;14
+Maxilla.l;15
+Maxillary dental arch.s;0
+Maxillary dental arch.i;1
+Maxilla.r;16
+Maxillary dental arch.t;0
+Maxillary dental arch.j;1
+Palatine bone.l;17
+Palatine bone.r;18
+Zygomatic bone.l;19
+Zygomatic bone.r;20
+Extracranial bones of head.g;3
+Mandible;0
+Body of mandible.t;0
+Base of mandible.t;1
+(Mandibular symphysis).t;2
+Gnathion.t;3
+Mental protuberance.t;4
+Mental tubercle.t;5
+Superior mental spine.t;6
+Inferior mental spine.t;7
+Genion.t;8
+Mental foramen.t;9
+Oblique line of mandible.t;10
+Digastric fossa.t;11
+Mylohyoid line.t;12
+Sublingual fossa.t;13
+Mandibular dental arch.t;14
+(Mandibular symphysis).j;15
+Base of mandible.j;16
+Body of mandible.j;17
+Digastric fossa.j;18
+Genion.j;19
+Gnathion.j;20
+Inferior mental spine.j;21
+Mandibular dental arch.j;22
+Mental foramen.j;23
+Mental protuberance.j;24
+Mental tubercle.j;25
+Mylohyoid line.j;26
+Oblique line of mandible.j;27
+Sublingual fossa.j;28
+Superior mental spine.j;29
+Hyoid bone;1
+Body of hyoid bone.t;0
+Lesser horn of hyoid bone.t;1
+Greater horn of hyoid bone.t;2
+Body of hyoid bone.j;3
+Greater horn of hyoid bone.j;4
+Lesser horn of hyoid bone.j;5
+Auditory ossicles.g;4
+Malleus.l;0
+Handle of malleus.s;0
+Head of malleus.s;1
+Articular facet of head of malleus.s;2
+Neck of malleus.s;3
+Lateral process of malleus.s;4
+Anterior process of malleus.s;5
+Anterior process of malleus.i;6
+Articular facet of head of malleus.i;7
+Handle of malleus.i;8
+Head of malleus.i;9
+Lateral process of malleus.i;10
+Neck of malleus.i;11
+Malleus.r;1
+Handle of malleus.t;0
+Head of malleus.t;1
+Articular facet of head of malleus.t;2
+Neck of malleus.t;3
+Lateral process of malleus.t;4
+Anterior process of malleus.t;5
+Anterior process of malleus.j;6
+Articular facet of head of malleus.j;7
+Handle of malleus.j;8
+Head of malleus.j;9
+Lateral process of malleus.j;10
+Neck of malleus.j;11
+Incus.l;2
+Body of incus.s;0
+Articular facet for malleus.s;1
+Long limb of incus.s;2
+Lenticular process of incus.s;3
+Articular facet for stapes.s;4
+Articular facet for malleus.i;5
+Articular facet for stapes.i;6
+Body of incus.i;7
+Lenticular process of incus.i;8
+Long limb of incus.i;9
+Incus.r;3
+Body of incus.t;0
+Articular facet for malleus.t;1
+Long limb of incus.t;2
+Lenticular process of incus.t;3
+Articular facet for stapes.t;4
+Articular facet for malleus.j;5
+Articular facet for stapes.j;6
+Body of incus.j;7
+Lenticular process of incus.j;8
+Long limb of incus.j;9
+Stapes.l;4
+Stapes.s;0
+Articular facet of head of stapes.s;1
+Anterior limb of stapes.s;2
+Posterior limb of stapes.s;3
+Base of stapes.s;4
+Anterior limb of stapes.i;5
+Articular facet of head of stapes.i;6
+Base of stapes.i;7
+Posterior limb of stapes.i;8
+Stapes.i;9
+Stapes.r;5
+Stapes.t;0
+Articular facet of head of stapes.t;1
+Anterior limb of stapes.t;2
+Posterior limb of stapes.t;3
+Base of stapes.t;4
+Anterior limb of stapes.j;5
+Articular facet of head of stapes.j;6
+Base of stapes.j;7
+Posterior limb of stapes.j;8
+Stapes.j;9
+Teeth.g;5
+Anterior teeth.g;0
+Upper medial incisor.l;0
+Upper medial incisor.r;1
+Upper lateral incisor.l;2
+Upper lateral incisor.r;3
+Upper canine.l;4
+Upper canine.r;5
+Lower medial incisor.l;6
+Lower medial incisor.r;7
+Lower lateral incisor.l;8
+Lower lateral incisor.r;9
+Lower canine.l;10
+Lower canine.r;11
+Posterior teeth.g;1
+Upper first premolar.l;0
+Upper first premolar.r;1
+Upper second premolar.l;2
+Upper second premolar.r;3
+Upper first molar tooth.l;4
+Upper first molar tooth.r;5
+Upper second molar tooth.l;6
+Upper second molar tooth.r;7
+Lower first premolar.l;8
+Lower first premolar.r;9
+Lower second premolar.l;10
+Lower second premolar.r;11
+Lower first molar tooth.l;12
+Crown of tooth.s;0
+Occlusal surface of tooth.s;1
+Vestibular surface of tooth.s;2
+Lingual surface of tooth.s;3
+Mesial surface of tooth.s;4
+Distal surface of tooth.s;5
+Cusp of tooth.s;6
+Neck of tooth.s;7
+Root of tooth.s;8
+Crown of tooth.i;9
+Cusp of tooth.i;10
+Distal surface of tooth.i;11
+Lingual surface of tooth.i;12
+Mesial surface of tooth.i;13
+Neck of tooth.i;14
+Occlusal surface of tooth.i;15
+Root of tooth.i;16
+Vestibular surface of tooth.i;17
+Lower first molar tooth.r;13
+Crown of tooth.t;0
+Cusp of tooth.t;1
+Distal surface of tooth.t;2
+Lingual surface of tooth.t;3
+Mesial surface of tooth.t;4
+Neck of tooth.t;5
+Occlusal surface of tooth.t;6
+Root apex.t;7
+Root of tooth.t;8
+Vestibular surface of tooth.t;9
+Crown of tooth.j;10
+Cusp of tooth.j;11
+Distal surface of tooth.j;12
+Lingual surface of tooth.j;13
+Mesial surface of tooth.j;14
+Neck of tooth.j;15
+Occlusal surface of tooth.j;16
+Root apex.i;17
+Root apex.j;18
+Root of tooth.j;19
+Vestibular surface of tooth.j;20
+Lower second molar tooth.l;14
+Lower second molar tooth.r;15
+Nasal cartilages.g;6
+Major alar cartilage.l;0
+Major alar cartilage.r;1
+Nasal septal cartilage;2
+Lateral process of nasal septal cartilage.l;3
+Lateral process of nasal septal cartilage.r;4
+Cartilages of ear.g;7
+Laryngeal cartilages.g;8
+Thyroid cartilage;0
+Laryngeal prominence.t;0
+Superior thyroid notch.t;1
+Inferior thyroid notch.t;2
+Lamina of thyroid cartilage.t;3
+Superior thyroid tubercle.t;4
+Inferior thyroid tubercle.t;5
+Oblique line of thyroid cartilage.t;6
+Superior horn of thyroid cartilage.t;7
+Inferior horn of thyroid cartilage.t;8
+Inferior horn of thyroid cartilage.j;9
+Inferior thyroid notch.j;10
+Inferior thyroid tubercle.j;11
+Lamina of thyroid cartilage.j;12
+Laryngeal prominence.j;13
+Oblique line of thyroid cartilage.j;14
+Superior horn of thyroid cartilage.j;15
+Superior thyroid notch.j;16
+Superior thyroid tubercle.j;17
+Cricoid cartilage;1
+Arch of cricoid cartilage.t;0
+Lamina of cricoid cartilage.t;1
+Arytenoid articular surface.t;2
+Thyroid articular surface.t;3
+Arch of cricoid cartilage.j;4
+Arytenoid articular surface.j;5
+Lamina of cricoid cartilage.j;6
+Thyroid articular surface.j;7
+Arytenoid cartilage.l;2
+Base of arytenoid cartilage.s;0
+Articular surface of arytenoid cartilage.s;1
+Muscular process.s;2
+Anterolateral surface of arytenoid cartilage.s;3
+Arcuate crest.s;4
+Colliculus of arytenoid cartilage.s;5
+Oblong fovea.s;6
+Triangular fovea.s;7
+Medial surface of arytenoid cartilage.s;8
+Posterior surface of arytenoid cartilage.s;9
+Apex of arytenoid cartilage.s;10
+Anterolateral surface of arytenoid cartilage.i;11
+Apex of arytenoid cartilage.i;12
+Arcuate crest.i;13
+Articular surface of arytenoid cartilage.i;14
+Base of arytenoid cartilage.i;15
+Colliculus of arytenoid cartilage.i;16
+Medial surface of arytenoid cartilage.i;17
+Muscular process.i;18
+Oblong fovea.i;19
+Posterior surface of arytenoid cartilage.i;20
+Triangular fovea.i;21
+Arytenoid cartilage.r;3
+Base of arytenoid cartilage.t;0
+Articular surface of arytenoid cartilage.t;1
+Vocal process.t;2
+Muscular process.t;3
+Anterolateral surface of arytenoid cartilage.t;4
+Arcuate crest.t;5
+Colliculus of arytenoid cartilage.t;6
+Oblong fovea.t;7
+Triangular fovea.t;8
+Medial surface of arytenoid cartilage.t;9
+Posterior surface of arytenoid cartilage.t;10
+Apex of arytenoid cartilage.t;11
+Anterolateral surface of arytenoid cartilage.j;12
+Apex of arytenoid cartilage.j;13
+Arcuate crest.j;14
+Articular surface of arytenoid cartilage.j;15
+Base of arytenoid cartilage.j;16
+Colliculus of arytenoid cartilage.j;17
+Medial surface of arytenoid cartilage.j;18
+Muscular process.j;19
+Oblong fovea.j;20
+Posterior surface of arytenoid cartilage.j;21
+Triangular fovea.j;22
+Vocal process.j;23
+Corniculate cartilage.l;4
+Corniculate cartilage.r;5
+Vertebral column.g;9
+Bones of vertebral column.g;0
+Cervical vertebrae.g;1
+Atlas (C1);0
+Atlas (C1).t;0
+Lateral mass.t;1
+Superior articular surface of atlas.t;2
+Inferior articular surface of atlas.t;3
+Transverse ligament tubercle.t;4
+Anterior arch of atlas.t;5
+Facet for dens.t;6
+Anterior tubercle of atlas.t;7
+Posterior arch of atlas.t;8
+Groove for vertebral artery.t;9
+(Canal for vertebral artery).t;10
+Posterior tubercle of atlas.t;11
+(Canal for vertebral artery).j;12
+Anterior arch of atlas.j;13
+Anterior tubercle of atlas.j;14
+Atlas.j;15
+Facet for dens.j;16
+Groove for vertebral artery.j;17
+Inferior articular surface of atlas.j;18
+Lateral mass.j;19
+Posterior arch of atlas.j;20
+Posterior tubercle of atlas.j;21
+Superior articular surface of atlas.j;22
+Transverse ligament tubercle.j;23
+Axis (C2);1
+Axis (C2).t;0
+Dens axis.t;1
+Apex of dens axis.t;2
+Anterior articular facet of dens axis.t;3
+Posterior articular facet of dens axis.t;4
+Anterior articular facet of dens axis.j;5
+Apex of dens axis.j;6
+Axis (C2).j;7
+Dens axis.j;8
+Posterior articular facet of dens axis.j;9
+Vertebra C3;2
+Vertebra C4;3
+Cervical vertebra.t;0
+Uncinate process of vertebra.t;1
+Foramen transversarium.t;2
+Anterior tubercle of transverse process.t;3
+Posterior tubercle of transverse process.t;4
+Groove for spinal nerve.t;5
+Anterior tubercle of transverse process.j;6
+Cervical vertebra.j;7
+Foramen transversarium.j;8
+Groove for spinal nerve.j;9
+Posterior tubercle of transverse process.j;10
+Uncinate process of vertebra.j;11
+Vertebra C5;4
+Vertebra C6;5
+Vertebra C7;6
+Thoracic vertebrae.g;2
+Vertebra T1;0
+Uncinate process of first thoracic vertebra.t;0
+Uncinate process of first thoracic vertebra.j;1
+Vertebra T2;1
+Vertebra T3;2
+Vertebra T4;3
+Vertebra T5;4
+Vertebra T6;5
+Vertebra T7;6
+Vertebra T8;7
+Thoracic vertebra.t;0
+Superior costal facet.t;1
+Inferior costal facet.t;2
+Transverse costal facet.t;3
+Inferior costal facet.j;4
+Superior costal facet.j;5
+Thoracic vertebra.j;6
+Transverse costal facet.j;7
+Vertebra T9;8
+Vertebra T10;9
+Vertebra T11;10
+Vertebra T12;11
+Lumbar vertebrae.g;3
+Vertebra L1;0
+Vertebra L2;1
+Vertebra L3;2
+Vertebra.t;0
+Vertebral body.t;1
+Intervertebral surface.t;2
+Annular epiphysis.t;3
+Vertebral arch.t;4
+Pedicle of vertebral arch.t;5
+Lamina of vertebral arch.t;6
+Pars interarticularis of vertebral arch.t;7
+Intervertebral foramen.t;8
+Superior vertebral notch.t;9
+Inferior vertebral notch.t;10
+Vertebral foramen.t;11
+Spinous process.t;12
+Transverse process.t;13
+Lateral part of transverse process.t;14
+Costal part of transverse process.t;15
+Superior articular process of vertebra.t;16
+Superior articular facet of vertebra.t;17
+Inferior articular facet of vertebra.t;18
+Annular epiphysis.j;19
+Costal part of transverse process.j;20
+Inferior articular facet of vertebra.j;21
+Inferior vertebral notch.j;22
+Intervertebral foramen.j;23
+Intervertebral surface.j;24
+Lamina of vertebral arch.j;25
+Lateral part of transverse process.j;26
+Pars interarticularis of vertebral arch.j;27
+Pedicle of vertebral arch.j;28
+Spinous process.j;29
+Superior articular facet of vertebra.j;30
+Superior articular process of vertebra.j;31
+Superior vertebral notch.j;32
+Transverse process.j;33
+Vertebra.j;34
+Vertebral arch.j;35
+Vertebral body.j;36
+Vertebral foramen.j;37
+Vertebra L4;3
+Vertebra L5;4
+Sacrum;4
+Sacrum.t;0
+Base of sacrum.t;1
+Promontory.t;2
+Ala of sacrum.t;3
+Superior articular process of sacrum.t;4
+Lateral part of sacrum.t;5
+Auricular surface of sacrum.t;6
+Sacral tuberosity.t;7
+Pelvic surface of sacrum.t;8
+Transverse ridges.t;9
+Intervertebral foramina.t;10
+Anterior sacral foramina.t;11
+Dorsal surface of sacrum.t;12
+Median sacral crest.t;13
+Posterior sacral foramina.t;14
+Intermediate sacral crest.t;15
+Lateral sacral crest.t;16
+Sacral horn.t;17
+Sacral canal.t;18
+Sacral hiatus.t;19
+Apex of sacrum.t;20
+Ala of sacrum.j;21
+Anterior sacral foramina.j;22
+Apex of sacrum.j;23
+Auricular surface of sacrum.j;24
+Base of sacrum.j;25
+Dorsal surface of sacrum.j;26
+Intermediate sacral crest.j;27
+Intervertebral foramina.j;28
+Lateral part of sacrum.j;29
+Lateral sacral crest.j;30
+Median sacral crest.j;31
+Pelvic surface of sacrum.j;32
+Posterior sacral foramina.j;33
+Promontory.j;34
+Sacral canal.j;35
+Sacral hiatus.j;36
+Sacral horn.j;37
+Sacral tuberosity.j;38
+Sacrum.j;39
+Superior articular process of sacrum.j;40
+Transverse ridges.j;41
+Coccyx;5
+Coccyx.t;0
+Base of coccyx.t;1
+Coccygeal horn.t;2
+Apex of coccyx.t;3
+Apex of coccyx.j;4
+Base of coccyx.j;5
+Coccygeal horn.j;6
+Coccyx.j;7
+Thoracic skeleton.g;10
+Cavity of bony thorax.g;0
+Superior thoracic aperture.g;1
+Inferior thoracic aperture.g;2
+Costal arch.g;3
+Intercostal space.g;4
+Infrasternal angle.g;5
+Bones of thorax.g;6
+Ribs.g;0
+True ribs.g;0
+First rib.l;0
+First rib.r;1
+Second rib.l;2
+Second rib.r;3
+Third rib.l;4
+Third rib.r;5
+Fourth rib.l;6
+Fourth rib.r;7
+Fifth rib.l;8
+Fifth rib.r;9
+Sixth rib.l;10
+Rib.s;0
+Head of rib.s;1
+Articular facet of tubercle of rib.s;2
+Crest of head of rib.s;3
+Neck of rib.s;4
+Crest of neck of rib.s;5
+Body of rib.s;6
+Tubercle of rib.s;7
+Articular facets of head of rib.s;8
+Angle of rib.s;9
+Costal groove.s;10
+Angle of rib.i;11
+Articular facet of tubercle of rib.i;12
+Articular facets of head of rib.i;13
+Body of rib.i;14
+Costal groove.i;15
+Crest of head of rib.i;16
+Crest of neck of rib.i;17
+Head of rib.i;18
+Neck of rib.i;19
+Rib.i;20
+Tubercle of rib.i;21
+Sixth rib.r;11
+Angle of rib.t;0
+Articular facet of tubercle of rib.t;1
+Articular facets of head of rib.t;2
+Body of rib.t;3
+Costal groove.t;4
+Crest of head of rib.t;5
+Crest of neck of rib.t;6
+Head of rib.t;7
+Neck of rib.t;8
+Rib.t;9
+Tubercle of rib.t;10
+Angle of rib.j;11
+Articular facet of tubercle of rib.j;12
+Articular facets of head of rib.j;13
+Body of rib.j;14
+Costal groove.j;15
+Crest of head of rib.j;16
+Crest of neck of rib.j;17
+Head of rib.j;18
+Neck of rib.j;19
+Rib.j;20
+Tubercle of rib.j;21
+Seventh rib.l;12
+Seventh rib.r;13
+False ribs.g;1
+Eighth rib.l;0
+Eighth rib.r;1
+Ninth rib.l;2
+Ninth rib.r;3
+Tenth rib.l;4
+Tenth rib.r;5
+Floating ribs.g;6
+Eleventh rib.l;0
+Eleventh rib.r;1
+Twelfth rib.l;2
+Twelfth rib.r;3
+Sternum.g;1
+Manubrium of sternum;0
+Manubrium of sternum.t;0
+Clavicular notch.t;1
+Clavicular notch.j;2
+Manubrium of sternum.j;3
+Body of sternum;1
+Sternum.t;0
+Sternal angle.t;1
+Costal notches.t;2
+Costal notches.j;3
+Sternal angle.j;4
+Xiphoid process;2
+Xiphoid process.t;0
+Xiphoid process.j;1
+Costal cartilages.g;7
+Costal cartilage of first rib.l;0
+Costal cartilage of first rib.r;1
+Costal cartilage of second rib.l;2
+Costal cartilage of second rib.r;3
+Costal cartilage of third rib.l;4
+Costal cartilage of third rib.r;5
+Costal cartilage of fourth rib.l;6
+Costal cartilage of fourth rib.r;7
+Costal cartilage of fifth rib.l;8
+Costal cartilage of fifth rib.r;9
+Costal cartilage of sixth rib.l;10
+Costal cartilage of sixth rib.r;11
+Costal cartilage of seventh rib.l;12
+Costal cartilage of seventh rib.r;13
+Costal cartilage of eighth rib.l;14
+Costal cartilage of eighth rib.r;15
+Costal cartilage of ninth rib.l;16
+Costal cartilage of ninth rib.r;17
+Costal cartilage of tenth rib.l;18
+Costal cartilage of tenth rib.r;19
+Bones of upper limb.g;11
+Bones of pectoral girdle.g;0
+Scapula.l;0
+Scapula.s;0
+Costal surface of scapula.s;1
+Subscapular fossa.s;2
+Posterior surface of scapula.s;3
+Spine of scapula.s;4
+Deltoid tubercle.s;5
+Spinoglenoid notch.s;6
+Supraspinous fossa.s;7
+Infraspinous fossa.s;8
+Acromion.s;9
+Clavicular facet.s;10
+Acromial angle.s;11
+Medial border of scapula.s;12
+Superior angle of scapula.s;13
+Superior border of scapula.s;14
+Scapular notch.s;15
+Coracoid process.s;16
+Lateral angle of scapula.s;17
+Glenoid process of scapula.s;18
+Glenoid fossa.s;19
+Supraglenoid tubercle.s;20
+Infraglenoid tubercle.s;21
+Neck of scapula.s;22
+Lateral border of scapula.s;23
+Inferior angle of scapula.s;24
+Acromial angle.i;25
+Acromion.i;26
+Clavicular facet.i;27
+Coracoid process.i;28
+Costal surface of scapula.i;29
+Deltoid tubercle.i;30
+Glenoid fossa.i;31
+Glenoid process of scapula.i;32
+Inferior angle of scapula.i;33
+Infraglenoid tubercle.i;34
+Infraspinous fossa.i;35
+Lateral angle of scapula.i;36
+Lateral border of scapula.i;37
+Medial border of scapula.i;38
+Neck of scapula.i;39
+Posterior surface of scapula.i;40
+Scapula.i;41
+Scapular notch.i;42
+Spine of scapula.i;43
+Spinoglenoid notch.i;44
+Subscapular fossa.i;45
+Superior angle of scapula.i;46
+Superior border of scapula.i;47
+Supraglenoid tubercle.i;48
+Supraspinous fossa.i;49
+Scapula.r;1
+Scapula.t;0
+Costal surface of scapula.t;1
+Subscapular fossa.t;2
+Posterior surface of scapula.t;3
+Spine of scapula.t;4
+Deltoid tubercle.t;5
+Spinoglenoid notch.t;6
+Supraspinous fossa.t;7
+Infraspinous fossa.t;8
+Acromion.t;9
+Clavicular facet.t;10
+Acromial angle.t;11
+Medial border of scapula.t;12
+Superior angle of scapula.t;13
+Superior border of scapula.t;14
+Scapular notch.t;15
+Coracoid process.t;16
+Lateral angle of scapula.t;17
+Glenoid process of scapula.t;18
+Glenoid fossa.t;19
+Supraglenoid tubercle.t;20
+Infraglenoid tubercle.t;21
+Neck of scapula.t;22
+Inferior angle of scapula.t;23
+Acromial angle.j;24
+Acromion.j;25
+Clavicular facet.j;26
+Coracoid process.j;27
+Costal surface of scapula.j;28
+Deltoid tubercle.j;29
+Glenoid fossa.j;30
+Glenoid process of scapula.j;31
+Inferior angle of scapula.j;32
+Infraglenoid tubercle.j;33
+Infraspinous fossa.j;34
+Lateral angle of scapula.j;35
+Lateral border of scapula.j;36
+Medial border of scapula.j;37
+Neck of scapula.j;38
+Posterior surface of scapula.j;39
+Scapula.j;40
+Scapular notch.j;41
+Spine of scapula.j;42
+Spinoglenoid notch.j;43
+Subscapular fossa.j;44
+Superior angle of scapula.j;45
+Superior border of scapula.j;46
+Supraglenoid tubercle.j;47
+Supraspinous fossa.j;48
+Lateral border of scapula.t;49
+Clavicle.l;2
+Acromial end.s;0
+Acromial facet.s;1
+Body of clavicle.s;2
+Conoid tubercle.s;3
+Groove for subclavius muscle.s;4
+Impression for costoclavicular ligament.s;5
+Sternal articular surface.s;6
+Sternal end.s;7
+Trapezoid line.s;8
+Tuberosity for coracoclavicular ligament.s;9
+Acromial end.i;10
+Acromial facet.i;11
+Body of clavicle.i;12
+Conoid tubercle.i;13
+Groove for subclavius muscle.i;14
+Impression for costoclavicular ligament.i;15
+Sternal articular surface.i;16
+Sternal end.i;17
+Trapezoid line.i;18
+Tuberosity for coracoclavicular ligament.i;19
+Clavicle.r;3
+Acromial end.t;0
+Acromial facet.t;1
+Body of clavicle.t;2
+Conoid tubercle.t;3
+Groove for subclavius muscle.t;4
+Impression for costoclavicular ligament.t;5
+Sternal articular surface.t;6
+Sternal end.t;7
+Trapezoid line.t;8
+Tuberosity for coracoclavicular ligament.t;9
+Acromial end.j;10
+Acromial facet.j;11
+Body of clavicle.j;12
+Conoid tubercle.j;13
+Groove for subclavius muscle.j;14
+Impression for costoclavicular ligament.j;15
+Sternal articular surface.j;16
+Sternal end.j;17
+Trapezoid line.j;18
+Tuberosity for coracoclavicular ligament.j;19
+Bones of free part of upper limb.g;1
+Humerus.l;0
+Humerus.s;0
+Head of humerus.s;1
+Anatomical neck of humerus.s;2
+Surgical neck of humerus.s;3
+Greater tubercle.s;4
+Lesser tubercle.s;5
+Intertubercular sulcus.s;6
+Crest of greater tubercle.s;7
+Crest of lesser tubercle.s;8
+Body of humerus.s;9
+Anteromedial surface of humerus.s;10
+Anterior border of humerus.s;11
+Anterolateral surface of humerus.s;12
+Deltoid tuberosity.s;13
+Lateral border of humerus.s;14
+Lateral supracondylar ridge.s;15
+Posterior surface of humerus.s;16
+Radial groove.s;17
+Medial border of humerus.s;18
+Medial supracondylar ridge.s;19
+Condyle of humerus.s;20
+Capitulum of humerus.s;21
+Trochlea of humerus.s;22
+Olecranon fossa.s;23
+Coronoid fossa.s;24
+Radial fossa.s;25
+Medial epicondyle of humerus.s;26
+Groove for ulnar nerve.s;27
+Lateral epicondyle of humerus.s;28
+Anatomical neck of humerus.i;29
+Anterior border of humerus.i;30
+Anterolateral surface of humerus.i;31
+Anteromedial surface of humerus.i;32
+Body of humerus.i;33
+Capitulum of humerus.i;34
+Condyle of humerus.i;35
+Coronoid fossa.i;36
+Crest of greater tubercle.i;37
+Crest of lesser tubercle.i;38
+Deltoid tuberosity.i;39
+Greater tubercle.i;40
+Groove for ulnar nerve.i;41
+Head of humerus.i;42
+Humerus.i;43
+Intertubercular sulcus.i;44
+Lateral border of humerus.i;45
+Lateral epicondyle of humerus.i;46
+Lateral supracondylar ridge.i;47
+Lesser tubercle.i;48
+Medial border of humerus.i;49
+Medial epicondyle of humerus.i;50
+Medial supracondylar ridge.i;51
+Olecranon fossa.i;52
+Posterior surface of humerus.i;53
+Radial fossa.i;54
+Radial groove.i;55
+Surgical neck of humerus.i;56
+Trochlea of humerus.i;57
+Humerus.r;1
+Humerus.t;0
+Head of humerus.t;1
+Anatomical neck of humerus.t;2
+Surgical neck of humerus.t;3
+Greater tubercle.t;4
+Lesser tubercle.t;5
+Intertubercular sulcus.t;6
+Crest of greater tubercle.t;7
+Crest of lesser tubercle.t;8
+Body of humerus.t;9
+Anteromedial surface of humerus.t;10
+Anterior border of humerus.t;11
+Anterolateral surface of humerus.t;12
+Deltoid tuberosity.t;13
+Lateral border of humerus.t;14
+Lateral supracondylar ridge.t;15
+Posterior surface of humerus.t;16
+Radial groove.t;17
+Medial border of humerus.t;18
+Medial supracondylar ridge.t;19
+Condyle of humerus.t;20
+Capitulum of humerus.t;21
+Trochlea of humerus.t;22
+Olecranon fossa.t;23
+Coronoid fossa.t;24
+Radial fossa.t;25
+Medial epicondyle of humerus.t;26
+Groove for ulnar nerve.t;27
+Lateral epicondyle of humerus.t;28
+Anatomical neck of humerus.j;29
+Anterior border of humerus.j;30
+Anterolateral surface of humerus.j;31
+Anteromedial surface of humerus.j;32
+Body of humerus.j;33
+Capitulum of humerus.j;34
+Condyle of humerus.j;35
+Coronoid fossa.j;36
+Crest of greater tubercle.j;37
+Crest of lesser tubercle.j;38
+Deltoid tuberosity.j;39
+Greater tubercle.j;40
+Groove for ulnar nerve.j;41
+Head of humerus.j;42
+Humerus.j;43
+Intertubercular sulcus.j;44
+Lateral border of humerus.j;45
+Lateral epicondyle of humerus.j;46
+Lateral supracondylar ridge.j;47
+Lesser tubercle.j;48
+Medial border of humerus.j;49
+Medial epicondyle of humerus.j;50
+Medial supracondylar ridge.j;51
+Olecranon fossa.j;52
+Posterior surface of humerus.j;53
+Radial fossa.j;54
+Radial groove.j;55
+Surgical neck of humerus.j;56
+Trochlea of humerus.j;57
+Radius.l;2
+Radius.s;0
+Head of radius.s;1
+Articular facet of head of radius.s;2
+Articular circumference of head of radius.s;3
+Neck of radius.s;4
+Body of radius.s;5
+Radial tuberosity.s;6
+Anterior surface of radius.s;7
+Interosseous border of radius.s;8
+Posterior surface of radius.s;9
+Posterior border of radius.s;10
+Lateral surface of radius.s;11
+Pronator tuberosity.s;12
+Anterior border of radius.s;13
+Suprastyloid crest.s;14
+Radial styloid process.s;15
+Dorsal radial tubercle.s;16
+Grooves for extensor tendons.s;17
+Ulnar notch.s;18
+Carpal articular surface.s;19
+Anterior border of radius.i;20
+Anterior surface of radius.i;21
+Articular circumference of head of radius.i;22
+Articular facet of head of radius.i;23
+Body of radius.i;24
+Carpal articular surface.i;25
+Dorsal radial tubercle.i;26
+Grooves for extensor tendons.i;27
+Head of radius.i;28
+Interosseous border of radius.i;29
+Lateral surface of radius.i;30
+Neck of radius.i;31
+Posterior border of radius.i;32
+Posterior surface of radius.i;33
+Pronator tuberosity.i;34
+Radial styloid process.i;35
+Radial tuberosity.i;36
+Radius.i;37
+Suprastyloid crest.i;38
+Ulnar notch.i;39
+Radius.r;3
+Radius.t;0
+Head of radius.t;1
+Articular facet of head of radius.t;2
+Articular circumference of head of radius.t;3
+Neck of radius.t;4
+Body of radius.t;5
+Radial tuberosity.t;6
+Anterior surface of radius.t;7
+Interosseous border of radius.t;8
+Posterior surface of radius.t;9
+Posterior border of radius.t;10
+Lateral surface of radius.t;11
+Pronator tuberosity.t;12
+Anterior border of radius.t;13
+Suprastyloid crest.t;14
+Radial styloid process.t;15
+Dorsal radial tubercle.t;16
+Grooves for extensor tendons.t;17
+Ulnar notch.t;18
+Carpal articular surface.t;19
+Anterior border of radius.j;20
+Anterior surface of radius.j;21
+Articular circumference of head of radius.j;22
+Articular facet of head of radius.j;23
+Body of radius.j;24
+Carpal articular surface.j;25
+Dorsal radial tubercle.j;26
+Grooves for extensor tendons.j;27
+Head of radius.j;28
+Interosseous border of radius.j;29
+Lateral surface of radius.j;30
+Neck of radius.j;31
+Posterior border of radius.j;32
+Posterior surface of radius.j;33
+Pronator tuberosity.j;34
+Radial styloid process.j;35
+Radial tuberosity.j;36
+Radius.j;37
+Suprastyloid crest.j;38
+Ulnar notch.j;39
+Ulna.l;4
+Ulna.s;0
+Olecranon.s;1
+Coronoid process of ulna.s;2
+Tuberosity of ulna.s;3
+Radial notch.s;4
+Trochlear notch.s;5
+Sublime tubercle.s;6
+Body of ulna.s;7
+Supinator crest.s;8
+Interosseous border of ulna.s;9
+Posterior surface of ulna.s;10
+Posterior border of ulna.s;11
+Medial surface of ulna.s;12
+Anterior border of ulna.s;13
+Head of ulna.s;14
+Articular circumference of head of ulna.s;15
+Ulnar styloid process.s;16
+Anterior border of ulna.i;17
+Articular circumference of head of ulna.i;18
+Body of ulna.i;19
+Coronoid process of ulna.i;20
+Head of ulna.i;21
+Interosseous border of ulna.i;22
+Medial surface of ulna.i;23
+Olecranon.i;24
+Posterior border of ulna.i;25
+Posterior surface of ulna.i;26
+Radial notch.i;27
+Sublime tubercle.i;28
+Supinator crest.i;29
+Trochlear notch.i;30
+Tuberosity of ulna.i;31
+Ulna.i;32
+Ulnar styloid process.i;33
+Ulna.r;5
+Ulna.t;0
+Olecranon.t;1
+Coronoid process of ulna.t;2
+Tuberosity of ulna.t;3
+Radial notch.t;4
+Trochlear notch.t;5
+Sublime tubercle.t;6
+Body of ulna.t;7
+Supinator crest.t;8
+Interosseous border of ulna.t;9
+Posterior surface of ulna.t;10
+Posterior border of ulna.t;11
+Medial surface of ulna.t;12
+Anterior border of ulna.t;13
+Head of ulna.t;14
+Articular circumference of head of ulna.t;15
+Ulnar styloid process.t;16
+Anterior border of ulna.j;17
+Articular circumference of head of ulna.j;18
+Body of ulna.j;19
+Coronoid process of ulna.j;20
+Head of ulna.j;21
+Interosseous border of ulna.j;22
+Medial surface of ulna.j;23
+Olecranon.j;24
+Posterior border of ulna.j;25
+Posterior surface of ulna.j;26
+Radial notch.j;27
+Sublime tubercle.j;28
+Supinator crest.j;29
+Trochlear notch.j;30
+Tuberosity of ulna.j;31
+Ulna.j;32
+Ulnar styloid process.j;33
+Bones of hand.g;6
+Capitate bone.l;7
+Capitate bone.r;8
+Carpal bones.g;9
+Distal phalanx of fifth finger of hand.l;10
+Distal phalanx of fifth finger of hand.r;11
+Distal phalanx of first finger of hand.l;12
+Distal phalanx of first finger of hand.r;13
+Distal phalanx of fourth finger of hand.l;14
+Distal phalanx of fourth finger of hand.r;15
+Distal phalanx of second finger of hand.l;16
+Distal phalanx of second finger of hand.r;17
+Distal phalanx of third finger of hand.l;18
+Tuberosity of distal phalanx of hand.s;0
+Tuberosity of distal phalanx of hand.i;1
+Distal phalanx of third finger of hand.r;19
+Tuberosity of distal phalanx of hand.t;0
+Tuberosity of distal phalanx of hand.j;1
+Fifth metacarpal bone.l;20
+Fifth metacarpal bone.r;21
+First metacarpal bone.l;22
+First metacarpal bone.r;23
+Fourth metacarpal bone.l;24
+Fourth metacarpal bone.r;25
+Hamate bone.l;26
+Hook of hamate bone.s;0
+Hook of hamate bone.i;1
+Hamate bone.r;27
+Hook of hamate bone.t;0
+Hook of hamate bone.j;1
+Lunate bone.l;28
+Lunate bone.r;29
+Metacarpal bones.g;30
+Middle phalanx of fifth finger of hand.l;31
+Middle phalanx of fifth finger of hand.r;32
+Middle phalanx of fourth finger of hand.l;33
+Middle phalanx of fourth finger of hand.r;34
+Middle phalanx of second finger of hand.l;35
+Middle phalanx of second finger of hand.r;36
+Middle phalanx of third finger of hand.l;37
+Middle phalanx of third finger of hand.r;38
+Phalanges of hand.g;39
+Pisiform bone.l;40
+Pisiform bone.r;41
+Proximal phalanx of fifth finger of hand.l;42
+Proximal phalanx of fifth finger of hand.r;43
+Proximal phalanx of first finger of hand.l;44
+Proximal phalanx of first finger of hand.r;45
+Proximal phalanx of fourth finger of hand.l;46
+Proximal phalanx of fourth finger of hand.r;47
+Proximal phalanx of second finger of hand.l;48
+Proximal phalanx of second finger of hand.r;49
+Proximal phalanx of third finger of hand.l;50
+Base of phalanx of hand.s;0
+Body of phalanx of hand.s;1
+Head of phalanx of hand.s;2
+Trochlea of phalanx of hand.s;3
+Base of phalanx of hand.i;4
+Body of phalanx of hand.i;5
+Head of phalanx of hand.i;6
+Trochlea of phalanx of hand.i;7
+Proximal phalanx of third finger of hand.r;51
+Base of phalanx of hand.t;0
+Body of phalanx of hand.t;1
+Head of phalanx of hand.t;2
+Trochlea of phalanx of hand.t;3
+Base of phalanx of hand.j;4
+Body of phalanx of hand.j;5
+Head of phalanx of hand.j;6
+Trochlea of phalanx of hand.j;7
+Scaphoid bone.l;52
+Tubercle of scaphoid bone.s;0
+Tubercle of scaphoid bone.i;1
+Scaphoid bone.r;53
+Tubercle of scaphoid bone.t;0
+Tubercle of scaphoid bone.j;1
+Second metacarpal bone.l;54
+Second metacarpal bone.r;55
+Third metacarpal bone.l;56
+Body of metacarpal bone.s;0
+Head of metacarpal bone.s;1
+Metacarpal base.s;2
+Styloid process of third metacarpal bone.s;3
+Body of metacarpal bone.i;4
+Head of metacarpal bone.i;5
+Metacarpal base.i;6
+Styloid process of third metacarpal bone.i;7
+Third metacarpal bone.r;57
+Body of metacarpal bone.t;0
+Head of metacarpal bone.t;1
+Metacarpal base.t;2
+Styloid process of third metacarpal bone.t;3
+Body of metacarpal bone.j;4
+Head of metacarpal bone.j;5
+Metacarpal base.j;6
+Styloid process of third metacarpal bone.j;7
+Trapezium bone.l;58
+Trapezium bone.r;59
+Tubercle of trapezium bone.t;0
+Tubercle of trapezium bone.j;1
+Trapezoid bone.l;60
+Trapezoid bone.r;61
+Triquetrum bone.l;62
+Triquetrum bone.r;63
+Bony pelvis.g;12
+Pubic arch.g;0
+Subpubic angle.g;1
+Greater pelvis.g;2
+Lesser pelvis.g;3
+Linea terminalis.g;4
+Pelvic inlet.g;5
+Pelvic outlet.g;6
+Pelvic cavity.g;7
+Bones of lower limb.g;13
+Bones of pelvic girdle.g;0
+Hip bone.l;0
+Hip bone.s;0
+Acetabulum.s;1
+Acetabular margin.s;2
+Acetabular fossa.s;3
+Acetabular notch.s;4
+Lunate surface.s;5
+Ischiopubic ramus.s;6
+Obturator foramen.s;7
+Greater sciatic notch.s;8
+Greater sciatic foramen.s;9
+Ilium.s;10
+Body of ilium.s;11
+Supraacetabular groove.s;12
+Arcuate line of ilium.s;13
+Ala of ilium.s;14
+Iliac crest.s;15
+Outer lip of iliac crest.s;16
+Iliac tubercle.s;17
+Intermediate zone.s;18
+Inner lip of iliac crest.s;19
+Anterior superior iliac spine.s;20
+Anterior inferior iliac spine.s;21
+Posterior superior iliac spine.s;22
+Posterior inferior iliac spine.s;23
+Iliac fossa.s;24
+Gluteal surface of ilium.s;25
+Anterior gluteal line.s;26
+Posterior gluteal line.s;27
+Inferior gluteal line.s;28
+Sacropelvic surface of ilium.s;29
+Auricular surface of ilium.s;30
+Iliac tuberosity.s;31
+Ischium.s;32
+Body of ischium.s;33
+Ramus of ischium.s;34
+Ischial tuberosity.s;35
+Ischial spine.s;36
+Lesser sciatic notch.s;37
+Lesser sciatic foramen.s;38
+Pubis.s;39
+Body of pubis.s;40
+Pubic tubercle.s;41
+Symphyseal surface of pubis.s;42
+Pubic crest.s;43
+Superior pubic ramus.s;44
+Obturator groove.s;45
+Iliopubic eminence.s;46
+Pecten pubis.s;47
+Obturator crest.s;48
+Anterior obturator tubercle.s;49
+(Posterior obturator tubercle).s;50
+Inferior pubic ramus.s;51
+(Posterior obturator tubercle).i;52
+Acetabular fossa.i;53
+Acetabular margin.i;54
+Acetabular notch.i;55
+Acetabulum.i;56
+Ala of ilium.i;57
+Anterior gluteal line.i;58
+Anterior inferior iliac spine.i;59
+Anterior obturator tubercle.i;60
+Anterior superior iliac spine.i;61
+Arcuate line of ilium.i;62
+Auricular surface of ilium.i;63
+Body of ilium.i;64
+Body of ischium.i;65
+Body of pubis.i;66
+Gluteal surface of ilium.i;67
+Greater sciatic foramen.i;68
+Greater sciatic notch.i;69
+Hip bone.i;70
+Iliac crest.i;71
+Iliac fossa.i;72
+Iliac tubercle.i;73
+Iliac tuberosity.i;74
+Iliopubic eminence.i;75
+Ilium.i;76
+Inferior gluteal line.i;77
+Inferior pubic ramus.i;78
+Inner lip of iliac crest.i;79
+Intermediate zone.i;80
+Ischial spine.i;81
+Ischial tuberosity.i;82
+Ischiopubic ramus.i;83
+Ischium.i;84
+Lesser sciatic foramen.i;85
+Lesser sciatic notch.i;86
+Lunate surface.i;87
+Obturator crest.i;88
+Obturator foramen.i;89
+Obturator groove.i;90
+Outer lip of iliac crest.i;91
+Pecten pubis.i;92
+Posterior gluteal line.i;93
+Posterior inferior iliac spine.i;94
+Posterior superior iliac spine.i;95
+Pubic crest.i;96
+Pubic tubercle.i;97
+Pubis.i;98
+Ramus of ischium.i;99
+Sacropelvic surface of ilium.i;100
+Superior pubic ramus.i;101
+Supraacetabular groove.i;102
+Symphyseal surface of pubis.i;103
+Hip bone.r;1
+Hip bone.t;0
+Acetabulum.t;1
+Acetabular margin.t;2
+Acetabular fossa.t;3
+Acetabular notch.t;4
+Lunate surface.t;5
+Ischiopubic ramus.t;6
+Obturator foramen.t;7
+Greater sciatic notch.t;8
+Greater sciatic foramen.t;9
+Ilium.t;10
+Body of ilium.t;11
+Supraacetabular groove.t;12
+Arcuate line of ilium.t;13
+Ala of ilium.t;14
+Iliac crest.t;15
+Outer lip of iliac crest.t;16
+Iliac tubercle.t;17
+Intermediate zone.t;18
+Inner lip of iliac crest.t;19
+Anterior superior iliac spine.t;20
+Anterior inferior iliac spine.t;21
+Posterior superior iliac spine.t;22
+Posterior inferior iliac spine.t;23
+Iliac fossa.t;24
+Gluteal surface of ilium.t;25
+Anterior gluteal line.t;26
+Posterior gluteal line.t;27
+Inferior gluteal line.t;28
+Sacropelvic surface of ilium.t;29
+Auricular surface of ilium.t;30
+Iliac tuberosity.t;31
+Ischium.t;32
+Body of ischium.t;33
+Ramus of ischium.t;34
+Ischial tuberosity.t;35
+Ischial spine.t;36
+Lesser sciatic notch.t;37
+Lesser sciatic foramen.t;38
+Pubis.t;39
+Body of pubis.t;40
+Pubic tubercle.t;41
+Symphyseal surface of pubis.t;42
+Pubic crest.t;43
+Superior pubic ramus.t;44
+Iliopubic eminence.t;45
+Pecten pubis.t;46
+Obturator crest.t;47
+Obturator groove.t;48
+Anterior obturator tubercle.t;49
+(Posterior obturator tubercle).t;50
+Inferior pubic ramus.t;51
+(Posterior obturator tubercle).j;52
+Acetabular fossa.j;53
+Acetabular margin.j;54
+Acetabular notch.j;55
+Acetabulum.j;56
+Ala of ilium.j;57
+Anterior gluteal line.j;58
+Anterior inferior iliac spine.j;59
+Anterior obturator tubercle.j;60
+Anterior superior iliac spine.j;61
+Arcuate line of ilium.j;62
+Auricular surface of ilium.j;63
+Body of ilium.j;64
+Body of ischium.j;65
+Body of pubis.j;66
+Gluteal surface of ilium.j;67
+Greater sciatic foramen.j;68
+Greater sciatic notch.j;69
+Hip bone.j;70
+Iliac crest.j;71
+Iliac fossa.j;72
+Iliac tubercle.j;73
+Iliac tuberosity.j;74
+Iliopubic eminence.j;75
+Ilium.j;76
+Inferior gluteal line.j;77
+Inferior pubic ramus.j;78
+Inner lip of iliac crest.j;79
+Intermediate zone.j;80
+Ischial spine.j;81
+Ischial tuberosity.j;82
+Ischiopubic ramus.j;83
+Ischium.j;84
+Lesser sciatic foramen.j;85
+Lesser sciatic notch.j;86
+Lunate surface.j;87
+Obturator crest.j;88
+Obturator foramen.j;89
+Obturator groove.j;90
+Outer lip of iliac crest.j;91
+Pecten pubis.j;92
+Posterior gluteal line.j;93
+Posterior inferior iliac spine.j;94
+Posterior superior iliac spine.j;95
+Pubic crest.j;96
+Pubic tubercle.j;97
+Pubis.j;98
+Ramus of ischium.j;99
+Sacropelvic surface of ilium.j;100
+Superior pubic ramus.j;101
+Supraacetabular groove.j;102
+Symphyseal surface of pubis.j;103
+Bones of free part of lower limb.g;1
+Femur.l;0
+Femur.s;0
+Head of femur.s;1
+Fovea for ligament of head of femur.s;2
+Neck of femur.s;3
+Greater trochanter.s;4
+Trochanteric fossa.s;5
+Lesser trochanter.s;6
+(Third trochanter).s;7
+Intercondylar line.s;8
+Intertrochanteric crest.s;9
+Quadrate tubercle.s;10
+Body of femur.s;11
+Linea aspera.s;12
+Lateral lip of linea aspera.s;13
+Medial lip of linea aspera.s;14
+Pectineal line of femur.s;15
+Gluteal tuberosity.s;16
+Popliteal surface of femur.s;17
+Medial supracondylar line.s;18
+Lateral supracondylar line.s;19
+Medial condyle of femur.s;20
+Medial epicondyle of femur.s;21
+Adductor tubercle.s;22
+Lateral condyle of femur.s;23
+Lateral epicondyle of femur.s;24
+Groove for popliteus muscle.s;25
+Patellar surface of femur.s;26
+Intercondylar fossa.s;27
+Intertrochanteric line.s;28
+(Third trochanter).i;29
+Adductor tubercle.i;30
+Body of femur.i;31
+Femur.i;32
+Fovea for ligament of head of femur.i;33
+Gluteal tuberosity.i;34
+Greater trochanter.i;35
+Groove for popliteus muscle.i;36
+Head of femur.i;37
+Intercondylar fossa.i;38
+Intercondylar line.i;39
+Intertrochanteric crest.i;40
+Intertrochanteric line.i;41
+Lateral condyle of femur.i;42
+Lateral epicondyle of femur.i;43
+Lateral lip of linea apera.i;44
+Lateral supracondylar line.i;45
+Lesser trochanter.i;46
+Linea aspera.i;47
+Medial condyle of femur.i;48
+Medial epicondyle of femur.i;49
+Medial lip of linea apera.i;50
+Medial supracondylar line.i;51
+Neck of femur.i;52
+Patellar surface of femur.i;53
+Pectineal line of femur.i;54
+Popliteal surface of femur.i;55
+Quadrate tubercle.i;56
+Trochanteric fossa.i;57
+Femur.r;1
+Femur.t;0
+Head of femur.t;1
+Fovea for ligament of head of femur.t;2
+Neck of femur.t;3
+Greater trochanter.t;4
+Trochanteric fossa.t;5
+Lesser trochanter.t;6
+(Third trochanter).t;7
+Intercondylar line.t;8
+Intertrochanteric crest.t;9
+Quadrate tubercle.t;10
+Body of femur.t;11
+Linea aspera.t;12
+Lateral lip of linea aspera.t;13
+Medial lip of linea aspera.t;14
+Pectineal line of femur.t;15
+Gluteal tuberosity.t;16
+Popliteal surface of femur.t;17
+Medial supracondylar line.t;18
+Lateral supracondylar line.t;19
+Medial condyle of femur.t;20
+Medial epicondyle of femur.t;21
+Adductor tubercle.t;22
+Lateral condyle of femur.t;23
+Lateral epicondyle of femur.t;24
+Groove for popliteus muscle.t;25
+Patellar surface of femur.t;26
+Intercondylar fossa.t;27
+Intertrochanteric line.t;28
+(Third trochanter).j;29
+Adductor tubercle.j;30
+Body of femur.j;31
+Femur.j;32
+Fovea for ligament of head of femur.j;33
+Gluteal tuberosity.j;34
+Greater trochanter.j;35
+Groove for popliteus muscle.j;36
+Head of femur.j;37
+Intercondylar fossa.j;38
+Intercondylar line.j;39
+Intertrochanteric crest.j;40
+Intertrochanteric line.j;41
+Lateral condyle of femur.j;42
+Lateral epicondyle of femur.j;43
+Lateral lip of linea apera.j;44
+Lateral supracondylar line.j;45
+Lesser trochanter.j;46
+Linea aspera.j;47
+Medial condyle of femur.j;48
+Medial epicondyle of femur.j;49
+Medial lip of linea apera.j;50
+Medial supracondylar line.j;51
+Neck of femur.j;52
+Patellar surface of femur.j;53
+Pectineal line of femur.j;54
+Popliteal surface of femur.j;55
+Quadrate tubercle.j;56
+Trochanteric fossa.j;57
+Patella.l;2
+Patella.r;3
+Tibia.r;4
+Tibia.t;0
+Tibial plateau.t;1
+Superior articular surfaces of tibia.t;2
+Articular surface of medial condyle.t;3
+Superior articular surface of lateral condyle.t;4
+Intercondylar area.t;5
+Anterior intercondylar area.t;6
+Posterior intercondylar area.t;7
+Intercondylar eminence.t;8
+Medial intercondylar tubercle.t;9
+Lateral intercondylar tubercle.t;10
+Medial condyle of tibia.t;11
+Lateral condyle of tibia.t;12
+Fibular articular facet.t;13
+Tubercle of iliotibial tract.t;14
+Body of tibia.t;15
+Tibial tuberosity.t;16
+Medial surface of tibia.t;17
+Medial border of tibia.t;18
+Posterior surface of tibia.t;19
+Soleal line.t;20
+Interosseous border of tibia.t;21
+Lateral surface of tibia.t;22
+Anterior border of tibia.t;23
+Medial malleolus.t;24
+Malleolar groove of tibia.t;25
+Articular facet of medial malleolus.t;26
+Posterior malleolus.t;27
+Fibular notch.t;28
+Inferior articular surface of tibia.t;29
+Anterior border of tibia.j;30
+Anterior intercondylar area.j;31
+Articular facet of medial malleolus.j;32
+Articular surface of medial condyle.j;33
+Body of tibia.j;34
+Fibular articular facet.j;35
+Fibular notch.j;36
+Inferior articular surface of tibia.j;37
+Intercondylar area.j;38
+Intercondylar eminence.j;39
+Interosseous border of tibia.j;40
+Lateral condyle of tibia.j;41
+Lateral intercondylar tubercle.j;42
+Lateral surface of tibia.j;43
+Malleolar groove of tibia.j;44
+Medial border of tibia.j;45
+Medial condyle of tibia.j;46
+Medial intercondylar tubercle.j;47
+Medial malleolus.j;48
+Medial surface of tibia.j;49
+Posterior intercondylar area.j;50
+Posterior malleolus.j;51
+Posterior surface of tibia.j;52
+Soleal line.j;53
+Superior articular surface of lateral condyle.j;54
+Superior articular surfaces of tibia.j;55
+Tibia.j;56
+Tibial plateau.j;57
+Tibial tuberosity.j;58
+Tubercle of iliotibial tract.j;59
+Tibia.l;5
+Tibia.s;0
+Tibial plateau.s;1
+Superior articular surfaces of tibia.s;2
+Articular surface of medial condyle.s;3
+Superior articular surface of lateral condyle.s;4
+Intercondylar area.s;5
+Anterior intercondylar area.s;6
+Posterior intercondylar area.s;7
+Intercondylar eminence.s;8
+Medial intercondylar tubercle.s;9
+Lateral intercondylar tubercle.s;10
+Medial condyle of tibia.s;11
+Lateral condyle of tibia.s;12
+Fibular articular facet.s;13
+Tubercle of iliotibial tract.s;14
+Body of tibia.s;15
+Tibial tuberosity.s;16
+Medial surface of tibia.s;17
+Medial border of tibia.s;18
+Posterior surface of tibia.s;19
+Soleal line.s;20
+Interosseous border of tibia.s;21
+Lateral surface of tibia.s;22
+Anterior border of tibia.s;23
+Medial malleolus.s;24
+Malleolar groove of tibia.s;25
+Articular facet of medial malleolus.s;26
+Posterior malleolus.s;27
+Fibular notch.s;28
+Inferior articular surface of tibia.s;29
+Anterior border of tibia.i;30
+Anterior intercondylar area.i;31
+Articular facet of medial malleolus.i;32
+Articular surface of medial condyle.i;33
+Body of tibia.i;34
+Fibular articular facet.i;35
+Fibular notch.i;36
+Inferior articular surface of tibia.i;37
+Intercondylar area.i;38
+Intercondylar eminence.i;39
+Interosseous border of tibia.i;40
+Lateral condyle of tibia.i;41
+Lateral intercondylar tubercle.i;42
+Lateral surface of tibia.i;43
+Malleolar groove of tibia.i;44
+Medial border of tibia.i;45
+Medial condyle of tibia.i;46
+Medial intercondylar tubercle.i;47
+Medial malleolus.i;48
+Medial surface of tibia.i;49
+Posterior intercondylar area.i;50
+Posterior malleolus.i;51
+Posterior surface of tibia.i;52
+Soleal line.i;53
+Superior articular surface of lateral condyle.i;54
+Superior articular surfaces of tibia.i;55
+Tibia.i;56
+Tibial plateau.i;57
+Tibial tuberosity.i;58
+Tubercle of iliotibial tract.i;59
+Fibula.l;6
+Fibula.s;0
+Head of fibula.s;1
+Articular facet of head of fibula.s;2
+Apex of head of fibula.s;3
+Neck of fibula.s;4
+Body of fibula.s;5
+Lateral surface of fibula.s;6
+Anterior border of fibula.s;7
+Medial surface of fibula.s;8
+Anteromedial surface of fibula.s;9
+Interosseous crest of fibula.s;10
+Posteromedial surface of fibula.s;11
+Medial border of fibula.s;12
+Posterior surface of fibula.s;13
+Posterior border of fibula.s;14
+Lateral malleolus.s;15
+Articular facet of lateral malleolus.s;16
+Malleolar fossa.s;17
+Malleolar groove of fibula.s;18
+Anterior border of fibula.i;19
+Anteromedial surface of fibula.i;20
+Apex of head of fibula.i;21
+Articular facet of head of fibula.i;22
+Articular facet of lateral malleolus.i;23
+Body of fibula.i;24
+Fibula.i;25
+Head of fibula.i;26
+Interosseous crest of fibula.i;27
+Lateral malleolus.i;28
+Lateral surface of fibula.i;29
+Malleolar fossa.i;30
+Malleolar groove of fibula.i;31
+Medial border of fibula.i;32
+Medial surface of fibula.i;33
+Neck of fibula.i;34
+Posterior border of fibula.i;35
+Posterior surface of fibula.i;36
+Posteromedial surface of fibula.i;37
+Fibula.r;7
+Fibula.t;0
+Head of fibula.t;1
+Articular facet of head of fibula.t;2
+Apex of head of fibula.t;3
+Neck of fibula.t;4
+Body of fibula.t;5
+Lateral surface of fibula.t;6
+Anterior border of fibula.t;7
+Medial surface of fibula.t;8
+Anteromedial surface of fibula.t;9
+Interosseous crest of fibula.t;10
+Posteromedial surface of fibula.t;11
+Medial border of fibula.t;12
+Posterior surface of fibula.t;13
+Posterior border of fibula.t;14
+Lateral malleolus.t;15
+Articular facet of lateral malleolus.t;16
+Malleolar fossa.t;17
+Malleolar groove of fibula.t;18
+Anterior border of fibula.j;19
+Anteromedial surface of fibula.j;20
+Apex of head of fibula.j;21
+Articular facet of head of fibula.j;22
+Articular facet of lateral malleolus.j;23
+Body of fibula.j;24
+Fibula.j;25
+Head of fibula.j;26
+Interosseous crest of fibula.j;27
+Lateral malleolus.j;28
+Lateral surface of fibula.j;29
+Malleolar fossa.j;30
+Malleolar groove of fibula.j;31
+Medial border of fibula.j;32
+Medial surface of fibula.j;33
+Neck of fibula.j;34
+Posterior border of fibula.j;35
+Posterior surface of fibula.j;36
+Posteromedial surface of fibula.j;37
+Bones of foot.g;8
+Tarsal bones.g;0
+Talus.l;0
+Head of talus.s;0
+Navicular articular surface.s;1
+Facet for plantar calcaneonavicular ligament.s;2
+Facet for calcaneonavicular part of bifurcate ligament.s;3
+Neck of talus.s;4
+Middle facet for calcaneus.s;5
+Talar sulcus.s;6
+Body of talus.s;7
+Trochlea of talus.s;8
+Superior facet of talus.s;9
+Lateral malleolar facet.s;10
+Lateral process of talus.s;11
+Medial malleolar facet.s;12
+Posterior process of talus.s;13
+Groove for tendon of flexor hallucis longus of talus.s;14
+Lateral tubercle.s;15
+Medial tubercle.s;16
+Posterior calcaneal articular facet.s;17
+Body of talus.i;18
+Facet for calcaneonavicular part of bifurcate ligament.i;19
+Facet for plantar calcaneonavicular ligament.i;20
+Groove for tendon of flexor hallucis longus of talus.i;21
+Head of talus.i;22
+Lateral malleolar facet.i;23
+Lateral process of talus.i;24
+Lateral tubercle.i;25
+Medial malleolar facet.i;26
+Medial tubercle.i;27
+Middle facet for calcaneus.i;28
+Navicular articular surface.i;29
+Neck of talus.i;30
+Posterior calcaneal articular facet.i;31
+Posterior process of talus.i;32
+Superior facet of talus.i;33
+Talar sulcus.i;34
+Trochlea of talus.i;35
+Talus.r;1
+Head of talus.t;0
+Navicular articular surface.t;1
+Facet for plantar calcaneonavicular ligament.t;2
+Facet for calcaneonavicular part of bifurcate ligament.t;3
+Neck of talus.t;4
+Middle facet for calcaneus.t;5
+Talar sulcus.t;6
+Body of talus.t;7
+Trochlea of talus.t;8
+Superior facet of talus.t;9
+Lateral malleolar facet.t;10
+Lateral process of talus.t;11
+Medial malleolar facet.t;12
+Posterior process of talus.t;13
+Groove for tendon of flexor hallucis longus of talus.t;14
+Lateral tubercle.t;15
+Medial tubercle.t;16
+Posterior calcaneal articular facet.t;17
+Body of talus.j;18
+Facet for calcaneonavicular part of bifurcate ligament.j;19
+Facet for plantar calcaneonavicular ligament.j;20
+Groove for tendon of flexor hallucis longus of talus.j;21
+Head of talus.j;22
+Lateral malleolar facet.j;23
+Lateral process of talus.j;24
+Lateral tubercle.j;25
+Medial malleolar facet.j;26
+Medial tubercle.j;27
+Middle facet for calcaneus.j;28
+Navicular articular surface.j;29
+Neck of talus.j;30
+Posterior calcaneal articular facet.j;31
+Posterior process of talus.j;32
+Superior facet of talus.j;33
+Talar sulcus.j;34
+Trochlea of talus.j;35
+Calcaneus.l;2
+Calcaneal tuberosity.s;0
+Medial process of calcaneal tuberosity.s;1
+Lateral process of calcaneal tuberosity.s;2
+Calcaneal tubercle.s;3
+Sustentaculum tali.s;4
+Groove for tendon of flexor hallucis longus of calcaneus.s;5
+Calcaneal sulcus.s;6
+Tarsal sinus.s;7
+Anterior process of calcaneus.s;8
+Articular surface for cuboid.s;9
+Anterior process of calcaneus.i;10
+Articular surface for cuboid.i;11
+Calcaneal sulcus.i;12
+Calcaneal tubercle.i;13
+Calcaneal tuberosity.i;14
+Groove for tendon of flexor hallucis longus of calcaneus.i;15
+Lateral process of calcaneal tuberosity.i;16
+Medial process of calcaneal tuberosity.i;17
+Sustentaculum tali.i;18
+Tarsal sinus.i;19
+Calcaneus.r;3
+Calcaneal tuberosity.t;0
+Medial process of calcaneal tuberosity.t;1
+Lateral process of calcaneal tuberosity.t;2
+Calcaneal tubercle.t;3
+Sustentaculum tali.t;4
+Groove for tendon of flexor hallucis longus of calcaneus.t;5
+Calcaneal sulcus.t;6
+Tarsal sinus.t;7
+Anterior process of calcaneus.t;8
+Articular surface for cuboid.t;9
+Anterior process of calcaneus.j;10
+Articular surface for cuboid.j;11
+Calcaneal sulcus.j;12
+Calcaneal tubercle.j;13
+Calcaneal tuberosity.j;14
+Groove for tendon of flexor hallucis longus of calcaneus.j;15
+Lateral process of calcaneal tuberosity.j;16
+Medial process of calcaneal tuberosity.j;17
+Sustentaculum tali.j;18
+Tarsal sinus.j;19
+Navicular bone.l;4
+Tuberosity of navicular bone.s;0
+Tuberosity of navicular bone.i;1
+Navicular bone.r;5
+Tuberosity of navicular bone.t;0
+Tuberosity of navicular bone.j;1
+Medial cuneiform bone.l;6
+Medial cuneiform bone.r;7
+Intermediate cuneiform bone.l;8
+Intermediate cuneiform bone.r;9
+Lateral cuneiform bone.l;10
+Lateral cuneiform bone.r;11
+Cuboid bone.l;12
+Groove for tendon of fibularis longus muscle of cuboid bone;0
+Tuberosity of cuboid bone.s;1
+Groove for tendon of fibularis longus muscle of cuboid bone.i;2
+Tuberosity of cuboid bone.i;3
+Cuboid bone.r;13
+Groove for tendon of fibularis longus muscle of cuboid bone.t;0
+Tuberosity of cuboid bone.t;1
+Groove for tendon of fibularis longus muscle of cuboid bone.j;2
+Tuberosity of cuboid bone.j;3
+Metatarsal bones.g;1
+First metatarsal bone.l;0
+First metatarsal bone.s;0
+First metatarsal bone.i;1
+First metatarsal bone.r;1
+First metatarsal bone.t;0
+First metatarsal bone.j;1
+Second metatarsal bone.l;2
+Second metatarsal bone.r;3
+Third metatarsal bone.l;4
+Base of metatarsal bone.s;0
+Body of metatarsal bone.s;1
+Head of metatarsal bone.s;2
+Base of metatarsal bone.i;3
+Body of metatarsal bone.i;4
+Head of metatarsal bone.i;5
+Third metatarsal bone.r;5
+Base of metatarsal bone.t;0
+Body of metatarsal bone.t;1
+Head of metatarsal bone.t;2
+Base of metatarsal bone.j;3
+Body of metatarsal bone.j;4
+Head of metatarsal bone.j;5
+Fourth metatarsal bone.l;6
+Fourth metatarsal bone.r;7
+Fifth metatarsal bone.l;8
+Fifth metatarsal bone.s;0
+Fifth metatarsal bone.i;1
+Fifth metatarsal bone.r;9
+Fifth metatarsal bone.t;0
+Fifth metatarsal bone.j;1
+Phalanges of foot.g;2
+Proximal phalanx of first finger of foot.l;0
+Proximal phalanx of first finger of foot.r;1
+Proximal phalanx of second finger of foot.l;2
+Proximal phalanx of second finger of foot.r;3
+Proximal phalanx of third finger of foot.l;4
+Base of phalanx of foot.s;0
+Body of phalanx of foot.s;1
+Head of phalanx of foot.s;2
+Trochlea of phalanx of foot.s;3
+Base of phalanx of foot.i;4
+Body of phalanx of foot.i;5
+Head of phalanx of foot.i;6
+Trochlea of phalanx of foot.i;7
+Proximal phalanx of third finger of foot.r;5
+Base of phalanx of foot.t;0
+Body of phalanx of foot.t;1
+Head of phalanx of foot.t;2
+Trochlea of phalanx of foot.t;3
+Base of phalanx of foot.j;4
+Body of phalanx of foot.j;5
+Head of phalanx of foot.j;6
+Trochlea of phalanx of foot.j;7
+Proximal phalanx of fourth finger of foot.l;6
+Proximal phalanx of fourth finger of foot.r;7
+Proximal phalanx of fifth finger of foot.l;8
+Proximal phalanx of fifth finger of foot.r;9
+Middle phalanx of fifth finger of foot.l;10
+Middle phalanx of fifth finger of foot.r;11
+Middle phalanx of second finger of foot.l;12
+Middle phalanx of second finger of foot.r;13
+Middle phalanx of third finger of foot.l;14
+Middle phalanx of third finger of foot.r;15
+Middle phalanx of fourth finger of foot.l;16
+Middle phalanx of fourth finger of foot.r;17
+Distal phalanx of first finger of foot.l;18
+Distal phalanx of first finger of foot.r;19
+Distal phalanx of second finger of foot.l;20
+Distal phalanx of second finger of foot.r;21
+Distal phalanx of third finger of foot.l;22
+Tuberosity of distal phalanx of foot.s;0
+Tuberosity of distal phalanx of foot.i;1
+Distal phalanx of third finger of foot.r;23
+Tuberosity of distal phalanx of foot.t;0
+Tuberosity of distal phalanx of foot.j;1
+Distal phalanx of fourth finger of foot.l;24
+Distal phalanx of fourth finger of foot.r;25
+Distal phalanx of fifth finger of foot.l;26
+Distal phalanx of fifth finger of foot.r;27
+Sesamoid bones of foot.l;3
+Sesamoid bones of foot.r;4
+Muscular insertions.g;1
+Lymphoid organs.g;7
+Primary lymphoid organs.g;0
+Thymus.g;0
+Left lobe of thymus;0
+Right lobe of thymus;1
+Secondary lymphoid organs.g;1
+Spleen;0
+Diaphragmatic surface of spleen.t;0
+Visceral surface of spleen.t;1
+Renal impression of spleen.t;2
+Gastric impression of spleen.t;3
+Colic impression of spleen.t;4
+(Pancreatic impression of spleen).t;5
+Anterior extremity of spleen.t;6
+Posterior extremity of spleen.t;7
+Inferior border of spleen.t;8
+Superior border of spleen.t;9
+Hilum of spleen.t;10
+(Pancreatic impression of spleen).j;11
+Anterior extremity of spleen.j;12
+Colic impression of spleen.j;13
+Diaphragmatic surface of spleen.j;14
+Gastric impression of spleen.j;15
+Hilum of spleen.j;16
+Inferior border of spleen.j;17
+Posterior extremity of spleen.j;18
+Renal impression of spleen.j;19
+Superior border of spleen.j;20
+Visceral surface of spleen.j;21
+Pharyngeal lymphoid ring.g;1
+Palatine tonsil.l;0
+Palatine tonsil.r;1
+Lymph nodes.g;2
+Lymph nodes of head.g;0
+Occipital nodes.l;0
+Occipital nodes.r;1
+Mastoid nodes.l;2
+Mastoid nodes.r;3
+Superficial parotid nodes.l;4
+Superficial parotid nodes.r;5
+Deep parotid nodes.g;6
+Pre-auricular nodes.l;0
+Pre-auricular nodes.r;1
+Infra-auricular nodes.l;2
+Infra-auricular nodes.r;3
+Intraglandular parotid nodes.l;4
+Intraglandular parotid nodes.r;5
+Facial nodes.g;7
+Bucinator node.l;0
+Bucinator node.r;1
+Nasolabial node.l;2
+Nasolabial node.r;3
+Mandibular node.l;4
+Mandibular node.r;5
+Lymph nodes of neck.g;1
+Submental nodes.l;0
+Submental nodes.r;1
+Submandibular nodes.l;2
+Submandibular nodes.r;3
+Anterior cervical nodes.g;4
+Superficial anterior cervical nodes;0
+Deep anterior cervical nodes.g;1
+Infrahyoid nodes.g;0
+Thyroid nodes.l;1
+Thyroid nodes.r;2
+Pretracheal nodes.l;3
+Pretracheal nodes.r;4
+Paratracheal cervical nodes;5
+Lateral cervical nodes.g;5
+Superficial lateral cervical nodes.l;0
+Superficial lateral cervical nodes.r;1
+Superior deep lateral nodes.g;2
+Jugulodigastric node.l;0
+Jugulodigastric node.r;1
+Lateral superior jugular node.l;2
+Lateral superior jugular node.r;3
+Inferior deep lateral cervical nodes.g;3
+Inferior deep lateral cervical nodes.l;0
+Anterior inferior jugular nodes.l;0
+Inferior deep lateral cervical nodes.r;1
+Anterior inferior jugular nodes.r;0
+Supraclavicular nodes.l;6
+Supraclavicular nodes.r;7
+Retropharyngeal nodes.l;8
+Retropharyngeal nodes.r;9
+Thoracic lymph nodes.g;2
+Mediastinal lymph nodes.g;0
+Brachiocephalic nodes;0
+Inferior tracheobronchial nodes;1
+Juxta-oesophageal nodes;2
+Lateral pericardial nodes;3
+Node of arch of azygos vein;4
+Node of ligamentum arteriosum;5
+Paratracheal thoracic nodes;6
+Prepericardial nodes;7
+Superior tracheobronchial nodes;8
+Parietal thoracic lymph nodes.g;1
+Intercostal nodes.l;0
+Intercostal nodes.r;1
+Parasternal nodes.l;2
+Parasternal nodes.r;3
+Prevertebral nodes;4
+Superior diaphragmatic nodes;5
+Pulmonary lymph nodes.g;2
+Intrapulmonary nodes;0
+Abdominal lymph nodes.g;3
+Parietal abdominal lymph nodes.g;0
+Inferior diaphragmatic nodes;0
+Inferior epigastric nodes.l;1
+Inferior epigastric nodes.r;2
+Left lumbar nodes.g;3
+Lateral aortic nodes;0
+Pre-aortic nodes;1
+Retro-aortic nodes;2
+Right lumbar nodes.g;4
+Lateral caval nodes;0
+Precaval nodes;1
+Retrocaval nodes;2
+Visceral abdominal lymph nodes.g;1
+Coeliac nodes;0
+Hepatic nodes.g;1
+Cystic node;0
+Inferior mesenteric nodes.g;2
+Left colic nodes;0
+Sigmoid nodes;1
+Intermediate lumbar nodes;3
+Pancreatic nodes.g;4
+Inferior pancreatic nodes;0
+Superior pancreatic nodes;1
+Pancreaticoduodenal nodes.g;5
+Superior pancreaticoduodenal nodes;0
+Pyloric nodes.g;6
+(Retropyloric nodes);0
+(Subpyloric nodes);1
+(Suprapyloric node);2
+Right gastric nodes;7
+Right gastro-omental nodes;8
+Splenic nodes;9
+Superior mesenteric nodes.g;10
+Appendicular nodes;0
+Central superior mesenteric nodes;1
+Ileocolic nodes;2
+Juxta-intestinal mesenteric nodes;3
+Middle colic nodes;4
+Paracolic superior mesenteric nodes;5
+Precaecal nodes;6
+Retrocaecal nodes;7
+Right colic nodes;8
+Pelvic lymph nodes.g;4
+Parietal pelvic lymph nodes.g;0
+Common iliac nodes.g;0
+Intermediate common iliac nodes;0
+Lateral common iliac nodes;1
+Medial common iliac nodes;2
+Median sacral nodes;3
+Subaortic nodes;4
+External iliac nodes.g;1
+(Intermediate lacunar node).l;0
+(Intermediate lacunar node).r;1
+(Lateral lacunar node).l;2
+(Lateral lacunar node).r;3
+(Medial lacunar node).l;4
+(Medial lacunar node).r;5
+Intermediate external iliac nodes.l;6
+Intermediate external iliac nodes.r;7
+Medial external iliac nodes.l;8
+Medial external iliac nodes.r;9
+Obturator nodes.l;10
+Obturator nodes.r;11
+Internal iliac nodes.g;2
+Gluteal nodes.g;0
+Inferior gluteal nodes.l;0
+Inferior gluteal nodes.r;1
+Superior gluteal nodes.l;2
+Superior gluteal nodes.r;3
+Lateral sacral nodes.l;1
+Lateral sacral nodes.r;2
+Visceral pelvic lymph nodes.g;1
+Pararectal nodes;0
+Paravesical nodes.g;1
+Lateral vesical nodes.l;0
+Lateral vesical nodes.r;1
+Postvesical nodes;2
+Prevesical nodes;3
+Lymph nodes of upper limb.g;5
+Axillary nodes.g;0
+Anterior axillary nodes.l;0
+Anterior axillary nodes.r;1
+Apical axillary nodes.l;2
+Apical axillary nodes.r;3
+Central axillary nodes.l;4
+Central axillary nodes.r;5
+Lateral axillary nodes.l;6
+Lateral axillary nodes.r;7
+Posterior axillary nodes.l;8
+Posterior axillary nodes.r;9
+Interpectoral nodes.l;1
+Interpectoral nodes.r;2
+Infraclavicular nodes.l;3
+Infraclavicular nodes.r;4
+Brachial nodes.l;5
+Brachial nodes.r;6
+Cubital nodes.l;7
+Supratrochlear nodes.l;0
+Cubital nodes.r;8
+Supratrochlear nodes.r;0
+Lymph nodes of lower limb.g;6
+Inguinal nodes.g;0
+Superficial inguinal nodes.g;0
+Superomedial superficial inguinal nodes.l;0
+Superomedial superficial inguinal nodes.r;1
+Superolateral superficial inguinal nodes.l;2
+Superolateral superficial inguinal nodes.r;3
+Inferior superficial inguinal nodes.l;4
+Inferior superficial inguinal nodes.r;5
+Deep inguinal nodes.g;1
+(Proximal deep inguinal node).l;0
+(Proximal deep inguinal node).r;1
+(Intermediate deep inguinal node).l;2
+(Intermediate deep inguinal node).r;3
+Popliteal nodes.g;1
+Superficial popliteal nodes.l;0
+Superficial popliteal nodes.r;1
+Deep popliteal nodes.l;2
+Deep popliteal nodes.r;3
+(Anterior tibial node).l;2
+(Anterior tibial node).r;3
+(Posterior tibial node).l;4
+(Posterior tibial node).r;5
+(Fibular node).l;6
+(Fibular node).r;7
+Joints.g;2
+Fibrous joints.g;0
+Syndesmoses.g;0
+Interosseous ligament.g;0
+Interosseous membrane.g;1
+Gomphosis.g;2
+Sutures.g;1
+Plane suture.g;0
+Limbous suture.g;1
+Serrate suture.g;2
+Denticulate suture.g;3
+Schindylesis.g;4
+Cartilaginous joints.g;1
+Synchondroses.g;0
+Symphysis.g;1
+Synostosis.g;2
+Synovial joint.g;3
+Articular cavity.g;0
+Articular capsule.g;1
+Articular fibrocartilage.g;2
+Accessory ligaments.g;3
+Articular recess.g;4
+Synarthrosis.g;4
+Amphiarthrosis.g;5
+Diarthrosis.g;6
+Simple joint.g;0
+Complex joint.g;1
+Plane joint.g;2
+Cylindrical joints.g;3
+Bicondylar joint.g;4
+Saddle joint.g;5
+Ellipsoid joint.g;6
+Ball and socket joint.g;7
+Joints of skull.g;7
+Cranial fibrous joints.g;0
+Cranial syndesmoses.g;0
+Pterygospinous ligament.l;0
+Pterygospinous ligament.r;1
+Stylohyoid ligament.l;2
+Stylohyoid ligament.r;3
+Sphenomandibular ligament.l;4
+Sphenomandibular ligament.r;5
+Stylomandibular ligament.l;6
+Stylomandibular ligament.r;7
+Temporomandibular joint.g;1
+Articular capsule of temporomandibular joint.l;0
+Articular capsule of temporomandibular joint.r;1
+Articular disc of temporomandibular joint.l;2
+Articular disc of temporomandibular joint.r;3
+Lateral temporomandibular ligament.l;4
+Lateral temporomandibular ligament.r;5
+Joints of auditory ossicles.g;8
+Laryngeal joints.g;9
+Fibrous joints of larynx.g;0
+Thyrohyoid membrane.g;0
+Median thyrohyoid ligament;0
+Lateral thyrohyoid ligament.l;1
+Lateral thyrohyoid ligament.r;2
+Ligaments of epiglottis.g;1
+Fibro-elastic membrane of larynx.g;2
+Quadrangular membrane.l;0
+Quadrangular membrane.r;1
+Median cricothyroid ligament;3
+Synovial joints of larynx.g;1
+Cricothyroid joint.g;0
+Crico-arytenoid joint.g;1
+Cricopharyngeal ligament.l;0
+Cricopharyngeal ligament.r;1
+Joints of vertebral column.g;10
+Fibrous joints of vertebral column.g;0
+Interspinous ligaments;0
+Ligamenta flava;1
+Intertransverse ligaments.l;2
+Intertransverse ligaments.r;3
+Supraspinous ligament;4
+Nuchal ligament;5
+Anterior longitudinal ligament;6
+Posterior longitudinal ligament;7
+Intercornual ligament.l;8
+Intercornual ligament.r;9
+Cartilaginous joints of vertebral column.g;1
+Intervertebral symphysis.g;0
+Intervertebral disc C2-C3;0
+Nucleus pulposus C2-C3;1
+Intervertebral disc C3-C4;2
+Nucleus pulposus C3-C4;3
+Intervertebral disc C4-C5;4
+Nucleus pulposus C4-C5;5
+Intervertebral disc C5-C6;6
+Nucleus pulposus C5-C6;7
+Intervertebral disc C6-C7;8
+Nucleus pulposus C6-C7;9
+Intervertebral disc C7-T1;10
+Nucleus pulposus C7-T1;11
+Intervertebral disc T1-T2;12
+Nucleus pulposus T1-T2;13
+Intervertebral disc T2-T3;14
+Nucleus pulposus T2-T3;15
+Intervertebral disc T3-T4;16
+Nucleus pulposus T3-T4;17
+Intervertebral disc T4-T5;18
+Nucleus pulposus T4-T5;19
+Intervertebral disc T5-T6;20
+Nucleus pulposus T5-T6;21
+Intervertebral disc T6-T7;22
+Nucleus pulposus T6-T7;23
+Intervertebral disc T7-T8;24
+Nucleus pulposus T7-T8;25
+Intervertebral disc T8-T9;26
+Intervertebral disc T9-T10;27
+Nucleus pulposus T9-T10;28
+Intervertebral disc T10-T11;29
+Nucleus pulposus T10-T11;30
+Intervertebral disc T11-T12;31
+Nucleus pulposus T11-T12;32
+Intervertebral disc T12-L1;33
+Nucleus pulposus T12-L1;34
+Intervertebral disc L1-L2;35
+Nucleus pulposus L1-L2;36
+Intervertebral disc L2-L3;37
+Nucleus pulposus L2-L3;38
+Intervertebral disc L3-L4;39
+Nucleus pulposus L3-L4;40
+Intervertebral disc L4-L5;41
+Nucleus pulposus L4-L5;42
+Intervertebral disc L5-S1;43
+Nucleus pulposus L5-S1;44
+Nucleus pulposus T8-T9;45
+Sacrococcygeal symphysis;46
+Lumbosacral symphysis.g;1
+Sacrococcygeal joint.g;2
+Synovial joints of vertebral column.g;2
+Median atlanto-axial joint.g;0
+Lateral atlanto-axial joint.g;1
+Uncovertebral joints.g;2
+Zygapophysial joints.g;3
+Thoracic joints.g;11
+Fibrous joints of thorax.g;0
+External intercostal membrane.l;0
+External intercostal membrane.r;1
+Internal intercostal membrane.l;2
+Internal intercostal membrane.r;3
+Cartilaginous joints of thorax.g;1
+Sternochondral synchondrosis of first rib.g;0
+Costochondral joints.g;1
+Cartilaginous joints of sternum.g;2
+Synovial joints of thorax.g;2
+Costovertebral joints.g;0
+Joint of head of rib.g;0
+Radiate ligament of head of rib.l;0
+Radiate ligament of head of rib.r;1
+Intra-articular ligament of head of rib;2
+Intra-articular ligament of head of rib.r;3
+Costotransverse joint.g;1
+Costotransverse ligament.l;0
+Costotransverse ligament.r;1
+Sternochondral joints.g;1
+Interchondral joints.g;2
+Joints of upper limb.g;12
+Joints of pectoral girdle.g;0
+Fibrous joints of pectoral girdle.g;0
+Coraco-acromial ligament.l;0
+Coraco-acromial ligament.r;1
+Superior transverse scapular ligament.l;2
+Superior transverse scapular ligament.r;3
+Inferior transverse scapular ligament.l;4
+Inferior transverse scapular ligament.r;5
+Synovial joints of pectoral girdle.g;1
+Acromioclavicular joint.g;0
+Articular capsule of acromioclavicular joint.l;0
+Articular capsule of acromioclavicular joint.r;1
+Acromioclavicular ligament.l;2
+Acromioclavicular ligament.r;3
+Articular disc of acromioclavicular joint.l;4
+Articular disc of acromioclavicular joint.r;5
+Trapezoid ligament.l;6
+Trapezoid ligament.r;7
+Conoid ligament.l;8
+Conoid ligament.r;9
+Sternoclavicular joint.g;1
+Articular capsule of sternoclavicular joint.l;0
+Articular capsule of sternoclavicular joint.r;1
+Articular disc of sternoclavicular joint.l;2
+Articular disc of sternoclavicular joint.r;3
+Anterior sternoclavicular ligament.l;4
+Anterior sternoclavicular ligament.r;5
+Posterior sternoclavicular ligament.l;6
+Posterior sternoclavicular ligament.r;7
+Costoclavicular ligament.l;8
+Costoclavicular ligament.r;9
+Interclavicular ligament.l;10
+Interclavicular ligament.r;11
+Joints of free upper limb.g;1
+Fibrous joints of free upper limb.g;0
+Radio-ulnar syndesmoses.g;0
+Interosseous membrane of forearm.l;0
+Interosseous membrane of forearm.r;1
+Oblique cord.l;2
+Oblique cord.r;3
+Synovial joints of free upper limb.g;1
+Glenohumeral joint.g;0
+Articular capsule of glenohumeral joint.l;0
+Articular capsule of glenohumeral joint.r;1
+Glenoid labrum.l;2
+Glenoid labrum.r;3
+Superior glenohumeral ligament.l;4
+Superior glenohumeral ligament.r;5
+Middle glenohumeral ligament.l;6
+Middle glenohumeral ligament.r;7
+Inferior glenohumeral ligament.l;8
+Inferior glenohumeral ligament.r;9
+Coracohumeral ligament.l;10
+Coracohumeral ligament.r;11
+Transverse humeral ligament.l;12
+Transverse humeral ligament.r;13
+Elbow joint.g;1
+Articular capsule of elbow joint.l;0
+Articular capsule of elbow joint.r;1
+Humero-ulnar joint.g;2
+Humeroradial joint.g;3
+Proximal radio-ulnar joint.g;4
+Ulnar collateral ligament.l;5
+Ulnar collateral ligament.r;6
+Radial collateral ligament.r;7
+Radial collateral ligament.l;8
+Annular ligament of radius.l;9
+Annular ligament of radius.r;10
+Quadrate ligament.l;11
+Quadrate ligament.r;12
+Distal radio-ulnar joint.g;2
+Articular disc of distal radio-ulnar joint.l;0
+Articular disc of distal radio-ulnar joint.r;1
+Dorsal radio-ulnar ligament.l;2
+Dorsal radio-ulnar ligament.r;3
+Palmar radio-ulnar ligament.l;4
+Palmar radio-ulnar ligament.r;5
+Radiocarpal joint.g;3
+Articular capsule of radiocarpal joint.l;0
+Articular capsule of radiocarpal joint.r;1
+Dorsal radiocarpal ligament.l;2
+Dorsal radiocarpal ligament.r;3
+Radioscaphocapitate ligament.l;4
+Radioscaphocapitate ligament.r;5
+Radiocapitate ligament.l;6
+Radiocapitate ligament.r;7
+Ulnocapitate ligament.l;8
+Ulnocapitate ligament.r;9
+Ulnolunate ligament.l;10
+Ulnolunate ligament.r;11
+Ulnotriquetral ligament.l;12
+Ulnotriquetral ligament.r;13
+Ulnopisiform ligament;14
+Ulnopisiform ligament.l;15
+Ulnar collateral ligament of wrist joint.l;16
+Radial collateral ligament of wrist joint.l;17
+Joints of hand.g;4
+Intercarpal joints.g;0
+Radiate carpal ligament.l;0
+Radiate carpal ligament.r;1
+Dorsal intercarpal ligaments.l;2
+Dorsal scaphotriquetral ligament.l;0
+Dorsal intercarpal ligaments.r;3
+Dorsal scaphotriquetral ligament.r;0
+Scaphotrapeziotrapezoidal ligament.l;4
+Scaphotrapeziotrapezoidal ligament.r;5
+Scaphocapitate ligament.l;6
+Scaphocapitate ligament.r;7
+Palmar scaphotriquetral ligament.l;8
+Palmar scaphotriquetral ligament.r;9
+Triquetrocapitate ligament.l;10
+Triquetrocapitate ligament.r;11
+Triquetrohamate ligament.l;12
+Triquetrohamate ligament.r;13
+Pisotriquetral ligament.l;14
+Pisotriquetral ligament.r;15
+Palmar capitohamate ligament.l;16
+Palmar capitohamate ligament.r;17
+Palmar trapezoideocapitate ligament.l;18
+Palmar trapezoideocapitate ligament.r;19
+Palmar lunotriquetral ligament.l;20
+Palmar lunotriquetral ligament.r;21
+Scapholunate interosseous ligament.l;22
+Scapholunate interosseous ligament.r;23
+Trapeziotrapezoidal interosseous ligament.l;24
+Trapeziotrapezoidal interosseous ligament.r;25
+Capitohamate interosseous ligament.l;26
+Capitohamate interosseous ligament.r;27
+Trapezoideocapitate interosseous ligament.r;28
+Trapezoideocapitate interosseous ligament.l;29
+Lunotriquetral interosseous ligament.l;30
+Lunotriquetral interosseous ligament.r;31
+Pisohamate ligament.l;32
+Pisohamate ligament.r;33
+Pisometacarpal ligament.l;34
+Pisometacarpal ligament.r;35
+Radial collateral ligament of wrist joint.r;36
+Ulnar collateral ligament of wrist joint.r;37
+Dorsal ulnocarpal ligament.r;38
+Dorsal ulnocarpal ligament.l;39
+Carpometacarpal joints.g;1
+Dorsal carpometacarpal ligaments.l;0
+Dorsal carpometacarpal ligaments.r;1
+Palmar carpometacarpal ligaments.l;2
+Palmar carpometacarpal ligaments.r;3
+Intermetacarpal joints.g;2
+Dorsal metacarpal ligaments.l;0
+Dorsal metacarpal ligaments.r;1
+Interosseous metacarpal ligaments.l;2
+Interosseous metacarpal ligaments.r;3
+Palmar metacarpal ligaments.l;4
+Palmar metacarpal ligaments.r;5
+Metacarpophalangeal joints.g;3
+Articular capsules of metacarpophalangeal joints.l;0
+Articular capsules of metacarpophalangeal joints.r;1
+Collateral metacarpophalangeal ligaments.l;2
+Collateral metacarpophalangeal ligaments.r;3
+Deep transverse metacarpal ligament.l;4
+Deep transverse metacarpal ligament.r;5
+Interphalangeal joints of hand.g;4
+Articular capsules of distal interphalangeal joints.l;0
+Articular capsules of distal interphalangeal joints.r;1
+Articular capsules of proximal interphalangeal joints.l;2
+Articular capsules of proximal interphalangeal joints.r;3
+Collateral interphalangeal ligaments of hand.l;4
+Collateral interphalangeal ligaments of hand.r;5
+Palmar interphalangeal ligaments.l;6
+Palmar interphalangeal ligaments.r;7
+Joints of lower limb.g;13
+Joints of pelvic girdle.g;0
+Fibrous joints of pelvic girdle.g;0
+Obturator membrane.l;0
+Obturator membrane.r;1
+Sacrotuberous ligament.l;2
+Sacrotuberous ligament.r;3
+Sacrospinous ligament.l;4
+Sacrospinous ligament.r;5
+Iliolumbar ligament.l;6
+Iliolumbar ligament.r;7
+Cartilaginous joints of pelvic girdle.g;1
+Pubic symphysis;0
+Interpubic disc;0
+Superior pubic ligament;1
+Inferior pubic ligament;2
+Triradiate cartilage.l;1
+Triradiate cartilage.r;2
+Synovial joints of pelvic girdle.g;2
+Sacro-iliac joint.g;0
+Anterior sacro-iliac ligament.l;0
+Anterior sacro-iliac ligament.r;1
+Interosseous sacro-iliac ligament.l;2
+Interosseous sacro-iliac ligament.r;3
+Posterior sacro-iliac ligament.l;4
+Posterior sacro-iliac ligament.r;5
+Joints of free lower limb.g;1
+Fibrous joints of free lower limb.g;0
+Interosseous membrane of leg.l;0
+Interosseous membrane of leg.r;1
+Tibiofibular syndesmosis.g;2
+Anterior tibiofibular ligament.l;0
+Anterior tibiofibular ligament.r;1
+Posterior tibiofibular ligament.l;2
+Posterior tibiofibular ligament.r;3
+Transverse tibiofibular ligament.l;4
+Transverse tibiofibular ligament.r;5
+Synovial joints of free lower limb.g;1
+Hip joint.g;0
+Articular capsule of hip joint.l;0
+Articular capsule of hip joint.r;1
+Zona orbicularis.l;2
+Zona orbicularis.r;3
+Transverse acetabular ligament.l;4
+Transverse acetabular ligament.r;5
+Descending part of iliofemoral ligament.l;6
+Descending part of iliofemoral ligament.r;7
+Ischiofemoral ligament.l;8
+Ischiofemoral ligament.r;9
+Pubofemoral ligament.l;10
+Pubofemoral ligament.r;11
+Acetabular labrum.l;12
+Acetabular labrum.r;13
+Transverse part of iliofemoral ligament.l;14
+Transverse part of iliofemoral ligament.r;15
+Ligament of head of femur.l;16
+Ligament of head of femur.r;17
+Frenula capsulae.l;18
+Frenula capsulae.r;19
+Knee joint.g;1
+Articular capsule of knee joint.l;0
+Articular capsule of knee joint.r;1
+Lateral meniscus.l;2
+Lateral meniscus.r;3
+Anterior meniscotibial ligament (Lateral meniscus).l;4
+Anterior meniscotibial ligament (Lateral meniscus).r;5
+Posterior meniscotibial ligament (Lateral meniscus).l;6
+Posterior meniscotibial ligament (Lateral meniscus).r;7
+Medial meniscus.l;8
+Medial meniscus.r;9
+Anterior meniscotibial ligament (Medial meniscus).l;10
+Anterior meniscotibial ligament (Medial meniscus).r;11
+Posterior meniscotibial ligament (Medial meniscus).l;12
+Posterior meniscotibial ligament (Medial meniscus).r;13
+Transverse ligament of knee.l;14
+Transverse ligament of knee.r;15
+Anterior cruciate ligament.l;16
+Anterior cruciate ligament.r;17
+Posterior cruciate ligament.l;18
+Posterior cruciate ligament.r;19
+Fibular collateral ligament.l;20
+Fibular collateral ligament.r;21
+Superficial part of tibial collateral ligament.l;22
+Superficial part of tibial collateral ligament.r;23
+Deep part of tibial collateral ligament.l;24
+Deep part of tibial collateral ligament.r;25
+Oblique popliteal ligament.l;26
+Oblique popliteal ligament.r;27
+Arcuate popliteal ligament.l;28
+Arcuate popliteal ligament.r;29
+Meniscopatellar ligament.l;30
+Meniscopatellar ligament.r;31
+Popliteofibular ligament.l;32
+Popliteofibular ligament.r;33
+Infrapatellar fat pad.l;34
+Infrapatellar fat pad.r;35
+Superior tibiofibular joint.g;2
+Articular capsule of superior tibiofibular joint.l;0
+Articular capsule of superior tibiofibular joint.r;1
+Anterior ligament of fibular head.l;2
+Anterior ligament of fibular head.r;3
+Posterior ligament of fibular head.l;4
+Posterior ligament of fibular head.r;5
+Ankle joint.g;3
+Medial collateral ligament of ankle.g;0
+Tibionavicular ligament.l;0
+Tibionavicular ligament.r;1
+Tibiocalcaneal ligament.l;2
+Tibiocalcaneal ligament.r;3
+Posterior tibiotalar ligament.l;4
+Posterior tibiotalar ligament.r;5
+Lateral collateral ligament of ankle.g;1
+Anterior talofibular ligament.l;0
+Anterior talofibular ligament.r;1
+Posterior talofibular ligament.l;2
+Posterior talofibular ligament.r;3
+Calcaneofibular ligament.l;4
+Calcaneofibular ligament.r;5
+Joints of foot.g;4
+Intertarsal joints.g;0
+Lateral talocalcaneal ligament.l;0
+Lateral talocalcaneal ligament.r;1
+Medial talocalcaneal ligament.l;2
+Medial talocalcaneal ligament.r;3
+Posterior talocalcaneal ligament.l;4
+Posterior talocalcaneal ligament.r;5
+Talocalcaneal interosseous ligament.l;6
+Talocalcaneal interosseous ligament.r;7
+Anterior talocalcaneal ligament.l;8
+Anterior talocalcaneal ligament.r;9
+Calcaneonavicular ligament.l;10
+Calcaneonavicular ligament.r;11
+Calcaneocuboid ligament.l;12
+Calcaneocuboid ligament.r;13
+Long plantar ligament.l;14
+Long plantar ligament.r;15
+Talonavicular ligament.l;16
+Talonavicular ligament.r;17
+Plantar calcaneocuboid ligament.l;18
+Plantar calcaneocuboid ligament.r;19
+Dorsal calcaneocuboid ligament.l;20
+Dorsal calcaneocuboid ligament.r;21
+Plantar calcaneonavicular ligament.l;22
+Plantar calcaneonavicular ligament.r;23
+Dorsal cuneonavicular ligaments.l;24
+Dorsal cuneonavicular ligaments.r;25
+Plantar cuneonavicular ligaments.l;26
+Plantar cuneonavicular ligaments.r;27
+Cuneocuboid interosseous ligament.l;28
+Cuneocuboid interosseous ligament.r;29
+Dorsal cuboideonavicular ligament.l;30
+Dorsal cuboideonavicular ligament.r;31
+Dorsal cuneocuboid ligament.l;32
+Dorsal cuneocuboid ligament.r;33
+Plantar cuneocuboid ligament.l;34
+Plantar cuneocuboid ligament.r;35
+Plantar cuboideonavicular ligament.l;36
+Plantar cuboideonavicular ligament.r;37
+Intercuneiform interosseous ligaments.l;38
+Intercuneiform interosseous ligaments.r;39
+Dorsal intercuneiform ligaments.l;40
+Dorsal intercuneiform ligaments.r;41
+Plantar intercuneiform ligaments.l;42
+Plantar intercuneiform ligaments.r;43
+Tarsometatarsal joints.g;1
+Dorsal tarsometatarsal ligaments.l;0
+Dorsal tarsometatarsal ligaments.r;1
+Plantar tarsometatarsal ligaments.l;2
+Plantar tarsometatarsal ligaments.r;3
+Cuneometatarsal interosseous ligaments.l;4
+Cuneometatarsal interosseous ligaments.r;5
+Intermetatarsal joints.g;2
+Metatarsal interosseous ligaments.l;0
+Metatarsal interosseous ligaments.r;1
+Dorsal metatarsal ligaments.l;2
+Dorsal metatarsal ligaments.r;3
+Plantar metatarsal ligaments.l;4
+Plantar metatarsal ligaments.r;5
+Intersesamoid ligament.l;6
+Intersesamoid ligament.r;7
+Metatarsophalangeal joints.g;3
+Articular capsules of metatarsophalangeal joints.l;0
+Articular capsules of metatarsophalangeal joints.r;1
+Collateral metatarsophalangeal ligaments.l;2
+Collateral metatarsophalangeal ligaments.r;3
+Plantar metatarsophalangeal ligaments.l;4
+Plantar metatarsophalangeal ligaments.r;5
+Deep transverse metatarsal ligament.l;6
+Deep transverse metatarsal ligament.r;7
+Interphalangeal joints of foot.g;4
+Articular capsule of interphalangeal joint of great toe.l;0
+Articular capsule of interphalangeal joint of great toe.r;1
+Articular capsules of proximal interphalangeal joints of foot.l;2
+Articular capsules of proximal interphalangeal joints of foot.r;3
+Articular capsules of distal interphalangeal joints of foot.l;4
+Articular capsules of distal interphalangeal joints of foot.r;5
+Collateral interphalangeal ligaments of foot.l;6
+Collateral interphalangeal ligaments of foot.r;7
+Plantar interphalangeal ligaments.l;8
+Plantar interphalangeal ligaments.r;9
+Muscular system.g;3
+Muscles.g;0
+Synovial bursae.g;1
+Tendon sheaths.g;2
+Cranial part of muscular system.g;3
+Bursae of head.g;0
+Muscles of head.g;1
+Extra-ocular muscles.g;0
+Superior rectus muscle.l;0
+Superior rectus muscle.r;1
+Inferior rectus muscle.l;2
+Inferior rectus muscle.r;3
+Medial rectus muscle.l;4
+Medial rectus muscle.r;5
+Lateral rectus muscle.l;6
+Lateral rectus muscle.r;7
+Common tendinous ring.l;8
+Common tendinous ring.r;9
+Superior oblique muscle.l;10
+Superior oblique muscle.r;11
+Trochlea of superior oblique muscle.l;12
+Trochlea of superior oblique muscle.r;13
+Inferior oblique muscle.l;14
+Inferior oblique muscle.r;15
+Levator palpebrae superioris.l;16
+Levator palpebrae superioris.r;17
+Superior tarsus.l;18
+Superior tarsus.r;19
+Inferior tarsus.l;20
+Inferior tarsus.r;21
+Superficial muscles of head.g;1
+Epicranius muscle.g;0
+Frontalis muscle.l;0
+Frontalis muscle.r;1
+Occipitalis muscle.l;2
+Occipitalis muscle.r;3
+Temporoparietalis muscle.l;4
+Temporoparietalis muscle.r;5
+Epicranial aponeurosis.l;6
+Epicranial aponeurosis.r;7
+Facial muscles.g;1
+Procerus muscle.l;0
+Procerus muscle.r;1
+Nasalis muscle.l;2
+Nasalis muscle.r;3
+Depressor septi nasi.l;4
+Depressor septi nasi.r;5
+Palpebral part of orbicularis oculi.l;6
+Palpebral part of orbicularis oculi.r;7
+Orbital part of orbicularis oculi.l;8
+Orbital part of orbicularis oculi.r;9
+Corrugator supercilii.l;10
+Corrugator supercilii.r;11
+Orbicularis oris muscle.l;12
+Orbicularis oris muscle.r;13
+Depressor anguli oris.l;14
+Depressor anguli oris.r;15
+Risorius muscle.l;16
+Risorius muscle.r;17
+Zygomaticus major muscle.l;18
+Zygomaticus major muscle.r;19
+Zygomaticus minor muscle.l;20
+Zygomaticus minor muscle.r;21
+Levator labii superioris.l;22
+Levator labii superioris.r;23
+Levator nasolabialis.l;24
+Levator nasolabialis.r;25
+Depressor labii inferioris.l;26
+Depressor labii inferioris.r;27
+Levator anguli oris.l;28
+Levator anguli oris.r;29
+Bucinator.l;30
+Bucinator.r;31
+Mentalis muscle.l;32
+Mentalis muscle.r;33
+Extrinsic auricular muscles.g;2
+Intrinsic auricular muscles.g;2
+Muscles of auditory ossicles.g;3
+Masticatory muscles.g;4
+Superficial part of masseter.l;0
+Superficial part of masseter.r;1
+Deep part of masseter.l;2
+Deep part of masseter.r;3
+Temporalis muscle.l;4
+Temporalis muscle.r;5
+Superior head of lateral pterygoid muscle.l;6
+Superior head of lateral pterygoid muscle.r;7
+Inferior head of lateral pterygoid muscle.l;8
+Inferior head of lateral pterygoid muscle.r;9
+Medial pterygoid muscle.l;10
+Medial pterygoid muscle.r;11
+Muscles of tongue.g;5
+Genioglossus muscle.l;0
+Genioglossus muscle.r;1
+Hyoglossus muscle.l;2
+Hyoglossus muscle.r;3
+Muscles of soft palate.g;6
+Palatopharyngeus muscle.l;0
+Palatopharyngeus muscle.r;1
+Cervical part of muscular system.g;4
+Muscles of neck.g;0
+Platysma.l;0
+Platysma.r;1
+Longus colli muscle.l;2
+Longus colli muscle.r;3
+Longus capitis muscle.l;4
+Longus capitis muscle.r;5
+Rectus anterior capitis muscle.l;6
+Rectus anterior capitis muscle.r;7
+Rectus lateralis capitis muscle.r;8
+Rectus lateralis capitis muscle.l;9
+Scalenus anterior muscle.l;10
+Scalenus anterior muscle.r;11
+Scalenus medius muscle.l;12
+Scalenus medius muscle.r;13
+Scalenus posterior muscle.l;14
+Scalenus posterior muscle.r;15
+Sternocleidomastoid muscle.l;16
+Sternocleidomastoid muscle.r;17
+Suprahyoid muscles.g;18
+Digastric muscle.g;0
+Anterior belly of digastric muscle.l;0
+Anterior belly of digastric muscle.r;1
+Intermediate tendon of digastric muscle.l;2
+Intermediate tendon of digastric muscle.r;3
+Posterior belly of digastric muscle.l;4
+Posterior belly of digastric muscle.r;5
+Stylohyoid muscle.r;1
+Stylohyoid muscle.l;2
+Mylohyoid muscle.l;3
+Mylohyoid muscle.r;4
+Geniohyoid muscle.l;5
+Geniohyoid muscle.r;6
+Infrahyoid muscles.g;19
+Sternohyoid muscle.l;0
+Sternohyoid muscle.r;1
+Omohyoid muscle.l;2
+Omohyoid muscle.r;3
+Sternothyroid muscle.l;4
+Sternothyroid muscle.r;5
+Thyrohyoid muscle.l;6
+Thyrohyoid muscle.r;7
+Pharyngeal muscles.g;20
+Superior pharyngeal constrictor.l;0
+Superior pharyngeal constrictor.r;1
+Middle pharyngeal constrictor.l;2
+Middle pharyngeal constrictor.r;3
+Inferior pharyngeal constrictor.l;4
+Inferior pharyngeal constrictor.r;5
+Stylopharyngeus muscle.l;6
+Stylopharyngeus muscle.r;7
+Laryngeal muscles.g;21
+Straight part of cricothyroid muscle.l;0
+Straight part of cricothyroid muscle.r;1
+Oblique part of cricothyroid muscle.l;2
+Oblique part of cricothyroid muscle.r;3
+Posterior crico-arytenoid muscle.l;4
+Posterior crico-arytenoid muscle.r;5
+Lateral crico-arytenoid muscle.l;6
+Lateral crico-arytenoid muscle.r;7
+External part of thyro-arytenoid muscle.l;8
+External part of thyro-arytenoid muscle.r;9
+Thyro-epiglottic part of thyro-arytenoid muscle.l;10
+Thyro-epiglottic part of thyro-arytenoid muscle.r;11
+Ary-epiglottic part of oblique arytenoid muscle.l;12
+Ary-epiglottic part of oblique arytenoid muscle.r;13
+Transverse arytenoid muscle;14
+Cervical bursae.g;1
+Dorsal part of muscular system.g;5
+Hypaxial muscles of back.g;0
+Trapezius muscle.g;0
+Ascending part of trapezius muscle.l;0
+Ascending part of trapezius muscle.r;1
+Descending part of trapezius muscle.l;2
+Descending part of trapezius muscle.r;3
+Transverse part of trapezius muscle.l;4
+Transverse part of trapezius muscle.r;5
+Latissimus dorsi muscle.l;1
+Latissimus dorsi muscle.r;2
+Rhomboid major muscle.l;3
+Rhomboid major muscle.r;4
+Rhomboid minor muscle.l;5
+Rhomboid minor muscle.r;6
+Levator scapulae.l;7
+Levator scapulae.r;8
+Serratus posterior inferior muscle.l;9
+Serratus posterior inferior muscle.r;10
+Serratus posterior superior muscle.l;11
+Serratus posterior superior muscle.r;12
+Dorsal parts of lateral intertransversarii lumborum muscles.l;13
+Dorsal parts of lateral intertransversarii lumborum muscles.r;14
+Ventral parts of lateral intertransversarii lumborum muscles.l;15
+Ventral parts of lateral intertransversarii lumborum muscles.r;16
+Epaxial muscles.g;1
+Suboccipital muscles.g;0
+Rectus posterior major capitis muscle.l;0
+Rectus posterior major capitis muscle.r;1
+Rectus posterior minor capitis muscle.l;2
+Rectus posterior minor capitis muscle.r;3
+Obliquus superior capitis muscle.l;4
+Obliquus superior capitis muscle.r;5
+Obliquus inferior capitis muscle.l;6
+Obliquus inferior capitis muscle.r;7
+Erector spinae.g;1
+Iliocostalis muscles.g;0
+Iliocostalis lumborum muscle.r;0
+Iliocostalis lumborum muscle.l;1
+Iliocostalis thoracis muscle.r;2
+Iliocostalis thoracis muscle.l;3
+Iliocostalis colli muscle.r;4
+Iliocostalis colli muscle;5
+Longissimus muscles.g;1
+Longissimus thoracis muscle.l;0
+Longissimus thoracis muscle.r;1
+Longissimus colli muscle.l;2
+Longissimus colli muscle.r;3
+Longissimus capitis muscle.l;4
+Longissimus capitis muscle.r;5
+Spinalis muscles.g;2
+Spinalis thoracis muscle.l;0
+Spinalis thoracis muscle.r;1
+Spinalis colli muscle.l;2
+Spinalis colli muscle.r;3
+Spinalis capitis muscle.l;4
+Spinalis capitis muscle.r;5
+Spinotransversales muscles.g;2
+Splenius muscles.g;0
+Splenius capitis muscle.l;0
+Splenius capitis muscle.r;1
+Splenius colli muscle.l;2
+Splenius colli muscle.r;3
+Intertransversarii muscles.g;3
+Transversospinal muscles.g;4
+Multifidus muscles.g;0
+Multifidus colli muscle.l;0
+Multifidus colli muscle.r;1
+Multifidus lumborum muscle.l;2
+Multifidus lumborum muscle.r;3
+Multifidus thoracis muscle.l;4
+Multifidus thoracis muscle.r;5
+Semispinalis muscles.g;1
+Semispinalis colli muscle.r;0
+Semispinalis colli muscle.l;1
+Semispinalis thoracis muscle.r;2
+Semispinalis thoracis muscle.l;3
+Rotatores.g;2
+Rotatores.l;0
+Rotatores.r;1
+Interspinales muscles.g;5
+Interspinales lumborum muscles.l;0
+Interspinales lumborum muscles.r;1
+Interspinales thoracis muscles.l;2
+Interspinales thoracis muscles.r;3
+Interspinales colli muscles.l;4
+Interspinales colli muscles.r;5
+Thoracic part of muscular system.g;6
+Muscles of thorax.g;0
+Pectoralis major muscle.g;0
+Clavicular head of pectoralis major muscle.l;0
+Clavicular head of pectoralis major muscle.r;1
+Sternocostal head of pectoralis major muscle.l;2
+Sternocostal head of pectoralis major muscle.r;3
+(Abdominal part of pectoralis major muscle).l;4
+(Abdominal part of pectoralis major muscle).r;5
+Pectoralis minor muscle.l;1
+Pectoralis minor muscle.r;2
+Subclavius muscle.l;3
+Subclavius muscle.r;4
+Serratus anterior muscle.l;5
+Serratus anterior muscle.r;6
+Levatores costarum.g;7
+Levatores longi costarum.l;0
+Levatores longi costarum.r;1
+Levatores breves costarum.l;2
+Levatores breves costarum.r;3
+External intercostal muscles.l;8
+External intercostal muscles.r;9
+Internal intercostal muscles.l;10
+Internal intercostal muscles.r;11
+Innermost intercostal muscles.l;12
+Innermost intercostal muscles.r;13
+Transversus thoracis muscle.l;14
+Transversus thoracis muscle.r;15
+Diaphragm;1
+Abdominal part of muscular system.g;7
+Muscles of abdomen.g;0
+Rectus abdominis muscle.l;0
+Rectus abdominis muscle.r;1
+Pyramidalis muscle.l;2
+Pyramidalis muscle.r;3
+External abdominal oblique muscle.l;4
+Inguinal ligament.l;0
+External abdominal oblique muscle.r;5
+Inguinal ligament.r;0
+Internal abdominal oblique muscle.l;6
+Internal abdominal oblique muscle.r;7
+Transversus abdominis muscle.l;8
+Transversus abdominis muscle.r;9
+Linea alba;10
+Quadratus lumborum muscle.l;11
+Quadratus lumborum muscle.r;12
+Pelvic part of muscular system.g;8
+Muscles of pelvis.g;0
+Pelvic diaphragm.g;0
+Levator ani.g;0
+Iliococcygeus muscle.l;0
+Iliococcygeus muscle.r;1
+Pubococcygeus muscle.r;2
+Pubococcygeus muscle.l;3
+Pubo-analis muscle.l;4
+Pubo-analis muscle.r;5
+Tendinous arch of levator ani.l;6
+Tendinous arch of levator ani.r;7
+Coccygeus muscle.l;1
+Coccygeus muscle.r;2
+Perineal muscles.g;1
+External anal sphincter.l;0
+External anal sphincter.r;1
+Muscular system of upper limb.g;9
+Muscles of upper limb.g;0
+Scapulohumeral muscles.g;0
+Deltoid muscle.g;0
+Clavicular part of deltoid muscle.l;0
+Clavicular part of deltoid muscle.r;1
+Acromial part of deltoid muscle.l;2
+Acromial part of deltoid muscle.r;3
+Scapular spinal part of deltoid muscle.l;4
+Scapular spinal part of deltoid muscle.r;5
+Rotator cuff muscles.g;1
+Supraspinatus muscle.l;0
+Supraspinatus muscle.r;1
+Infraspinatus muscle.l;2
+Infraspinatus muscle.r;3
+Teres minor muscle.l;4
+Teres minor muscle.r;5
+Subscapularis muscle.l;6
+Subscapularis muscle.r;7
+Teres major muscle.l;2
+Teres major muscle.r;3
+Anterior compartment of arm.g;1
+Biceps brachii muscle.g;0
+Long head of biceps brachii.l;0
+Long head of biceps brachii.r;1
+Short head of biceps brachii.l;2
+Short head of biceps brachii.r;3
+Coracobrachialis muscle.l;1
+Coracobrachialis muscle.r;2
+Brachialis muscle.l;3
+Brachialis muscle.r;4
+Posterior compartment of arm.g;2
+Triceps brachii muscle.g;0
+Long head of triceps brachii.l;0
+Long head of triceps brachii.r;1
+Lateral head of triceps brachii.l;2
+Lateral head of triceps brachii.r;3
+Medial head of triceps brachii.l;4
+Medial head of triceps brachii.r;5
+Anterior compartment of forearm.g;3
+Superficial part of anterior compartment of forearm.g;0
+Superficial head of pronator teres.l;0
+Superficial head of pronator teres.r;1
+Deep head of pronator teres.l;2
+Deep head of pronator teres.r;3
+Flexor carpi radialis.l;4
+Flexor carpi radialis.r;5
+Palmaris longus muscle.l;6
+Palmaris longus muscle.r;7
+Humeral head of flexor carpi ulnaris.l;8
+Humeral head of flexor carpi ulnaris.r;9
+Ulnar head of flexor carpi ulnaris.l;10
+Ulnar head of flexor carpi ulnaris.r;11
+Humero-ulnar head of flexor digitorum superficialis.l;12
+Humero-ulnar head of flexor digitorum superficialis.r;13
+Radial head of flexor digitorum superficialis.l;14
+Radial head of flexor digitorum superficialis.r;15
+Deep part of anterior compartment of forearm.g;1
+Flexor digitorum profundus.l;0
+Flexor digitorum profundus.r;1
+Flexor pollicis longus.l;2
+Flexor pollicis longus.r;3
+Pronator quadratus.l;4
+Pronator quadratus.r;5
+Posterior compartment of forearm.g;4
+Superficial part of posterior compartment of forearm.g;0
+Brachioradialis muscle.l;0
+Brachioradialis muscle.r;1
+Extensor carpi radialis longus.l;2
+Extensor carpi radialis longus.r;3
+Extensor carpi radialis brevis.l;4
+Extensor carpi radialis brevis.r;5
+Extensor digitorum.l;6
+Extensor digitorum.r;7
+Extensor digiti minimi.l;8
+Extensor digiti minimi.r;9
+Humeral head of extensor carpi ulnaris.l;10
+Humeral head of extensor carpi ulnaris.r;11
+Ulnar head of extensor carpi ulnaris.l;12
+Ulnar head of extensor carpi ulnaris.r;13
+Anconeus muscle.l;14
+Anconeus muscle.r;15
+Deep part of posterior compartment of forearm.g;1
+Supinator.l;0
+Supinator.r;1
+Extensor indicis.l;2
+Extensor indicis.r;3
+Extensor pollicis brevis.l;4
+Extensor pollicis brevis.r;5
+Abductor pollicis longus.l;6
+Abductor pollicis longus.r;7
+Extensor pollicis longus.l;8
+Extensor pollicis longus.r;9
+Muscles of hand.g;5
+Abductor pollicis brevis.l;0
+Abductor pollicis brevis.r;1
+Superficial head of flexor pollicis brevis.l;2
+Superficial head of flexor pollicis brevis.r;3
+Deep head of flexor pollicis brevis.l;4
+Deep head of flexor pollicis brevis.r;5
+Opponens pollicis muscle.l;6
+Opponens pollicis muscle.r;7
+Oblique head of adductor pollicis.l;8
+Oblique head of adductor pollicis.r;9
+Transverse head of adductor pollicis.l;10
+Transverse head of adductor pollicis.r;11
+Abductor digiti minimi of hand.l;12
+Abductor digiti minimi of hand.r;13
+Flexor digiti minimi of hand.l;14
+Flexor digiti minimi of hand.r;15
+Opponens digiti minimi muscle of hand.l;16
+Opponens digiti minimi muscle of hand.r;17
+Lumbrical muscles of hand.l;18
+Lumbrical muscles of hand.r;19
+Dorsal interossei muscles of hand.l;20
+Dorsal interossei muscles of hand.r;21
+Palmar interossei muscles.l;22
+Palmar interossei muscles.r;23
+Bursae of upper limb.g;1
+Subtendinous bursa of trapezius muscle.l;0
+Subtendinous bursa of trapezius muscle.r;1
+Subcutaneous acromial bursa.l;2
+Subcutaneous acromial bursa.r;3
+Subacromial bursa.l;4
+Subacromial bursa.r;5
+Subdeltoid bursa.l;6
+Subdeltoid bursa.r;7
+Coracobrachial bursa.l;8
+Coracobrachial bursa.r;9
+Subtendinous bursa of infraspinatus muscle.l;10
+Subtendinous bursa of infraspinatus muscle.r;11
+Subtendinous bursa of teres major muscle.l;12
+Subtendinous bursa of teres major muscle.r;13
+Subtendinous bursa of triceps brachii muscle.l;14
+Subtendinous bursa of triceps brachii muscle.r;15
+Bicipitoradial bursa.l;16
+Bicipitoradial bursa.r;17
+Tendon sheaths of upper limb.g;2
+Intertubercular tendon sheath.l;0
+Intertubercular tendon sheath.r;1
+Carpal tendon sheaths.g;2
+Palmar carpal tendon sheaths.g;0
+Tendon sheath of flexor pollicis longus.l;0
+Tendon sheath of flexor pollicis longus.r;1
+Tendon sheath of flexor carpi radialis.l;2
+Tendon sheath of flexor carpi radialis.r;3
+Common flexor tendon sheath.l;4
+Common flexor tendon sheath.r;5
+Dorsal carpal tendon sheaths.g;1
+Tendon sheath - abd. pollicis longus - ext. pollicis brevis.l;0
+Tendon sheath - abd. pollicis longus - ext. pollicis brevis.r;1
+Tendon sheath of extensors carpi radialis.l;2
+Tendon sheath of extensors carpi radialis.r;3
+Tendon sheath of extensor pollicis longus.l;4
+Tendon sheath of extensor pollicis longus.r;5
+Tendon sheath of extensor digitorum and extensor indicis.l;6
+Tendon sheath of extensor digitorum and extensor indicis.r;7
+Tendon sheath of extensor digiti minimi manus.l;8
+Tendon sheath of extensor digiti minimi manus.r;9
+Tendon sheath of extensor carpi ulnaris.l;10
+Tendon sheath of extensor carpi ulnaris.r;11
+Tendon sheaths of digits of hand.g;3
+Cruciform part of fibrous sheath of digit of hand.l;0
+Cruciform part of fibrous sheath of digit of hand.r;1
+Synovial sheaths of digits of hand.l;2
+Synovial sheaths of digits of hand.r;3
+Muscular system of lower limb.g;10
+Muscles of lower limb.g;0
+Iliopsoas muscle.g;0
+Iliacus muscle.l;0
+Iliacus muscle.r;1
+Psoas major.l;2
+Psoas major.r;3
+Superficial gluteal muscles.g;1
+Gluteus maximus muscle.l;0
+Gluteus maximus muscle.r;1
+Gluteus medius muscle.l;2
+Gluteus medius muscle.r;3
+Gluteus minimus muscle.l;4
+Gluteus minimus muscle.r;5
+Tensor fasciae latae.l;6
+Iliotibial tract.l;0
+Tensor fasciae latae.r;7
+Iliotibial tract.r;0
+Deep gluteal muscles.g;2
+Piriformis muscle.l;0
+Piriformis muscle.r;1
+Obturator internus.l;2
+Obturator internus.r;3
+Superior gemellus muscle.r;4
+Superior gemellus muscle.l;5
+Inferior gemellus muscle.l;6
+Inferior gemellus muscle.r;7
+Quadratus femoris muscle.l;8
+Quadratus femoris muscle.r;9
+Anterior compartment of thigh.g;3
+Sartorius muscle.l;0
+Sartorius muscle.r;1
+Rectus femoris muscle.l;2
+Rectus femoris muscle.r;3
+Vastus lateralis muscle.l;4
+Vastus lateralis muscle.r;5
+Vastus intermedius muscle.l;6
+Vastus intermedius muscle.r;7
+Vastus medialis muscle.l;8
+Vastus medialis muscle.r;9
+Medial patellar retinaculum.l;10
+Medial patellar retinaculum.r;11
+Lateral patellar retinaculum.l;12
+Lateral patellar retinaculum.r;13
+Medial compartment of thigh.g;4
+Pectineus muscle.l;0
+Pectineus muscle.r;1
+Adductor longus.l;2
+Adductor longus.r;3
+Adductor brevis.l;4
+Adductor brevis.r;5
+Adductor magnus.l;6
+(Adductor minimus).l;0
+Adductor magnus.r;7
+(Adductor minimus).r;0
+Gracilis muscle.l;8
+Gracilis muscle.r;9
+Obturator externus.r;10
+Obturator externus.l;11
+Posterior compartment of thigh.g;5
+Long head of biceps femoris.l;0
+Long head of biceps femoris.r;1
+Short head of biceps femoris.l;2
+Short head of biceps femoris.r;3
+Semitendinosus muscle.l;4
+Semitendinosus muscle.r;5
+Semimembranosus muscle.l;6
+Semimembranosus muscle.r;7
+Anterior compartment of leg.g;6
+Tibialis anterior muscle.l;0
+Tibialis anterior muscle.r;1
+Extensor digitorum longus.l;2
+Tendon of extensor digitorum longus.l;0
+Extensor digitorum longus.r;3
+Tendon of extensor digitorum longus.r;0
+Fibularis tertius muscle.l;4
+Fibularis tertius muscle.r;5
+Extensor hallucis longus.l;6
+Extensor hallucis longus.r;7
+Lateral compartment of leg.g;7
+Fibularis longus muscle.l;0
+Fibularis longus muscle.r;1
+Fibularis brevis muscle.l;2
+Fibularis brevis muscle.r;3
+Posterior compartment of leg.g;8
+Superficial part of posterior compartment of leg.g;0
+Lateral head of gastrocnemius.l;0
+Lateral head of gastrocnemius.r;1
+Medial head of gastrocnemius.l;2
+Medial head of gastrocnemius.r;3
+Soleus muscle.l;4
+Soleus muscle.r;5
+Calcaneal tendon.l;6
+Calcaneal tendon.r;7
+Plantaris muscle.l;8
+Plantaris muscle.r;9
+Deep part of posterior compartment of leg.g;1
+Popliteus muscle.l;0
+Popliteus muscle.r;1
+Tibialis posterior muscle.l;2
+Tibialis posterior muscle.r;3
+Flexor digitorum longus.l;4
+Flexor digitorum longus.r;5
+Flexor hallucis longus.l;6
+Flexor hallucis longus.r;7
+Muscles of foot.g;9
+Extensor hallucis brevis.l;0
+Extensor hallucis brevis.r;1
+Extensor digitorum brevis.l;2
+Extensor digitorum brevis.r;3
+Abductor hallucis.l;4
+Abductor hallucis.r;5
+Flexor hallucis brevis.g;6
+Medial head of flexor hallucis brevis.l;0
+Medial head of flexor hallucis brevis.r;1
+Lateral head of flexor hallucis brevis.l;2
+Lateral head of flexor hallucis brevis.r;3
+Adductor hallucis.g;7
+Oblique head of adductor hallucis.l;0
+Oblique head of adductor hallucis.r;1
+Transverse head of adductor hallucis.l;2
+Transverse head of adductor hallucis.r;3
+Abductor digiti minimi of foot.l;8
+Abductor digiti minimi of foot.r;9
+(Opponens digiti minimi muscle of foot).l;10
+(Opponens digiti minimi muscle of foot).r;11
+Flexor digiti minimi of foot.r;12
+Flexor digiti minimi of foot.l;13
+Flexor digitorum brevis.l;14
+Flexor digitorum brevis.r;15
+Quadratus plantae muscle.l;16
+Quadratus plantae muscle.r;17
+Lumbrical muscles of foot.l;18
+Lumbrical muscles of foot.r;19
+Dorsal interossei muscles of foot.l;20
+Dorsal interossei muscles of foot.r;21
+Plantar interossei muscles.l;22
+Plantar interossei muscles.r;23
+Bursae of lower limb.g;1
+Subcutaneous trochanteric bursa.l;0
+Subcutaneous trochanteric bursa.r;1
+Trochanteric bursa of gluteus maximus muscle.l;2
+Trochanteric bursa of gluteus maximus muscle.r;3
+Trochanteric bursa of gluteus medius muscle.l;4
+Trochanteric bursa of gluteus medius muscle.r;5
+Trochanteric bursa of gluteus minimus muscle.l;6
+Trochanteric bursa of gluteus minimus muscle.r;7
+Bursa of piriformis muscle.l;8
+Bursa of piriformis muscle.r;9
+Sciatic bursa of obturator internus.l;10
+Sciatic bursa of obturator internus.r;11
+Subtendinous bursa of obturator internus.l;12
+Subtendinous bursa of obturator internus.r;13
+Intermuscular gluteal bursae.l;14
+Intermuscular gluteal bursae.r;15
+Sciatic bursa of gluteus maximus muscle.l;16
+Sciatic bursa of gluteus maximus muscle.r;17
+(Iliopectineal bursa).l;18
+(Iliopectineal bursa).r;19
+Subtendinous bursa of iliacus muscle.l;20
+Subtendinous bursa of iliacus muscle.r;21
+Subcutaneous prepatellar bursa.l;22
+Subcutaneous prepatellar bursa.r;23
+Superior bursa of biceps femoris muscle.l;24
+Superior bursa of biceps femoris muscle.r;25
+Subfacial prepatellar bursa.l;26
+Subfacial prepatellar bursa.r;27
+Subtendinous prepatellar bursa.l;28
+Subtendinous prepatellar bursa.r;29
+Suprapatellar bursa.l;30
+Suprapatellar bursa.r;31
+Subcutaneous infrapatellar bursa.l;32
+Subcutaneous infrapatellar bursa.r;33
+Deep infrapatellar bursa.l;34
+Deep infrapatellar bursa.r;35
+Subcutaneous bursa of tuberosity of tibia.l;36
+Subcutaneous bursa of tuberosity of tibia.r;37
+Subtendinous bursa of sartorius muscle.l;38
+Subtendinous bursa of sartorius muscle.r;39
+Anserine bursa.l;40
+Anserine bursa.r;41
+Inferior subtendinous bursa of biceps femoris muscle.l;42
+Inferior subtendinous bursa of biceps femoris muscle.r;43
+Lateral subtendinous bursa of gastrocnemius muscle.l;44
+Lateral subtendinous bursa of gastrocnemius muscle.r;45
+Medial subtendinous bursa of gastrocnemius muscle.l;46
+Medial subtendinous bursa of gastrocnemius muscle.r;47
+Semimembranosus bursa.l;48
+Semimembranosus bursa.r;49
+Subcutaneous bursa of lateral malleolus.l;50
+Subcutaneous bursa of lateral malleolus.r;51
+Subcutaneous bursa of medial malleolus.l;52
+Subcutaneous bursa of medial malleolus.r;53
+Subtendinous bursa of tibialis anterior.l;54
+Subtendinous bursa of tibialis anterior.r;55
+Subcutaneous calcaneal bursa.l;56
+Subcutaneous calcaneal bursa.r;57
+Subtendinous calcaneal bursa.l;58
+Subtendinous calcaneal bursa.r;59
+Tendon sheaths of lower limb.g;2
+Anterior tarsal tendon sheaths.g;0
+Tendon sheath of tibialis anterior.l;0
+Tendon sheath of tibialis anterior.r;1
+Tendon sheath of extensor hallucis longus.l;2
+Tendon sheath of extensor hallucis longus.r;3
+Tendon sheath of extensor digitorum longus.l;4
+Tendon sheath of extensor digitorum longus.r;5
+Tibial tarsal tendon sheaths.g;1
+Tendon sheath of flexor digitorum longus.l;0
+Tendon sheath of flexor digitorum longus.r;1
+Tendon sheath of tibialis posterior muscle.l;2
+Tendon sheath of tibialis posterior muscle.r;3
+Tendon sheath of flexor hallucis longus.l;4
+Tendon sheath of flexor hallucis longus.r;5
+Fibular tarsal tendon sheaths.g;2
+Common tendon sheath of fibularis muscles.l;0
+Common tendon sheath of fibularis muscles.r;1
+Plantar tendon sheath of fibularis longus muscle.l;2
+Plantar tendon sheath of fibularis longus muscle.r;3
+Tendon sheaths of toes.g;3
+Fasciae.g;4
+Fasciae of head.g;0
+Masseteric fascia.l;0
+Masseteric fascia.r;1
+Superficial layer of temporal fascia.l;2
+Superficial layer of temporal fascia.r;3
+Cervical fasciae.g;1
+Superficial investing cervical fascia.l;0
+Superficial investing cervical fascia.r;1
+Thoracolumbar fascia.g;2
+Posterior layer of thoracolumbar fascia.l;0
+Posterior layer of thoracolumbar fascia.r;1
+Middle layer of thoracolumbar fascia.l;2
+Middle layer of thoracolumbar fascia.r;3
+Anterior layer of thoracolumbar fascia.l;4
+Anterior layer of thoracolumbar fascia.r;5
+Fasciae of thorax.g;3
+Pectoral fascia.l;0
+Pectoral fascia.r;1
+Clavipectoral fascia.l;2
+Clavipectoral fascia.r;3
+Fasciae of abdomen.g;4
+Investing abdominal fascia.l;0
+Investing abdominal fascia.r;1
+Endo-abdominal fascia.g;2
+Iliopsoas fascia.l;0
+Iliopsoas fascia.r;1
+Transversalis fascia;2
+Diaphragmatic fascia;3
+Fasciae of upper limb.g;5
+Deltoid fascia.l;0
+Deltoid fascia.r;1
+Brachial fascia.l;2
+Brachial fascia.r;3
+Medial intermuscular septum of arm.l;4
+Medial intermuscular septum of arm.r;5
+Lateral intermuscular septum of arm.l;6
+Lateral intermuscular septum of arm.r;7
+Antebrachial fascia.l;8
+Extensor retinaculum of wrist.l;0
+Antebrachial fascia.r;9
+Extensor retinaculum of wrist.r;0
+Dorsal fascia of hand.l;10
+Dorsal fascia of hand.r;11
+Superficial transverse metacarpal ligament.l;12
+Superficial transverse metacarpal ligament.r;13
+Palmar aponeurosis.l;14
+Palmar aponeurosis.r;15
+Flexor retinaculum of wrist.r;16
+Flexor retinaculum of wrist.l;17
+Fasciae of lower limb.g;6
+Piriformis fascia.l;0
+Piriformis fascia.r;1
+Fascia lata.l;2
+Fascia lata.r;3
+Lateral femoral intermuscular septum.l;4
+Lateral femoral intermuscular septum.r;5
+Medial femoral intermuscular septum.l;6
+Medial femoral intermuscular septum.r;7
+Iliopectineal arch.l;8
+Iliopectineal arch.r;9
+Popliteal fascia.l;10
+Popliteal fascia.r;11
+Crural fascia.l;12
+Crural fascia.r;13
+Anterior intermuscular septum of leg.l;14
+Anterior intermuscular septum of leg.r;15
+Posterior intermuscular septum of leg.l;16
+Posterior intermuscular septum of leg.r;17
+Transverse intermuscular septum of leg.l;18
+Transverse intermuscular septum of leg.r;19
+Superior extensor retinaculum of ankle.l;20
+Superior extensor retinaculum of ankle.r;21
+Inferior extensor retinaculum of ankle.l;22
+Inferior extensor retinaculum of ankle.r;23
+Flexor retinaculum of ankle.l;24
+Flexor retinaculum of ankle.r;25
+Superior fibular retinaculum.l;26
+Superior fibular retinaculum.r;27
+Inferior fibular retinaculum.l;28
+Inferior fibular retinaculum.r;29
+Plantar aponeurosis.l;30
+Plantar aponeurosis.r;31
+Superficial transverse metatarsal ligament.l;32
+Superficial transverse metatarsal ligament.r;33
+Arterial system.g;5
+Heart.g;0
+Base of heart;0
+Anterior surface of heart;1
+Inferior surface of heart;2
+Right surface of heart;3
+Left surface of heart;4
+Right border of heart;5
+Inferior border of heart;6
+Apex of heart;7
+Notch of cardiac apex;8
+Anterior interventricular sulcus;9
+Inferior interventricular sulcus;10
+Coronary sulcus;11
+Interatrial septum;12
+Left atrium;13
+Left ventricle;14
+Inferior papillary muscle of left ventricle;0
+Right atrium;15
+Right ventricle;16
+Anterior papillary muscle of right ventricle;0
+Inferior papillary muscle of right ventricle;1
+Septal papillary muscle of right ventricle;2
+Valvular complex of heart.g;17
+Left atrioventricular valve.g;0
+Right atrioventricular valve.g;1
+Inferior leaflet of right atrioventricular valve;0
+Posterior leaflet of left atrioventricular valve;1
+Septal leaflet of right atrioventricular valve;2
+Root of aorta.g;2
+Aortic valve.g;0
+Left coronary leaflet;0
+Non-coronary leaflet;1
+Right coronary leaflet;2
+Root of pulmonary trunk.g;3
+Pulmonary valve.g;0
+Anterior semilunar leaflet of pulmonary valve;0
+Left semilunar leaflet of pulmonary valve;1
+Right semilunar leaflet of pulmonary valve;2
+Pulmonary arteries.g;1
+Pulmonary trunk;0
+Bifurcation of pulmonary trunk;0
+Right pulmonary artery;1
+Superior lobar artery of right lung;0
+Apical segmental artery of right lung;0
+Anterior segmental artery of right lung;1
+Posterior segmental artery of right lung;2
+Middle lobar artery of right lung;1
+Medial segmental artery of right lung;0
+Lateral segmental artery of right lung;1
+Inferior lobar artery of right lung;2
+Superior segmental artery of right lung;0
+Anterior basal segmental artery of right lung;1
+Lateral basal segmental artery of right lung;2
+Medial basal segmental artery of right lung;3
+Posterior basal segmental artery of right lung;4
+Left pulmonary artery;2
+Superior lobar artery of left lung.g;0
+Apical segmental artery of left lung;0
+Anterior segmental artery of left lung;1
+Posterior segmental artery of left lung;2
+Inferior lingular artery of left lung;3
+Superior lingular artery of left lung;4
+Inferior lobar artery of left lung.g;1
+Superior segmental artery of left lung;0
+Anterior basal segmental artery of left lung;1
+Lateral basal segmental artery of left lung;2
+Medial basal segmental artery of left lung;3
+Posterior basal segmental artery of left lung;4
+Arteries of heart.g;2
+Right coronary artery;0
+Right inferolateral branch of right coronary artery;0
+Left coronary artery;1
+Anterior interventricular artery;0
+Septal branches of anterior interventricular artery;0
+Circumflex artery of heart;1
+Systemic arteries.g;3
+Aorta.g;0
+Ascending aorta;0
+Aortic arch;1
+Brachiocephalic trunk;0
+Thoracic aorta;2
+Posterior intercostal arteries.l;0
+Posterior intercostal arteries.r;1
+Subcostal artery.l;2
+Superior phrenic arteries;3
+Subcostal artery.r;4
+Abdominal aorta;3
+Inferior phrenic artery;0
+Lumbar arteries.l;1
+Lumbar arteries.r;2
+Coeliac trunk;3
+Left gastric artery;0
+Common hepatic artery;1
+Gastroduodenal artery;0
+Proper hepatic artery;1
+Splenic artery;2
+Superior mesenteric artery;4
+Inferior pancreaticoduodenal artery;0
+Anterior inferior pancreaticoduodenal artery;0
+Ileocolic artery;1
+Appendicular artery;0
+Ileal branch of ileocolic artery;1
+Colic branch of ileocolic artery;2
+Right colic artery;2
+Middle colic artery;3
+Marginal artery;4
+Left renal artery;5
+Inferior suprarenal artery.l;0
+Anterior branch of renal artery.l;1
+Posterior branch of renal artery.l;2
+Intrarenal arteries of left kidney;3
+Right renal artery;6
+Intrarenal arteries of right kidney;0
+Anterior branch of renal artery.r;1
+Posterior branch of renal artery.r;2
+Inferior suprarenal artery.r;3
+Left testicular artery;7
+Right testicular artery.r;8
+Inferior mesenteric artery;9
+Left colic artery;0
+Ascending branch of left colic artery;0
+Descending branch of left colic artery;1
+Sigmoid arteries;1
+Superior anorectal artery;2
+Aortic bifurcation.g;4
+Median sacral artery;0
+Common iliac artery.l;1
+Internal iliac artery.l;0
+Posterior division of internal iliac artery.l;0
+Iliolumbar artery.l;0
+Lumbar branch of iliolumbar artery.l;0
+Spinal branch of iliolumbar artery.l;1
+Iliacus branch of iliolumbar artery.l;2
+Superior gluteal artery.l;1
+Anterior division of internal iliac artery.l;1
+Inferior gluteal artery.l;0
+Internal pudendal artery.l;1
+Deep artery of penis.l;0
+Dorsal artery of penis.l;1
+External iliac artery.l;1
+Inferior epigastric artery.l;0
+Common iliac artery.r;2
+Internal iliac artery.r;0
+Posterior division of internal iliac artery.r;0
+Iliolumbar artery.r;0
+Lumbar branch of iliolumbar artery.r;0
+Spinal branch of iliolumbar artery.r;1
+Iliacus branch of iliolumbar artery.r;2
+Superior gluteal artery.r;1
+Anterior division of internal iliac artery.r;1
+Inferior gluteal artery.r;0
+Internal pudendal artery.r;1
+Deep artery of penis.r;0
+Dorsal artery of penis.r;1
+Obturator artery.l;2
+Obturator artery.r;3
+External iliac artery.r;1
+Inferior epigastric artery.r;0
+Left common carotid artery;1
+External carotid artery.l;0
+Ascending pharyngeal artery.l;0
+Facial artery.l;1
+Submental artery.l;0
+Inferior labial artery.l;1
+Superior labial artery.l;2
+Angular artery.l;3
+Occipital artery.l;2
+Superficial temporal artery.l;3
+Transverse facial artery.l;0
+Frontal branch of superficial temporal artery.l;1
+Maxillary artery.l;4
+Inferior alveolar artery.l;0
+Mylohyoid branch of inferior alveolar artery.l;0
+Mental branch of inferior alveolar artery.l;1
+Middle meningeal artery.l;1
+Accessory branch of middle meningeal artery.l;0
+Anterior deep temporal artery.l;2
+Posterior deep temporal artery.l;3
+Buccal artery.l;4
+Artery of pterygoid canal.l;5
+?x.l;0
+Posterior superior alveolar artery.l;6
+Infra-orbital artery.l;7
+Descending palatine artery.l;8
+Greater palatine artery.l;0
+Posterior lateral nasal branches of sphenopalatine artery..l;9
+Posterior septal branches of sphenopalatine artery.l;10
+Internal carotid artery.l;1
+Middle cerebral artery (M1-segment).l;0
+Distal lateral striate branches.l;0
+Insular branches of middle cerebral artery (M2-segment).l;1
+Anterior temporal branch.l;0
+Artery of precentral sulcus.l;1
+Middle cerebral artery (M3 segment).l;2
+Artery of central sulcus.l;0
+Parietal branches of middle cerebral artery.l;1
+Postcentral arterial branch.l;2
+Posterior parietal artery.l;3
+Posterior temporal branch.l;4
+Temporal branches of middle cerebral artery.l;5
+Temporo-occipital branch.l;6
+Branch to angular gyrus.l;0
+Prefrontal artery.l;3
+Lateral frontobasal artery.l;0
+Proximal lateral striate branches.l;2
+Ophthalmic artery.l;1
+Anterior ethmoidal artery.l;0
+Anterior septal branches of anterior ethmoidal artery.l;0
+Central retinal artery.l;1
+Lacrimal artery.l;2
+Long posterior ciliary arteries.l;3
+Posterior ethmoidal artery.l;4
+Septal branches of posterior ethmoidal artery.l;0
+Short posterior ciliary arteries.l;5
+Supra-orbital artery.l;6
+Supratrochlear artery.l;7
+Right common carotid artery;2
+External carotid artery.r;0
+Ascending pharyngeal artery.r;0
+Facial artery.r;1
+Submental artery.r;0
+Inferior labial artery.r;1
+Superior labial artery.r;2
+Angular artery.r;3
+Occipital artery.r;2
+Superficial temporal artery.r;3
+Transverse facial artery.r;0
+Frontal branch of superficial temporal artery.r;1
+Maxillary artery.r;4
+Inferior alveolar artery.r;0
+Mylohyoid branch of inferior alveolar artery.r;0
+Mental branch of inferior alveolar artery.r;1
+Middle meningeal artery.r;1
+Accessory branch of middle meningeal artery.r;0
+Anterior deep temporal artery.r;2
+Posterior deep temporal artery.r;3
+Buccal artery.r;4
+Artery of pterygoid canal.r;5
+?x.r;0
+Posterior superior alveolar artery.r;6
+Infra-orbital artery.r;7
+Descending palatine artery.r;8
+Greater palatine artery.r;0
+Posterior lateral nasal branches of sphenopalatine artery..r;9
+Posterior septal branches of sphenopalatine artery.r;10
+Internal carotid artery.r;1
+Anterior cerebral artery.l;0
+Callosomarginal artery.l;0
+Frontal branches of callosomarginal artery.l;0
+Orbitofrontal branches of anterior cerebral artery.l;1
+Pericallosal artery.l;2
+Anterior cerebral artery.r;1
+Callosomarginal artery.r;0
+Frontal branches of callosomarginal artery.r;0
+Orbitofrontal branches of anterior cerebral artery.r;1
+Pericallosal artery.r;2
+Middle cerebral artery (M1-segment).r;2
+Distal lateral striate branches.r;0
+Insular branches of middle cerebral artery (M2).r;1
+Anterior temporal branch.r;0
+Artery of precentral sulcus.r;1
+Middle cerebral artery (M3-segment).r;2
+Artery of central sulcus.r;0
+Parietal branches of middle cerebral artery.r;1
+Postcentral arterial branch.r;2
+Posterior parietal artery.r;3
+Posterior temporal branch.r;4
+Temporal branches of middle cerebral artery.r;5
+Temporo-occipital branch.r;6
+Branch to angular gyrus.r;0
+Prefrontal artery.r;3
+Lateral frontobasal artery.r;0
+Proximal lateral striate branches.r;2
+Ophthalmic artery.r;3
+Anterior ethmoidal artery.r;0
+Anterior septal branches of anterior ethmoidal artery.r;0
+Central retinal artery.r;1
+Lacrimal artery.r;2
+Long posterior ciliary arteries.r;3
+Posterior ethmoidal artery.r;4
+Septal branches of posterior ethmoidal artery.r;0
+Short posterior ciliary arteries.r;5
+Supra-orbital artery.r;6
+Supratrochlear artery.r;7
+Cerebral arterial circle.g;3
+Anterior communicating artery;0
+Posterior communicating artery.l;1
+Posterior communicating artery.r;2
+Arteries of spinal cord.g;4
+Anterior spinal artery.l;0
+Anterior spinal artery.r;1
+Left subclavian artery;5
+Vertebral artery.l;0
+Posterior inferior cerebellar artery.l;0
+Internal thoracic artery.l;1
+Musculophrenic artery.l;0
+Superior epigastric artery.l;1
+Thyrocervical trunk.l;2
+Inferior thyroid artery.l;0
+Suprascapular artery.l;1
+Transverse cervical artery.l;2
+(Superficial branch of transverse cervical artery).l;0
+(Deep branch of transverse cervical artery).l;1
+Costocervical trunk.l;3
+Deep cervical artery.l;0
+Supreme intercostal artery.l;1
+First posterior intercostal artery.l;0
+Second posterior intercostal artery.l;1
+Axillary artery.l;4
+Thoraco-acromial artery.l;0
+Pectoral branches of thoraco-acromial artery.l;0
+Lateral thoracic artery.l;1
+Subscapular artery.l;2
+Thoracodorsal artery.l;0
+Circumflex scapular artery.l;1
+Anterior circumflex humeral artery.l;3
+Posterior circumflex humeral artery.l;4
+Brachial artery.l;5
+Deep brachial artery.l;0
+Middle collateral artery.l;0
+Radial collateral artery.l;1
+Superior ulnar collateral artery.l;1
+Inferior ulnar collateral artery.l;2
+Radial artery.l;3
+Palmar carpal branch of radial artery.l;0
+Dorsal carpal anastomosis.l;1
+Dorsal metacarpal arteries.l;0
+Dorsal digital arteries of hand.l;0
+Deep palmar arch.l;2
+Palmar metacarpal arteries.l;0
+Ulnar artery.l;4
+(Ulnar recurrent artery).l;0
+Common interosseous artery.l;1
+Posterior interosseous artery.l;0
+Recurrent interosseous artery.l;1
+Dorsal carpal branch of ulnar artery.l;2
+Superficial palmar arch.l;3
+Common palmar digital arteries.l;0
+Proper palmar digital arteries.l;0
+Right subclavian artery;6
+Vertebral artery.r;0
+Basilar artery;0
+Anterior inferior cerebellar artery.l;0
+Anterior inferior cerebellar artery.r;1
+Lateral pontine branches of basilar artery.l;2
+Lateral pontine branches of basilar artery.r;3
+Medial pontine branches of basilar artery.l;4
+Medial pontine branches of basilar artery.r;5
+Posterior cerebral artery.l;6
+Lateral occipital artery.l;0
+Medial occipital artery.l;1
+Parieto-occipital artery.l;2
+Posterior cerebral artery.r;7
+Medial occipital artery.r;0
+Lateral occipital artery.r;0
+Parieto-occipital artery.r;1
+Superior cerebellar artery.l;8
+Superior cerebellar artery.r;9
+Posterior inferior cerebellar artery.r;1
+Internal thoracic artery.r;1
+Musculophrenic artery.r;0
+Superior epigastric artery.r;1
+Thyrocervical trunk.r;2
+Inferior thyroid artery.r;0
+Suprascapular artery.r;1
+Transverse cervical artery.r;2
+(Superficial branch of transverse cervical artery).r;0
+(Deep branch of transverse cervical artery).r;1
+Costocervical trunk.r;3
+Deep cervical artery.r;0
+Supreme intercostal artery.r;1
+First posterior intercostal artery.r;0
+Second posterior intercostal artery.r;1
+Axillary artery.r;4
+Thoraco-acromial artery.r;0
+Pectoral branches of thoraco-acromial artery.r;0
+Lateral thoracic artery.r;1
+Subscapular artery.r;2
+Thoracodorsal artery.r;0
+Circumflex scapular artery.r;1
+Anterior circumflex humeral artery.r;3
+Posterior circumflex humeral artery.r;4
+Brachial artery.r;5
+Deep brachial artery.r;0
+Middle collateral artery.r;0
+Radial collateral artery.r;1
+Superior ulnar collateral artery.r;1
+Inferior ulnar collateral artery.r;2
+Radial artery.r;3
+Palmar carpal branch of radial artery.r;0
+Dorsal carpal anastomosis.r;1
+Dorsal metacarpal arteries.r;0
+Dorsal digital arteries of hand.r;0
+Deep palmar arch.r;2
+Palmar metacarpal arteries.r;0
+Ulnar artery.r;4
+(Ulnar recurrent artery).r;0
+Common interosseous artery.r;1
+Posterior interosseous artery.r;0
+Recurrent interosseous artery.r;1
+Dorsal carpal branch of ulnar artery.r;2
+Superficial palmar arch.r;3
+Common palmar digital arteries.r;0
+Proper palmar digital arteries.r;0
+Femoral artery.l;7
+Superficial epigastric artery.l;0
+Superficial external pudendal artery.l;1
+Deep external pudendal artery.l;2
+Deep femoral artery.l;3
+Medial circumflex femoral artery.l;0
+Lateral circumflex femoral artery.l;1
+Descending branch of lateral circumflex femoral artery.l;0
+Perforating femoral arteries.l;2
+Popliteal artery.l;4
+Superior lateral genicular artery.l;0
+Superior medial genicular artery.l;1
+Middle genicular artery.l;2
+Inferior lateral genicular artery.l;3
+Inferior medial genicular artery.l;4
+Patellar anastomosis.l;5
+Anterior tibial artery.l;6
+Dorsalis pedis artery.l;0
+Lateral tarsal artery.l;0
+Arcuate artery.l;1
+Dorsal metatarsal arteries.l;0
+Dorsal digital arteries of foot.l;0
+Deep plantar artery.l;2
+Posterior tibial artery.l;7
+Calcaneal branches of posterior tibial artery.l;0
+Fibular artery.l;1
+Calcaneal branches of fibular artery.l;0
+Medial plantar artery.l;2
+Superficial branch of medial plantar artery.l;0
+Lateral plantar artery.l;3
+Plantar arch.l;0
+Plantar metatarsal arteries.l;0
+Perforating branches of plantar metatarsal arteries.l;0
+Common plantar digital arteries.l;1
+Proper plantar digital arteries.l;0
+Femoral artery.r;8
+Superficial epigastric artery.r;0
+Superficial external pudendal artery.r;1
+Deep external pudendal artery.r;2
+Deep femoral artery.r;3
+Medial circumflex femoral artery.r;0
+Lateral circumflex femoral artery.r;1
+Descending branch of lateral circumflex femoral artery;0
+Perforating femoral arteries.r;2
+Popliteal artery.r;4
+Superior lateral genicular artery.r;0
+Superior medial genicular artery.r;1
+Middle genicular artery.r;2
+Inferior lateral genicular artery.r;3
+Inferior medial genicular artery.r;4
+Patellar anastomosis.r;5
+Anterior tibial artery.r;6
+Dorsalis pedis artery.r;0
+Lateral tarsal artery.r;0
+Arcuate artery.r;1
+Dorsal metatarsal arteries.r;0
+Dorsal digital arteries of foot.r;0
+Deep plantar artery.r;2
+Posterior tibial artery.r;7
+Calcaneal branches of posterior tibial artery.r;0
+Fibular artery.r;1
+Calcaneal branches of fibular artery.r;0
+Medial plantar artery.r;2
+Superficial branch of medial plantar artery.r;0
+Lateral plantar artery.r;3
+Plantar arch.r;0
+Plantar metatarsal arteries.r;0
+Perforating branches of plantar metatarsal arteries.r;0
+Common plantar digital arteries.r;1
+Proper plantar digital arteries.r;0
+Venous system.g;6
+Pulmonary veins.g;0
+Right superior pulmonary vein;0
+Apical vein of right lung;0
+Anterior vein of right lung;1
+Posterior vein of right lung;2
+Lateral vein of right lung;3
+Medial vein of right lung;4
+Right inferior pulmonary vein;1
+Superior vein of right lung;0
+Superior basal vein of right lung;1
+Inferior basal vein of right lung;2
+Left superior pulmonary vein;2
+Apicoposterior vein of left lung;0
+Anterior vein of left lung;1
+Lingular vein of left lung;2
+Superior lingular vein of left lung;0
+Inferior lingular vein of left lung;1
+Left inferior pulmonary vein;3
+Superior vein of left lung;0
+Superior basal vein of left lung;1
+Inferior basal vein of left lung;2
+Cardiac veins.g;1
+Coronary sinus;0
+Great cardiac vein;0
+Inferior vein of left ventricle;1
+Inferior vein of left ventricle (//Posterior '');2
+Middle cardiac vein;3
+????????;4
+Systemic veins.g;2
+Superior vena cava;0
+Union of brachiocephalic veins.g;0
+Azygos vein;1
+Right superior intercostal vein;0
+Right superior phrenic vein;1
+Right subcostal vein;2
+Right ascending lumbar vein;3
+Accessory hemi-azygos vein;4
+Hemi-azygos vein;5
+Left subcostal vein;0
+Left ascending lumbar vein;1
+Right brachiocephalic vein;2
+Internal thoracic veins.r;0
+Superior epigastric veins.r;0
+Musculophrenic veins.r;1
+Vertebral vein.r;1
+Occipital vein.r;0
+Left brachiocephalic vein;3
+Internal thoracic veins.l;0
+Superior epigastric veins.l;0
+Musculophrenic veins.l;1
+Left superior intercostal vein;1
+Vertebral vein.l;2
+Occipital vein.l;0
+Internal jugular vein.l;1
+Lingual vein.l;0
+Superior thyroid vein.l;1
+Common facial vein.l;2
+Facial vein.l;0
+Angular vein.l;0
+Superior labial vein.l;1
+Inferior labial veins.l;2
+Submental vein.l;3
+Anterior division of retromandibular vein.l;1
+Retromandibular vein.l;0
+Superficial temporal veins.l;0
+Maxillary veins.l;1
+Internal jugular vein.r;2
+Lingual vein.r;0
+Superior thyroid vein.r;1
+Common facial vein.r;2
+Facial vein.r;0
+Angular vein.r;0
+Superior labial vein.r;1
+Inferior labial veins.r;2
+Submental vein.r;3
+Anterior division of retromandibular vein.r;1
+Retromandibular vein.r;0
+Superficial temporal veins.r;0
+Maxillary veins.r;1
+Cranial veins.g;3
+Dural venous sinuses.g;0
+Inferior petrosal sinus.l;0
+Inferior petrosal sinus.r;1
+Basilar venous plexus;0
+Anterior intercavernous sinus;0
+Posterior intercavernous sinus;1
+Cavernous sinus.l;1
+Cavernous sinus.r;2
+Sigmoid sinus.l;2
+Transverse sinus.l;0
+Superior petrosal sinus.l;0
+Sigmoid sinus.r;3
+Transverse sinus.r;0
+Confluence of sinuses.g;0
+Inferior sagittal sinus;0
+Occipital sinus;1
+Straight sinus;2
+Superior sagittal sinus;3
+Superior petrosal sinus.r;1
+Orbital veins.g;1
+Superior ophthalmic vein.l;0
+Superior ophthalmic vein.r;1
+Inferior ophthalmic vein.l;2
+Inferior ophthalmic vein.r;3
+Left subclavian vein;4
+External jugular vein.l;0
+Posterior division of retromandibular vein.l;0
+Posterior auricular vein.l;1
+Anterior jugular vein.l;2
+Suprascapular vein.l;3
+Axillary vein.l;1
+Cephalic vein.l;0
+Dorsal venous network of hand.l;0
+Dorsal digital veins of hand.l;0
+Lateral thoracic vein.l;1
+Subscapular vein.l;2
+Circumflex scapular vein.l;0
+Thoracodorsal vein.l;1
+Posterior circumflex humeral vein.l;3
+Anterior circumflex humeral vein.l;4
+Basilic vein.l;5
+Median cubital vein.l;0
+Median antebrachial vein.l;0
+Brachial veins.l;6
+Radial veins.l;0
+Deep venous palmar arch.l;0
+Ulnar veins.l;1
+Superficial venous palmar arch.l;0
+Palmar digital veins.l;0
+Right subclavian vein;5
+External jugular vein.r;0
+Posterior division of retromandibular vein.r;0
+Posterior auricular vein.r;1
+Anterior jugular vein.r;2
+Suprascapular vein.r;3
+Axillary vein.r;1
+Cephalic vein.r;0
+Dorsal venous network of hand.r;0
+Dorsal digital veins of hand.r;0
+Lateral thoracic vein.r;1
+Subscapular vein.r;2
+Circumflex scapular vein.r;0
+Thoracodorsal vein.r;1
+Posterior circumflex humeral vein.r;3
+Anterior circumflex humeral vein.r;4
+Basilic vein.r;5
+Median cubital vein.r;0
+Median antebrachial vein.r;0
+Brachial veins.r;6
+Ulnar veins.r;0
+Superficial venous palmar arch.r;0
+Palmar digital veins.r;0
+Radial veins.r;1
+Deep venous palmar arch.r;0
+Inferior vena cava (thoracic part);6
+Inferior vena cava (abdominal part);0
+Lumbar veins.l;0
+Lumbar veins.r;1
+Right renal vein;2
+Intrarenal veins of right kidney;0
+Left renal vein;3
+Intrarenal veins of left kidney;0
+Left testicular vein;1
+Right testicular vein;4
+Common iliac vein.l;5
+Iliolumbar vein.l;0
+Internal iliac vein.l;1
+Superior gluteal veins.l;0
+Inferior gluteal veins.l;1
+Lateral sacral veins.l;2
+Internal pudendal vein.l;3
+External iliac vein.l;2
+Inferior epigastric vein.l;0
+Common iliac vein.r;6
+Iliolumbar vein.r;0
+Internal iliac vein.r;1
+Superior gluteal veins.r;0
+Inferior gluteal veins.r;1
+Lateral sacral veins.r;2
+Internal pudendal vein.r;3
+Deep dorsal vein of penis;4
+External iliac vein.r;2
+Inferior epigastric vein.r;0
+Hepatic veins;1
+Femoral vein.l;7
+Medial circumflex femoral veins.l;0
+Lateral circumflex femoral veins.l;1
+Great saphenous vein.l;2
+External pudendal veins.l;0
+Superficial epigastric vein.l;1
+Deep femoral vein.l;3
+Perforating veins.l;0
+Popliteal vein.l;4
+Genicular veins.l;0
+Anterior tibial veins.l;1
+Posterior tibial veins.l;2
+Fibular veins.l;0
+Medial plantar veins.l;1
+Lateral plantar veins.l;2
+Plantar venous arch.l;0
+Plantar metatarsal veins.l;0
+Plantar digital veins.l;0
+Small saphenous vein.l;3
+Dorsal venous arch of foot.l;0
+Dorsal metatarsal veins.l;0
+Dorsal digital veins of foot.l;0
+Intercapitular veins of foot.l;1
+Femoral vein.r;8
+Medial circumflex femoral veins.r;0
+Lateral circumflex femoral veins.r;1
+Great saphenous vein.r;2
+External pudendal veins.r;0
+Superficial dorsal veins of penis;0
+Superficial epigastric vein.r;1
+Deep femoral vein.r;3
+Perforating veins.r;0
+Popliteal vein.r;4
+Genicular veins.r;0
+Anterior tibial veins.r;1
+Posterior tibial veins.r;2
+Fibular veins.r;0
+Medial plantar veins.r;1
+Lateral plantar veins.r;2
+Plantar venous arch.r;0
+Plantar metatarsal veins.r;0
+Plantar digital veins.r;0
+Small saphenous vein.r;3
+Dorsal venous arch of foot.r;0
+Dorsal metatarsal veins.r;0
+Dorsal digital veins of foot.r;0
+Intercapitular veins of foot.r;1
+Hepatic portal vein;9
+Hepatic portal vein.g;10
+Branches of hepatic portal vein.g;0
+Tributaries of hepatic portal vein.g;1
+Superior mesenteric vein;0
+Right gastro-omental vein;0
+Right colic vein;1
+Middle colic vein;2
+Splenic vein;1
+Left gastro-omental vein;0
+Inferior mesenteric vein;1
+Sigmoid veins;0
+Nervous system.g;8
+Central nervous system.g;0
+Grey matter.g;0
+White matter.g;1
+Ependyma.g;2
+Meninges.g;3
+Dura.g;0
+Cranial dura.g;0
+Tentorium cerebelli.l;0
+Tentorium cerebelli.r;1
+Falx cerebri;2
+Spinal dura;1
+Leptomeninges.g;1
+Arachnoid.g;0
+Pia.g;1
+Cranial pia.g;0
+Choroid plexus.l;0
+Choroid plexus.r;1
+Brain.g;4
+Cerebrum.g;0
+Cerebral hemisphere.g;0
+Telencephalon.g;1
+Interlobar sulci.g;0
+Central sulcus.l;0
+Central sulcus.r;1
+Lat_Fis-post.l;2
+Lat_Fis-post.r;3
+Parieto-occipital sulcus.l;4
+Parieto-occipital sulcus.r;5
+Sulcus interm_prim-Jensen.l;6
+Sulcus interm_prim-Jensen.r;7
+ Posterior transverse collateral sulcus.l;8
+ Posterior transverse collateral sulcus.r;9
+Anterior occipital sulcus*.l;10
+Anterior occipital sulcus*.r;11
+Circular sulcus of insula.l;12
+Circular sulcus of insula.r;13
+Subparietal sulcus.l;14
+Subparietal sulcus.r;15
+Collateral sulcus.l;16
+Collateral sulcus.r;17
+Frontal lobe.g;1
+Inferior frontal sulcus.l;0
+Inferior frontal sulcus.r;1
+Orbital part of  inferior frontal gyrus.r;0
+Orbital part of  inferior frontal gyrus.l;2
+Middle frontal gyrus.l;3
+Middle frontal gyrus.r;4
+Superior frontal gyrus.l;5
+Superior frontal gyrus.r;6
+Paracentral sulcus.l;7
+Paracentral sulcus.r;8
+Precentral gyrus.l;9
+Precentral gyrus.r;10
+Paracentral gyrus and sulcus*.l;11
+Paracentral gyrus and sulcus*.r;12
+Straight gyrus (Gyrus rectus).l;13
+Straight gyrus (Gyrus rectus).r;14
+Olfactory sulcus.l;15
+Olfactory sulcus.r;16
+Orbital gyri.l;17
+Orbital gyri.r;18
+Lat_Fis-ant-Horizont.l;19
+Lat_Fis-ant-Horizont.r;20
+Lat_Fis-ant-Vertical.l;21
+Lat_Fis-ant-Vertical.r;22
+Opercular part of inferior frontal gyrus.l;23
+Opercular part of inferior frontal gyrus.r;24
+Orbital gyri (Frontomarginal gyrus and sulcus*).l;25
+Orbital gyri (Frontomarginal gyrus and sulcus*).r;26
+Orbital sulci (H-shaped orbital sulci*).l;27
+Orbital sulci (H-shaped orbital sulci*).r;28
+Orbital sulci (Lateral Orbital sulcus*).l;29
+Orbital sulci (Lateral Orbital sulcus*).r;30
+Precentral sulcus (inferior part)*.l;31
+Precentral sulcus (inferior part)*.r;32
+Precentral sulcus (Superior part)*.l;33
+Precentral sulcus (Superior part)*.r;34
+Superior frontal sulcus.l;35
+Superior frontal sulcus.r;36
+Transverse frontopolar gyrus and sulcus*.l;37
+Transverse frontopolar gyrus and sulcus*.r;38
+Triangular part of inferior frontal gyrus.l;39
+Triangular part of inferior frontal gyrus.r;40
+Parietal lobe.g;2
+Angular gyrus.l;0
+Angular gyrus.r;1
+Intraparietal sulcus.l;2
+Intraparietal sulcus.r;3
+Postcentral gyrus.l;4
+Postcentral gyrus.r;5
+Postcentral sulcus.l;6
+Postcentral sulcus.r;7
+Precuneus.l;8
+Precuneus.r;9
+Superior parietal lobule.l;10
+Superior parietal lobule.r;11
+Supramarginal gyrus.l;12
+Supramarginal gyrus.r;13
+Occipital lobe.g;3
+Calcarine sulcus.l;0
+Calcarine sulcus.r;1
+Cuneus.l;2
+Cuneus.r;3
+Inferior occipital gyrus and sulcus*.l;4
+Inferior occipital gyrus and sulcus*.r;5
+Lateral occipital gyrus (Middle occipital gyrus*).l;6
+Lateral occipital gyrus (Middle occipital gyrus*).r;7
+Lingual gyrus.l;8
+Lingual gyrus.r;9
+Lunate sulcus.l;10
+Lunate sulcus.r;11
+Occipital pole.l;12
+Occipital pole.r;13
+Superior occipital gyri.l;14
+Superior occipital gyri.r;15
+Transverse occipital sulcus.l;16
+Transverse occipital sulcus.r;17
+Temporal lobe.g;4
+Inferior temporal gyrus.l;0
+Inferior temporal gyrus.r;1
+Inferior temporal sulcus.l;2
+Inferior temporal sulcus.r;3
+Lateral occipitotemporal gyrus.l;4
+Lateral occipitotemporal gyrus.r;5
+Medial occipitotemporal gyrus (Parahippocampal*).l;6
+Medial occipitotemporal gyrus (Parahippocampal*).r;7
+Middle temporal gyrus.l;8
+Middle temporal gyrus.r;9
+Occipitotemporal sulcus (Lateral part*).l;10
+Occipitotemporal sulcus (Lateral part*).r;11
+Temporal pole.l;12
+Superior temporal gyrus (Lateral part).l;13
+Superior temporal gyrus (Lateral part).r;14
+Superior temporal sulcus.l;15
+Temporal pole.r;16
+Superior temporal sulcus.r;17
+Temporal plane.l;18
+Temporal plane.r;19
+Transverse temporal gyri.l;20
+Transverse temporal gyri.r;21
+Insula.g;5
+Insula (Subcentral gyrus and ant. and post. sulci*).l;0
+Insula (Subcentral gyrus and ant. and post. sulci*).r;1
+Limbic lobe.g;6
+Cingulate gyrus (Posteroventral part*).l;0
+Cingulate gyrus (Posteroventral part*).r;1
+Cingulate gyrus and sulcus (Middle anterior part).l;2
+Cingulate gyrus and sulcus (Middle anterior part).r;3
+Cingulate gyrus and sulcus (Middle posterior part).l;4
+Cingulate gyrus and sulcus (Middle posterior part).r;5
+Cingulate gyrus and sulcus (Posterior dorsal part).l;6
+Cingulate gyrus and sulcus (Posterior dorsal part).r;7
+Cingulate sulcus (Marginal part*).l;8
+Cingulate sulcus (Marginal part*).r;9
+Hippocampus.l;10
+Hippocampus.r;11
+Basal forebrain.g;7
+Amygdaloid body.l;0
+Amygdaloid body.r;1
+Septal nuclei;2
+Corpus striatum.g;8
+Dorsal striatum.g;0
+Caudate nucleus.l;0
+Caudate nucleus.r;1
+Putamen.l;2
+Putamen.r;3
+Globus pallidus.l;1
+Globus pallidus.r;2
+Lentiform nucleus.l;3
+Lentiform nucleus.r;4
+White matter of telencephalon.l;9
+Commissural fibres of telencephalon.g;0
+Anterior commissure;0
+Corpus callosum;1
+Hippocampal commissure;2
+Projection fibres of telencephalon.g;1
+Fornix.l;0
+Fornix.r;1
+Stria terminalis.l;2
+Stria terminalis.r;3
+White matter of telencephalon.r;10
+Lateral ventricle.l;11
+Lateral ventricle.r;12
+Walls of lateral ventricle.g;13
+Septum pellucidum;0
+Diencephalon.g;2
+Habenula;0
+Hypothalamus;1
+Lateral geniculate body.l;2
+Lateral geniculate body.r;3
+Medial geniculate body.l;4
+Medial geniculate body.r;5
+Optic chiasm.l;6
+Optic chiasm.r;7
+Optic tract.l;8
+Optic tract.r;9
+Mamillary body.l;10
+Mamillary body.r;11
+Thalamus.l;12
+Thalamus.r;13
+White matter of diencephalon.g;14
+Stria medullaris thalami.l;0
+Stria medullaris thalami.r;1
+Posterior commissure;2
+Third ventricle;15
+Cerebellum.g;1
+Superior cerebellar peduncle.l;0
+Superior cerebellar peduncle.r;1
+Anterior quadrangular lobule.l;2
+Anterior quadrangular lobule.r;3
+Posterior quadrangular lobule.l;4
+Posterior quadrangular lobule.r;5
+Superior semilunar lobule.l;6
+Superior semilunar lobule.r;7
+Inferior semilunar lobule.l;8
+Inferior semilunar lobule.r;9
+Gracile lobule.l;10
+Gracile lobule.r;11
+Biventral lobule.l;12
+Biventral lobule.r;13
+Tonsil of cerebellum.l;14
+Tonsil of cerebellum.r;15
+Flocculus.l;16
+Flocculus.r;17
+Lingula of cerebellum;18
+Central lobule;19
+Culmen;20
+Declive;21
+Folium of vermis;22
+Tuber of vermis;23
+Pyramis of vermis;24
+Uvula of vermis;25
+Nodule of vermis;26
+Peduncle of flocculus.l;27
+Peduncle of flocculus.r;28
+Cerebellar peduncles.g;29
+Wing of central lobule.r;30
+Wing of central lobule.l;31
+Brainstem.g;2
+Fourth ventricle;0
+Medulla oblongata.l;1
+Inferior medulla oblongata.t;0
+Olive.l;1
+Pyramid of medulla oblongata.l;2
+Superior medulla oblongata.t;3
+Inferior medulla oblongata.j;4
+Superior medulla oblongata.j;5
+Medulla oblongata.r;2
+Anterior median fissure of medulla oblongata.t;0
+Anterolateral sulcus of medulla oblongata.t;1
+Cuneate tubercle.t;2
+Gracile tubercle.t;3
+Grey matter of medulla oblongata.;4
+Anterior cochlear nucleus.l;0
+Anterior cochlear nucleus.r;1
+Inferior salivatory nucleus.l;2
+Inferior salivatory nucleus.r;3
+Nucleus ambiguus.l;4
+Nucleus ambiguus.r;5
+Nucleus of hypoglossal nerve.l;6
+Nucleus of hypoglossal nerve.r;7
+Nucleus of solitary tract.l;8
+Nucleus of solitary tract.r;9
+Posterior cochlear nucleus.l;10
+Posterior cochlear nucleus.r;11
+Posterior nucleus of vagus nerve.l;12
+Posterior nucleus of vagus nerve.r;13
+Lateral funiculus of medulla oblongata.t;5
+Olive.r;6
+Olive.t;7
+Posterior median sulcus of medulla oblongata.t;8
+Posterolateral sulcus of medulla oblongata.t;9
+Pyramid of medulla oblongata.r;10
+Pyramid of medulla oblongata.t;11
+Retro-olivary groove.t;12
+Trigeminal tubercle.t;13
+Anterior median fissure of medulla oblongata.j;14
+Anterolateral sulcus of medulla oblongata.j;15
+Cuneate tubercle.j;16
+Gracile tubercle.j;17
+Grey matter of medulla oblongata.j;18
+Lateral funiculus of medulla oblongata.j;19
+Olive.j;20
+Posterior median sulcus of medulla oblongata.j;21
+Posterolateral sulcus of medulla oblongata.j;22
+Pyramid of medulla oblongata.j;23
+Retro-olivary groove.j;24
+Trigeminal tubercle.j;25
+Midbrain.g;3
+Midbrain.l;0
+Midbrain.r;1
+Interpeduncular fossa.l;2
+Interpeduncular fossa.r;3
+Cerebral peduncle.g;4
+Base of peduncle.l;0
+Base of peduncle.r;1
+Tegmentum of midbrain.g;2
+Grey matter of tegmentum of midbrain.g;0
+Nucleus of trochlear nerve.l;0
+Nucleus of trochlear nerve.r;1
+Oculomotor complex.g;2
+Nucleus of oculomotor nerve.l;0
+Nucleus of oculomotor nerve.r;1
+Accessory nucleus of oculomotor nerve.l;2
+Accessory nucleus of oculomotor nerve.r;3
+Red nucleus.l;3
+Red nucleus.r;4
+Central mesencephalic structures.g;5
+Aqueduct of midbrain;0
+Tectum of midbrain.g;6
+Superior colliculus.l;0
+Superior colliculus.r;1
+Inferior colliculus.l;2
+Inferior colliculus.r;3
+Pons.l;4
+Pons.r;5
+Basilar part of pons.g;0
+Tegmentum of pons.g;1
+Grey matter of pontine tegmentum.g;0
+Vestibular nuclei.l;0
+Vestibular nuclei.r;1
+Motor nucleus of facial nerve.l;2
+Motor nucleus of facial nerve.r;3
+Nucleus of abducens nerve.l;4
+Nucleus of abducens nerve.r;5
+Superior salivatory nucleus.l;6
+Superior salivatory nucleus.r;7
+Spinal cord.g;5
+Grey matter of spinal cord.g;0
+Posterior horn of spinal cord.g;0
+Posterior horn of spinal cord;0
+Nucleus proprius;1
+Spinal reticular process;2
+Intermediate zone of spinal cord.g;1
+Intermediolateral nucleus;0
+Intermediomedial nucleus;1
+Lateral intermediate substance;2
+Anterior horn of spinal cord.g;2
+Anterior horn of spinal cord;0
+Nucleus of accessory nerve.l;1
+Nucleus of accessory nerve.r;2
+White matter of spinal cord.g;1
+White matter of spinal cord;0
+Posterior funiculus.g;1
+Posterior fasciculus proprius;0
+Gracile fasciculus;1
+Cuneate fasciculus;2
+Posterolateral tract;2
+Lateral funiculus.g;3
+Lateral fasciculus proprius;0
+Lateral corticospinal tract;1
+Lateral reticulospinal tract;2
+Rubrospinal tract;3
+Posterior spinocerebellar tract;4
+Anterior spinocerebellar tract;5
+Anterolateral fasciculus.g;4
+Anterior spinothalamic tract;0
+Lateral spinothalamic tract;1
+Spinotectal tract;2
+Anterior funiculus.g;5
+Anterior fasciculus proprius;0
+Anterior corticospinal tract;1
+Lateral vestibulospinal tract;2
+Medial vestibulospinal tract;3
+Medial reticulospinal tract;4
+Tectospinal tract;5
+Central structures of spinal cord.g;2
+Central canal;0
+Central canal';1
+Peripheral nervous system.g;1
+Roots of nerves.g;0
+Cauda equina;0
+Ganglia.g;1
+Spinal ganglion.l;0
+Spinal ganglion.r;1
+Cranial nerves.g;2
+Olfactory nerve (I).l;0
+Olfactory nerve (I).r;1
+Optic nerve (II).l;2
+Optic nerve (II).r;3
+Oculomotor nerve (III).l;4
+Oculomotor nerve (III).r;5
+Trochlear nerve (IV).l;6
+Trochlear nerve (IV).r;7
+Trigeminal nerve (V).l;8
+Sensory root of trigeminal nerve.l;0
+Motor root of trigeminal nerve.l;1
+Ophthalmic nerve.l;2
+Maxillary nerve.l;3
+Meningeal branch of maxillary nerve.l;0
+Trigeminal nerve (V).r;9
+Sensory root of trigeminal nerve.r;0
+Motor root of trigeminal nerve.r;1
+Ophthalmic nerve.r;2
+Maxillary nerve.r;3
+Meningeal branch of maxillary nerve.r;0
+Mandibular nerve.g;4
+Anterior division of mandibular nerve.l;0
+Buccal nerve.l;0
+Anterior division of mandibular nerve.r;1
+Buccal nerve.r;0
+Posterior division of mandibular nerve.r;2
+Lingual nerve.r;0
+Inferior alveolar nerve.r;1
+Nerve to mylohyoid muscle.r;0
+Mental nerve.r;1
+Posterior division of mandibular nerve.l;3
+Lingual nerve.l;0
+Inferior alveolar nerve.l;1
+Nerve to mylohyoid muscle.l;0
+Mental nerve.l;1
+Abducens nerve (VI).l;10
+Abducens nerve (VI).r;11
+Facial nerve (VII).l;12
+Chorda tympani.l;0
+Facial nerve (VII).r;13
+Chorda tympani.r;0
+Vestibulocochlear nerve (VIII).l;14
+Vestibular nerve.l;0
+Cochlear nerve.l;1
+Vestibulocochlear nerve (VIII).r;15
+Vestibular nerve.r;0
+Cochlear nerve;1
+Glossopharyngeal nerve (IX).l;16
+Glossopharyngeal nerve (IX).r;17
+Vagus nerve (X).l;18
+Vagus nerve (X).r;19
+Hypoglossal nerve (XII).l;20
+Hypoglossal nerve (XII).r;21
+Spinal nerves.g;3
+Anterior root of spinal nerve.l;0
+Anterior root of spinal nerve.r;1
+Posterior root of spinal nerve.l;2
+Posterior root of spinal nerve.r;3
+Cervical nerves.g;4
+Accessory nerve (XI).l;0
+Accessory nerve (XI).r;1
+Cervical plexus.g;5
+Brachial plexus.g;6
+Supraclavicular part of brachial plexus.g;0
+Roots of brachial plexus.r;0
+Superior trunk of brachial plexus.l;1
+Anterior division of superior trunk of brachial plexus.l;0
+Posterior division of superior trunk of brachial plexus.l;1
+Superior trunk of brachial plexus.r;2
+Anterior division of superior trunk of brachial plexus.r;0
+Posterior division of superior trunk of brachial plexus.r;1
+Middle trunk of brachial plexus.l;3
+Anterior division of middle trunk of brachial plexus.l;0
+Posterior division of middle trunk of brachial plexus.l;1
+Middle trunk of brachial plexus.r;4
+Anterior division of middle trunk of brachial plexus.r;0
+Posterior division of middle trunk of brachial plexus.r;1
+Inferior trunk of brachial plexus.l;5
+Anterior division of inferior trunk of brachial plexus.l;0
+Posterior division of inferior trunk of brachial plexus.l;1
+Inferior trunk of brachial plexus.r;6
+Anterior division of inferior trunk of brachial plexus.r;0
+Posterior division of inferior trunk of brachial plexus.r;1
+Roots of brachial plexus.l;7
+Supraclavicular branches of brachial plexus.g;1
+Dorsal scapular nerve.l;0
+Dorsal scapular nerve.r;1
+Long thoracic nerve.l;2
+Long thoracic nerve.r;3
+Suprascapular nerve.l;4
+Suprascapular nerve.r;5
+Subclavian nerve.l;6
+Subclavian nerve.r;7
+Infraclavicular part of brachial plexus.g;2
+Posterior cord of brachial plexus.l;0
+Posterior cord of brachial plexus.r;1
+Branches of lateral cord of brachial plexus.g;3
+Lateral pectoral nerve.l;0
+Lateral pectoral nerve.r;1
+Musculocutaneous nerve.l;2
+Lateral antebrachial cutaneous nerve.l;0
+Musculocutaneous nerve.r;3
+Lateral antebrachial cutaneous nerve.r;0
+Branches of posterior cord of brachial plexus.g;4
+Superior subscapular nerve.l;0
+Inferior subscapular nerve.l;1
+Inferior subscapular nerve.r;2
+Thoracodorsal nerve.l;3
+Thoracodorsal nerve.r;4
+Radial nerve.l;5
+Inferior lateral brachial cutaneous nerve.l;0
+Posterior antebrachial cutaneous nerve.l;1
+Muscular branches of radial nerve.l;2
+Deep branch of radial nerve.l;3
+Posterior interosseous nerve of forearm.l;0
+Superficial branch of radial nerve.l;4
+Dorsal digital branches of radial nerve.l;0
+Radial nerve.r;6
+Inferior lateral brachial cutaneous nerve.r;0
+Posterior antebrachial cutaneous nerve.r;1
+Muscular branches of radial nerve.r;2
+Deep branch of radial nerve.r;3
+Posterior interosseous nerve of forearm.r;0
+Superficial branch of radial nerve.r;4
+Dorsal digital branches of radial nerve.r;0
+Axillary nerve.l;7
+Muscular branches of axillary nerve.l;0
+Superior lateral brachial cutaneous nerve.l;1
+Axillary nerve.r;8
+Muscular branches of axillary nerve.r;0
+Superior lateral brachial cutaneous nerve.r;1
+Branches of medial cord of brachial plexus.g;5
+Medial pectoral nerve.l;0
+Medial pectoral nerve.r;1
+Medial brachial cutaneous nerve.l;2
+Medial brachial cutaneous nerve.r;3
+Medial antebrachial cutaneous nerve.l;4
+Anterior branch of medial antebrachial cutaneous nerve.l;0
+Posterior branch of medial antebrachial cutaneous nerve.l;1
+Medial antebrachial cutaneous nerve.r;5
+Anterior branch of medial antebrachial cutaneous nerve.r;0
+Posterior branch of medial antebrachial cutaneous nerve.r;1
+Ulnar nerve.l;6
+Muscular branches of ulnar nerve.l;0
+Dorsal branch of ulnar nerve.l;1
+Dorsal digital branches of ulnar nerve.l;0
+Palmar branch of ulnar nerve.l;2
+Superficial branch of ulnar nerve.l;3
+Common palmar digital branches of ulnar nerve.l;0
+Proper palmar digital branches of ulnar nerve.l;0
+Deep branch of ulnar nerve.l;4
+Ulnar nerve.r;7
+Muscular branches of ulnar nerve.r;0
+Dorsal branch of ulnar nerve.r;1
+Dorsal digital branches of ulnar nerve.r;0
+Palmar branch of ulnar nerve.r;2
+Superficial branch of ulnar nerve.r;3
+Common palmar digital branches of ulnar nerve.r;0
+Proper palmar digital branches of ulnar nerve.r;0
+Deep branch of ulnar nerve.r;4
+Median nerve.l;6
+Anterior interosseous nerve of forearm.l;0
+Muscular branches of median nerve.l;1
+Palmar branch of median nerve.l;2
+(Communicating branch of median nerve with ulnar nerve).l;3
+Common palmar digital branches of median nerve.l;4
+Proper palmar digital branches of median nerve.l;0
+Median nerve.r;7
+Anterior interosseous nerve of forearm.r;0
+Muscular branches of median nerve.r;1
+Palmar branch of median nerve.r;2
+(Communicating branch of median nerve with ulnar nerve).r;3
+Common palmar digital branches of median nerve.r;4
+Proper palmar digital branches of median nerve.r;0
+Thoracic nerves.g;7
+Intercostal nerves.l;0
+Intercostal nerves.r;1
+Lumbar nerves.g;8
+Posterior rami of lumbar nerves.g;0
+Anterior rami of lumbar nerves.g;1
+Iliohypogastric nerve.l;0
+Iliohypogastric nerve.r;1
+Ilio-inguinal nerve.l;2
+Ilio-inguinal nerve.r;3
+Lumbosacral plexus.g;9
+Lumbar plexus.g;0
+Branches of posterior part of lumbar plexus.g;0
+Lateral femoral cutaneous nerve.l;0
+Lateral femoral cutaneous nerve.r;1
+Femoral nerve.l;2
+Anterior cutaneous branches of femoral nerve.l;0
+Saphenous nerve.l;1
+Infrapatellar branch of saphenous nerve.l;0
+Medial crural cutaneous branches of saphenous nerve.l;1
+Femoral nerve.r;3
+Anterior cutaneous branches of femoral nerve.r;0
+Saphenous nerve.r;1
+Infrapatellar branch of saphenous nerve.r;0
+Medial crural cutaneous branches of saphenous nerve.r;1
+Superior subscapular nerve.r;4
+Branches of anterior part of lumbar plexus.g;1
+Genitofemoral nerve.l;0
+Genital branch of genitofemoral nerve.l;0
+Femoral branch of genitofemoral nerve.l;1
+Genitofemoral nerve.r;1
+Genital branch of genitofemoral nerve.r;0
+Femoral branch of genitofemoral nerve.r;1
+Obturator nerve.l;2
+Anterior branch of obturator nerve.l;0
+Posterior branch of obturator nerve.l;1
+Obturator nerve.r;3
+Anterior branch of obturator nerve.r;0
+Posterior branch of obturator nerve.r;1
+Sacral plexus.g;1
+Superior gluteal nerve.l;0
+Superior gluteal nerve.r;1
+Nerve to piriformis muscle.l;2
+Nerve to piriformis muscle.r;3
+Posterior root of posterior femoral cutaneous nerve.l;4
+Posterior root of posterior femoral cutaneous nerve.r;5
+Nerve to quadratus femoris muscle.l;6
+Nerve to quadratus femoris muscle.r;7
+Pudendal nerve.l;8
+Pudendal nerve.r;9
+Anterior root of posterior femoral cutaneous nerve.l;10
+Anterior root of posterior femoral cutaneous nerve.r;11
+Posterior femoral cutaneous nerve.l;12
+Posterior femoral cutaneous nerve.r;13
+Sciatic nerve.l;14
+Common fibular nerve.l;0
+Sural communicating branch of common fibular nerve.l;0
+Superficial fibular nerve.l;1
+Medial dorsal cutaneous nerve of foot.l;0
+Intermediate dorsal cutaneous nerve of foot.l;1
+Dorsal digital branches of superficial fibular nerve.l;2
+Deep fibular nerve.l;2
+Muscular branches of deep fibular nerve.l;0
+Dorsal digital branches of deep fibular nerve.l;1
+Tibial nerve.l;1
+Medial sural cutaneous nerve.l;0
+Sural nerve.l;0
+Medial plantar nerve.l;1
+Common plantar digital branches of medial plantar nerve.l;0
+Proper plantar digital branches of medial plantar nerve.l;0
+Lateral plantar nerve.l;2
+Common plantar digital branches of lateral plantar nerve.l;0
+Proper plantar digital branches of lateral plantar nerve.l;0
+Sciatic nerve.r;15
+Common fibular nerve.r;0
+Sural communicating branch of common fibular nerve.r;0
+Superficial fibular nerve.r;1
+Medial dorsal cutaneous nerve of foot.r;0
+Intermediate dorsal cutaneous nerve of foot.r;1
+Dorsal digital branches of superficial fibular nerve.r;2
+Deep fibular nerve.r;2
+Muscular branches of deep fibular nerve.r;0
+Dorsal digital branches of deep fibular nerve.r;1
+Tibial nerve.r;1
+Medial sural cutaneous nerve.r;0
+Sural nerve.r;0
+Medial plantar nerve.r;1
+Common plantar digital branches of medial plantar nerve;0
+Proper plantar digital branches of medial plantar nerve.r;0
+Lateral plantar nerve.r;2
+Common plantar digital branches of lateral plantar nerve.r;0
+Proper plantar digital branches of lateral plantar nerve.r;0
+Autonomic division of peripheral nervous system.g;4
+Thoracolumbar part of autonomic division.g;0
+Sympathetic trunk.l;0
+Ganglia of sympathetic trunk.l;0
+Sympathetic trunk.r;1
+Ganglia of sympathetic trunk.r;0
+Sympathetic nerves.l;2
+Sympathetic nerves.r;3
+Craniosacral part of autonomic division.g;1
+Visceral part of autonomic division.g;2
+Sense organs.g;2
+Eye.g;0
+Eyeball.g;0
+Equator of eyeball.r;0
+Meridians of eyeball.r;1
+External axis of eyeball;2
+Optic axis.t;0
+Optic axis.j;1
+Internal axis of eyeball.r;3
+Cornea.l;4
+Cornea.r;5
+Anterior pole of eyeball.t;0
+Anterior surface of cornea.t;1
+Corneal vertex.t;2
+Corneoscleral junction.t;3
+Posterior surface of cornea.t;4
+Sulcus sclerae.t;5
+Anterior pole of eyeball.j;6
+Anterior surface of cornea.j;7
+Corneoscleral junction.j;8
+Posterior surface of cornea.j;9
+Sulcus sclerae.j;10
+Sclera.l;6
+Sclera.r;7
+Eyeball.t;0
+Posterior pole of eyeball.t;1
+Eyeball'.j;2
+Posterior pole of eyeball.j;3
+Iris.l;8
+Iris.r;9
+Anterior surface of iris.t;0
+Dilator pupillae.t;1
+Folds of iris.t;2
+Posterior surface of iris.t;3
+Pupil.t;4
+Pupillary margin of iris.t;5
+Sphincter pupillae.t;6
+Anterior surface of iris.j;7
+Dilator pupillae.j;8
+Folds of iris.j;9
+Posterior surface of iris.j;10
+Pupil.j;11
+Pupillary margin of iris.j;12
+Sphincter pupillae.j;13
+Ciliary body-curve.r;10
+Retina.l;11
+Retina.r;12
+Anterior segment of eyeball.l;13
+Anterior chamber of eyeball.l;0
+Zonular fibres.l;1
+Anterior segment of eyeball.r;14
+Anterior chamber of eyeball.r;0
+Zonular fibres.r;1
+Posterior segment of eyeball.l;15
+Vitreous body.l;0
+Posterior segment of eyeball.r;16
+Vitreous body.r;0
+Lens.l;17
+Lens.r;18
+Zonular fibers-curve.r;19
+Accessory visual structures.g;1
+Suspensory ligament of eyeball.l;0
+Suspensory ligament of eyeball.r;1
+Lacrimal apparatus.g;2
+Lacrimal gland.l;0
+Lacrimal gland.r;1
+Lacrimal canaliculus.l;2
+Ampulla of lacrimal canaliculus.l;0
+Lacrimal canaliculus.r;3
+Ampulla of lacrimal canaliculus.r;0
+Lacrimal sac.l;4
+Lacrimal sac.r;5
+Nasolacrimal duct.l;6
+Nasolacrimal duct.r;7
+Ear.g;1
+External ear.g;0
+Tympanic membrane.l;0
+Tympanic membrane.r;1
+Middle ear.g;1
+Auditory tube.l;0
+Auditory tube.r;1
+Internal ear.g;2
+Vestibule.l;0
+Vestibule.r;1
+Anterior bony ampulla.t;0
+Anterior semicircular canal.t;1
+Common bony limb.t;2
+Lateral bony ampulla.t;3
+Lateral semicircular canal.t;4
+Posterior bony ampulla.t;5
+Posterior semicircular canal.t;6
+Simple bony limb.t;7
+Anterior bony ampulla.j;8
+Anterior semicircular canal.j;9
+Common bony limb.j;10
+Lateral bony ampulla.j;11
+Lateral semicircular canal.j;12
+Posterior bony ampulla.j;13
+Posterior semicircular canal.j;14
+Simple bony limb.j;15
+Cochlea.l;2
+Cochlea.r;3
+Base of cochlea.t;0
+Cochlear cupula.t;1
+Spiral canal of cochlea.t;2
+Base of cochlea.j;3
+Cochlear cupula.j;4
+Spiral canal of cochlea.j;5
+Visceral systems.g;9
+Digestive system.g;0
+Mouth.g;0
+Gingiva;0
+Palate.g;1
+Salivary glands.g;2
+Major salivary glands.g;0
+(Accessory parotid gland).l;0
+(Accessory parotid gland).r;1
+Parotid duct.l;2
+Parotid duct.r;3
+Parotid gland.l;4
+Parotid gland.r;5
+Sublingual gland.l;6
+Sublingual gland.r;7
+Submandibular duct.l;8
+Submandibular duct.r;9
+Submandibular gland.l;10
+Submandibular gland.r;11
+Soft palate;3
+Tongue;4
+Uvula of palate;5
+Fauces.g;1
+Pharynx.g;2
+Nasopharynx;0
+Oropharynx;1
+Laryngopharynx;2
+Digestive canal.g;3
+Oesophagus;0
+Oesophagus-profile;0
+Stomach;1
+Angular incisure.t;0
+Anterior wall of stomach.t;1
+Body of stomach.t;2
+Cardia.t;3
+Cardiac notch.t;4
+Fornix of stomach.t;5
+Fundus of stomach.t;6
+Greater curvature of stomach.t;7
+Lesser curvature of stomach.t;8
+Mucosa of stomach;9
+Posterior wall of stomach.t;10
+Pyloric antrum.t;11
+Pyloric canal.t;12
+Pyloric part.t;13
+Angular incisure.j;14
+Anterior wall of stomach.j;15
+Body of stomach.j;16
+Cardia.j;17
+Cardiac notch.j;18
+Fundus of stomach.j;19
+Greater curvature of stomach.j;20
+Lesser curvature of stomach.j;21
+Posterior wall of stomach.j;22
+Pyloric antrum.j;23
+Pyloric part.j;24
+Small intestine.g;2
+Duodenum;0
+Jejunum;1
+Large intestine.g;3
+Colon.g;0
+Ascending colon;0
+Descending colon;1
+Sigmoid colon;2
+Taeniae coli.g;3
+Free taenia;0
+Mesocolic taenia;1
+Omental taenia;2
+Transverse colon;4
+Vermiform appendix;5
+Liver;4
+Diaphragmatic surface of liver.t;0
+Superior surface of liver.t;1
+Cardiac impression of liver.t;2
+Anterior surface of liver.t;3
+Right surface of liver.t;4
+Posterior surface of liver.t;5
+Bare area of liver.t;6
+Visceral surface of liver.t;7
+Porta hepatis.t;8
+Main portal fissure.t;9
+Fossa for gallbladder.t;10
+Right portal fissure.t;11
+Umbilical fissure.t;12
+Fissure for ligamentum teres.t;13
+Fissure for ligamentum venosum.t;14
+Omental tuberosity of liver.t;15
+Oesophageal impression of liver.t;16
+Gastric impression of liver.t;17
+Duodenal impression of liver.t;18
+Colic impression of liver.t;19
+Renal impression of liver.t;20
+Suprarenal impression of liver.t;21
+Inferior border of liver.t;22
+Notch for ligamentum teres.t;23
+Right lobe of liver.t;24
+Left lobe of liver.t;25
+Fibrous appendix of liver.t;26
+Quadrate lobe.t;27
+Caudate lobe.t;28
+Papillary process.t;29
+Caudate process.t;30
+Left part of liver.t;31
+Left lateral division of liver.t;32
+Left posterior lateral segment of liver (II);33
+Left posterior lateral segment of liver (II).t;34
+Left anterior lateral segment of liver (III);35
+Left anterior lateral segment of liver (III).t;36
+Left medial division of liver.t;37
+Left medial segment of liver (IV);38
+Left medial segment of liver (IV).t;39
+Posterior part of liver.t;40
+Posterior segment of liver (I);41
+Posterior segment of liver (I).t;42
+Right part of liver.t;43
+Right medial division of liver.t;44
+Anterior medial segment of liver (V);45
+Anterior medial segment of liver (V).t;46
+Posterior medial segment of liver (VIII);47
+Posterior medial segment of liver (VIII).t;48
+Right lateral division of liver.t;49
+Anterior lateral segment of liver (VI);50
+Anterior lateral segment of liver (VI).t;51
+Posterior lateral segment of liver (VII);52
+Anterior lateral segment of liver (VI).j;53
+Anterior medial segment of liver (V).j;54
+Anterior surface of liver.j;55
+Bare area of liver.j;56
+Cardiac impression of liver.j;57
+Caudate lobe.j;58
+Colic impression of liver.j;59
+Diaphragmatic surface of liver.j;60
+Duodenal impression of liver.j;61
+Fibrous appendix of liver.j;62
+Fissure for ligamentum teres.j;63
+Fissure for ligamentum venosum.j;64
+Fossa for gallbladder.j;65
+Gastric impression of liver.j;66
+Inferior border of liver.j;67
+Left anterior lateral segment of liver (III).j;68
+Left lateral division of liver.j;69
+Left lobe of liver.j;70
+Left medial division of liver.j;71
+Left medial segment of liver (IV).j;72
+Left part of liver.j;73
+Left posterior lateral segment of liver (II).j;74
+Main portal fissure.j;75
+Notch for ligamentum teres.j;76
+Oesophageal impression of liver.j;77
+Omental tuberosity of liver.j;78
+Papillary process.j;79
+Porta hepatis.j;80
+Posterior medial segment of liver (VIII).j;81
+Posterior part of liver.j;82
+Posterior segment of liver (I).j;83
+Posterior surface of liver.j;84
+Quadrate lobe.j;85
+Renal impression of liver.j;86
+Right lateral division of liver.j;87
+Right lobe of liver.j;88
+Right medial division of liver.j;89
+Right part of liver.j;90
+Right portal fissure.j;91
+Right surface of liver.j;92
+Superior surface of liver.j;93
+Suprarenal impression of liver.j;94
+Umbilical fissure.j;95
+Visceral surface of liver.j;96
+Gallbladder;5
+Fundus of gallbladder.t;0
+Infundibulum of gallbladder.t;1
+Body of gallbladder.t;2
+Neck of gallbladder.t;3
+Body of gallbladder.j;4
+Fundus of gallbladder.j;5
+Infundibulum of gallbladder.j;6
+Neck of gallbladder.j;7
+Extrahepatic bile ducts.g;6
+Bile duct;0
+Pancreas;7
+Pancreas.t;0
+Head of pancreas.t;1
+Uncinate process of pancreas.t;2
+Pancreatic notch.t;3
+Neck of pancreas.t;4
+Body of pancreas.t;5
+Anterosuperior surface of pancreas.t;6
+Posterior surface of pancreas.t;7
+Antero-inferior surface of pancreas.t;8
+Superior border of pancreas.t;9
+Anterior border of pancreas.t;10
+Inferior border of pancreas.t;11
+Omental eminence of pancreas.t;12
+Tail of pancreas.t;13
+Pancreatic duct;14
+Accessory pancreatic duct;15
+Anterior border of pancreas.j;16
+Antero-inferior surface of pancreas.j;17
+Anterosuperior surface of pancreas.j;18
+Body of pancreas.j;19
+Head of pancreas.j;20
+Inferior border of pancreas.j;21
+Neck of pancreas.j;22
+Omental eminence.j;23
+Pancreas.j;24
+Pancreatic notch.j;25
+Posterior surface of pancreas.j;26
+Superior border of pancreas.j;27
+Tail of pancreas.j;28
+Uncinate process of pancreas.j;29
+Respiratory system.g;1
+Nose.g;0
+Mucosa of nasal cavity;0
+Paranasal sinuses.g;1
+Larynx.g;2
+Epiglottis;0
+Tracheobronchial tree.g;3
+Trachea;0
+Bronchi.g;1
+Right main bronchus;0
+Right superior lobar bronchus;0
+Apical segmental bronchus of right lung (BI);0
+Posterior segmental bronchus of right lung (BII);1
+Anterior segmental bronchus of right lung (BIII);2
+Intermediate bronchus.r;1
+Middle lobar bronchus.r;0
+Lateral segmental bronchus of right lung (BIV);0
+Medial segmental bronchus of right lung (BV);1
+Right inferior lobar bronchus;1
+Superior segmental bronchus of right lung (BVI);0
+Medial basal segmental bronchus of right lung (BVII);1
+Anterior basal segmental bronchus of right lung (BVIII);2
+Lateral basal segmental bronchus of right lung (BIX);3
+Posterior basal segmental bronchus of right lung (BX);4
+Left main bronchus;1
+Left superior lobar bronchus;0
+Apicoposterior segmental bronchus of left lung (BI+BII);0
+Anterior segmental bronchus of left lung (BIII);1
+Superior lingular segmental bronchus of left lung (BIV);2
+Inferior lingular segmental bronchus of left lung (BV);3
+Left inferior lobar bronchus;1
+Superior segmental bronchus of left lung (BVI);0
+Medial basal segmental bronchus of left lung (BVII);1
+(Anteromedial basal segmental bronchus of left lung);2
+Anterior basal segmental bronchus of left lung (BVIII);3
+Lateral basal segmental bronchus of left lung (BIX);4
+Posterior basal segmental bronchus of left lung (BX);5
+Lungs.g;4
+Right lung.g;0
+Superior lobe of right lung;0
+Apical segment of right lung (SI).t;0
+Posterior segment of right lung (SII).t;1
+Anterior segment of right lung (SIII).t;2
+Apex of lung.t;3
+Costal surface of lung.t;4
+Mediastinal surface of lung.t;5
+Cardiac impression of lung.t;6
+Anterior border of lung.t;7
+Hilum of lung.t;8
+Root of lung.t;9
+Anterior border of lung.j;10
+Anterior segment of right lung (SIII).j;11
+Apex of lung.j;12
+Apical segment of right lung (SI).j;13
+Cardiac impression of lung.j;14
+Costal surface of lung.j;15
+Hilum of lung.j;16
+Mediastinal surface of lung.j;17
+Posterior segment of right lung (SII).j;18
+Root of lung.j;19
+Middle lobe of right lung;1
+Lateral segment of right lung (SIV).t;0
+Medial segment of right lung (SV).t;1
+Horizontal fissure of right lung.t;2
+Interlobar surface of lung.t;3
+Inferior border of lung.t;4
+Horizontal fissure of right lung.j;5
+Inferior border of lung.j;6
+Interlobar surface of lung.j;7
+Lateral segment of right lung (SIV).j;8
+Medial segment of right lung (SV).j;9
+Inferior lobe of right lung;2
+Superior segment of right lung (SVI).t;0
+Medial basal segment of right lung (SVII).t;1
+Anterior basal segment of right lung (SVIII).t;2
+Lateral basal segment of right lung (SIX).t;3
+Posterior basal segment of right lung (SX).t;4
+Oblique fissure of right lung.t;5
+Base of lung.t;6
+Medial surface of lung.t;7
+Diaphragmatic surface of lung.t;8
+Lobe of lung.t;9
+Anterior basal segment of right lung (SVIII).j;10
+Base of lung.j;11
+Diaphragmatic surface of lung.j;12
+Lateral basal segment of right lung (SIX).j;13
+Lobe of lung.j;14
+Medial basal segment of right lung (SVII).j;15
+Medial surface of lung.j;16
+Oblique fissure of right lung.j;17
+Posterior basal segment of right lung (SX).j;18
+Superior segment of right lung (SVI).j;19
+Left lung.g;1
+Superior lobe of left lung;0
+Apicoposterior segment of left lung (SI+SII).t;0
+Anterior segment of left lung (SIII).t;1
+Cardiac notch of left lung.t;2
+Lingula of left lung.t;3
+Superior lingular segment of left lung (SIV).t;4
+Inferior lingular segment of left lung (SV).t;5
+Anterior segment of left lung (SIII).j;6
+Apicoposterior segment of left lung (SI+SII).j;7
+Cardiac notch of left lung.j;8
+Inferior lingular segment of left lung (SV).j;9
+Lingula of left lung.j;10
+Superior lingular segment of left lung (SIV).j;11
+Inferior lobe of left lung;1
+Superior segment of left lung (SVI).t;0
+Medial basal segment of left lung (SVII).t;1
+Anterior basal segment of left lung (SVIII).t;2
+Lateral basal segment of left lung (SIX).t;3
+Posterior basal segment of left lung (SX).t;4
+Oblique fissure of left lung.t;5
+Anterior basal segment of left lung (SVIII).j;6
+Lateral basal segment of left lung (SIX).j;7
+Medial basal segment of left lung (SVII).j;8
+Oblique fissure of left lung.j;9
+Posterior basal segment of left lung (SX).j;10
+Superior segment of left lung (SVI).j;11
+Thoracic cavity.g;2
+Pleura;0
+Urinary system.g;3
+Kidney.l;0
+Kidney.r;1
+Lateral border of kidney.t;0
+Medial border of kidney.t;1
+Hilum of kidney.t;2
+Renal sinus.t;3
+Anterior surface of kidney.t;4
+Posterior surface of kidney.t;5
+Superior pole of kidney.t;6
+Inferior pole of kidney.t;7
+Anterior surface of kidney.j;8
+Hilum of kidney.j;9
+Inferior pole of kidney.j;10
+Lateral border of kidney.j;11
+Medial border of kidney.j;12
+Posterior surface of kidney.j;13
+Renal sinus.j;14
+Superior pole of kidney.j;15
+Renal pelvis.l;2
+Renal pelvis.r;3
+Ureter.l;4
+Ureter.r;5
+Urinary bladder;6
+Apex of bladder.t;0
+Body of bladder.t;1
+Fundus of bladder.t;2
+Apex of bladder.j;3
+Body of bladder.j;4
+Fundus of bladder.j;5
+Urethra;7
+Genital systems.g;4
+Male genital system.g;0
+Male internal genitalia.g;0
+Testis.l;0
+Testis.r;1
+Superior pole of testis.t;0
+Inferior pole of testis.t;1
+Lateral surface of testis.t;2
+Medial surface of testis.t;3
+Anterior border of testis.t;4
+Posterior border of testis.t;5
+Anterior border of testis.j;6
+Inferior pole of testis.j;7
+Lateral surface of testis.j;8
+Medial surface of testis.j;9
+Posterior border of testis.j;10
+Superior pole of testis.j;11
+Epididymis.l;2
+Epididymis.r;3
+Ductus deferens.l;4
+Ductus deferens.r;5
+Seminal gland.l;6
+Seminal gland.r;7
+Ejaculatory duct.l;8
+Ejaculatory duct.r;9
+Prostate;10
+Male external genitalia.g;1
+Penis.g;0
+Glans penis;0
+Corpus cavernosum of penis;1
+Corpus spongiosum of penis;2
+Abdominopelvic cavity.g;5
+Peritoneal cavity.g;0
+Peritoneum.g;1
+Peritoneal structures.g;2
+Mesocolon;0
+Meso-appendix;0
+Greater omentum;1
+Lesser omentum;2
+Visceral fasciae of abdominopelvic cavity.g;3
+Endocrine glands.g;6
+Hypophysis.g;0
+Adenohypophysis;0
+Pars tubelaris of hypophysis.t;0
+Pars distalis of hypophysis.t;1
+Pars intermedia of hypophysis.t;2
+Pars distalis of hypophysis.j;3
+Pars intermedia of hypophysis.j;4
+Pars tubelaris of hypophysis.j;5
+Neurohypophysis;1
+Infundibular stalk.t;0
+Pars nervosa of hypophysis.t;1
+Infundibular stalk.j;2
+Pars nervosa of hypophysis.j;3
+Pineal gland;1
+Thyroid gland;2
+Lobe of thyroid gland.t;0
+Isthmus of thyroid gland.t;1
+(Pyramidal lobe).t;2
+(Pyramidal lobe).j;3
+Isthmus of thyroid gland.j;4
+Lobe of thyroid gland.j;5
+Parathyroid glands.g;3
+Inferior parathyroid gland.l;0
+Inferior parathyroid gland.r;1
+Superior parathyroid gland.l;2
+Superior parathyroid gland.r;3
+Suprarenal gland.l;4
+Suprarenal gland.r;5
+Anterior surface of suprarenal gland.t;0
+Posterior surface of suprarenal gland.t;1
+Renal surface of suprarenal gland.t;2
+Superior border of suprarenal gland.t;3
+Medial border of suprarenal gland.t;4
+Hilum of suprarenal gland.t;5
+Anterior surface of suprarenal gland.j;6
+Hilum of suprarenal gland.j;7
+Medial border of suprarenal gland.j;8
+Posterior surface of suprarenal gland.j;9
+Renal surface of suprarenal gland.j;10
+Superior border of suprarenal gland.j;11
+Regions of human body.g;10
+Regions of head.g;0
+Regions of epicranium.g;0
+Frontal region.l;0
+Eyebrow.l;0
+Frontal region.r;1
+Eyebrow.r;0
+Parietal region.r;2
+Parietal region.l;3
+Occipital region.l;4
+Occipital region.r;5
+Temporal region.l;6
+Temporal region.r;7
+Mastoid region.l;8
+Mastoid region.r;9
+Auricular region.g;1
+Auricular region.l;0
+Auricular region.r;1
+Triangular fossa.l;2
+Triangular fossa.r;3
+Scapha.l;4
+Scapha.r;5
+Concha of auricle.l;6
+Concha of auricle.r;7
+Cymba conchae.l;8
+Cymba conchae.r;9
+Cavity of concha.l;10
+Cavity of concha.r;11
+Anterior notch of auricle.l;12
+Anterior notch of auricle.r;13
+Intertragic incisure.l;14
+Intertragic incisure.r;15
+Auricular tubercle.l;16
+Auricular tubercle.r;17
+Apex of auricle.l;18
+Apex of auricle.r;19
+Posterior auricular groove.l;20
+Posterior auricular groove.r;21
+Fossa antihelica.l;22
+Fossa antihelica.r;23
+Eminentia conchae.l;24
+Eminentia conchae.r;25
+Eminentia scaphae.l;26
+Eminentia scaphae.r;27
+Eminentia fossae triangularis.l;28
+Eminentia fossae triangularis.r;29
+Lobule of auricle.l;30
+Lobule of auricle.r;31
+Helix.l;32
+Helix.r;33
+Antihelix.l;34
+Antihelix.r;35
+Crura of antihelix.l;36
+Crura of antihelix.r;37
+Antitragus.l;38
+Antitragus.r;39
+Tragus.l;40
+Tragus.r;41
+Regions of face.g;2
+Orbital region.l;0
+Orbital region.r;1
+Eyelids.t;0
+Lower eyelid.t;1
+Upper eyelid.t;2
+Eyelids.j;3
+Lower eyelid.j;4
+Upper eyelid.j;5
+Infra-orbital region.l;2
+Infra-orbital region.r;3
+Buccal region.l;4
+Buccal region.r;5
+Cheek.t;0
+Cheek.j;1
+Parotideomasseteric region.l;6
+Parotideomasseteric region.r;7
+Zygomatic region.l;8
+Zygomatic region.r;9
+Nasal region.l;10
+Nasal region.r;11
+External nose.t;0
+Root of nose.t;1
+Ala of nose.t;2
+Apex of nose.t;3
+Apex of nose.j;4
+External nose.j;5
+Root of nose.j;6
+Nasolabial sulcus.l;12
+Nasolabial sulcus.r;13
+Oral region.l;14
+Philtrum.l;0
+Tubercle of upper lip.l;1
+Labial commissure.l;2
+Angle of mouth.l;3
+Oral region.r;15
+Philtrum.r;0
+Tubercle of upper lip.r;1
+Labial commissure.r;2
+Angle of mouth.r;3
+Upper lip.t;4
+Upper lip.j;5
+Mentolabial sulcus.l;16
+Mentolabial sulcus.r;17
+Mental region.l;18
+Mental region.r;19
+Chin.t;0
+Chin.j;1
+Regions of neck.g;1
+Anterior region of neck.g;0
+Suprahyoid region.g;0
+Submandibular triangle.l;0
+Submandibular triangle.r;1
+Submental triangle.l;2
+Submental triangle.r;3
+Infrahyoid region.g;1
+Carotid triangle.l;0
+Carotid triangle.r;1
+Muscular triangle.l;2
+Muscular triangle.r;3
+Sternocleidomastoid region.g;1
+Sternocleidomastoid region.l;0
+Lesser supraclavicular fossa.l;0
+Sternocleidomastoid region.r;1
+Lesser supraclavicular fossa.r;0
+Lateral region of neck.g;2
+Greater supraclavicular fossa.l;0
+Greater supraclavicular fossa.r;1
+Lateral region of neck.l;2
+Lateral region of neck.r;3
+Posterior region of neck.l;3
+Posterior region of neck.r;4
+Regions of thorax.g;2
+Anterior region of thorax.g;0
+Presternal region.l;0
+Presternal region.r;1
+Infraclavicular fossa.l;2
+Infraclavicular fossa.r;3
+Deltopectoral triangle.l;4
+Deltopectoral triangle.r;5
+Pectoral region.l;6
+Mammary region.l;0
+Inframammary region.l;1
+Pectoral region.r;7
+Mammary region.r;0
+Inframammary region.r;1
+Lateral region of thorax.l;1
+Lateral region of thorax.r;2
+Regions of abdomen.g;3
+Hypochondriac region.l;0
+Hypochondriac region.r;1
+Epigastric region.l;2
+Epigastric region.r;3
+Lateral region of abdomen.l;4
+Lateral region of abdomen.r;5
+Umbilical region.l;6
+Umbilicus.l;0
+Umbilical region.r;7
+Umbilicus.r;0
+Inguinal region.l;8
+Inguinal region.r;9
+Hypogastric region.l;10
+Hypogastric region.r;11
+Regions of back.g;4
+Vertebral region.l;0
+Vertebral region.r;1
+Scapular region.l;2
+Scapular region.r;3
+Triangle of auscultation.l;4
+Triangle of auscultation.r;5
+Infrascapular region.l;6
+Infrascapular region.r;7
+Interscapular region.l;8
+Interscapular region.r;9
+Lumbar region.l;10
+Lumbar region.r;11
+Sacral region.l;12
+Sacral region.r;13
+Regions of perineum.g;5
+Anal region.l;0
+Anal region.r;1
+Urogenital region.l;2
+Urogenital region.r;3
+Regions of upper limb.g;6
+Deltoid region.l;0
+Deltoid region.r;1
+Brachial region.g;2
+Anterior region of arm.l;0
+Lateral bicipital groove.l;0
+Medial bicipital groove.l;1
+Anterior region of arm.r;1
+Lateral bicipital groove.r;0
+Medial bicipital groove.r;1
+Posterior region of arm.l;2
+Posterior region of arm.r;3
+Cubital region.g;3
+Anterior region of elbow.l;0
+Cubital fossa.l;0
+Anterior region of elbow.r;1
+Cubital fossa.r;0
+Posterior region of elbow.l;2
+Posterior region of elbow.r;3
+Antebrachial region.g;4
+Anterior region of forearm.l;0
+Anterior region of forearm.r;1
+Posterior region of forearm.l;2
+Posterior region of forearm.r;3
+Lateral border of forearm.l;4
+Lateral border of forearm.r;5
+Medial border of forearm.l;6
+Medial border of forearm.r;7
+Carpal region.g;5
+Anterior region of wrist.l;0
+Anterior region of wrist.r;1
+Posterior region of wrist.l;2
+Posterior region of wrist.r;3
+Radial foveola.l;4
+Radial foveola.r;5
+Regions of hand.g;6
+Dorsum of hand.l;0
+Dorsum of hand.r;1
+Palm.l;2
+Palm.r;3
+Regions of digits of hand.g;4
+Palmar surfaces of digits of hand.l;0
+Palmar surfaces of digits of hand.r;1
+Dorsal surfaces of digits of hand.l;2
+Nail plate.l;0
+Perionyx.l;0
+Dorsal surfaces of digits of hand.r;3
+Nail plate.r;0
+Lunule of nail.t;0
+Perionyx.r;1
+Lunule of nail.j;2
+Regions of lower limb.g;7
+Gluteal region.g;0
+Gluteal region.l;0
+Gluteal fold.l;0
+Gluteal region.r;1
+Gluteal fold.r;0
+Hip region.l;1
+Hip region.r;2
+Femoral region.g;3
+Anterior region of thigh.g;0
+Anterior region of thigh.l;0
+Femoral triangle.l;0
+Anterior region of thigh.r;1
+Femoral triangle.r;0
+Posterior region of thigh.l;1
+Posterior region of thigh.r;2
+Knee region.g;4
+Anterior region of knee.l;0
+Anterior region of knee.r;1
+Posterior region of knee.g;2
+Posterior region of knee.l;0
+Popliteal fossa.l;0
+Posterior region of knee.r;1
+Popliteal fossa.r;0
+Leg region.g;5
+Anterior region of leg.l;0
+Anterior region of leg.r;1
+Posterior region of leg.l;2
+Posterior region of leg.r;3
+Talocrural region.g;6
+Anterior region of ankle.l;0
+Anterior region of ankle.r;1
+Posterior region of ankle.g;2
+Lateral retromalleolar region.l;0
+Lateral retromalleolar region.r;1
+Medial retromalleolar region.l;2
+Medial retromalleolar region.r;3
+Lateral malleolus.l;3
+Lateral malleolus.r;4
+Medial malleolus.l;5
+Medial malleolus.r;6
+Regions of foot.g;7
+Heel region.l;0
+Heel region.r;1
+Dorsum of foot.l;2
+Dorsum of foot.r;3
+Sole.l;4
+Lateral part of longitudinal arch of foot.l;0
+Medial part of longitudinal arch of foot.l;1
+Proximal transverse arch of foot.l;2
+Distal transverse arch of foot.l;3
+Sole.r;5
+Lateral part of longitudinal arch of foot.r;0
+Medial part of longitudinal arch of foot.r;1
+Proximal transverse arch of foot.r;2
+Distal transverse arch of foot.r;3
+Lateral border of foot.l;6
+Lateral border of foot.r;7
+Medial border of foot.l;8
+Medial border of foot.r;9
+Metatarsal region.l;10
+Hallucial eminence.l;0
+Metatarsal region.r;11
+Hallucial eminence.r;0
+Regions of digits of foot.g;12
+Plantar surfaces of digits of foot.l;0
+Plantar surfaces of digits of foot.r;1
+Dorsal surfaces of digits of foot.l;2
+Nail plate (foot).l;0
+Perionyx (foot).l;0
+Dorsal surfaces of digits of foot.r;3
+Nail plate (foot).r;0
+Perionyx (foot).r;0
+Hairs.g;8
+Hairs of head;0
+Hairs of eyebrow.l;1
+Hairs of eyebrow.r;2
+Eyelashes.l;3
+Eyelashes.r;4
+Pubic hairs;5
+References and movements.g;11
+Directions;0
+Ventral;0
+Dorsal;1
+Frontal;2
+Occipital;3
+Cranial;4
+Caudal;5
+Proximal;6
+Distal;7
+Radial;8
+Ulnar;9
+Fibular;10
+Tibial;11
+Palmar;12
+Plantar;13
+Planes;1
+Coronal planes;0
+Median plane;1
+Paramedian plane;2
+Transverse planes;3
+Reference lines;2
+Posterior axillary line.l;0
+Posterior axillary line.r;1
+Posterior median line;2
+Parasternal line.l;3
+Parasternal line.r;4
+Paravertebral line.l;5
+Paravertebral line.r;6
+Mamillary line.l;7
+Mamillary line.r;8
+Midclavicular line.l;9
+Midclavicular line.r;10
+Anterior axillary line.l;11
+Anterior axillary line.r;12
+Anterior median line;13
+Scapular line.l;14
+Scapular line.r;15
+Sternal line.l;16
+Sternal line.r;17
+Movements;3
+Abduction;0
+Adduction;1
+Lateral rotation;2
+Medial rotation;3
+Circumduction;4
+Pronation;5
+Supination;6
+Plantar flexion;7
+Dorsiflexion;8
+Eversion;9
+Inversion;10

@@ -1,0 +1,1128 @@
+Axial skeleton
+Parietal bone.r
+Parietal bone.l
+Sinus of frontal bone
+Frontal bone
+Occipital bone
+Sinus of sphenoid bone
+Sphenoid bone
+Temporal bone.r
+Ethmoid bone
+Inferior nasal concha bone.r
+Lacrimal bone.r
+Nasal bone.r
+Maxilla.r
+Palatine bone.r
+Zygomatic bone.r
+Mandible
+Hyoid bone
+Malleus.r
+Incus.r
+Stapes.r
+Upper medial incisor.r
+Upper lateral incisor.r
+Upper canine.r
+Lower medial incisor.r
+Lower lateral incisor.r
+Lower canine.r
+Upper first premolar.r
+Upper second premolar.r
+Upper first molar tooth.r
+Upper second molar tooth.r
+Lower first premolar.r
+Lower second premolar.r
+Lower first molar tooth.r
+Lower second molar tooth.r
+Major alar cartilage.r
+Lateral process of nasal septal cartilage.r
+Nasal septal cartilage
+Thyroid cartilage
+Cricoid cartilage
+Arytenoid cartilage.r
+Corniculate cartilage.r
+Atlas (C1)
+Vertebra C6
+Vertebra C3
+Vertebra C5
+Vertebra C7
+Vertebra C4
+Vertebra T2
+Vertebra T3
+Vertebra T4
+Vertebra T5
+Vertebra T6
+Vertebra T7
+Vertebra T9
+Vertebra T10
+Vertebra T11
+Vertebra T12
+Vertebra T8
+Vertebra T1
+Vertebra L1
+Vertebra L2
+Vertebra L4
+Vertebra L5
+Vertebra L3
+Coccyx
+Fifth rib.r
+First rib.r
+Fourth rib.r
+Second rib.r
+Seventh rib.r
+Sixth rib.r
+Third rib.r
+Eleventh rib.r
+Twelfth rib.r
+Eighth rib.r
+Ninth rib.r
+Tenth rib.r
+Manubrium of sternum
+Xiphoid process
+Body of sternum
+Costal cartilage of first rib.r
+Costal cartilage of second rib.r
+Costal cartilage of third rib.r
+Costal cartilage of fourth rib.r
+Costal cartilage of fifth rib.r
+Costal cartilage of sixth rib.r
+Costal cartilage of seventh rib.r
+Costal cartilage of eighth rib.r
+Costal cartilage of tenth rib.r
+Costal cartilage of ninth rib.r
+Axis (C2)
+Sacrum
+Temporal bone.l
+Inferior nasal concha bone.l
+Lacrimal bone.l
+Nasal bone.l
+Vomer
+Maxilla.l
+Palatine bone.l
+Zygomatic bone.l
+Malleus.l
+Incus.l
+Stapes.l
+Upper medial incisor.l
+Upper lateral incisor.l
+Upper canine.l
+Lower medial incisor.l
+Lower lateral incisor.l
+Lower canine.l
+Upper first premolar.l
+Upper second premolar.l
+Upper first molar tooth.l
+Upper second molar tooth.l
+Lower first premolar.l
+Lower second premolar.l
+Lower first molar tooth.l
+Lower second molar tooth.l
+Major alar cartilage.l
+Lateral process of nasal septal cartilage.l
+Arytenoid cartilage.l
+Corniculate cartilage.l
+Fifth rib.l
+First rib.l
+Fourth rib.l
+Second rib.l
+Seventh rib.l
+Sixth rib.l
+Third rib.l
+Eleventh rib.l
+Twelfth rib.l
+Ninth rib.l
+Tenth rib.l
+Costal cartilage of first rib.l
+Costal cartilage of second rib.l
+Costal cartilage of third rib.l
+Costal cartilage of fourth rib.l
+Costal cartilage of fifth rib.l
+Costal cartilage of sixth rib.l
+Costal cartilage of seventh rib.l
+Costal cartilage of eighth rib.l
+Costal cartilage of tenth rib.l
+Costal cartilage of ninth rib.l
+Eighth rib.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,147 @@
+Nerves-2
+Cranial nerves.g
+Corpus callosum
+Habenula
+Mandibular nerve.g
+Spinal cord
+Amygdaloid body.r
+Hippocampus.r
+Lateral geniculate body.r
+Lateral ventricle.r
+Stria terminalis.r
+Superior colliculus.r
+Olfactory nerve (I).r
+Optic nerve (II).r
+Oculomotor nerve (III).r
+Trigeminal nerve (V).r
+Chorda tympani.r
+Facial nerve (VII).r
+Cochlear nerve.r
+Vestibular nerve.r
+Glossopharyngeal nerve (IX).r
+Accessory nerve (XI).r
+Hypoglossal nerve (XII).r
+Abducens nerve (VI).r
+Trochlear nerve (IV).r
+Posterior cord of brachial plexus.r
+Inferior alveolar nerve.r
+Mental nerve.r
+Nerve to mylohyoid muscle.r
+Buccal nerve.r
+Posterior division of mandibular nerve.r
+Anterior division of mandibular nerve.r
+Lingual nerve.r
+Maxillary nerve.r
+Ophthalmic nerve.r
+Meningeal branch of maxillary nerve.r
+Vestibulocochlear nerve (VIII).r
+Vagus nerve (X).r
+Motor root of trigeminal nerve.r
+Stria medullaris thalami.r
+Hippocampus.l
+Amygdaloid body.l
+Stria terminalis.l
+Lateral ventricle.l
+Lateral geniculate body.l
+Superior colliculus.l
+Olfactory nerve (I).l
+Optic nerve (II).l
+Oculomotor nerve (III).l
+Trigeminal nerve (V).l
+Mental nerve.l
+Nerve to mylohyoid muscle.l
+Buccal nerve.l
+Posterior division of mandibular nerve.l
+Anterior division of mandibular nerve.l
+Lingual nerve.l
+Maxillary nerve.l
+Ophthalmic nerve.l
+Meningeal branch of maxillary nerve.l
+Chorda tympani.l
+Facial nerve (VII).l
+Glossopharyngeal nerve (IX).l
+Accessory nerve (XI).l
+Hypoglossal nerve (XII).l
+Abducens nerve (VI).l
+Trochlear nerve (IV).l
+Posterior division of superior trunk of brachial plexus.l
+Posterior division of middle trunk of brachial plexus.l
+Posterior cord of brachial plexus.l
+Inferior alveolar nerve.l
+Cochlear nerve.l
+Vestibular nerve.l
+Vestibulocochlear nerve (VIII).l
+Stria medullaris thalami.l
+Vagus nerve (X).l
+Motor root of trigeminal nerve.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

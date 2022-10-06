@@ -1,0 +1,119 @@
+Muscles-7
+Palpebral part of orbicularis oculi.r
+Palpebral part of orbicularis oculi.l
+Zygomaticus major muscle.r
+Procerus muscle.r
+Zygomaticus minor muscle.r
+Zygomaticus major muscle.l
+Procerus muscle.l
+Zygomaticus minor muscle.l
+Deep part of masseter.r
+Deep part of masseter.l
+Omohyoid muscle.r
+Omohyoid muscle.l
+Levator scapulae.r
+Rhomboid minor muscle.r
+Serratus posterior inferior muscle.r
+Levator scapulae.l
+Rhomboid minor muscle.l
+Serratus posterior inferior muscle.l
+Pectoralis minor muscle.r
+Pectoralis minor muscle.l
+Rectus abdominis muscle.r
+Rectus abdominis muscle.l
+Supraspinatus muscle.r
+Teres minor muscle.r
+Supraspinatus muscle.l
+Teres minor muscle.l
+Superficial head of pronator teres.r
+Superficial head of pronator teres.l
+Palmaris longus muscle.r
+Palmaris longus muscle.l
+Extensor digitorum.r
+Extensor digitorum.l
+Gluteus minimus muscle.r
+Gluteus minimus muscle.l
+Rectus femoris muscle.r
+Rectus femoris muscle.l
+Semimembranosus muscle.r
+Semimembranosus muscle.l
+Fibularis longus muscle.r
+Fibularis longus muscle.l
+Popliteus muscle.r
+Popliteus muscle.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1128 @@
+Right upper limb
+Clavicle.r
+Humerus.r
+Distal phalanx of first finger of hand.r
+Distal phalanx of second finger of hand.r
+Distal phalanx of third finger of hand.r
+Distal phalanx of fourth finger of hand.r
+Distal phalanx of fifth finger of hand.r
+Middle phalanx of second finger of hand.r
+Middle phalanx of third finger of hand.r
+Middle phalanx of fourth finger of hand.r
+Middle phalanx of fifth finger of hand.r
+Proximal phalanx of first finger of hand.r
+Proximal phalanx of second finger of hand.r
+Proximal phalanx of third finger of hand.r
+Proximal phalanx of fourth finger of hand.r
+Proximal phalanx of fifth finger of hand.r
+First metacarpal bone.r
+Second metacarpal bone.r
+Third metacarpal bone.r
+Fourth metacarpal bone.r
+Fifth metacarpal bone.r
+Capitate bone.r
+Hamate bone.r
+Lunate bone.r
+Pisiform bone.r
+Scaphoid bone.r
+Trapezium bone.r
+Trapezoid bone.r
+Triquetrum bone.r
+Scapula.r
+Radius.r
+Ulna.r
+Coraco-acromial ligament.r
+Superior transverse scapular ligament.r
+Inferior transverse scapular ligament.r
+Trapezoid ligament.r
+Conoid ligament.r
+Articular capsule of acromioclavicular joint.r
+Acromioclavicular ligament.r
+Articular disc of acromioclavicular joint.r
+Articular capsule of sternoclavicular joint.r
+Articular disc of sternoclavicular joint.r
+Anterior sternoclavicular ligament.r
+Costoclavicular ligament.r
+Interclavicular ligament.r
+Posterior sternoclavicular ligament.r
+Oblique cord.r
+Superior glenohumeral ligament.r
+Middle glenohumeral ligament.r
+Inferior glenohumeral ligament.r
+Articular capsule of glenohumeral joint.r
+Glenoid labrum.r
+Coracohumeral ligament.r
+Transverse humeral ligament.r
+Articular capsule of elbow joint.r
+Radial collateral ligament.r
+Ulnar collateral ligament.r
+Annular ligament of radius.r
+Quadrate ligament.r
+Articular disc of distal radio-ulnar joint.r
+Palmar radio-ulnar ligament.r
+Dorsal radio-ulnar ligament.r
+Dorsal scaphotriquetral ligament.r
+Dorsal intercarpal ligaments.r
+Scaphotrapeziotrapezoidal ligament.r
+Scaphocapitate ligament.r
+Palmar scaphotriquetral ligament.r
+Triquetrocapitate ligament.r
+Triquetrohamate ligament.r
+Pisotriquetral ligament.r
+Palmar capitohamate ligament.r
+Palmar trapezoideocapitate ligament.r
+Palmar lunotriquetral ligament.r
+Scapholunate interosseous ligament.r
+Trapeziotrapezoidal interosseous ligament.r
+Capitohamate interosseous ligament.r
+Trapezoideocapitate interosseous ligament.r
+Lunotriquetral interosseous ligament.r
+Pisohamate ligament.r
+Pisometacarpal ligament.r
+Dorsal carpometacarpal ligaments.r
+Palmar carpometacarpal ligaments.r
+Dorsal metacarpal ligaments.r
+Palmar metacarpal ligaments.r
+Interosseous metacarpal ligaments.r
+Articular capsules of metacarpophalangeal joints.r
+Collateral metacarpophalangeal ligaments.r
+Deep transverse metacarpal ligament.r
+Articular capsules of proximal interphalangeal joints.r
+Articular capsules of distal interphalangeal joints.r
+Collateral interphalangeal ligaments of hand.r
+Palmar interphalangeal ligaments.r
+Articular capsule of radiocarpal joint.r
+Radiocapitate ligament.r
+Radioscaphocapitate ligament.r
+Ulnocapitate ligament.r
+Ulnopisiform ligament
+Ulnotriquetral ligament.r
+Ulnolunate ligament.r
+Dorsal radiocarpal ligament.r
+Ulnar collateral ligament of wrist joint.r
+Radial collateral ligament of wrist joint.r
+Dorsal ulnocarpal ligament.r
+Radiate carpal ligament.r
+Interosseous membrane of forearm.r
+Acromial part of deltoid muscle.r
+Clavicular part of deltoid muscle.r
+Scapular spinal part of deltoid muscle.r
+Subscapularis muscle.r
+Supraspinatus muscle.r
+Teres minor muscle.r
+Infraspinatus muscle.r
+Teres major muscle.r
+Long head of biceps brachii.r
+Short head of biceps brachii.r
+Brachialis muscle.r
+Coracobrachialis muscle.r
+Medial head of triceps brachii.r
+Lateral head of triceps brachii.r
+Long head of triceps brachii.r
+Superficial head of pronator teres.r
+Deep head of pronator teres.r
+Humeral head of flexor carpi ulnaris.r
+Ulnar head of flexor carpi ulnaris.r
+Humero-ulnar head of flexor digitorum superficialis.r
+Flexor carpi radialis.r
+Palmaris longus muscle.r
+Radial head of flexor digitorum superficialis.r
+Flexor digitorum profundus.r
+Flexor pollicis longus.r
+Pronator quadratus.r
+Extensor digitorum.r
+Ulnar head of extensor carpi ulnaris.r
+Humeral head of extensor carpi ulnaris.r
+Brachioradialis muscle.r
+Extensor carpi radialis longus.r
+Extensor carpi radialis brevis.r
+Anconeus muscle.r
+Extensor digiti minimi.r
+Supinator.r
+Abductor pollicis longus.r
+Extensor indicis.r
+Extensor pollicis brevis.r
+Extensor pollicis longus.r
+Superficial head of flexor pollicis brevis.r
+Deep head of flexor pollicis brevis.r
+Oblique head of adductor pollicis.r
+Transverse head of adductor pollicis.r
+Abductor pollicis brevis.r
+Opponens pollicis muscle.r
+Abductor digiti minimi of hand.r
+Flexor digiti minimi of hand.r
+Opponens digiti minimi muscle of hand.r
+Lumbrical muscles of hand.r
+Dorsal interossei muscles of hand.r
+Palmar interossei muscles.r
+Medial intermuscular septum of arm.r
+Lateral intermuscular septum of arm.r
+Deltoid fascia.r
+Brachial fascia.r
+Antebrachial fascia.r
+Extensor retinaculum of wrist.r
+Flexor retinaculum of wrist.r
+Dorsal fascia of hand.r
+Superficial transverse metacarpal ligament.r
+Palmar aponeurosis.r
+Subtendinous bursa of trapezius muscle.r
+Subcutaneous acromial bursa.r
+Subacromial bursa.r
+Subdeltoid bursa.r
+Coracobrachial bursa.r
+Subtendinous bursa of infraspinatus muscle.r
+Subtendinous bursa of teres major muscle.r
+Subtendinous bursa of triceps brachii muscle.r
+Bicipitoradial bursa.r
+Intertubercular tendon sheath.r
+Tendon sheath of flexor pollicis longus.r
+Tendon sheath of flexor carpi radialis.r
+Common flexor tendon sheath.r
+Synovial sheaths of digits of hand.r
+Cruciform part of fibrous sheath of digit of hand.r
+Tendon sheath of extensor digiti minimi manus.r
+Tendon sheath of extensor pollicis longus.r
+Tendon sheath - abd. pollicis longus - ext. pollicis brevis.r
+Tendon sheath of extensors carpi radialis.r
+Tendon sheath of extensor digitorum and extensor indicis.r
+Deep brachial artery.r
+Radial collateral artery.r
+Middle collateral artery.r
+Dorsal metacarpal arteries.r
+Dorsal digital arteries of hand.r
+Dorsal carpal anastomosis.r
+Palmar metacarpal arteries.r
+Deep palmar arch.r
+Radial artery.r
+Palmar carpal branch of radial artery.r
+(Ulnar recurrent artery).r
+Recurrent interosseous artery.r
+Posterior interosseous artery.r
+Common palmar digital arteries.r
+Proper palmar digital arteries.r
+Ulnar artery.r
+Superficial palmar arch.r
+Dorsal carpal branch of ulnar artery.r
+Brachial artery.r
+Superior ulnar collateral artery.r
+Inferior ulnar collateral artery.r
+Anterior circumflex humeral artery.r
+Posterior circumflex humeral artery.r
+Dorsal digital veins of hand.r
+Dorsal venous network of hand.r
+Cephalic vein.r
+Circumflex scapular vein.r
+Median cubital vein.r
+Median antebrachial vein.r
+Basilic vein.r
+Superficial venous palmar arch.r
+Palmar digital veins.r
+Ulnar veins.r
+Deep venous palmar arch.r
+Brachial veins.r
+Anterior circumflex humeral vein.r
+Posterior circumflex humeral vein.r
+Axillary vein.r
+Common interosseous artery.r
+Cubital nodes.r
+Supratrochlear nodes.r
+Superior trunk of brachial plexus.r
+Posterior division of superior trunk of brachial plexus.r
+Middle trunk of brachial plexus.r
+Anterior division of middle trunk of brachial plexus.r
+Posterior division of middle trunk of brachial plexus.r
+Inferior trunk of brachial plexus.r
+Roots of brachial plexus.r
+Dorsal scapular nerve.r
+Long thoracic nerve.r
+Suprascapular nerve.r
+Subclavian nerve.r
+Axillary nerve.r
+Posterior cord of brachial plexus.r
+Lateral pectoral nerve.r
+Musculocutaneous nerve.r
+Lateral antebrachial cutaneous nerve.r
+Deep branch of radial nerve.r
+Posterior interosseous nerve of forearm.r
+Superficial branch of radial nerve.r
+Dorsal digital branches of radial nerve.r
+Posterior antebrachial cutaneous nerve.r
+Radial nerve.r
+Inferior lateral brachial cutaneous nerve.r
+Muscular branches of radial nerve.r
+Superior lateral brachial cutaneous nerve.r
+Muscular branches of axillary nerve.r
+Anterior branch of medial antebrachial cutaneous nerve.r
+Posterior branch of medial antebrachial cutaneous nerve.r
+Medial antebrachial cutaneous nerve.r
+Dorsal digital branches of ulnar nerve.r
+Dorsal branch of ulnar nerve.r
+Proper palmar digital branches of ulnar nerve.r
+Common palmar digital branches of ulnar nerve.r
+Superficial branch of ulnar nerve.r
+Palmar branch of ulnar nerve.r
+Deep branch of ulnar nerve.r
+Muscular branches of ulnar nerve.r
+Ulnar nerve.r
+Medial brachial cutaneous nerve.r
+Proper palmar digital branches of median nerve.r
+Common palmar digital branches of median nerve.r
+(Communicating branch of median nerve with ulnar nerve).r
+Median nerve.r
+Anterior interosseous nerve of forearm.r
+Palmar branch of median nerve.r
+Muscular branches of median nerve.r
+Anterior division of superior trunk of brachial plexus.r
+Anterior division of inferior trunk of brachial plexus.r
+Posterior division of inferior trunk of brachial plexus.r
+Medial pectoral nerve.r
+Superior subscapular nerve.r
+Inferior subscapular nerve.r
+Thoracodorsal nerve.r
+Scapular region.r
+Anterior region of arm.r
+Lateral bicipital groove.r
+Medial bicipital groove.r
+Posterior region of arm.r
+Anterior region of elbow.r
+Cubital fossa.r
+Posterior region of elbow.r
+Posterior region of forearm.r
+Lateral border of forearm.r
+Medial border of forearm.r
+Anterior region of forearm.r
+Anterior region of wrist.r
+Posterior region of wrist.r
+Radial foveola.r
+Palm.r
+Palmar surfaces of digits of hand.r
+Dorsal surfaces of digits of hand.r
+Dorsum of hand.r
+Deltoid region.r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

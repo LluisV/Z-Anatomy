@@ -1,0 +1,1128 @@
+Back
+Longissimus muscles.j
+Suboccipital muscles.g
+Suboccipital muscles.j
+Nucleus pulposus L5-S1
+Nucleus pulposus L4-L5
+Nucleus pulposus L3-L4
+Nucleus pulposus L2-L3
+Nucleus pulposus L1-L2
+Nucleus pulposus T12-L1
+Nucleus pulposus T11-T12
+Nucleus pulposus T10-T11
+Nucleus pulposus T9-T10
+Nucleus pulposus T8-T9
+Nucleus pulposus T7-T8
+Nucleus pulposus T6-T7
+Nucleus pulposus T5-T6
+Nucleus pulposus T4-T5
+Nucleus pulposus T3-T4
+Nucleus pulposus T2-T3
+Nucleus pulposus T1-T2
+Nucleus pulposus C7-T1
+Nucleus pulposus C6-C7
+Supraspinous ligament
+Intervertebral disc C6-C7
+Intervertebral disc C7-T1
+Intervertebral disc L1-L2
+Intervertebral disc L2-L3
+Intervertebral disc L3-L4
+Intervertebral disc L4-L5
+Intervertebral disc L5-S1
+Intervertebral disc T12-L1
+Sacrococcygeal symphysis
+Interspinous ligaments
+Anterior longitudinal ligament
+Posterior longitudinal ligament
+Ligamenta flava
+Intervertebral disc C2-C3
+Intervertebral disc C3-C4
+Intervertebral disc C4-C5
+Intervertebral disc C5-C6
+Nucleus pulposus C5-C6
+Nucleus pulposus C4-C5
+Nucleus pulposus C3-C4
+Nucleus pulposus C2-C3
+Intervertebral disc T1-T2
+Intervertebral disc T10-T11
+Intervertebral disc T11-T12
+Intervertebral disc T2-T3
+Intervertebral disc T3-T4
+Intervertebral disc T4-T5
+Intervertebral disc T5-T6
+Intervertebral disc T6-T7
+Intervertebral disc T7-T8
+Intervertebral disc T8-T9
+Intervertebral disc T9-T10
+Thoracolumbar fascia.j
+Thoracolumbar fascia.g
+Iliocostalis muscles.g
+Iliocostalis muscles.j
+Spinotransversales muscles.g
+Longissimus muscles.g
+Spinalis muscles.g
+Spinalis muscles.j
+Erector spinae.g
+Splenius muscles.g
+Splenius muscles.j
+Multifidus muscles.g
+Multifidus muscles.j
+Semispinalis muscles.g
+Semispinalis muscles.j
+Rotatores.g
+Rotatores.j
+Transversospinal muscles.g
+Transversospinal muscles.j
+Interspinales muscles.g
+Interspinales muscles.j
+Trapezius muscle.g
+Trapezius muscle.j
+Hypaxial muscles of back.g
+Hypaxial muscles of back.j
+Intertransversarii muscles.g
+Intertransversarii muscles.j
+Epaxial muscles.g
+Epaxial muscles.j
+Dorsal part of muscular system.g
+Dorsal part of muscular system.j
+Erector spinae.j
+Spinotransversales muscles.j
+Vertebra L1
+Vertebra L2
+Vertebra L4
+Vertebra L5
+Vertebra L3
+Coccyx
+Vertebra T2
+Vertebra T3
+Vertebra T4
+Vertebra T5
+Vertebra T6
+Vertebra T7
+Vertebra T9
+Vertebra T10
+Vertebra T11
+Vertebra T12
+Vertebra T8
+Vertebra T1
+Sacrum
+Atlas (C1)
+Vertebra C6
+Vertebra C3
+Vertebra C5
+Vertebra C7
+Vertebra C4
+Axis (C2)
+Intertransverse ligaments.r
+Obliquus inferior capitis muscle.r
+Obliquus superior capitis muscle.r
+Rectus posterior major capitis muscle.r
+Rectus posterior minor capitis muscle.r
+Longissimus capitis muscle.r
+Spinalis capitis muscle.r
+Multifidus colli muscle.r
+Interspinales colli muscles.r
+Levator scapulae.r
+Spinalis colli muscle.r
+Splenius capitis muscle.r
+Ascending part of trapezius muscle.r
+Iliocostalis colli muscle.r
+Longissimus colli muscle.r
+Semispinalis colli muscle.r
+Interspinales colli muscles.l
+Iliocostalis lumborum muscle.r
+Iliocostalis thoracis muscle.r
+Longissimus thoracis muscle.r
+Spinalis thoracis muscle.r
+Multifidus thoracis muscle.r
+Multifidus lumborum muscle.r
+Semispinalis thoracis muscle.r
+Interspinales thoracis muscles.r
+Interspinales lumborum muscles.r
+Descending part of trapezius muscle.r
+Transverse part of trapezius muscle.r
+Dorsal parts of lateral intertransversarii lumborum muscles.r
+Ventral parts of lateral intertransversarii lumborum muscles.r
+Rhomboid major muscle.r
+Rhomboid minor muscle.r
+Latissimus dorsi muscle.r
+Serratus posterior inferior muscle.r
+Serratus posterior superior muscle.r
+Quadratus lumborum muscle.r
+Posterior layer of thoracolumbar fascia.r
+Middle layer of thoracolumbar fascia.r
+Anterior layer of thoracolumbar fascia.r
+Splenius colli muscle.r
+Rotatores.r
+Intertransverse ligaments.l
+Obliquus inferior capitis muscle.l
+Obliquus superior capitis muscle.l
+Rectus posterior major capitis muscle.l
+Rectus posterior minor capitis muscle.l
+Semispinalis colli muscle.l
+Ascending part of trapezius muscle.l
+Longissimus colli muscle.l
+Spinalis capitis muscle.l
+Splenius capitis muscle.l
+Longissimus capitis muscle.l
+Multifidus colli muscle.l
+Levator scapulae.l
+Spinalis colli muscle.l
+Iliocostalis lumborum muscle.l
+Iliocostalis thoracis muscle.l
+Longissimus thoracis muscle.l
+Spinalis thoracis muscle.l
+Multifidus thoracis muscle.l
+Multifidus lumborum muscle.l
+Semispinalis thoracis muscle.l
+Interspinales lumborum muscles.l
+Descending part of trapezius muscle.l
+Transverse part of trapezius muscle.l
+Dorsal parts of lateral intertransversarii lumborum muscles.l
+Ventral parts of lateral intertransversarii lumborum muscles.l
+Rhomboid major muscle.l
+Rhomboid minor muscle.l
+Latissimus dorsi muscle.l
+Serratus posterior inferior muscle.l
+Serratus posterior superior muscle.l
+Quadratus lumborum muscle.l
+Posterior layer of thoracolumbar fascia.l
+Middle layer of thoracolumbar fascia.l
+Anterior layer of thoracolumbar fascia.l
+Rotatores.l
+Splenius colli muscle.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

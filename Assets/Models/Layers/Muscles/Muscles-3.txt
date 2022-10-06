@@ -1,0 +1,119 @@
+Muscles-3
+Superior oblique muscle.l
+Superior oblique muscle.r
+Common tendinous ring.r
+Inferior oblique muscle.r
+Trochlea of superior oblique muscle.r
+Common tendinous ring.l
+Inferior oblique muscle.l
+Trochlea of superior oblique muscle.l
+Medial pterygoid muscle.r
+Medial pterygoid muscle.l
+Inferior head of lateral pterygoid muscle.r
+Superior head of lateral pterygoid muscle.r
+Inferior head of lateral pterygoid muscle.l
+Superior head of lateral pterygoid muscle.l
+Hyoglossus muscle.r
+Hyoglossus muscle.l
+Superior pharyngeal constrictor.r
+Superior pharyngeal constrictor.l
+Middle pharyngeal constrictor.r
+Middle pharyngeal constrictor.l
+Inferior pharyngeal constrictor.r
+Inferior pharyngeal constrictor.l
+Thyro-epiglottic part of thyro-arytenoid muscle.r
+Thyro-epiglottic part of thyro-arytenoid muscle.l
+Spinalis capitis muscle.r
+Spinalis colli muscle.r
+Spinalis thoracis muscle.r
+Spinalis capitis muscle.l
+Spinalis colli muscle.l
+Spinalis thoracis muscle.l
+Levatores longi costarum.r
+Levatores longi costarum.l
+Innermost intercostal muscles.r
+Innermost intercostal muscles.l
+Pubo-analis muscle.r
+Pubo-analis muscle.l
+Coracobrachialis muscle.r
+Coracobrachialis muscle.l
+Radial head of flexor digitorum superficialis.r
+Radial head of flexor digitorum superficialis.l
+Anconeus muscle.r
+Extensor digiti minimi.r
+Anconeus muscle.l
+Extensor digiti minimi.l
+Lumbrical muscles of hand.r
+Lumbrical muscles of hand.l
+Psoas major.r
+Psoas major.l
+Adductor longus.r
+Adductor longus.l
+Fibularis tertius muscle.r
+Extensor hallucis longus.r
+Fibularis tertius muscle.l
+Extensor hallucis longus.l
+Abductor digiti minimi of foot.r
+Abductor digiti minimi of foot.l
+Abductor hallucis.r
+Extensor hallucis brevis.r
+Abductor hallucis.l
+Extensor hallucis brevis.l
+External anal sphincter.r
+External anal sphincter.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

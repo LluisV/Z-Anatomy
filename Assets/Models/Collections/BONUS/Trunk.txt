@@ -1,0 +1,1128 @@
+Trunk
+Spinal dura
+Nucleus pulposus L5-S1
+Nucleus pulposus L4-L5
+Nucleus pulposus L3-L4
+Nucleus pulposus L2-L3
+Nucleus pulposus L1-L2
+Nucleus pulposus T12-L1
+Nucleus pulposus T11-T12
+Nucleus pulposus T10-T11
+Nucleus pulposus T9-T10
+Nucleus pulposus T8-T9
+Nucleus pulposus T7-T8
+Nucleus pulposus T6-T7
+Nucleus pulposus T5-T6
+Nucleus pulposus T4-T5
+Nucleus pulposus T3-T4
+Nucleus pulposus T2-T3
+Nucleus pulposus T1-T2
+Nucleus pulposus C7-T1
+Nucleus pulposus C6-C7
+Supraspinous ligament
+Intra-articular ligament of head of rib
+Intervertebral disc C6-C7
+Intervertebral disc C7-T1
+Intervertebral disc L1-L2
+Intervertebral disc L2-L3
+Intervertebral disc L3-L4
+Intervertebral disc L4-L5
+Intervertebral disc L5-S1
+Intervertebral disc T12-L1
+Sacrococcygeal symphysis
+Interspinous ligaments
+Anterior longitudinal ligament
+Posterior longitudinal ligament
+Ligamenta flava
+Intervertebral disc C2-C3
+Intervertebral disc C3-C4
+Intervertebral disc C4-C5
+Intervertebral disc C5-C6
+Nucleus pulposus C5-C6
+Nucleus pulposus C4-C5
+Nucleus pulposus C3-C4
+Nucleus pulposus C2-C3
+Intervertebral disc T1-T2
+Intervertebral disc T10-T11
+Intervertebral disc T11-T12
+Intervertebral disc T2-T3
+Intervertebral disc T3-T4
+Intervertebral disc T4-T5
+Intervertebral disc T5-T6
+Intervertebral disc T6-T7
+Intervertebral disc T7-T8
+Intervertebral disc T8-T9
+Intervertebral disc T9-T10
+Sternal angle.j
+Costal notches.j
+Clavicular notch.j
+Manubrium of sternum.j
+Xiphoid process.j
+Transverse costal facet.j
+Superior costal facet.j
+Thoracic vertebra.j
+Inferior costal facet.j
+Coccyx.j
+Base of coccyx.j
+Apex of coccyx.j
+Coccygeal horn.j
+Vertebra.j
+Vertebral body.j
+Annular epiphysis.j
+Vertebral arch.j
+Spinous process.j
+Transverse process.j
+Intervertebral surface.j
+Lateral part of transverse process.j
+Inferior vertebral notch.j
+Superior articular process of vertebra.j
+Superior vertebral notch.j
+Intervertebral foramen.j
+Superior articular facet of vertebra.j
+Vertebral foramen.j
+Inferior articular facet of vertebra.j
+Costal part of transverse process.j
+Lamina of vertebral arch.j
+Pars interarticularis of vertebral arch.j
+Pedicle of vertebral arch.j
+Uncinate process of first thoracic vertebra.j
+Pelvic diaphragm.g
+Pelvic diaphragm.j
+Perineal muscles.g
+Perineal muscles.j
+Muscles of pelvis.g
+Muscles of pelvis.j
+Thoracolumbar fascia.j
+Thoracolumbar fascia.g
+Iliocostalis muscles.g
+Iliocostalis muscles.j
+Spinotransversales muscles.g
+Longissimus muscles.g
+Spinalis muscles.g
+Spinalis muscles.j
+Erector spinae.g
+Splenius muscles.g
+Splenius muscles.j
+Multifidus muscles.g
+Multifidus muscles.j
+Semispinalis muscles.g
+Semispinalis muscles.j
+Rotatores.g
+Rotatores.j
+Transversospinal muscles.g
+Transversospinal muscles.j
+Interspinales muscles.g
+Interspinales muscles.j
+Trapezius muscle.g
+Trapezius muscle.j
+Hypaxial muscles of back.g
+Hypaxial muscles of back.j
+Intertransversarii muscles.g
+Intertransversarii muscles.j
+Epaxial muscles.g
+Epaxial muscles.j
+Dorsal part of muscular system.g
+Dorsal part of muscular system.j
+Pectoralis major muscle.g
+Pectoralis major muscle.j
+Levatores costarum.g
+Levatores costarum.j
+Muscles of thorax.g
+Muscles of thorax.j
+Fasciae of thorax.g
+Fasciae of thorax.j
+Diaphragm
+Thoracic part of muscular system.g
+Thoracic part of muscular system.j
+Linea alba
+Muscles of abdomen.g
+Muscles of abdomen.j
+Fasciae of abdomen.g
+Fasciae of abdomen.j
+Abdominal part of muscular system.g
+Abdominal part of muscular system.j
+Levator ani.g
+Levator ani.j
+Pelvic part of muscular system.g
+Erector spinae.j
+Spinotransversales muscles.j
+Endo-abdominal fascia.g
+Endo-abdominal fascia.j
+Diaphragmatic fascia
+Thoracic vertebrae.g
+Thoracic vertebrae.j
+Vertebra L1
+Vertebra L2
+Vertebra L4
+Vertebra L5
+Vertebra L3
+Lumbar vertebrae.g
+Lumbar vertebrae.j
+Coccyx
+Bones of vertebral column.g
+Bones of vertebral column.j
+Vertebral column.g
+Vertebral column.j
+Thoracic skeleton.g
+Thoracic skeleton.j
+Vertebra T2
+Vertebra T3
+Vertebra T4
+Vertebra T5
+Vertebra T6
+Vertebra T7
+Vertebra T9
+Vertebra T10
+Vertebra T11
+Vertebra T12
+Vertebra T8
+Vertebra T1
+Floating ribs.g
+Floating ribs.j
+Manubrium of sternum
+Xiphoid process
+Body of sternum
+Sternum.g
+Sternum.j
+Bones of thorax.g
+Bones of thorax.j
+Costal cartilages.g
+Costal cartilages.j
+Pulmonary vessels.g
+Pulmonary vessels.j
+Cardiac vessels.g
+Cardiac vessels.j
+Aortic bifurcation.g
+Aortic bifurcation.j
+Union of brachiocephalic veins.g
+Union of brachiocephalic veins.j
+Inferior leaflet of right atrioventricular valve
+Septal leaflet of right atrioventricular valve
+Posterior leaflet of left atrioventricular valve
+Left coronary leaflet
+Non-coronary leaflet
+Right coronary leaflet
+Anterior semilunar leaflet of pulmonary valve
+Left semilunar leaflet of pulmonary valve
+Right semilunar leaflet of pulmonary valve
+Inferior papillary muscle of right ventricle
+Anterior papillary muscle of right ventricle
+Septal papillary muscle of right ventricle
+Inferior papillary muscle of left ventricle
+Heart.g
+Pulmonary arteries.g
+Pulmonary arteries.j
+Pulmonary veins.g
+Pulmonary veins.j
+Arteries of heart.g
+Arteries of heart.j
+Cardiac veins.g
+Cardiac veins.j
+Aorta.g
+Aorta.j
+Right coronary artery
+Right inferolateral branch of right coronary artery
+Brachiocephalic trunk
+Posterior intercostal arteries.l
+Subcostal artery.l
+Subcostal artery.r
+Thoracic aorta
+Inferior suprarenal artery.l
+Inferior suprarenal artery.r
+Inferior phrenic artery
+Lumbar arteries.l
+Splenic artery
+Anterior inferior pancreaticoduodenal artery
+Colic branch of ileocolic artery
+Ileocolic artery
+Ileal branch of ileocolic artery
+Appendicular artery
+Superior mesenteric artery
+Marginal artery
+Right colic artery
+Proper hepatic artery
+Coeliac trunk
+Left gastric artery
+Common hepatic artery
+Gastroduodenal artery
+Anterior branch of renal artery.r
+Anterior branch of renal artery.l
+Posterior branch of renal artery.r
+Posterior branch of renal artery.l
+Intrarenal arteries of left kidney
+Intrarenal arteries of right kidney
+Right renal artery
+Left renal artery
+Descending branch of left colic artery
+Left colic artery
+Ascending branch of left colic artery
+Inferior mesenteric artery
+Sigmoid arteries
+Abdominal aorta
+Superior gluteal artery.l
+Posterior division of internal iliac artery.l
+Dorsal artery of penis.l
+Inferior gluteal artery.l
+Internal iliac artery.l
+Inferior epigastric artery.r
+Inferior epigastric artery.l
+External iliac artery.l
+Ascending aorta
+Internal thoracic artery.r
+Superior epigastric artery.r
+Musculophrenic artery.r
+Thyrocervical trunk.r
+First posterior intercostal artery.r
+Second posterior intercostal artery.r
+Costocervical trunk.r
+Pectoral branches of thoraco-acromial artery.r
+Thoraco-acromial artery.r
+Internal pudendal artery.l
+????????
+Accessory hemi-azygos vein
+Hemi-azygos vein
+Left subcostal vein
+Right ascending lumbar vein
+Internal thoracic veins.l
+Musculophrenic veins.l
+Internal thoracic veins.r
+Superior epigastric veins.r
+Musculophrenic veins.r
+Superior epigastric veins.l
+Left superior intercostal vein
+Left brachiocephalic vein
+Intrarenal veins of left kidney
+Left renal vein
+Lateral sacral veins.l
+Internal pudendal vein.l
+Deep dorsal vein of penis
+Internal iliac vein.r
+Inferior gluteal veins.l
+Superior gluteal veins.l
+Inferior epigastric vein.r
+Inferior epigastric vein.l
+External iliac vein.l
+Iliolumbar vein.l
+Lumbar veins.l
+Right gastro-omental vein
+Thymus.g
+Thymus.j
+Left testicular vein
+Supreme intercostal artery.r
+Inferior pancreaticoduodenal artery
+Cavity of bony thorax.g
+Superior thoracic aperture.g
+Inferior thoracic aperture.g
+Costal arch.g
+Costal arch.j
+Intercostal space.g
+Intercostal space.j
+Infrasternal angle.g
+Infrasternal angle.j
+Spinal cord
+Right pulmonary artery
+Middle colic artery
+Superior anorectal artery
+Prevertebral nodes
+Juxta-oesophageal nodes
+Inferior diaphragmatic nodes
+Brachiocephalic nodes
+Node of ligamentum arteriosum
+Node of arch of azygos vein
+Prepericardial nodes
+Lateral pericardial nodes
+Inferior tracheobronchial nodes
+Superior tracheobronchial nodes
+Intrapulmonary nodes
+Precaval nodes
+Lateral caval nodes
+Retrocaval nodes
+Intermediate lumbar nodes
+Pre-aortic nodes
+Lateral aortic nodes
+Retro-aortic nodes
+Superior diaphragmatic nodes
+Coeliac nodes
+Right gastric nodes
+Right gastro-omental nodes
+(Suprapyloric nodes)
+(Subpyloric nodes)
+(Retropyloric nodes)
+Superior pancreatic nodes
+Inferior pancreatic nodes
+Splenic nodes
+Superior pancreaticoduodenal nodes
+Cystic node
+Paracolic superior mesenteric nodes
+Central superior mesenteric nodes
+Ileocolic nodes
+Left lobe of thymus
+Right lobe of thymus
+Spleen
+Precaecal nodes
+Retrocaecal nodes
+Appendicular nodes
+Juxta-intestinal mesenteric nodes
+Middle colic nodes
+Right colic nodes
+Left colic nodes
+Sigmoid nodes
+Subaortic nodes
+Medial common iliac nodes
+Lateral common iliac nodes
+Intermediate common iliac nodes
+Median sacral nodes
+Prevesical nodes
+Postvesical nodes
+Pararectal nodes
+Sacrum
+Transversalis fascia
+Thyroid cartilage
+Cricoid cartilage
+Atlas (C1)
+Vertebra C6
+Vertebra C3
+Vertebra C5
+Vertebra C7
+Vertebra C4
+Hyoid bone
+Facial vein.r
+Anterior division of retromandibular vein.r
+Axis (C2)
+Right atrium
+Right ventricle
+Left atrium
+Left ventricle
+Oesophagus
+Stomach
+Duodenum
+Jejunum
+Vermiform appendix
+Free taenia
+Mesocolic taenia
+Omental taenia
+Sigmoid colon
+Ascending colon
+Descending colon
+Transverse colon
+Left posterior lateral segment of liver (II)
+Left anterior lateral segment of liver (III)
+Left medial segment of liver (IV)
+Anterior medial segment of liver (V)
+Anterior lateral segment of liver (VI)
+Posterior lateral segment of liver (VII)
+Posterior segment of liver (I)
+Posterior medial segment of liver (VIII)
+Liver
+Gallbladder
+Bile duct
+Pancreatic duct
+Accessory pancreatic duct
+Pancreas
+Trachea
+Superior segmental bronchus of right lung (BVI)
+Lateral segmental bronchus of right lung (BIV)
+Right inferior lobar bronchus
+Posterior basal segmental bronchus of right lung (BX)
+Medial basal segmental bronchus of right lung (BVII)
+Lateral basal segmental bronchus of right lung (BIX)
+Anterior basal segmental bronchus of right lung (BVIII)
+Left superior lobar bronchus
+Apicoposterior segmental bronchus of left lung (BI+BII)
+Anterior segmental bronchus of left lung (BIII)
+Superior lingular segmental bronchus of left lung (BIV)
+Inferior lingular segmental bronchus of left lung (BV)
+Superior segmental bronchus of left lung (BVI)
+Medial basal segmental bronchus of left lung (BVII)
+Anterior basal segmental bronchus of left lung (BVIII)
+Left inferior lobar bronchus
+Lateral basal segmental bronchus of left lung (BIX)
+Left main bronchus
+Anterior segmental bronchus of right lung (BIII)
+Apical segmental bronchus of right lung (BI)
+Posterior segmental bronchus of right lung (BII)
+Right superior lobar bronchus
+Right main bronchus
+Superior lobe of right lung
+Middle lobe of right lung
+Inferior lobe of right lung
+Superior lobe of left lung
+Inferior lobe of left lung
+Kidney.l
+Kidney.r
+Urinary bladder
+Urethra
+Renal pelvis.l
+Renal pelvis.r
+Ureter.l
+Ureter.r
+Testis.r
+Testis.l
+Epididymis.r
+Epididymis.l
+Ductus deferens.l
+Ductus deferens.r
+Seminal gland.r
+Seminal gland.l
+Prostate
+Ejaculatory duct.l
+Ejaculatory duct.r
+Glans penis
+Corpus cavernosum of penis
+Corpus spongiosum of penis
+Mesocolon
+Meso-appendix
+Greater omentum
+Lesser omentum
+Suprarenal gland.l
+Suprarenal gland.r
+Middle lobar bronchus.r
+Intermediate bronchus.r
+Medial segmental bronchus of right lung (BV)
+Posterior basal segmental bronchus of left lung (BX)
+(Anteromedial basal segmental bronchus of left lung)
+Mucosa of stomach
+Pleura
+Linea terminalis.g
+Linea terminalis.j
+Tendinous arch of levator ani.r
+Articular capsule of sternoclavicular joint.r
+Articular disc of sternoclavicular joint.r
+Anterior sternoclavicular ligament.r
+Costoclavicular ligament.r
+Interclavicular ligament.r
+Posterior sternoclavicular ligament.r
+Iliolumbar ligament.r
+Anterior sacro-iliac ligament.r
+Posterior sacro-iliac ligament.r
+Interosseous sacro-iliac ligament.r
+Intertransverse ligaments.r
+External intercostal membrane.r
+Internal intercostal membrane.r
+Radiate ligament of head of rib.r
+Costotransverse ligament.r
+Intercornual ligament.r
+Glossopharyngeal nerve (IX).r
+Accessory nerve (XI).r
+Dorsal scapular nerve.r
+Long thoracic nerve.r
+Suprascapular nerve.r
+Subclavian nerve.r
+Lateral pectoral nerve.r
+Femoral nerve.r
+Lateral femoral cutaneous nerve.r
+Obturator nerve.r
+Genitofemoral nerve.r
+Roots of brachial plexus.r
+Superior trunk of brachial plexus.r
+Middle trunk of brachial plexus.r
+Inferior trunk of brachial plexus.r
+Sympathetic nerves.r
+Iliohypogastric nerve.r
+Ilio-inguinal nerve.r
+Intercostal nerves.r
+Infraclavicular fossa.r
+Submandibular triangle.r
+Submental triangle.r
+Carotid triangle.r
+Muscular triangle.r
+Sternocleidomastoid region.r
+Lesser supraclavicular fossa.r
+Lateral region of neck.r
+Greater supraclavicular fossa.r
+Posterior region of neck.r
+Inframammary region.r
+Mammary region.r
+Pectoral region.r
+Presternal region.r
+Deltopectoral triangle.r
+Lateral region of thorax.r
+Epigastric region.r
+Umbilical region.r
+Umbilicus.r
+Hypochondriac region.r
+Hypogastric region.r
+Inguinal region.r
+Lateral region of abdomen.r
+Lumbar region.r
+Sacral region.r
+Infrascapular region.r
+Interscapular region.r
+Scapular region.r
+Triangle of auscultation.r
+Vertebral region.r
+Lateral thyrohyoid ligament.r
+Quadrangular membrane.r
+Median cricothyroid ligament
+Cricopharyngeal ligament.r
+Sympathetic trunk.r
+Thorax.t
+Thorax.j
+Vagus nerve (X).r
+Psoas major.r
+Subscapularis muscle.r
+Supraspinatus muscle.r
+Infraspinatus muscle.r
+Teres major muscle.r
+Superficial epigastric artery.r
+Superficial epigastric vein.r
+Superior thyroid vein.r
+Internal jugular vein.r
+Apical segmental artery of right lung
+Anterior segmental artery of right lung
+Posterior basal segmental artery of right lung
+Anterior basal segmental artery of right lung
+Medial basal segmental artery of right lung
+Medial segmental artery of right lung
+Lateral segmental artery of right lung
+Superior segmental artery of right lung
+Posterior vein of right lung
+Inferior basal vein of right lung
+Superior basal vein of right lung
+Right common carotid artery
+Right subclavian artery
+Posterior intercostal arteries.r
+Superior phrenic arteries
+Lumbar arteries.r
+Right testicular artery
+Iliacus branch of iliolumbar artery.r
+Superior gluteal artery.r
+Dorsal artery of penis.r
+Inferior gluteal artery.r
+External iliac artery.r
+Inferior thyroid artery.r
+Suprascapular artery.r
+(Deep branch of transverse cervical artery).r
+Transverse cervical artery.r
+Lateral thoracic artery.r
+Thoracodorsal artery.r
+Axillary artery.r
+Internal pudendal artery.r
+Right superior phrenic vein
+Right brachiocephalic vein
+Right superior intercostal vein
+Right subclavian vein
+Right testicular vein
+Lateral sacral veins.r
+Internal pudendal vein.r
+Inferior gluteal veins.r
+Superior gluteal veins.r
+External iliac vein.r
+Common iliac vein.r
+Iliolumbar vein.r
+Lumbar veins.r
+Anterior jugular vein.r
+Suprascapular vein.r
+Superior lobar artery of right lung
+Posterior segmental artery of right lung
+Middle lobar artery of right lung
+Inferior lobar artery of right lung
+Lateral basal segmental artery of right lung
+Apical vein of right lung
+Anterior vein of right lung
+Lateral vein of right lung
+Subscapular artery.r
+Circumflex scapular artery.r
+Iliolumbar artery.r
+Spinal branch of iliolumbar artery.r
+Lumbar branch of iliolumbar artery.r
+Subscapular vein.r
+Obturator artery.r
+Superficial investing cervical fascia.r
+Sternocleidomastoid muscle.r
+Intermediate tendon of digastric muscle.r
+Anterior belly of digastric muscle.r
+Posterior belly of digastric muscle.r
+Mylohyoid muscle.r
+Stylohyoid muscle.r
+Geniohyoid muscle.r
+Omohyoid muscle.r
+Sternohyoid muscle.r
+Sternothyroid muscle.r
+Thyrohyoid muscle.r
+Oblique part of cricothyroid muscle.r
+Straight part of cricothyroid muscle.r
+External part of thyro-arytenoid muscle.r
+External part of thyro-arytenoid muscle.l
+Ary-epiglottic part of oblique arytenoid muscle.r
+Thyro-epiglottic part of thyro-arytenoid muscle.r
+Transverse arytenoid muscle
+Lateral crico-arytenoid muscle.r
+Posterior crico-arytenoid muscle.r
+Platysma.r
+Scalenus medius muscle.r
+Scalenus posterior muscle.r
+Scalenus anterior muscle.r
+Longus capitis muscle.r
+Longus colli muscle.r
+Rectus anterior capitis muscle.r
+Rectus lateralis capitis muscle.r
+Obliquus inferior capitis muscle.r
+Obliquus superior capitis muscle.r
+Rectus posterior major capitis muscle.r
+Rectus posterior minor capitis muscle.r
+Longissimus capitis muscle.r
+Spinalis capitis muscle.r
+Multifidus colli muscle.r
+Interspinales colli muscles.r
+Levator scapulae.r
+Spinalis colli muscle.r
+Splenius capitis muscle.r
+Ascending part of trapezius muscle.r
+Iliocostalis colli muscle.r
+Longissimus colli muscle.r
+Semispinalis colli muscle.r
+Interspinales colli muscles.l
+Intra-articular ligament of head of rib.r
+Nuchal ligament
+Iliocostalis lumborum muscle.r
+Iliocostalis thoracis muscle.r
+Longissimus thoracis muscle.r
+Spinalis thoracis muscle.r
+Multifidus thoracis muscle.r
+Multifidus lumborum muscle.r
+Semispinalis thoracis muscle.r
+Interspinales thoracis muscles.r
+Interspinales lumborum muscles.r
+Descending part of trapezius muscle.r
+Transverse part of trapezius muscle.r
+Dorsal parts of lateral intertransversarii lumborum muscles.r
+Ventral parts of lateral intertransversarii lumborum muscles.r
+Rhomboid major muscle.r
+Rhomboid minor muscle.r
+Latissimus dorsi muscle.r
+Serratus posterior inferior muscle.r
+Serratus posterior superior muscle.r
+Clavicular head of pectoralis major muscle.r
+Sternocostal head of pectoralis major muscle.r
+(Abdominal part of pectoralis major muscle).r
+Levatores longi costarum.r
+Levatores breves costarum.r
+Pectoralis minor muscle.r
+External intercostal muscles.r
+Internal intercostal muscles.r
+Serratus anterior muscle.r
+Innermost intercostal muscles.r
+Subclavius muscle.r
+Transversus thoracis muscle.r
+Rectus abdominis muscle.r
+Inguinal ligament.r
+External abdominal oblique muscle.r
+Internal abdominal oblique muscle.r
+Transversus abdominis muscle.r
+Pyramidalis muscle.r
+Quadratus lumborum muscle.r
+Coccygeus muscle.r
+Iliococcygeus muscle.r
+Pubo-analis muscle.r
+Pubococcygeus muscle.r
+External anal sphincter.r
+Posterior layer of thoracolumbar fascia.r
+Middle layer of thoracolumbar fascia.r
+Anterior layer of thoracolumbar fascia.r
+Pectoral fascia.r
+Investing abdominal fascia.r
+Clavipectoral fascia.r
+Iliopsoas fascia.r
+Splenius colli muscle.r
+Rotatores.r
+Right superior pulmonary vein
+Medial vein of right lung
+Superior vein of right lung
+Median sacral artery
+Posterior division of internal iliac artery.r
+Anterior division of internal iliac artery.r
+Internal iliac artery.r
+Common iliac artery.r
+Azygos vein
+Right subcostal vein
+Superior vena cava
+Hepatic veins
+Intrarenal veins of right kidney
+Right renal vein
+Inferior vena cava (thoracic part)
+Inferior vena cava (abdominal part)
+Superior mesenteric vein
+Middle colic vein
+Right colic vein
+Hepatic portal vein
+Right inferior pulmonary vein
+Pretraqueal nodes.r
+Thyroid nodes.r
+Anterior inferior jugular nodes.r
+Supraclavicular nodes.r
+Superficial lateral cervical nodes.r
+Superficial anterior cervical nodes
+Inferior deep lateral cervical nodes.r
+Intercostal nodes.r
+Anterior axillary nodes.r
+Paratracheal thoracic nodes
+Intermediate external iliac nodes.r
+Medial external iliac nodes.r
+Obturator nodes.r
+Inferior gluteal nodes.r
+Superior gluteal nodes.r
+Lateral sacral nodes.r
+Lateral vesical nodes.r
+Interpectoral nodes.r
+Inferior epigastric nodes.r
+Parasternal nodes.r
+Tendinous arch of levator ani.l
+Lateral thyrohyoid ligament.l
+Median thyrohyoid ligament
+Quadrangular membrane.l
+Cricopharyngeal ligament.l
+Intertransverse ligaments.l
+Intercornual ligament.l
+External intercostal membrane.l
+Internal intercostal membrane.l
+Articular capsule of sternoclavicular joint.l
+Articular disc of sternoclavicular joint.l
+Anterior sternoclavicular ligament.l
+Costoclavicular ligament.l
+Interclavicular ligament.l
+Posterior sternoclavicular ligament.l
+Iliolumbar ligament.l
+Anterior sacro-iliac ligament.l
+Posterior sacro-iliac ligament.l
+Interosseous sacro-iliac ligament.l
+Radiate ligament of head of rib.l
+Costotransverse ligament.l
+Glossopharyngeal nerve (IX).l
+Accessory nerve (XI).l
+Superior trunk of brachial plexus.l
+Middle trunk of brachial plexus.l
+Inferior trunk of brachial plexus.l
+Roots of brachial plexus.l
+Dorsal scapular nerve.l
+Long thoracic nerve.l
+Suprascapular nerve.l
+Subclavian nerve.l
+Lateral pectoral nerve.l
+Intercostal nerves.l
+Iliohypogastric nerve.l
+Ilio-inguinal nerve.l
+Femoral nerve.l
+Lateral femoral cutaneous nerve.l
+Obturator nerve.l
+Genitofemoral nerve.l
+Sympathetic nerves.l
+Sympathetic trunk.l
+Submandibular triangle.l
+Submental triangle.l
+Carotid triangle.l
+Muscular triangle.l
+Sternocleidomastoid region.l
+Lesser supraclavicular fossa.l
+Lateral region of neck.l
+Greater supraclavicular fossa.l
+Posterior region of neck.l
+Inframammary region.l
+Mammary region.l
+Pectoral region.l
+Infraclavicular fossa.l
+Presternal region.l
+Deltopectoral triangle.l
+Lateral region of thorax.l
+Epigastric region.l
+Umbilical region.l
+Umbilicus.l
+Hypochondriac region.l
+Hypogastric region.l
+Inguinal region.l
+Lateral region of abdomen.l
+Lumbar region.l
+Sacral region.l
+Infrascapular region.l
+Interscapular region.l
+Scapular region.l
+Triangle of auscultation.l
+Vertebral region.l
+Vagus nerve (X).l
+Infraspinatus muscle.l
+Subscapularis muscle.l
+Supraspinatus muscle.l
+Iliopsoas fascia.l
+Psoas major.l
+Superior lingular artery of left lung
+Superior segmental artery of left lung
+Deep artery of penis.l
+Anterior division of internal iliac artery.l
+Common iliac artery.l
+Left ascending lumbar vein
+Internal iliac vein.l
+Common iliac vein.l
+Deep artery of penis.r
+Left testicular artery
+Subscapular artery.l
+Thoracodorsal artery.l
+Circumflex scapular artery.l
+Iliacus branch of iliolumbar artery.l
+Iliolumbar artery.l
+Spinal branch of iliolumbar artery.l
+Lumbar branch of iliolumbar artery.l
+Subscapular vein.l
+Obturator artery.l
+Intermediate tendon of digastric muscle.l
+Anterior belly of digastric muscle.l
+Posterior belly of digastric muscle.l
+Mylohyoid muscle.l
+Stylohyoid muscle.l
+Geniohyoid muscle.l
+Omohyoid muscle.l
+Sternohyoid muscle.l
+Sternothyroid muscle.l
+Thyrohyoid muscle.l
+Rectus anterior capitis muscle.l
+Rectus lateralis capitis muscle.l
+Stylopharyngeus muscle.l
+Ary-epiglottic part of oblique arytenoid muscle.l
+Thyro-epiglottic part of thyro-arytenoid muscle.l
+Platysma.l
+Longus capitis muscle.l
+Superficial investing cervical fascia.l
+Straight part of cricothyroid muscle.l
+Lateral crico-arytenoid muscle.l
+Posterior crico-arytenoid muscle.l
+Scalenus medius muscle.l
+Longus colli muscle.l
+Sternocleidomastoid muscle.l
+Scalenus posterior muscle.l
+Scalenus anterior muscle.l
+Oblique part of cricothyroid muscle.l
+Iliocostalis colli muscle
+Superior thyroid vein.l
+Internal jugular vein.l
+Facial vein.l
+Anterior division of retromandibular vein.l
+Obliquus inferior capitis muscle.l
+Obliquus superior capitis muscle.l
+Rectus posterior major capitis muscle.l
+Rectus posterior minor capitis muscle.l
+Semispinalis colli muscle.l
+Ascending part of trapezius muscle.l
+Longissimus colli muscle.l
+Spinalis capitis muscle.l
+Splenius capitis muscle.l
+Longissimus capitis muscle.l
+Multifidus colli muscle.l
+Levator scapulae.l
+Spinalis colli muscle.l
+Iliocostalis lumborum muscle.l
+Iliocostalis thoracis muscle.l
+Longissimus thoracis muscle.l
+Spinalis thoracis muscle.l
+Multifidus thoracis muscle.l
+Multifidus lumborum muscle.l
+Semispinalis thoracis muscle.l
+Interspinales thoracis muscles.l
+Interspinales lumborum muscles.l
+Descending part of trapezius muscle.l
+Transverse part of trapezius muscle.l
+Dorsal parts of lateral intertransversarii lumborum muscles.l
+Ventral parts of lateral intertransversarii lumborum muscles.l
+Rhomboid major muscle.l
+Rhomboid minor muscle.l
+Latissimus dorsi muscle.l
+Serratus posterior inferior muscle.l
+Serratus posterior superior muscle.l
+Clavicular head of pectoralis major muscle.l
+Sternocostal head of pectoralis major muscle.l
+(Abdominal part of pectoralis major muscle).l
+Levatores longi costarum.l
+Levatores breves costarum.l
+Pectoralis minor muscle.l
+External intercostal muscles.l
+Internal intercostal muscles.l
+Serratus anterior muscle.l
+Innermost intercostal muscles.l
+Subclavius muscle.l
+Transversus thoracis muscle.l
+Rectus abdominis muscle.l
+Inguinal ligament.l
+External abdominal oblique muscle.l
+Internal abdominal oblique muscle.l
+Transversus abdominis muscle.l
+Pyramidalis muscle.l
+Quadratus lumborum muscle.l
+Coccygeus muscle.l
+Iliococcygeus muscle.l
+Pubo-analis muscle.l
+Pubococcygeus muscle.l
+Teres major muscle.l
+External anal sphincter.l
+Posterior layer of thoracolumbar fascia.l
+Middle layer of thoracolumbar fascia.l
+Anterior layer of thoracolumbar fascia.l
+Pectoral fascia.l
+Investing abdominal fascia.l
+Iliopectineal arch.l
+Clavipectoral fascia.l
+Rotatores.l
+Splenius colli muscle.l
+Bifurcation of pulmonary trunk
+Pulmonary trunk
+Inferior lingular artery of left lung
+Apical segmental artery of left lung
+Posterior segmental artery of left lung
+Anterior segmental artery of left lung
+Lateral basal segmental artery of left lung
+Posterior basal segmental artery of left lung
+Medial basal segmental artery of left lung
+Anterior basal segmental artery of left lung
+Left pulmonary artery
+Anterior vein of left lung
+Apicoposterior vein of left lung
+Inferior lingular vein of left lung
+Superior lingular vein of left lung
+Superior basal vein of left lung
+Superior vein of left lung
+Inferior basal vein of left lung
+Circumflex artery of heart
+Anterior interventricular artery
+Left coronary artery
+Septal branches of anterior interventricular artery
+Aortic arch
+Left common carotid artery
+Left subclavian artery
+Internal thoracic artery.l
+Musculophrenic artery.l
+Superior epigastric artery.l
+Inferior thyroid artery.l
+Suprascapular artery.l
+(Deep branch of transverse cervical artery).l
+Transverse cervical artery.l
+(Superficial branch of transverse cervical artery).l
+Thyrocervical trunk.l
+First posterior intercostal artery.l
+Second posterior intercostal artery.l
+Costocervical trunk.l
+Deep cervical artery.l
+Thoraco-acromial artery.l
+Pectoral branches of thoraco-acromial artery.l
+Lateral thoracic artery.l
+Axillary artery.l
+Great cardiac vein
+Middle cardiac vein
+Inferior vein of left ventricle (//Posterior '')
+Coronary sinus
+Inferior vein of left ventricle
+Left subclavian vein
+Left gastro-omental vein
+Sigmoid veins
+Splenic vein
+Inferior mesenteric vein
+Anterior jugular vein.l
+Suprascapular vein.l
+Supreme intercostal artery.l
+Left inferior pulmonary vein
+Left superior pulmonary vein
+Lingular vein of left lung
+Superficial epigastric artery.l
+Superficial epigastric vein.l
+(Superficial branch of transverse cervical artery).r
+Pretraqueal nodes.l
+Anterior inferior jugular nodes.l
+Supraclavicular nodes.l
+Superficial lateral cervical nodes.l
+Inferior deep lateral cervical nodes.l
+Interpectoral nodes.l
+Intercostal nodes.l
+Parasternal nodes.l
+Anterior axillary nodes.l
+Inferior epigastric nodes.l
+Intermediate external iliac nodes.l
+Medial external iliac nodes.l
+Obturator nodes.l
+Inferior gluteal nodes.l
+Superior gluteal nodes.l
+Lateral sacral nodes.l
+Lateral vesical nodes.l
+Paratracheal cervical nodes
+Arytenoid cartilage.r
+Corniculate cartilage.r
+Fifth rib.r
+First rib.r
+Fourth rib.r
+Second rib.r
+Seventh rib.r
+Sixth rib.r
+Third rib.r
+Eleventh rib.r
+Twelfth rib.r
+Eighth rib.r
+Ninth rib.r
+Tenth rib.r
+Costal cartilage of first rib.r
+Costal cartilage of second rib.r
+Costal cartilage of third rib.r
+Costal cartilage of fourth rib.r
+Costal cartilage of fifth rib.r
+Costal cartilage of sixth rib.r
+Costal cartilage of seventh rib.r
+Costal cartilage of eighth rib.r
+Costal cartilage of tenth rib.r
+Costal cartilage of ninth rib.r
+Clavicle.r
+Angle of rib.j
+Articular facet of tubercle of rib.j
+Articular facets of head of rib.j
+Body of rib.j
+Costal groove.j
+Crest of head of rib.j
+Crest of neck of rib.j
+Head of rib.j
+Neck of rib.j
+Rib.j
+Tubercle of rib.j
+Scapula.r
+Arytenoid cartilage.l
+Corniculate cartilage.l
+Fifth rib.l
+First rib.l
+Fourth rib.l
+Second rib.l
+Seventh rib.l
+Sixth rib.l
+Third rib.l
+Eleventh rib.l
+Twelfth rib.l
+Eighth rib.l
+Ninth rib.l
+Tenth rib.l
+Costal cartilage of first rib.l
+Costal cartilage of second rib.l
+Costal cartilage of third rib.l
+Costal cartilage of fourth rib.l
+Costal cartilage of fifth rib.l
+Costal cartilage of sixth rib.l
+Costal cartilage of seventh rib.l
+Costal cartilage of eighth rib.l
+Costal cartilage of tenth rib.l
+Costal cartilage of ninth rib.l
+Clavicle.l
+Scapula.l
+Angle of rib.s
+Angle of rib.i
+Articular facet of tubercle of rib.s
+Articular facet of tubercle of rib.i
+Articular facets of head of rib.s
+Articular facets of head of rib.i
+Body of rib.s
+Body of rib.i
+Costal groove.s
+Costal groove.i
+Crest of head of rib.s
+Crest of head of rib.i
+Crest of neck of rib.s
+Crest of neck of rib.i
+Head of rib.s
+Head of rib.i
+Neck of rib.s
+Neck of rib.i
+Rib.s
+Rib.i
+Tubercle of rib.s
+Tubercle of rib.i
+Pudendal nerve.l
+Pudendal nerve.l

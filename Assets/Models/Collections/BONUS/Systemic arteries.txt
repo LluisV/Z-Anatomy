@@ -1,0 +1,1128 @@
+Systemic arteries
+Bifurcation of pulmonary trunk
+Pulmonary trunk
+Superior lobar artery of right lung
+Apical segmental artery of right lung
+Anterior segmental artery of right lung
+Posterior segmental artery of right lung
+Middle lobar artery of right lung
+Posterior basal segmental artery of right lung
+Inferior lobar artery of right lung
+Lateral basal segmental artery of right lung
+Anterior basal segmental artery of right lung
+Medial basal segmental artery of right lung
+Medial segmental artery of right lung
+Lateral segmental artery of right lung
+Superior segmental artery of right lung
+Superior lingular artery of left lung
+Inferior lingular artery of left lung
+Apical segmental artery of left lung
+Posterior segmental artery of left lung
+Anterior segmental artery of left lung
+Superior segmental artery of left lung
+Lateral basal segmental artery of left lung
+Posterior basal segmental artery of left lung
+Medial basal segmental artery of left lung
+Anterior basal segmental artery of left lung
+Left pulmonary artery
+Right coronary artery
+Circumflex artery of heart
+Anterior interventricular artery
+Left coronary artery
+Right inferolateral branch of right coronary artery
+Septal branches of anterior interventricular artery
+Brachiocephalic trunk
+Right common carotid artery
+Right subclavian artery
+Aortic arch
+Left common carotid artery
+Left subclavian artery
+Posterior intercostal arteries.l
+Posterior intercostal arteries.r
+Subcostal artery.l
+Subcostal artery.r
+Superior phrenic arteries
+Thoracic aorta
+Inferior suprarenal artery.l
+Inferior suprarenal artery.r
+Inferior phrenic artery
+Lumbar arteries.l
+Lumbar arteries.r
+Splenic artery
+Anterior inferior pancreaticoduodenal artery
+Colic branch of ileocolic artery
+Ileocolic artery
+Ileal branch of ileocolic artery
+Appendicular artery
+Superior mesenteric artery
+Marginal artery
+Right colic artery
+Proper hepatic artery
+Coeliac trunk
+Left gastric artery
+Common hepatic artery
+Gastroduodenal artery
+Anterior branch of renal artery.r
+Anterior branch of renal artery.l
+Posterior branch of renal artery.r
+Posterior branch of renal artery.l
+Intrarenal arteries of left kidney
+Intrarenal arteries of right kidney
+Right renal artery
+Left renal artery
+Right testicular artery
+Descending branch of left colic artery
+Left colic artery
+Ascending branch of left colic artery
+Inferior mesenteric artery
+Sigmoid arteries
+Abdominal aorta
+Median sacral artery
+Iliacus branch of iliolumbar artery.r
+Iliacus branch of iliolumbar artery.l
+Superior gluteal artery.r
+Superior gluteal artery.l
+Posterior division of internal iliac artery.r
+Posterior division of internal iliac artery.l
+Deep artery of penis.l
+Dorsal artery of penis.r
+Dorsal artery of penis.l
+Inferior gluteal artery.r
+Inferior gluteal artery.l
+Anterior division of internal iliac artery.r
+Anterior division of internal iliac artery.l
+Internal iliac artery.r
+Internal iliac artery.l
+Inferior epigastric artery.r
+Inferior epigastric artery.l
+External iliac artery.r
+External iliac artery.l
+Common iliac artery.r
+Common iliac artery.l
+Ascending aorta
+Ascending pharyngeal artery.r
+Ascending pharyngeal artery.l
+Superior labial artery.r
+Superior labial artery.l
+Facial artery.r
+Angular artery.r
+Inferior labial artery.r
+Submental artery.r
+Facial artery.l
+Angular artery.l
+Inferior labial artery.l
+Submental artery.l
+Occipital artery.r
+Occipital artery.l
+Superficial temporal artery.r
+Frontal branch of superficial temporal artery.r
+Superficial temporal artery.l
+Transverse facial artery.l
+Frontal branch of superficial temporal artery.l
+Mental branch of inferior alveolar artery.l
+Inferior alveolar artery.r
+Mylohyoid branch of inferior alveolar artery.r
+Mental branch of inferior alveolar artery.r
+Inferior alveolar artery.l
+Mylohyoid branch of inferior alveolar artery.l
+Middle meningeal artery.r
+Accessory branch of middle meningeal artery.r
+Middle meningeal artery.l
+Accessory branch of middle meningeal artery.l
+Posterior deep temporal artery.r
+Posterior deep temporal artery.l
+Posterior superior alveolar artery.r
+Posterior superior alveolar artery.l
+Artery of pterygoid canal.r
+Artery of pterygoid canal.l
+Posterior lateral nasal branches of sphenopalatine artery..r
+Posterior lateral nasal branches of sphenopalatine artery..l
+Maxillary artery.r
+Anterior deep temporal artery.r
+?x.r
+Maxillary artery.l
+Anterior deep temporal artery.l
+?x.l
+External carotid artery.r
+External carotid artery.l
+Central retinal artery.r
+Central retinal artery.l
+Short posterior ciliary arteries.r
+Short posterior ciliary arteries.l
+Long posterior ciliary arteries.r
+Long posterior ciliary arteries.l
+Anterior ethmoidal artery.r
+Anterior septal branches of anterior ethmoidal artery.l
+Anterior ethmoidal artery.l
+Anterior septal branches of anterior ethmoidal artery.r
+Septal branches of posterior ethmoidal artery.r
+Posterior ethmoidal artery.r
+Septal branches of posterior ethmoidal artery.l
+Posterior ethmoidal artery.l
+Ophthalmic artery.r
+Lacrimal artery.r
+Supra-orbital artery.r
+Supratrochlear artery.r
+Ophthalmic artery.l
+Lacrimal artery.l
+Supra-orbital artery.l
+Supratrochlear artery.l
+Callosomarginal artery.r
+Frontal branches of callosomarginal artery.r
+Callosomarginal artery.l
+Frontal branches of callosomarginal artery.l
+Pericallosal artery.r
+Pericallosal artery.l
+Orbitofrontal branches of anterior cerebral artery.r
+Orbitofrontal branches of anterior cerebral artery.l
+Proximal lateral striate branches.r
+Distal lateral striate branches.r
+Proximal lateral striate branches.l
+Distal lateral striate branches.l
+Insular branches of middle cerebral artery (M2).r
+Insular branches of middle cerebral artery (M2-segment).l
+Anterior temporal branch.r
+Temporal branches of middle cerebral artery.r
+Posterior temporal branch.r
+Branch to angular gyrus.r
+Temporo-occipital branch.r
+Anterior temporal branch.l
+Temporal branches of middle cerebral artery.l
+Posterior temporal branch.l
+Branch to angular gyrus.l
+Temporo-occipital branch.l
+Prefrontal artery.r
+Lateral frontobasal artery.r
+Posterior parietal artery.r
+Artery of central sulcus.r
+Artery of precentral sulcus.r
+Postcentral arterial branch.r
+Parietal branches of middle cerebral artery.r
+Prefrontal artery.l
+Lateral frontobasal artery.l
+Posterior parietal artery.l
+Artery of central sulcus.l
+Artery of precentral sulcus.l
+Postcentral arterial branch.l
+Parietal branches of middle cerebral artery.l
+Middle cerebral artery (M3-segment).r
+Middle cerebral artery (M1-segment).r
+Middle cerebral artery (M3 segment).l
+Middle cerebral artery (M1-segment).l
+Internal carotid artery.r
+Internal carotid artery.l
+Anterior communicating artery
+Posterior communicating artery.r
+Posterior communicating artery.l
+Anterior spinal artery.r
+Anterior spinal artery.l
+Anterior inferior cerebellar artery.r
+Anterior inferior cerebellar artery.l
+Lateral pontine branches of basilar artery.r
+Medial pontine branches of basilar artery.r
+Lateral pontine branches of basilar artery.l
+Medial pontine branches of basilar artery.l
+Lateral occipital artery.r
+Lateral occipital artery.l
+Medial occipital artery.r
+Medial occipital artery.l
+Posterior cerebral artery.r
+Parieto-occipital artery.r
+Posterior cerebral artery.l
+Parieto-occipital artery.l
+Basilar artery
+Superior cerebellar artery.r
+Superior cerebellar artery.l
+Vertebral artery.r
+Posterior inferior cerebellar artery.r
+Vertebral artery.l
+Posterior inferior cerebellar artery.l
+Internal thoracic artery.l
+Musculophrenic artery.l
+Superior epigastric artery.l
+Internal thoracic artery.r
+Superior epigastric artery.r
+Musculophrenic artery.r
+Inferior thyroid artery.r
+Inferior thyroid artery.l
+Suprascapular artery.r
+Suprascapular artery.l
+(Deep branch of transverse cervical artery).r
+Transverse cervical artery.r
+(Deep branch of transverse cervical artery).l
+Transverse cervical artery.l
+(Superficial branch of transverse cervical artery).l
+Thyrocervical trunk.r
+Thyrocervical trunk.l
+First posterior intercostal artery.l
+First posterior intercostal artery.r
+Second posterior intercostal artery.l
+Second posterior intercostal artery.r
+Costocervical trunk.l
+Costocervical trunk.r
+Deep cervical artery.r
+Deep cervical artery.l
+Thoraco-acromial artery.l
+Pectoral branches of thoraco-acromial artery.r
+Pectoral branches of thoraco-acromial artery.l
+Thoraco-acromial artery.r
+Lateral thoracic artery.r
+Lateral thoracic artery.l
+Thoracodorsal artery.r
+Deep brachial artery.r
+Radial collateral artery.r
+Middle collateral artery.r
+Deep brachial artery.l
+Radial collateral artery.l
+Middle collateral artery.l
+Dorsal metacarpal arteries.r
+Dorsal digital arteries of hand.r
+Dorsal metacarpal arteries.l
+Dorsal digital arteries of hand.l
+Dorsal carpal anastomosis.r
+Dorsal carpal anastomosis.l
+Palmar metacarpal arteries.r
+Palmar metacarpal arteries.l
+Deep palmar arch.r
+Deep palmar arch.l
+Radial artery.r
+Palmar carpal branch of radial artery.r
+Radial artery.l
+Palmar carpal branch of radial artery.l
+(Ulnar recurrent artery).r
+(Ulnar recurrent artery).l
+Recurrent interosseous artery.r
+Posterior interosseous artery.r
+Recurrent interosseous artery.l
+Posterior interosseous artery.l
+Common palmar digital arteries.r
+Proper palmar digital arteries.r
+Common palmar digital arteries.l
+Proper palmar digital arteries.l
+Ulnar artery.r
+Superficial palmar arch.r
+Dorsal carpal branch of ulnar artery.r
+Ulnar artery.l
+Superficial palmar arch.l
+Dorsal carpal branch of ulnar artery.l
+Brachial artery.r
+Superior ulnar collateral artery.r
+Inferior ulnar collateral artery.r
+Brachial artery.l
+Superior ulnar collateral artery.l
+Inferior ulnar collateral artery.l
+Axillary artery.l
+Anterior circumflex humeral artery.r
+Posterior circumflex humeral artery.r
+Axillary artery.r
+Anterior circumflex humeral artery.l
+Posterior circumflex humeral artery.l
+Medial circumflex femoral artery.r
+Medial circumflex femoral artery.l
+Lateral circumflex femoral artery.r
+Descending branch of lateral circumflex femoral artery
+Lateral circumflex femoral artery.l
+Descending branch of lateral circumflex femoral artery.l
+Perforating femoral arteries.r
+Deep femoral artery.r
+Deep femoral artery.l
+Dorsal digital arteries of foot.r
+Dorsal digital arteries of foot.l
+Arcuate artery.r
+Arcuate artery.l
+Dorsalis pedis artery.r
+Deep plantar artery.r
+Lateral tarsal artery.r
+Dorsalis pedis artery.l
+Deep plantar artery.l
+Lateral tarsal artery.l
+Anterior tibial artery.r
+Anterior tibial artery.l
+Calcaneal branches of fibular artery.r
+Calcaneal branches of fibular artery.l
+Fibular artery.r
+Fibular artery.l
+Superficial branch of medial plantar artery.r
+Medial plantar artery.r
+Superficial branch of medial plantar artery.l
+Medial plantar artery.l
+Common plantar digital arteries.r
+Proper plantar digital arteries.r
+Common plantar digital arteries.l
+Proper plantar digital arteries.l
+Plantar metatarsal arteries.r
+Perforating branches of plantar metatarsal arteries.r
+Plantar metatarsal arteries.l
+Perforating branches of plantar metatarsal arteries.l
+Plantar arch.r
+Plantar arch.l
+Lateral plantar artery.r
+Lateral plantar artery.l
+Posterior tibial artery.r
+Calcaneal branches of posterior tibial artery.r
+Posterior tibial artery.l
+Calcaneal branches of posterior tibial artery.l
+Popliteal artery.r
+Superior medial genicular artery.r
+Inferior medial genicular artery.r
+Inferior lateral genicular artery.r
+Middle genicular artery.r
+Superior lateral genicular artery.r
+Patellar anastomosis.r
+Popliteal artery.l
+Superior medial genicular artery.l
+Inferior medial genicular artery.l
+Inferior lateral genicular artery.l
+Middle genicular artery.l
+Superior lateral genicular artery.l
+Patellar anastomosis.l
+Femoral artery.r
+Superficial epigastric artery.r
+Femoral artery.l
+Superficial epigastric artery.l
+Perforating femoral arteries.l
+Dorsal metatarsal arteries.r
+Internal pudendal artery.r
+Internal pudendal artery.l
+Dorsal metatarsal arteries.l
+Deep artery of penis.r
+Common interosseous artery.l
+Common interosseous artery.r
+Left testicular artery
+Supreme intercostal artery.r
+Supreme intercostal artery.l
+Subscapular artery.r
+Subscapular artery.l
+Thoracodorsal artery.l
+Circumflex scapular artery.l
+Circumflex scapular artery.r
+Iliolumbar artery.r
+Iliolumbar artery.l
+Spinal branch of iliolumbar artery.r
+Lumbar branch of iliolumbar artery.r
+Spinal branch of iliolumbar artery.l
+Lumbar branch of iliolumbar artery.l
+Inferior pancreaticoduodenal artery
+Superficial external pudendal artery.r
+Deep external pudendal artery.r
+Superficial external pudendal artery.l
+Deep external pudendal artery.l
+Anterior cerebral artery.r
+Right pulmonary artery
+Anterior cerebral artery.l
+Buccal artery.r
+Buccal artery.l
+Descending palatine artery.r
+Posterior septal branches of sphenopalatine artery.r
+Infra-orbital artery.r
+Infra-orbital artery.l
+Posterior septal branches of sphenopalatine artery.l
+Greater palatine artery.l
+Greater palatine artery.r
+Middle colic artery
+Superior anorectal artery
+Obturator artery.r
+Obturator artery.l
+Transverse facial artery.r
+Descending palatine artery.l
+(Superficial branch of transverse cervical artery).r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

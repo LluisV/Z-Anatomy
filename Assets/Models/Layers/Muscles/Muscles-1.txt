@@ -1,0 +1,119 @@
+Muscles-1
+Levator anguli oris.l
+Geniohyoid muscle.r
+Geniohyoid muscle.l
+External part of thyro-arytenoid muscle.r
+External part of thyro-arytenoid muscle.l
+Ary-epiglottic part of oblique arytenoid muscle.r
+Ary-epiglottic part of oblique arytenoid muscle.l
+Transverse arytenoid muscle
+Lateral crico-arytenoid muscle.r
+Lateral crico-arytenoid muscle.l
+Posterior crico-arytenoid muscle.r
+Posterior crico-arytenoid muscle.l
+Scalenus posterior muscle.r
+Longus capitis muscle.r
+Longus colli muscle.r
+Rectus anterior capitis muscle.r
+Rectus lateralis capitis muscle.r
+Scalenus posterior muscle.l
+Longus capitis muscle.l
+Longus colli muscle.l
+Rectus anterior capitis muscle.l
+Rectus lateralis capitis muscle.l
+Multifidus colli muscle.r
+Multifidus thoracis muscle.r
+Multifidus lumborum muscle.r
+Multifidus colli muscle.l
+Multifidus thoracis muscle.l
+Multifidus lumborum muscle.l
+Dorsal parts of lateral intertransversarii lumborum muscles.r
+Ventral parts of lateral intertransversarii lumborum muscles.r
+Dorsal parts of lateral intertransversarii lumborum muscles.l
+Ventral parts of lateral intertransversarii lumborum muscles.l
+Coccygeus muscle.r
+Pubococcygeus muscle.r
+Coccygeus muscle.l
+Pubococcygeus muscle.l
+Pronator quadratus.r
+Pronator quadratus.l
+Abductor pollicis longus.r
+Extensor pollicis brevis.r
+Extensor pollicis longus.r
+Abductor pollicis longus.l
+Extensor pollicis brevis.l
+Extensor pollicis longus.l
+Dorsal interossei muscles of hand.r
+Palmar interossei muscles.r
+Dorsal interossei muscles of hand.l
+Palmar interossei muscles.l
+(Adductor minimus).r
+(Adductor minimus).l
+Lateral head of flexor hallucis brevis.r
+Lateral head of flexor hallucis brevis.l
+Oblique head of adductor hallucis.r
+Transverse head of adductor hallucis.r
+Oblique head of adductor hallucis.l
+Transverse head of adductor hallucis.l
+Dorsal interossei muscles of foot.r
+Lumbrical muscles of foot.r
+(Opponens digiti minimi muscle of foot).r
+Plantar interossei muscles.r
+Dorsal interossei muscles of foot.l
+Lumbrical muscles of foot.l
+(Opponens digiti minimi muscle of foot).l
+Plantar interossei muscles.l
+Tendinous arch of levator ani.r
+Tendinous arch of levator ani.l
+Inguinal ligament.l
+Inguinal ligament.r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

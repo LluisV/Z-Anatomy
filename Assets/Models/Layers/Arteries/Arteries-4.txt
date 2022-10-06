@@ -1,0 +1,85 @@
+Arteries-4
+Transverse facial artery.l
+Inferior alveolar artery.r
+Inferior alveolar artery.l
+Posterior cerebral artery.r
+Posterior inferior cerebellar artery.r
+Posterior inferior cerebellar artery.l
+Transverse facial artery.r
+Inferior suprarenal artery.l
+Inferior suprarenal artery.r
+Anterior inferior pancreaticoduodenal artery
+Colic branch of ileocolic artery
+Ileocolic artery
+Ileal branch of ileocolic artery
+Appendicular artery
+Marginal artery
+Right colic artery
+Intrarenal arteries of left kidney
+Intrarenal arteries of right kidney
+Descending branch of left colic artery
+Ascending branch of left colic artery
+Sigmoid arteries
+Median sacral artery
+Dorsal artery of penis.l
+Inferior thyroid artery.l
+Suprascapular artery.l
+Thyrocervical trunk.r
+Thyrocervical trunk.l
+Internal pudendal artery.l
+Middle colic artery
+Common palmar digital arteries.l
+Proper palmar digital arteries.l
+Descending branch of lateral circumflex femoral artery.l
+Deep plantar artery.l
+Calcaneal branches of fibular artery.l
+Superficial branch of medial plantar artery.l
+Plantar metatarsal arteries.l
+Perforating branches of plantar metatarsal arteries.l
+Calcaneal branches of posterior tibial artery.l
+Superior medial genicular artery.l
+Common palmar digital arteries.r
+Proper palmar digital arteries.r
+Descending branch of lateral circumflex femoral artery.r
+Deep plantar artery.r
+Calcaneal branches of fibular artery.r
+Superficial branch of medial plantar artery.r
+Plantar metatarsal arteries.r
+Perforating branches of plantar metatarsal arteries.r
+Calcaneal branches of posterior tibial artery.r
+Superior medial genicular artery.r
+Right testicular artery
+Dorsal artery of penis.r
+Inferior thyroid artery.r
+Suprascapular artery.r
+Thoracodorsal artery.r
+Internal pudendal artery.r
+Anterior spinal artery.r
+Subscapular artery.r
+Circumflex scapular artery.r
+Anterior spinal artery.l
+Posterior cerebral artery.l
+Left testicular artery
+Subscapular artery.l
+Thoracodorsal artery.l
+Circumflex scapular artery.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

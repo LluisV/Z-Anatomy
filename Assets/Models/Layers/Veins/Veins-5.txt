@@ -1,0 +1,59 @@
+Veins-5
+Superficial dorsal veins of penis
+Great saphenous vein.r
+Superficial epigastric vein.r
+Great saphenous vein.l
+Superficial epigastric vein.l
+Deep femoral vein.r
+Perforating veins.r
+Deep femoral vein.l
+Plantar digital veins.r
+Plantar metatarsal veins.r
+Plantar digital veins.l
+Plantar metatarsal veins.l
+Plantar venous arch.r
+Plantar venous arch.l
+Fibular veins.r
+Fibular veins.l
+Dorsal venous arch of foot.r
+Intercapitular veins of foot.r
+Dorsal venous arch of foot.l
+Intercapitular veins of foot.l
+Small saphenous vein.r
+Small saphenous vein.l
+Genicular veins.r
+Genicular veins.l
+Lateral circumflex femoral veins.r
+Medial circumflex femoral veins.r
+Lateral circumflex femoral veins.l
+Medial circumflex femoral veins.l
+Superior mesenteric vein
+Middle colic vein
+Right colic vein
+Right gastro-omental vein
+Left gastro-omental vein
+Sigmoid veins
+Splenic vein
+Inferior mesenteric vein
+Perforating veins.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

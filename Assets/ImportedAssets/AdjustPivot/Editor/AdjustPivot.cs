@@ -92,7 +92,7 @@ public class AdjustPivot : EditorWindow
 			if( !IsNull( selection.parent ) )
 			{
 #if UNITY_2018_3_OR_NEWER
-				if( UnityEditor.Experimental.SceneManagement.PrefabStageUtility.GetCurrentPrefabStage() == null )
+				if( UnityEditor.SceneManagement.PrefabStageUtility.GetCurrentPrefabStage() == null )
 				{
 #endif
 					if( selection.localPosition != Vector3.zero || selection.localEulerAngles != Vector3.zero )

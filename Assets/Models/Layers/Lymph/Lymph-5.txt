@@ -1,0 +1,34 @@
+Lymph-5
+Superficial parotid nodes.l
+Superficial parotid nodes.r
+Thyroid nodes.r
+Anterior inferior jugular nodes.r
+Superficial lateral cervical nodes.r
+Inferior deep lateral cervical nodes.r
+Thyroid nodes.l
+Anterior inferior jugular nodes.l
+Superficial lateral cervical nodes.l
+Inferior deep lateral cervical nodes.l
+Node of ligamentum arteriosum
+Lateral pericardial nodes
+Superior tracheobronchial nodes
+Lateral aortic nodes
+Superior diaphragmatic nodes
+Coeliac nodes
+Appendicular nodes
+Subaortic nodes
+Lateral sacral nodes.r
+Lateral sacral nodes.l
+Lateral vesical nodes.r
+Lateral vesical nodes.l
+Interpectoral nodes.l
+Central axillary nodes.l
+Central axillary nodes.r
+Interpectoral nodes.r
+
+
+
+
+
+
+

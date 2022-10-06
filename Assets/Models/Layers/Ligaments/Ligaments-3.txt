@@ -1,0 +1,85 @@
+Ligaments-3
+Sphenomandibular ligament.r
+Sphenomandibular ligament.l
+Lateral temporomandibular ligament.l
+Articular disc of temporomandibular joint.r
+Lateral temporomandibular ligament.r
+Articular disc of temporomandibular joint.l
+Intra-articular ligament of head of rib.r
+Intra-articular ligament of head of rib
+Radiate ligament of head of rib.l
+Radiate ligament of head of rib.r
+Costotransverse ligament.r
+Costotransverse ligament.l
+Trapezoid ligament.r
+Conoid ligament.r
+Trapezoid ligament.l
+Conoid ligament.l
+Acromioclavicular ligament.r
+Acromioclavicular ligament.l
+Articular disc of sternoclavicular joint.r
+Interclavicular ligament.r
+Articular disc of sternoclavicular joint.l
+Interclavicular ligament.l
+Transverse humeral ligament.r
+Transverse humeral ligament.l
+Quadrate ligament.r
+Quadrate ligament.l
+Deep transverse metacarpal ligament.r
+Deep transverse metacarpal ligament.l
+Obturator membrane.r
+Obturator membrane.l
+Sacrotuberous ligament.r
+Sacrotuberous ligament.l
+Sacrospinous ligament.r
+Iliolumbar ligament.r
+Sacrospinous ligament.l
+Iliolumbar ligament.l
+Interpubic disc
+Triradiate cartilage.r
+Triradiate cartilage.l
+Interosseous sacro-iliac ligament.r
+Interosseous sacro-iliac ligament.l
+Interosseous membrane of leg.l
+Interosseous membrane of leg.r
+Posterior cruciate ligament.r
+Anterior cruciate ligament.r
+Posterior cruciate ligament.l
+Anterior cruciate ligament.l
+Median thyrohyoid ligament
+Oblique cord.l
+Oblique cord.r
+Glenoid labrum.l
+Glenoid labrum.r
+Superior glenohumeral ligament.l
+Middle glenohumeral ligament.l
+Inferior glenohumeral ligament.l
+Superior glenohumeral ligament.r
+Middle glenohumeral ligament.r
+Inferior glenohumeral ligament.r
+Ulnar collateral ligament.l
+Radial collateral ligament.l
+Annular ligament of radius.l
+Ulnar collateral ligament.r
+Radial collateral ligament.r
+Annular ligament of radius.r
+Ulnar collateral ligament of wrist joint.l
+Radial collateral ligament of wrist joint.l
+Ulnar collateral ligament of wrist joint.r
+Radial collateral ligament of wrist joint.r
+Radiate carpal ligament.l
+Radiate carpal ligament.r
+Anterior tibiofibular ligament.l
+Posterior tibiofibular ligament.l
+Anterior tibiofibular ligament.r
+Posterior tibiofibular ligament.r
+Zona orbicularis.l
+Zona orbicularis.r
+Ligament of head of femur.l
+Ligament of head of femur.r
+Lateral meniscus.l
+Lateral meniscus.r
+Fibular collateral ligament.l
+Fibular collateral ligament.r
+Deep part of tibial collateral ligament.l
+Deep part of tibial collateral ligament.r

@@ -1,0 +1,1128 @@
+Systemic veins
+Right superior pulmonary vein
+Medial vein of right lung
+Apical vein of right lung
+Posterior vein of right lung
+Anterior vein of right lung
+Lateral vein of right lung
+Inferior basal vein of right lung
+Superior vein of right lung
+Superior basal vein of right lung
+Anterior vein of left lung
+Apicoposterior vein of left lung
+Inferior lingular vein of left lung
+Superior lingular vein of left lung
+Superior basal vein of left lung
+Superior vein of left lung
+Inferior basal vein of left lung
+Great cardiac vein
+????????
+Middle cardiac vein
+Inferior vein of left ventricle (//Posterior '')
+Coronary sinus
+Inferior vein of left ventricle
+Accessory hemi-azygos vein
+Left ascending lumbar vein
+Hemi-azygos vein
+Left subcostal vein
+Azygos vein
+Right ascending lumbar vein
+Right superior phrenic vein
+Right subcostal vein
+Vertebral vein.r
+Vertebral vein.l
+Internal thoracic veins.l
+Musculophrenic veins.l
+Internal thoracic veins.r
+Superior epigastric veins.r
+Musculophrenic veins.r
+Superior epigastric veins.l
+Right brachiocephalic vein
+Left superior intercostal vein
+Right superior intercostal vein
+Left brachiocephalic vein
+Superior vena cava
+Posterior division of retromandibular vein.r
+Angular vein.r
+Submental vein.r
+Inferior labial veins.r
+Superior labial vein.r
+Facial vein.r
+Inferior ophthalmic vein.r
+Superior thyroid vein.r
+Occipital vein.r
+Superficial temporal veins.r
+Posterior auricular vein.r
+Maxillary veins.r
+Lingual vein.r
+Posterior division of retromandibular vein.l
+Angular vein.l
+Submental vein.l
+Inferior labial veins.l
+Superior labial vein.l
+Facial vein.l
+Inferior ophthalmic vein.l
+Superior thyroid vein.l
+Occipital vein.l
+Superficial temporal veins.l
+Posterior auricular vein.l
+Maxillary veins.l
+Lingual vein.l
+Common facial vein.r
+Common facial vein.l
+Internal jugular vein.r
+Internal jugular vein.l
+Straight sinus
+Inferior sagittal sinus
+Superior sagittal sinus
+Occipital sinus
+Superior petrosal sinus.r
+Transverse sinus.r
+Superior petrosal sinus.l
+Transverse sinus.l
+Sigmoid sinus.r
+Sigmoid sinus.l
+Anterior jugular vein.l
+Anterior jugular vein.r
+Suprascapular vein.r
+External jugular vein.r
+Suprascapular vein.l
+External jugular vein.l
+Anterior division of retromandibular vein.l
+Dorsal digital veins of hand.r
+Dorsal digital veins of hand.l
+Dorsal venous network of hand.r
+Dorsal venous network of hand.l
+Cephalic vein.r
+Cephalic vein.l
+Thoracodorsal vein.r
+Circumflex scapular vein.r
+Thoracodorsal vein.l
+Circumflex scapular vein.l
+Median cubital vein.r
+Median antebrachial vein.r
+Median cubital vein.l
+Median antebrachial vein.l
+Basilic vein.r
+Basilic vein.l
+Superficial venous palmar arch.r
+Palmar digital veins.r
+Superficial venous palmar arch.l
+Palmar digital veins.l
+Ulnar veins.r
+Ulnar veins.l
+Deep venous palmar arch.r
+Deep venous palmar arch.l
+Radial veins.r
+Radial veins.l
+Brachial veins.r
+Brachial veins.l
+Anterior circumflex humeral vein.r
+Posterior circumflex humeral vein.r
+Lateral thoracic vein.r
+Axillary vein.r
+Anterior circumflex humeral vein.l
+Posterior circumflex humeral vein.l
+Lateral thoracic vein.l
+Axillary vein.l
+Left subclavian vein
+Right subclavian vein
+Hepatic veins
+Intrarenal veins of right kidney
+Right renal vein
+Intrarenal veins of left kidney
+Left renal vein
+Right testicular vein
+Lateral sacral veins.r
+Lateral sacral veins.l
+Internal pudendal vein.r
+Internal pudendal vein.l
+Deep dorsal vein of penis
+Inferior gluteal veins.r
+Internal iliac vein.r
+Superior gluteal veins.r
+Inferior gluteal veins.l
+Internal iliac vein.l
+Superior gluteal veins.l
+Inferior epigastric vein.r
+Inferior epigastric vein.l
+External iliac vein.r
+External iliac vein.l
+Common iliac vein.l
+Common iliac vein.r
+Iliolumbar vein.r
+Iliolumbar vein.l
+Inferior vena cava (thoracic part)
+Inferior vena cava (abdominal part)
+Lumbar veins.l
+Lumbar veins.r
+Superficial dorsal veins of penis
+Great saphenous vein.r
+Superficial epigastric vein.r
+Great saphenous vein.l
+Superficial epigastric vein.l
+Deep femoral vein.r
+Perforating veins.r
+Deep femoral vein.l
+Anterior tibial veins.r
+Anterior tibial veins.l
+Plantar digital veins.r
+Plantar metatarsal veins.r
+Plantar digital veins.l
+Plantar metatarsal veins.l
+Plantar venous arch.r
+Plantar venous arch.l
+Lateral plantar veins.r
+Lateral plantar veins.l
+Posterior tibial veins.r
+Fibular veins.r
+Medial plantar veins.r
+Posterior tibial veins.l
+Fibular veins.l
+Medial plantar veins.l
+Dorsal venous arch of foot.r
+Intercapitular veins of foot.r
+Dorsal venous arch of foot.l
+Intercapitular veins of foot.l
+Small saphenous vein.r
+Small saphenous vein.l
+Popliteal vein.r
+Genicular veins.r
+Popliteal vein.l
+Genicular veins.l
+Femoral vein.r
+Lateral circumflex femoral veins.r
+Medial circumflex femoral veins.r
+Femoral vein.l
+Lateral circumflex femoral veins.l
+Medial circumflex femoral veins.l
+Superior mesenteric vein
+Middle colic vein
+Right colic vein
+Right gastro-omental vein
+Left gastro-omental vein
+Sigmoid veins
+Splenic vein
+Inferior mesenteric vein
+Perforating veins.l
+Dorsal metatarsal veins.r
+Dorsal digital veins of foot.r
+Dorsal metatarsal veins.l
+Dorsal digital veins of foot.l
+Left testicular vein
+Hepatic portal vein
+External pudendal veins.r
+External pudendal veins.l
+Subscapular vein.r
+Subscapular vein.l
+Retromandibular vein.l
+Anterior division of retromandibular vein.r
+Retromandibular vein.r
+Inferior petrosal sinus.r
+Inferior petrosal sinus.l
+Basilar venous plexus
+Cavernous sinus.r
+Cavernous sinus.l
+Posterior intercavernous sinus
+Anterior intercavernous sinus
+Superior ophthalmic vein.l
+Right inferior pulmonary vein
+Left inferior pulmonary vein
+Left superior pulmonary vein
+Lingular vein of left lung
+Superior ophthalmic vein.r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

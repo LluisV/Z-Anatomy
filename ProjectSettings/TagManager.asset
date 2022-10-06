@@ -8,7 +8,6 @@ TagManager:
   - Joints
   - Insertions
   - Muscles
-  - Vascular
   - Nervous
   - Visceral
   - BodyParts
@@ -17,6 +16,9 @@ TagManager:
   - Fascia
   - GlobalParent
   - References
+  - Lymph
+  - Veins
+  - Arteries
   layers:
   - Default
   - TransparentFX
@@ -30,11 +32,11 @@ TagManager:
   - CollectionsCanvas
   - Cube
   - NoLight
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Lasso
+  - HighlightedOutline
+  - Gizmo
+  - 3DLine
+  - NoPostProcessing
   - 
   - 
   - 

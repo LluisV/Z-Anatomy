@@ -1,0 +1,43 @@
+Skin-9
+Concha of auricle.l
+Concha of auricle.r
+Auricular region.r
+Eminentia fossae triangularis.r
+Lobule of auricle.r
+Auricular region.l
+Eminentia fossae triangularis.l
+Lobule of auricle.l
+Nasal region.r
+Nasal region.l
+Submandibular triangle.r
+Submandibular triangle.l
+Posterior region of neck.r
+Posterior region of neck.l
+Lateral region of abdomen.r
+Lateral region of abdomen.l
+Medial border of foot.l
+Medial border of foot.r
+Hairs of eyebrow.l
+Hairs of eyebrow.r
+Lateral region of thorax.r
+Lateral region of thorax.l
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

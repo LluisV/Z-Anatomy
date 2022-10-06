@@ -1,0 +1,1128 @@
+Head
+Parietal bone.r
+Parietal bone.l
+Sinus of frontal bone
+Frontal bone
+Occipital bone
+Sinus of sphenoid bone
+Sphenoid bone
+Temporal bone.r
+Ethmoid bone
+Inferior nasal concha bone.r
+Lacrimal bone.r
+Nasal bone.r
+Vomer
+Maxilla.r
+Palatine bone.r
+Zygomatic bone.r
+Mandible
+Hyoid bone
+Malleus.r
+Incus.r
+Stapes.r
+Upper medial incisor.r
+Upper lateral incisor.r
+Upper canine.r
+Lower medial incisor.r
+Lower lateral incisor.r
+Lower canine.r
+Upper first premolar.r
+Upper second premolar.r
+Upper first molar tooth.r
+Upper second molar tooth.r
+Lower first premolar.r
+Lower second premolar.r
+Lower first molar tooth.r
+Lower second molar tooth.r
+Major alar cartilage.r
+Lateral process of nasal septal cartilage.r
+Nasal septal cartilage
+Temporal bone.l
+Inferior nasal concha bone.l
+Lacrimal bone.l
+Nasal bone.l
+Maxilla.l
+Palatine bone.l
+Zygomatic bone.l
+Malleus.l
+Incus.l
+Stapes.l
+Upper medial incisor.l
+Upper lateral incisor.l
+Upper canine.l
+Lower medial incisor.l
+Lower lateral incisor.l
+Lower canine.l
+Upper first premolar.l
+Upper second premolar.l
+Upper first molar tooth.l
+Upper second molar tooth.l
+Lower first premolar.l
+Lower second premolar.l
+Lower first molar tooth.l
+Lower second molar tooth.l
+Major alar cartilage.l
+Lateral process of nasal septal cartilage.l
+Anterior limb of stapes.s
+Anterior limb of stapes.i
+Anterior process of malleus.s
+Anterior process of malleus.i
+Articular facet for malleus.s
+Articular facet for malleus.i
+Articular facet for stapes.s
+Articular facet for stapes.i
+Articular facet of head of malleus.s
+Articular facet of head of malleus.i
+Articular facet of head of stapes.s
+Articular facet of head of stapes.i
+Base of stapes.s
+Base of stapes.i
+Body of incus.s
+Body of incus.i
+Crown of tooth.s
+Crown of tooth.i
+Cusp of tooth.s
+Cusp of tooth.i
+Distal surface of tooth.s
+Distal surface of tooth.i
+Handle of malleus.s
+Handle of malleus.i
+Head of malleus.s
+Head of malleus.i
+Lateral process of malleus.s
+Lateral process of malleus.i
+Lenticular process of incus.s
+Lenticular process of incus.i
+Lingual surface of tooth.s
+Lingual surface of tooth.i
+Long limb of incus.s
+Long limb of incus.i
+Maxillary dental arch.s
+Maxillary dental arch.i
+Mesial surface of tooth.s
+Mesial surface of tooth.i
+Neck of malleus.s
+Neck of malleus.i
+Neck of tooth.s
+Neck of tooth.i
+Occlusal surface of tooth.s
+Posterior limb of stapes.s
+Posterior limb of stapes.i
+Root of tooth.s
+Root of tooth.i
+Stapes.s
+Stapes.i
+Vestibular surface of tooth.s
+Vestibular surface of tooth.i
+Petrous part of temporal bone.s
+Petrous part of temporal bone.i
+Tympanic part of temporal bone.s
+Tympanic part of temporal bone.i
+Squamous part of temporal bone.s
+Squamous part of temporal bone.i
+Occipital margin of temporal bone.s
+Occipital margin of temporal bone.i
+Mastoid process.s
+Mastoid process.i
+Mastoid notch.s
+Mastoid notch.i
+Apex of petrous part.s
+Apex of petrous part.i
+Anterior surface of petrous part.s
+Anterior surface of petrous part.i
+Arcuate eminence.s
+Arcuate eminence.i
+Tegmen tympani.s
+Tegmen tympani.i
+Posterior surface of petrous part.s
+Posterior surface of petrous part.i
+Styloid process of temporal bone.s
+Styloid process of temporal bone.i
+Occlusal surface of tooth.i
+Stylomandibular ligament.r
+Stylohyoid ligament.r
+Pterygospinous ligament.r
+Sphenomandibular ligament.r
+Stylomandibular ligament.l
+Stylohyoid ligament.l
+Pterygospinous ligament.l
+Sphenomandibular ligament.l
+Articular capsule of temporomandibular joint.r
+Lateral temporomandibular ligament.l
+Articular disc of temporomandibular joint.r
+Articular capsule of temporomandibular joint.l
+Lateral temporomandibular ligament.r
+Articular disc of temporomandibular joint.l
+Lateral rectus muscle.l
+Lateral rectus muscle.r
+Superior oblique muscle.l
+Superior oblique muscle.r
+Common tendinous ring.r
+Inferior oblique muscle.r
+Inferior rectus muscle.r
+Inferior tarsus.r
+Levator palpebrae superioris.r
+Medial rectus muscle.r
+Superior rectus muscle.r
+Superior tarsus.r
+Trochlea of superior oblique muscle.r
+Common tendinous ring.l
+Inferior oblique muscle.l
+Inferior rectus muscle.l
+Inferior tarsus.l
+Levator palpebrae superioris.l
+Medial rectus muscle.l
+Superior rectus muscle.l
+Superior tarsus.l
+Trochlea of superior oblique muscle.l
+Frontalis muscle.r
+Occipitalis muscle.r
+Epicranial aponeurosis.r
+Frontalis muscle.l
+Occipitalis muscle.l
+Epicranial aponeurosis.l
+Temporoparietalis muscle.r
+Temporoparietalis muscle.l
+Nasalis muscle.r
+Nasalis muscle.l
+Orbital part of orbicularis oculi.r
+Palpebral part of orbicularis oculi.r
+Orbital part of orbicularis oculi.l
+Palpebral part of orbicularis oculi.l
+Orbicularis oris muscle.r
+Orbicularis oris muscle.l
+Zygomaticus major muscle.r
+Corrugator supercilii.r
+Depressor anguli oris.r
+Depressor labii inferioris.r
+Levator anguli oris.r
+Procerus muscle.r
+Risorius muscle.r
+Zygomaticus minor muscle.r
+Levator labii superioris.r
+Depressor septi nasi.r
+Mentalis muscle.r
+Levator nasolabialis.r
+Bucinator.r
+Zygomaticus major muscle.l
+Corrugator supercilii.l
+Depressor anguli oris.l
+Depressor labii inferioris.l
+Levator anguli oris.l
+Procerus muscle.l
+Risorius muscle.l
+Zygomaticus minor muscle.l
+Levator labii superioris.l
+Depressor septi nasi.l
+Mentalis muscle.l
+Levator nasolabialis.l
+Bucinator.l
+Superficial part of masseter.r
+Deep part of masseter.r
+Superficial part of masseter.l
+Deep part of masseter.l
+Medial pterygoid muscle.r
+Medial pterygoid muscle.l
+Inferior head of lateral pterygoid muscle.r
+Superior head of lateral pterygoid muscle.r
+Inferior head of lateral pterygoid muscle.l
+Superior head of lateral pterygoid muscle.l
+Temporalis muscle.r
+Temporalis muscle.l
+Hyoglossus muscle.r
+Hyoglossus muscle.l
+Genioglossus muscle.r
+Genioglossus muscle.l
+Superficial layer of temporal fascia.r
+Masseteric fascia.r
+Superficial layer of temporal fascia.l
+Masseteric fascia.l
+Ascending pharyngeal artery.r
+Ascending pharyngeal artery.l
+Superior labial artery.r
+Superior labial artery.l
+Facial artery.r
+Angular artery.r
+Inferior labial artery.r
+Submental artery.r
+Facial artery.l
+Angular artery.l
+Inferior labial artery.l
+Submental artery.l
+Occipital artery.r
+Occipital artery.l
+Superficial temporal artery.r
+Frontal branch of superficial temporal artery.r
+Superficial temporal artery.l
+Transverse facial artery.l
+Frontal branch of superficial temporal artery.l
+Mental branch of inferior alveolar artery.l
+Inferior alveolar artery.r
+Mylohyoid branch of inferior alveolar artery.r
+Mental branch of inferior alveolar artery.r
+Inferior alveolar artery.l
+Mylohyoid branch of inferior alveolar artery.l
+Middle meningeal artery.r
+Accessory branch of middle meningeal artery.r
+Middle meningeal artery.l
+Accessory branch of middle meningeal artery.l
+Posterior deep temporal artery.r
+Posterior deep temporal artery.l
+Posterior superior alveolar artery.r
+Posterior superior alveolar artery.l
+Artery of pterygoid canal.r
+Artery of pterygoid canal.l
+Posterior lateral nasal branches of sphenopalatine artery..r
+Posterior lateral nasal branches of sphenopalatine artery..l
+Maxillary artery.r
+Anterior deep temporal artery.r
+?x.r
+Maxillary artery.l
+Anterior deep temporal artery.l
+?x.l
+External carotid artery.r
+External carotid artery.l
+Central retinal artery.r
+Central retinal artery.l
+Short posterior ciliary arteries.r
+Short posterior ciliary arteries.l
+Long posterior ciliary arteries.r
+Long posterior ciliary arteries.l
+Anterior ethmoidal artery.r
+Anterior septal branches of anterior ethmoidal artery.l
+Anterior ethmoidal artery.l
+Anterior septal branches of anterior ethmoidal artery.r
+Septal branches of posterior ethmoidal artery.r
+Posterior ethmoidal artery.r
+Septal branches of posterior ethmoidal artery.l
+Posterior ethmoidal artery.l
+Ophthalmic artery.r
+Lacrimal artery.r
+Supra-orbital artery.r
+Supratrochlear artery.r
+Ophthalmic artery.l
+Lacrimal artery.l
+Supra-orbital artery.l
+Supratrochlear artery.l
+Callosomarginal artery.r
+Frontal branches of callosomarginal artery.r
+Callosomarginal artery.l
+Frontal branches of callosomarginal artery.l
+Pericallosal artery.r
+Pericallosal artery.l
+Orbitofrontal branches of anterior cerebral artery.r
+Orbitofrontal branches of anterior cerebral artery.l
+Proximal lateral striate branches.r
+Distal lateral striate branches.r
+Proximal lateral striate branches.l
+Distal lateral striate branches.l
+Insular branches of middle cerebral artery (M2).r
+Insular branches of middle cerebral artery (M2-segment).l
+Anterior temporal branch.r
+Temporal branches of middle cerebral artery.r
+Posterior temporal branch.r
+Branch to angular gyrus.r
+Temporo-occipital branch.r
+Anterior temporal branch.l
+Temporal branches of middle cerebral artery.l
+Posterior temporal branch.l
+Branch to angular gyrus.l
+Temporo-occipital branch.l
+Prefrontal artery.r
+Lateral frontobasal artery.r
+Posterior parietal artery.r
+Artery of central sulcus.r
+Artery of precentral sulcus.r
+Postcentral arterial branch.r
+Parietal branches of middle cerebral artery.r
+Prefrontal artery.l
+Lateral frontobasal artery.l
+Posterior parietal artery.l
+Artery of central sulcus.l
+Artery of precentral sulcus.l
+Postcentral arterial branch.l
+Parietal branches of middle cerebral artery.l
+Middle cerebral artery (M3-segment).r
+Middle cerebral artery (M1-segment).r
+Middle cerebral artery (M3 segment).l
+Middle cerebral artery (M1-segment).l
+Internal carotid artery.r
+Internal carotid artery.l
+Anterior communicating artery
+Posterior communicating artery.r
+Posterior communicating artery.l
+Anterior spinal artery.r
+Anterior spinal artery.l
+Anterior inferior cerebellar artery.r
+Anterior inferior cerebellar artery.l
+Lateral pontine branches of basilar artery.r
+Medial pontine branches of basilar artery.r
+Lateral pontine branches of basilar artery.l
+Medial pontine branches of basilar artery.l
+Lateral occipital artery.r
+Lateral occipital artery.l
+Medial occipital artery.r
+Medial occipital artery.l
+Posterior cerebral artery.r
+Parieto-occipital artery.r
+Posterior cerebral artery.l
+Parieto-occipital artery.l
+Basilar artery
+Superior cerebellar artery.r
+Superior cerebellar artery.l
+Vertebral artery.r
+Posterior inferior cerebellar artery.r
+Vertebral artery.l
+Posterior inferior cerebellar artery.l
+Posterior division of retromandibular vein.r
+Angular vein.r
+Submental vein.r
+Inferior labial veins.r
+Superior labial vein.r
+Facial vein.r
+Inferior ophthalmic vein.r
+Occipital vein.r
+Superficial temporal veins.r
+Posterior auricular vein.r
+Maxillary veins.r
+Lingual vein.r
+Posterior division of retromandibular vein.l
+Angular vein.l
+Submental vein.l
+Inferior labial veins.l
+Superior labial vein.l
+Facial vein.l
+Inferior ophthalmic vein.l
+Occipital vein.l
+Superficial temporal veins.l
+Posterior auricular vein.l
+Maxillary veins.l
+Lingual vein.l
+Straight sinus
+Inferior sagittal sinus
+Superior sagittal sinus
+Occipital sinus
+Superior petrosal sinus.r
+Transverse sinus.r
+Superior petrosal sinus.l
+Transverse sinus.l
+Sigmoid sinus.r
+Sigmoid sinus.l
+Anterior jugular vein.l
+Anterior jugular vein.r
+External jugular vein.r
+External jugular vein.l
+Anterior division of retromandibular vein.l
+Retromandibular vein.l
+Anterior division of retromandibular vein.r
+Retromandibular vein.r
+Inferior petrosal sinus.r
+Inferior petrosal sinus.l
+Posterior intercavernous sinus
+Anterior intercavernous sinus
+Superior ophthalmic vein.l
+Anterior cerebral artery.r
+Anterior cerebral artery.l
+Buccal artery.r
+Buccal artery.l
+Descending palatine artery.r
+Posterior septal branches of sphenopalatine artery.r
+Infra-orbital artery.r
+Infra-orbital artery.l
+Posterior septal branches of sphenopalatine artery.l
+Greater palatine artery.l
+Greater palatine artery.r
+Transverse facial artery.r
+Descending palatine artery.l
+Superior ophthalmic vein.r
+Retropharyngeal nodes.r
+Occipital nodes.l
+Nasolabial node.l
+Bucinator node.l
+Mandibular node.l
+Submental nodes.l
+Mastoid nodes.l
+Palatine tonsil.l
+Submandibular nodes.l
+Retropharyngeal nodes.l
+Pre-auricular nodes.r
+Intraglandular parotid nodes.r
+Infra-auricular nodes.l
+Pre-auricular nodes.l
+Intraglandular parotid nodes.l
+Superficial parotid nodes.l
+Superficial parotid nodes.r
+Occipital nodes.r
+Nasolabial node.r
+Bucinator node.r
+Mandibular node.r
+Submental nodes.r
+Mastoid nodes.r
+Palatine tonsil.r
+Submandibular nodes.r
+Infra-auricular nodes.r
+Tentorium cerebelli.r
+Falx cerebri
+Choroid plexus.r
+Choroid plexus.l
+Temporal pole.l
+Occipital pole.l
+Central sulcus.l
+Parieto-occipital sulcus.l
+Subparietal sulcus.l
+Cingulate sulcus (Marginal part*).l
+Circular sulcus of insula.l
+Collateral sulcus.l
+Anterior occipital sulcus*.l
+Opercular part of inferior frontal gyrus.l
+Orbital part of  inferior frontal gyrus.l
+Triangular part of inferior frontal gyrus.l
+Orbital gyri (Frontomarginal gyrus and sulcus*).l
+Paracentral gyrus and sulcus*.l
+Transverse frontopolar gyrus and sulcus*.l
+Straight gyrus (Gyrus rectus).l
+Lat_Fis-ant-Vertical.l
+Inferior frontal sulcus.l
+Middle frontal gyrus.l
+Orbital gyri.l
+Precentral gyrus.l
+Superior frontal gyrus.l
+Superior frontal sulcus.l
+Paracentral sulcus.l
+Orbital sulci (H-shaped orbital sulci*).l
+Orbital sulci (Lateral Orbital sulcus*).l
+Olfactory sulcus.l
+Precentral sulcus (inferior part)*.l
+Precentral sulcus (Superior part)*.l
+Angular gyrus.l
+Supramarginal gyrus.l
+Postcentral gyrus.l
+Postcentral sulcus.l
+Precuneus.l
+Superior parietal lobule.l
+Intraparietal sulcus.l
+Inferior occipital gyrus and sulcus*.l
+Lingual gyrus.l
+Lateral occipital gyrus (Middle occipital gyrus*).l
+Calcarine sulcus.l
+Cuneus.l
+Superior occipital gyri.l
+Lunate sulcus.l
+Transverse occipital sulcus.l
+Transverse temporal gyri.l
+Temporal plane.l
+Superior temporal gyrus (Lateral part).l
+Lateral occipitotemporal gyrus.l
+Medial occipitotemporal gyrus (Parahippocampal*).l
+Inferior temporal sulcus.l
+Inferior temporal gyrus.l
+Middle temporal gyrus.l
+Superior temporal sulcus.l
+Occipitotemporal sulcus (Lateral part*).l
+Insula (Subcentral gyrus and ant. and post. sulci*).l
+Cingulate gyrus and sulcus (Middle anterior part).l
+Cingulate gyrus and sulcus (Middle posterior part).l
+Cingulate gyrus and sulcus (Posterior dorsal part).l
+Cingulate gyrus (Posteroventral part*).l
+Hippocampus.r
+Hippocampus.l
+Amygdaloid body.r
+Amygdaloid body.l
+Septal nuclei
+Caudate nucleus.r
+Caudate nucleus.l
+Putamen.r
+Putamen.l
+Globus pallidus.r
+Globus pallidus.l
+Lentiform nucleus.r
+Lentiform nucleus.l
+Corpus callosum
+Anterior commissure
+Hippocampal commissure
+Fornix.r
+Fornix.l
+Stria terminalis.r
+Stria terminalis.l
+White matter of telencephalon.l
+Lateral ventricle.r
+Lateral ventricle.l
+Septum pellucidum
+Lat_Fis-ant-Horizont.l
+Lat_Fis-post.l
+Posterior transverse collateral sulcus.l
+Sulcus interm_prim-Jensen.l
+Habenula
+Optic tract.r
+Optic tract.l
+Thalamus.r
+Thalamus.l
+Hypothalamus
+Stria medullaris thalami.r
+Stria medullaris thalami.l
+Posterior commissure
+Third ventricle
+Lateral geniculate body.r
+Medial geniculate body.r
+Mamillary body.l
+Mamillary body.r
+Optic chiasm.r
+Lateral geniculate body.l
+Medial geniculate body.l
+Optic chiasm.l
+Base of peduncle.r
+Base of peduncle.l
+Nucleus of oculomotor nerve.l
+Nucleus of oculomotor nerve.r
+Accessory nucleus of oculomotor nerve.r
+Accessory nucleus of oculomotor nerve.l
+Red nucleus.l
+Red nucleus.r
+Aqueduct of midbrain
+Superior colliculus.r
+Superior colliculus.l
+Inferior colliculus.r
+Inferior colliculus.l
+Midbrain.r
+Interpeduncular fossa.l
+Interpeduncular fossa.r
+Midbrain.l
+Vestibular nuclei.l
+Vestibular nuclei.r
+Nucleus of abducens nerve.l
+Nucleus of abducens nerve.r
+Motor nucleus of facial nerve.l
+Motor nucleus of facial nerve.r
+Superior salivatory nucleus.l
+Superior salivatory nucleus.r
+Pons.r
+Pons.l
+Fourth ventricle
+Anterior cochlear nucleus.l
+Medulla oblongata.l
+Superior medulla oblongata.t
+Inferior medulla oblongata.t
+Pyramid of medulla oblongata.l
+Olive.r
+Olive.l
+Pyramid of medulla oblongata.r
+Nucleus of accessory nerve.r
+Nucleus of accessory nerve.l
+Central canal
+Olfactory nerve (I).r
+Olfactory nerve (I).l
+Optic nerve (II).r
+Optic nerve (II).l
+Oculomotor nerve (III).r
+Oculomotor nerve (III).l
+Sensory root of trigeminal nerve.r
+Sensory root of trigeminal nerve.l
+Trigeminal nerve (V).r
+Inferior alveolar nerve.r
+Mental nerve.r
+Nerve to mylohyoid muscle.r
+Buccal nerve.r
+Posterior division of mandibular nerve.r
+Anterior division of mandibular nerve.r
+Lingual nerve.r
+Maxillary nerve.r
+Ophthalmic nerve.r
+Meningeal branch of maxillary nerve.r
+Trigeminal nerve (V).l
+Mental nerve.l
+Nerve to mylohyoid muscle.l
+Buccal nerve.l
+Posterior division of mandibular nerve.l
+Anterior division of mandibular nerve.l
+Lingual nerve.l
+Maxillary nerve.l
+Ophthalmic nerve.l
+Meningeal branch of maxillary nerve.l
+Inferior alveolar nerve.l
+Motor root of trigeminal nerve.l
+Motor root of trigeminal nerve.r
+Chorda tympani.r
+Chorda tympani.l
+Facial nerve (VII).r
+Facial nerve (VII).l
+Vestibular nerve.l
+Cochlear nerve
+Vestibular nerve.r
+Cochlear nerve.l
+Vestibulocochlear nerve (VIII).l
+Vestibulocochlear nerve (VIII).r
+Glossopharyngeal nerve (IX).r
+Glossopharyngeal nerve (IX).l
+Vagus nerve (X).r
+Vagus nerve (X).l
+Accessory nerve (XI).r
+Accessory nerve (XI).l
+Hypoglossal nerve (XII).r
+Hypoglossal nerve (XII).l
+Abducens nerve (VI).r
+Trochlear nerve (IV).r
+Abducens nerve (VI).l
+Trochlear nerve (IV).l
+Lacrimal gland.r
+Lacrimal gland.l
+Ampulla of lacrimal canaliculus.r
+Lacrimal canaliculus.r
+Ampulla of lacrimal canaliculus.l
+Lacrimal canaliculus.l
+Lacrimal sac.r
+Lacrimal sac.l
+Nasolacrimal duct.r
+Nasolacrimal duct.l
+Suspensory ligament of eyeball.r
+Suspensory ligament of eyeball.l
+Tympanic membrane.r
+Tympanic membrane.l
+Vestibule.r
+Anterior semicircular canal.t
+Anterior bony ampulla.t
+Anterior bony ampulla.j
+Posterior semicircular canal.t
+Posterior semicircular canal.j
+Posterior bony ampulla.t
+Posterior bony ampulla.j
+Common bony limb.t
+Common bony limb.j
+Lateral semicircular canal.t
+Lateral semicircular canal.j
+Lateral bony ampulla.t
+Lateral bony ampulla.j
+Simple bony limb.t
+Simple bony limb.j
+Vestibule.l
+Cochlea.r
+Cochlear cupula.t
+Cochlear cupula.j
+Base of cochlea.t
+Base of cochlea.j
+Spiral canal of cochlea.t
+Spiral canal of cochlea.j
+Cochlea.l
+Anterior semicircular canal.j
+Inferior medulla oblongata.j
+Superior medulla oblongata.j
+Auditory tube.r
+Auditory tube.l
+Wing of central lobule.l
+Uvula of vermis
+Tuber of vermis
+Tonsil of cerebellum.l
+Superior semilunar lobule.l
+Superior cerebellar peduncle.l
+Pyramis of vermis
+Posterior quadrangular lobule.l
+Peduncle of flocculus.l
+Nodule of vermis
+Lingula of cerebellum
+Inferior semilunar lobule.l
+Gracile lobule.l
+Folium of vermis
+Flocculus.l
+Declive
+Culmen
+Central lobule
+Biventral lobule.l
+Anterior quadrangular lobule.l
+Temporal pole.r
+Occipital pole.r
+Central sulcus.r
+Parieto-occipital sulcus.r
+Subparietal sulcus.r
+Cingulate sulcus (Marginal part*).r
+Circular sulcus of insula.r
+Collateral sulcus.r
+Anterior occipital sulcus*.r
+Opercular part of inferior frontal gyrus.r
+Orbital part of  inferior frontal gyrus.r
+Triangular part of inferior frontal gyrus.r
+Orbital gyri (Frontomarginal gyrus and sulcus*).r
+Paracentral gyrus and sulcus*.r
+Transverse frontopolar gyrus and sulcus*.r
+Straight gyrus (Gyrus rectus).r
+Lat_Fis-ant-Vertical.r
+Inferior frontal sulcus.r
+Middle frontal gyrus.r
+Orbital gyri.r
+Precentral gyrus.r
+Superior frontal gyrus.r
+Superior frontal sulcus.r
+Paracentral sulcus.r
+Orbital sulci (H-shaped orbital sulci*).r
+Orbital sulci (Lateral Orbital sulcus*).r
+Olfactory sulcus.r
+Precentral sulcus (inferior part)*.r
+Precentral sulcus (Superior part)*.r
+Angular gyrus.r
+Supramarginal gyrus.r
+Postcentral gyrus.r
+Postcentral sulcus.r
+Precuneus.r
+Superior parietal lobule.r
+Intraparietal sulcus.r
+Inferior occipital gyrus and sulcus*.r
+Lingual gyrus.r
+Lateral occipital gyrus (Middle occipital gyrus*).r
+Calcarine sulcus.r
+Cuneus.r
+Superior occipital gyri.r
+Lunate sulcus.r
+Transverse occipital sulcus.r
+Transverse temporal gyri.r
+Temporal plane.r
+Superior temporal gyrus (Lateral part).r
+Lateral occipitotemporal gyrus.r
+Medial occipitotemporal gyrus (Parahippocampal*).r
+Inferior temporal sulcus.r
+Inferior temporal gyrus.r
+Middle temporal gyrus.r
+Superior temporal sulcus.r
+Occipitotemporal sulcus (Lateral part*).r
+Insula (Subcentral gyrus and ant. and post. sulci*).r
+Cingulate gyrus and sulcus (Middle anterior part).r
+Cingulate gyrus and sulcus (Middle posterior part).r
+Cingulate gyrus and sulcus (Posterior dorsal part).r
+Cingulate gyrus (Posteroventral part*).r
+White matter of telencephalon.r
+Lat_Fis-ant-Horizont.r
+Lat_Fis-post.r
+Posterior transverse collateral sulcus.r
+Sulcus interm_prim-Jensen.r
+Wing of central lobule.r
+Tonsil of cerebellum.r
+Superior semilunar lobule.r
+Superior cerebellar peduncle.r
+Posterior quadrangular lobule.r
+Peduncle of flocculus.r
+Inferior semilunar lobule.r
+Gracile lobule.r
+Flocculus.r
+Biventral lobule.r
+Anterior quadrangular lobule.r
+Tentorium cerebelli.l
+Zonular fibres.r
+Zonular fibres.l
+Zonular fibers-curve.r
+Vitreous body.r
+Vitreous body.l
+Retina.r
+Retina.l
+Sclera.r
+Sclera.l
+Posterior segment of eyeball.r
+Posterior segment of eyeball.l
+Meridians of eyeball.r
+Lens.r
+Lens.l
+Iris.r
+Iris.l
+Internal axis of eyeball.r
+External axis of eyeball
+Equator of eyeball.r
+Cornea.r
+Cornea.l
+Anterior segment of eyeball.r
+Anterior segment of eyeball.l
+Anterior chamber of eyeball.r
+Anterior chamber of eyeball.l
+Nucleus of trochlear nerve.l
+Nucleus of trochlear nerve.r
+Anterior cochlear nucleus.r
+Posterior cochlear nucleus.l
+Inferior salivatory nucleus.r
+Posterior cochlear nucleus.r
+Posterior nucleus of vagus nerve.l
+Nucleus of hypoglossal nerve.l
+Posterior nucleus of vagus nerve.r
+Nucleus of hypoglossal nerve.r
+Nucleus of solitary tract.l
+Nucleus of solitary tract.r
+Nucleus ambiguus.r
+Nucleus ambiguus.l
+Medulla oblongata.r
+Inferior salivatory nucleus.l
+Frontal region.r
+Eyebrow.r
+Frontal region.l
+Eyebrow.l
+Mastoid region.r
+Occipital region.r
+Parietal region.r
+Temporal region.r
+Mastoid region.l
+Occipital region.l
+Parietal region.l
+Temporal region.l
+Cavity of concha.l
+Cavity of concha.r
+Concha of auricle.l
+Concha of auricle.r
+Cymba conchae.l
+Cymba conchae.r
+Anterior notch of auricle.r
+Antihelix.r
+Antitragus.r
+Apex of auricle.r
+Auricular region.r
+Auricular tubercle.r
+Crura of antihelix.r
+Eminentia conchae.r
+Eminentia fossae triangularis.r
+Eminentia scaphae.r
+Fossa antihelica.r
+Helix.r
+Intertragic incisure.r
+Lobule of auricle.r
+Scapha.r
+Tragus.r
+Triangular fossa.r
+Posterior auricular groove.r
+Anterior notch of auricle.l
+Antihelix.l
+Antitragus.l
+Apex of auricle.l
+Auricular region.l
+Auricular tubercle.l
+Crura of antihelix.l
+Eminentia conchae.l
+Eminentia fossae triangularis.l
+Eminentia scaphae.l
+Fossa antihelica.l
+Helix.l
+Intertragic incisure.l
+Lobule of auricle.l
+Scapha.l
+Tragus.l
+Triangular fossa.l
+Posterior auricular groove.l
+Orbital region.r
+Orbital region.l
+Upper eyelid.t
+Upper eyelid.j
+Lower eyelid.t
+Lower eyelid.j
+Eyelids.t
+Eyelids.j
+Nasal region.r
+Nasal region.l
+External nose.t
+External nose.j
+Ala of nose.t
+Root of nose.t
+Root of nose.j
+Apex of nose.t
+Apex of nose.j
+Angle of mouth.r
+Labial commissure.r
+Oral region.r
+Philtrum.r
+Tubercle of upper lip.r
+Angle of mouth.l
+Labial commissure.l
+Oral region.l
+Philtrum.l
+Tubercle of upper lip.l
+Mouth.t
+Upper lip.t
+Upper lip.j
+Buccal region.r
+Infra-orbital region.r
+Mental region.r
+Mentolabial sulcus.r
+Parotideomasseteric region.r
+Zygomatic region.r
+Nasolabial sulcus.r
+Buccal region.l
+Infra-orbital region.l
+Mental region.l
+Mentolabial sulcus.l
+Parotideomasseteric region.l
+Zygomatic region.l
+Nasolabial sulcus.l
+Cheek.t
+Cheek.j
+Chin.t
+Chin.j
+Hairs of eyebrow.r
+Hairs of eyebrow.l
+Eyelashes.l
+Eyelashes.r
+Hairs of head
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
