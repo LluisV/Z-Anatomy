@@ -1,13 +1,13 @@
 # Z-Anatomy
 Z-Anatomy app Unity project
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[Creative Commons Attribution-NoDerivatives 4.0 International License][cc-by-nd].
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+[![CC BY-ND 4.0][cc-by-nd-image]][cc-by-nd]
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[cc-by-nd]: [http://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[cc-by-nd-image]: https://licensebuttons.net/l/by-nd/4.0/88x31.png
+[cc-by-nd-shield]: [https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)
