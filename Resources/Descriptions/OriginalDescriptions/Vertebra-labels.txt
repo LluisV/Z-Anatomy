@@ -1,0 +1,20 @@
+VERTEBRA
+    Vertebral body
+        Intervertebral surface
+        Annular epiphysis
+    Vertebral arch
+        Pedicle of vertebral arch
+        Lamina of vertebral arch
+            Pars interarticularis of vertebral arch
+    Intervertebral foramen
+    Superior vertebral notch
+    Inferior vertebral notch
+    Vertebral foramen
+    Spinous process
+    Transverse process
+        Lateral part of transverse process
+        Costal part of transverse process
+    Superior articular process of vertebra
+        Superior articular facet of vertebra
+    Inferior articular process of vertebra
+        Inferior articular facet of vertebra

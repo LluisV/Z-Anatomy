@@ -1,0 +1,198 @@
+
+
+SUBCOMMISSURAL ORGAN
+
+
+The subcommissural organ (SCO) is one of the circumventricular organs of the brain. 
+
+It is a small glandular structure that is located in the posterior region of the third ventricle, near the entrance of the cerebral aqueduct. 
+
+The name of the SCO comes from its location beneath the posterior commissure, a bundle of nerve fibers interconnecting parts of the two hemispheres of the brain. 
+
+The SCO is one of the first differentiated brain structures to develop. 
+
+Although it is evolutionarily an ancient structure that is present throughout the chordate phylum, its arrangement varies somewhat among species. 
+
+Functions of the SCO are unknown; some evidence indicates it may participate in clearance of certain compounds from the cerebrospinal fluid, and possibly in morphogenetic mechanisms, such as development of the posterior commissure.
+
+
+== Structure ==
+
+Cells of the subcommissural organ, which are specialized in the secretion of glycoproteins (see below), are arranged into two layers: a superficial layer called the ependyma and an underlying layer called the hypendyma. 
+
+The ependyma consists of long, columnar cells that release their secretions into the ventricular cerebrospinal fluid. 
+
+The hypendyma (which is most prominent in mammals) is characterized by numerous capillaries and glial cells. 
+
+Hypendymal cells and ependymal cells both are secretory in nature; their processes project to local blood vessels and also to the subarachnoidal space.The ependymal cell bodies present a clear zonation that is especially marked in certain species: 1) In the perinuclear region, large and dilated cisternae of the rough endoplasmic reticulum (RER) are the most distinctive ultrastructural feature of virtually all species; 2) the intermediate region consists mainly of RER and Golgi apparatus; 3) the subapical region is relatively narrow, and includes microtubules, mitochondria and smooth endoplasmic reticulum; and 4) the apical region comprises a large protrusion into the ventricle. 
+
+There are no neuronal cell bodies within the subcommissural organ, although the specialized cells receive some innervation from outside neurons.
+
+
+== Function ==
+
+Ependymal cells secrete high molecular mass glycoproteins into the cerebrospinal fluid, in which the bulk of them condense to form a filamentous structure named Reissner’s fiber. 
+
+The subcommissural organ/Reissner’s fiber complex is thought to be involved in the reabsorption and circulation of the cerebrospinal fluid, and with functions related to electrolyte and water balance.One of the proteins secreted by the subcommissural organ, and which is present in Reissner’s fiber, is spondin. 
+
+SCO-spondin is a “giant” (5000 amino acids) glycoprotein (thrombospondin superfamily) found in Vertebrata. 
+
+This glycoprotein shares molecular domains with axonal pathfinding molecules. 
+
+The ependymal cells and the SCO–spondin secretion are thought to play a role in homeostasis.The ependymal cells of the SCO are also involved in the production of brain transthyretin, a protein involved in the transport of thyroid hormones in blood.Some studies indicate the presence of both tyrosine-hydroxylase-immunoreactive nerve fibers and dopamine receptors in the SCO ependyma. 
+
+In addition, there is evidence suggesting that the SCO activity in adult animals may be regulated by serotonin.All capillaries in the central nervous system with a functional blood-brain barrier express glucose transporters (GLUT1). 
+
+These transporters are generally absent in leaky barrier structures. 
+
+The circumventricular organs that are known to have leaky barrier capillaries were stained by fibronectin antibodies but not by GLUT1 antibodies. 
+
+The subcommissural organ appears to be unique in that it shows neither GLUT1 nor capillary.
+
+
+=== Reissner's fiber ===
+
+
+Reissner's fiber is also thought to be important in morphogenetic neuronal processes, being involved in neuronal survival, aggregation and neurite extension. 
+
+In vitro studies demonstrated that the presence of RF, in conjunction with glial cells, is essential to the survival of neuronal cells. 
+
+The studies seem to point that the RF might bind some of the growth factors produced by glial cells and transport them to the neurons. 
+
+On the process of neuronal aggregation, RF seems to serve as a control factor in direct cell-to-cell communication, favoring neuronal aggregation when the density of neurons is low and preventing this aggregation when the density gets higher. 
+
+Although the mechanism behind this is not well understood, it is known to be linked to the different domains in SCO-spondin that are related to coagulation factors and TSRs, as referred above. 
+
+Furthermore, the RF as a part on the neurite extension, promoting neurite outgrowth from both spinal and cortical neurons, in cell cultures, which may also be connected to the TSR domains of SCO-spondin.
+
+
+== SCO-spondin, a glycoprotein of the SCO/RF complex ==
+
+The primary structure of the major constituent of bovine RF, SCO-spondin, has been fully established as a large N-glycosylated protein (450 kDa). 
+
+Many lines of evidence denote that SCO-spondin plays a role in CNS development. 
+
+This molecule belongs to a protein superfamily exhibiting conserved motifs of the thrombospondin type 1 repeat. 
+
+Proteins of this family are strongly expressed during mammalian CNS development, being involved in mechanisms of cellular adhesion and axonal pathfinding (a process by which neurons send out axons to reach the correct targets during neural development).Numerous investigations have been directed towards the identification and characterization of the secretory compounds of the SCO, clarifying partially its function. 
+
+Immunoblot analyses of bovine SCO using antibodies against RF glycoproteins allowed the identification of high molecular weight glycoproteins of 540, 450, 320 and 190 kDa.
+The 540 and the 320 kDa compounds would correspond to precursor forms.
+
+
+=== Multidomain organization ===
+
+The main SCO-spondin isoform consists of multiple domains. 
+
+This multidomain organization is a special feature of the Chordate Phylum, and there is a high degree of conservation in the amino acids composition in mammals. 
+
+The complete sequence and modular organization of SCO-spondin was first characterized in Bos taurus. 
+The structure of this protein is unique as it presents a mosaic arrangement of these domains along the backbone.
+The putative function of SCO-spondin in neuronal differentiation is discussed regarding these features and homologies with other developmental molecules of the central nervous system exhibiting TSR domains, and involved in axonal guidance. 
+
+Peptides corresponding to SCO-spondin TSR domains strongly increased adhesivity and neuritic outgrowth of cortical neurons and induced disaggregation of spinal cord neurons. 
+
+Therefore, it is a candidate to interfere with neuronal development and/or axonal guidance during ontogenesis of the central nervous system in the modulation of side-to-side and side-to-substratum interactions, and also in promoting neurite outgrowth.The identification of conserved domains including Emilin (EMI), von Willebrand factor D (vWD) low-density lipoprotein receptor type A repeats (LDLrA) domains, SCO repeats (SCORs), 26 thrombospondin type 1 repeats (TSRs), a coagulation factor 5/8 type C (FA5-8C) or discoidin motif and a C-terminal cystin knot (CTCK) domain provides a wider insight into the putative function of this protein. 
+
+Similar types of arrangement was encountered in zonadhesins and immunoglobulin G (IgG) FC binding fragment which may account for SCO-spondin functional aspect on promoting cell-to-substratum adhesivity.The presence of low-density lipoprotein receptor type A (LDLrA) domains repeated ten times in the consensus sequence could provide a hint as to the function of SCORs, since LDLrA are known to interact with proteases or protease inhibitors. 
+
+There may be a functional link between LDLrAs and SCORs, which could both be involved in the regulation of either protease activation or protease inhibition. 
+
+The motifs coagulation factor 5/8 type C or discoidin and thrombospondin type 1 repeat (TSR) present in SCO-spondin consensus were initially described in blood proteins, where they were shown to play a role in coagulation or platelet aggregation. 
+
+SCO-spondin and F-spondin share a similar pattern of expression in the floor plate, flexural organ and subcommissural organ and could have a redundant activity. 
+
+The biological function of F-spondin and SCO-spondin on the deflection of commissural axons in the neural tube was assessed respectively by experiments of gain and loss of function and by analyses of mutants with defective floor plate. 
+
+F-spondin and SCO-spondin were both shown to promote neurite outgrowth of various neuronal cell populations, in cell culture.SCO-spondin may interfere with several biological events during early ontogenetical development of the CNS. 
+
+Nevertheless, SCO-spondin is also present during the adult life, and similarly to thrombospondins, which act on various biological systems, i.e., neuronal differentiation, angiogenesis and platelet aggregation.
+
+
+== Development ==
+
+
+
+=== SCO ===
+
+Despite being a much conserved structure throughout evolution, there are some differences on the SCO from different mammals. 
+
+It is the first secretory structure to differentiate and remains fully developed and functional during the life of almost every vertebrate, excluding bats, anthropoid apes and humans. 
+
+More specifically, in humans, the SCO development has a regressive nature. 
+
+It reaches its apex development in fetus from 3 to 5 month old, functioning as a fully active secretory structure of the brain during this time span, and extending from the pineal recess over the posterior commissure to the mesocoelic recess. 
+
+It is composed by a characteristic high columnar epithelium, which is not found in the adult SCO. 
+
+Following this maxed developed state, the SCO starts regressing and in children from 3 to 4 years old it already has a vestigial character, being reduced to islet like structures on the adult. 
+
+Although the remaining cells can possess some secretory material the SCO is truly vestigial in both structure and secretory function, in adults.
+
+
+=== SCO-spondin ===
+
+As part of the embryonic cerebrospinal fluid (eCSF), SCO-spondin is of the uttermost importance in the development of the neuronal system, being a key protein in the balancing of differentiation and proliferation of the neuroepithelium. 
+
+It starts being secreted by the diencephalic floor plate in the first embryonic stages playing an important part in the development and differentiation of structures such as the pineal gland. 
+
+In particular, the SCO-spondin appears to have a major role on the growth of the posterior commissure (PC), which was proved when mutants lacking SCO, and hence having no SCO-spondin, were unable to form a functional PC. 
+
+On early stages of development the axonal growth is stimulated, being inhibited afterwards. 
+
+A steep gradient of spondin expression in the neuroepithelium signals the need for different processes to take place, favoring the fasciculation on the cephalic region and the incorporation of new neurons on the caudal region. 
+
+As such, the lower concentrations of SCO-spondin in the caudal region favor the axonal outgrowth and incorporation of new axons on the posterior commissure and the higher concentrations in the cephalic region promotes the interactions between the neighboring axons. 
+
+In conjugation with the secretion of SCO-spondin, the midline positioning of the SCO assumes a great importance on the axon guidance process. 
+
+This positioning facilitates the signaling of the turning points for the axons, through the spreading of spondin.
+In addition to the functions in axon guidance and related growth of the posterior commissure, the SCO-spondin also appears to have a role on the adhesion of the trophoblast to the uterine walls. 
+There is a slightly different SCO-spondin produced in the trophoblast, most likely due to alternative splicing. 
+
+This spondin may recognize the classic protein on the uterine wall, facilitating the adhesion.
+
+
+== Clinical significance ==
+
+
+
+=== Hydrocephalus ===
+
+Given that the subcommissural organ is not highly permeable and does not possess fenestrated capillaries like other subventricular organs, it has emerged as a major site of congenital hydrocephalus. 
+
+It is suggested that this is related to immunological blockage of SCO secretions and Sylvian's aqueduct malformation and obliteration or turbulent cerebrospinal fluid flow due to the absence of Reissner's fibers. 
+
+There is evidence that in transgenic mice the overexpression of Sox3 in the dorsal midline of the diencephalon in a dose-dependent manner and that the conditional inactivation of presenilin-1 or the lack of huntingtin in wnt cell lineages leads to congenital hydrocephalus, which highlights the role of these proteins mediating the relation between the SCO and the condition (see also: Wnt signaling pathway for more information). 
+
+A more recent study using HTx rats reinforced the idea that the abnormal and dysfunction of the SCO precedes the development of the hydrocephalus.
+
+
+=== Other disease ===
+
+It is reported that in spontaneously hypertensive rats there is a relation between SCO and hypertension due to changing in its secretor activity and protein composition.
+
+
+== History ==
+
+In 1860, Ernst Reissner, anatomist at the University of Dorpat, published a monograph on the microscopic structure of the spinal cord of Petromyzon fluviatilis. 
+
+He described a string of 1.5 μm in diameter characterized by its high refringence, its extremely regular shape, and its lying free within the central canal. 
+
+In 1866, Karl Kutschin confirmed Reissner’s observations and named the fibrous structure Reissner’s fiber.Edinger (1892) described, in sharks, what later was known as “the subcommissural organ”. 
+
+Studnicka (1900), called attention to uncommonly tall ependymal cells covering the posterior comissure of P. fluviatilis. 
+
+Sargent, also in 1900, establishes the basis of what is presently regarded as the subcomissural organ – Reissner fiber complex. 
+
+Finally, in 1910, Dendy and Nicholls introduce the term “subcommissural organ” to describe this brain gland.The rich vascularization of the SCO was first reported by Pesonen (1940). 
+
+In 1958, Helmut Hofer postulated that this organ, despite its structural and functional differences from other circumventricular organs, is a highly secretory component of the circumventricular organ system.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Subcommissural_organ

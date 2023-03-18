@@ -1,0 +1,1172 @@
+
+
+OLIVOCOCHLEAR SYSTEM
+
+
+The olivocochlear system is a component of the auditory system involved with the descending control of the cochlea. 
+
+Its nerve fibres, the olivocochlear bundle (OCB), form part of the vestibulocochlear nerve (VIIIth cranial nerve, also known as the auditory-vestibular nerve), and project from the superior olivary complex in the brainstem (pons) to the cochlea.
+
+
+== Anatomy of the olivocochlear system ==
+
+
+
+=== Cell bodies of origin ===
+
+
+The olivocochlear bundle (OCB) originates in the superior olivary complex in the brainstem. 
+
+The vestibulocochlear anastomosis carries the efferent axons into the cochlea, where they innervate the organ of Corti (OC). 
+
+The OCB contains fibres projecting to both the ipsilateral and contralateral cochleae, prompting an initial division into crossed (COCB) and uncrossed (UCOCB) systems. 
+
+More recently, however, the division of the OCB is based on the cell bodies’ site of origin in the brainstem relative to the medial superior olive (MSO). 
+
+The medioventral periolivary (MVPO) region, also known as the ventral nucleus of the trapezoid body, a diffuse region of neurons located medial to the MSO, gives rise to the medial olivocochlear system (MOCS). 
+
+The lateral superior olive (LSO), a distinct nucleus of neurons located lateral to the MSO, gives rise to the lateral olivocochlear system (LOCS). 
+
+The MOCS neurons are large multipolar cells, while the LOCS are classically defined as composed of small spherical cells. 
+
+This division is viewed as being more meaningful with respect to OCB physiology. 
+
+In addition to these classically defined olivocochlear neurons, advances in tract tracing methods helped reveal a third class of olivocochlear neurons, termed shell neurons, which surround the LSO. 
+
+Thus, LOCS class cell bodies within the LSO are referred to as intrinsic LOCS neurons, while those surrounding the LSO are referred to as shell, or extrinsic, LOCS neurons. 
+
+Shell neurons are typically large, and morphologically are very similar to MOCS neurons.
+
+
+=== Olivocochlear fibers ===
+
+The LOCS (originating from both the intrinsic and shell neurons) contains unmyelinated fibres that synapse with the dendrites of the Type I spiral ganglion cells projecting to the inner hair cells. 
+
+While the intrinsic LOCS neurons tend to be small (~10 to 15 µm in diameter), and the shell OC neurons are larger (~25 µm in diameter), it is the intrinsic OC neurons that possess the larger axons (0.77 µm compared to 0.37 µm diameter for shell neurons). 
+
+In contrast, the MOCS contains myelinated nerve fibres which innervate the outer hair cells directly. 
+
+Although both the LOCS and MOCS contain crossed (contralateral) and uncrossed (ipsilateral) fibres, in most mammalian species the majority of LOCS fibres project to the ipsilateral cochlea, whilst the majority of the MOCS fibres project to the contralateral cochlea. 
+
+The proportion of fibres in the MOCS and LOCS also varies between species, but in most cases the fibres of the LOCS are more numerous. 
+
+In humans, there are an estimated (average) 1,000 LOCS fibres and 360 MOCS fibres, however the numbers vary between individuals. 
+
+The MOCS gives rise to a frequency-specific innervation of the cochlea, in that MOC fibres terminate on the outer hair cells at the place in the cochlea predicted from the fibres’ characteristic frequency, and are thus tonotopically organised in the same fashion as the primary afferent neurons. 
+
+The fibres of the LOCS also appear to be arranged in a tonotopic fashion. 
+
+However, it is not known whether the characteristic frequencies of the LOCS fibres coincide with the characteristic frequencies of the primary afferent neurons, since attempts to selectively stimulate the fibres of the LOCS have been largely unsuccessful. 
+
+Intrinsic LOCS derived axons travel only approximately 1 µm within the organ of Corti, generally spiraling apically. 
+
+They give off a small tuft of synaptic boutons that is compact in its extent, often involving less than 10 IHCs. 
+
+In comparison, shell neurons spiral both apically and basally, and can cover large territories within the organ of Corti. 
+
+The shell axons often cover 1-2 octaves of tonotopic length. 
+
+Their terminal arbor is quite sparse, however.
+
+
+== Physiology of the olivocochlear system ==
+
+
+
+=== Neurophysiology ===
+
+All currently known activity of the olivocochlear system is via a nicotinic class neurotransmitter receptor complex that is coupled with a calcium-activated potassium channel. 
+
+Together, these systems generate an unusual synaptic response to stimulation from the brain. 
+
+The olivocochlear synaptic terminals contain various neurotransmitters and neuroactive peptides. 
+
+The major neurotransmitter employed by the olivocochlear system is acetylcholine (ACh), although gamma-aminobutyric acid (GABA) is also localized in the terminals. 
+
+ACh release from the olivocochlear terminals activates an evolutionarily ancient cholinergic receptor complex composed of the nicotinic alpha9 and alpha10 subunits. 
+
+While these subunits create a ligand-gated ion channel that is especially permeable to calcium and monovalent cations the cellular response of the outer hair cells to ACh activation is hyperpolarizing, rather than the expected depolarizing response. 
+
+This comes about due to the rapid activation of an associated potassium channel. 
+
+This channel, the apamin sensitive, small conductance SK2 potassium channel, is activated by calcium that is likely released into the cytoplasm via calcium-induced calcium release from calcium stores within the subsynaptic cisternae as a response to incoming calcium from the nicotinic complex. 
+
+However, it has not been ruled out that some incoming calcium through the nicotinic alpha9alpha10 channel may also directly activate the SK channel. 
+
+Electrophysiological responses recorded from outer hair cells following ACh stimulation therefore show a small inward current (carried largely by incoming calcium via the acetylcholine receptor) that is immediately followed by a large outward current, the potassium current, that hyperpolarizes the outer hair cell.
+When the olivocochlear bundle is surgically transected prior to the onset of hearing, auditory sensitivity is compromised. 
+
+However, upon genetic ablation of either the alpha9 or alpha10 genes, such effects are not observed. 
+
+This may be due to the different nature of the lesions- the surgical lesion results in complete loss of all olivocochlear innervation to the hair cells, while the genetic manipulations result in much more selective functional loss- that of the targeted gene only. 
+
+Any remaining neuroactive substances that can be released by the intact synaptic terminals can still activate the hair cells. 
+
+Indeed, upon genetic ablation of one of the neuroactive peptides present in the LOCS terminals, consequences similar to that following the surgical lesion were observed, demonstrating that the effects of the surgery were most likely due to loss of this peptide, and not the ACh present in the synaptic terminals.
+
+
+=== Effects of electrical stimulation ===
+
+In animals, the physiology of the MOCS has been studied far more extensively than the physiology of the LOCS. 
+
+This is because the myelinated fibres of the MOCS are easier to electrically stimulate and record. 
+
+Consequently, relatively little is known about the physiology of the LOCS.Many studies performed on animals in vivo have stimulated the olivocochlear bundle (OCB) using shock stimuli delivered by electrodes placed on the nerve bundle. 
+
+These studies have measured the output of the auditory nerve (AN), with and without OCB stimulation. 
+
+In 1956, Galambos activated the efferent fibres of the cat by delivering shock stimuli to the floor of the fourth ventricle (at the decussation of the COCB). 
+
+Galambos observed a suppression of the compound action potentials of the AN (referred to as the N1 potential) evoked by low-intensity click stimuli. 
+
+This basic finding was repeatedly confirmed (Desmedt and Monaco, 1961; Fex, 1962; Desmedt, 1962; Wiederhold, 1970). 
+
+An efferent suppression of N1 was also observed by stimulating the MOCS cells bodies in the medial SOC, confirming that the N1 suppression was the result of MOC (not LOC) stimulation. 
+
+More recently, several researchers have observed a suppression of cochlear neural output during stimulation of the inferior colliculus (IC) in the midbrain, which projects to the superior olivary complex (SOC) (Rajan, 1990; Mulders and Robertson, 2000; Ota et al., 2004; Zhang and Dolan, 2006). 
+
+Ota et al. (2004) also showed that the N1 suppression in the cochlea was greatest at the frequency corresponding to the frequency placement of the electrode in the IC, providing further evidence for tonotopic organisation of the efferent pathways.
+These findings led to the current understanding that MOC activity decreases the active process of OHCs, leading to a frequency-specific reduction of cochlear gain.
+
+
+=== Acoustically evoked responses of the MOCS ===
+
+
+Electrical stimulation in the brainstem can result in (i) the entire MOCS being stimulated, (ii) a discharge rate (up to 400 sec-1) much higher than is normally evoked by sound (up to 60 sec-1), and (iii) electrical stimulation of neurons other than MOCS fibres. 
+
+Therefore, electrical stimulation of the MOCS may not give an accurate indication of its biological function, nor the natural magnitude of its effect.
+The MOCS’ response to sound is mediated through the MOC acoustic reflex pathway (see inset), which had been previously investigated using anterograde and retrograde labelling techniques (Aschoff et al., 1988; Robertson and Winter, 1988). 
+
+Acoustic stimulation of the inner hair cells sends a neural signal to the posteroventral cochlear nucleus (PVCN), and the axons of the neurons from the PVCN cross the brainstem to innervate the contralateral MOC neurons. 
+
+In most mammals, the MOC neurons predominantly project to the contralateral side (forming the ipsilateral reflex), with the remainder projecting to the ipsilateral side (forming the contralateral reflex).
+The strength of the reflex is weakest for pure tones, and becomes stronger as the bandwidth of the sound is increased (Berlin et al., 1993), hence the maximum MOCS response is observed for broadband noise (Guinan et al., 2003). 
+
+Researchers have measured the effects of stimulating the MOCS with sound. 
+
+In cats, Liberman (1989) showed that contralateral sound (resulting in MOCS stimulation) reduced the N1 potential, a suppression which was eliminated upon transection of the olivocochlear bundle (OCB). 
+
+In humans, the largest amount of evidence for the action of efferents has come from the suppression of otoacoustic emissions (OAEs) following acoustic stimulation.
+Using acoustic stimuli to activate the MOC reflex pathway, recordings have been made from single efferent fibres in guinea pigs and cats. 
+
+Both studies confirmed that MOC neurons are sharply tuned to frequency, as previously suggested by Cody and Johnstone (1982), and Robertson (1984). 
+
+They also showed that the firing rate of MOC neurons increased as the intensity of sound increased from 0 to 100 dB SPL, and have comparable thresholds (within ~15 dB) to afferent neurons. 
+
+Furthermore, both studies showed that most MOC neurons responded to sound presented in the ipsilateral ear, consistent with the majority of mammalian MOC neurons being contralaterally located. 
+
+No recordings have been made from MOC fibres in humans. because invasive in vivo experiments are not possible. 
+
+In other primate species however, it has been shown that about 50-60% of MOC fibres are crossed (Bodian and Gucer, 1980; Thompson and Thompson, 1986).
+
+
+=== Proposed functions of the MOCS ===
+
+The hypothesised functions of the MOCS fall into three general categories; (i) cochlear protection against loud sounds, (ii) development of cochlea function, and (iii) detection and discrimination of sounds in noise.
+
+
+==== Cochlear protection against loud sounds ====
+Cody and Johnstone (1982) and Rajan and Johnstone (1988a; 1988b) showed that constant acoustic stimulation that in (which evokes a strong MOCS response (Brown et al., 1998)) reduced the severity of acoustic trauma. 
+
+This protection was negated in the presence of a chemical known to suppress the action of the olivocochlear bundle (OCB) (strychnine), implicating the action of the MOCS in protection of the cochlea from loud sounds. 
+
+Further evidence for the auditory efferents having a protective role was provided by Rajan (1995a) and Kujawa and Liberman (1997). 
+
+Both studies showed that the hearing loss sustained by animals due to binaural sound exposure was more severe if the OCB was severed. 
+
+Rajan (1995b) also showed a frequency dependence of MOC protection roughly consistent with the distribution of MOC fibres in the cochlea. 
+
+Other studies supporting this function of the MOCS have shown that MOC stimulation reduces the temporary threshold shift (TTS) and permanent threshold shift (PTS) associated with prolonged noise exposure (Handrock and Zeisberg, 1982; Rajan, 1988b; Reiter and Liberman, 1995), and that animals with the strongest MOC reflex sustain less hearing damage to loud sounds (Maison and Liberman, 2000). 
+
+This proposed biological role of the MOCS, protection from loud sounds, was challenged by Kirk and Smith (2003), who argued that the intensity of sounds used in the experiments (≥105 dB SPL) would rarely or never occur in nature, and therefore a protective mechanism for sounds of such intensities could not have evolved. 
+
+This claim (that MOC-mediated cochlear protection is an epiphenomenon) was recently challenged by Darrow et al. (2007), who suggested that the LOCS has an anti-excitotoxic effect, indirectly protecting the cochlea from damage.
+
+
+==== Development of cochlea function ====
+Evidence also exists for the role of the olivocochlear bundle (OCB) in the development of cochlear function. 
+
+Liberman (1990) measured the responses from single AN fibres of adult cats for 6 months after the OCB was severed. 
+
+Liberman did not find any change in AN fibres’ thresholds, tuning curves and I/O functions. 
+
+Walsh et al. (1998) performed a similar experiment, however the researchers severed the OCB of neonatal cats, and recorded from AN fibres one year later. 
+
+In the cats without efferent input to the cochlea, elevated thresholds of the AN, a decreased sharpness of the tuning curves, and decreased SRs were recorded. 
+
+Walsh et al. (1998) proposed that neonatal de-efferentation interferes with normal OHC development and function, hence implicating the OCB in the development of the active processes in the cochlea.
+
+
+==== Detection and discrimination of sounds in noise ====
+The MOC-induced effects discussed thus far have all been observed in experiments conducted in silence (generally in sound-attenuated booths or rooms). 
+
+However, measuring the cochlea’s response to sounds in these conditions may not reveal the true biological function of the MOCS, since evolving mammals are rarely in silent situations, and the MOCS is particularly responsive to noise (Guinan et al., 2003). 
+
+The first experiments investigating the effects of MOC stimulation in the presence of noise were conducted on guinea pigs by Nieder and Nieder (1970a, 1970b, 1970c), who measured cochlear output evoked by click stimuli presented in constant background noise (BGN). 
+
+In this condition, they found that the N1 potential evoked by click stimuli was enhanced during a period of MOC stimulation. 
+
+This finding has been confirmed using both electrical stimulation (Dolan and Nuttall, 1988; Winslow and Sachs, 1987) and acoustic activation (Kawase et al., 1993, Kawase and Liberman, 1993) of the mammalian MOCS. 
+
+Winslow and Sachs (1987) found that stimulating the OCB:
+“...enables auditory nerve fibres to signal changes in tone level with changes in discharge rate at lower signal-to-noise ratios than would be possible otherwise.” (Page 2002)
+One interpretation of these findings is that MOC stimulation selectively reduces the auditory nerve’s response to constant background noise, allowing a greater response to a transient sound. 
+
+In this way, MOC stimulation would reduce the effect of both suppressive and adaptive masking, and for this reason, the process has been referred to as “unmasking” or “antimasking” (Kawase et al., 1993, Kawase and Liberman, 1993). 
+
+Antimasking has been suggested to occur in a similar fashion in humans (Kawase and Takasaka, 1995), and has implications for selective listening since the rapid unmasking of a sound resulting from MOC activation would increase the overall signal-to-noise ratio (SNR), thus facilitating better detection of a target sound.
+
+In humans, psychophysical experiments conducted in constant BGN have also implicated the olivocochlear bundle (OCB) in selective listening. 
+
+The research perhaps most relevant to this thesis has been performed by Scharf and his colleagues. 
+
+In 1993, Scharf et al. presented data from eight patients who had undergone unilateral vestibular neurectomy to treat Ménière’s disease, a procedure which severs the OCB (presumably both the MOCS and the LOCS). 
+
+Scharf et al. (1993) did not find any clear differences in subjects’ thresholds to tones in noise before and after surgery. 
+
+Shortly after this finding, Scharf et al. (1994, 1997) performed a comprehensive set of psychophysical experiments from a total of sixteen patients who had undergone unilateral vestibular neurectomy (including the original eight subjects). 
+
+They measured performance in the psychophysical listening tasks before and after surgery, and found no significant difference in performance for (i) detection of tones, (ii) intensity discrimination of tones, (iii) frequency discrimination of tones, (iv) loudness adaptation, and (v) detection of tones in notched-noise. 
+
+Their only positive finding was that most patients detected unexpected sounds in the operated ear better than in the healthy ear, or the same ear before surgery. 
+
+This result was obtained using a truncated probe-signal procedure which led the patient to expect a certain frequency on each trial. 
+
+Twelve subjects completed this experiment. 
+
+Their procedure was similar to that of Greenberg and Larkin (1968), except only 50% of trials (not 77%) contained a target whose frequency matched that of the auditory cue. 
+
+The other 50% of trials containing a probe whose frequency differed from that of the cue. 
+
+Also, only two probe frequencies were used, one whose frequency was higher than the target, and one whose frequency was lower than the target. 
+
+All trials contained an auditory cue (at the target frequency) prior to the first observation interval. 
+
+The results were used to construct a basic attentional filter, which displayed detection level of the expected (and cued) target frequency and the two unexpected probe frequencies. 
+
+From the two published reports (Scharf et al., 1994, 1997), ears for which the OCB has been lesioned showed an attentional filter with an average depth of about 15%-correct less than those ears for which the OCB was intact. 
+
+Although there is no way to empirically convert this value to dB, a rough estimate based on psychometric functions presented by Green and Swets (1966) yields a value of 2-3 dB. 
+
+Their results have been summarised in the inset figure.Scharf and his colleagues argued that sectioning the OCB in these patients released suppression of unexpected frequencies. 
+
+This effect was not present in all subjects, and large variation between subjects was observed. 
+
+Nevertheless, no other psychophysical characteristics of hearing were affected following sectioning of the OCB. 
+
+Scharf et al. (1997) concluded that OCB-mediated suppression of sounds in the cochlea was responsible for the suppression of unexpected sounds, and thus plays a role in selective attention in normal hearing. 
+
+In contrast to Scharf's theory, Tan et al. (2008) argued that the OCB's role in selective listening pertains to the enhancement of a cued, or expected tone. 
+
+This enhancement may be caused by the activity of the MOCS on the outer hair cells resulting in antimasking.Although Scharf et al.’s (1993, 1994, 1997) experiments failed to produce any clear differences in the basic psychophysical characteristics of hearing (other than the detection of unexpected sounds), many other studies using both animals and humans have implicated the OCB in listening-in-noise tasks using more complex stimuli. 
+
+In constant BGN, rhesus monkeys with intact OCBs have been observed to perform better in vowel discrimination tasks than those without (Dewson, 1968). 
+
+In cats, an intact OCB is associated with better vowel identification (Heinz et al., 1998), sound localisation (May et al., 2004), and intensity discrimination (May and McQuone, 1995). 
+
+All of these studies were performed in constant BGN. 
+
+In humans, speech-in-noise discrimination measurements have been performed on individuals who had undergone unilateral vestibular neurectomy (resulting in OCB sectioning). 
+
+Giraud et al. (1997) observed a small advantage in the healthy ear over the operated ear for phoneme recognition and speech intelligibility in BGN. 
+
+Scharf et al. (1988) had previously investigated the role of auditory attention during speech perception, and suggested that speech-in-noise discrimination is assisted by attentional focus on frequency regions. 
+
+In 2000, Zeng et al., reported that vestibular neurectomy did not directly affect pure-tone thresholds or intensity discrimination, confirming earlier findings of Scharf et al. 1994; 1997. 
+
+For the listening-in-noise tasks, they observed a number of discrepancies between the healthy and operated ear. 
+
+Consistent with the earlier findings of May and McQuone (1995), intensity discrimination in noise was observed to be slightly worse in the ear without olivocochlear bundle (OCB) input. 
+
+However, Zeng et al.’s main finding related to the “overshoot” effect, which was found to be significantly reduced (~50%) in the operated ears. 
+
+This effect was first observed by Zwicker (1965), and was characterised as an increased detection threshold of a tone when it is presented at the onset of the noise compared to when it is presented in constant, steady-state noise. 
+
+Zeng et al. proposed that this finding is consistent with MOCS-evoked antimasking; that is, MOCS-evoked antimasking being absent at the onset of noise however becoming active during steady-state noise. 
+
+This theory was supported by the time course of MOC activation; being similar to the time course of the overshoot effect (Zwicker, 1965), as well as the overshoot effect being disrupted in subjects with sensorineural hearing loss, for whom the MOCS would be most likely ineffectual (Bacon and Takahashi, 1992).
+
+
+
+https://en.wikipedia.org/wiki/Olivocochlear_system
+;;;ES;;;
+
+
+
+SISTEMA OLIVOCOCLEAR
+
+
+El sistema olivococlear es un componente del sistema auditivo involucrado con el control descendente de la cóclea.
+
+Sus fibras nerviosas, el haz olivococlear (OCB), forman parte del nervio vestibulococlear (VIII nervio craneal, también conocido como nervio auditivo-vestibular), y se proyectan desde el complejo olivar superior en el tronco del encéfalo (puente) hasta la cóclea.
+
+
+== Anatomía del sistema olivococlear ==
+
+
+
+=== Cuerpos celulares de origen ===
+
+
+El haz olivococlear (OCB) se origina en el complejo olivar superior en el tronco encefálico.
+
+La anastomosis vestibulococlear transporta los axones eferentes hacia la cóclea, donde inervan el órgano de Corti (OC).
+
+El OCB contiene fibras que se proyectan tanto a la cóclea ipsilateral como a la contralateral, lo que provoca una división inicial en sistemas cruzados (COCB) y no cruzados (UCOCB).
+
+Más recientemente, sin embargo, la división de la OCB se basa en el sitio de origen de los cuerpos celulares en el tronco encefálico en relación con la oliva superior medial (MSO).
+
+La región periolivar medioventral (MVPO), también conocida como el núcleo ventral del cuerpo trapezoidal, una región difusa de neuronas ubicada medial al MSO, da lugar al sistema olivococlear medial (MOCS).
+
+La oliva superior lateral (LSO), un núcleo distinto de neuronas ubicado lateralmente a la MSO, da lugar al sistema olivococlear lateral (LOCS).
+
+Las neuronas MOCS son grandes células multipolares, mientras que las LOCS se definen clásicamente como compuestas de pequeñas células esféricas.
+
+Esta división se considera más significativa con respecto a la fisiología OCB.
+
+Además de estas neuronas olivococleares clásicamente definidas, los avances en los métodos de rastreo de tractos ayudaron a revelar una tercera clase de neuronas olivococleares, denominadas neuronas de capa, que rodean el LSO.
+
+Por lo tanto, los cuerpos celulares de clase LOCS dentro del LSO se denominan neuronas LOCS intrínsecas, mientras que los que rodean el LSO se denominan neuronas LOCS de capa o extrínsecas.
+
+Las neuronas de capa suelen ser grandes y morfológicamente muy similares a las neuronas MOCS.
+
+
+=== Fibras olivococleares ===
+
+El LOCS (que se origina tanto en las neuronas intrínsecas como en la capa) contiene fibras amielínicas que hacen sinapsis con las dendritas de las células ganglionares espirales Tipo I que se proyectan hacia las células ciliadas internas.
+
+Mientras que las neuronas LOCS intrínsecas tienden a ser pequeñas (~10 a 15 µm de diámetro), y las neuronas OC de la cubierta son más grandes (~25 µm de diámetro), son las neuronas OC intrínsecas las que poseen los axones más grandes (0,77 µm en comparación con 0,37 µm de diámetro para las neuronas de la cubierta).
+
+Por el contrario, el MOCS contiene fibras nerviosas mielinizadas que inervan directamente las células ciliadas externas.
+
+Aunque tanto LOCS como MOCS contienen fibras cruzadas (contralaterales) y no cruzadas (ipsilaterales), en la mayoría de las especies de mamíferos la mayoría de las fibras LOCS se proyectan hacia la cóclea ipsilateral, mientras que la mayoría de las fibras MOCS se proyectan hacia la cóclea contralateral.
+
+La proporción de fibras en MOCS y LOCS también varía entre especies, pero en la mayoría de los casos las fibras de LOCS son más numerosas.
+
+En los humanos, hay un estimado (promedio) de 1000 fibras LOCS y 360 fibras MOCS, sin embargo, los números varían entre individuos.
+
+El MOCS da lugar a una inervación específica de la frecuencia de la cóclea, en la que las fibras MOC terminan en las células ciliadas externas en el lugar de la cóclea predicho a partir de la frecuencia característica de las fibras y, por lo tanto, se organizan tonotópicamente de la misma manera que el primario. neuronas aferentes.
+
+Las fibras del LOCS también parecen estar dispuestas de forma tonotópica.
+
+Sin embargo, no se sabe si las frecuencias características de las fibras LOCS coinciden con las frecuencias características de las neuronas aferentes primarias, ya que los intentos de estimular selectivamente las fibras LOCS han fracasado en gran medida.
+
+Los axones derivados de LOCS intrínsecos viajan solo aproximadamente 1 µm dentro del órgano de Corti, generalmente en espiral apical.
+
+Emiten un pequeño mechón de botones sinápticos que es compacto en su extensión, a menudo involucrando menos de 10 IHC.
+
+En comparación, las neuronas del caparazón giran en espiral tanto apical como basalmente, y pueden cubrir grandes territorios dentro del órgano de Corti.
+
+Los axones de la concha a menudo cubren 1-2 octavas de longitud tonotópica.
+
+Sin embargo, su cenador terminal es bastante escaso.
+
+
+== Fisiología del sistema olivococlear ==
+
+
+
+=== Neurofisiología ===
+
+Toda la actividad conocida actualmente del sistema olivococlear se realiza a través de un complejo receptor de neurotransmisores de clase nicotínica que se acopla con un canal de potasio activado por calcio.
+
+Juntos, estos sistemas generan una respuesta sináptica inusual a la estimulación del cerebro.
+
+Los terminales sinápticos olivococleares contienen varios neurotransmisores y péptidos neuroactivos.
+
+El principal neurotransmisor empleado por el sistema olivococlear es la acetilcolina (ACh), aunque el ácido gamma-aminobutírico (GABA) también se localiza en las terminales.
+
+La liberación de ACh de las terminales olivococleares activa un complejo receptor colinérgico evolutivamente antiguo compuesto por las subunidades nicotínicas alfa9 y alfa10.
+
+Si bien estas subunidades crean un canal iónico activado por ligando que es especialmente permeable al calcio y a los cationes monovalentes, la respuesta celular de las células ciliadas externas a la activación de la ACh es hiperpolarizante, en lugar de la respuesta despolarizante esperada.
+
+Esto se produce debido a la rápida activación de un canal de potasio asociado.
+
+Este canal, el canal de potasio SK2 de pequeña conductancia y sensible a la apamina, es activado por calcio que probablemente se libera en el citoplasma a través de la liberación de calcio inducida por calcio de las reservas de calcio dentro de las cisternas subsinápticas como respuesta al calcio entrante del complejo nicotínico.
+
+Sin embargo, no se ha descartado que algo de calcio entrante a través del canal nicotínico alfa9alfa10 también pueda activar directamente el canal SK.
+
+Las respuestas electrofisiológicas registradas en las células ciliadas externas después de la estimulación con ACh muestran, por lo tanto, una pequeña corriente de entrada (transportada en gran parte por el calcio entrante a través del receptor de acetilcolina) seguida inmediatamente por una gran corriente de salida, la corriente de potasio, que hiperpolariza la célula ciliada externa.
+Cuando el haz olivococlear se secciona quirúrgicamente antes del inicio de la audición, la sensibilidad auditiva se ve comprometida.
+
+Sin embargo, tras la ablación genética de los genes alfa9 o alfa10, tales efectos no se observan.
+
+Esto puede deberse a la diferente naturaleza de las lesiones: la lesión quirúrgica da como resultado la pérdida completa de toda la inervación olivococlear de las células ciliadas, mientras que las manipulaciones genéticas dan como resultado una pérdida funcional mucho más selectiva, la del gen objetivo únicamente.
+
+Cualquier sustancia neuroactiva restante que pueda ser liberada por los terminales sinápticos intactos aún puede activar las células ciliadas.
+
+De hecho, tras la ablación genética de uno de los péptidos neuroactivos presentes en las terminales LOCS, se observaron consecuencias similares a las que siguen a la lesión quirúrgica, lo que demuestra que los efectos de la cirugía probablemente se debieron a la pérdida de este péptido, y no a la ACh presente. en las terminales sinápticas.
+
+
+=== Efectos de la estimulación eléctrica ===
+
+En animales, la fisiología del MOCS se ha estudiado mucho más extensamente que la fisiología del LOCS.
+
+Esto se debe a que las fibras mielínicas del MOCS son más fáciles de estimular y registrar eléctricamente.
+
+En consecuencia, se sabe relativamente poco acerca de la fisiología del LOCS. Muchos estudios realizados en animales in vivo han estimulado el haz olivococlear (OCB) utilizando estímulos de choque administrados por electrodos colocados en el haz nervioso.
+
+Estos estudios han medido la salida del nervio auditivo (AN), con y sin estimulación OCB.
+
+En 1956, Galambos activó las fibras eferentes del gato enviando estímulos de choque al piso del cuarto ventrículo (en la decusación del COCB).
+
+Galambos observó una supresión de los potenciales de acción compuestos de la AN (referidos como el potencial N1) evocados por estímulos de clic de baja intensidad.
+
+Este hallazgo básico fue confirmado repetidamente (Desmedt y Monaco, 1961; Fex, 1962; Desmedt, 1962; Wiederhold, 1970).
+
+También se observó una supresión eferente de N1 al estimular los cuerpos de las células MOCS en el SOC medial, lo que confirma que la supresión de N1 fue el resultado de la estimulación MOC (no LOC).
+
+Más recientemente, varios investigadores han observado una supresión de la salida neural coclear durante la estimulación del colículo inferior (IC) en el mesencéfalo, que se proyecta al complejo olivar superior (SOC) (Rajan, 1990; Mulders y Robertson, 2000; Ota et al. ., 2004; Zhang y Dolan, 2006).
+
+Ota et al. (2004) también demostraron que la supresión de N1 en la cóclea era mayor en la frecuencia correspondiente a la ubicación de la frecuencia del electrodo en el CI, lo que proporciona más evidencia de la organización tonotópica de las vías eferentes.
+Estos hallazgos llevaron a la comprensión actual de que la actividad de MOC disminuye el proceso activo de los OHC, lo que lleva a una reducción específica de la frecuencia de la ganancia coclear.
+
+
+=== Respuestas evocadas acústicamente del MOCS ===
+
+
+La estimulación eléctrica en el tronco encefálico puede resultar en (i) la estimulación de todo el MOCS, (ii) una tasa de descarga (hasta 400 seg-1) mucho más alta que la que normalmente provoca el sonido (hasta 60 seg-1), y ( iii) estimulación eléctrica de neuronas distintas de las fibras MOCS.
+
+Por lo tanto, la estimulación eléctrica del MOCS puede no dar una indicación precisa de su función biológica, ni de la magnitud natural de su efecto.
+La respuesta de MOCS al sonido está mediada a través de la vía del reflejo acústico MOC (ver recuadro), que se había investigado previamente utilizando técnicas de etiquetado anterógrado y retrógrado (Aschoff et al., 1988; Robertson y Winter, 1988).
+
+La estimulación acústica de las células ciliadas internas envía una señal neural al núcleo coclear posteroventral (PVCN), y los axones de las neuronas del PVCN cruzan el tronco encefálico para inervar las neuronas MOC contralaterales.
+
+En la mayoría de los mamíferos, las neuronas MOC se proyectan predominantemente hacia el lado contralateral (formando el reflejo ipsilateral), y el resto se proyecta hacia el lado ipsilateral (formando el reflejo contralateral).
+La fuerza del reflejo es más débil para los tonos puros y se vuelve más fuerte a medida que aumenta el ancho de banda del sonido (Berlin et al., 1993), por lo que la respuesta MOCS máxima se observa para el ruido de banda ancha (Guinan et al., 2003).
+
+Los investigadores han medido los efectos de estimular el MOCS con sonido.
+
+En gatos, Liberman (1989) demostró que el sonido contralateral (que provocaba la estimulación MOCS) reducía el potencial N1, una supresión que se eliminaba tras la sección transversal del haz olivococlear (OCB).
+
+En humanos, la mayor cantidad de evidencia de la acción de los eferentes proviene de la supresión de las emisiones otoacústicas (OAE) después de la estimulación acústica.
+Usando estímulos acústicos para activar la vía refleja MOC, se han realizado grabaciones de fibras eferentes individuales en cobayas y gatos.
+
+Ambos estudios confirmaron que las neuronas MOC están fuertemente sintonizadas con la frecuencia, como sugirieron previamente Cody y Johnstone (1982) y Robertson (1984).
+
+También demostraron que la velocidad de disparo de las neuronas MOC aumentó a medida que la intensidad del sonido aumentó de 0 a 100 dB SPL, y tienen umbrales comparables (dentro de ~15 dB) a las neuronas aferentes.
+
+Además, ambos estudios mostraron que la mayoría de las neuronas MOC respondieron al sonido presentado en el oído ipsilateral, lo que concuerda con que la mayoría de las neuronas MOC de los mamíferos están ubicadas contralateralmente.
+
+No se han realizado grabaciones de fibras MOC en humanos. porque los experimentos invasivos in vivo no son posibles.
+
+Sin embargo, en otras especies de primates, se ha demostrado que alrededor del 50-60% de las fibras MOC están cruzadas (Bodian y Gucer, 1980; Thompson y Thompson, 1986).
+
+
+=== Funciones propuestas del MOCS ===
+
+Las funciones hipotéticas del MOCS se dividen en tres categorías generales; (i) protección coclear contra sonidos fuertes, (ii) desarrollo de la función de la cóclea y (iii) detección y discriminación de sonidos en ruido.
+
+
+==== Protección coclear contra sonidos fuertes ====
+Cody y Johnstone (1982) y Rajan y Johnstone (1988a; 1988b) demostraron que la estimulación acústica constante (que evoca una fuerte respuesta MOCS (Brown et al., 1998)) reducía la gravedad del trauma acústico.
+
+Esta protección fue negada en presencia de un químico conocido por suprimir la acción del haz olivococlear (OCB) (estricnina), lo que implica la acción del MOCS en la protección de la cóclea de los sonidos fuertes.
+
+Rajan (1995a) y Kujawa y Liberman (1997) proporcionaron pruebas adicionales de que los eferentes auditivos tienen un papel protector.
+
+Ambos estudios demostraron que la pérdida auditiva sufrida por los animales debido a la exposición al sonido binaural era más grave si se cortaba el OCB.
+
+Rajan (1995b) también mostró una dependencia de la frecuencia de la protección MOC más o menos consistente con la distribución de las fibras MOC en la cóclea.
+
+Otros estudios que respaldan esta función de MOCS han demostrado que la estimulación MOC reduce el cambio de umbral temporal (TTS) y el cambio de umbral permanente (PTS) asociados con la exposición prolongada al ruido (Handrock y Zeisberg, 1982; Rajan, 1988b; Reiter y Liberman, 1995) , y que los animales con el reflejo MOC más fuerte sufren menos daño auditivo a los sonidos fuertes (Maison y Liberman, 2000).
+
+Esta función biológica propuesta del MOCS, la protección de los sonidos fuertes, fue cuestionada por Kirk y Smith (2003), quienes argumentaron que la intensidad de los sonidos utilizados en los experimentos (≥105 dB SPL) rara vez o nunca ocurriría en la naturaleza y, por lo tanto, no podría haber evolucionado un mecanismo protector para sonidos de tales intensidades.
+
+Esta afirmación (que la protección coclear mediada por MOC es un epifenómeno) fue cuestionada recientemente por Darrow et al. (2007), quienes sugirieron que el LOCS tiene un efecto antiexcitotóxico, protegiendo indirectamente a la cóclea del daño.
+
+
+==== Desarrollo de la función de la cóclea ====
+También existe evidencia del papel del haz olivococlear (OCB) en el desarrollo de la función coclear.
+
+Liberman (1990) midió las respuestas de fibras AN individuales de gatos adultos durante 6 meses después de que se seccionó el OCB.
+
+Liberman no encontró ningún cambio en los umbrales, las curvas de ajuste y las funciones de E/S de las fibras AN.
+
+Walsh et al. (1998) realizaron un experimento similar, sin embargo, los investigadores cortaron el OCB de gatos recién nacidos y lo registraron a partir de fibras AN un año después.
+
+En los gatos sin entrada eferente a la cóclea, se registraron umbrales elevados de la AN, una nitidez disminuida de las curvas de sintonización y SR disminuidas.
+
+Walsh et al. (1998) propusieron que la deferentación neonatal interfiere con el desarrollo y la función normales de la OHC, por lo que implica a la OCB en el desarrollo de los procesos activos en la cóclea.
+
+
+==== Detección y discriminación de sonidos en ruido ====
+Los efectos inducidos por MOC discutidos hasta ahora se han observado en experimentos realizados en silencio (generalmente en cabinas o salas con sonido atenuado).
+
+Sin embargo, medir la respuesta de la cóclea a los sonidos en estas condiciones puede no revelar la verdadera función biológica del MOCS, ya que los mamíferos en evolución rara vez se encuentran en situaciones de silencio, y el MOCS responde particularmente al ruido (Guinan et al., 2003).
+
+Nieder y Nieder (1970a, 1970b, 1970c) realizaron los primeros experimentos que investigaron los efectos de la estimulación MOC en presencia de ruido en conejillos de indias, quienes midieron la salida coclear provocada por estímulos de clic presentados en ruido de fondo constante (BGN).
+
+En esta condición, encontraron que el potencial N1 evocado por los estímulos de clic se mejoró durante un período de estimulación MOC.
+
+Este hallazgo se ha confirmado mediante estimulación eléctrica (Dolan y Nuttall, 1988; Winslow y Sachs, 1987) y activación acústica (Kawase et al., 1993, Kawase y Liberman, 1993) de los MOCS de mamíferos.
+
+Winslow y Sachs (1987) encontraron que estimular el OCB:
+"...permite que las fibras nerviosas auditivas indiquen cambios en el nivel de tono con cambios en la tasa de descarga en proporciones de señal a ruido más bajas de lo que sería posible de otra manera". (Página 2002)
+Una interpretación de estos hallazgos es que la estimulación MOC reduce selectivamente la respuesta del nervio auditivo al ruido de fondo constante, lo que permite una mayor respuesta a un sonido transitorio.
+
+De esta forma, la estimulación MOC reduciría el efecto del enmascaramiento tanto supresor como adaptativo, por lo que se ha denominado al proceso como “desenmascaramiento” o “antienmascaramiento” (Kawase et al., 1993, Kawase y Liberman, 1993). .
+
+Se ha sugerido que el antienmascaramiento ocurre de manera similar en humanos (Kawase y Takasaka, 1995), y tiene implicaciones para la escucha selectiva, ya que el desenmascaramiento rápido de un sonido resultante de la activación de MOC aumentaría la relación señal-ruido (SNR) general. , facilitando así una mejor detección de un sonido objetivo.
+
+En humanos, los experimentos psicofísicos realizados en BGN constante también han implicado al haz olivococlear (OCB) en la escucha selectiva.
+
+La investigación quizás más relevante para esta tesis ha sido realizada por Scharf y sus colegas.
+
+En 1993, Scharf et al. presentó datos de ocho pacientes que se habían sometido a una neurectomía vestibular unilateral para tratar la enfermedad de Ménière, un procedimiento que corta el OCB (presumiblemente tanto el MOCS como el LOCS).
+
+Scharf et al. (1993) no encontraron diferencias claras en los umbrales de los sujetos a los tonos en ruido antes y después de la cirugía.
+
+Poco después de este hallazgo, Scharf et al. (1994, 1997) realizaron un conjunto integral de experimentos psicofísicos con un total de dieciséis pacientes que se habían sometido a una neurectomía vestibular unilateral (incluidos los ocho sujetos originales).
+
+Midieron el desempeño en las tareas psicofísicas de escucha antes y después de la cirugía, y no encontraron diferencias significativas en el desempeño para (i) detección de tonos, (ii) discriminación de intensidad de tonos, (iii) discriminación de frecuencia de tonos, (iv) adaptación de volumen, y (v) detección de tonos en notched-noise.
+
+Su único hallazgo positivo fue que la mayoría de los pacientes detectaron mejor los sonidos inesperados en el oído operado que en el oído sano o en el mismo oído antes de la cirugía.
+
+Este resultado se obtuvo utilizando un procedimiento de señal de sonda truncada que llevó al paciente a esperar una cierta frecuencia en cada ensayo.
+
+Doce sujetos completaron este experimento.
+
+Su procedimiento fue similar al de Greenberg y Larkin (1968), excepto que solo el 50% de las pruebas (no el 77%) contenían un objetivo cuya frecuencia coincidía con la de la señal auditiva.
+
+El otro 50% de los ensayos contenían una sonda cuya frecuencia difería de la de la señal.
+
+Además, solo se utilizaron dos frecuencias de sonda, una cuya frecuencia era más alta que el objetivo y otra cuya frecuencia era más baja que el objetivo.
+
+Todos los ensayos contenían una señal auditiva (en la frecuencia objetivo) antes del primer intervalo de observación.
+
+Los resultados se usaron para construir un filtro atencional básico, que mostraba el nivel de detección de la frecuencia objetivo esperada (y señalada) y las dos frecuencias de prueba inesperadas.
+
+De los dos informes publicados (Scharf et al., 1994, 1997), los oídos en los que se lesionó el OCB mostraron un filtro atencional con una profundidad promedio de alrededor del 15%, menos correcto que aquellos oídos en los que el OCB estaba intacto.
+
+Aunque no hay forma de convertir empíricamente este valor a dB, una estimación aproximada basada en funciones psicométricas presentada por Green y Swets (1966) arroja un valor de 2-3 dB.
+
+Sus resultados se han resumido en la figura del recuadro. Scharf y sus colegas argumentaron que seccionar el OCB en estos pacientes liberó la supresión de frecuencias inesperadas.
+
+Este efecto no estuvo presente en todos los sujetos y se observó una gran variación entre los sujetos.
+
+Sin embargo, ninguna otra característica psicofísica de la audición se vio afectada tras la sección del OCB.
+
+Scharf et al. (1997) concluyeron que la supresión de sonidos en la cóclea mediada por OCB era responsable de la supresión de sonidos inesperados y, por lo tanto, desempeña un papel en la atención selectiva en la audición normal.
+
+En contraste con la teoría de Scharf, Tan et al. (2008) argumentaron que el papel de la OCB en la escucha selectiva se relaciona con la mejora de un tono de referencia o esperado.
+
+Esta mejora puede ser causada por la actividad del MOCS en las células ciliadas externas que produce antienmascaramiento. Aunque los experimentos de Scharf et al. (1993, 1994, 1997) no lograron producir diferencias claras en las características psicofísicas básicas de la audición que la detección de sonidos inesperados), muchos otros estudios con animales y humanos han implicado al OCB en tareas de escucha en medio del ruido utilizando estímulos más complejos.
+
+En BGN constante, se ha observado que los monos rhesus con OCB intactos se desempeñan mejor en tareas de discriminación de vocales que los que no los tienen (Dewson, 1968).
+
+En gatos, un OCB intacto se asocia con una mejor identificación de vocales (Heinz et al., 1998), localización de sonidos (May et al., 2004) y discriminación de intensidad (May y McQuone, 1995).
+
+Todos estos estudios se realizaron en BGN constante.
+
+En seres humanos, se han realizado mediciones de discriminación del habla en ruido en individuos que se habían sometido a una neurectomía vestibular unilateral (que dio como resultado una sección OCB).
+
+Giraud et al. (1997) observaron una pequeña ventaja en el oído sano sobre el oído operado para el reconocimiento de fonemas y la inteligibilidad del habla en BGN.
+
+Scharf et al. (1988) habían investigado previamente el papel de la atención auditiva durante la percepción del habla y sugirieron que la discriminación del habla en ruido es asistida por el enfoque atencional en las regiones de frecuencia.
+
+En 2000, Zeng et al. informaron que la neurectomía vestibular no afectó directamente los umbrales de tonos puros o la discriminación de intensidad, lo que confirma los hallazgos anteriores de Scharf et al. 1994; 1997.
+
+Para las tareas de escucha en ruido, observaron una serie de discrepancias entre el oído sano y el operado.
+
+De acuerdo con los hallazgos anteriores de May y McQuone (1995), se observó que la discriminación de intensidad en el ruido era ligeramente peor en el oído sin entrada del haz olivococlear (OCB).
+
+Sin embargo, el principal hallazgo de Zeng et al. se relaciona con el efecto de "sobreimpulso", que se redujo significativamente (~50%) en los oídos operados.
+
+Este efecto fue observado por primera vez por Zwicker (1965) y se caracterizó como un aumento del umbral de detección de un tono cuando se presenta al inicio del ruido en comparación con cuando se presenta en un estado de ruido constante y estable.
+
+Zeng et al. propuso que este hallazgo es consistente con el antienmascaramiento evocado por MOCS; es decir, el antienmascaramiento provocado por MOCS está ausente al inicio del ruido, pero se activa durante el ruido de estado estable.
+
+Esta teoría fue apoyada por el curso temporal de la activación de MOC; siendo similar al curso temporal del efecto de sobreimpulso (Zwicker, 1965), además de que el efecto de sobreimpulso se interrumpe en sujetos con pérdida auditiva neurosensorial, para quienes el MOCS probablemente sería ineficaz (Bacon y Takahashi, 1992).
+
+
+
+https://en.wikipedia.org/wiki/Olivocochlear_system
+
+;;;PT;;;
+
+
+
+SISTEMA OLIVOCCLEAR
+
+
+O sistema olivococlear é um componente do sistema auditivo envolvido com o controle descendente da cóclea.
+
+Suas fibras nervosas, o feixe olivococlear (OCB), fazem parte do nervo vestibulococlear (VIII par craniano, também conhecido como nervo auditivo-vestibular) e se projetam do complexo olivar superior no tronco encefálico (ponte) até a cóclea.
+
+
+== Anatomia do sistema olivococlear ==
+
+
+
+=== Corpos celulares de origem ===
+
+
+O feixe olivococlear (OCB) origina-se no complexo olivar superior no tronco encefálico.
+
+A anastomose vestibulococlear transporta os axônios eferentes para a cóclea, onde inervam o órgão de Corti (OC).
+
+O OCB contém fibras que se projetam para a cóclea ipsilateral e contralateral, levando a uma divisão inicial em sistemas cruzados (COCB) e não cruzados (UCOCB).
+
+Mais recentemente, no entanto, a divisão do OCB é baseada no local de origem dos corpos celulares no tronco encefálico em relação à oliva superior medial (MSO).
+
+A região periolivar medioventral (MVPO), também conhecida como núcleo ventral do corpo trapezóide, uma região difusa de neurônios localizada medialmente ao MSO, dá origem ao sistema olivococlear medial (MOCS).
+
+A oliva superior lateral (LSO), um núcleo distinto de neurônios localizado lateralmente ao MSO, dá origem ao sistema olivococlear lateral (LOCS).
+
+Os neurônios MOCS são grandes células multipolares, enquanto os LOCS são classicamente definidos como compostos por pequenas células esféricas.
+
+Esta divisão é vista como sendo mais significativa em relação à fisiologia do OCB.
+
+Além desses neurônios olivococleares classicamente definidos, os avanços nos métodos de rastreamento do trato ajudaram a revelar uma terceira classe de neurônios olivococleares, denominados neurônios de concha, que circundam o LSO.
+
+Assim, os corpos celulares da classe LOCS dentro do LSO são referidos como neurônios LOCS intrínsecos, enquanto aqueles que circundam o LSO são referidos como neurônios LOCS shell ou extrínsecos.
+
+Os neurônios da casca são tipicamente grandes e morfologicamente são muito semelhantes aos neurônios MOCS.
+
+
+=== Fibras olivococleares ===
+
+O LOCS (originado dos neurônios intrínsecos e da casca) contém fibras não mielinizadas que fazem sinapse com os dendritos das células ganglionares espirais do Tipo I que se projetam para as células ciliadas internas.
+
+Enquanto os neurônios LOCS intrínsecos tendem a ser pequenos (~10 a 15 µm de diâmetro), e os neurônios OC shell são maiores (~25 µm de diâmetro), são os neurônios OC intrínsecos que possuem os axônios maiores (0,77 µm em comparação com 0,37 µm de diâmetro para neurônios de casca).
+
+Em contraste, o MOCS contém fibras nervosas mielinizadas que inervam diretamente as células ciliadas externas.
+
+Embora tanto o LOCS quanto o MOCS contenham fibras cruzadas (contralaterais) e não cruzadas (ipsilaterais), na maioria das espécies de mamíferos a maioria das fibras LOCS se projeta para a cóclea ipsilateral, enquanto a maioria das fibras MOCS se projeta para a cóclea contralateral.
+
+A proporção de fibras no MOCS e LOCS também varia entre as espécies, mas na maioria dos casos as fibras do LOCS são mais numerosas.
+
+Em humanos, há uma estimativa (média) de 1.000 fibras LOCS e 360 ​​fibras MOCS, porém os números variam entre os indivíduos.
+
+O MOCS dá origem a uma inervação específica da frequência da cóclea, em que as fibras do MOC terminam nas células ciliadas externas no local da cóclea previsto pela frequência característica das fibras e, portanto, são organizadas tonotopicamente da mesma maneira que as células ciliadas primárias. neurônios aferentes.
+
+As fibras do LOCS também parecem estar dispostas de forma tonotópica.
+
+No entanto, não se sabe se as frequências características das fibras do LOCS coincidem com as frequências características dos neurônios aferentes primários, uma vez que as tentativas de estimular seletivamente as fibras do LOCS foram em grande parte malsucedidas.
+
+Os axônios derivados de LOCS intrínsecos viajam apenas aproximadamente 1 µm dentro do órgão de Corti, geralmente espiralando apicalmente.
+
+Eles emitem um pequeno tufo de botões sinápticos que é compacto em sua extensão, muitas vezes envolvendo menos de 10 IHCs.
+
+Em comparação, os neurônios da concha espiralam tanto apicalmente quanto basalmente e podem cobrir grandes territórios dentro do órgão de Corti.
+
+Os axônios da concha geralmente cobrem 1-2 oitavas de comprimento tonotópico.
+
+Seu mandril terminal é bastante esparso, no entanto.
+
+
+== Fisiologia do sistema olivococlear ==
+
+
+
+=== Neurofisiologia ===
+
+Toda a atividade atualmente conhecida do sistema olivococlear é através de um complexo receptor de neurotransmissor da classe nicotínico que é acoplado a um canal de potássio ativado por cálcio.
+
+Juntos, esses sistemas geram uma resposta sináptica incomum à estimulação do cérebro.
+
+Os terminais sinápticos olivococleares contêm vários neurotransmissores e peptídeos neuroativos.
+
+O principal neurotransmissor empregado pelo sistema olivococlear é a acetilcolina (ACh), embora o ácido gama-aminobutírico (GABA) também esteja localizado nos terminais.
+
+A liberação de ACh dos terminais olivococleares ativa um complexo receptor colinérgico evolutivamente antigo composto pelas subunidades alfa9 e alfa10 nicotínicos.
+
+Enquanto essas subunidades criam um canal iônico controlado por ligantes que é especialmente permeável ao cálcio e cátions monovalentes, a resposta celular das células ciliadas externas à ativação da ACh é hiperpolarizante, em vez da resposta despolarizante esperada.
+
+Isso ocorre devido à rápida ativação de um canal de potássio associado.
+
+Este canal, o canal de potássio SK2 de pequena condutância e sensível à apamina, é ativado pelo cálcio que provavelmente é liberado no citoplasma por meio da liberação de cálcio induzida por cálcio dos estoques de cálcio dentro das cisternas subsinápticas como resposta ao cálcio que chega do complexo nicotínico.
+
+No entanto, não foi descartado que algum cálcio que chega através do canal nicotínico alpha9alpha10 também pode ativar diretamente o canal SK.
+
+As respostas eletrofisiológicas registradas das células ciliadas externas após a estimulação com ACh mostram, portanto, uma pequena corrente interna (transportada em grande parte pela entrada de cálcio via receptor de acetilcolina) que é imediatamente seguida por uma grande corrente externa, a corrente de potássio, que hiperpolariza a célula ciliada externa.
+Quando o feixe olivococlear é seccionado cirurgicamente antes do início da audição, a sensibilidade auditiva fica comprometida.
+
+No entanto, após ablação genética dos genes alfa9 ou alfa10, tais efeitos não são observados.
+
+Isso pode ser devido à natureza diferente das lesões - a lesão cirúrgica resulta em perda completa de toda a inervação olivococlear para as células ciliadas, enquanto as manipulações genéticas resultam em perda funcional muito mais seletiva - apenas do gene alvo.
+
+Quaisquer substâncias neuroativas remanescentes que podem ser liberadas pelos terminais sinápticos intactos ainda podem ativar as células ciliadas.
+
+De fato, após a ablação genética de um dos peptídeos neuroativos presentes nos terminais LOCS, foram observadas consequências semelhantes àquelas após a lesão cirúrgica, demonstrando que os efeitos da cirurgia foram provavelmente devidos à perda desse peptídeo, e não da ACh presente nos terminais sinápticos.
+
+
+=== Efeitos da estimulação elétrica ===
+
+Em animais, a fisiologia do MOCS foi estudada muito mais extensivamente do que a fisiologia do LOCS.
+
+Isso ocorre porque as fibras mielinizadas do MOCS são mais fáceis de estimular e registrar eletricamente.
+
+Consequentemente, relativamente pouco se sabe sobre a fisiologia do LOCS. Muitos estudos realizados em animais in vivo estimularam o feixe olivococlear (OCB) usando estímulos de choque fornecidos por eletrodos colocados no feixe nervoso.
+
+Esses estudos mediram a saída do nervo auditivo (NA), com e sem estimulação OCB.
+
+Em 1956, Galambos ativou as fibras eferentes do gato ao entregar estímulos de choque ao assoalho do quarto ventrículo (na decussação do COCB).
+
+Galambos observou uma supressão dos potenciais de ação compostos do AN (referido como potencial N1) evocados por estímulos de clique de baixa intensidade.
+
+Este achado básico foi repetidamente confirmado (Desmedt e Monaco, 1961; Fex, 1962; Desmedt, 1962; Wiederhold, 1970).
+
+Uma supressão eferente de N1 também foi observada pela estimulação dos corpos de células MOCS no SOC medial, confirmando que a supressão de N1 foi resultado da estimulação de MOC (não LOC).
+
+Mais recentemente, vários pesquisadores observaram uma supressão da saída neural coclear durante a estimulação do colículo inferior (CI) no mesencéfalo, que se projeta para o complexo olivar superior (SOC) (Rajan, 1990; Mulders e Robertson, 2000; Ota et al. ., 2004; Zhang e Dolan, 2006).
+
+Ota et ai. (2004) também mostraram que a supressão de N1 na cóclea foi maior na frequência correspondente à frequência de colocação do eletrodo no CI, fornecendo mais evidências para a organização tonotópica das vias eferentes.
+Esses achados levaram ao entendimento atual de que a atividade do MOC diminui o processo ativo das CCEs, levando a uma redução específica da frequência do ganho coclear.
+
+
+=== Respostas evocadas acusticamente do MOCS ===
+
+
+A estimulação elétrica no tronco cerebral pode resultar em (i) todo o MOCS sendo estimulado, (ii) uma taxa de descarga (até 400 seg-1) muito maior do que é normalmente evocada pelo som (até 60 seg-1), e ( iii) estimulação elétrica de neurônios que não sejam fibras MOCS.
+
+Portanto, a estimulação elétrica do MOCS pode não fornecer uma indicação precisa de sua função biológica, nem da magnitude natural de seu efeito.
+A resposta do MOCS ao som é mediada pela via do reflexo acústico do MOC (ver inserção), que havia sido investigada anteriormente usando técnicas de marcação anterógrada e retrógrada (Aschoff et al., 1988; Robertson e Winter, 1988).
+
+A estimulação acústica das células ciliadas internas envia um sinal neural para o núcleo coclear posteroventral (PVCN), e os axônios dos neurônios do PVCN cruzam o tronco encefálico para inervar os neurônios MOC contralaterais.
+
+Na maioria dos mamíferos, os neurônios MOC projetam-se predominantemente para o lado contralateral (formando o reflexo ipsilateral), com o restante projetando-se para o lado ipsilateral (formando o reflexo contralateral).
+A força do reflexo é mais fraca para tons puros e se torna mais forte à medida que a largura de banda do som aumenta (Berlin et al., 1993), portanto, a resposta máxima do MOCS é observada para ruído de banda larga (Guinan et al., 2003).
+
+Pesquisadores mediram os efeitos de estimular o MOCS com som.
+
+Em gatos, Liberman (1989) mostrou que o som contralateral (resultando na estimulação do MOCS) reduzia o potencial N1, uma supressão que era eliminada após a transecção do feixe olivococlear (OCB).
+
+Em humanos, a maior quantidade de evidências da ação dos eferentes vem da supressão das emissões otoacústicas (EOA) após estimulação acústica.
+Usando estímulos acústicos para ativar a via reflexa MOC, foram feitas gravações de fibras eferentes únicas em cobaias e gatos.
+
+Ambos os estudos confirmaram que os neurônios MOC estão sintonizados com a frequência, como sugerido anteriormente por Cody e Johnstone (1982) e Robertson (1984).
+
+Eles também mostraram que a taxa de disparo dos neurônios MOC aumentou à medida que a intensidade do som aumentou de 0 a 100 dB SPL e têm limiares comparáveis ​​(dentro de ~ 15 dB) aos neurônios aferentes.
+
+Além disso, ambos os estudos mostraram que a maioria dos neurônios MOC respondeu ao som apresentado na orelha ipsilateral, consistente com a maioria dos neurônios MOC de mamíferos localizados contralateralmente.
+
+Nenhuma gravação foi feita de fibras MOC em humanos. porque experimentos invasivos in vivo não são possíveis.
+
+No entanto, em outras espécies de primatas, foi demonstrado que cerca de 50-60% das fibras MOC são cruzadas (Bodian e Gucer, 1980; Thompson e Thompson, 1986).
+
+
+=== Funções propostas do MOCS ===
+
+As funções hipotéticas do MOCS se enquadram em três categorias gerais; (i) proteção coclear contra sons altos, (ii) desenvolvimento da função coclear e (iii) detecção e discriminação de sons no ruído.
+
+
+==== Proteção coclear contra sons altos ====
+Cody e Johnstone (1982) e Rajan e Johnstone (1988a; 1988b) mostraram que a estimulação acústica constante (que evoca uma forte resposta MOCS (Brown et al., 1998)) reduz a gravidade do trauma acústico.
+
+Essa proteção foi negada na presença de um produto químico conhecido por suprimir a ação do feixe olivococlear (OCB) (estricnina), implicando a ação do MOCS na proteção da cóclea de sons altos.
+
+Outras evidências para os eferentes auditivos terem um papel protetor foram fornecidas por Rajan (1995a) e Kujawa e Liberman (1997).
+
+Ambos os estudos mostraram que a perda auditiva sofrida pelos animais devido à exposição ao som binaural era mais grave se o CCO fosse seccionado.
+
+Rajan (1995b) também mostrou uma dependência de frequência da proteção MOC aproximadamente consistente com a distribuição de fibras MOC na cóclea.
+
+Outros estudos que apoiam esta função do MOCS mostraram que a estimulação do MOC reduz o deslocamento temporário do limiar (TTS) e o deslocamento permanente do limiar (PTS) associados à exposição prolongada ao ruído (Handrock e Zeisberg, 1982; Rajan, 1988b; Reiter e Liberman, 1995) , e que os animais com o reflexo MOC mais forte sofrem menos danos auditivos a sons altos (Maison e Liberman, 2000).
+
+Este papel biológico proposto do MOCS, proteção contra sons altos, foi contestado por Kirk e Smith (2003), que argumentaram que a intensidade dos sons usados ​​nos experimentos (≥105 dB SPL) raramente ou nunca ocorreria na natureza e, portanto, um mecanismo de proteção para sons de tais intensidades não poderia ter evoluído.
+
+Esta afirmação (que a proteção coclear mediada por MOC é um epifenômeno) foi recentemente contestada por Darrow et al. (2007), que sugeriram que o LOCS tem efeito antiexcitotóxico, protegendo indiretamente a cóclea de danos.
+
+
+==== Desenvolvimento da função coclear ====
+Também existem evidências para o papel do feixe olivococlear (OCB) no desenvolvimento da função coclear.
+
+Liberman (1990) mediu as respostas de fibras simples de AN de gatos adultos por 6 meses após o corte do OCB.
+
+Liberman não encontrou nenhuma mudança nos limiares das fibras AN, curvas de sintonia e funções de E/S.
+
+Walsh et ai. (1998) realizaram um experimento semelhante, porém os pesquisadores cortaram o OCB de gatos neonatos e registraram a partir de fibras AN um ano depois.
+
+Nos gatos sem entrada eferente para a cóclea, foram registrados limiares elevados do AN, diminuição da nitidez das curvas de afinação e diminuição dos SRs.
+
+Walsh et ai. (1998) propuseram que a deferenciação neonatal interfere no desenvolvimento e função normal do CCE, implicando o CCO no desenvolvimento dos processos ativos na cóclea.
+
+
+==== Detecção e discriminação de sons no ruído ====
+Os efeitos induzidos por MOC discutidos até agora foram todos observados em experimentos conduzidos em silêncio (geralmente em cabines ou salas com atenuação de som).
+
+No entanto, medir a resposta da cóclea aos sons nessas condições pode não revelar a verdadeira função biológica do MOCS, uma vez que os mamíferos em evolução raramente estão em situações silenciosas, e o MOCS é particularmente responsivo ao ruído (Guinan et al., 2003).
+
+Os primeiros experimentos investigando os efeitos da estimulação do MOC na presença de ruído foram conduzidos em cobaias por Nieder e Nieder (1970a, 1970b, 1970c), que mediram a produção coclear evocada por estímulos de clique apresentados em ruído de fundo constante (BGN).
+
+Nessa condição, eles descobriram que o potencial N1 evocado por estímulos de clique foi aumentado durante um período de estimulação do MOC.
+
+Esta descoberta foi confirmada usando estimulação elétrica (Dolan e Nuttall, 1988; Winslow e Sachs, 1987) e ativação acústica (Kawase et al., 1993, Kawase e Liberman, 1993) do MOCS de mamífero.
+
+Winslow e Sachs (1987) descobriram que estimular o OCB:
+"... permite que as fibras nervosas auditivas sinalizem alterações no nível de tom com alterações na taxa de descarga em relações sinal-ruído mais baixas do que seria possível de outra forma." (Página 2002)
+Uma interpretação desses achados é que a estimulação do MOC reduz seletivamente a resposta do nervo auditivo ao ruído de fundo constante, permitindo uma maior resposta a um som transitório.
+
+Dessa forma, a estimulação do MOC reduziria o efeito do mascaramento supressivo e adaptativo e, por esse motivo, o processo foi chamado de “desmascaramento” ou “antimascaramento” (Kawase et al., 1993, Kawase e Liberman, 1993). .
+
+Foi sugerido que o antimascaramento ocorre de maneira semelhante em humanos (Kawase e Takasaka, 1995), e tem implicações para a audição seletiva, uma vez que o desmascaramento rápido de um som resultante da ativação do MOC aumentaria a relação sinal-ruído (SNR) geral. , facilitando assim uma melhor detecção de um som alvo.
+
+Em humanos, experimentos psicofísicos conduzidos em constante BGN também implicaram o feixe olivococlear (OCB) na escuta seletiva.
+
+A pesquisa talvez mais relevante para esta tese foi realizada por Scharf e seus colegas.
+
+Em 1993, Scharf et al. apresentaram dados de oito pacientes submetidos à neurectomia vestibular unilateral para tratamento da doença de Ménière, procedimento que secciona o OCB (presumivelmente tanto o MOCS quanto o LOCS).
+
+Scharf et ai. (1993) não encontraram diferenças claras nos limiares dos indivíduos para tons no ruído antes e após a cirurgia.
+
+Logo após esse achado, Scharf et al. (1994, 1997) realizaram um conjunto abrangente de experimentos psicofísicos de um total de dezesseis pacientes submetidos à neurectomia vestibular unilateral (incluindo os oito sujeitos originais).
+
+Eles mediram o desempenho nas tarefas de escuta psicofísica antes e depois da cirurgia e não encontraram diferença significativa no desempenho para (i) detecção de tons, (ii) discriminação de intensidade de tons, (iii) discriminação de frequência de tons, (iv) adaptação de volume, e (v) detecção de tons em ruído entalhado.
+
+O único achado positivo foi que a maioria dos pacientes detectou sons inesperados no ouvido operado melhor do que no ouvido saudável, ou no mesmo ouvido antes da cirurgia.
+
+Este resultado foi obtido usando um procedimento de sinal de sonda truncado que levou o paciente a esperar uma certa frequência em cada tentativa.
+
+Doze indivíduos completaram este experimento.
+
+Seu procedimento foi semelhante ao de Greenberg e Larkin (1968), exceto que apenas 50% das tentativas (não 77%) continham um alvo cuja frequência correspondia à da pista auditiva.
+
+Os outros 50% das tentativas continham uma sonda cuja frequência diferia daquela da pista.
+
+Além disso, apenas duas frequências de sonda foram usadas, uma cuja frequência era maior que o alvo e outra cuja frequência era menor que o alvo.
+
+Todas as tentativas continham uma pista auditiva (na frequência alvo) antes do primeiro intervalo de observação.
+
+Os resultados foram usados ​​para construir um filtro de atenção básico, que exibiu o nível de detecção da frequência alvo esperada (e sinalizada) e as duas frequências de sonda inesperadas.
+
+Dos dois relatórios publicados (Scharf et al., 1994, 1997), as orelhas para as quais o OCB foi lesionado mostraram um filtro de atenção com uma profundidade média de cerca de 15% - menos correta do que aquelas orelhas para o qual o OCB estava intacto.
+
+Embora não haja como converter empiricamente este valor para dB, uma estimativa aproximada baseada em funções psicométricas apresentadas por Green e Swets (1966) produz um valor de 2-3 dB.
+
+Seus resultados foram resumidos na figura inserida. Scharf e seus colegas argumentaram que seccionar o OCB nesses pacientes liberava a supressão de frequências inesperadas.
+
+Esse efeito não estava presente em todos os sujeitos, e grande variação entre os sujeitos foi observada.
+
+No entanto, nenhuma outra característica psicofísica da audição foi afetada após a secção do OCB.
+
+Scharf et ai. (1997) concluíram que a supressão de sons na cóclea mediada por OCB foi responsável pela supressão de sons inesperados e, portanto, desempenha um papel na atenção seletiva na audição normal.
+
+Em contraste com a teoria de Scharf, Tan et al. (2008) argumentaram que o papel do OCB na escuta seletiva diz respeito ao aprimoramento de um tom de sugestão ou esperado.
+
+Este aumento pode ser causado pela atividade do MOCS nas células ciliadas externas resultando em antimascaramento. Embora os experimentos de Scharf et al. do que a detecção de sons inesperados), muitos outros estudos usando animais e humanos têm implicado o OCB em tarefas de ouvir no ruído usando estímulos mais complexos.
+
+Em BGN constante, macacos rhesus com OCBs intactos foram observados para um melhor desempenho em tarefas de discriminação de vogais do que aqueles sem (Dewson, 1968).
+
+Em gatos, um OCB intacto está associado a uma melhor identificação de vogais (Heinz et al., 1998), localização sonora (May et al., 2004) e discriminação de intensidade (May e McQuone, 1995).
+
+Todos esses estudos foram realizados em BGN constante.
+
+Em humanos, as medidas de discriminação de fala no ruído foram realizadas em indivíduos que foram submetidos a neurectomia vestibular unilateral (resultando na secção do OCB).
+
+Giraud et ai. (1997) observaram uma pequena vantagem na orelha saudável sobre a orelha operada para reconhecimento de fonemas e inteligibilidade de fala em BGN.
+
+Scharf et ai. (1988) já haviam investigado o papel da atenção auditiva durante a percepção da fala e sugeriram que a discriminação da fala no ruído é auxiliada pelo foco atencional nas regiões de frequência.
+
+Em 2000, Zeng et al. relataram que a neurectomia vestibular não afetou diretamente os limiares tonais ou a discriminação de intensidade, confirmando achados anteriores de Scharf et al. 1994; 1997.
+
+Para as tarefas de escuta no ruído, observaram uma série de discrepâncias entre a orelha saudável e a operada.
+
+Consistente com os achados anteriores de May e McQuone (1995), observou-se que a discriminação de intensidade no ruído era ligeiramente pior na orelha sem entrada do feixe olivococlear (OCB).
+
+No entanto, o principal achado de Zeng et al. foi relacionado ao efeito “overshoot”, que foi significativamente reduzido (~50%) nas orelhas operadas.
+
+Este efeito foi observado pela primeira vez por Zwicker (1965), e foi caracterizado como um aumento do limiar de detecção de um tom quando ele é apresentado no início do ruído em comparação com quando é apresentado em ruído constante e estável.
+
+Zeng et ai. propuseram que este achado é consistente com o antimascaramento evocado por MOCS; isto é, o antimascaramento evocado por MOCS está ausente no início do ruído, mas se torna ativo durante o ruído em estado estacionário.
+
+Esta teoria foi apoiada pelo curso de tempo de ativação do MOC; sendo semelhante ao curso de tempo do efeito de overshoot (Zwicker, 1965), bem como o efeito de overshoot sendo interrompido em indivíduos com perda auditiva neurossensorial, para quem o MOCS provavelmente seria ineficaz (Bacon e Takahashi, 1992).
+
+
+
+https://en.wikipedia.org/wiki/Olivocochlear_system
+
+;;;FR;;;
+
+
+
+SYSTÈME OLIVOCOCHLÉAIRE
+
+
+Le système olivocochléaire est un composant du système auditif impliqué dans le contrôle descendant de la cochlée.
+
+Ses fibres nerveuses, le faisceau olivocochléaire (OCB), font partie du nerf vestibulocochléaire (VIIIe nerf crânien, également appelé nerf auditif-vestibulaire) et se projettent du complexe olivaire supérieur dans le tronc cérébral (pons) jusqu'à la cochlée.
+
+
+== Anatomie du système olivocochléaire ==
+
+
+
+=== Corps cellulaires d'origine ===
+
+
+Le faisceau olivocochléaire (OCB) prend naissance dans le complexe olivaire supérieur du tronc cérébral.
+
+L'anastomose vestibulocochléaire transporte les axones efférents dans la cochlée, où ils innervent l'organe de Corti (OC).
+
+L'OCB contient des fibres se projetant à la fois sur les cochlées ipsilatérale et controlatérale, provoquant une division initiale en systèmes croisés (COCB) et non croisés (UCOCB).
+
+Plus récemment, cependant, la division de l'OCB est basée sur le site d'origine des corps cellulaires dans le tronc cérébral par rapport à l'olive supérieure médiale (MSO).
+
+La région périolivaire médioventrale (MVPO), également connue sous le nom de noyau ventral du corps trapézoïdal, une région diffuse de neurones située en dedans du MSO, donne naissance au système olivocochléaire médian (MOCS).
+
+L'olive supérieure latérale (LSO), un noyau distinct de neurones situé latéralement au MSO, donne naissance au système olivocochléaire latéral (LOCS).
+
+Les neurones MOCS sont de grandes cellules multipolaires, tandis que les LOCS sont classiquement définis comme composés de petites cellules sphériques.
+
+Cette division est considérée comme étant plus significative en ce qui concerne la physiologie OCB.
+
+En plus de ces neurones olivocochléaires classiquement définis, les progrès des méthodes de traçage des voies ont permis de révéler une troisième classe de neurones olivocochléaires, appelés neurones shell, qui entourent le LSO.
+
+Ainsi, les corps cellulaires de classe LOCS au sein du LSO sont appelés neurones LOCS intrinsèques, tandis que ceux qui entourent le LSO sont appelés neurones LOCS shell ou extrinsèques.
+
+Les neurones de la coquille sont généralement gros et morphologiquement très similaires aux neurones MOCS.
+
+
+=== Fibres olivocochléaires ===
+
+Le LOCS (provenant à la fois des neurones intrinsèques et de la coquille) contient des fibres non myélinisées qui synapsent avec les dendrites des cellules ganglionnaires en spirale de type I se projetant vers les cellules ciliées internes.
+
+Alors que les neurones LOCS intrinsèques ont tendance à être petits (~ 10 à 15 µm de diamètre) et que les neurones OC de la coquille sont plus grands (~ 25 µm de diamètre), ce sont les neurones OC intrinsèques qui possèdent les plus grands axones (0,77 µm par rapport à 0,37 µm de diamètre pour les neurones de la coquille).
+
+En revanche, le MOCS contient des fibres nerveuses myélinisées qui innervent directement les cellules ciliées externes.
+
+Bien que le LOCS et le MOCS contiennent des fibres croisées (contralatérales) et non croisées (ipsilatérales), chez la plupart des espèces de mammifères, la majorité des fibres LOCS se projettent vers la cochlée ipsilatérale, tandis que la majorité des fibres MOCS se projettent vers la cochlée controlatérale.
+
+La proportion de fibres dans le MOCS et le LOCS varie également entre les espèces, mais dans la plupart des cas, les fibres du LOCS sont plus nombreuses.
+
+Chez l'homme, on estime (en moyenne) 1 000 fibres LOCS et 360 fibres MOCS, mais les nombres varient d'un individu à l'autre.
+
+Le MOCS donne lieu à une innervation spécifique à la fréquence de la cochlée, en ce que les fibres MOC se terminent sur les cellules ciliées externes à l'endroit de la cochlée prédit à partir de la fréquence caractéristique des fibres, et sont donc organisées tonotopiquement de la même manière que le primaire neurones afférents.
+
+Les fibres du LOCS semblent également disposées de manière tonotopique.
+
+Cependant, on ne sait pas si les fréquences caractéristiques des fibres LOCS coïncident avec les fréquences caractéristiques des neurones afférents primaires, car les tentatives de stimulation sélective des fibres du LOCS ont été largement infructueuses.
+
+Les axones dérivés du LOCS intrinsèque ne parcourent qu'environ 1 µm dans l'organe de Corti, généralement en spirale apicale.
+
+Ils dégagent une petite touffe de boutons synaptiques qui est compacte dans son étendue, impliquant souvent moins de 10 IHC.
+
+En comparaison, les neurones de la coquille spiralent à la fois apicalement et basalement et peuvent couvrir de vastes territoires dans l'organe de Corti.
+
+Les axones de la coquille couvrent souvent 1 à 2 octaves de longueur tonotopique.
+
+Leur tonnelle terminale est cependant assez clairsemée.
+
+
+== Physiologie du système olivocochléaire ==
+
+
+
+=== Neurophysiologie ===
+
+Toute l'activité actuellement connue du système olivocochléaire se fait via un complexe récepteur de neurotransmetteur de classe nicotinique qui est couplé à un canal potassique activé par le calcium.
+
+Ensemble, ces systèmes génèrent une réponse synaptique inhabituelle à la stimulation du cerveau.
+
+Les terminaisons synaptiques olivocochléaires contiennent divers neurotransmetteurs et peptides neuroactifs.
+
+Le principal neurotransmetteur employé par le système olivocochléaire est l'acétylcholine (ACh), bien que l'acide gamma-aminobutyrique (GABA) soit également localisé dans les terminaisons.
+
+La libération d'ACh par les terminaux olivocochléaires active un complexe de récepteurs cholinergiques évolutif ancien composé des sous-unités nicotiniques alpha9 et alpha10.
+
+Alors que ces sous-unités créent un canal ionique ligand-dépendant qui est particulièrement perméable au calcium et aux cations monovalents, la réponse cellulaire des cellules ciliées externes à l'activation de l'ACh est hyperpolarisante, plutôt que la réponse dépolarisante attendue.
+
+Cela se produit en raison de l'activation rapide d'un canal potassique associé.
+
+Ce canal, le canal potassique SK2 à faible conductance et sensible à l'apamine, est activé par le calcium qui est probablement libéré dans le cytoplasme via la libération de calcium induite par le calcium à partir des réserves de calcium dans les citernes sous-synaptiques en réponse au calcium entrant du complexe nicotinique.
+
+Cependant, il n'a pas été exclu qu'une partie du calcium entrant par le canal nicotinique alpha9alpha10 puisse également activer directement le canal SK.
+
+Les réponses électrophysiologiques enregistrées à partir des cellules ciliées externes après stimulation par l'ACh montrent donc un petit courant entrant (porté en grande partie par le calcium entrant via le récepteur de l'acétylcholine) qui est immédiatement suivi d'un grand courant sortant, le courant potassique, qui hyperpolarise la cellule ciliée externe.
+Lorsque le faisceau olivocochléaire est sectionné chirurgicalement avant le début de l'audition, la sensibilité auditive est compromise.
+
+Cependant, lors de l'ablation génétique des gènes alpha9 ou alpha10, de tels effets ne sont pas observés.
+
+Cela peut être dû à la nature différente des lésions - la lésion chirurgicale entraîne une perte complète de toute l'innervation olivocochléaire des cellules ciliées, tandis que les manipulations génétiques entraînent une perte fonctionnelle beaucoup plus sélective - celle du gène ciblé uniquement.
+
+Toutes les substances neuroactives restantes qui peuvent être libérées par les terminaisons synaptiques intactes peuvent encore activer les cellules ciliées.
+
+En effet, lors de l'ablation génétique d'un des peptides neuroactifs présents dans les terminaisons LOCS, des conséquences similaires à celles consécutives à la lésion chirurgicale ont été observées, démontrant que les effets de la chirurgie étaient très probablement dus à la perte de ce peptide, et non à l'ACh présent. dans les terminaux synaptiques.
+
+
+=== Effets de la stimulation électrique ===
+
+Chez les animaux, la physiologie du MOCS a été beaucoup plus étudiée que la physiologie du LOCS.
+
+En effet, les fibres myélinisées du MOCS sont plus faciles à stimuler et à enregistrer électriquement.
+
+Par conséquent, on sait relativement peu de choses sur la physiologie du LOCS. De nombreuses études réalisées sur des animaux in vivo ont stimulé le faisceau olivocochléaire (OCB) à l'aide de stimuli de choc délivrés par des électrodes placées sur le faisceau nerveux.
+
+Ces études ont mesuré la sortie du nerf auditif (AN), avec et sans stimulation OCB.
+
+En 1956, Galambos a activé les fibres efférentes du chat en délivrant des stimuli de choc au plancher du quatrième ventricule (à la décussation du COCB).
+
+Galambos a observé une suppression des potentiels d'action composés de l'AN (appelés potentiels N1) évoqués par des stimuli de clic de faible intensité.
+
+Ce constat fondamental a été confirmé à plusieurs reprises (Desmedt et Monaco, 1961 ; Fex, 1962 ; Desmedt, 1962 ; Wiederhold, 1970).
+
+Une suppression efférente de N1 a également été observée en stimulant les corps cellulaires MOCS dans le SOC médial, confirmant que la suppression de N1 était le résultat d'une stimulation MOC (et non LOC).
+
+Plus récemment, plusieurs chercheurs ont observé une suppression de la production neurale cochléaire lors de la stimulation du colliculus inférieur (IC) dans le mésencéphale, qui se projette vers le complexe olivaire supérieur (SOC) (Rajan, 1990 ; Mulders et Robertson, 2000 ; Ota et al ., 2004 ; Zhang et Dolan, 2006).
+
+Ota et al. (2004) ont également montré que la suppression de N1 dans la cochlée était la plus élevée à la fréquence correspondant au placement de fréquence de l'électrode dans le CI, fournissant une preuve supplémentaire de l'organisation tonotopique des voies efférentes.
+Ces résultats ont conduit à la compréhension actuelle que l'activité MOC diminue le processus actif des OHC, conduisant à une réduction spécifique à la fréquence du gain cochléaire.
+
+
+=== Réponses évoquées acoustiquement du MOCS ===
+
+
+La stimulation électrique dans le tronc cérébral peut entraîner (i) la stimulation de l'ensemble du MOCS, (ii) un taux de décharge (jusqu'à 400 sec-1) beaucoup plus élevé que celui normalement évoqué par le son (jusqu'à 60 sec-1), et ( iii) la stimulation électrique de neurones autres que les fibres MOCS.
+
+Par conséquent, la stimulation électrique du MOCS peut ne pas donner une indication précise de sa fonction biologique, ni de l'ampleur naturelle de son effet.
+La réponse du MOCS au son est médiée par la voie réflexe acoustique MOC (voir encadré), qui avait déjà été étudiée à l'aide de techniques de marquage antérograde et rétrograde (Aschoff et al., 1988 ; Robertson et Winter, 1988).
+
+La stimulation acoustique des cellules ciliées internes envoie un signal neuronal au noyau cochléaire postéro-ventral (PVCN), et les axones des neurones du PVCN traversent le tronc cérébral pour innerver les neurones MOC controlatéraux.
+
+Chez la plupart des mammifères, les neurones MOC se projettent principalement vers le côté controlatéral (formant le réflexe ipsilatéral), le reste se projetant vers le côté ipsilatéral (formant le réflexe controlatéral).
+La force du réflexe est la plus faible pour les sons purs et devient plus forte à mesure que la bande passante du son augmente (Berlin et al., 1993), d'où la réponse MOCS maximale est observée pour le bruit à large bande (Guinan et al., 2003).
+
+Les chercheurs ont mesuré les effets de la stimulation du MOCS avec du son.
+
+Chez les chats, Liberman (1989) a montré que le son controlatéral (entraînant une stimulation MOCS) réduisait le potentiel N1, une suppression qui était éliminée lors de la section transversale du faisceau olivocochléaire (OCB).
+
+Chez l'homme, la plus grande quantité de preuves de l'action des efférents provient de la suppression des émissions otoacoustiques (OAE) suite à une stimulation acoustique.
+En utilisant des stimuli acoustiques pour activer la voie réflexe MOC, des enregistrements ont été réalisés à partir de fibres efférentes simples chez des cobayes et des chats.
+
+Les deux études ont confirmé que les neurones MOC sont fortement accordés à la fréquence, comme suggéré précédemment par Cody et Johnstone (1982) et Robertson (1984).
+
+Ils ont également montré que le taux de déclenchement des neurones MOC augmentait à mesure que l'intensité du son augmentait de 0 à 100 dB SPL, et avait des seuils comparables (à environ 15 dB) aux neurones afférents.
+
+De plus, les deux études ont montré que la plupart des neurones MOC répondaient au son présenté dans l'oreille ipsilatérale, ce qui correspond au fait que la majorité des neurones MOC de mammifères sont situés de manière controlatérale.
+
+Aucun enregistrement n'a été effectué à partir de fibres MOC chez l'homme. parce que les expériences invasives in vivo ne sont pas possibles.
+
+Cependant, chez d'autres espèces de primates, il a été démontré qu'environ 50 à 60 % des fibres MOC sont croisées (Bodian et Gucer, 1980 ; Thompson et Thompson, 1986).
+
+
+=== Fonctions proposées du MOCS ===
+
+Les fonctions hypothétiques du MOCS se répartissent en trois catégories générales; (i) protection cochléaire contre les sons forts, (ii) développement de la fonction cochléaire et (iii) détection et discrimination des sons dans le bruit.
+
+
+==== Protection cochléaire contre les sons forts ====
+Cody et Johnstone (1982) et Rajan et Johnstone (1988a; 1988b) ont montré qu'une stimulation acoustique constante (qui évoque une forte réponse MOCS (Brown et al., 1998)) réduisait la sévérité du traumatisme acoustique.
+
+Cette protection a été annulée en présence d'un produit chimique connu pour supprimer l'action du faisceau olivocochléaire (OCB) (strychnine), impliquant l'action du MOCS dans la protection de la cochlée contre les sons forts.
+
+Une autre preuve du rôle protecteur des efférents auditifs a été fournie par Rajan (1995a) et Kujawa et Liberman (1997).
+
+Les deux études ont montré que la perte auditive subie par les animaux en raison de l'exposition au son binaural était plus sévère si l'OCB était sectionné.
+
+Rajan (1995b) a également montré une dépendance en fréquence de la protection MOC à peu près cohérente avec la distribution des fibres MOC dans la cochlée.
+
+D'autres études soutenant cette fonction du MOCS ont montré que la stimulation du MOC réduit le décalage de seuil temporaire (TTS) et le décalage de seuil permanent (PTS) associés à une exposition prolongée au bruit (Handrock et Zeisberg, 1982 ; Rajan, 1988b ; Reiter et Liberman, 1995) , et que les animaux avec le réflexe MOC le plus fort subissent moins de dommages auditifs aux sons forts (Maison et Liberman, 2000).
+
+Ce rôle biologique proposé du MOCS, la protection contre les sons forts, a été contesté par Kirk et Smith (2003), qui ont fait valoir que l'intensité des sons utilisés dans les expériences (≥105 dB SPL) se produirait rarement ou jamais dans la nature, et donc un mécanisme de protection pour des sons de telles intensités n'aurait pas pu évoluer.
+
+Cette affirmation (selon laquelle la protection cochléaire médiée par MOC est un épiphénomène) a été récemment contestée par Darrow et al. (2007), qui ont suggéré que le LOCS a un effet anti-excitotoxique, protégeant indirectement la cochlée des dommages.
+
+
+==== Développement de la fonction cochlée ====
+Il existe également des preuves du rôle du faisceau olivocochléaire (OCB) dans le développement de la fonction cochléaire.
+
+Liberman (1990) a mesuré les réponses de fibres AN uniques de chats adultes pendant 6 mois après la rupture de l'OCB.
+
+Liberman n'a trouvé aucun changement dans les seuils, les courbes d'accord et les fonctions d'E/S des fibres AN.
+
+Walsh et al. (1998) ont réalisé une expérience similaire, mais les chercheurs ont coupé l'OCB des chats nouveau-nés et enregistré à partir de fibres AN un an plus tard.
+
+Chez les chats sans apport efférent à la cochlée, des seuils élevés de l'AN, une diminution de la netteté des courbes d'accord et une diminution des SR ont été enregistrés.
+
+Walsh et al. (1998) ont proposé que la désefférentation néonatale interfère avec le développement et la fonction normaux de l'OHC, impliquant ainsi l'OCB dans le développement des processus actifs de la cochlée.
+
+
+==== Détection et discrimination des sons dans le bruit ====
+Les effets induits par le MOC discutés jusqu'à présent ont tous été observés dans des expériences menées en silence (généralement dans des cabines ou des salles insonorisées).
+
+Cependant, mesurer la réponse de la cochlée aux sons dans ces conditions peut ne pas révéler la véritable fonction biologique du MOCS, car les mammifères en évolution sont rarement dans des situations silencieuses, et le MOCS est particulièrement sensible au bruit (Guinan et al., 2003).
+
+Les premières expériences étudiant les effets de la stimulation MOC en présence de bruit ont été menées sur des cobayes par Nieder et Nieder (1970a, 1970b, 1970c), qui ont mesuré la sortie cochléaire évoquée par des stimuli de clic présentés dans un bruit de fond constant (BGN).
+
+Dans cette condition, ils ont découvert que le potentiel N1 évoqué par les stimuli de clic était augmenté pendant une période de stimulation MOC.
+
+Cette découverte a été confirmée en utilisant à la fois la stimulation électrique (Dolan et Nuttall, 1988; Winslow et Sachs, 1987) et l'activation acoustique (Kawase et al., 1993, Kawase et Liberman, 1993) du MOCS mammifère.
+
+Winslow et Sachs (1987) ont découvert que la stimulation de l'OCB :
+"... permet aux fibres nerveuses auditives de signaler les changements de niveau de tonalité avec des changements de taux de décharge à des rapports signal/bruit inférieurs à ce qui serait possible autrement." (Page 2002)
+Une interprétation de ces résultats est que la stimulation MOC réduit sélectivement la réponse du nerf auditif au bruit de fond constant, permettant une plus grande réponse à un son transitoire.
+
+De cette façon, la stimulation MOC réduirait l'effet du masquage suppressif et adaptatif, et pour cette raison, le processus a été appelé "démasquage" ou "antimasquage" (Kawase et al., 1993, Kawase et Liberman, 1993) .
+
+Il a été suggéré que l'antimasquage se produise de la même manière chez l'homme (Kawase et Takasaka, 1995) et a des implications pour l'écoute sélective puisque le démasquage rapide d'un son résultant de l'activation du MOC augmenterait le rapport signal sur bruit global (SNR) , facilitant ainsi une meilleure détection d'un son cible.
+
+Chez l'homme, des expériences psychophysiques menées en BGN constant ont également impliqué le faisceau olivocochléaire (OCB) dans l'écoute sélective.
+
+La recherche peut-être la plus pertinente pour cette thèse a été effectuée par Scharf et ses collègues.
+
+En 1993, Scharf et al. ont présenté les données de huit patients qui avaient subi une neurectomie vestibulaire unilatérale pour traiter la maladie de Ménière, une procédure qui rompt l'OCB (vraisemblablement à la fois le MOCS et le LOCS).
+
+Scharf et al. (1993) n'ont pas trouvé de différences claires dans les seuils des sujets aux tonalités dans le bruit avant et après la chirurgie.
+
+Peu de temps après cette découverte, Scharf et al. (1994, 1997) ont réalisé un ensemble complet d'expériences psychophysiques sur un total de seize patients qui avaient subi une neurectomie vestibulaire unilatérale (y compris les huit sujets originaux).
+
+Ils ont mesuré les performances dans les tâches d'écoute psychophysique avant et après la chirurgie, et n'ont trouvé aucune différence significative dans les performances pour (i) la détection des tonalités, (ii) la discrimination de l'intensité des tonalités, (iii) la discrimination de la fréquence des tonalités, (iv) l'adaptation du volume, et (v) la détection de tonalités dans un bruit coupé.
+
+Leur seul résultat positif était que la plupart des patients détectaient mieux les sons inattendus dans l'oreille opérée que dans l'oreille saine ou la même oreille avant la chirurgie.
+
+Ce résultat a été obtenu à l'aide d'une procédure sonde-signal tronquée qui a conduit le patient à s'attendre à une certaine fréquence à chaque essai.
+
+Douze sujets ont complété cette expérience.
+
+Leur procédure était similaire à celle de Greenberg et Larkin (1968), sauf que seulement 50 % des essais (et non 77 %) contenaient une cible dont la fréquence correspondait à celle du signal auditif.
+
+Les autres 50 % d'essais contenaient une sonde dont la fréquence différait de celle du signal.
+
+De plus, seules deux fréquences de sonde ont été utilisées, une dont la fréquence était supérieure à la cible et une dont la fréquence était inférieure à la cible.
+
+Tous les essais contenaient un signal auditif (à la fréquence cible) avant le premier intervalle d'observation.
+
+Les résultats ont été utilisés pour construire un filtre attentionnel de base, qui affichait le niveau de détection de la fréquence cible attendue (et signalée) et les deux fréquences de sonde inattendues.
+
+D'après les deux rapports publiés (Scharf et al., 1994, 1997), les oreilles pour lesquelles l'OCB a été lésé ont montré un filtre attentionnel avec une profondeur moyenne d'environ 15 % de moins que les oreilles pour lesquelles l'OCB était intact.
+
+Bien qu'il n'y ait aucun moyen de convertir empiriquement cette valeur en dB, une estimation approximative basée sur des fonctions psychométriques présentées par Green et Swets (1966) donne une valeur de 2-3 dB.
+
+Leurs résultats ont été résumés dans la figure en médaillon. Scharf et ses collègues ont fait valoir que la section de l'OCB chez ces patients relâchait la suppression des fréquences inattendues.
+
+Cet effet n'était pas présent chez tous les sujets, et une grande variation entre les sujets a été observée.
+
+Néanmoins, aucune autre caractéristique psychophysique de l'audition n'a été affectée après la section de l'OCB.
+
+Scharf et al. (1997) ont conclu que la suppression des sons médiée par l'OCB dans la cochlée était responsable de la suppression des sons inattendus et joue donc un rôle dans l'attention sélective dans l'audition normale.
+
+Contrairement à la théorie de Scharf, Tan et al. (2008) ont fait valoir que le rôle de l'OCB dans l'écoute sélective se rapporte à l'amélioration d'un ton indicé ou attendu.
+
+Cette amélioration peut être causée par l'activité du MOCS sur les cellules ciliées externes résultant en un anti-masquage. Bien que les expériences de Scharf et al. que la détection de sons inattendus), de nombreuses autres études utilisant à la fois des animaux et des humains ont impliqué l'OCB dans des tâches d'écoute dans le bruit utilisant des stimuli plus complexes.
+
+En BGN constant, on a observé que les singes rhésus avec des OCB intacts obtenaient de meilleurs résultats dans les tâches de discrimination des voyelles que ceux qui n'en avaient pas (Dewson, 1968).
+
+Chez les chats, un OCB intact est associé à une meilleure identification des voyelles (Heinz et al., 1998), une localisation sonore (May et al., 2004) et une discrimination d'intensité (May et McQuone, 1995).
+
+Toutes ces études ont été réalisées en BGN constant.
+
+Chez l'homme, des mesures de discrimination de la parole dans le bruit ont été réalisées sur des individus ayant subi une neurectomie vestibulaire unilatérale (entraînant une section OCB).
+
+Giraud et al. (1997) ont observé un petit avantage de l'oreille saine par rapport à l'oreille opérée pour la reconnaissance des phonèmes et l'intelligibilité de la parole dans le BGN.
+
+Scharf et al. (1988) avaient précédemment étudié le rôle de l'attention auditive lors de la perception de la parole et avaient suggéré que la discrimination de la parole dans le bruit était assistée par une focalisation attentionnelle sur les régions de fréquence.
+
+En 2000, Zeng et al., ont rapporté que la neurectomie vestibulaire n'affectait pas directement les seuils de tonalité pure ou la discrimination d'intensité, confirmant les découvertes antérieures de Scharf et al. 1994 ; 1997.
+
+Pour les tâches d'écoute dans le bruit, ils ont observé un certain nombre d'écarts entre l'oreille saine et l'oreille opérée.
+
+Conformément aux découvertes antérieures de May et McQuone (1995), on a observé que la discrimination d'intensité dans le bruit était légèrement pire dans l'oreille sans entrée de faisceau olivocochléaire (OCB).
+
+Cependant, la principale découverte de Zeng et al. concernait l'effet de « dépassement », qui s'est avéré significativement réduit (~ 50 %) dans les oreilles opérées.
+
+Cet effet a été observé pour la première fois par Zwicker (1965) et a été caractérisé comme un seuil de détection accru d'une tonalité lorsqu'elle est présentée au début du bruit par rapport à lorsqu'elle est présentée dans un bruit constant et stable.
+
+Zeng et al. a proposé que cette découverte soit cohérente avec l'antimasquage évoqué par MOCS ; c'est-à-dire que l'anti-masquage évoqué par MOCS est absent au début du bruit mais devient actif pendant le bruit en régime permanent.
+
+Cette théorie était étayée par l'évolution temporelle de l'activation du MOC ; étant similaire à l'évolution temporelle de l'effet de dépassement (Zwicker, 1965), ainsi que l'effet de dépassement étant perturbé chez les sujets atteints de perte auditive neurosensorielle, pour lesquels le MOCS serait très probablement inefficace (Bacon et Takahashi, 1992).
+
+
+
+https://en.wikipedia.org/wiki/Olivocochlear_system

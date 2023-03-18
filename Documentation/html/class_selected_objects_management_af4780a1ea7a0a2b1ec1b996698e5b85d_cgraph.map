@@ -1,0 +1,4 @@
+<map id="SelectedObjectsManagement.GetActiveObjects" name="SelectedObjectsManagement.GetActiveObjects">
+<area shape="rect" id="node1" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="5,5,203,45"/>
+<area shape="rect" id="node2" href="$class_camera_controller.html#aaa7e8228113908116a25b1a69eea1c1b" title="Updates the bounds." alt="" coords="251,13,461,38"/>
+</map>

@@ -1,0 +1,109 @@
+
+
+INFERIOR OLIVARY NUCLEUS
+
+
+The inferior olivary nucleus (ION), is a structure found in the medulla oblongata underneath the superior olivary nucleus. 
+
+In vertebrates, the ION is known to coordinate signals from the spinal cord to the cerebellum to regulate motor coordination and learning. 
+
+These connections have been shown to be tightly associated, as degeneration of either the cerebellum or the ION results in degeneration of the other.Neurons of the ION are glutamatergic and receive inhibitory input via GABA receptors. 
+
+There are two distinct GABAα receptor populations that are spatially organized within each neuron present in the ION. 
+
+The GABAα receptor make-up varies based on where the receptor localizes on the ION neuron. 
+
+The reason for this spatial distribution is unknown. 
+
+It has been proposed that the distinct populations of GABAα receptors allows for fine-tuned regulation within the ION.
+
+
+== Structure ==
+
+The inferior olivary nucleus (ION) has a distinct laminar structure. 
+
+These lamina house the cell bodies of the olivocerebellar fibers. 
+
+These neurons are the major input source for the cerebellum. 
+
+Their axons are referred to as climbing fibers. 
+
+These climbing fibers leave the ION medially through the hilum, cross the midline, and ascend into the cerebellum via the inferior cerebellar peduncle. 
+
+The target for each climbing fiber is a specific neuron in the cerebellum referred to as a Purkinje Cell. 
+
+During development, there are multiple climbing fibers on a purkinje cell, however these are pruned off during postnatal development, thus leaving a mature purkinje cell with a single climbing fiber.
+There are three major components of the IO.
+Primary olivary nucleus (PO) – This is the major laminar structure, and its distinct folds can be seen clearly. 
+The PO receives signals from other components of the brainstem, such as the red nucleus and the N. 
+
+Darkschewitsch. 
+
+The PO also receives signals from the cerebral cortex.
+The PO targets the intermediate cerebellum as well as the cerebellar hemispheres.
+Medial accessory olivary nucleus (MAO) – This nucleus is between the PO and the pyramids. 
+
+It is visualized as a curved lamina.The MAO receives signals from the tectum and the pretectum.
+Climbing fibers from the MAO synapse with the vermis, the flocculus, and the cerebellar hemispheres
+Dorsal accessory olivary nucleus (DAO) – This nucleus also is a curved lamina. 
+
+It is the smallest nucleus in the IO and is behind the PO. 
+The DAO receives signals from the spinal cord and the dorsal column nuclei.
+The DAO synapses with vermis.
+
+
+== Function ==
+
+
+
+=== Motor coordination and learning ===
+
+Patient studies revealed the connection between the inferior olivary nucleus (ION) and the cerebellum. 
+
+Lesions in the ION impair the ability to learn higher level motility, such as performing a perfect jumpshot. 
+
+Further investigation of the neuroanatomy confirmed the intimate connection between the IO and the cerebellum in motor coordination and learning. 
+The IO sends signals to the cerebellum based on information sent from the spino-olivary tract. 
+
+Regulation following this point is highly debated. 
+
+The original hypothesis as to how the IO influenced the cerebellum involved long term depression (LTD). 
+
+In this scenario, deep cerebellar nuclei send GABA projection to inhibit ION.
+More recent studies suggest that encoding the timing of sensory input is the key component of these connections. 
+
+The ION sends signals through different cell clusters. 
+
+These signals vary in location and in frequency bundles and appear inconsistent. 
+
+However, the temporal pattern of these signals is consistent. 
+
+Therefore, ongoing research on motor learning is investigating how these timed signals develop and their role in motor learning.
+
+
+=== Steroidogenesis ===
+
+The inferior olivary nucleus (ION) expresses key enzymes involved in steroidogenesis required for neuroprotection and maintenance. 
+
+The most crucial of these enzymes is aromatase, which is the enzyme that is necessary for the conversion of testosterone into estradiol. 
+
+Without aromatase, the ION is unable to make estradiol, and cannot recover from injury properly.
+
+
+== Clinical significance ==
+
+Because the inferior olivary nucleus (ION) is tightly associated with the cerebellum, lesions in either the IO or the cerebellum results in degeneration in the other. 
+
+There is little known about damage to the inferior olivary nucleus (IO) independent from the cerebellum. 
+
+To date, the only known disorder which specifically targets the ION is an extremely rare form of degeneration called hypertrophic olivary degeneration (HOD).Although the ION is not often investigated on its own, degeneration in the ION has been identified in disorders that are typically associated with the cerebellum. 
+
+These disorders include supranuclear palsy, Leigh disease, and SCA6, and there are several more. 
+
+These disorders all involve motor coordination. 
+
+Dysfunction of the ION is also been believed to play a central role in the etiology of essential tremor based, though that convention is not universally accepted.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_olivary_nucleus

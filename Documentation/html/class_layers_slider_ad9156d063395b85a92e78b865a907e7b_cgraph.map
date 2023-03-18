@@ -1,0 +1,7 @@
+<map id="LayersSlider.OnPointerUp" name="LayersSlider.OnPointerUp">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,177,60"/>
+<area shape="rect" id="node2" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="231,5,417,31"/>
+<area shape="rect" id="node4" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="225,55,423,95"/>
+<area shape="rect" id="node3" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="508,5,644,31"/>
+<area shape="rect" id="node5" href="$class_camera_controller.html#aaa7e8228113908116a25b1a69eea1c1b" title="Updates the bounds." alt="" coords="471,63,681,88"/>
+</map>

@@ -1,0 +1,122 @@
+
+
+CAROTID BODY
+
+
+The carotid body is a small cluster of chemoreceptor cells, and supporting sustentacular cells. 
+
+The carotid body is located in the adventitia, in the bifurcation (fork) of the common carotid artery, which runs along both sides of the neck.The carotid body detects changes in the composition of arterial blood flowing through it, mainly the partial pressure of arterial oxygen, but also of carbon dioxide. 
+
+It is also sensitive to changes in blood pH, and temperature.
+
+
+== Structure ==
+
+The carotid body is made up of two types of cells, called glomus cells: glomus type I cells are peripheral chemoreceptors, and glomus type II cells are sustentacular supportive cells.
+
+Glomus type I cells are derived from the neural crest. 
+
+They release a variety of neurotransmitters, including acetylcholine, ATP, and dopamine that trigger EPSPs in synapsed neurons leading to the respiratory center. 
+
+They are innervated by axons of the glossopharyngeal nerve which collectively are called the carotid sinus nerve.
+Glomus type II cells resemble glial cells, express the glial marker S100 and act as supporting cells.
+
+
+== Function ==
+
+The carotid body functions as a sensor: it responds to a stimulus, primarily O2 partial pressure, which is detected by the type I (glomus) cells, and triggers an action potential through the afferent fibers of the glossopharyngeal nerve, which relays the information to the central nervous system.
+
+
+=== Stimulus ===
+
+The carotid body peripheral chemoreceptors are primarily sensitive to decreases in the partial pressure of oxygen (PO2). 
+
+This is in contrast to the central chemoreceptors in the medulla oblongata that are primarily sensitive to changes in pH and PCO2 (a decrease in pH and an increase in PCO2). 
+
+The carotid body chemoreceptors are also sensitive to pH and PCO2, but only secondarily. 
+
+More specifically, the sensitivity of carotid body chemoreceptors to decreased PO2 is greater when pH is decreased and PCO2 is increased.
+Impulse rate for carotid bodies is particularly sensitive to changes in arterial PO2 in the range of 60 down to 30 mm Hg, a range in which hemoglobin saturation with oxygen decreases rapidly.The output of the carotid bodies is low at an oxygen partial pressure above about 100mmHg (13,3 kPa) (at normal physiological pH), but below 60mmHg the activity of the type I (glomus) cells increases rapidly due to a decrease in hemoglobin-oxygen saturation below 90%.
+
+
+=== Detection ===
+
+The mechanism for detecting reductions in PO2 has yet to be identified, there may be multiple mechanisms and could vary between species. 
+
+Hypoxia detection has been shown to depend upon increased hydrogen sulfide generation produced by cystathionine gamma-lyase as hypoxia detection is reduced in mice in which this enzyme is knocked out or pharmacologically inhibited. 
+
+The process of detection involves the interaction of cystathionine gamma-lyase with hemeoxygenase-2 and the production of carbon monoxide. 
+
+Yet, some studies show that physiologic concentration of hydrogen sulfide may not be strong enough to trigger such responses.
+Other theories suggest it may involve mitochondrial oxygen sensors and the haem-containing cytochromes that undergo reversible one-electron reduction during oxidative-phosphorylation. 
+
+Haem reversibly binds O2 with an affinity similar to that of the carotid body, suggesting that haem containing proteins may have a role in O2, potentially this could be one of the complexes involved in oxidative-phosphorylation. 
+
+This leads to increases in reactive oxygen species and rises in intracellular Ca2+. 
+
+However, whether hypoxia leads to an increase or decrease in reactive oxygen species is unknown. 
+
+The role of reactive oxygen species in hypoxia sensing is also under question.The oxygen dependent enzyme haem-oxidase has also been put forward as a hypoxia sensor. 
+
+In normoxia, haem-oxygenase generates carbon monoxide (CO), CO activates the large conductance calcium-activated potassium channel, BK. 
+
+Falls in CO that occur as a consequence of hypoxia would lead to closure of this potassium channel and this would lead to membrane depolarisation and consequence activation of the carotid body. 
+
+A role for the "energy sensor" AMP-activated protein kinase (AMPK) has also been proposed in hypoxia sensing. 
+
+This enzyme is activated during times of net energy usage and metabolic stress, including hypoxia. 
+
+AMPK has a number of targets and it appears that, in the carotid body, when AMPK is activated by hypoxia, it leads to downstream potassium channel closure of both O2-sentive TASK-like and BK channelsAn increased PCO2 is detected because the CO2 diffuses into the cell, where it increases the concentration of carbonic acid and thus protons. 
+
+The precise mechanism of CO2 sensing is unknown, however it has been demonstrated that CO2 and low pH inhibit a TASK-like potassium conductance, reducing potassium current. 
+
+This leads to depolarisation of the cell membrane which leads to Ca2+ entry, excitation of glomus cells and consequent neurotransmitter release.Arterial acidosis (either metabolic or from altered PCO2) inhibits acid-base transporters (e.g. 
+
+Na+-H+) which raise intracellular pH, and activates transporters (e.g. 
+
+Cl−-HCO3−) which decrease it. 
+
+Changes in proton concentration caused by acidosis (or the opposite from alkalosis) inside the cell stimulates the same pathways involved in PCO2 sensing.
+Another mechanism is through oxygen sensitive potassium channels. 
+
+A drop in dissolved oxygen lead to closing of these channels which results in depolarization. 
+
+This leads to release of the neurotransmitter dopamine in the glossopharyngeal and vagus afferente to the vasomotor area.
+
+
+=== Action potential ===
+
+The type I (glomus) cells in the carotid (and aortic bodies) are derived from neuroectoderm and are thus electrically excitable. 
+
+A decrease in oxygen partial pressure, an increase in carbon dioxide partial pressure, and a decrease in arterial pH can all cause depolarization of the cell membrane, and they affect this by blocking potassium currents. 
+
+This reduction in the membrane potential opens voltage-gated calcium channels, which causes a rise in intracellular calcium concentration. 
+
+This causes exocytosis of vesicles containing a variety of neurotransmitters, including acetylcholine, noradrenaline, dopamine, adenosine, ATP, substance P, and met-enkephalin. 
+
+These act on receptors on the afferent nerve fibres which lie in apposition to the glomus cell to cause an action potential.
+
+
+=== Relay ===
+
+The feedback from the carotid body is sent to the cardiorespiratory centers in the medulla oblongata via the afferent branches of the glossopharyngeal nerve. 
+
+The efferent fibres of the aortic body chemoreceptors are relayed by the vagus nerve. 
+
+These centers, in turn, regulate breathing and blood pressure, with hypoxia causing an increase in ventilation.
+
+
+== Clinical significance ==
+
+
+
+=== Paraganglioma ===
+
+
+A paraganglioma is a tumor that may involve the carotid body and is usually benign. 
+
+Rarely, a malignant neuroblastoma may originate from the carotid body.
+
+
+
+https://en.wikipedia.org/wiki/Carotid_body

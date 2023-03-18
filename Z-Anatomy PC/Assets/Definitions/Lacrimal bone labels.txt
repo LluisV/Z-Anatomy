@@ -1,0 +1,24 @@
+LACRIMAL BONE
+    Posterior lacrimal crest
+    Lacrimal groove of lacrimal bone
+    Lacrimal hamulus
+;;;ES;;;
+
+HUESO LACRIMAL
+Cresta lagrimal posterior
+Surco lagrimal del hueso lagrimal
+hamulo lagrimal
+
+;;;PT;;;
+
+OSSO LACRIM
+Crista lacrimal posterior
+Sulco lacrimal do osso lacrimal
+Hâmulo lacrimal
+
+;;;FR;;;
+
+OS LACRIMAL
+Crête lacrymale postérieure
+Sillon lacrymal de l'os lacrymal
+Hamulus lacrymal

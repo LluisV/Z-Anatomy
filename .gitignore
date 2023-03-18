@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Z-Anatomy PC/[Ll]ibrary/
+/Z-Anatomy PC/[Tt]emp/
+/Z-Anatomy PC/[Oo]bj/
+/Z-Anatomy PC/[Bb]uild/
+/Z-Anatomy PC/[Bb]uilds/
+/Z-Anatomy PC/[Ll]ogs/
+/Z-Anatomy PC/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -55,6 +55,11 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+#Firebase api
+FirebaseCppApp-*.bundle
+
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Firebase private info
+google-services.json

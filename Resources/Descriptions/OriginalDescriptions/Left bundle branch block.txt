@@ -1,0 +1,70 @@
+
+
+LEFT BUNDLE BRANCH BLOCK
+
+
+Left bundle branch block (LBBB) is a cardiac conduction abnormality seen on the electrocardiogram (ECG). 
+
+In this condition, activation of the left ventricle of the heart is delayed, which causes the left ventricle to contract later than the right ventricle.
+
+
+== Causes ==
+
+Among the causes of LBBB are:
+Aortic stenosis
+Dilated cardiomyopathy
+Acute myocardial infarction
+Extensive coronary artery disease
+Primary disease of the cardiac electrical conduction system
+Long standing hypertension leading to aortic root dilatation and subsequent aortic regurgitation
+Lyme disease
+
+
+== Mechanisms ==
+
+Slow or absent conduction through the left bundle branch means that it takes longer than normal for the left ventricle to fully depolarise. 
+
+This can be due to a damaged bundle branch that is completely unable to conduct, but may represent intact conduction that is slower than normal. 
+
+LBBB may be fixed, present at all times, but may be intermittent for example occurring only during rapid heart rates. 
+
+This may be due to the bundle having a longer refractory period than usual. 
+
+
+== Diagnosis ==
+
+
+LBBB is diagnosed on a 12-lead ECG. 
+
+In adults, it is seen as wide QRS complexes lasting >120ms with characteristic QRS shapes in the precordial leads, although narrower complexes are seen in children. 
+
+In lead V1, the QRS complex is often entirely negative (QS morphology), although a small initial R wave may be seen (rS morphology). 
+
+In the lateral leads (I, aVL, V5-V6) the QRS complexes are usually predominantly positive with a slow upstroke last >60ms to the R-wave peak. 
+
+Notching may be seen in these leads but this is not universal. 
+
+The small Q-waves that are usually seen in the lateral leads are absent in LBBB. 
+
+T-waves usually point in the opposite direction to the terminal portion of the preceding QRS - positive QRS complexes have negative T-waves while negative QRS complexes have positive T-waves. 
+
+The ST segments typically slur into the T-wave and often appear elevated in leads with negative QRS complexes. 
+
+The axis may be normal but may be deviated to the left or right.There are also partial blocks of the left bundle branch: "left anterior fascicular block" (LAFB) and a "left posterior fascicular block" (LPFB). 
+
+This refers to the block after the bifurcation of the left bundle branch.
+
+
+=== Diagnostic consequences ===
+
+The presence of LBBB results in that electrocardiography (ECG) cannot be used to diagnose left ventricular hypertrophy or Q wave infarction, because LBBB in itself results in widened QRS complex, and changes in the ST segment consistent with ischemia or injury.
+
+
+== Treatment ==
+
+Patients with LBBB require complete cardiac evaluation, and those with LBBB and syncope or near-syncope may require a pacemaker.
+Some patients with LBBB, a markedly prolonged QRS (usually > 150 ms), and systolic heart failure may benefit from a biventricular pacemaker, which allows for better synchrony of heart contractions.
+
+
+
+https://en.wikipedia.org/wiki/Left_bundle_branch_block

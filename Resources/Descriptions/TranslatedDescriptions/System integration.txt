@@ -1,0 +1,316 @@
+
+
+SYSTEM INTEGRATION
+
+
+System integration is defined in engineering as the process of bringing together the component sub-systems into one system (an aggregation of subsystems cooperating so that the system is able to deliver the overarching functionality) and ensuring that the subsystems function together as a system, and in information technology as the process of linking together different computing systems and software applications physically or functionally, to act as a coordinated whole.
+The system integrator integrates discrete systems utilizing a variety of techniques such as computer networking, enterprise application integration, business process management or manual programming.System integration involves integrating existing, often disparate systems in such a way "that focuses on increasing value to the customer" (e.g., improved product quality and performance) while at the same time providing value to the company (e.g., reducing operational costs and improving response time). 
+
+In the modern world connected by Internet, the role of system integration engineers is important: more and more systems are designed to connect, both within the system under construction and to systems that are already deployed.
+
+
+== Methods of integration ==
+
+Vertical integration (as opposed to "horizontal integration") is the process of integrating subsystems according to their functionality by creating functional entities also referred to as silos. 
+
+The benefit of this method is that the integration is performed quickly and involves only the necessary vendors, therefore, this method is cheaper in the short term. 
+
+On the other hand, cost-of-ownership can be substantially higher than seen in other methods, since in case of new or enhanced functionality, the only possible way to implement (scale the system) would be by implementing another silo. 
+
+Reusing subsystems to create another functionality is not possible.Star integration, also known as spaghetti integration, is a process of systems integration where each system is interconnected to each of the remaining subsystems. 
+
+When observed from the perspective of the subsystem which is being integrated, the connections are reminiscent of a star, but when the overall diagram of the system is presented, the connections look like spaghetti, hence the name of this method. 
+
+The cost varies because of the interfaces that subsystems are exporting. 
+
+In a case where the subsystems are exporting heterogeneous or proprietary interfaces, the integration cost can substantially rise. 
+
+Time and costs needed to integrate the systems increase exponentially when adding additional subsystems. 
+
+From the feature perspective, this method often seems preferable, due to the extreme flexibility of the reuse of functionality.Horizontal integration or Enterprise Service Bus (ESB) is an integration method in which a specialized subsystem is dedicated to communication between other subsystems. 
+
+This allows cutting the number of connections (interfaces) to only one per subsystem which will connect directly to the ESB. 
+
+The ESB is capable of translating the interface into another interface. 
+
+This allows cutting the costs of integration and provides extreme flexibility. 
+
+With systems integrated using this method, it is possible to completely replace one subsystem with another subsystem which provides similar functionality but exports different interfaces, all this completely transparent for the rest of the subsystems. 
+
+The only action required is to implement the new interface between the ESB and the new subsystem.The horizontal scheme can be misleading, however, if it is thought that the cost of intermediate data transformation or the cost of shifting responsibility over business logic can be avoided.Industrial lifecycle integration is a system integration process that considers four categories or stages of integration: initial system implementation, engineering and design, project services, and operations. 
+
+This approach incorporates the requirements of each lifecycle stage of the industrial asset when integrating systems and subsystems. 
+
+The key output is a standardized data architecture that can function throughout the life of the asset.
+A common data format is an integration method to avoid every adapter having to convert data to/from every other applications' formats, Enterprise application integration (EAI) systems usually stipulate an application-independent (or common) data format. 
+
+The EAI system usually provides a data transformation service as well to help convert between application-specific and common formats. 
+
+This is done in two steps: the adapter converts information from the application's format to the bus' common format. 
+
+Then, semantic transformations are applied on this (converting zip codes to city names, splitting/merging objects from one application into objects in the other applications, and so on).
+
+
+== Challenges of integration ==
+
+System integration can be challenging for organizations and these challenges can diminish their overall return on investment after implementing new software solutions. 
+
+Some of these challenges include lack of trust and willing to share data with other companies, unwillingness to outsource various operations to a third party, lack of clear communication and responsibilities, disagreement from partners on where functionality should reside, high cost of integration, difficulty finding good talents, data silos, and common API standards. 
+
+These challenges result in creating hurdles that “prevent or slow down business systems integration within and among companies”. 
+
+Clear communication and simplified information exchange are key elements in building long term system integrations that can support business requirements.
+
+
+== Benefits of integration ==
+
+On the other hand, system integration projects can be incredibly rewarding. 
+
+For out-of-date, legacy systems, different forms of integration offer the ability to enable real-time data sharing. 
+
+This can enable, for example, publisher-subscriber data distribution models, consolidated databases, event-driven architectures, reduce manual user data entry (which can also help reduce errors), refresh or modernize the application's front-end, and offload querying and reporting from expensive operational systems to cheaper commodity systems (which can save costs, enable scalability, and free up processing power on the main operational system). 
+
+Usually, an extensive cost-benefit analysis is undertaken to help determine whether an integration project is worth the effort.
+
+
+
+https://en.wikipedia.org/wiki/System_integration
+;;;ES;;;
+
+
+
+INTEGRACIÓN DE SISTEMA
+
+
+La integración de sistemas se define en ingeniería como el proceso de unir los subsistemas componentes en un solo sistema (una agregación de subsistemas que cooperan para que el sistema pueda entregar la funcionalidad general) y garantizar que los subsistemas funcionen juntos como un sistema, y en tecnología de la información como el proceso de vincular diferentes sistemas informáticos y aplicaciones de software física o funcionalmente, para actuar como un todo coordinado.
+El integrador de sistemas integra sistemas discretos utilizando una variedad de técnicas, como redes informáticas, integración de aplicaciones empresariales, gestión de procesos comerciales o programación manual. La integración de sistemas implica integrar sistemas existentes, a menudo dispares, de tal manera que "se centre en aumentar el valor para el cliente". (p. ej., mejora de la calidad y el rendimiento del producto) y, al mismo tiempo, aporta valor a la empresa (p. ej., reducción de los costes operativos y mejora del tiempo de respuesta).
+
+En el mundo moderno conectado por Internet, el papel de los ingenieros de integración de sistemas es importante: cada vez más sistemas están diseñados para conectarse, tanto dentro del sistema en construcción como con los sistemas que ya están implementados.
+
+
+== Métodos de integración ==
+
+La integración vertical (a diferencia de la "integración horizontal") es el proceso de integración de subsistemas de acuerdo con su funcionalidad mediante la creación de entidades funcionales también conocidas como silos.
+
+El beneficio de este método es que la integración se realiza rápidamente e involucra solo a los proveedores necesarios, por lo tanto, este método es más económico a corto plazo.
+
+Por otro lado, el costo de propiedad puede ser sustancialmente más alto que el observado en otros métodos, ya que en el caso de una funcionalidad nueva o mejorada, la única forma posible de implementar (escalar el sistema) sería implementar otro silo.
+
+No es posible reutilizar subsistemas para crear otra funcionalidad. La integración en estrella, también conocida como integración de espagueti, es un proceso de integración de sistemas en el que cada sistema está interconectado con cada uno de los subsistemas restantes.
+
+Cuando se observa desde la perspectiva del subsistema que se está integrando, las conexiones recuerdan a una estrella, pero cuando se presenta el diagrama general del sistema, las conexiones parecen espaguetis, de ahí el nombre de este método.
+
+El costo varía debido a las interfaces que exportan los subsistemas.
+
+En el caso de que los subsistemas exporten interfaces heterogéneas o propietarias, el costo de integración puede aumentar sustancialmente.
+
+El tiempo y los costos necesarios para integrar los sistemas aumentan exponencialmente al agregar subsistemas adicionales.
+
+Desde la perspectiva de las funciones, este método a menudo parece preferible, debido a la extrema flexibilidad de la reutilización de la funcionalidad. La integración horizontal o Enterprise Service Bus (ESB) es un método de integración en el que un subsistema especializado se dedica a la comunicación entre otros subsistemas.
+
+Esto permite reducir la cantidad de conexiones (interfaces) a solo una por subsistema que se conectará directamente al ESB.
+
+El ESB es capaz de traducir la interfaz a otra interfaz.
+
+Esto permite reducir los costes de integración y proporciona una flexibilidad extrema.
+
+Con los sistemas integrados mediante este método, es posible reemplazar completamente un subsistema con otro subsistema que proporciona una funcionalidad similar pero exporta diferentes interfaces, todo esto completamente transparente para el resto de los subsistemas.
+
+La única acción requerida es implementar la nueva interfaz entre el ESB y el nuevo subsistema. Sin embargo, el esquema horizontal puede ser engañoso si se piensa que se puede evitar el costo de la transformación de datos intermedios o el costo de transferir la responsabilidad a la lógica empresarial. .La integración del ciclo de vida industrial es un proceso de integración de sistemas que considera cuatro categorías o etapas de integración: implementación inicial del sistema, ingeniería y diseño, servicios del proyecto y operaciones.
+
+Este enfoque incorpora los requisitos de cada etapa del ciclo de vida del activo industrial al integrar sistemas y subsistemas.
+
+El resultado clave es una arquitectura de datos estandarizada que puede funcionar durante toda la vida útil del activo.
+Un formato de datos común es un método de integración para evitar que cada adaptador tenga que convertir datos a/desde los formatos de otras aplicaciones. Los sistemas de integración de aplicaciones empresariales (EAI) generalmente estipulan un formato de datos independiente de la aplicación (o común).
+
+El sistema EAI generalmente también proporciona un servicio de transformación de datos para ayudar a convertir entre formatos comunes y específicos de la aplicación.
+
+Esto se hace en dos pasos: el adaptador convierte la información del formato de la aplicación al formato común del bus.
+
+Luego, se aplican transformaciones semánticas sobre esto (convertir códigos postales en nombres de ciudades, dividir/fusionar objetos de una aplicación en objetos en las otras aplicaciones, etc.).
+
+
+== Desafíos de la integración ==
+
+La integración del sistema puede ser un desafío para las organizaciones y estos desafíos pueden disminuir su retorno general de la inversión después de implementar nuevas soluciones de software.
+
+Algunos de estos desafíos incluyen la falta de confianza y la voluntad de compartir datos con otras empresas, la falta de voluntad para externalizar varias operaciones a un tercero, la falta de responsabilidades y comunicación claras, el desacuerdo de los socios sobre dónde debe residir la funcionalidad, el alto costo de integración, la dificultad para encontrar buenos talentos, silos de datos y estándares API comunes.
+
+Estos desafíos dan como resultado la creación de obstáculos que “impiden o ralentizan la integración de los sistemas comerciales dentro y entre las empresas”.
+
+La comunicación clara y el intercambio de información simplificado son elementos clave en la creación de integraciones de sistemas a largo plazo que puedan respaldar los requisitos comerciales.
+
+
+== Beneficios de la integración ==
+
+Por otro lado, los proyectos de integración de sistemas pueden ser increíblemente gratificantes.
+
+Para los sistemas heredados desactualizados, diferentes formas de integración ofrecen la capacidad de habilitar el intercambio de datos en tiempo real.
+
+Esto puede habilitar, por ejemplo, modelos de distribución de datos de editores-suscriptores, bases de datos consolidadas, arquitecturas basadas en eventos, reducir la entrada manual de datos del usuario (lo que también puede ayudar a reducir errores), actualizar o modernizar el front-end de la aplicación y descargar consultas e informes. desde sistemas operativos costosos hasta sistemas básicos más económicos (que pueden ahorrar costos, permitir la escalabilidad y liberar potencia de procesamiento en el sistema operativo principal).
+
+Por lo general, se lleva a cabo un extenso análisis de costo-beneficio para ayudar a determinar si vale la pena el esfuerzo de un proyecto de integración.
+
+
+
+https://en.wikipedia.org/wiki/System_integration
+
+;;;PT;;;
+
+
+
+INTEGRAÇÃO DO SISTEMA
+
+
+A integração de sistemas é definida em engenharia como o processo de reunir os subsistemas componentes em um sistema (uma agregação de subsistemas cooperando para que o sistema seja capaz de fornecer a funcionalidade abrangente) e garantir que os subsistemas funcionem juntos como um sistema, e em tecnologia da informação como o processo de conectar diferentes sistemas de computação e aplicativos de software física ou funcionalmente, para atuar como um todo coordenado.
+O integrador de sistemas integra sistemas discretos utilizando uma variedade de técnicas, como redes de computadores, integração de aplicativos corporativos, gerenciamento de processos de negócios ou programação manual. (por exemplo, melhor qualidade e desempenho do produto) e, ao mesmo tempo, agregar valor à empresa (por exemplo, reduzir custos operacionais e melhorar o tempo de resposta).
+
+No mundo moderno conectado pela Internet, o papel dos engenheiros de integração de sistemas é importante: mais e mais sistemas são projetados para se conectar, tanto dentro do sistema em construção quanto nos sistemas já implantados.
+
+
+== Métodos de integração ==
+
+A integração vertical (em oposição à "integração horizontal") é o processo de integração de subsistemas de acordo com sua funcionalidade, criando entidades funcionais também chamadas de silos.
+
+A vantagem desse método é que a integração é realizada de forma rápida e envolve apenas os fornecedores necessários, portanto, esse método é mais barato no curto prazo.
+
+Por outro lado, o custo de propriedade pode ser substancialmente superior ao observado em outros métodos, pois no caso de funcionalidades novas ou aprimoradas, a única maneira possível de implementar (escalar o sistema) seria implementando outro silo.
+
+Não é possível reutilizar subsistemas para criar outra funcionalidade. A integração em estrela, também conhecida como integração de espaguete, é um processo de integração de sistemas em que cada sistema é interconectado a cada um dos subsistemas restantes.
+
+Quando observadas da perspectiva do subsistema que está sendo integrado, as conexões lembram uma estrela, mas quando o diagrama geral do sistema é apresentado, as conexões parecem espaguete, daí o nome desse método.
+
+O custo varia devido às interfaces que os subsistemas estão exportando.
+
+Em um caso em que os subsistemas exportam interfaces heterogêneas ou proprietárias, o custo de integração pode aumentar substancialmente.
+
+O tempo e os custos necessários para integrar os sistemas aumentam exponencialmente ao adicionar subsistemas adicionais.
+
+Do ponto de vista do recurso, esse método geralmente parece preferível, devido à extrema flexibilidade da reutilização da funcionalidade. A integração horizontal ou Enterprise Service Bus (ESB) é um método de integração no qual um subsistema especializado é dedicado à comunicação entre outros subsistemas.
+
+Isso permite reduzir o número de conexões (interfaces) para apenas uma por subsistema que se conectará diretamente ao ESB.
+
+O ESB é capaz de traduzir a interface em outra interface.
+
+Isso permite reduzir os custos de integração e oferece extrema flexibilidade.
+
+Com sistemas integrados por este método, é possível substituir completamente um subsistema por outro subsistema que oferece funcionalidade semelhante, mas exporta interfaces diferentes, tudo isso completamente transparente para os demais subsistemas.
+
+A única ação necessária é implementar a nova interface entre o ESB e o novo subsistema. O esquema horizontal pode ser enganoso, no entanto, se for considerado que o custo da transformação de dados intermediária ou o custo de transferir a responsabilidade sobre a lógica de negócios podem ser evitados .A integração do ciclo de vida industrial é um processo de integração de sistemas que considera quatro categorias ou estágios de integração: implementação inicial do sistema, engenharia e design, serviços de projeto e operações.
+
+Essa abordagem incorpora os requisitos de cada estágio do ciclo de vida do ativo industrial ao integrar sistemas e subsistemas.
+
+A saída principal é uma arquitetura de dados padronizada que pode funcionar durante toda a vida útil do ativo.
+Um formato de dados comum é um método de integração para evitar que cada adaptador tenha que converter dados de/para os formatos de todos os outros aplicativos. Os sistemas de integração de aplicativos corporativos (EAI) geralmente estipulam um formato de dados independente do aplicativo (ou comum).
+
+O sistema EAI geralmente fornece um serviço de transformação de dados, bem como para ajudar a converter entre formatos específicos de aplicativos e formatos comuns.
+
+Isso é feito em duas etapas: o adaptador converte as informações do formato do aplicativo para o formato comum do barramento.
+
+Em seguida, as transformações semânticas são aplicadas a isso (conversão de CEPs em nomes de cidades, divisão/fusão de objetos de um aplicativo em objetos de outros aplicativos e assim por diante).
+
+
+== Desafios da integração ==
+
+A integração de sistemas pode ser um desafio para as organizações e esses desafios podem diminuir o retorno geral do investimento após a implementação de novas soluções de software.
+
+Alguns desses desafios incluem falta de confiança e vontade de compartilhar dados com outras empresas, falta de vontade de terceirizar várias operações para terceiros, falta de comunicação e responsabilidades claras, desacordo dos parceiros sobre onde a funcionalidade deve residir, alto custo de integração, dificuldade em encontrar bons talentos, silos de dados e padrões de API comuns.
+
+Esses desafios resultam na criação de obstáculos que “impedem ou retardam a integração de sistemas de negócios dentro e entre as empresas”.
+
+A comunicação clara e a troca simplificada de informações são elementos-chave na construção de integrações de sistemas de longo prazo que podem atender aos requisitos de negócios.
+
+
+== Benefícios da integração ==
+
+Por outro lado, projetos de integração de sistemas podem ser incrivelmente recompensadores.
+
+Para sistemas legados desatualizados, diferentes formas de integração oferecem a capacidade de permitir o compartilhamento de dados em tempo real.
+
+Isso pode habilitar, por exemplo, modelos de distribuição de dados de editor-assinante, bancos de dados consolidados, arquiteturas orientadas a eventos, reduzir a entrada manual de dados do usuário (que também pode ajudar a reduzir erros), atualizar ou modernizar o front-end do aplicativo e descarregar consultas e relatórios de sistemas operacionais caros a sistemas de commodities mais baratos (que podem economizar custos, permitir escalabilidade e liberar poder de processamento no sistema operacional principal).
+
+Normalmente, uma extensa análise de custo-benefício é realizada para ajudar a determinar se um projeto de integração vale o esforço.
+
+
+
+https://en.wikipedia.org/wiki/System_integration
+
+;;;FR;;;
+
+
+
+SYSTEME D'INTÉGRATION
+
+
+L'intégration de système est définie en ingénierie comme le processus consistant à rassembler les sous-systèmes de composants en un seul système (une agrégation de sous-systèmes coopérant de sorte que le système est capable de fournir la fonctionnalité globale) et à garantir que les sous-systèmes fonctionnent ensemble comme un système, et dans la technologie de l'information comme le processus de liaison entre différents systèmes informatiques et applications logicielles physiquement ou fonctionnellement, pour agir comme un tout coordonné.
+L'intégrateur de système intègre des systèmes discrets utilisant une variété de techniques telles que la mise en réseau informatique, l'intégration d'applications d'entreprise, la gestion des processus métier ou la programmation manuelle. (par exemple, amélioration de la qualité et des performances des produits) tout en apportant de la valeur à l'entreprise (par exemple, réduction des coûts opérationnels et amélioration du temps de réponse).
+
+Dans le monde moderne connecté par Internet, le rôle des ingénieurs intégrateurs système est important : de plus en plus de systèmes sont conçus pour se connecter, tant au sein du système en construction qu'aux systèmes déjà déployés.
+
+
+== Méthodes d'intégration ==
+
+L'intégration verticale (par opposition à "l'intégration horizontale") est le processus d'intégration de sous-systèmes en fonction de leur fonctionnalité en créant des entités fonctionnelles également appelées silos.
+
+L'avantage de cette méthode est que l'intégration est effectuée rapidement et n'implique que les fournisseurs nécessaires, par conséquent, cette méthode est moins chère à court terme.
+
+D'autre part, le coût de possession peut être considérablement plus élevé que celui observé dans d'autres méthodes, car en cas de fonctionnalité nouvelle ou améliorée, la seule façon possible de mettre en œuvre (faire évoluer le système) serait de mettre en œuvre un autre silo.
+
+La réutilisation de sous-systèmes pour créer une autre fonctionnalité n'est pas possible. L'intégration en étoile, également connue sous le nom d'intégration spaghetti, est un processus d'intégration de systèmes où chaque système est interconnecté à chacun des sous-systèmes restants.
+
+Lorsqu'elles sont observées du point de vue du sous-système en cours d'intégration, les connexions rappellent une étoile, mais lorsque le schéma global du système est présenté, les connexions ressemblent à des spaghettis, d'où le nom de cette méthode.
+
+Le coût varie en fonction des interfaces que les sous-systèmes exportent.
+
+Dans un cas où les sous-systèmes exportent des interfaces hétérogènes ou propriétaires, le coût d'intégration peut augmenter considérablement.
+
+Le temps et les coûts nécessaires pour intégrer les systèmes augmentent de manière exponentielle lors de l'ajout de sous-systèmes supplémentaires.
+
+Du point de vue des fonctionnalités, cette méthode semble souvent préférable, en raison de l'extrême flexibilité de la réutilisation des fonctionnalités. L'intégration horizontale ou Enterprise Service Bus (ESB) est une méthode d'intégration dans laquelle un sous-système spécialisé est dédié à la communication entre d'autres sous-systèmes.
+
+Cela permet de réduire le nombre de connexions (interfaces) à une seule par sous-système qui se connectera directement à l'ESB.
+
+L'ESB est capable de traduire l'interface en une autre interface.
+
+Cela permet de réduire les coûts d'intégration et offre une flexibilité extrême.
+
+Avec des systèmes intégrés utilisant cette méthode, il est possible de remplacer complètement un sous-système par un autre sous-système qui fournit des fonctionnalités similaires mais exporte des interfaces différentes, tout cela de manière totalement transparente pour le reste des sous-systèmes.
+
+La seule action requise est de mettre en œuvre la nouvelle interface entre l'ESB et le nouveau sous-système. Le schéma horizontal peut toutefois être trompeur si l'on pense que le coût de la transformation des données intermédiaires ou le coût du transfert de responsabilité sur la logique métier peut être évité .L'intégration du cycle de vie industriel est un processus d'intégration de système qui prend en compte quatre catégories ou étapes d'intégration : la mise en œuvre initiale du système, l'ingénierie et la conception, les services de projet et les opérations.
+
+Cette approche intègre les exigences de chaque étape du cycle de vie de l'actif industriel lors de l'intégration des systèmes et sous-systèmes.
+
+Le résultat clé est une architecture de données standardisée qui peut fonctionner tout au long de la durée de vie de l'actif.
+Un format de données commun est une méthode d'intégration pour éviter que chaque adaptateur n'ait à convertir des données vers / depuis les formats de toutes les autres applications. Les systèmes d'intégration d'applications d'entreprise (EAI) stipulent généralement un format de données indépendant de l'application (ou commun).
+
+Le système EAI fournit généralement un service de transformation de données pour faciliter la conversion entre les formats spécifiques à l'application et les formats communs.
+
+Cela se fait en deux étapes : l'adaptateur convertit les informations du format de l'application au format commun du bus.
+
+Ensuite, des transformations sémantiques y sont appliquées (conversion des codes postaux en noms de ville, fractionnement/fusion d'objets d'une application dans des objets d'autres applications, etc.).
+
+
+== Les défis de l'intégration ==
+
+L'intégration de systèmes peut être difficile pour les organisations et ces défis peuvent diminuer leur retour sur investissement global après la mise en œuvre de nouvelles solutions logicielles.
+
+Certains de ces défis incluent le manque de confiance et la volonté de partager des données avec d'autres entreprises, la réticence à sous-traiter diverses opérations à un tiers, le manque de communication et de responsabilités claires, le désaccord des partenaires sur l'emplacement des fonctionnalités, le coût élevé de l'intégration, la difficulté à trouver bons talents, silos de données et normes API communes.
+
+Ces défis créent des obstacles qui « empêchent ou ralentissent l'intégration des systèmes d'entreprise au sein et entre les entreprises ».
+
+Une communication claire et un échange d'informations simplifié sont des éléments clés dans la construction d'intégrations de systèmes à long terme qui peuvent répondre aux besoins de l'entreprise.
+
+
+== Avantages de l'intégration ==
+
+D'un autre côté, les projets d'intégration de systèmes peuvent être incroyablement gratifiants.
+
+Pour les anciens systèmes obsolètes, différentes formes d'intégration offrent la possibilité de permettre le partage de données en temps réel.
+
+Cela peut permettre, par exemple, des modèles de distribution de données éditeur-abonné, des bases de données consolidées, des architectures pilotées par les événements, réduire la saisie manuelle des données utilisateur (ce qui peut également aider à réduire les erreurs), actualiser ou moderniser le front-end de l'application et décharger les requêtes et les rapports. des systèmes opérationnels coûteux aux systèmes de produits moins chers (qui peuvent réduire les coûts, permettre l'évolutivité et libérer de la puissance de traitement sur le système opérationnel principal).
+
+Habituellement, une analyse coûts-avantages approfondie est entreprise pour aider à déterminer si un projet d'intégration en vaut la peine.
+
+
+
+https://en.wikipedia.org/wiki/System_integration

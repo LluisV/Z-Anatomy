@@ -1,0 +1,5 @@
+<map id="TranslateObject.SetGizmoCenter" name="TranslateObject.SetGizmoCenter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,180,63"/>
+<area shape="rect" id="node2" href="$class_translate_object.html#a1b64d9653c33cb12d2b23868db7cb4d2" title=" " alt="" coords="255,5,415,31"/>
+<area shape="rect" id="node3" href="$class_tangible_body_part.html#a56fefb3df25bb77c2f142b9c24bf08c8" title="Updates the bounds of the mesh collider to match the bounds of the mesh. This function is useful when..." alt="" coords="228,55,441,80"/>
+</map>

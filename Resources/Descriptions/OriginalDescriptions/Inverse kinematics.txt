@@ -1,0 +1,8 @@
+
+
+INVERSE KINEMATICS
+
+
+The IK constraints are special in that they modify multiple bones.
+
+For this reason, they ignore their position in the stack and always run after all other constraints on the affected bones.

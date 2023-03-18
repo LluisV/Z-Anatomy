@@ -1,0 +1,396 @@
+
+
+OPTIC CHIASM
+
+
+The optic chiasm, or optic chiasma is the part of the brain where the optic nerves cross. 
+
+It is located at the bottom of the brain immediately inferior to the hypothalamus. 
+
+The optic chiasm is found in all vertebrates, although in cyclostomes (lampreys and hagfishes), it is located within the brain.
+
+This article is about the optic chiasm of vertebrates, which is the best known nerve chiasm, but not every chiasm denotes a crossing of the body midline (e.g., in some invertebrates, see Chiasm (anatomy)). 
+
+A midline crossing of nerves inside the brain is called a decussation (see Definition of types of crossings). 
+
+
+== Structure ==
+
+For the different types of optic chiasm, see
+
+In all vertebrates, the optic nerves of the left and the right eye meet in the body midline, ventral to the brain. 
+
+In many vertebrates the left optic nerve crosses over the right one without fusing with it.
+
+In vertebrates with a large overlap of the visual fields of the two eyes, i.e., most mammals and birds, but also amphibians, reptiles such as chameleons, the two optic nerves merge in the optic chiasm. 
+
+In such a merged optic chiasm, part of the nerve fibres do not cross the midline, but continue towards the optic tract of the ipsilateral side. 
+
+By this partial decussation, the part of the visual field that is covered by both eyes is fused so that the processing of binocular depth perception by stereopsis is enabled.
+
+In the case of such partial decussation, the optic nerve fibres on the medial sides of each retina (which correspond to the lateral side of each visual hemifield, because the image is inverted) cross over to the opposite side of the body midline. 
+
+The inferonasal retina are related to the anterior portion of the optic chiasm whereas superonasal retinal fibers are related to the posterior portion of the optic chiasm.
+
+The partial crossing over of optic nerve fibres at the optic chiasm allows the visual cortex to receive the same hemispheric visual field from both eyes. 
+
+Superimposing and processing these monocular visual signals allow the visual cortex to generate binocular and stereoscopic vision. 
+
+The net result is that the right cerebral hemisphere processes left visual hemifield, and the left cerebral hemisphere processes the right visual hemifield.
+
+Beyond the optic chiasm, with crossed and uncrossed fibers, the optic nerves are called optic tracts. 
+
+The optic tract inserts on the optic tectum (in mammals known as superior colliculus) of the midbrain. 
+
+In mammals they also branch off to the lateral geniculate body of the thalamus, in turn giving them to the occipital cortex of the cerebrum.
+
+
+== Development in mammals ==
+
+During development, the crossing of the optic nerves is guided primarily by cues such as netrin, slit, semaphorin and ephrin; and by morphogens such as sonic hedgehog (Shh) and Wnt. 
+
+This navigation is mediated by the neuronal growth cone, a structure that responds to the cues by ligand-receptor signalling systems that activate downstream pathways inducing changes in the cytoskeleton. 
+
+Retinal ganglion cell (RGC) axons leaving the eye through the optic nerve are blocked from exiting the developing pathway by Slit2 and Sema5A inhibition, expressed bordering the optic nerve pathway. 
+
+Ssh expressed at the central nervous system midline inhibits crossing prior to the chiasm, where it is downregulated. 
+
+The organization of RGC axons changes from retinotopic to a flat sheet-like orientation as they approach the chiasm site.
+
+Most RGC axons cross the midline at the ventral diencephalon and continue to the contralateral superior colliculus. 
+
+The number of axons that do not cross the midline and project ipsilaterally depends on the degree of binocular vision of the animal (3% in mice and 45% in humans do not cross). 
+
+Ephrin-B2 is expressed at the chiasm midline by radial glia and acts as a repulsive signal to axons originating from the ventrotemporal retina expressing EphB1 receptor protein, giving rise to the ipsilateral, or uncrossed, projection. 
+
+RGC axons that do cross at the optic chiasm are guided by the vascular endothelial growth factor, VEGF-A, expressed at the midline, which signals through the receptor Neuropilin-1 (NRP1) expressed on RGC axons. 
+
+Chiasm crossing is also promoted by Nr-CAM (Ng-CAM-related cell adhesion molecule) and Semaphorin6D (Sema6D) expressed at the midline, which form a complex that signals to Nr-CAM/Plexin-A1 receptors on crossing RGC axons. 
+
+
+== Other animals ==
+
+=== Mammals ===
+
+Since all vertebrates, even the earliest fossils and modern jawless ones, possess an optic chiasm, it is not known how it evolved. 
+
+A number of theories have been proposed for the function of the optic chiasm in vertebrates (see theories). 
+
+According to the axial twist hypothesis the optic chiasm develops as a consequence of a twist in the early embryo.
+
+In Siamese cats with certain genotypes of the albino gene, the wiring is disrupted, with more of the nerve-crossing than normal. 
+
+Since siamese cats, like albino tigers, also tend to cross their eyes (strabismus), it has been proposed that this behavior might compensate the abnormal amount of decussation.
+
+
+=== Cephalopods and insects ===
+
+In cephalopods and insects the optic tracts do not cross the body midline, so each side of the brain processes the ipsilateral eye.
+
+
+== History ==
+
+The crossing of nerve fibres, and the impact on vision that this had, was probably first identified by Persian physician "Esmail Jorjani", who appears to be Zayn al-Din Gorgani (1042–1137).
+
+
+
+https://en.wikipedia.org/wiki/Optic_chiasm
+;;;ES;;;
+
+
+
+QUIASMA ÓPTICO
+
+
+El quiasma óptico o quiasma óptico es la parte del cerebro donde se cruzan los nervios ópticos.
+
+Se encuentra en la parte inferior del cerebro inmediatamente inferior al hipotálamo.
+
+El quiasma óptico se encuentra en todos los vertebrados, aunque en los ciclóstomos (lampreas y mixinos) se localiza dentro del cerebro.
+
+Este artículo trata sobre el quiasma óptico de los vertebrados, que es el quiasma nervioso más conocido, pero no todos los quiasmas denotan un cruce de la línea media del cuerpo (p. ej., en algunos invertebrados, consulte Quiasma (anatomía)).
+
+Un cruce de nervios en la línea media dentro del cerebro se denomina decusación (ver Definición de tipos de cruces).
+
+
+== Estructura ==
+
+Para los diferentes tipos de quiasma óptico, consulte
+
+En todos los vertebrados, los nervios ópticos del ojo derecho e izquierdo se encuentran en la línea media del cuerpo, ventral al cerebro.
+
+En muchos vertebrados, el nervio óptico izquierdo cruza sobre el derecho sin fusionarse con él.
+
+En vertebrados con una gran superposición de los campos visuales de los dos ojos, es decir, la mayoría de los mamíferos y aves, pero también anfibios, reptiles como los camaleones, los dos nervios ópticos se fusionan en el quiasma óptico.
+
+En tal quiasma óptico fusionado, parte de las fibras nerviosas no cruzan la línea media, sino que continúan hacia el tracto óptico del lado ipsilateral.
+
+Mediante esta decusación parcial, la parte del campo visual que está cubierta por ambos ojos se fusiona para permitir el procesamiento de la percepción de profundidad binocular por estereopsis.
+
+En el caso de tal decusación parcial, las fibras del nervio óptico en los lados mediales de cada retina (que corresponden al lado lateral de cada hemicampo visual, porque la imagen está invertida) se cruzan hacia el lado opuesto de la línea media del cuerpo.
+
+La retina inferonasal está relacionada con la porción anterior del quiasma óptico, mientras que las fibras retinianas superonasales están relacionadas con la porción posterior del quiasma óptico.
+
+El cruce parcial de las fibras del nervio óptico en el quiasma óptico permite que la corteza visual reciba el mismo campo visual hemisférico de ambos ojos.
+
+La superposición y el procesamiento de estas señales visuales monoculares permiten que la corteza visual genere visión binocular y estereoscópica.
+
+El resultado neto es que el hemisferio cerebral derecho procesa el hemicampo visual izquierdo y el hemisferio cerebral izquierdo procesa el hemicampo visual derecho.
+
+Más allá del quiasma óptico, con fibras cruzadas y no cruzadas, los nervios ópticos se denominan vías ópticas.
+
+El tracto óptico se inserta en el techo óptico (en los mamíferos conocido como colículo superior) del mesencéfalo.
+
+En los mamíferos también se ramifican hacia el cuerpo geniculado lateral del tálamo, dándolos a su vez a la corteza occipital del cerebro.
+
+
+== Desarrollo en mamíferos ==
+
+Durante el desarrollo, el cruce de los nervios ópticos está guiado principalmente por señales como netrina, hendidura, semaforina y efrina; y por morfógenos como sonic hedgehog (Shh) y Wnt.
+
+Esta navegación está mediada por el cono de crecimiento neuronal, una estructura que responde a las señales de los sistemas de señalización ligando-receptor que activan las vías aguas abajo que inducen cambios en el citoesqueleto.
+
+Los axones de las células ganglionares de la retina (RGC) que salen del ojo a través del nervio óptico están bloqueados para que no salgan de la vía de desarrollo mediante la inhibición de Slit2 y Sema5A, expresada bordeando la vía del nervio óptico.
+
+Ssh expresado en la línea media del sistema nervioso central inhibe el cruce antes del quiasma, donde se regula a la baja.
+
+La organización de los axones de RGC cambia de retinotópico a una orientación similar a una hoja plana a medida que se acercan al sitio del quiasma.
+
+La mayoría de los axones de RGC cruzan la línea media en el diencéfalo ventral y continúan hasta el colículo superior contralateral.
+
+El número de axones que no cruzan la línea media y se proyectan ipsolateralmente depende del grado de visión binocular del animal (3% en ratones y 45% en humanos no cruzan).
+
+La efrina-B2 se expresa en la línea media del quiasma por la glía radial y actúa como una señal repulsiva para los axones que se originan en la retina ventrotemporal que expresa la proteína del receptor EphB1, dando lugar a la proyección ipsilateral o no cruzada.
+
+Los axones de RGC que se cruzan en el quiasma óptico están guiados por el factor de crecimiento endotelial vascular, VEGF-A, expresado en la línea media, que emite señales a través del receptor Neuropilin-1 (NRP1) expresado en los axones de RGC.
+
+El cruce del quiasma también es promovido por Nr-CAM (molécula de adhesión celular relacionada con Ng-CAM) y Semaphorin6D (Sema6D) expresado en la línea media, que forma un complejo que envía señales a los receptores Nr-CAM/Plexin-A1 al cruzar los axones RGC.
+
+
+== Otros animales ==
+
+=== Mamíferos ===
+
+Dado que todos los vertebrados, incluso los primeros fósiles y los modernos sin mandíbula, poseen un quiasma óptico, no se sabe cómo evolucionó.
+
+Se han propuesto varias teorías sobre la función del quiasma óptico en los vertebrados (ver teorías).
+
+Según la hipótesis del giro axial, el quiasma óptico se desarrolla como consecuencia de un giro en el embrión temprano.
+
+En los gatos siameses con ciertos genotipos del gen albino, el cableado se interrumpe, con más nervios cruzados de lo normal.
+
+Dado que los gatos siameses, como los tigres albinos, también tienden a bizcar los ojos (estrabismo), se ha propuesto que este comportamiento podría compensar la cantidad anormal de decusación.
+
+
+=== Cefalópodos e insectos ===
+
+En cefalópodos e insectos, los tractos ópticos no cruzan la línea media del cuerpo, por lo que cada lado del cerebro procesa el ojo ipsilateral.
+
+
+== Historia ==
+
+El cruce de fibras nerviosas y el impacto que esto tuvo en la visión probablemente fue identificado por primera vez por el médico persa "Esmail Jorjani", que parece ser Zayn al-Din Gorgani (1042-1137).
+
+
+
+https://en.wikipedia.org/wiki/Optic_chiasm
+
+;;;PT;;;
+
+
+
+QUIASMA ÓPTICO
+
+
+O quiasma óptico, ou quiasma óptico, é a parte do cérebro onde os nervos ópticos se cruzam.
+
+Ele está localizado na parte inferior do cérebro imediatamente inferior ao hipotálamo.
+
+O quiasma óptico é encontrado em todos os vertebrados, embora em ciclóstomos (lâmpadas e peixes-bruxas), esteja localizado dentro do cérebro.
+
+Este artigo é sobre o quiasma óptico dos vertebrados, que é o quiasma nervoso mais conhecido, mas nem todo quiasma denota um cruzamento da linha média do corpo (por exemplo, em alguns invertebrados, veja Quiasma (anatomia)).
+
+Um cruzamento de nervos na linha média dentro do cérebro é chamado de decussação (consulte Definição de tipos de cruzamentos).
+
+
+== Estrutura ==
+
+Para os diferentes tipos de quiasma óptico, consulte
+
+Em todos os vertebrados, os nervos ópticos do olho esquerdo e direito encontram-se na linha média do corpo, ventralmente ao cérebro.
+
+Em muitos vertebrados, o nervo óptico esquerdo cruza o direito sem se fundir com ele.
+
+Em vertebrados com grande sobreposição dos campos visuais dos dois olhos, ou seja, a maioria dos mamíferos e aves, mas também anfíbios, répteis como camaleões, os dois nervos ópticos se fundem no quiasma óptico.
+
+Nesse quiasma óptico fundido, parte das fibras nervosas não cruza a linha média, mas continua em direção ao trato óptico do lado ipsilateral.
+
+Por esta decussação parcial, a parte do campo visual que é coberta por ambos os olhos é fundida para que o processamento da percepção de profundidade binocular por estereopsia seja ativado.
+
+No caso de tal decussação parcial, as fibras do nervo óptico nos lados mediais de cada retina (que correspondem ao lado lateral de cada hemicampo visual, porque a imagem é invertida) cruzam para o lado oposto da linha média do corpo.
+
+A retina inferonasal está relacionada com a porção anterior do quiasma óptico, enquanto as fibras retinianas superonasal estão relacionadas com a porção posterior do quiasma óptico.
+
+O cruzamento parcial das fibras do nervo óptico no quiasma óptico permite que o córtex visual receba o mesmo campo visual hemisférico de ambos os olhos.
+
+A sobreposição e processamento desses sinais visuais monoculares permitem que o córtex visual gere visão binocular e estereoscópica.
+
+O resultado final é que o hemisfério cerebral direito processa o hemisfério visual esquerdo e o hemisfério cerebral esquerdo processa o hemisfério visual direito.
+
+Além do quiasma óptico, com fibras cruzadas e não cruzadas, os nervos ópticos são chamados de tratos ópticos.
+
+O trato óptico se insere no tecto óptico (em mamíferos conhecido como colículo superior) do mesencéfalo.
+
+Nos mamíferos eles também se ramificam para o corpo geniculado lateral do tálamo, por sua vez dando-os ao córtex occipital do cérebro.
+
+
+== Desenvolvimento em mamíferos ==
+
+Durante o desenvolvimento, o cruzamento dos nervos ópticos é guiado principalmente por sinais como netrina, fenda, semaforina e efrina; e por morfogénios tais como sonic hedgehog (Shh) e Wnt.
+
+Essa navegação é mediada pelo cone de crescimento neuronal, uma estrutura que responde às pistas por sistemas de sinalização ligante-receptor que ativam vias a jusante induzindo mudanças no citoesqueleto.
+
+Os axônios das células ganglionares da retina (RGC) que saem do olho através do nervo óptico são impedidos de sair da via de desenvolvimento pela inibição de Slit2 e Sema5A, expressa na fronteira com a via do nervo óptico.
+
+Ssh expresso na linha média do sistema nervoso central inibe o cruzamento antes do quiasma, onde é regulado negativamente.
+
+A organização dos axônios do RGC muda de retinotópica para uma orientação em forma de folha plana à medida que se aproximam do local do quiasma.
+
+A maioria dos axônios do CGR cruza a linha média no diencéfalo ventral e continua até o colículo superior contralateral.
+
+O número de axônios que não cruzam a linha média e se projetam ipsilateralmente depende do grau de visão binocular do animal (3% em camundongos e 45% em humanos não cruzam).
+
+A efrina-B2 é expressa na linha média do quiasma pela glia radial e atua como um sinal repulsivo para os axônios originários da retina ventrotemporal expressando a proteína receptora EphB1, dando origem à projeção ipsilateral, ou não cruzada.
+
+Os axônios RGC que cruzam no quiasma óptico são guiados pelo fator de crescimento endotelial vascular, VEGF-A, expresso na linha média, que sinaliza através do receptor Neuropilin-1 (NRP1) expresso nos axônios RGC.
+
+O cruzamento de quiasma também é promovido por Nr-CAM (molécula de adesão celular relacionada a Ng-CAM) e Semaphorin6D (Sema6D) expressos na linha média, que formam um complexo que sinaliza para receptores Nr-CAM/Plexin-A1 no cruzamento de axônios RGC.
+
+
+== Outros animais ==
+
+=== Mamíferos ===
+
+Como todos os vertebrados, mesmo os fósseis mais antigos e os modernos sem mandíbula, possuem um quiasma óptico, não se sabe como ele evoluiu.
+
+Uma série de teorias foram propostas para a função do quiasma óptico em vertebrados (ver teorias).
+
+De acordo com a hipótese da torção axial, o quiasma óptico se desenvolve como consequência de uma torção no embrião inicial.
+
+Em gatos siameses com certos genótipos do gene albino, a fiação é interrompida, com mais cruzamentos nervosos do que o normal.
+
+Como os gatos siameses, como os tigres albinos, também tendem a cruzar os olhos (estrabismo), foi proposto que esse comportamento poderia compensar a quantidade anormal de decussação.
+
+
+=== Cefalópodes e insetos ===
+
+Em cefalópodes e insetos, os tratos ópticos não cruzam a linha média do corpo, de modo que cada lado do cérebro processa o olho ipsilateral.
+
+
+== História ==
+
+O cruzamento de fibras nervosas e o impacto na visão que isso teve provavelmente foi identificado pela primeira vez pelo médico persa "Esmail Jorjani", que parece ser Zayn al-Din Gorgani (1042-1137).
+
+
+
+https://en.wikipedia.org/wiki/Optic_chiasm
+
+;;;FR;;;
+
+
+
+CHIASME OPTIQUE
+
+
+Le chiasma optique, ou chiasma optique, est la partie du cerveau où se croisent les nerfs optiques.
+
+Il est situé au bas du cerveau immédiatement sous l'hypothalamus.
+
+Le chiasma optique se trouve chez tous les vertébrés, bien que chez les cyclostomes (lamproies et myxines), il soit situé dans le cerveau.
+
+Cet article porte sur le chiasme optique des vertébrés, qui est le chiasme nerveux le plus connu, mais tous les chiasmes ne dénotent pas un croisement de la ligne médiane du corps (par exemple, chez certains invertébrés, voir Chiasme (anatomie)).
+
+Un croisement médian de nerfs à l'intérieur du cerveau s'appelle une décussation (voir Définition des types de croisements).
+
+
+== Structure ==
+
+Pour les différents types de chiasmes optiques, voir
+
+Chez tous les vertébrés, les nerfs optiques de l'œil gauche et de l'œil droit se rejoignent sur la ligne médiane du corps, ventrale au cerveau.
+
+Chez de nombreux vertébrés, le nerf optique gauche croise le droit sans fusionner avec lui.
+
+Chez les vertébrés avec un grand chevauchement des champs visuels des deux yeux, c'est-à-dire la plupart des mammifères et des oiseaux, mais aussi des amphibiens, des reptiles comme les caméléons, les deux nerfs optiques se confondent dans le chiasma optique.
+
+Dans un tel chiasma optique fusionné, une partie des fibres nerveuses ne traverse pas la ligne médiane, mais continue vers le tractus optique du côté ipsilatéral.
+
+Par cette décussation partielle, la partie du champ visuel couverte par les deux yeux est fusionnée de sorte que le traitement de la perception binoculaire de la profondeur par stéréopsie est activé.
+
+Dans le cas d'une telle décussation partielle, les fibres du nerf optique situées sur les côtés médiaux de chaque rétine (qui correspondent au côté latéral de chaque hémichamp visuel, car l'image est inversée) se croisent du côté opposé de la ligne médiane du corps.
+
+La rétine inféronasale est liée à la partie antérieure du chiasma optique tandis que les fibres rétiniennes superonasales sont liées à la partie postérieure du chiasma optique.
+
+Le croisement partiel des fibres nerveuses optiques au niveau du chiasma optique permet au cortex visuel de recevoir le même champ visuel hémisphérique des deux yeux.
+
+La superposition et le traitement de ces signaux visuels monoculaires permettent au cortex visuel de générer une vision binoculaire et stéréoscopique.
+
+Le résultat net est que l'hémisphère cérébral droit traite l'hémichamp visuel gauche et que l'hémisphère cérébral gauche traite l'hémichamp visuel droit.
+
+Au-delà du chiasma optique, avec des fibres croisées et non croisées, les nerfs optiques sont appelés faisceaux optiques.
+
+Le tractus optique s'insère sur le tectum optique (chez les mammifères connu sous le nom de colliculus supérieur) du mésencéphale.
+
+Chez les mammifères, ils se ramifient également vers le corps géniculé latéral du thalamus, les donnant à leur tour au cortex occipital du cerveau.
+
+
+== Développement chez les mammifères ==
+
+Au cours du développement, le croisement des nerfs optiques est principalement guidé par des signaux tels que la nétrine, la fente, la sémaphorine et l'éphrine ; et par des morphogènes tels que sonic hedgehog (Shh) et Wnt.
+
+Cette navigation est médiée par le cône de croissance neuronale, une structure qui répond aux signaux des systèmes de signalisation ligand-récepteur qui activent les voies en aval induisant des changements dans le cytosquelette.
+
+Les axones des cellules ganglionnaires rétiniennes (RGC) quittant l'œil par le nerf optique sont empêchés de sortir de la voie de développement par l'inhibition de Slit2 et Sema5A, exprimée en bordure de la voie du nerf optique.
+
+Ssh exprimé au niveau de la ligne médiane du système nerveux central inhibe le croisement avant le chiasma, où il est régulé à la baisse.
+
+L'organisation des axones RGC passe d'une orientation rétinotopique à une orientation en forme de feuille plate à l'approche du site du chiasme.
+
+La plupart des axones RGC traversent la ligne médiane au niveau du diencéphale ventral et continuent jusqu'au colliculus supérieur controlatéral.
+
+Le nombre d'axones qui ne traversent pas la ligne médiane et se projettent homolatéralement dépend du degré de vision binoculaire de l'animal (3 % chez la souris et 45 % chez l'homme ne se croisent pas).
+
+L'éphrine-B2 est exprimée au niveau de la ligne médiane du chiasma par la glie radiale et agit comme un signal répulsif pour les axones provenant de la rétine ventrotemporale exprimant la protéine réceptrice EphB1, donnant lieu à la projection ipsilatérale ou non croisée.
+
+Les axones RGC qui se croisent au niveau du chiasma optique sont guidés par le facteur de croissance endothélial vasculaire, VEGF-A, exprimé sur la ligne médiane, qui signale via le récepteur Neuropiline-1 (NRP1) exprimé sur les axones RGC.
+
+Le croisement du chiasme est également favorisé par Nr-CAM (molécule d'adhésion cellulaire liée à Ng-CAM) et Semaphorin6D (Sema6D) exprimés sur la ligne médiane, qui forment un complexe qui signale aux récepteurs Nr-CAM/Plexin-A1 lors du croisement des axones RGC.
+
+
+== Autres animaux ==
+
+=== Mammifères ===
+
+Étant donné que tous les vertébrés, même les fossiles les plus anciens et les sans mâchoires modernes, possèdent un chiasma optique, on ne sait pas comment il a évolué.
+
+Un certain nombre de théories ont été proposées pour la fonction du chiasma optique chez les vertébrés (voir théories).
+
+Selon l'hypothèse de la torsion axiale, le chiasma optique se développe à la suite d'une torsion de l'embryon précoce.
+
+Chez les chats siamois avec certains génotypes du gène albinos, le câblage est perturbé, avec plus de croisements nerveux que la normale.
+
+Étant donné que les chats siamois, comme les tigres albinos, ont également tendance à croiser les yeux (strabisme), il a été proposé que ce comportement pourrait compenser la quantité anormale de décussation.
+
+
+=== Céphalopodes et insectes ===
+
+Chez les céphalopodes et les insectes, les voies optiques ne traversent pas la ligne médiane du corps, de sorte que chaque côté du cerveau traite l'œil ipsilatéral.
+
+
+== Historique ==
+
+Le croisement des fibres nerveuses et son impact sur la vision ont probablement été identifiés pour la première fois par le médecin persan "Esmail Jorjani", qui semble être Zayn al-Din Gorgani (1042-1137).
+
+
+
+https://en.wikipedia.org/wiki/Optic_chiasm

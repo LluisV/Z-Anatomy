@@ -1,0 +1,208 @@
+
+
+VOMERONASAL ORGAN
+
+
+The vomeronasal organ (VNO), or Jacobson's organ, is the paired auxiliary olfactory (smell) sense organ located in the soft tissue of the nasal septum, in the nasal cavity just above the roof of the mouth (the hard palate) in various tetrapods. 
+
+The name is derived from the fact that it lies adjacent to the unpaired vomer bone (from Latin vomer 'plowshare', for its shape) in the nasal septum. 
+
+It is present and functional in all snakes and lizards, and in many mammals, including cats, dogs, cattle, pigs, and some primates. 
+
+Some humans may have physical remnants of a VNO, but it is vestigial and non-functional. 
+The VNO contains the cell bodies of sensory neurons which have receptors that detect specific non-volatile (liquid) organic compounds which are conveyed to them from the environment. 
+
+These compounds emanate from prey, predators, and the compounds called sex pheromones from potential mates. 
+
+Activation of the VNO triggers an appropriate behavioral response to the presence of one of these three.
+VNO neurons are activated by the binding of certain chemicals to their G protein-coupled receptors: they express receptors from three families, called V1R, V2R, and FPR. 
+
+The axons from these neurons, called cranial nerve zero (CN 0), project to the accessory olfactory bulb, which targets the amygdala and bed nucleus of the stria terminalis, which in turn project to the anterior hypothalamus. 
+
+These structures constitute the accessory olfactory system.
+The VNO triggers the flehmen response in some mammals, which helps direct liquid organic chemicals to the organ. 
+
+The VNO was discovered by Frederik Ruysch prior to 1732, and later by Ludwig Jacobson in 1813.
+
+
+== Structure ==
+
+
+
+=== The organ ===
+
+
+The VNO is found at the base of the nasal cavity. 
+
+It is split into two, being divided by the nasal septum, with both sides possessing an elongated C-shaped, or crescent, lumen. 
+
+It is encompassed inside a bony or cartilaginous capsule which opens into the base of the nasal cavity.
+
+
+=== The system ===
+
+The vomeronasal receptor neurons possess axons which travel from the VNO to the accessory olfactory bulb (AOB), which is also known as the vomeronasal bulb. 
+
+These sensory receptors are located on the medial concave surface of the crescent lumen. 
+
+The lateral, convex surface of the lumen is covered with non-sensory ciliated cells, where the basal cells are also found. 
+
+At the dorsal and ventral aspect of the lumen are vomeronasal glands, which fill the vomeronasal lumen with fluid. 
+
+Sitting next to the lumen are blood vessels that dilate or constrict, forming a vascular pump that deliver stimuli to the lumen. 
+
+A thin duct, which opens onto the floor of the nasal cavity inside the nostril, is the only way of access for stimulus chemicals.
+During embryological development, the vomeronasal sensory neurons form from the nasal (olfactory) placode, at the anterior edge of the neural plate (cranial nerve zero).
+
+
+=== Sensory epithelium and receptors ===
+
+The VNO is a tubular crescent shape and split into two pairs, separated by the nasal septum. 
+
+The medial, concave area of the lumen is lined with a pseudo stratified epithelium that has three main cell types: receptor cells, supporting cells, and basal cells. 
+
+The supporting cells are located superficially on the membrane while the basal cells are found on the basement membrane near the non-sensory epithelium. 
+
+The receptor neurons possess apical microvilli, to which the sensory receptors are localized. 
+
+These are G-protein-coupled receptors, which are often referred to as pheromone receptors since vomeronasal receptors have been tied to detecting pheromones.
+Three G-protein-coupled receptors have been identified in the VNO, each found in distinct regions: the V1Rs, V2Rs, and FPRs. 
+
+V1Rs, V2Rs and FPRs are seven transmembrane receptors which are not closely related to odorant receptors expressed in the main olfactory neuroepithelium.
+V1 receptors, V1Rs, are linked to the G protein, Gαi2. 
+
+The benefit of the GPCR is that they signal in more than one direction. 
+
+V1Rs are located on the apical compartment of the VNO and a relatively short NH2 terminal and have a great sequence diversity in their transmembrane domains. 
+
+V1R is specifically expressed in the rodent vomeronasal organ (VNO) and is thought to be responsible for pheromone reception, eliciting a signal transduction.
+V2 receptors, V2Rs, are linked to the G-protein, Gαo. 
+
+These have long extracellular NH2 terminals which are thought to be the binding domain for pheromonal molecules and are located on the basal compartment of the VNO. 
+
+V2R genes can be grouped into four separate families, labelled A – D. 
+
+Family C V2Rs are quite distinct from the other families, and they are expressed in most basal neurons of the VNO.The vomeronasal organ's sensory neurons act on a different signaling pathway than that of the main olfactory system's sensory neurons. 
+
+Activation of the receptors stimulates phospholipase C, which in turn opens the ion channel TRPC2. 
+
+Upon stimulation activated by pheromones, IP3 production has been shown to increase in VNO membranes in many animals, while adenylyl cyclase and cyclic adenosine monophosphate (cAMP), the major signaling transduction molecules of the main olfactory system, remain unaltered. 
+
+This trend has been shown in many animals, such as the hamster, the pig, the rat, and the garter snake upon introduction of vaginal or seminal secretions into the environment.
+V1Rs and V2Rs are activated by distinct ligands or pheromones. 
+
+Gi proteins are activated upon stimulation with lipophilic odorants.
+Go proteins are activated by nonvolatile proteins, such as the major urinary proteins in mice and exocrine gland-secreting peptide 1 (ESP1).Many vomeronasal neurons are activated by chemicals in urine. 
+
+Some of the active compounds are sulfated steroids. 
+
+Detecting the types and amounts of different sulfated steroids conveys information about the urine donor's physiological state, and may therefore serve as an honest signal.
+Recent studies proved a new family of formyl peptide receptor like proteins in VNO membranes of mice, which points to a close phylogenetic relation of signaling mechanisms used in olfaction and chemosensors.
+
+
+=== Sensory neurons ===
+
+Vomeronasal sensory neurons are extremely sensitive and fire action potentials at currents as low as 1 pA. 
+
+Many patch-clamp recordings have confirmed the sensitivity of the vomeronasal neurons. 
+
+This sensitivity is tied to the fact that the resting potential of the vomeronasal neurons is relatively close to that of the firing threshold of these neurons. 
+
+Vomeronasal sensory neurons also show remarkably slow adaptation and the firing rate increases with increasing current up to 10 pA. 
+
+The main olfactory sensory neurons fire single burst action potentials and show a much quicker adaptation rate. 
+
+Activating neurons that have V1 receptors, V1Rs, cause field potentials that have weak, fluctuating responses that are seen the anterior of the accessory olfactory bulb, AOB. 
+
+Activation of neurons that contain V2 receptors, V2Rs, however, promote distinct oscillations in the posterior of the AOB.
+
+
+== Function ==
+
+In mammals, the sensory neurons of the vomeronasal organ detect non-volatile chemical cues, which requires direct physical contact with the source of odor. 
+
+Notably, some scents act as chemical-communication signals (pheromones) from other individuals of the same species. 
+
+Unlike the main olfactory bulb that sends neuronal signals to the olfactory cortex, the VNO sends neuronal signals to the accessory olfactory bulb and then to the amygdala, BNST, and ultimately hypothalamus. 
+
+Since the hypothalamus is a major neuroendocrine center (affecting aspects of reproductive physiology and behavior as well as other functions such as body temperature), this may explain how scents influence aggressive and mating behavior. 
+
+For example, in many vertebrates, nerve signals from the brain pass sensory information to the hypothalamus about seasonal changes and the availability of a mate. 
+
+In turn, the hypothalamus regulates the release of reproductive hormones required for breeding. 
+
+Some pheromones are detected by the main olfactory system.
+
+
+== Animals which possess ==
+
+The vomeronasal organ originated in tetrapods. 
+
+The functional vomeronasal system is found in all snakes and lizards, and many mammals.
+
+Salamanders perform a nose-tapping behavior to presumably activate their VNO.
+Snakes use this organ to sense prey, sticking their tongue out to gather scents and touching it to the opening of the organ when the tongue is retracted.
+The organ is well developed in strepsirrhine primates such as lemurs and lorises, developed to varying degrees in New World monkeys, and underdeveloped in Old World monkeys and apes.
+Elephants transfer chemosensory stimuli to the vomeronasal opening in the roof of their mouths using the prehensile structure, sometimes called a finger, at the tips of their trunks.
+Painted turtles use this organ to use their sense of smell underwater.
+Garter snakes – In addition to the main olfactory system, garter snakes also have the vomeronasal system which consists of the vomeronasal organ. 
+
+The vomeronasal organ plays an important role in some vertebrates with its sensitivity toward chemicals that are related to mating or sensing prey. 
+
+For example, the snakes use the organ to detect the presence of prey or predator by gathering the chemical cues in the environment through the flicking behavior of the forked tongue. 
+
+Moreover, garter snakes also uses the vomeronasal organ in their pheromone communication as well. 
+
+Particularly, there should be a distinction made between the odors and vomodors. 
+
+Odors are chemicals detected by the sensory cells in the nasal epithelium through the process of olfaction. 
+
+Vomodors are chemicals detected by the sensory cells from the vomeronasal organ through the process of vomerolfaction. 
+
+Upon entering the lumen of the organ, the chemical molecules will come into contact with the sensory cells which are attached to the neurosensory epithelium of the vomeronasal organ. 
+
+More importantly, a new research has demonstrated that the vomeronasal organ is necessary in order for garter snake to respond to airborne prey odors, but fail to respond to airborne non-prey odors.In some other mammals the entire organ contracts or pumps in order to draw in the scents.
+
+
+== Flehmen response ==
+
+Some mammals, particularly felids (cats) and ungulates (which includes horses, cattle, and pigs among other species), use a distinctive facial movement called the flehmen response to direct inhaled compounds to the VNO. 
+
+The animal lifts its head after finding the odorant, wrinkles its nose while lifting its lips, and ceases to breathe momentarily.
+Flehmen behavior is associated with “anatomical specialization”, and animals that present flehmen behavior have incisive papilla and ducts, which connect the oral cavity to the VNO, that are found behind their teeth. 
+
+However, horses are the exception: they exhibit flehmen response but do not have an incisive duct communication between the nasal and the oral cavity because they do not breathe through their mouths; instead, the VNOs connect to the nasal passages by the nasopalatine duct.Cats use their vomeronasal organ when scent rubbing; they are able to discriminate between similar smelling substances using this organ, and then perform the rubbing behaviour.
+
+
+== Evidence for existence in humans ==
+
+Many studies have tried to determine whether there is a VNO in adult human beings. 
+
+Trotier et al. estimated that around 92% of their subjects that had no septal surgery had at least one intact VNO. 
+
+Kjaer and Fisher Hansen, on the other hand, stated that the VNO structure disappears during fetal development as it does for some primates. 
+
+However, Smith and Bhatnagar (2000) asserted that Kjaer and Fisher Hansen simply missed the structure in older fetuses. 
+
+Won (2000) found evidence of a VNO in 13 of his 22 cadavers (59.1%) and 22 of his 78 living patients (28.2%). 
+
+In a study using retrospective analysis of nearly one thousand outpatient nasal endoscopies, Stoyanov et al. (2016) found the organ to be present in 26.83% of the Bulgarian population.Given these findings, some scientists have argued that there is a VNO in adult human beings. 
+
+However, most investigators have sought to identify the opening of the VNO in humans, rather than identify the tubular epithelial structure itself. 
+
+Thus it has been argued that such studies, employing macroscopic observational methods, have sometimes misidentified or even missed the vomeronasal organ.Among studies that use microanatomical methods, there is no reported evidence that human beings have active sensory neurons like those in working vomeronasal systems of other animals. 
+
+Furthermore, there is no evidence to date that suggests there are nerve and axon connections between any existing sensory receptor cells that may be in the adult human VNO and the brain. 
+
+Likewise, there is no evidence for any accessory olfactory bulb in adult human beings, and the key genes involved in VNO function in other mammals have pseudogenized in human beings. 
+
+Therefore, while many debate the structure's presence in adult human beings, a review of the scientific literature by Tristram Wyatt concluded that on current evidence, "most in the field... are skeptical about the likelihood of a functional VNO in adult human beings."
+
+
+== History ==
+
+The VNO was discovered by Frederik Ruysch prior to 1732, and later by Ludwig Jacobson in 1813.
+
+
+
+https://en.wikipedia.org/wiki/Vomeronasal_organ

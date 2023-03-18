@@ -1,0 +1,1284 @@
+
+
+PUTAMEN
+
+
+The putamen (; from Latin, meaning "nutshell") is a round structure located at the base of the forebrain (telencephalon). 
+
+The putamen and caudate nucleus together form the dorsal striatum. 
+
+It is also one of the structures that compose the basal nuclei. 
+
+Through various pathways, the putamen is connected to the substantia nigra, the globus pallidus, the claustrum, and the thalamus, in addition to many regions of the cerebral cortex. 
+
+A primary function of the putamen is to regulate movements at various stages (e.g. preparation and execution) and influence various types of learning. 
+
+It employs GABA, acetylcholine, and enkephalin to perform its functions. 
+
+The putamen also plays a role in degenerative neurological disorders, such as Parkinson's disease.
+
+
+== History ==
+
+The word "putamen" is from Latin, referring to that which "falls off in pruning", from "putare", meaning "to prune, to think, or to consider".Until recently, most MRI research focused broadly on the basal ganglia as a whole, for various reasons (e.g. image resolution, rarity of isolated infarct or hemorrhage within the putamen, etc.). 
+
+However, many studies have been done on the basal ganglia and relevant brain-behavior relationships. 
+
+In the 1970s, the first single unit recordings were done with monkeys monitoring pallidal neuron activity related to movement. 
+
+Since then, more extensive neuronal tracing, stimulation, and imaging research methods (e.g. fMRI, DWI) that allow for investigation of the putamen have been developed.
+
+
+== Anatomy ==
+
+
+The putamen is a structure in the forebrain. 
+
+Along with the caudate nucleus it forms the dorsal striatum. 
+
+The caudate and putamen contain the same types of neurons and circuits – many neuroanatomists consider the dorsal striatum to be a single structure, divided into two parts by a large fiber tract, the internal capsule, passing through the middle. 
+
+The putamen, together with the globus pallidus, makes up the lentiform nucleus. 
+
+The putamen is the outermost portion of the basal ganglia. 
+
+These are a group of nuclei in the brain that are interconnected with the cerebral cortex, thalamus, and brainstem. 
+
+Basal ganglia include the dorsal striatum, substantia nigra, nucleus accumbens, and the subthalamic nucleus.
+
+In mammals, the basal ganglia are associated with motor control, cognition, emotions, learning, and domain-general functions important for executive functioning as well as support for domain-specific languages. 
+
+The basal ganglia are located bilaterally, and have rostral and caudal divisions. 
+
+The putamen is located in the rostral division as part of the striatum. 
+
+The basal ganglia receive input from the cerebral cortex, via the striatum.
+The putamen is interconnected with the following structures:
+
+This description is rudimentary and does not nearly exhaust even the basic established circuitry of the putamen. 
+
+The cortico-subcortico-cortical circuits with putaminal involvement are dense and complicated, consisting of a wide range of axonal, dendritic, chemical, afferent, and efferent substrates. 
+
+The putamen's outputs are highly arborized across output structures, and cortical efferents arise from layers III-VI of the cortex, dependent on gyri and location within the putamen. 
+
+Topographical organization of the putamen combines the following elements: anterior-to-posterior functional and somatotopic gradients, lateral-to-medial functional and somatotopic gradients, diffuse terminal output, patchy localized terminal output, segregated terminals from adjacent regions, finely interdigitated terminals from distal cortical regions in a seemingly overlapping fashion.
+
+
+=== Caudate nucleus ===
+
+The caudate works with the putamen to receive the input from cerebral cortex. 
+
+Collectively, they can be considered the "entrance" to the basal ganglia. 
+
+Projections from the putamen reach the caudate directly via the caudolenticular grey bridges. 
+
+The putamen and caudate are jointly connected with the substantia nigra, however the caudate outputs more densely to the substantia nigra pars reticulata while the putamen sends more afferents to the internal globus pallidus.
+
+
+=== Substantia nigra ===
+
+The substantia nigra contains two parts: the substantia nigra pars compacta (SNpc) and the substantia nigra pars reticulata (SNpr). 
+
+The SNpc obtains input from the putamen and caudate, and sends information back. 
+
+The SNpr also obtains input from the putamen and caudate. 
+
+However, it sends the input outside the basal ganglia to control head and eye movements. 
+
+The SNpc produces dopamine, which is crucial for movements. 
+
+The SNpc is the part that degenerates during Parkinson's disease.
+
+
+=== Globus pallidus ===
+
+The globus pallidus contains two parts: the globus pallidus pars externa (GPe) and the globus pallidus pars interna (GPi). 
+
+Both regions acquire input from the putamen and caudate and communicate with the subthalamic nucleus. 
+
+However, mostly the GPi sends GABAergic inhibitory output to the thalamus. 
+
+The GPi also sends projections to parts of the midbrain, which have been assumed to affect posture control.
+
+
+== Physiology ==
+
+=== Types of pathways ===
+
+The putamen (and striatum in general) has numerous, parallel circuits that allow for cortico-subcortico-cortico communication loops. 
+
+These have been described, broadly, as the direct, indirect, and hyper direct pathways. 
+
+GABAergic projections of the putamen have an inhibitory effect on the thalamus. 
+
+Thalamic projections from the centromedian and parafascicular nuclei have an excitatory effect on the putamen. 
+
+Unlike the thalamus, which has broad reciprocal connectivity, cortical projections with the putamen are afferent, thus sending information as opposed to receiving it. 
+
+Cortical communication is accomplished via multi-fiber pathways as outlined previously (i.e. via other subcortical structures).
+
+
+=== Dopamine ===
+
+Dopamine is a neurotransmitter that has a dominant role in the putamen, most of it is supplied from the substantia nigra. 
+
+When a cell body of a neuron (in the putamen or caudate nuclei) fires an action potential, dopamine is released from the presynaptic terminal. 
+
+Since projections from the putamen and caudate nuclei modulate the dendrites of the substantia nigra, the dopamine influences the substantia nigra, which affects motor planning. 
+
+This same mechanism is involved in drug addiction. 
+
+In order to control the amount of dopamine in the synaptic cleft, and the amount of dopamine binding to post synaptic terminals, presynaptic dopaminergic neurons function to reuptake the excess dopamine.
+
+
+=== Other neurotransmitters ===
+
+The putamen also plays a role in modulation of other neurotransmitters. 
+
+It releases GABA, enkephalin, substance P, and acetylcholine. 
+
+It receives serotonin and glutamate.
+
+
+== Function: motor skills ==
+
+The putamen is interconnected with many other structures, and works in conjunction with them to influence many types of motor behaviors. 
+
+These include motor planning, learning, and execution, motor preparation, specifying amplitudes of movement, and movement sequences.
+
+Some neurologists hypothesize that the putamen also plays a role in the selection of movement (e.g. 
+
+Tourette syndrome) and the "automatic" performance of previously learned movements (e.g. 
+
+Parkinson's disease).In one study it was found that the putamen controls limb movement. 
+
+The goal of this study was to determine whether particular cell activity in the putamen of primates was related to the direction of limb movement or to the underlying pattern of muscular activity. 
+
+Two monkeys were trained to perform tasks that involved the movement of loads. 
+
+The tasks were created so that movement could be distinguished from muscle activity. 
+
+Neurons in the putamen were selected for monitoring only if they were related both to the task and to arm movements outside the task. 
+
+It was shown that 50% of the neurons that were monitored were related to the direction of movement, independent of the load.
+
+Another study was done to investigate movement extent and speed using PET mapping of regional cerebral blood flow in 13 humans. 
+
+Movement tasks were performed with a joystick-controlled cursor. 
+
+Statistical tests were done to calculate the extent of movements and what regions of the brain the movements correlate to. 
+
+It was found that "increasing movement extent was associated with parallel increases of rCBF in bilateral basal ganglia (BG; putamen and globus pallidus) and ipsilateral cerebellum.
+
+" This not only shows that the putamen affects movement but it also shows that the putamen integrates with other structures in order to perform tasks.One study was done in order to specifically investigate how the basal ganglia influences the learning of sequential movements. 
+
+Two monkeys were trained to press a series of buttons in sequence. 
+
+The methods used were designed to be able to monitor the well-learned tasks versus the new tasks. 
+
+Muscimol was injected into various parts of the basal ganglia, and it was found that "the learning of new sequences became deficient after injections in the anterior caudate and putamen, but not the middle-posterior putamen". 
+
+This shows that different areas of the striatum are utilized when performing various aspects of the learning of sequential movements.
+
+
+== Role in learning ==
+
+In many studies, it has become apparent that the putamen plays a role in many types of learning. 
+
+Some examples are listed below:
+
+
+=== Reinforcement and implicit learning ===
+
+Along with various types of movement, the putamen also affects reinforcement learning and implicit learning.Reinforcement learning is interacting with the environment and catering actions to maximize the outcome. 
+
+Implicit learning is a passive process where people are exposed to information and acquire knowledge through exposure. 
+
+Although the exact mechanisms are not known, it is clear that dopamine and tonically active neurons play a key role here. 
+
+Tonically active neurons are cholinergic interneurons that fire during the entire duration of the stimulus and fire at about 0.5–3 impulses per second. 
+
+Phasic neurons are the opposite and only fire an action potential when movement occurs.
+
+
+=== Category learning ===
+
+One particular study used patients with focal lesions on the basal ganglia (specifically the putamen) due to stroke in order to study category learning. 
+
+The advantage to using these types of patients is that dopaminergic projections to the prefrontal cortex are more likely to be intact. 
+
+Also, in these patients, it is easier to relate specific brain structures to function because the lesion only occurs in a specific place. 
+
+The goal of this study was to determine whether or not these lesions affect rule-based and information-integration task learning. 
+
+Rule-based tasks are learned via hypothesis-testing dependent on working memory. 
+
+Information-integration tasks are ones wherein the accuracy is maximized when information from two sources are integrated at a pre-decisional stage, which follows a procedural-based system.
+
+Seven participants with basal ganglia lesions were used in the experiment, along with nine control participants. 
+
+It is important to note that the caudate was not affected. 
+
+The participants were tested for each type of learning during separate sessions, so the information processes would not interfere with each other. 
+
+During each session, participants sat in front of a computer screen and various lines were displayed. 
+
+These lines were created by using a randomization technique where random samples were taken from one of four categories. 
+
+For ruled-based testing, these samples were used to construct lines of various length and orientation that fell into these four separate categories. 
+
+After the stimulus was displayed, the subjects were asked to press 1 of 4 buttons to indicate which category the line fell into. 
+
+The same process was repeated for information-integration tasks, and the same stimuli were used, except that the category boundaries were rotated 45°. 
+
+This rotation causes the subject to integrate the quantitative information about the line before determining what category it is in.
+
+It was found that subjects in the experimental group were impaired while performing rule-based tasks, but not information-integration ones. 
+
+After statistical testing, it was also hypothesized that the brain began using information-integration techniques to solve the rule-based learning tasks. 
+
+Since rule-based tasks use the hypothesis-testing system of the brain, it can be concluded that the hypothesis-testing system of the brain was damaged/weakened. 
+
+It is known that the caudate and working memories are part of this system. 
+
+Therefore, it was confirmed that the putamen is involved in category learning, competition between the systems, feed-back processing in rule-based tasks, and is involved in the processing of pre-frontal regions (which relate to working memory and executive functioning). 
+
+Now it is known that not only the basal ganglia and caudate affect category learning.
+
+
+== Role in "hate circuit" ==
+
+Tentative studies have suggested that the putamen may play a role in the so-called "hate circuit" of the brain. 
+
+A recent study was done in London by the department of cell and developmental biology at University College London. 
+
+An fMRI was done on patients while they viewed a picture of people they hated and people who were "neutral". 
+
+During the experiment, a "hate score" was recorded for each picture. 
+
+The activity in sub-cortical areas of the brain implied that the "hate circuit" involves the putamen and the insula. 
+
+It has been theorized that the "putamen plays a role in the perception of contempt and disgust, and may be part of the motor system that's mobilized to take action." 
+
+It was also found that the amount of activity in the hate circuit correlates with the amount of hate a person declares, which could have legal implications concerning malicious crimes.
+
+
+== Role in transgender individuals ==
+
+The putamen was found to have significantly larger amounts of grey matter in male to female transgender individuals compared to the putamen of a typical cisgender man. 
+
+This possibly suggests that a fundamental difference in brain composition may or may not exist between trans women and cisgender men.
+
+
+== Pathology ==
+
+=== Parkinson's disease ===
+
+After discovering the function of the putamen, it has become apparent to neurologists that the putamen and other parts of the basal ganglia play an important role in Parkinson's disease and other diseases that involve the degeneration of neurons.Parkinson's disease is the slow and steady loss of dopaminergic neurons in substantia nigra pars compacta. 
+
+In Parkinson's disease the putamen plays a key role because its inputs and outputs are interconnected to the substantia nigra and the globus pallidus. 
+
+In Parkinson's disease the activity in direct pathways to interior globus pallidus decreases and activity in indirect pathways to external globus pallidus increases. 
+
+It has also been noted that Parkinson's patients have a difficult time with motor planning.
+
+
+=== Other diseases and disorders ===
+
+The following diseases and disorders are linked with the putamen:
+
+Cognitive decline in Alzheimer's disease
+Huntington's disease
+Wilson's disease
+Dementia with Lewy bodies
+Corticobasal degeneration
+Tourette syndrome
+Schizophrenia
+Depression
+Attention deficit hyperactivity disorder
+Chorea
+Obsessive-Compulsive Disorder
+Kernicterus
+Other anxiety disorders
+
+
+== In other animals ==
+
+The putamen in humans is relatively similar in structure and function to other animals. 
+
+Therefore, many studies on the putamen have been done on animals (monkeys, rats, cats, etc.), as well as humans. 
+
+However, inter-species variation are indeed observed in mammals, and have been documented for white matter putaminal connectivity. 
+
+Variation is primarily related to structural connectivity patterns, while somatotopic organization principles are retained. 
+
+Primate research since the 1980s through to the present has established that cortical regions relation to higher-order cognition primarily send afferent neurons to the rostal-most portion of the putamen, while the remainder of this structure in primates primarily serves sensori-motor functions and is densely interconnected with primary and supplementary motor regions.
+
+
+
+https://en.wikipedia.org/wiki/Putamen
+;;;ES;;;
+
+
+
+PUTAMEN
+
+
+El putamen (del latín, que significa "cáscara de nuez") es una estructura redonda ubicada en la base del cerebro anterior (telencéfalo).
+
+El putamen y el núcleo caudado juntos forman el cuerpo estriado dorsal.
+
+También es una de las estructuras que componen los núcleos basales.
+
+A través de varias vías, el putamen está conectado con la sustancia negra, el globo pálido, el claustro y el tálamo, además de muchas regiones de la corteza cerebral.
+
+Una función principal del putamen es regular los movimientos en varias etapas (p. ej., preparación y ejecución) e influir en varios tipos de aprendizaje.
+
+Emplea GABA, acetilcolina y encefalina para realizar sus funciones.
+
+El putamen también juega un papel en los trastornos neurológicos degenerativos, como la enfermedad de Parkinson.
+
+
+== Historia ==
+
+La palabra "putamen" proviene del latín y se refiere a lo que "se cae al podar", de "putare", que significa "podar, pensar o considerar". en su conjunto, por diversas razones (p. ej., resolución de imagen, rareza de infarto aislado o hemorragia dentro del putamen, etc.).
+
+Sin embargo, se han realizado muchos estudios sobre los ganglios basales y las relaciones cerebrales-conductuales relevantes.
+
+En la década de 1970, las primeras grabaciones de una sola unidad se realizaron con monos que monitoreaban la actividad de las neuronas pálidas relacionadas con el movimiento.
+
+Desde entonces, se han desarrollado métodos de investigación de imágenes, estimulación y rastreo neuronal más extensos (p. ej., fMRI, DWI) que permiten la investigación del putamen.
+
+
+== Anatomía ==
+
+
+El putamen es una estructura en el cerebro anterior.
+
+Junto con el núcleo caudado forma el cuerpo estriado dorsal.
+
+El caudado y el putamen contienen los mismos tipos de neuronas y circuitos: muchos neuroanatomistas consideran que el cuerpo estriado dorsal es una estructura única, dividida en dos partes por un gran tracto de fibras, la cápsula interna, que pasa por el medio.
+
+El putamen, junto con el globo pálido, forma el núcleo lentiforme.
+
+El putamen es la porción más externa de los ganglios basales.
+
+Estos son un grupo de núcleos en el cerebro que están interconectados con la corteza cerebral, el tálamo y el tronco encefálico.
+
+Los ganglios basales incluyen el estriado dorsal, la sustancia negra, el núcleo accumbens y el núcleo subtalámico.
+
+En los mamíferos, los ganglios basales están asociados con el control motor, la cognición, las emociones, el aprendizaje y las funciones de dominio general importantes para el funcionamiento ejecutivo, así como el apoyo a los lenguajes de dominio específico.
+
+Los ganglios basales están ubicados bilateralmente y tienen divisiones rostrales y caudales.
+
+El putamen se encuentra en la división rostral como parte del cuerpo estriado.
+
+Los ganglios basales reciben información de la corteza cerebral, a través del cuerpo estriado.
+El putamen está interconectado con las siguientes estructuras:
+
+Esta descripción es rudimentaria y no agota ni siquiera el circuito básico establecido del putamen.
+
+Los circuitos cortico-subcortico-corticales con afectación putaminal son densos y complicados y constan de una amplia gama de sustratos axónicos, dendríticos, químicos, aferentes y eferentes.
+
+Las salidas del putamen están altamente arborizadas a través de las estructuras de salida, y los eferentes corticales surgen de las capas III-VI de la corteza, dependiendo de las circunvoluciones y la ubicación dentro del putamen.
+
+La organización topográfica del putamen combina los siguientes elementos: gradientes somatotópicos y funcionales de anterior a posterior, gradientes somatotópicos y funcionales de lateral a medial, salida terminal difusa, salida terminal localizada parcheada, terminales segregadas de regiones adyacentes, terminales finamente interdigitadas desde distal regiones corticales en una forma aparentemente superpuesta.
+
+
+=== Núcleo caudado ===
+
+El caudado trabaja con el putamen para recibir la entrada de la corteza cerebral.
+
+Colectivamente, pueden considerarse la "entrada" a los ganglios basales.
+
+Las proyecciones del putamen alcanzan el caudado directamente a través de los puentes grises caudolenticulares.
+
+El putamen y el caudado están conectados conjuntamente con la sustancia negra, sin embargo, el caudado sale más densamente a la pars reticulata de la sustancia negra, mientras que el putamen envía más aferentes al globo pálido interno.
+
+
+=== Sustancia negra ===
+
+La sustancia negra consta de dos partes: la sustancia negra pars compacta (SNpc) y la sustancia negra pars reticulata (SNpr).
+
+El SNpc obtiene información del putamen y el caudado y envía información de regreso.
+
+El SNpr también obtiene información del putamen y el caudado.
+
+Sin embargo, envía la entrada fuera de los ganglios basales para controlar los movimientos de la cabeza y los ojos.
+
+El SNpc produce dopamina, que es crucial para los movimientos.
+
+El SNpc es la parte que degenera durante la enfermedad de Parkinson.
+
+
+=== Globo pálido ===
+
+El globus pallidus consta de dos partes: el globus pallidus pars externa (GPe) y el globus pallidus pars interna (GPi).
+
+Ambas regiones reciben información del putamen y el caudado y se comunican con el núcleo subtalámico.
+
+Sin embargo, la mayor parte del GPi envía una salida inhibitoria GABAérgica al tálamo.
+
+El GPi también envía proyecciones a partes del mesencéfalo, que se supone que afectan el control de la postura.
+
+
+== Fisiología ==
+
+=== Tipos de caminos ===
+
+El putamen (y el cuerpo estriado en general) tiene numerosos circuitos paralelos que permiten bucles de comunicación cortico-subcortico-cortico.
+
+Estas han sido descritas, en términos generales, como las vías directa, indirecta e hiperdirecta.
+
+Las proyecciones GABAérgicas del putamen tienen un efecto inhibitorio sobre el tálamo.
+
+Las proyecciones talámicas de los núcleos centromediano y parafascicular tienen un efecto excitador sobre el putamen.
+
+A diferencia del tálamo, que tiene una amplia conectividad recíproca, las proyecciones corticales con el putamen son aferentes, por lo que envían información en lugar de recibirla.
+
+La comunicación cortical se logra a través de vías de múltiples fibras, como se describió anteriormente (es decir, a través de otras estructuras subcorticales).
+
+
+=== Dopamina ===
+
+La dopamina es un neurotransmisor que tiene un papel dominante en el putamen, la mayor parte proviene de la sustancia negra.
+
+Cuando el cuerpo celular de una neurona (en el putamen o en los núcleos caudados) dispara un potencial de acción, se libera dopamina desde la terminal presináptica.
+
+Dado que las proyecciones de los núcleos putamen y caudado modulan las dendritas de la sustancia negra, la dopamina influye en la sustancia negra, lo que afecta la planificación motora.
+
+Este mismo mecanismo está involucrado en la adicción a las drogas.
+
+Para controlar la cantidad de dopamina en la hendidura sináptica y la cantidad de dopamina que se une a los terminales postsinápticos, las neuronas dopaminérgicas presinápticas funcionan para recaptar el exceso de dopamina.
+
+
+=== Otros neurotransmisores ===
+
+El putamen también juega un papel en la modulación de otros neurotransmisores.
+
+Libera GABA, encefalina, sustancia P y acetilcolina.
+
+Recibe serotonina y glutamato.
+
+
+== Función: motricidad ==
+
+El putamen está interconectado con muchas otras estructuras y trabaja en conjunto con ellas para influir en muchos tipos de comportamientos motores.
+
+Estos incluyen la planificación motora, el aprendizaje y la ejecución, la preparación motora, la especificación de amplitudes de movimiento y las secuencias de movimiento.
+
+Algunos neurólogos plantean la hipótesis de que el putamen también juega un papel en la selección del movimiento (por ejemplo,
+
+síndrome de Tourette) y la realización "automática" de movimientos previamente aprendidos (p.
+
+enfermedad de Parkinson). En un estudio se encontró que el putamen controla el movimiento de las extremidades.
+
+El objetivo de este estudio fue determinar si la actividad celular particular en el putamen de los primates estaba relacionada con la dirección del movimiento de las extremidades o con el patrón subyacente de actividad muscular.
+
+Dos monos fueron entrenados para realizar tareas que involucraban el movimiento de cargas.
+
+Las tareas se crearon para que el movimiento pudiera distinguirse de la actividad muscular.
+
+Las neuronas en el putamen se seleccionaron para monitorear solo si estaban relacionadas tanto con la tarea como con los movimientos del brazo fuera de la tarea.
+
+Se demostró que el 50% de las neuronas monitoreadas estaban relacionadas con la dirección del movimiento, independiente de la carga.
+
+Se realizó otro estudio para investigar la extensión y la velocidad del movimiento utilizando el mapeo PET del flujo sanguíneo cerebral regional en 13 humanos.
+
+Las tareas de movimiento se realizaron con un cursor controlado por joystick.
+
+Se realizaron pruebas estadísticas para calcular la extensión de los movimientos y con qué regiones del cerebro se correlacionan los movimientos.
+
+Se encontró que "el aumento de la extensión del movimiento se asoció con aumentos paralelos de rCBF en los ganglios basales bilaterales (BG; putamen y globus pallidus) y el cerebelo ipsilateral.
+
+"Esto no solo muestra que el putamen afecta el movimiento, sino que también muestra que el putamen se integra con otras estructuras para realizar tareas. Se realizó un estudio para investigar específicamente cómo los ganglios basales influyen en el aprendizaje de movimientos secuenciales.
+
+Dos monos fueron entrenados para presionar una serie de botones en secuencia.
+
+Los métodos utilizados fueron diseñados para poder monitorear las tareas bien aprendidas versus las tareas nuevas.
+
+Se inyectó muscimol en varias partes de los ganglios basales y se encontró que "el aprendizaje de nuevas secuencias se volvió deficiente después de las inyecciones en el caudado anterior y el putamen, pero no en el putamen medio-posterior".
+
+Esto muestra que se utilizan diferentes áreas del cuerpo estriado cuando se realizan varios aspectos del aprendizaje de movimientos secuenciales.
+
+
+== Papel en el aprendizaje ==
+
+En muchos estudios, se ha hecho evidente que el putamen juega un papel en muchos tipos de aprendizaje.
+
+A continuación se enumeran algunos ejemplos:
+
+
+=== Refuerzo y aprendizaje implícito ===
+
+Junto con varios tipos de movimiento, el putamen también afecta el aprendizaje por refuerzo y el aprendizaje implícito. El aprendizaje por refuerzo interactúa con el medio ambiente y proporciona acciones para maximizar el resultado.
+
+El aprendizaje implícito es un proceso pasivo en el que las personas están expuestas a información y adquieren conocimientos a través de la exposición.
+
+Aunque no se conocen los mecanismos exactos, está claro que la dopamina y las neuronas tónicamente activas juegan un papel clave aquí.
+
+Las neuronas tónicamente activas son interneuronas colinérgicas que se disparan durante toda la duración del estímulo y disparan alrededor de 0,5 a 3 impulsos por segundo.
+
+Las neuronas fásicas son lo opuesto y solo disparan un potencial de acción cuando ocurre el movimiento.
+
+
+=== Categoría de aprendizaje ===
+
+Un estudio particular utilizó pacientes con lesiones focales en los ganglios basales (específicamente el putamen) debido a un accidente cerebrovascular para estudiar el aprendizaje de categorías.
+
+La ventaja de usar este tipo de pacientes es que es más probable que las proyecciones dopaminérgicas a la corteza prefrontal estén intactas.
+
+Además, en estos pacientes es más fácil relacionar estructuras cerebrales específicas con la función porque la lesión solo ocurre en un lugar específico.
+
+El objetivo de este estudio fue determinar si estas lesiones afectan o no el aprendizaje de tareas de integración de información y basado en reglas.
+
+Las tareas basadas en reglas se aprenden a través de pruebas de hipótesis que dependen de la memoria de trabajo.
+
+Las tareas de integración de información son aquellas en las que la precisión se maximiza cuando la información de dos fuentes se integra en una etapa previa a la decisión, que sigue un sistema basado en procedimientos.
+
+En el experimento se utilizaron siete participantes con lesiones de los ganglios basales, junto con nueve participantes de control.
+
+Es importante señalar que el caudado no se vio afectado.
+
+Los participantes fueron evaluados para cada tipo de aprendizaje durante sesiones separadas, para que los procesos de información no interfirieran entre sí.
+
+Durante cada sesión, los participantes se sentaban frente a una pantalla de computadora y se mostraban varias líneas.
+
+Estas líneas se crearon utilizando una técnica de aleatorización en la que se tomaron muestras aleatorias de una de cuatro categorías.
+
+Para las pruebas basadas en reglas, estas muestras se usaron para construir líneas de varias longitudes y orientaciones que caían en estas cuatro categorías separadas.
+
+Después de mostrar el estímulo, se les pidió a los sujetos que presionaran 1 de 4 botones para indicar en qué categoría caía la línea.
+
+Se repitió el mismo proceso para las tareas de integración de información y se usaron los mismos estímulos, excepto que los límites de las categorías se rotaron 45°.
+
+Esta rotación hace que el sujeto integre la información cuantitativa sobre la línea antes de determinar en qué categoría se encuentra.
+
+Se encontró que los sujetos del grupo experimental presentaban problemas al realizar tareas basadas en reglas, pero no en las de integración de información.
+
+Después de las pruebas estadísticas, también se planteó la hipótesis de que el cerebro comenzó a utilizar técnicas de integración de información para resolver las tareas de aprendizaje basadas en reglas.
+
+Dado que las tareas basadas en reglas utilizan el sistema de prueba de hipótesis del cerebro, se puede concluir que el sistema de prueba de hipótesis del cerebro estaba dañado/debilitado.
+
+Se sabe que el caudado y las memorias de trabajo forman parte de este sistema.
+
+Por lo tanto, se confirmó que el putamen está involucrado en el aprendizaje de categorías, la competencia entre los sistemas, el procesamiento de retroalimentación en tareas basadas en reglas y está involucrado en el procesamiento de las regiones prefrontales (que se relacionan con la memoria de trabajo y el funcionamiento ejecutivo). .
+
+Ahora se sabe que no solo los ganglios basales y el caudado afectan el aprendizaje de categorías.
+
+
+== Papel en el "circuito de odio" ==
+
+Estudios provisionales han sugerido que el putamen puede jugar un papel en el llamado "circuito de odio" del cerebro.
+
+El departamento de biología celular y del desarrollo del University College London realizó un estudio reciente en Londres.
+
+Se realizó una resonancia magnética funcional en pacientes mientras veían una imagen de personas que odiaban y personas que eran "neutrales".
+
+Durante el experimento, se registró una "puntuación de odio" para cada imagen.
+
+La actividad en las áreas subcorticales del cerebro implica que el "circuito del odio" involucra al putamen y la ínsula.
+
+Se ha teorizado que el "putamen juega un papel en la percepción del desprecio y el asco, y puede ser parte del sistema motor que se moviliza para actuar".
+
+También se encontró que la cantidad de actividad en el circuito de odio se correlaciona con la cantidad de odio que declara una persona, lo que podría tener implicaciones legales en relación con delitos maliciosos.
+
+
+== Papel en las personas transgénero ==
+
+Se encontró que el putamen tiene cantidades significativamente mayores de materia gris en individuos transgénero de hombre a mujer en comparación con el putamen de un hombre cisgénero típico.
+
+Esto posiblemente sugiere que puede existir o no una diferencia fundamental en la composición del cerebro entre las mujeres trans y los hombres cisgénero.
+
+
+== Patología ==
+
+=== Enfermedad de Parkinson ===
+
+Después de descubrir la función del putamen, los neurólogos se han dado cuenta de que el putamen y otras partes de los ganglios basales juegan un papel importante en la enfermedad de Parkinson y otras enfermedades que involucran la degeneración de las neuronas. La enfermedad de Parkinson es la pérdida lenta y constante de neuronas dopaminérgicas en la sustancia negra pars compacta.
+
+En la enfermedad de Parkinson, el putamen juega un papel clave porque sus entradas y salidas están interconectadas con la sustancia negra y el globo pálido.
+
+En la enfermedad de Parkinson, la actividad en las vías directas al globo pálido interior disminuye y la actividad en las vías indirectas al globo pálido externo aumenta.
+
+También se ha observado que los pacientes de Parkinson tienen dificultades con la planificación motora.
+
+
+=== Otras enfermedades y trastornos ===
+
+Las siguientes enfermedades y trastornos están relacionados con el putamen:
+
+Deterioro cognitivo en la enfermedad de Alzheimer
+enfermedad de Huntington
+enfermedad de wilson
+Demencia con cuerpos de Lewy
+Degeneración corticobasal
+Síndrome de Tourette
+Esquizofrenia
+Depresión
+desorden hiperactivo y deficit de atencion
+Corea
+Desorden obsesivo compulsivo
+Kernicterus
+Otros trastornos de ansiedad
+
+
+== En otros animales ==
+
+El putamen en humanos es relativamente similar en estructura y función a otros animales.
+
+Por lo tanto, muchos estudios sobre el putamen se han realizado en animales (monos, ratas, gatos, etc.), así como en humanos.
+
+Sin embargo, la variación entre especies se observa de hecho en los mamíferos y se ha documentado para la conectividad putaminal de la materia blanca.
+
+La variación se relaciona principalmente con los patrones de conectividad estructural, mientras que se conservan los principios de organización somatotópica.
+
+La investigación con primates desde la década de 1980 hasta el presente ha establecido que las regiones corticales en relación con la cognición de orden superior envían principalmente neuronas aferentes a la porción más rostal del putamen, mientras que el resto de esta estructura en primates cumple principalmente funciones sensoriomotoras y es densamente interconectado con regiones motoras primarias y suplementarias.
+
+
+
+https://en.wikipedia.org/wiki/Putamen
+
+;;;PT;;;
+
+
+
+PUTAMEN
+
+
+O putamen (; do latim, que significa "casca de noz") é uma estrutura redonda localizada na base do prosencéfalo (telencéfalo).
+
+O putâmen e o núcleo caudado juntos formam o estriado dorsal.
+
+É também uma das estruturas que compõem os núcleos basais.
+
+Por várias vias, o putâmen está conectado à substância negra, globo pálido, claustro e tálamo, além de muitas regiões do córtex cerebral.
+
+Uma função primária do putâmen é regular os movimentos em vários estágios (por exemplo, preparação e execução) e influenciar vários tipos de aprendizado.
+
+Emprega GABA, acetilcolina e encefalina para desempenhar suas funções.
+
+O putâmen também desempenha um papel em distúrbios neurológicos degenerativos, como a doença de Parkinson.
+
+
+== História ==
+
+A palavra "putamen" é do latim, referindo-se ao que "cai na poda", de "putare", que significa "podar, pensar ou considerar". como um todo, por vários motivos (por exemplo, resolução da imagem, raridade de infarto isolado ou hemorragia dentro do putâmen, etc.).
+
+No entanto, muitos estudos foram feitos sobre os gânglios da base e as relações cérebro-comportamento relevantes.
+
+Na década de 1970, as primeiras gravações de uma única unidade foram feitas com macacos monitorando a atividade do neurônio pálida relacionada ao movimento.
+
+Desde então, métodos mais extensos de rastreamento neuronal, estimulação e pesquisa de imagem (por exemplo, fMRI, DWI) que permitem a investigação do putâmen foram desenvolvidos.
+
+
+== Anatomia ==
+
+
+O putâmen é uma estrutura no prosencéfalo.
+
+Junto com o núcleo caudado forma o estriado dorsal.
+
+O caudado e o putâmen contêm os mesmos tipos de neurônios e circuitos – muitos neuroanatomistas consideram o estriado dorsal uma estrutura única, dividida em duas partes por um grande trato de fibras, a cápsula interna, que passa pelo meio.
+
+O putâmen, juntamente com o globo pálido, forma o núcleo lentiforme.
+
+O putâmen é a porção mais externa dos gânglios da base.
+
+Estes são um grupo de núcleos no cérebro que estão interconectados com o córtex cerebral, tálamo e tronco cerebral.
+
+Os gânglios da base incluem o estriado dorsal, a substância negra, o núcleo accumbens e o núcleo subtalâmico.
+
+Nos mamíferos, os gânglios da base estão associados ao controle motor, cognição, emoções, aprendizado e funções gerais de domínio importantes para o funcionamento executivo, bem como suporte para linguagens específicas de domínio.
+
+Os gânglios da base estão localizados bilateralmente e possuem divisões rostral e caudal.
+
+O putâmen está localizado na divisão rostral como parte do corpo estriado.
+
+Os gânglios da base recebem informações do córtex cerebral, via estriado.
+O putamen está interligado com as seguintes estruturas:
+
+Esta descrição é rudimentar e não esgota nem mesmo os circuitos básicos estabelecidos do putâmen.
+
+Os circuitos córtico-subcórtico-corticais com envolvimento putaminal são densos e complicados, consistindo em uma ampla gama de substratos axonais, dendríticos, químicos, aferentes e eferentes.
+
+As saídas do putâmen são altamente arborizadas através das estruturas de saída, e os eferentes corticais surgem das camadas III-VI do córtex, dependentes dos giros e da localização dentro do putâmen.
+
+A organização topográfica do putâmen combina os seguintes elementos: gradientes funcional e somatotópico anterior-posterior, gradientes funcional e somatotópico lateral-medial, saída terminal difusa, saída terminal localizada irregular, terminais segregados de regiões adjacentes, terminais finamente interdigitados de distal regiões corticais de uma forma aparentemente sobreposta.
+
+
+=== Núcleo caudado ===
+
+O caudado trabalha com o putâmen para receber a entrada do córtex cerebral.
+
+Coletivamente, eles podem ser considerados a "entrada" para os gânglios da base.
+
+As projeções do putâmen atingem o caudado diretamente através das pontes cinzentas caudolenticulares.
+
+O putâmen e o caudado estão conectados em conjunto com a substância negra, porém o caudado sai mais densamente para a substância negra pars reticulata, enquanto o putâmen envia mais aferências para o globo pálido interno.
+
+
+=== Substância negra ===
+
+A substância negra contém duas partes: a substância negra pars compacta (SNpc) e a substância negra pars reticulata (SNpr).
+
+O SNpc obtém informações do putâmen e caudado e envia as informações de volta.
+
+O SNpr também obtém informações do putâmen e do caudado.
+
+No entanto, ele envia a entrada para fora dos gânglios da base para controlar os movimentos da cabeça e dos olhos.
+
+O SNpc produz dopamina, que é crucial para os movimentos.
+
+O SNpc é a parte que degenera durante a doença de Parkinson.
+
+
+=== Globo pálido ===
+
+O globo pálido contém duas partes: o globo pálido pars externo (GPe) e o globo pálido pars interno (GPi).
+
+Ambas as regiões recebem informações do putâmen e caudado e se comunicam com o núcleo subtalâmico.
+
+No entanto, principalmente o GPi envia saída inibitória GABAérgica para o tálamo.
+
+O GPi também envia projeções para partes do mesencéfalo, que supostamente afetam o controle da postura.
+
+
+== Fisiologia ==
+
+=== Tipos de caminhos ===
+
+O putâmen (e estriado em geral) possui numerosos circuitos paralelos que permitem laços de comunicação córtico-subcórtico-córtico.
+
+Estes têm sido descritos, amplamente, como as vias diretas, indiretas e hiperdiretas.
+
+As projeções GABAérgicas do putâmen têm um efeito inibitório no tálamo.
+
+As projeções talâmicas dos núcleos centromediano e parafascicular têm um efeito excitatório sobre o putâmen.
+
+Ao contrário do tálamo, que possui ampla conectividade recíproca, as projeções corticais com o putâmen são aferentes, enviando informações ao invés de recebê-las.
+
+A comunicação cortical é realizada por meio de vias multifibras, conforme descrito anteriormente (ou seja, por meio de outras estruturas subcorticais).
+
+
+=== Dopamina ===
+
+A dopamina é um neurotransmissor que tem papel dominante no putâmen, sendo a maior parte fornecida pela substância negra.
+
+Quando um corpo celular de um neurônio (no putâmen ou núcleo caudado) dispara um potencial de ação, a dopamina é liberada do terminal pré-sináptico.
+
+Como as projeções dos núcleos putâmen e caudado modulam os dendritos da substância negra, a dopamina influencia a substância negra, o que afeta o planejamento motor.
+
+Este mesmo mecanismo está envolvido na dependência de drogas.
+
+A fim de controlar a quantidade de dopamina na fenda sináptica e a quantidade de dopamina que se liga aos terminais pós-sinápticos, os neurônios dopaminérgicos pré-sinápticos funcionam para recapturar o excesso de dopamina.
+
+
+=== Outros neurotransmissores ===
+
+O putâmen também desempenha um papel na modulação de outros neurotransmissores.
+
+Libera GABA, encefalina, substância P e acetilcolina.
+
+Recebe serotonina e glutamato.
+
+
+== Função: habilidades motoras ==
+
+O putâmen está interconectado com muitas outras estruturas e trabalha em conjunto com elas para influenciar muitos tipos de comportamentos motores.
+
+Isso inclui planejamento motor, aprendizado e execução, preparação motora, especificação de amplitudes de movimento e sequências de movimento.
+
+Alguns neurologistas supõem que o putâmen também desempenha um papel na seleção do movimento (p.
+
+síndrome de Tourette) e o desempenho "automático" de movimentos previamente aprendidos (por exemplo,
+
+Doença de Parkinson). Em um estudo verificou-se que o putâmen controla o movimento dos membros.
+
+O objetivo deste estudo foi determinar se a atividade celular específica no putâmen de primatas estava relacionada à direção do movimento dos membros ou ao padrão subjacente de atividade muscular.
+
+Dois macacos foram treinados para realizar tarefas que envolviam a movimentação de cargas.
+
+As tarefas foram criadas para que o movimento pudesse ser distinguido da atividade muscular.
+
+Neurônios no putâmen foram selecionados para monitoramento apenas se estivessem relacionados tanto à tarefa quanto aos movimentos do braço fora da tarefa.
+
+Foi demonstrado que 50% dos neurônios monitorados estavam relacionados à direção do movimento, independente da carga.
+
+Outro estudo foi feito para investigar a extensão e a velocidade do movimento usando o mapeamento PET do fluxo sanguíneo cerebral regional em 13 humanos.
+
+As tarefas de movimento foram realizadas com um cursor controlado por joystick.
+
+Testes estatísticos foram feitos para calcular a extensão dos movimentos e a quais regiões do cérebro os movimentos se correlacionam.
+
+Verificou-se que "o aumento da extensão do movimento estava associado a aumentos paralelos de rCBF nos gânglios basais bilaterais (BG; putâmen e globo pálido) e cerebelo ipsilateral.
+
+" Isso não apenas mostra que o putâmen afeta o movimento, mas também mostra que o putâmen se integra a outras estruturas para realizar tarefas. Um estudo foi feito para investigar especificamente como os gânglios da base influenciam o aprendizado de movimentos sequenciais.
+
+Dois macacos foram treinados para pressionar uma série de botões em sequência.
+
+Os métodos utilizados foram projetados para poder monitorar as tarefas bem aprendidas versus as novas tarefas.
+
+Muscimol foi injetado em várias partes dos gânglios da base, e descobriu-se que "a aprendizagem de novas sequências tornou-se deficiente após injeções no caudado anterior e no putâmen, mas não no putâmen médio-posterior".
+
+Isso mostra que diferentes áreas do corpo estriado são utilizadas na execução de vários aspectos do aprendizado de movimentos sequenciais.
+
+
+== Papel na aprendizagem ==
+
+Em muitos estudos, tornou-se evidente que o putâmen desempenha um papel em muitos tipos de aprendizagem.
+
+Alguns exemplos estão listados abaixo:
+
+
+=== Reforço e aprendizagem implícita ===
+
+Juntamente com vários tipos de movimento, o putâmen também afeta o aprendizado por reforço e o aprendizado implícito. O aprendizado por reforço está interagindo com o ambiente e promovendo ações para maximizar o resultado.
+
+A aprendizagem implícita é um processo passivo onde as pessoas são expostas à informação e adquirem conhecimento através da exposição.
+
+Embora os mecanismos exatos não sejam conhecidos, está claro que a dopamina e os neurônios tonicamente ativos desempenham um papel fundamental aqui.
+
+Neurônios tonicamente ativos são interneurônios colinérgicos que disparam durante toda a duração do estímulo e disparam cerca de 0,5-3 impulsos por segundo.
+
+Os neurônios fásicos são o oposto e só disparam um potencial de ação quando ocorre o movimento.
+
+
+=== Aprendizado de categoria ===
+
+Um estudo em particular utilizou pacientes com lesões focais nos gânglios da base (especificamente o putâmen) devido a acidente vascular cerebral para estudar o aprendizado de categorias.
+
+A vantagem de usar esses tipos de pacientes é que as projeções dopaminérgicas para o córtex pré-frontal têm maior probabilidade de estarem intactas.
+
+Além disso, nesses pacientes, é mais fácil relacionar estruturas cerebrais específicas à função, pois a lesão ocorre apenas em um local específico.
+
+O objetivo deste estudo foi determinar se essas lesões afetam ou não o aprendizado de tarefas baseado em regras e integração de informações.
+
+Tarefas baseadas em regras são aprendidas por meio de testes de hipóteses dependentes da memória de trabalho.
+
+As tarefas de integração de informações são aquelas em que a precisão é maximizada quando as informações de duas fontes são integradas em um estágio pré-decisório, que segue um sistema baseado em procedimentos.
+
+Sete participantes com lesões nos gânglios da base foram usados ​​no experimento, juntamente com nove participantes de controle.
+
+É importante notar que o caudado não foi afetado.
+
+Os participantes foram testados para cada tipo de aprendizagem em sessões separadas, para que os processos de informação não interferissem entre si.
+
+Durante cada sessão, os participantes sentaram-se em frente a uma tela de computador e várias linhas foram exibidas.
+
+Essas linhas foram criadas usando uma técnica de randomização onde amostras aleatórias foram retiradas de uma das quatro categorias.
+
+Para testes baseados em regras, essas amostras foram usadas para construir linhas de vários comprimentos e orientações que se enquadravam nessas quatro categorias separadas.
+
+Após a exibição do estímulo, os sujeitos foram solicitados a pressionar 1 de 4 botões para indicar em qual categoria a linha se enquadrava.
+
+O mesmo processo foi repetido para tarefas de integração de informações e os mesmos estímulos foram usados, exceto que os limites das categorias foram girados 45°.
+
+Essa rotação faz com que o sujeito integre as informações quantitativas sobre a linha antes de determinar em qual categoria ela está.
+
+Verificou-se que os sujeitos do grupo experimental foram prejudicados ao realizar tarefas baseadas em regras, mas não as de integração de informações.
+
+Após testes estatísticos, também foi levantada a hipótese de que o cérebro começou a usar técnicas de integração de informações para resolver as tarefas de aprendizado baseadas em regras.
+
+Como as tarefas baseadas em regras usam o sistema de teste de hipóteses do cérebro, pode-se concluir que o sistema de teste de hipóteses do cérebro foi danificado/enfraquecido.
+
+Sabe-se que as memórias caudado e de trabalho fazem parte desse sistema.
+
+Portanto, foi confirmado que o putâmen está envolvido no aprendizado de categorias, competição entre os sistemas, processamento de feedback em tarefas baseadas em regras e está envolvido no processamento de regiões pré-frontais (que se relacionam com memória de trabalho e funcionamento executivo) .
+
+Agora sabe-se que não apenas os gânglios da base e o caudado afetam o aprendizado das categorias.
+
+
+== Papel no "circuito de ódio" ==
+
+Estudos preliminares sugeriram que o putâmen pode desempenhar um papel no chamado "circuito do ódio" do cérebro.
+
+Um estudo recente foi feito em Londres pelo departamento de biologia celular e do desenvolvimento da University College London.
+
+Uma fMRI foi feita em pacientes enquanto eles viam uma foto de pessoas que eles odiavam e pessoas que eram "neutras".
+
+Durante o experimento, uma "pontuação de ódio" foi registrada para cada imagem.
+
+A atividade em áreas subcorticais do cérebro implicava que o "circuito do ódio" envolve o putâmen e a ínsula.
+
+Foi teorizado que o "putamen desempenha um papel na percepção de desprezo e desgosto, e pode ser parte do sistema motor que é mobilizado para agir".
+
+Verificou-se também que a quantidade de atividade no circuito de ódio se correlaciona com a quantidade de ódio que uma pessoa declara, o que pode ter implicações legais em relação a crimes dolosos.
+
+
+== Papel em indivíduos transgêneros ==
+
+O putâmen foi encontrado para ter quantidades significativamente maiores de massa cinzenta em indivíduos transgêneros masculinos para femininos em comparação com o putâmen de um homem cisgênero típico.
+
+Isso possivelmente sugere que uma diferença fundamental na composição do cérebro pode ou não existir entre mulheres trans e homens cisgêneros.
+
+
+== Patologia ==
+
+=== Doença de Parkinson ===
+
+Depois de descobrir a função do putâmen, tornou-se evidente para os neurologistas que o putâmen e outras partes dos gânglios da base desempenham um papel importante na doença de Parkinson e outras doenças que envolvem a degeneração dos neurônios. neurônios dopaminérgicos na substância negra pars compacta.
+
+Na doença de Parkinson, o putâmen desempenha um papel fundamental porque suas entradas e saídas estão interligadas à substância negra e ao globo pálido.
+
+Na doença de Parkinson, a atividade nas vias diretas para o globo pálido interior diminui e a atividade nas vias indiretas para o globo pálido externo aumenta.
+
+Também foi observado que os pacientes de Parkinson têm dificuldade com o planejamento motor.
+
+
+=== Outras doenças e distúrbios ===
+
+As seguintes doenças e distúrbios estão ligados ao putâmen:
+
+Declínio cognitivo na doença de Alzheimer
+Doença de Huntington
+doença de Wilson
+Demência com corpos de Lewy
+Degeneração corticobasal
+síndrome de Tourette
+Esquizofrenia
+Depressão
+Transtorno de déficit de atenção e hiperatividade
+Coréia
+Transtorno obsessivo-compulsivo
+Kernicterus
+Outros transtornos de ansiedade
+
+
+== Em outros animais ==
+
+O putâmen em humanos é relativamente semelhante em estrutura e função a outros animais.
+
+Portanto, muitos estudos sobre o putâmen foram feitos em animais (macacos, ratos, gatos, etc.), bem como em humanos.
+
+No entanto, variações interespécies são de fato observadas em mamíferos e foram documentadas para conectividade putaminal da substância branca.
+
+A variação está relacionada principalmente aos padrões de conectividade estrutural, enquanto os princípios de organização somatotópica são mantidos.
+
+Pesquisas com primatas desde a década de 1980 até o presente estabeleceram que as regiões corticais relacionadas à cognição de ordem superior enviam principalmente neurônios aferentes para a porção mais rostal do putâmen, enquanto o restante dessa estrutura em primatas serve principalmente para funções sensório-motoras e é densamente interconectado com regiões motoras primárias e suplementares.
+
+
+
+https://en.wikipedia.org/wiki/Putamen
+
+;;;FR;;;
+
+
+
+PUTAMEN
+
+
+Le putamen (; du latin, signifiant "coquille de noix") est une structure ronde située à la base du cerveau antérieur (télencéphale).
+
+Le putamen et le noyau caudé forment ensemble le striatum dorsal.
+
+C'est aussi l'une des structures qui composent les noyaux basaux.
+
+Par diverses voies, le putamen est relié à la substantia nigra, au globus pallidus, au claustrum et au thalamus, en plus de nombreuses régions du cortex cérébral.
+
+L'une des principales fonctions du putamen est de réguler les mouvements à différentes étapes (par exemple, la préparation et l'exécution) et d'influencer différents types d'apprentissage.
+
+Il utilise du GABA, de l'acétylcholine et de l'encéphaline pour remplir ses fonctions.
+
+Le putamen joue également un rôle dans les troubles neurologiques dégénératifs, comme la maladie de Parkinson.
+
+
+== Historique ==
+
+Le mot "putamen" vient du latin, se référant à ce qui "tombe lors de la taille", de "putare", signifiant "tailler, penser ou considérer". Jusqu'à récemment, la plupart des recherches en IRM se concentraient largement sur les ganglions de la base. dans son ensemble, pour diverses raisons (ex. résolution d'image, rareté d'infarctus isolé ou d'hémorragie au sein du putamen, etc.).
+
+Cependant, de nombreuses études ont été menées sur les ganglions de la base et les relations cerveau-comportement pertinentes.
+
+Dans les années 1970, les premiers enregistrements unitaires ont été réalisés avec des singes surveillant l'activité des neurones pallidaux liée au mouvement.
+
+Depuis lors, des méthodes de recherche neuronales plus approfondies de traçage, de stimulation et d'imagerie (par exemple IRMf, DWI) qui permettent d'étudier le putamen ont été développées.
+
+
+== Anatomie ==
+
+
+Le putamen est une structure du cerveau antérieur.
+
+Avec le noyau caudé, il forme le striatum dorsal.
+
+Le caudé et le putamen contiennent les mêmes types de neurones et de circuits - de nombreux neuroanatomistes considèrent le striatum dorsal comme une structure unique, divisée en deux parties par un grand faisceau de fibres, la capsule interne, passant par le milieu.
+
+Le putamen, avec le globus pallidus, constitue le noyau lentiforme.
+
+Le putamen est la partie la plus externe des ganglions de la base.
+
+Il s'agit d'un groupe de noyaux dans le cerveau qui sont interconnectés avec le cortex cérébral, le thalamus et le tronc cérébral.
+
+Les ganglions de la base comprennent le striatum dorsal, la substance noire, le noyau accumbens et le noyau sous-thalamique.
+
+Chez les mammifères, les ganglions de la base sont associés au contrôle moteur, à la cognition, aux émotions, à l'apprentissage et aux fonctions générales du domaine importantes pour le fonctionnement exécutif ainsi qu'au soutien des langages spécifiques au domaine.
+
+Les ganglions de la base sont situés bilatéralement et ont des divisions rostrale et caudale.
+
+Le putamen est situé dans la division rostrale dans le cadre du striatum.
+
+Les ganglions de la base reçoivent des informations du cortex cérébral, via le striatum.
+Le putamen est interconnecté avec les structures suivantes:
+
+Cette description est rudimentaire et n'épuise même pas les circuits de base établis du putamen.
+
+Les circuits cortico-sous-cortico-corticaux avec atteinte putaminale sont denses et compliqués, constitués d'un large éventail de substrats axonaux, dendritiques, chimiques, afférents et efférents.
+
+Les sorties du putamen sont fortement arborisées à travers les structures de sortie, et les efférents corticaux proviennent des couches III-VI du cortex, en fonction des gyri et de l'emplacement dans le putamen.
+
+L'organisation topographique du putamen combine les éléments suivants : gradients fonctionnels et somatotopiques antéro-postérieurs, gradients fonctionnels et somatotopiques latéral-médial, sortie terminale diffuse, sortie terminale localisée inégale, terminaisons séparées des régions adjacentes, terminaisons finement interdigitées de la partie distale régions corticales d'une manière qui semble se chevaucher.
+
+
+=== Noyau caudé ===
+
+Le caudé travaille avec le putamen pour recevoir l'entrée du cortex cérébral.
+
+Collectivement, ils peuvent être considérés comme "l'entrée" des ganglions de la base.
+
+Les projections du putamen atteignent le caudé directement via les ponts gris caudolenticulaires.
+
+Le putamen et le caudé sont conjointement connectés à la substantia nigra, mais les sorties caudées sont plus denses vers la substantia nigra pars reticulata tandis que le putamen envoie plus d'afférences au globus pallidus interne.
+
+
+=== Substance noire ===
+
+La substantia nigra contient deux parties : la substantia nigra pars compacta (SNpc) et la substantia nigra pars reticulata (SNpr).
+
+Le SNpc obtient des informations du putamen et du caudé, et renvoie les informations.
+
+Le SNpr obtient également des informations du putamen et du caudé.
+
+Cependant, il envoie l'entrée à l'extérieur des ganglions de la base pour contrôler les mouvements de la tête et des yeux.
+
+Le SNpc produit de la dopamine, qui est cruciale pour les mouvements.
+
+Le SNpc est la partie qui dégénère au cours de la maladie de Parkinson.
+
+
+=== Globus pallidus ===
+
+Le globus pallidus contient deux parties : le globus pallidus pars externa (GPe) et le globus pallidus pars interna (GPi).
+
+Les deux régions acquièrent l'apport du putamen et du caudé et communiquent avec le noyau sous-thalamique.
+
+Cependant, la plupart du temps, le GPi envoie une sortie inhibitrice GABAergique au thalamus.
+
+Le GPi envoie également des projections à des parties du mésencéphale, qui ont été supposées affecter le contrôle de la posture.
+
+
+== Physiologie ==
+
+=== Types de parcours ===
+
+Le putamen (et le striatum en général) possède de nombreux circuits parallèles qui permettent des boucles de communication cortico-sous-cortico-cortico.
+
+Celles-ci ont été décrites, en gros, comme les voies directes, indirectes et hyper directes.
+
+Les projections GABAergiques du putamen ont un effet inhibiteur sur le thalamus.
+
+Les projections thalamiques des noyaux centromédian et parafasciculaire ont un effet excitateur sur le putamen.
+
+Contrairement au thalamus, qui a une large connectivité réciproque, les projections corticales avec le putamen sont afférentes, envoyant ainsi des informations au lieu de les recevoir.
+
+La communication corticale est accomplie via des voies multifibres comme indiqué précédemment (c'est-à-dire via d'autres structures sous-corticales).
+
+
+=== Dopamine ===
+
+La dopamine est un neurotransmetteur qui joue un rôle dominant dans le putamen, la majeure partie est fournie par la substantia nigra.
+
+Lorsqu'un corps cellulaire d'un neurone (dans le putamen ou les noyaux caudés) déclenche un potentiel d'action, la dopamine est libérée du terminal présynaptique.
+
+Étant donné que les projections du putamen et des noyaux caudés modulent les dendrites de la substance noire, la dopamine influence la substance noire, ce qui affecte la planification motrice.
+
+Ce même mécanisme est impliqué dans la toxicomanie.
+
+Afin de contrôler la quantité de dopamine dans la fente synaptique et la quantité de dopamine se liant aux terminaisons post-synaptiques, les neurones dopaminergiques présynaptiques fonctionnent pour recapter l'excès de dopamine.
+
+
+=== Autres neurotransmetteurs ===
+
+Le putamen joue également un rôle dans la modulation d'autres neurotransmetteurs.
+
+Il libère du GABA, de l'enképhaline, de la substance P et de l'acétylcholine.
+
+Il reçoit de la sérotonine et du glutamate.
+
+
+== Fonction : motricité ==
+
+Le putamen est interconnecté avec de nombreuses autres structures et travaille en conjonction avec elles pour influencer de nombreux types de comportements moteurs.
+
+Il s'agit notamment de la planification motrice, de l'apprentissage et de l'exécution, de la préparation motrice, de la spécification des amplitudes de mouvement et des séquences de mouvements.
+
+Certains neurologues émettent l'hypothèse que le putamen joue également un rôle dans la sélection du mouvement (par exemple
+
+syndrome de Gilles de la Tourette) et l'exécution "automatique" de mouvements préalablement appris (ex.
+
+la maladie de Parkinson). Dans une étude, il a été constaté que le putamen contrôle le mouvement des membres.
+
+Le but de cette étude était de déterminer si une activité cellulaire particulière dans le putamen des primates était liée à la direction du mouvement des membres ou au schéma sous-jacent de l'activité musculaire.
+
+Deux singes ont été formés pour effectuer des tâches impliquant le déplacement de charges.
+
+Les tâches ont été créées pour que le mouvement puisse être distingué de l'activité musculaire.
+
+Les neurones du putamen n'ont été sélectionnés pour la surveillance que s'ils étaient liés à la fois à la tâche et aux mouvements du bras en dehors de la tâche.
+
+Il a été montré que 50% des neurones surveillés étaient liés à la direction du mouvement, indépendamment de la charge.
+
+Une autre étude a été réalisée pour étudier l'étendue et la vitesse des mouvements à l'aide de la cartographie TEP du flux sanguin cérébral régional chez 13 humains.
+
+Les tâches de mouvement ont été effectuées avec un curseur contrôlé par joystick.
+
+Des tests statistiques ont été effectués pour calculer l'étendue des mouvements et les régions du cerveau auxquelles les mouvements sont liés.
+
+Il a été constaté que "l'augmentation de l'étendue des mouvements était associée à des augmentations parallèles du rCBF dans les noyaux gris centraux bilatéraux (BG; putamen et globus pallidus) et le cervelet ipsilatéral.
+
+" Cela montre non seulement que le putamen affecte le mouvement, mais aussi que le putamen s'intègre à d'autres structures afin d'effectuer des tâches. Une étude a été réalisée afin d'étudier spécifiquement comment les ganglions de la base influencent l'apprentissage des mouvements séquentiels.
+
+Deux singes ont été entraînés à appuyer successivement sur une série de boutons.
+
+Les méthodes utilisées ont été conçues pour pouvoir contrôler les tâches bien apprises par rapport aux nouvelles tâches.
+
+Muscimol a été injecté dans diverses parties des ganglions de la base, et il a été constaté que "l'apprentissage de nouvelles séquences devenait déficient après des injections dans le caudé antérieur et le putamen, mais pas le putamen moyen-postérieur".
+
+Cela montre que différentes zones du striatum sont utilisées lors de l'exécution de divers aspects de l'apprentissage de mouvements séquentiels.
+
+
+== Rôle dans l'apprentissage ==
+
+Dans de nombreuses études, il est devenu évident que le putamen joue un rôle dans de nombreux types d'apprentissage.
+
+Quelques exemples sont listés ci-dessous :
+
+
+=== Renforcement et apprentissage implicite ===
+
+Outre divers types de mouvement, le putamen affecte également l'apprentissage par renforcement et l'apprentissage implicite. L'apprentissage par renforcement interagit avec l'environnement et les actions de restauration pour maximiser le résultat.
+
+L'apprentissage implicite est un processus passif où les gens sont exposés à des informations et acquièrent des connaissances par l'exposition.
+
+Bien que les mécanismes exacts ne soient pas connus, il est clair que la dopamine et les neurones toniquement actifs jouent ici un rôle clé.
+
+Les neurones toniquement actifs sont des interneurones cholinergiques qui se déclenchent pendant toute la durée du stimulus et se déclenchent à environ 0,5 à 3 impulsions par seconde.
+
+Les neurones phasiques sont à l'opposé et ne déclenchent un potentiel d'action que lorsqu'un mouvement se produit.
+
+
+=== Catégorie d'apprentissage ===
+
+Une étude particulière a utilisé des patients présentant des lésions focales sur les ganglions de la base (en particulier le putamen) dues à un accident vasculaire cérébral afin d'étudier l'apprentissage des catégories.
+
+L'avantage d'utiliser ces types de patients est que les projections dopaminergiques vers le cortex préfrontal sont plus susceptibles d'être intactes.
+
+De plus, chez ces patients, il est plus facile de relier des structures cérébrales spécifiques à la fonction car la lésion ne se produit qu'à un endroit spécifique.
+
+L'objectif de cette étude était de déterminer si oui ou non ces lésions affectent l'apprentissage des tâches basées sur des règles et l'intégration de l'information.
+
+Les tâches basées sur des règles sont apprises via des tests d'hypothèses dépendant de la mémoire de travail.
+
+Les tâches d'intégration d'informations sont celles où la précision est maximisée lorsque les informations provenant de deux sources sont intégrées à une étape pré-décisionnelle, qui suit un système basé sur la procédure.
+
+Sept participants présentant des lésions des ganglions de la base ont été utilisés dans l'expérience, ainsi que neuf participants témoins.
+
+Il est important de noter que le caudé n'a pas été affecté.
+
+Les participants ont été testés pour chaque type d'apprentissage au cours de sessions séparées, afin que les processus d'information n'interfèrent pas les uns avec les autres.
+
+Au cours de chaque session, les participants étaient assis devant un écran d'ordinateur et différentes lignes étaient affichées.
+
+Ces lignées ont été créées en utilisant une technique de randomisation où des échantillons aléatoires ont été prélevés dans l'une des quatre catégories.
+
+Pour les tests basés sur des règles, ces échantillons ont été utilisés pour construire des lignes de différentes longueurs et orientations qui appartenaient à ces quatre catégories distinctes.
+
+Après l'affichage du stimulus, les sujets devaient appuyer sur 1 des 4 boutons pour indiquer dans quelle catégorie la ligne appartenait.
+
+Le même processus a été répété pour les tâches d'intégration d'informations et les mêmes stimuli ont été utilisés, sauf que les limites des catégories ont été tournées de 45°.
+
+Cette rotation amène le sujet à intégrer les informations quantitatives sur la ligne avant de déterminer dans quelle catégorie elle se trouve.
+
+Il a été constaté que les sujets du groupe expérimental étaient affaiblis lors de l'exécution de tâches basées sur des règles, mais pas celles d'intégration d'informations.
+
+Après des tests statistiques, il a également été émis l'hypothèse que le cerveau commençait à utiliser des techniques d'intégration d'informations pour résoudre les tâches d'apprentissage basées sur des règles.
+
+Étant donné que les tâches basées sur des règles utilisent le système de test d'hypothèses du cerveau, on peut en conclure que le système de test d'hypothèses du cerveau a été endommagé/affaibli.
+
+On sait que les mémoires caudée et de travail font partie de ce système.
+
+Par conséquent, il a été confirmé que le putamen est impliqué dans l'apprentissage des catégories, la compétition entre les systèmes, le traitement des rétroactions dans les tâches basées sur des règles et est impliqué dans le traitement des régions préfrontales (qui se rapportent à la mémoire de travail et au fonctionnement exécutif) .
+
+Maintenant, on sait que non seulement les noyaux gris centraux et caudés affectent l'apprentissage des catégories.
+
+
+== Rôle dans le "circuit de la haine" ==
+
+Des études provisoires ont suggéré que le putamen pourrait jouer un rôle dans le soi-disant «circuit de la haine» du cerveau.
+
+Une étude récente a été réalisée à Londres par le département de biologie cellulaire et du développement de l'University College London.
+
+Une IRMf a été réalisée sur des patients alors qu'ils voyaient une photo de personnes qu'ils détestaient et de personnes "neutres".
+
+Au cours de l'expérience, un "score de haine" a été enregistré pour chaque image.
+
+L'activité dans les zones sous-corticales du cerveau impliquait que le "circuit de la haine" implique le putamen et l'insula.
+
+Il a été émis l'hypothèse que «le putamen joue un rôle dans la perception du mépris et du dégoût, et peut faire partie du système moteur qui est mobilisé pour passer à l'action».
+
+Il a également été constaté que la quantité d'activité dans le circuit de la haine est en corrélation avec la quantité de haine qu'une personne déclare, ce qui pourrait avoir des implications juridiques concernant les crimes malveillants.
+
+
+== Rôle chez les personnes transgenres ==
+
+Le putamen s'est avéré avoir des quantités significativement plus importantes de matière grise chez les individus transgenres homme à femme par rapport au putamen d'un homme cisgenre typique.
+
+Cela suggère peut-être qu'une différence fondamentale dans la composition du cerveau peut exister ou non entre les femmes trans et les hommes cisgenres.
+
+
+== Pathologie ==
+
+=== Maladie de Parkinson ===
+
+Après avoir découvert la fonction du putamen, il est devenu évident pour les neurologues que le putamen et d'autres parties des ganglions de la base jouent un rôle important dans la maladie de Parkinson et d'autres maladies qui impliquent la dégénérescence des neurones. La maladie de Parkinson est la perte lente et régulière de neurones dopaminergiques dans la substantia nigra pars compacta.
+
+Dans la maladie de Parkinson, le putamen joue un rôle clé car ses entrées et ses sorties sont interconnectées avec la substantia nigra et le globus pallidus.
+
+Dans la maladie de Parkinson, l'activité dans les voies directes vers le globus pallidus intérieur diminue et l'activité dans les voies indirectes vers le globus pallidus externe augmente.
+
+Il a également été noté que les patients atteints de la maladie de Parkinson ont de la difficulté à planifier leur motricité.
+
+
+=== Autres maladies et troubles ===
+
+Les maladies et troubles suivants sont liés au putamen :
+
+Déclin cognitif dans la maladie d'Alzheimer
+La maladie de Huntington
+La maladie de Wilson
+Démence à corps de Lewy
+Dégénérescence corticobasale
+syndrome de la Tourette
+La schizophrénie
+La dépression
+Trouble d'hyperactivité avec déficit de l'attention
+Chorée
+Trouble obsessionnel compulsif
+Kernictère
+Autres troubles anxieux
+
+
+== Chez d'autres animaux ==
+
+Le putamen chez l'homme est relativement similaire dans sa structure et sa fonction à d'autres animaux.
+
+C'est pourquoi de nombreuses études sur le putamen ont été faites sur des animaux (singes, rats, chats, etc.), ainsi que sur des humains.
+
+Cependant, des variations inter-espèces sont effectivement observées chez les mammifères et ont été documentées pour la connectivité putaminal de la substance blanche.
+
+La variation est principalement liée aux modèles de connectivité structurelle, tandis que les principes d'organisation somatotopique sont conservés.
+
+La recherche sur les primates depuis les années 1980 jusqu'à nos jours a établi que les régions corticales liées à la cognition d'ordre supérieur envoient principalement des neurones afférents à la partie la plus rostale du putamen, tandis que le reste de cette structure chez les primates sert principalement les fonctions sensori-motrices et est étroitement interconnecté avec les régions motrices primaires et supplémentaires.
+
+
+
+https://en.wikipedia.org/wiki/Putamen

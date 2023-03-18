@@ -1,0 +1,324 @@
+
+
+OPTIC TRACT
+
+
+The optic tract (from the Latin tractus opticus) is a part of the visual system in the brain. 
+
+It is a continuation of the optic nerve that relays information from the optic chiasm to the ipsilateral lateral geniculate nucleus (LGN), pretectal nuclei, and superior colliculus.
+
+It is composed of two individual tracts, the left optic tract and the right optic tract, each of which conveys visual information exclusive to its respective contralateral half of the visual field. 
+
+Each of these tracts is derived from a combination of temporal and nasal retinal fibers from each eye that corresponds to one half of the visual field. 
+
+In more specific terms, the optic tract contains fibers from the ipsilateral temporal hemiretina and contralateral nasal hemiretina.
+
+
+== Visual system ==
+
+The optic tract carries retinal information relating to the whole visual field. 
+
+Specifically, the left optic tract corresponds to the right visual field, while the right optic tract corresponds to the left visual field. 
+
+To form the right visual field, temporal retinal fibers from the left eye and nasal retinal fibers from the right eye form the left optic tract, and to form the left visual field, temporal retinal fibers from the right eye and nasal retinal fibers from the left eye form the right optic tract.
+
+
+== Autonomics ==
+
+Several autonomic ocular motor responses are consensual. 
+
+The optic tract is primarily responsible for relaying visual information to the LGN, but it is also peripherally responsible for transducing these bilateral autonomic reflexes, including the pupillary light reflex and pupillary dark reflex.
+
+
+=== Pupillary light reflex ===
+
+The pupillary light reflex is an autonomic reflex that controls pupil diameter to accommodate for increases in illumination as perceived by the retina. 
+
+Higher light intensity causes pupil constriction, and the increase of light stimulation of one eye will cause pupillary constriction of both eyes. 
+
+The neural circuitry of the pupillary light reflex includes the optic tract which joins the optic nerve to the brachium of the superior colliculus.
+
+
+=== Pupillary dark reflex ===
+
+Similarly to the pupillary light reflex, the pupillary dark reflex is an autonomic reflex that controls pupil diameter to accommodate for decreases in illumination as perceived by the retina. 
+
+Lower light intensity causes pupil dilation, and the decrease of light stimulation of one eye will cause pupillary dilation of both eyes. 
+
+Similarly, the neural circuitry of the pupillary dark reflex includes the optic tract which joins the optic nerve to the hypothalamus.
+
+
+== Damage and pathologies ==
+
+=== Lesions ===
+
+Lesions in the optic tract correspond to visual field loss on the left or right half of the vertical midline, also known as homonymous hemianopsia. 
+
+A lesion in the left optic tract will cause right-sided homonymous hemianopsia, while a lesion in the right optic tract will cause left-sided homonymous hemianopsia. 
+
+Stroke, congenital defects, tumors, infection, and surgery are all possible causes of optic tract damage. 
+
+Peripheral prism expanders and vision restitution therapy are often employed in patients with visual field loss resultant of permanent optic tract damage.
+
+
+=== Split-brain ===
+
+In certain split-brain patients who have undergone a corpus callosotomy to treat severe epilepsy, the information from one optic tract does not get transmitted to both hemispheres. 
+
+For instance, a split-brain patient shown an image in the left visual field will be unable to vocally name what has been seen as the speech-control center is in the left hemisphere of the brain.
+
+
+=== Pupillary reflexes ===
+
+Pupillary reflexes, particularly the pupillary light reflex, are a powerful diagnostic tool often employed in clinical and emergency medical practice. 
+
+A lack of equal consensual pupillary constriction to a light stimulus, especially a Marcus Gunn pupil, can be indicative of optic nerve damage, brainstem death, or optic tract damage in between.
+
+
+
+https://en.wikipedia.org/wiki/Optic_tract
+;;;ES;;;
+
+
+
+TRACTO ÓPTICO
+
+
+El tracto óptico (del latín tractus opticus) es una parte del sistema visual en el cerebro.
+
+Es una continuación del nervio óptico que transmite información desde el quiasma óptico hasta el núcleo geniculado lateral ipsilateral (LGN), los núcleos pretectales y el colículo superior.
+
+Se compone de dos tractos individuales, el tracto óptico izquierdo y el tracto óptico derecho, cada uno de los cuales transmite información visual exclusiva de su respectiva mitad contralateral del campo visual.
+
+Cada uno de estos tractos se deriva de una combinación de fibras retinianas temporales y nasales de cada ojo que corresponde a la mitad del campo visual.
+
+En términos más específicos, el tracto óptico contiene fibras de la hemirretina temporal ipsilateral y la hemirretina nasal contralateral.
+
+
+== Sistema visual ==
+
+El tracto óptico transporta información retiniana relacionada con todo el campo visual.
+
+Específicamente, el tracto óptico izquierdo corresponde al campo visual derecho, mientras que el tracto óptico derecho corresponde al campo visual izquierdo.
+
+Para formar el campo visual derecho, las fibras temporales de la retina del ojo izquierdo y las fibras nasales de la retina del ojo derecho forman el tracto óptico izquierdo, y para formar el campo visual izquierdo, las fibras temporales de la retina del ojo derecho y las fibras nasales de la retina del ojo izquierdo. ojo forman el tracto óptico derecho.
+
+
+== Autonomía ==
+
+Varias respuestas motoras oculares autónomas son consensuales.
+
+El tracto óptico es el principal responsable de transmitir la información visual al LGN, pero también es el responsable periférico de la transducción de estos reflejos autónomos bilaterales, incluido el reflejo pupilar a la luz y el reflejo pupilar oscuro.
+
+
+=== Reflejo pupilar a la luz ===
+
+El reflejo pupilar a la luz es un reflejo autonómico que controla el diámetro de la pupila para adaptarse a los aumentos de iluminación percibidos por la retina.
+
+Una mayor intensidad de luz provoca la constricción de la pupila, y el aumento de la estimulación de la luz de un ojo provocará la constricción de la pupila de ambos ojos.
+
+El circuito neural del reflejo pupilar a la luz incluye el tracto óptico que une el nervio óptico con el braquio del colículo superior.
+
+
+=== Reflejo pupilar oscuro ===
+
+De manera similar al reflejo pupilar a la luz, el reflejo pupilar a la oscuridad es un reflejo autónomo que controla el diámetro de la pupila para adaptarse a las disminuciones en la iluminación percibida por la retina.
+
+Una intensidad de luz más baja provoca la dilatación de la pupila, y la disminución de la estimulación de la luz de un ojo provocará la dilatación de la pupila de ambos ojos.
+
+De manera similar, el circuito neural del reflejo oscuro pupilar incluye el tracto óptico que une el nervio óptico con el hipotálamo.
+
+
+== Daños y patologías ==
+
+=== Lesiones ===
+
+Las lesiones en el tracto óptico corresponden a la pérdida del campo visual en la mitad izquierda o derecha de la línea media vertical, también conocida como hemianopsia homónima.
+
+Una lesión en el tracto óptico izquierdo causará hemianopsia homónima del lado derecho, mientras que una lesión en el tracto óptico derecho causará hemianopsia homónima del lado izquierdo.
+
+Los accidentes cerebrovasculares, los defectos congénitos, los tumores, las infecciones y la cirugía son todas posibles causas de daños en el tracto óptico.
+
+Los expansores de prismas periféricos y la terapia de restitución de la visión a menudo se emplean en pacientes con pérdida del campo visual como resultado de un daño permanente en el tracto óptico.
+
+
+=== cerebro dividido ===
+
+En ciertos pacientes con cerebro dividido que se han sometido a una callosotomía del cuerpo para tratar la epilepsia grave, la información de un tracto óptico no se transmite a ambos hemisferios.
+
+Por ejemplo, un paciente con el cerebro dividido al que se le muestra una imagen en el campo visual izquierdo no podrá nombrar vocalmente lo que ha visto, ya que el centro de control del habla está en el hemisferio izquierdo del cerebro.
+
+
+=== Reflejos pupilares ===
+
+Los reflejos pupilares, particularmente el reflejo pupilar a la luz, son una poderosa herramienta de diagnóstico que a menudo se emplea en la práctica médica clínica y de emergencia.
+
+La falta de constricción pupilar consensuada igual a un estímulo de luz, especialmente una pupila de Marcus Gunn, puede ser indicativa de daño del nervio óptico, muerte del tronco encefálico o daño del tracto óptico en el medio.
+
+
+
+https://en.wikipedia.org/wiki/Optic_tract
+
+;;;PT;;;
+
+
+
+TRATO ÓPTICO
+
+
+O trato óptico (do latim tractus opticus) é uma parte do sistema visual no cérebro.
+
+É uma continuação do nervo óptico que transmite informações do quiasma óptico para o núcleo geniculado lateral ipsilateral (LGN), núcleos pré-tectais e colículo superior.
+
+É composto por dois tratos individuais, o trato óptico esquerdo e o trato óptico direito, cada um dos quais transmite informações visuais exclusivas de sua respectiva metade contralateral do campo visual.
+
+Cada um desses tratos é derivado de uma combinação de fibras retinianas temporais e nasais de cada olho que corresponde a metade do campo visual.
+
+Em termos mais específicos, o trato óptico contém fibras da hemirretina temporal ipsilateral e da hemirretina nasal contralateral.
+
+
+== Sistema visual ==
+
+O trato óptico carrega informações retinianas relacionadas a todo o campo visual.
+
+Especificamente, o trato óptico esquerdo corresponde ao campo visual direito, enquanto o trato óptico direito corresponde ao campo visual esquerdo.
+
+Para formar o campo visual direito, as fibras retinianas temporais do olho esquerdo e as fibras retinianas nasais do olho direito formam o trato óptico esquerdo, e para formar o campo visual esquerdo, as fibras retinianas temporais do olho direito e as fibras retinianas nasais do olho esquerdo olho formam o trato óptico direito.
+
+
+== Autonomia ==
+
+Várias respostas motoras oculares autonômicas são consensuais.
+
+O trato óptico é o principal responsável por transmitir informações visuais para o LGN, mas também é perifericamente responsável pela transdução desses reflexos autônomos bilaterais, incluindo o reflexo pupilar à luz e o reflexo pupilar ao escuro.
+
+
+=== Reflexo pupilar à luz ===
+
+O reflexo pupilar à luz é um reflexo autônomo que controla o diâmetro da pupila para acomodar aumentos na iluminação conforme percebidos pela retina.
+
+Maior intensidade de luz causa constrição pupilar, e o aumento da estimulação luminosa de um olho causará constrição pupilar de ambos os olhos.
+
+O circuito neural do reflexo pupilar à luz inclui o trato óptico que une o nervo óptico ao braquio do colículo superior.
+
+
+=== Reflexo pupilar escuro ===
+
+Da mesma forma que o reflexo pupilar à luz, o reflexo pupilar escuro é um reflexo autônomo que controla o diâmetro da pupila para acomodar diminuições na iluminação percebidas pela retina.
+
+A menor intensidade de luz causa dilatação da pupila e a diminuição da estimulação da luz de um olho causará dilatação pupilar de ambos os olhos.
+
+Da mesma forma, o circuito neural do reflexo pupilar escuro inclui o trato óptico que une o nervo óptico ao hipotálamo.
+
+
+== Danos e patologias ==
+
+=== Lesões ===
+
+As lesões no trato óptico correspondem à perda do campo visual na metade esquerda ou direita da linha média vertical, também conhecida como hemianopsia homônima.
+
+Uma lesão no trato óptico esquerdo causará hemianopsia homônima do lado direito, enquanto uma lesão no trato óptico direito causará hemianopsia homônima do lado esquerdo.
+
+Acidente vascular cerebral, defeitos congênitos, tumores, infecção e cirurgia são todas as possíveis causas de danos no trato óptico.
+
+Expansores de prisma periférico e terapia de restituição da visão são frequentemente empregados em pacientes com perda de campo visual resultante de dano permanente do trato óptico.
+
+
+=== Cérebro dividido ===
+
+Em certos pacientes com cérebro dividido que foram submetidos a uma calosotomia de corpo para tratar epilepsia grave, as informações de um trato óptico não são transmitidas para ambos os hemisférios.
+
+Por exemplo, um paciente com cérebro dividido que vê uma imagem no campo visual esquerdo será incapaz de nomear vocalmente o que foi visto como o centro de controle da fala no hemisfério esquerdo do cérebro.
+
+
+=== Reflexos pupilares ===
+
+Os reflexos pupilares, particularmente o reflexo pupilar à luz, são uma poderosa ferramenta diagnóstica frequentemente empregada na prática clínica e médica de emergência.
+
+A falta de constrição pupilar consensual igual a um estímulo de luz, especialmente uma pupila de Marcus Gunn, pode ser indicativa de dano do nervo óptico, morte do tronco cerebral ou dano do trato óptico no meio.
+
+
+
+https://en.wikipedia.org/wiki/Optic_tract
+
+;;;FR;;;
+
+
+
+VOIES OPTIQUE
+
+
+Le tractus optique (du latin tractus opticus) fait partie du système visuel dans le cerveau.
+
+C'est une continuation du nerf optique qui relaie les informations du chiasma optique au noyau géniculé latéral ipsilatéral (LGN), aux noyaux prétectaux et au colliculus supérieur.
+
+Il est composé de deux voies individuelles, la voie optique gauche et la voie optique droite, dont chacune transmet des informations visuelles exclusives à sa moitié controlatérale respective du champ visuel.
+
+Chacun de ces faisceaux est dérivé d'une combinaison de fibres rétiniennes temporales et nasales de chaque œil qui correspond à la moitié du champ visuel.
+
+En termes plus spécifiques, le tractus optique contient des fibres de l'hémirétine temporale ipsilatérale et de l'hémirétine nasale controlatérale.
+
+
+== Système visuel ==
+
+Le tractus optique véhicule des informations rétiniennes relatives à l'ensemble du champ visuel.
+
+Plus précisément, le tractus optique gauche correspond au champ visuel droit, tandis que le tractus optique droit correspond au champ visuel gauche.
+
+Pour former le champ visuel droit, les fibres rétiniennes temporales de l'œil gauche et les fibres rétiniennes nasales de l'œil droit forment le tractus optique gauche, et pour former le champ visuel gauche, les fibres rétiniennes temporales de l'œil droit et les fibres rétiniennes nasales de la gauche l'œil forme le tractus optique droit.
+
+
+== Autonomie ==
+
+Plusieurs réponses motrices oculaires autonomes sont consensuelles.
+
+Le tractus optique est principalement responsable de la transmission des informations visuelles au LGN, mais il est également responsable en périphérie de la transduction de ces réflexes autonomes bilatéraux, y compris le réflexe lumineux pupillaire et le réflexe sombre pupillaire.
+
+
+=== Réflexe lumineux pupillaire ===
+
+Le réflexe lumineux pupillaire est un réflexe autonome qui contrôle le diamètre de la pupille pour s'adapter à l'augmentation de l'éclairage tel que perçu par la rétine.
+
+Une intensité lumineuse plus élevée provoque une constriction de la pupille et l'augmentation de la stimulation lumineuse d'un œil entraînera une constriction pupillaire des deux yeux.
+
+Le circuit neuronal du réflexe lumineux pupillaire comprend le tractus optique qui relie le nerf optique au brachium du colliculus supérieur.
+
+
+=== Réflexe pupillaire sombre ===
+
+De même que le réflexe lumineux pupillaire, le réflexe sombre pupillaire est un réflexe autonome qui contrôle le diamètre de la pupille pour s'adapter aux diminutions d'éclairage telles que perçues par la rétine.
+
+Une intensité lumineuse plus faible provoque une dilatation de la pupille et la diminution de la stimulation lumineuse d'un œil entraînera une dilatation pupillaire des deux yeux.
+
+De même, le circuit neuronal du réflexe noir pupillaire comprend le tractus optique qui relie le nerf optique à l'hypothalamus.
+
+
+== Dommages et pathologies ==
+
+=== Lésions ===
+
+Les lésions du tractus optique correspondent à une perte de champ visuel sur la moitié gauche ou droite de la ligne médiane verticale, également connue sous le nom d'hémianopsie homonyme.
+
+Une lésion dans le tractus optique gauche provoquera une hémianopsie homonyme du côté droit, tandis qu'une lésion dans le tractus optique droit provoquera une hémianopsie homonyme du côté gauche.
+
+Les accidents vasculaires cérébraux, les malformations congénitales, les tumeurs, les infections et les interventions chirurgicales sont toutes des causes possibles de lésions du tractus optique.
+
+Les extenseurs de prisme périphériques et la thérapie de restitution de la vision sont souvent utilisés chez les patients présentant une perte de champ visuel résultant de lésions permanentes du tractus optique.
+
+
+=== Split-brain ===
+
+Chez certains patients au cerveau divisé qui ont subi une callosotomie du corps pour traiter une épilepsie sévère, les informations d'un tractus optique ne sont pas transmises aux deux hémisphères.
+
+Par exemple, un patient au cerveau divisé qui voit une image dans le champ visuel gauche sera incapable de nommer vocalement ce qui a été vu car le centre de contrôle de la parole se trouve dans l'hémisphère gauche du cerveau.
+
+
+=== Réflexes pupillaires ===
+
+Les réflexes pupillaires, en particulier le réflexe lumineux pupillaire, sont un outil de diagnostic puissant souvent utilisé dans la pratique médicale clinique et d'urgence.
+
+Un manque de constriction pupillaire consensuelle égale à un stimulus lumineux, en particulier un élève de Marcus Gunn, peut indiquer une lésion du nerf optique, la mort du tronc cérébral ou une lésion du tractus optique entre les deux.
+
+
+
+https://en.wikipedia.org/wiki/Optic_tract

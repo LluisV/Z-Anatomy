@@ -1,0 +1,88 @@
+PALATINE BONE
+    Perpendicular plate of palatine bone
+        Nasal surface of perpendicular plate
+        Maxillary surface of palatine bone
+        Sphenopalatine notch
+        Greater palatine groove of palatine bone
+        Pyramidal process
+        Lesser palatine canals
+        Conchal crest of palatine bone
+        Maxillary process of palatine bone
+        Ethmoidal crest of palatine bone
+        Orbital process
+        Sphenoidal process
+    Horizontal plate of palatine bone
+        Nasal surface of horizontal plate
+        Palatine surface of palatine bone
+        Lesser palatine foramina
+        Posterior nasal spine
+        Nasal crest of palatine bone
+        Palatine crest
+;;;ES;;;
+
+HUESO PALATINO
+Placa perpendicular del hueso palatino
+Superficie nasal de placa perpendicular
+Superficie maxilar del hueso palatino
+Muesca esfenopalatina
+Surco palatino mayor del hueso palatino
+proceso piramidal
+Canales palatinos menores
+Cresta conchal del hueso palatino
+Proceso maxilar del hueso palatino
+Cresta etmoidal del hueso palatino
+proceso orbital
+proceso esfenoidal
+Placa horizontal del hueso palatino
+Superficie nasal de la placa horizontal
+Superficie palatina del hueso palatino
+Agujero palatino menor
+Espina nasal posterior
+Cresta nasal del hueso palatino
+cresta palatina
+
+;;;PT;;;
+
+OSSO PALATINO
+Lâmina perpendicular do osso palatino
+Superfície nasal da placa perpendicular
+Superfície maxilar do osso palatino
+Incisura esfenopalatina
+Sulco palatino maior do osso palatino
+Processo piramidal
+Canais palatinos menores
+Crista da concha do osso palatino
+Processo maxilar do osso palatino
+Crista etmoidal do osso palatino
+Processo orbital
+Processo esfenoidal
+Placa horizontal do osso palatino
+Superfície nasal da placa horizontal
+Superfície palatina do osso palatino
+Forames palatinos menores
+Espinha nasal posterior
+Crista nasal do osso palatino
+Crista Palatina
+
+;;;FR;;;
+
+OS PALATIN
+Plaque perpendiculaire d'os palatin
+Face nasale de la plaque perpendiculaire
+Surface maxillaire de l'os palatin
+Encoche sphéno-palatine
+Grand sillon palatin de l'os palatin
+Processus pyramidal
+Petits canaux palatins
+Crête conchal en os palatin
+Processus maxillaire de l'os palatin
+Crête ethmoïdale de l'os palatin
+Processus orbital
+Processus sphénoïdal
+Plaque horizontale d'os palatin
+Surface nasale de la plaque horizontale
+Surface palatine de l'os palatin
+Petit foramen palatin
+Epine nasale postérieure
+Crête nasale de l'os palatin
+Crête palatine

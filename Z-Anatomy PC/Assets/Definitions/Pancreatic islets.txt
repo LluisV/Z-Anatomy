@@ -1,0 +1,428 @@
+
+
+PANCREATIC ISLETS
+
+
+The pancreatic islets or islets of Langerhans are the regions of the pancreas that contain its endocrine (hormone-producing) cells, discovered in 1869 by German pathological anatomist Paul Langerhans. 
+
+The pancreatic islets constitute 1–2% of the pancreas volume and receive 10–15% of its blood flow. 
+
+The pancreatic islets are arranged in density routes throughout the human pancreas, and are important in the metabolism of glucose.
+
+
+== Structure ==
+
+There are about 1 million islets distributed in the form of density routes throughout the pancreas of a healthy adult human, each of which measures an average of about 0.2 mm in diameter.:928 Each is separated from the surrounding pancreatic tissue by a thin fibrous connective tissue capsule which is continuous with the fibrous connective tissue that is interwoven throughout the rest of the pancreas.:928
+
+
+=== Microanatomy ===
+
+Hormones produced in the pancreatic islets are secreted directly into the blood flow by (at least) five types of cells. 
+
+In rat islets, endocrine cell types are distributed as follows:
+Alpha cells producing glucagon (20% of total islet cells)
+Beta cells producing insulin and amylin (≈70%)
+Delta cells producing somatostatin (<10%)
+Epsilon cells producing ghrelin (<1%)
+PP cells (gamma cells or F cells) producing pancreatic polypeptide (<5%)It has been recognized that the cytoarchitecture of pancreatic islets differs between species.
+In particular, while rodent islets are characterized by a predominant proportion of insulin-producing beta cells in the core of the cluster and by scarce alpha, delta and PP cells in the periphery, human islets display alpha and beta cells in close relationship with each other throughout the cluster.The proportion of beta cells in islets varies depending on the species, in humans it is about 40–50%. 
+
+In addition to endocrine cells, there are stromal cells (fibroblasts), vascular cells (endothelial cells, pericytes), immune cells (granulocytes, lymphocytes, macrophages, dendritic cells) and neural cells.A large amount of blood flows through the islets, 5–6 mL/min per 1 g of islet. 
+
+It is up to 15 times more than in exocrine tissue of the pancreas.Islets can influence each other through paracrine and autocrine communication, and beta cells are coupled electrically to six to seven other beta cells, but not to other cell types.
+
+		
+		
+
+
+== Function ==
+
+The paracrine feedback system of the pancreatic islets has the following structure:
+Glucose/Insulin: activates beta cells and inhibits alpha cells
+Glycogen/Glucagon: activates alpha cells which activates beta cells and delta cells
+Somatostatin: inhibits alpha cells and beta cellsA large number of G protein-coupled receptors (GPCRs) regulate the secretion of insulin, glucagon and somatostatin from pancreatic islets, and some of these GPCRs are the targets of drugs used to treat type-2 diabetes (ref GLP-1 receptor agonists, DPPIV inhibitors).
+
+		
+		
+
+
+=== Electrical activity ===
+
+Electrical activity of pancreatic islets has been studied using patch clamp techniques. 
+
+It has turned out that the behavior of cells in intact islets differs significantly from the behavior of dispersed cells.
+
+
+== Clinical significance ==
+
+
+
+=== Diabetes ===
+
+The beta cells of the pancreatic islets secrete insulin, and so play a significant role in diabetes. 
+
+It is thought that they are destroyed by immune assaults. 
+
+However, there are also indications that beta cells have not been destroyed but have only become non-functional.
+
+
+=== Transplantation ===
+
+Because the beta cells in the pancreatic islets are selectively destroyed by an autoimmune process in type 1 diabetes, clinicians and researchers are actively pursuing islet transplantation as a means of restoring physiological beta cell function, which would offer an alternative to a complete pancreas transplant or artificial pancreas. 
+
+Islet transplantation emerged as a viable option for the treatment of insulin requiring diabetes in the early 1970s with steady progress over the following three decades. 
+
+Recent clinical trials have shown that insulin independence and improved metabolic control can be reproducibly obtained after transplantation of cadaveric donor islets into patients with unstable type 1 diabetes.People with high body mass index (BMI) are unsuitable pancreatic donors due to greater technical complications during transplantation. 
+
+However, it is possible to isolate a larger number of islets because of their larger pancreas, and therefore they are more suitable donors of islets.Islet transplantation only involves the transfer of tissue consisting of beta cells that are necessary as a treatment of this disease. 
+
+It thus represents an advantage over whole pancreas transplantation, which is more technically demanding and poses a risk of, for example, pancreatitis leading to organ loss. 
+
+Another advantage is that patients do not require general anesthesia.Islet transplantation for type 1 diabetes currently requires potent immunosuppression to prevent host rejection of donor islets.The islets are transplanted into a portal vein, which is then implanted in the liver. 
+
+There is a risk of portal venous branch thrombosis and the low value of islet survival a few minutes after transplantation, because the vascular density at this site is after the surgery several months lower than in endogenous islets. 
+
+Thus, neovascularization is key to islet survival, that is supported, for example, by VEGF produced by islets and vascular endothelial cells. 
+
+However, intraportal transplantation has some other shortcomings, and so other alternative sites that would provide better microenvironment for islets implantation are being examined. 
+
+Islet transplant research also focuses on islet encapsulation, CNI-free (calcineurin-inhibitor) immunosuppression, biomarkers of islet damage or islet donor shortage.An alternative source of beta cells, such insulin-producing cells derived from adult stem cells or progenitor cells would contribute to overcoming the shortage of donor organs for transplantation. 
+
+The field of regenerative medicine is rapidly evolving and offers great hope for the nearest future. 
+
+However, type 1 diabetes is the result of the autoimmune destruction of beta cells in the pancreas. 
+
+Therefore, an effective cure will require a sequential, integrated approach that combines adequate and safe immune interventions with beta cell regenerative approaches. 
+
+It has also been demonstrated that alpha cells can spontaneously switch fate and transdifferentiate into beta cells in both healthy and diabetic human and mouse pancreatic islets, a possible future source for beta cell regeneration. 
+
+In fact, it has been found that islet morphology and endocrine differentiation are directly related. 
+
+Endocrine progenitor cells differentiate by migrating in cohesion and forming bud-like islet precursors, or "peninsulas", in which alpha cells constitute the peninsular outer layer and beta cells form later beneath them.
+
+
+
+https://en.wikipedia.org/wiki/Pancreatic_islets
+;;;ES;;;
+
+
+
+ISLOTES PANCREÁTICOS
+
+
+Los islotes pancreáticos o islotes de Langerhans son las regiones del páncreas que contienen sus células endocrinas (productoras de hormonas), descubiertas en 1869 por el anatomista patológico alemán Paul Langerhans.
+
+Los islotes pancreáticos constituyen del 1 al 2% del volumen del páncreas y reciben del 10 al 15% de su flujo sanguíneo.
+
+Los islotes pancreáticos están dispuestos en rutas de densidad a lo largo del páncreas humano y son importantes en el metabolismo de la glucosa.
+
+
+== Estructura ==
+
+Hay alrededor de 1 millón de islotes distribuidos en forma de rutas de densidad a lo largo del páncreas de un ser humano adulto sano, cada uno de los cuales mide un promedio de alrededor de 0,2 mm de diámetro.:928 Cada uno está separado del tejido pancreático circundante por un delgado conectivo fibroso cápsula de tejido que se continúa con el tejido conjuntivo fibroso que se entreteje en el resto del páncreas.:928
+
+
+=== Microanatomía ===
+
+Las hormonas producidas en los islotes pancreáticos son secretadas directamente al flujo sanguíneo por (al menos) cinco tipos de células.
+
+En los islotes de rata, los tipos de células endocrinas se distribuyen de la siguiente manera:
+Células alfa que producen glucagón (20 % del total de células de los islotes)
+Células beta productoras de insulina y amilina (≈70%)
+Células delta productoras de somatostatina (<10%)
+Células épsilon productoras de grelina (<1%)
+Células PP (células gamma o células F) que producen polipéptido pancreático (<5%). Se ha reconocido que la citoarquitectura de los islotes pancreáticos difiere entre especies.
+En particular, mientras que los islotes de roedores se caracterizan por una proporción predominante de células beta productoras de insulina en el centro del grupo y por escasas células alfa, delta y PP en la periferia, los islotes humanos muestran células alfa y beta en estrecha relación entre sí. en todo el grupo. La proporción de células beta en los islotes varía según la especie, en los humanos es de aproximadamente 40 a 50%.
+
+Además de las células endocrinas, existen células estromales (fibroblastos), células vasculares (células endoteliales, pericitos), células inmunitarias (granulocitos, linfocitos, macrófagos, células dendríticas) y células neurales. Por los islotes fluye gran cantidad de sangre 5 –6 mL/min por 1 g de islote.
+
+Es hasta 15 veces más que en el tejido exocrino del páncreas. Los islotes pueden influirse entre sí a través de la comunicación paracrina y autocrina, y las células beta se acoplan eléctricamente con otras seis o siete células beta, pero no con otros tipos de células.
+
+ 
+ 
+
+
+== Función ==
+
+El sistema de retroalimentación paracrino de los islotes pancreáticos tiene la siguiente estructura:
+Glucosa/Insulina: activa las células beta e inhibe las células alfa
+Glucógeno/Glucagón: activa las células alfa que activan las células beta y las células delta
+Somatostatina: inhibe las células alfa y las células beta. Un gran número de receptores acoplados a proteínas G (GPCR) regulan la secreción de insulina, glucagón y somatostatina de los islotes pancreáticos, y algunos de estos GPCR son el objetivo de los medicamentos utilizados para tratar la diabetes tipo 2 ( ref. agonistas del receptor de GLP-1, inhibidores de DPPIV).
+
+ 
+ 
+
+
+=== Actividad eléctrica ===
+
+La actividad eléctrica de los islotes pancreáticos se ha estudiado utilizando técnicas de pinzamiento de parche.
+
+Ha resultado que el comportamiento de las células en los islotes intactos difiere significativamente del comportamiento de las células dispersas.
+
+
+== Importancia clínica ==
+
+
+
+=== Diabetes ===
+
+Las células beta de los islotes pancreáticos secretan insulina, por lo que desempeñan un papel importante en la diabetes.
+
+Se cree que son destruidos por ataques inmunológicos.
+
+Sin embargo, también hay indicios de que las células beta no han sido destruidas sino que sólo se han vuelto no funcionales.
+
+
+=== Trasplante ===
+
+Debido a que las células beta en los islotes pancreáticos son destruidas selectivamente por un proceso autoinmune en la diabetes tipo 1, los médicos e investigadores buscan activamente el trasplante de islotes como un medio para restaurar la función fisiológica de las células beta, lo que ofrecería una alternativa a un trasplante de páncreas completo o artificial. páncreas.
+
+El trasplante de islotes surgió como una opción viable para el tratamiento de la diabetes que requiere insulina a principios de la década de 1970 con un progreso constante durante las siguientes tres décadas.
+
+Ensayos clínicos recientes han demostrado que la independencia de la insulina y un mejor control metabólico se pueden obtener de forma reproducible después del trasplante de islotes de donantes cadavéricos en pacientes con diabetes tipo 1 inestable. Las personas con un índice de masa corporal (IMC) elevado no son donantes de páncreas adecuados debido a las mayores complicaciones técnicas durante el trasplante. .
+
+Sin embargo, es posible aislar una mayor cantidad de islotes debido a su páncreas más grande y, por lo tanto, son donantes de islotes más adecuados. El trasplante de islotes solo implica la transferencia de tejido que consiste en células beta que son necesarias como tratamiento de esta enfermedad.
+
+Por lo tanto, representa una ventaja sobre el trasplante de páncreas completo, que es técnicamente más exigente y presenta un riesgo de, por ejemplo, pancreatitis que conduce a la pérdida de órganos.
+
+Otra ventaja es que los pacientes no requieren anestesia general. Actualmente, el trasplante de islotes para la diabetes tipo 1 requiere una potente inmunosupresión para evitar el rechazo del huésped a los islotes donantes. Los islotes se trasplantan a una vena porta, que luego se implanta en el hígado.
+
+Existe el riesgo de trombosis de la rama venosa portal y el bajo valor de supervivencia de los islotes a los pocos minutos del trasplante, debido a que la densidad vascular en este sitio es después de la cirugía varios meses menor que en los islotes endógenos.
+
+Por tanto, la neovascularización es clave para la supervivencia de los islotes, que se apoya, por ejemplo, en el VEGF producido por los islotes y las células endoteliales vasculares.
+
+Sin embargo, el trasplante intraportal tiene otras deficiencias, por lo que se están examinando otros sitios alternativos que proporcionarían un mejor microambiente para la implantación de islotes.
+
+La investigación sobre el trasplante de islotes también se centra en la encapsulación de islotes, la inmunosupresión libre de CNI (inhibidor de la calcineurina), los biomarcadores de daño en los islotes o la escasez de donantes de islotes. Una fuente alternativa de células beta, como las células productoras de insulina derivadas de células madre adultas o células progenitoras, a superar la escasez de donantes de órganos para trasplante.
+
+El campo de la medicina regenerativa está evolucionando rápidamente y ofrece una gran esperanza para el futuro más cercano.
+
+Sin embargo, la diabetes tipo 1 es el resultado de la destrucción autoinmune de las células beta en el páncreas.
+
+Por lo tanto, una cura eficaz requerirá un enfoque secuencial e integrado que combine intervenciones inmunitarias adecuadas y seguras con enfoques regenerativos de células beta.
+
+También se ha demostrado que las células alfa pueden cambiar espontáneamente el destino y transdiferenciarse en células beta en islotes pancreáticos de ratones y humanos sanos y diabéticos, una posible fuente futura para la regeneración de células beta.
+
+De hecho, se ha encontrado que la morfología de los islotes y la diferenciación endocrina están directamente relacionadas.
+
+Las células progenitoras endocrinas se diferencian al migrar en cohesión y formar precursores de islotes en forma de yema, o "penínsulas", en las que las células alfa constituyen la capa exterior peninsular y las células beta se forman más tarde debajo de ellas.
+
+
+
+https://en.wikipedia.org/wiki/Pancreatic_islets
+
+;;;PT;;;
+
+
+
+ILHÉUS PANCREÁTICOS
+
+
+As ilhotas pancreáticas ou ilhotas de Langerhans são as regiões do pâncreas que contêm suas células endócrinas (produtoras de hormônios), descobertas em 1869 pelo anatomista patológico alemão Paul Langerhans.
+
+As ilhotas pancreáticas constituem 1 a 2% do volume do pâncreas e recebem 10 a 15% de seu fluxo sanguíneo.
+
+As ilhotas pancreáticas estão dispostas em rotas de densidade por todo o pâncreas humano e são importantes no metabolismo da glicose.
+
+
+== Estrutura ==
+
+Existem cerca de 1 milhão de ilhotas distribuídas na forma de rotas de densidade por todo o pâncreas de um humano adulto saudável, cada uma das quais mede em média cerca de 0,2 mm de diâmetro.:928 Cada uma é separada do tecido pancreático circundante por um tecido conjuntivo fibroso fino cápsula de tecido que é contínua com o tecido conjuntivo fibroso que está entrelaçado em todo o resto do pâncreas.:928
+
+
+=== Microanatomia ===
+
+Os hormônios produzidos nas ilhotas pancreáticas são secretados diretamente no fluxo sanguíneo por (pelo menos) cinco tipos de células.
+
+Nas ilhotas de ratos, os tipos de células endócrinas são distribuídos da seguinte forma:
+Células alfa produtoras de glucagon (20% do total de células das ilhotas)
+Células beta produtoras de insulina e amilina (≈70%)
+Células delta produtoras de somatostatina (<10%)
+Células Epsilon produtoras de grelina (<1%)
+Células PP (células gama ou células F) produzindo polipeptídeo pancreático (<5%) Foi reconhecido que a citoarquitetura das ilhotas pancreáticas difere entre as espécies.
+Em particular, enquanto as ilhotas de roedores são caracterizadas por uma proporção predominante de células beta produtoras de insulina no núcleo do aglomerado e por escassas células alfa, delta e PP na periferia, as ilhotas humanas exibem células alfa e beta em estreita relação entre si. em todo o aglomerado. A proporção de células beta nas ilhotas varia de acordo com a espécie, em humanos é de cerca de 40-50%.
+
+Além das células endócrinas, existem células estromais (fibroblastos), células vasculares (células endoteliais, pericitos), células imunes (granulócitos, linfócitos, macrófagos, células dendríticas) e células neurais. –6 mL/min por 1 g de ilhota.
+
+É até 15 vezes mais do que no tecido exócrino do pâncreas. As ilhotas podem influenciar umas às outras por meio de comunicação parácrina e autócrina, e as células beta são acopladas eletricamente a seis a sete outras células beta, mas não a outros tipos de células.
+
+ 
+ 
+
+
+== Função ==
+
+O sistema de feedback parácrino das ilhotas pancreáticas tem a seguinte estrutura:
+Glicose/Insulina: ativa as células beta e inibe as células alfa
+Glicogênio/Glucagon: ativa as células alfa que ativam as células beta e as células delta
+Somatostatina: inibe células alfa e betaUm grande número de receptores acoplados à proteína G (GPCRs) regulam a secreção de insulina, glucagon e somatostatina das ilhotas pancreáticas, e alguns desses GPCRs são alvos de drogas usadas no tratamento do diabetes tipo 2. ref agonistas do receptor de GLP-1, inibidores de DPPIV).
+
+ 
+ 
+
+
+=== Atividade elétrica ===
+
+A atividade elétrica das ilhotas pancreáticas foi estudada usando técnicas de patch clamp.
+
+Descobriu-se que o comportamento das células em ilhotas intactas difere significativamente do comportamento das células dispersas.
+
+
+== Significado clínico ==
+
+
+
+=== Diabetes ===
+
+As células beta das ilhotas pancreáticas secretam insulina e, portanto, desempenham um papel significativo no diabetes.
+
+Pensa-se que eles são destruídos por ataques imunológicos.
+
+No entanto, também há indicações de que as células beta não foram destruídas, mas apenas se tornaram não funcionais.
+
+
+=== Transplante ===
+
+Como as células beta nas ilhotas pancreáticas são seletivamente destruídas por um processo autoimune no diabetes tipo 1, médicos e pesquisadores estão buscando ativamente o transplante de ilhotas como meio de restaurar a função fisiológica das células beta, o que ofereceria uma alternativa a um transplante de pâncreas completo ou artificial. pâncreas.
+
+O transplante de ilhotas surgiu como uma opção viável para o tratamento de diabetes que necessitava de insulina no início da década de 1970, com progresso constante nas três décadas seguintes.
+
+Ensaios clínicos recentes mostraram que a independência da insulina e o controle metabólico melhorado podem ser obtidos de forma reproduzível após o transplante de ilhotas de doadores cadavéricos em pacientes com diabetes tipo 1 instável. Pessoas com índice de massa corporal (IMC) elevado são doadores de pâncreas inadequados devido a maiores complicações técnicas durante o transplante .
+
+No entanto, é possível isolar um número maior de ilhotas devido ao seu pâncreas maior e, portanto, são doadores mais adequados de ilhotas. O transplante de ilhotas envolve apenas a transferência de tecido constituído por células beta que são necessárias como tratamento desta doença.
+
+Assim, representa uma vantagem em relação ao transplante de pâncreas total, que é mais exigente tecnicamente e apresenta risco de, por exemplo, pancreatite levar à perda de órgãos.
+
+Outra vantagem é que os pacientes não necessitam de anestesia geral. O transplante de ilhotas para diabetes tipo 1 atualmente requer imunossupressão potente para evitar a rejeição do hospedeiro às ilhotas doadoras. As ilhotas são transplantadas para uma veia porta, que é então implantada no fígado.
+
+Existe o risco de trombose do ramo venoso portal e o baixo valor da sobrevida das ilhotas alguns minutos após o transplante, porque a densidade vascular neste local é após a cirurgia vários meses menor do que nas ilhotas endógenas.
+
+Assim, a neovascularização é fundamental para a sobrevivência das ilhotas, que é suportada, por exemplo, pelo VEGF produzido pelas ilhotas e células endoteliais vasculares.
+
+No entanto, o transplante intraportal apresenta algumas outras deficiências e, portanto, outros locais alternativos que proporcionariam um melhor microambiente para implantação de ilhotas estão sendo examinados.
+
+A pesquisa de transplante de ilhotas também se concentra no encapsulamento de ilhotas, imunossupressão livre de CNI (inibidor de calcineurina), biomarcadores de dano de ilhotas ou escassez de doadores de ilhotas. para superar a escassez de doadores de órgãos para transplante.
+
+O campo da medicina regenerativa está evoluindo rapidamente e oferece uma grande esperança para o futuro próximo.
+
+No entanto, o diabetes tipo 1 é o resultado da destruição autoimune das células beta no pâncreas.
+
+Portanto, uma cura eficaz exigirá uma abordagem sequencial e integrada que combine intervenções imunológicas adequadas e seguras com abordagens regenerativas de células beta.
+
+Também foi demonstrado que as células alfa podem mudar espontaneamente de destino e se transdiferenciar em células beta em ilhotas pancreáticas de humanos e camundongos saudáveis ​​e diabéticos, uma possível fonte futura para a regeneração de células beta.
+
+De fato, descobriu-se que a morfologia das ilhotas e a diferenciação endócrina estão diretamente relacionadas.
+
+As células progenitoras endócrinas diferenciam-se migrando em coesão e formando precursores de ilhotas semelhantes a botões, ou "penínsulas", nas quais as células alfa constituem a camada externa peninsular e as células beta se formam posteriormente abaixo delas.
+
+
+
+https://en.wikipedia.org/wiki/Pancreatic_islets
+
+;;;FR;;;
+
+
+
+ÎLOTS PANCRÉATIQUES
+
+
+Les îlots pancréatiques ou îlots de Langerhans sont les régions du pancréas qui contiennent ses cellules endocrines (productrices d'hormones), découvertes en 1869 par l'anatomiste pathologique allemand Paul Langerhans.
+
+Les îlots pancréatiques constituent 1 à 2 % du volume du pancréas et reçoivent 10 à 15 % de son flux sanguin.
+
+Les îlots pancréatiques sont disposés en voies de densité dans tout le pancréas humain et sont importants dans le métabolisme du glucose.
+
+
+== Structure ==
+
+Il y a environ 1 million d'îlots répartis sous la forme de routes de densité dans tout le pancréas d'un humain adulte en bonne santé, dont chacun mesure en moyenne environ 0,2 mm de diamètre.:928 Chacun est séparé du tissu pancréatique environnant par un fin conjonctif fibreux. capsule tissulaire qui est continue avec le tissu conjonctif fibreux qui est entrelacé dans le reste du pancréas.:928
+
+
+=== Microanatomie ===
+
+Les hormones produites dans les îlots pancréatiques sont sécrétées directement dans le flux sanguin par (au moins) cinq types de cellules.
+
+Dans les îlots de rat, les types de cellules endocrines sont répartis comme suit :
+Cellules alpha produisant du glucagon (20 % du total des cellules des îlots)
+Cellules bêta produisant de l'insuline et de l'amyline (≈70%)
+Cellules delta produisant de la somatostatine (<10%)
+Cellules Epsilon produisant de la ghréline (<1%)
+Cellules PP (cellules gamma ou cellules F) produisant un polypeptide pancréatique (<5 %) Il a été reconnu que la cytoarchitecture des îlots pancréatiques diffère d'une espèce à l'autre.
+En particulier, alors que les îlots de rongeurs sont caractérisés par une proportion prédominante de cellules bêta productrices d'insuline au cœur de l'amas et par de rares cellules alpha, delta et PP à la périphérie, les îlots humains présentent des cellules alpha et bêta en étroite relation les unes avec les autres. dans tout l'amas. La proportion de cellules bêta dans les îlots varie selon les espèces, chez l'homme, elle est d'environ 40 à 50 %.
+
+En plus des cellules endocrines, il existe des cellules stromales (fibroblastes), des cellules vasculaires (cellules endothéliales, péricytes), des cellules immunitaires (granulocytes, lymphocytes, macrophages, cellules dendritiques) et des cellules neurales. Une grande quantité de sang circule dans les îlots, 5 –6 mL/min pour 1 g d'îlot.
+
+C'est jusqu'à 15 fois plus que dans le tissu exocrine du pancréas. Les îlots peuvent s'influencer par la communication paracrine et autocrine, et les cellules bêta sont couplées électriquement à six à sept autres cellules bêta, mais pas à d'autres types de cellules.
+
+ 
+ 
+
+
+== Fonction ==
+
+Le système de rétroaction paracrine des îlots pancréatiques a la structure suivante :
+Glucose/Insuline : active les cellules bêta et inhibe les cellules alpha
+Glycogène/Glucagon : active les cellules alpha qui activent les cellules bêta et les cellules delta
+Somatostatine : inhibe les cellules alpha et les cellules bêta réf agonistes des récepteurs GLP-1, inhibiteurs de la DPPIV).
+
+ 
+ 
+
+
+=== Activité électrique ===
+
+L'activité électrique des îlots pancréatiques a été étudiée en utilisant des techniques de patch-clamp.
+
+Il s'est avéré que le comportement des cellules dans les îlots intacts diffère significativement du comportement des cellules dispersées.
+
+
+== Signification clinique ==
+
+
+
+=== Diabète ===
+
+Les cellules bêta des îlots pancréatiques sécrètent de l'insuline et jouent donc un rôle important dans le diabète.
+
+On pense qu'ils sont détruits par des attaques immunitaires.
+
+Cependant, il existe également des indications que les cellules bêta n'ont pas été détruites mais sont seulement devenues non fonctionnelles.
+
+
+=== Transplantation ===
+
+Étant donné que les cellules bêta des îlots pancréatiques sont sélectivement détruites par un processus auto-immun dans le diabète de type 1, les cliniciens et les chercheurs poursuivent activement la transplantation d'îlots comme moyen de restaurer la fonction physiologique des cellules bêta, ce qui offrirait une alternative à une greffe complète de pancréas ou artificielle pancréas.
+
+La greffe d'îlots est apparue comme une option viable pour le traitement du diabète nécessitant de l'insuline au début des années 1970, avec des progrès constants au cours des trois décennies suivantes.
+
+Des essais cliniques récents ont montré que l'indépendance de l'insuline et un meilleur contrôle métabolique peuvent être obtenus de manière reproductible après la transplantation d'îlots de donneurs cadavériques chez des patients atteints de diabète de type 1 instable. .
+
+Cependant, il est possible d'isoler un plus grand nombre d'îlots en raison de leur pancréas plus grand, et ils sont donc des donneurs d'îlots plus appropriés. La transplantation d'îlots implique uniquement le transfert de tissu constitué de cellules bêta nécessaires au traitement de cette maladie.
+
+Elle représente ainsi un avantage par rapport à la greffe de pancréas entier, plus exigeante techniquement et présentant un risque, par exemple, de pancréatite entraînant une perte d'organe.
+
+Un autre avantage est que les patients n'ont pas besoin d'anesthésie générale. La transplantation d'îlots pour le diabète de type 1 nécessite actuellement une immunosuppression puissante pour empêcher le rejet par l'hôte des îlots du donneur. Les îlots sont transplantés dans une veine porte, qui est ensuite implantée dans le foie.
+
+Il existe un risque de thrombose de la branche veineuse portale et la faible valeur de la survie des îlots quelques minutes après la greffe, car la densité vasculaire à ce site est après la chirurgie plusieurs mois plus faible que dans les îlots endogènes.
+
+Ainsi, la néovascularisation est la clé de la survie des îlots, qui est soutenue, par exemple, par le VEGF produit par les îlots et les cellules endothéliales vasculaires.
+
+Cependant, la transplantation intraportale présente d'autres lacunes, et donc d'autres sites alternatifs qui fourniraient un meilleur microenvironnement pour l'implantation des îlots sont en cours d'examen.
+
+La recherche sur la greffe d'îlots se concentre également sur l'encapsulation des îlots, l'immunosuppression sans CNI (inhibiteur de la calcineurine), les biomarqueurs des dommages aux îlots ou la pénurie de donneurs d'îlots. Une source alternative de cellules bêta, telles que les cellules productrices d'insuline dérivées de cellules souches adultes ou de cellules progénitrices pour pallier la pénurie de donneurs d'organes destinés à la transplantation.
+
+Le domaine de la médecine régénérative évolue rapidement et offre de grands espoirs pour un avenir proche.
+
+Cependant, le diabète de type 1 est le résultat de la destruction auto-immune des cellules bêta du pancréas.
+
+Par conséquent, un traitement efficace nécessitera une approche séquentielle intégrée qui combine des interventions immunitaires adéquates et sûres avec des approches de régénération des cellules bêta.
+
+Il a également été démontré que les cellules alpha peuvent spontanément changer de destin et se transdifférencier en cellules bêta dans les îlots pancréatiques humains et de souris sains et diabétiques, une future source possible de régénération des cellules bêta.
+
+En fait, il a été constaté que la morphologie des îlots et la différenciation endocrinienne sont directement liées.
+
+Les cellules progénitrices endocrines se différencient en migrant dans la cohésion et en formant des précurseurs d'îlots en forme de bourgeon, ou «péninsules», dans lesquelles les cellules alpha constituent la couche externe péninsulaire et les cellules bêta se forment plus tard sous elles.
+
+
+
+https://en.wikipedia.org/wiki/Islets_pancréatiques

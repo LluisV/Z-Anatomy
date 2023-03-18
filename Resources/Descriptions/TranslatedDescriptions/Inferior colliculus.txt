@@ -1,0 +1,404 @@
+
+
+INFERIOR COLLICULUS
+
+
+The inferior colliculus (IC) (Latin for lower hill) is the principal midbrain nucleus of the auditory pathway and receives input from several peripheral brainstem nuclei in the auditory pathway, as well as inputs from the auditory cortex. 
+
+The inferior colliculus has three subdivisions: the central nucleus, a dorsal cortex by which it is surrounded, and an external cortex which is located laterally. 
+
+Its bimodal neurons are implicated in auditory-somatosensory interaction, receiving projections from somatosensory nuclei. 
+
+This multisensory integration may underlie a filtering of self-effected sounds from vocalization, chewing, or respiration activities.
+
+The inferior colliculi together with the superior colliculi form the eminences of the corpora quadrigemina, and also part of the tectal region of the midbrain. 
+
+The inferior colliculus lies caudal to its counterpart – the superior colliculus – above the trochlear nerve, and at the base of the projection of the medial geniculate nucleus and the lateral geniculate nucleus.
+
+
+== Subdivisions ==
+
+The inferior colliculus has three subdivisions – the central nucleus, the dorsal cortex by which it is surrounded, and an external cortex which is located laterally.
+
+
+== Relationship to auditory system ==
+
+The inferior colliculi of the midbrain are located just below the visual processing centers known as the superior colliculi. 
+
+The inferior colliculus is the first place where vertically orienting data from the fusiform cells in the dorsal cochlear nucleus can finally synapse with horizontally orienting data. 
+
+Sound location data thus becomes fully integrated by the inferior colliculus.
+
+IC are large auditory nuclei on the right and left sides of the midbrain. 
+
+Of the three subdivisions the central nucleus of IC (CNIC) is the principal way station for ascending auditory information in the IC.
+
+
+=== Input and output connections of IC ===
+
+The input connections to the inferior colliculus are composed of many brainstem nuclei. 
+
+All nuclei except the contralateral ventral nucleus of the lateral lemniscus send projections to the central nucleus (CNIC) bilaterally. 
+
+It has been shown that great majority of auditory fibers ascending in the lateral lemniscus terminate in the CNIC. 
+
+In addition, the IC receives inputs from the auditory cortex, the medial division of the medial geniculate body, the posterior limitans, suprapeduncular nucleus and subparafascicular intralaminar nuclei of the thalamus, the substantia nigra pars compacta lateralis, the dorsolateral periaqueductal gray, the nucleus of the brachium of the inferior colliculus (or inferior brachium) and deep layers of the superior colliculus. 
+
+The inferior brachium carries auditory afferent fibers from the inferior colliculus of the mesencephalon to the medial geniculate nucleus.
+
+The inferior colliculus receives input from both the ipsilateral and contralateral cochlear nucleus and respectively the corresponding ears. 
+
+There is some lateralization, the dorsal projections (containing vertical data) only project to the contralateral inferior colliculus. 
+
+This inferior colliculus contralateral to the ear it is receiving the most information from, then projects to its ipsilateral medial geniculate nucleus.
+
+The inferior colliculus also receives descending inputs from the auditory cortex and auditory thalamus (or medial geniculate nucleus).
+
+The medial geniculate body (MGB) is the output connection from inferior colliculus and the last subcortical way station. 
+
+The MGB is composed of ventral, dorsal, and medial divisions, which are relatively similar in humans and other mammals. 
+
+The ventral division receives auditory signals from the central nucleus of the IC.
+
+
+=== Function of IC ===
+
+The majority of the ascending fibers from the lateral lemniscus project to IC, which means major ascending auditory pathways converge here. 
+
+IC appears as an integrative station and switchboard as well. 
+
+It is involved in the integration and routing of multi-modal sensory perception, mainly the startle response and vestibulo-ocular reflex. 
+
+It is also responsive to specific amplitude modulation frequencies and this might be responsible for detection of pitch. 
+
+In addition, spatial localization by binaural hearing is a related function of IC as well.
+The inferior colliculus has a relatively high metabolism in the brain. 
+
+The Conrad Simon Memorial Research Initiative measured the blood flow of the IC and put a number at 1.80 cc/g/min in the cat brain. 
+
+For reference, the runner up in the included measurements was the somatosensory cortex at 1.53. 
+
+This indicates that the inferior colliculus is metabolically more active than many other parts of the brain. 
+
+The hippocampus, normally considered to use up a disproportionate amount of energy, was not measured or compared.
+
+Skottun et al. measured the interaural time difference sensitivity of single neurons in the inferior colliculus, and used these to predict behavioural performance. 
+
+The predicted just noticeable difference was comparable to that achieved by humans in behavioral tests. 
+
+This suggested that by the level of the inferior colliculus, integration of information over multiple neurons is unnecessary (see population code).
+
+Axiomatically determined functional models of spectro-temporal receptive fields in inferior colliculus have been determined by Lindeberg and Friberg  in terms of derivatives of Gaussian functions over the log-spectral domain and either Gaussian kernels over time in the case of non-causal time or first-order integrators (truncated exponential kernels) coupled in cascade in the case of truly time-causal operations, optionally in combination with local glissando transformations to account for variations in frequencies over time.
+
+The shapes of the receptive field functions in these models can be determined by necessity from structural properties of the environment combined with requirements about the internal structure of the auditory system to enable theoretically well-founded processing of sound signals at different temporal and log-spectral scales. 
+
+Thereby, the receptive fields in inferior colliculus can be seen as well adapted to handling natural sound transformations.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_colliculus
+;;;ES;;;
+
+
+
+COLÍCULO INFERIOR
+
+
+El colículo inferior (IC) (en latín, colina inferior) es el principal núcleo del mesencéfalo de la vía auditiva y recibe información de varios núcleos periféricos del tronco encefálico en la vía auditiva, así como información de la corteza auditiva.
+
+El colículo inferior tiene tres subdivisiones: el núcleo central, una corteza dorsal que lo rodea y una corteza externa que se ubica lateralmente.
+
+Sus neuronas bimodales están implicadas en la interacción auditivo-somatosensorial, recibiendo proyecciones de los núcleos somatosensoriales.
+
+Esta integración multisensorial puede ser la base de un filtrado de los sonidos producidos por las actividades de vocalización, masticación o respiración.
+
+Los colículos inferiores junto con los colículos superiores forman las eminencias de los cuerpos cuadrigéminos, y también parte de la región tectal del mesencéfalo.
+
+El colículo inferior se encuentra caudal a su contraparte, el colículo superior, por encima del nervio troclear, y en la base de la proyección del núcleo geniculado medial y el núcleo geniculado lateral.
+
+
+== Subdivisiones ==
+
+El colículo inferior tiene tres subdivisiones: el núcleo central, la corteza dorsal que lo rodea y una corteza externa que se encuentra lateralmente.
+
+
+== Relación con el sistema auditivo ==
+
+Los colículos inferiores del mesencéfalo se encuentran justo debajo de los centros de procesamiento visual conocidos como colículos superiores.
+
+El colículo inferior es el primer lugar donde los datos de orientación vertical de las células fusiformes en el núcleo coclear dorsal pueden finalmente hacer sinapsis con los datos de orientación horizontal.
+
+Los datos de ubicación del sonido quedan completamente integrados por el colículo inferior.
+
+Los IC son grandes núcleos auditivos en los lados derecho e izquierdo del mesencéfalo.
+
+De las tres subdivisiones el núcleo central del CI (CNIC) es la principal estación de paso para la información auditiva ascendente en el CI.
+
+
+=== Conexiones de entrada y salida de IC ===
+
+Las conexiones de entrada al colículo inferior están compuestas por muchos núcleos del tronco encefálico.
+
+Todos los núcleos, excepto el núcleo ventral contralateral del lemnisco lateral, envían proyecciones al núcleo central (CNIC) bilateralmente.
+
+Se ha demostrado que la gran mayoría de las fibras auditivas que ascienden en el lemnisco lateral terminan en el CNIC.
+
+Además, el IC recibe información de la corteza auditiva, la división medial del cuerpo geniculado medial, el limitante posterior, el núcleo suprapeduncular y los núcleos intralaminares subparafasciculares del tálamo, la sustancia negra pars compacta lateralis, la sustancia gris periacueductal dorsolateral, el núcleo de el braquio del colículo inferior (o braquio inferior) y las capas profundas del colículo superior.
+
+El braquio inferior transporta fibras aferentes auditivas desde el colículo inferior del mesencéfalo hasta el núcleo geniculado medial.
+
+El colículo inferior recibe información del núcleo coclear ipsilateral y contralateral y, respectivamente, de los oídos correspondientes.
+
+Hay algo de lateralización, las proyecciones dorsales (que contienen datos verticales) solo se proyectan hacia el colículo inferior contralateral.
+
+Este colículo inferior contralateral al oído del que recibe la mayor parte de la información, luego se proyecta a su núcleo geniculado medial ipsolateral.
+
+El colículo inferior también recibe impulsos descendentes de la corteza auditiva y el tálamo auditivo (o núcleo geniculado medial).
+
+El cuerpo geniculado medial (MGB) es la conexión de salida del colículo inferior y la última estación de paso subcortical.
+
+El MGB se compone de divisiones ventral, dorsal y medial, que son relativamente similares en humanos y otros mamíferos.
+
+La división ventral recibe señales auditivas del núcleo central del IC.
+
+
+=== Función de IC ===
+
+La mayoría de las fibras ascendentes del lemnisco lateral se proyectan hacia el IC, lo que significa que las principales vías auditivas ascendentes convergen aquí.
+
+IC aparece también como una estación integradora y una centralita.
+
+Está involucrado en la integración y el enrutamiento de la percepción sensorial multimodal, principalmente la respuesta de sobresalto y el reflejo vestíbulo-ocular.
+
+También responde a frecuencias de modulación de amplitud específicas y esto podría ser responsable de la detección del tono.
+
+Además, la localización espacial por audición binaural también es una función relacionada de IC.
+El colículo inferior tiene un metabolismo relativamente alto en el cerebro.
+
+La Iniciativa de Investigación Conrad Simon Memorial midió el flujo sanguíneo del IC y puso un número de 1,80 cc/g/min en el cerebro del gato.
+
+Como referencia, el subcampeón en las mediciones incluidas fue la corteza somatosensorial con 1,53.
+
+Esto indica que el colículo inferior es metabólicamente más activo que muchas otras partes del cerebro.
+
+El hipocampo, que normalmente se considera que consume una cantidad desproporcionada de energía, no se midió ni comparó.
+
+Skottun et al. midió la sensibilidad a la diferencia de tiempo interaural de neuronas individuales en el colículo inferior y las utilizó para predecir el rendimiento conductual.
+
+La diferencia apenas perceptible predicha fue comparable a la lograda por los humanos en las pruebas de comportamiento.
+
+Esto sugirió que por el nivel del colículo inferior, la integración de información sobre múltiples neuronas es innecesaria (ver código de población).
+
+Lindeberg y Friberg han determinado modelos funcionales determinados axiomáticamente de campos receptivos espectrotemporales en el colículo inferior en términos de derivadas de funciones gaussianas sobre el dominio logarítmico espectral y núcleos gaussianos a lo largo del tiempo en el caso de tiempo no causal o de primer grado. integradores de orden (núcleos exponenciales truncados) acoplados en cascada en el caso de operaciones verdaderamente causales en el tiempo, opcionalmente en combinación con transformaciones de glissando locales para tener en cuenta las variaciones en las frecuencias a lo largo del tiempo.
+
+Las formas de las funciones del campo receptivo en estos modelos se pueden determinar por necesidad a partir de las propiedades estructurales del entorno combinadas con los requisitos sobre la estructura interna del sistema auditivo para permitir un procesamiento teóricamente bien fundamentado de las señales de sonido en diferentes escalas temporales y logarítmicas espectrales. .
+
+Por lo tanto, los campos receptivos en el colículo inferior pueden verse también adaptados para manejar las transformaciones naturales del sonido.
+
+
+
+https://en.wikipedia.org/wiki/Colliculus_inferior
+
+;;;PT;;;
+
+
+
+COLÍCULO INFERIOR
+
+
+O colículo inferior (CI) (latim para colina inferior) é o principal núcleo do mesencéfalo da via auditiva e recebe aferências de vários núcleos periféricos do tronco cerebral na via auditiva, bem como aferências do córtex auditivo.
+
+O colículo inferior tem três subdivisões: o núcleo central, um córtex dorsal que o circunda e um córtex externo que está localizado lateralmente.
+
+Seus neurônios bimodais estão implicados na interação auditivo-somatossensorial, recebendo projeções dos núcleos somatossensoriais.
+
+Essa integração multissensorial pode estar subjacente a uma filtragem de sons auto-efeitos de atividades de vocalização, mastigação ou respiração.
+
+Os colículos inferiores juntamente com os colículos superiores formam as eminências dos corpos quadrigêmeos e também parte da região tectal do mesencéfalo.
+
+O colículo inferior situa-se caudalmente ao seu homólogo – o colículo superior – acima do nervo troclear e na base da projeção do núcleo geniculado medial e do núcleo geniculado lateral.
+
+
+== Subdivisões ==
+
+O colículo inferior tem três subdivisões – o núcleo central, o córtex dorsal que o circunda e um córtex externo que está localizado lateralmente.
+
+
+== Relação com o sistema auditivo ==
+
+Os colículos inferiores do mesencéfalo estão localizados logo abaixo dos centros de processamento visual conhecidos como colículos superiores.
+
+O colículo inferior é o primeiro lugar onde os dados orientados verticalmente das células fusiformes no núcleo coclear dorsal podem finalmente fazer sinapse com os dados orientados horizontalmente.
+
+Os dados de localização sonora tornam-se assim totalmente integrados pelo colículo inferior.
+
+CI são grandes núcleos auditivos nos lados direito e esquerdo do mesencéfalo.
+
+Das três subdivisões, o núcleo central do IC (CNIC) é a principal estação de passagem para a informação auditiva ascendente no IC.
+
+
+=== Conexões de entrada e saída do IC ===
+
+As conexões de entrada para o colículo inferior são compostas por muitos núcleos do tronco encefálico.
+
+Todos os núcleos, exceto o núcleo ventral contralateral do lemnisco lateral, enviam projeções para o núcleo central (CNIC) bilateralmente.
+
+Foi demonstrado que a grande maioria das fibras auditivas que ascendem no lemnisco lateral terminam no CNIC.
+
+Além disso, o CI recebe informações do córtex auditivo, da divisão medial do corpo geniculado medial, dos limites posteriores, dos núcleos suprapeduncular e subparafascicular intralaminar do tálamo, da substância negra pars compacta lateralis, da substância cinzenta periaquedutal dorsolateral, do núcleo do o braquio do colículo inferior (ou braquio inferior) e as camadas profundas do colículo superior.
+
+O braquio inferior transporta fibras aferentes auditivas do colículo inferior do mesencéfalo para o núcleo geniculado medial.
+
+O colículo inferior recebe informações do núcleo coclear ipsilateral e contralateral e, respectivamente, das orelhas correspondentes.
+
+Há alguma lateralização, as projeções dorsais (contendo dados verticais) projetam-se apenas para o colículo inferior contralateral.
+
+Este colículo inferior contralateral à orelha de onde está recebendo a maior parte das informações, então projeta-se para seu núcleo geniculado medial ipsilateral.
+
+O colículo inferior também recebe entradas descendentes do córtex auditivo e do tálamo auditivo (ou núcleo geniculado medial).
+
+O corpo geniculado medial (CMG) é a conexão de saída do colículo inferior e a última estação subcortical.
+
+O MGB é composto por divisões ventral, dorsal e medial, que são relativamente semelhantes em humanos e outros mamíferos.
+
+A divisão ventral recebe sinais auditivos do núcleo central do CI.
+
+
+=== Função de IC ===
+
+A maioria das fibras ascendentes do lemnisco lateral projetam-se para o IC, o que significa que as principais vias auditivas ascendentes convergem aqui.
+
+IC aparece como uma estação integradora e central também.
+
+Está envolvido na integração e encaminhamento da percepção sensorial multimodal, principalmente na resposta de sobressalto e no reflexo vestíbulo-ocular.
+
+Também responde a frequências de modulação de amplitude específicas e isso pode ser responsável pela detecção do tom.
+
+Além disso, a localização espacial pela audição binaural também é uma função relacionada da CI.
+O colículo inferior tem um metabolismo relativamente alto no cérebro.
+
+A Iniciativa de Pesquisa Memorial Conrad Simon mediu o fluxo sanguíneo do CI e colocou um número em 1,80 cc/g/min no cérebro do gato.
+
+Para referência, o segundo colocado nas medidas incluídas foi o córtex somatossensorial em 1,53.
+
+Isso indica que o colículo inferior é metabolicamente mais ativo do que muitas outras partes do cérebro.
+
+O hipocampo, normalmente considerado como gastando uma quantidade desproporcional de energia, não foi medido ou comparado.
+
+Skottun et ai. mediram a sensibilidade da diferença de tempo interaural de neurônios únicos no colículo inferior e os usaram para prever o desempenho comportamental.
+
+A diferença apenas perceptível prevista foi comparável àquela alcançada por humanos em testes comportamentais.
+
+Isso sugeriu que pelo nível do colículo inferior, a integração de informações em vários neurônios é desnecessária (veja o código da população).
+
+Modelos funcionais axiomaticamente determinados de campos receptivos espectro-temporais no colículo inferior foram determinados por Lindeberg e Friberg em termos de derivadas de funções gaussianas sobre o domínio log-espectral e kernels gaussianos ao longo do tempo no caso de tempo não causal ou primeiro- integradores de ordem (núcleos exponenciais truncados) acoplados em cascata no caso de operações verdadeiramente causais no tempo, opcionalmente em combinação com transformações de glissando locais para levar em conta as variações nas frequências ao longo do tempo.
+
+As formas das funções do campo receptivo nesses modelos podem ser determinadas por necessidade a partir de propriedades estruturais do ambiente combinadas com requisitos sobre a estrutura interna do sistema auditivo para permitir o processamento teoricamente bem fundamentado de sinais sonoros em diferentes escalas temporais e log-espectrais .
+
+Assim, os campos receptivos no colículo inferior podem ser vistos bem adaptados para lidar com as transformações naturais do som.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_colliculus
+
+;;;FR;;;
+
+
+
+COLLICULUS INFÉRIEUR
+
+
+Le colliculus inférieur (IC) (en latin pour colline inférieure) est le principal noyau du mésencéphale de la voie auditive et reçoit des entrées de plusieurs noyaux périphériques du tronc cérébral dans la voie auditive, ainsi que des entrées du cortex auditif.
+
+Le colliculus inférieur a trois subdivisions : le noyau central, un cortex dorsal qui l'entoure et un cortex externe qui est situé latéralement.
+
+Ses neurones bimodaux sont impliqués dans l'interaction auditive-somatosensorielle, recevant des projections des noyaux somatosensoriels.
+
+Cette intégration multisensorielle peut sous-tendre un filtrage des sons auto-effectués provenant des activités de vocalisation, de mastication ou de respiration.
+
+Les colliculi inférieurs forment avec les colliculi supérieurs les éminences des corps quadrigimaux, ainsi qu'une partie de la région tectale du mésencéphale.
+
+Le colliculus inférieur est caudal par rapport à son homologue - le colliculus supérieur - au-dessus du nerf trochléaire et à la base de la projection du noyau géniculé médial et du noyau géniculé latéral.
+
+
+== Subdivisions ==
+
+Le colliculus inférieur a trois subdivisions - le noyau central, le cortex dorsal qui l'entoure et un cortex externe situé latéralement.
+
+
+== Relation avec le système auditif ==
+
+Les colliculi inférieurs du mésencéphale sont situés juste en dessous des centres de traitement visuel connus sous le nom de colliculi supérieurs.
+
+Le colliculus inférieur est le premier endroit où les données d'orientation verticale des cellules fusiformes du noyau cochléaire dorsal peuvent finalement synapser avec les données d'orientation horizontale.
+
+Les données de localisation sonore sont ainsi totalement intégrées par le colliculus inférieur.
+
+Les IC sont de gros noyaux auditifs situés sur les côtés droit et gauche du mésencéphale.
+
+Parmi les trois subdivisions, le noyau central de l'IC (CNIC) est la principale station de cheminement pour les informations auditives ascendantes dans l'IC.
+
+
+=== Connexions d'entrée et de sortie du CI ===
+
+Les connexions d'entrée au colliculus inférieur sont composées de nombreux noyaux du tronc cérébral.
+
+Tous les noyaux, à l'exception du noyau ventral controlatéral du lemnisque latéral, envoient des projections bilatérales au noyau central (CNIC).
+
+Il a été démontré que la grande majorité des fibres auditives montant dans le lemnisque latéral se terminent dans le CNIC.
+
+De plus, le CI reçoit des entrées du cortex auditif, de la division médiale du corps géniculé médian, des limites postérieures, du noyau suprapédonculaire et des noyaux intralaminaires sous-parafasciculaires du thalamus, de la substantia nigra pars compacta lateralis, du gris périaqueductal dorsolatéral, du noyau de le brachium du colliculus inférieur (ou brachium inférieur) et les couches profondes du colliculus supérieur.
+
+Le brachium inférieur porte les fibres afférentes auditives du colliculus inférieur du mésencéphale au noyau géniculé médial.
+
+Le colliculus inférieur reçoit à la fois les noyaux cochléaires ipsilatéral et controlatéral et respectivement les oreilles correspondantes.
+
+Il y a une certaine latéralisation, les projections dorsales (contenant des données verticales) ne se projettent que sur le colliculus inférieur controlatéral.
+
+Ce colliculus inférieur controlatéral à l'oreille dont il reçoit le plus d'informations, puis se projette vers son noyau géniculé médial ipsilatéral.
+
+Le colliculus inférieur reçoit également des entrées descendantes du cortex auditif et du thalamus auditif (ou noyau géniculé médial).
+
+Le corps géniculé médial (MGB) est la connexion de sortie du colliculus inférieur et la dernière station de voie sous-corticale.
+
+Le MGB est composé de divisions ventrales, dorsales et médiales, qui sont relativement similaires chez les humains et les autres mammifères.
+
+La division ventrale reçoit les signaux auditifs du noyau central du CI.
+
+
+=== Fonction d'IC ​​===
+
+La majorité des fibres ascendantes du projet du lemnisque latéral vers IC, ce qui signifie que les principales voies auditives ascendantes convergent ici.
+
+IC apparaît également comme une station intégrative et un standard.
+
+Il est impliqué dans l'intégration et l'acheminement de la perception sensorielle multimodale, principalement la réaction de sursaut et le réflexe vestibulo-oculaire.
+
+Il est également sensible à des fréquences de modulation d'amplitude spécifiques, ce qui pourrait être responsable de la détection de la hauteur.
+
+De plus, la localisation spatiale par l'audition binaurale est également une fonction connexe de l'IC.
+Le colliculus inférieur a un métabolisme relativement élevé dans le cerveau.
+
+La Conrad Simon Memorial Research Initiative a mesuré le flux sanguin de l'IC et a mis un nombre à 1,80 cc/g/min dans le cerveau du chat.
+
+Pour référence, le finaliste dans les mesures incluses était le cortex somatosensoriel à 1,53.
+
+Cela indique que le colliculus inférieur est métaboliquement plus actif que de nombreuses autres parties du cerveau.
+
+L'hippocampe, normalement considéré comme consommant une quantité disproportionnée d'énergie, n'a pas été mesuré ni comparé.
+
+Skotun et al. ont mesuré la sensibilité à la différence de temps interaurale de neurones uniques dans le colliculus inférieur et les ont utilisés pour prédire les performances comportementales.
+
+La différence à peine perceptible prédite était comparable à celle obtenue par les humains dans les tests comportementaux.
+
+Cela suggère qu'au niveau du colliculus inférieur, l'intégration d'informations sur plusieurs neurones n'est pas nécessaire (voir code de population).
+
+Des modèles fonctionnels déterminés de manière axiomatique des champs récepteurs spectro-temporels dans le colliculus inférieur ont été déterminés par Lindeberg et Friberg en termes de dérivées de fonctions gaussiennes sur le domaine log-spectral et soit de noyaux gaussiens au cours du temps dans le cas d'un temps non causal ou d'un premier temps. des intégrateurs d'ordre (noyaux exponentiels tronqués) couplés en cascade dans le cas d'opérations réellement causales en temps, éventuellement en combinaison avec des transformations glissando locales pour tenir compte des variations de fréquences dans le temps.
+
+Les formes des fonctions de champ réceptif dans ces modèles peuvent être déterminées par nécessité à partir des propriétés structurelles de l'environnement combinées aux exigences concernant la structure interne du système auditif pour permettre un traitement théoriquement bien fondé des signaux sonores à différentes échelles temporelles et log-spectrales. .
+
+Ainsi, les champs récepteurs du colliculus inférieur peuvent être considérés comme bien adaptés à la gestion des transformations sonores naturelles.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_colliculus

@@ -1,0 +1,84 @@
+
+
+MANIPULATION
+    
+    
+Press 'G' 
+    to Grab (move with the mouse) the selected object(s)
+
+Press 'Alt+G' 
+    to Reset the position of the selected object(s)
+    
+Press 'R' 
+    to Rotate (with the mouse) the selected object(s)
+    
+Press 'Alt+R' 
+    to Reset the rotation of the selected object(s)
+    
+Press 'T' 
+    to open/close the Toolbar
+;;;ES;;;
+
+
+
+MANIPULACIÓN
+ 
+ 
+Presione 'G'
+para agarrar (mover con el mouse) los objetos seleccionados
+
+Presiona 'Alt+G'
+para restablecer la posición de los objetos seleccionados
+ 
+Presione 'R'
+para rotar (con el mouse) el(los) objeto(s) seleccionado(s)
+ 
+Presiona 'Alt+R'
+para restablecer la rotación de los objetos seleccionados
+ 
+Presione 'T'
+para abrir/cerrar la barra de herramientas
+
+;;;PT;;;
+
+
+
+MANIPULAÇÃO
+ 
+ 
+Pressione 'G'
+para Agarrar (mover com o mouse) o(s) objeto(s) selecionado(s)
+
+Pressione 'Alt+G'
+para redefinir a posição do(s) objeto(s) selecionado(s)
+ 
+Pressione 'R'
+para Girar (com o mouse) o(s) objeto(s) selecionado(s)
+ 
+Pressione 'Alt+R'
+para Redefinir a rotação do(s) objeto(s) selecionado(s)
+ 
+Pressione 'T'
+para abrir/fechar a barra de ferramentas
+
+;;;FR;;;
+
+
+
+MANIPULATION
+ 
+ 
+Appuyez sur 'G'
+saisir (déplacer avec la souris) le ou les objets sélectionnés
+
+Appuyez sur 'Alt+G'
+pour réinitialiser la position du ou des objets sélectionnés
+ 
+Appuyez sur 'R'
+faire pivoter (avec la souris) le(s) objet(s) sélectionné(s)
+ 
+Appuyez sur 'Alt+R'
+pour réinitialiser la rotation du ou des objets sélectionnés
+ 
+Appuyez sur 'T'
+pour ouvrir/fermer la barre d'outils

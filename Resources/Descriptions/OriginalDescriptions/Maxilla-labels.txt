@@ -1,0 +1,42 @@
+MAXILLA
+    Body of maxilla
+        Orbital surface of maxilla
+            Infra-orbital canal
+            Infra-orbital groove
+        Maxillary part of orbital margin
+        Anterior surface of maxilla
+            Infra-orbital foramen
+            Canine fossa
+            Nasal notch
+            Anterior nasal spine
+        Infratemporal surface of maxilla
+            Alveolar foramina
+                Posterior superior alveolar foramina
+                Middle superior alveolar foramen
+                Anterior superior alveolar foramen
+            Alveolar canals
+                Maxillary tuberosity
+        Nasal surface of maxilla
+            Lacrimal groove of maxilla
+                Conchal crest of maxilla
+                Cacrimal margin of maxilla
+                Hiatus of maxilla
+        Greater palatine groove of maxilla
+        Sinus of maxilla
+    Frontal process of maxilla
+        Anterior lacrimal crest
+        Lacrimal notch
+        Ethmoidal crest of maxilla
+    Zygomatic process of maxilla
+    Palatine process
+        Nasal crest of maxilla
+        Incisive canals
+        Palatine spines
+        Palatine grooves
+    Alveolar process
+        Alveolar arch of maxilla
+        Dental alveoli of maxilla
+        Interalveolar septa of maxilla
+        Interradicular septa of maxilla
+        Alveolar yokes of maxilla
+        Incisive foramina

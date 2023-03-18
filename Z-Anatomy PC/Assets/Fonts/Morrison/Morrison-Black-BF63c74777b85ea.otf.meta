@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9604b17ae1dcc3e4ab30ec1165f53acf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Morrison
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 569e6efe59a1b534eb237e30684cff1d, type: 3}
+  - {fileID: 12800000, guid: d330073d24b2248409ca79e6fa1c850b, type: 3}
+  - {fileID: 12800000, guid: 51bec89f290ed59468ef2784421daa40, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

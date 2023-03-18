@@ -1,0 +1,13 @@
+<map id="CameraController.CenterView" name="CameraController.CenterView">
+<area shape="rect" id="node1" title="Centers the camera on the active objects or the selected object(s)." alt="" coords="532,161,724,186"/>
+<area shape="rect" id="node2" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="278,13,474,38"/>
+<area shape="rect" id="node4" href="$class_select_command.html#a4adfba5781cb1795ec4cdb9cd5a03c3a" title=" " alt="" coords="291,62,461,87"/>
+<area shape="rect" id="node5" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="271,111,481,137"/>
+<area shape="rect" id="node6" href="$class_hierarchy_button.html#a0906c341355a0461c23265da273e6e80" title=" " alt="" coords="293,161,459,186"/>
+<area shape="rect" id="node8" href="$class_bonus_collections.html#a4f18fdd0b2d21d6bcb40c99a120f10f1" title=" " alt="" coords="268,210,484,235"/>
+<area shape="rect" id="node10" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="271,259,481,285"/>
+<area shape="rect" id="node11" href="$class_selected_objects_management.html#a91bae1160eb4529889e6477e3ea029ba" title=" " alt="" coords="277,309,475,349"/>
+<area shape="rect" id="node3" href="$class_lexicon_element_button.html#a41dc70b684895c694867c73606cf67fb" title=" " alt="" coords="5,5,220,45"/>
+<area shape="rect" id="node7" href="$class_hierarchy_button.html#a1120572edd81dea744858740db7b707f" title=" " alt="" coords="24,149,201,189"/>
+<area shape="rect" id="node9" href="$class_bonus_collection_item.html#acf23cc61e3608a0a5fb56cc7d6aa980f" title=" " alt="" coords="25,214,200,239"/>
+</map>

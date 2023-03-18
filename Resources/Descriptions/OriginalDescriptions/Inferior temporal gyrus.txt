@@ -1,0 +1,221 @@
+
+
+INFERIOR TEMPORAL GYRUS
+
+
+The inferior temporal gyrus is one of three gyri of the temporal lobe and is located below the middle temporal gyrus, connected behind with the inferior occipital gyrus; it also extends around the infero-lateral border on to the inferior surface of the temporal lobe, where it is limited by the inferior sulcus. 
+
+This region is one of the higher levels of the ventral stream of visual processing, associated with the representation of objects, places, faces, and colors. 
+
+It may also be involved in face perception, and in the recognition of numbers.
+
+The inferior temporal gyrus is the anterior region of the temporal lobe located underneath the central temporal sulcus. 
+
+The primary function of the occipital temporal gyrus – otherwise referenced as IT cortex – is associated with visual stimuli processing, namely visual object recognition, and has been suggested by recent experimental results as the final location of the ventral cortical visual system. 
+
+The IT cortex in humans is also known as the Inferior Temporal Gyrus since it has been located to a specific region of the human temporal lobe. 
+
+The IT processes visual stimuli of objects in our field of vision, and is involved with memory and memory recall to identify that object; it is involved with the processing and perception created by visual stimuli amplified in the V1, V2, V3, and V4 regions of the occipital lobe. 
+
+This region processes the color and form of the object in the visual field and is responsible for producing the “what” from this visual stimuli, or in other words identifying the object based on the color and form of the object and comparing that processed information to stored memories of objects to identify that object.
+
+The IT cortex’s neurological significance is not just its contribution to the processing of visual stimuli in object recognition but also has been found to be a vital area with regards to simple processing of the visual field, difficulties with perceptual tasks and spatial awareness, and the location of unique single cells that possibly explain the IT cortex’s relation to memory.
+
+
+== Structure ==
+
+The temporal lobe is unique to primates. 
+
+In humans, the IT cortex is more complex than their relative primate counterparts. 
+
+The human inferior temporal cortex consists of the inferior temporal gyrus, the middle temporal gyrus, and the fusiform gyrus. 
+
+When looking at the brain laterally – that is from the side and looking at the surface of the temporal lobe – the inferior temporal gyrus is along the bottom portion of the temporal lobe, and is separated from the middle temporal gyrus located directly above by the inferior temporal sulcus. 
+
+Additionally, some processing of the visual field that corresponds to the ventral stream of visual processing occurs in the lower portion of the superior temporal gyrus closest to the superior temporal sulcus. 
+
+The medial and ventral view of the brain – meaning looking at the medial surface from below the brain, facing upwards – reveals that the inferior temporal gyrus is separated from the fusiform gyrus by the occipital-temporal sulcus. 
+
+This human inferior temporal cortex is much more complex than that of other primates: non-human primates have an inferior temporal cortex that is not divided into unique regions such as humans' inferior temporal gyrus, fusiform gyrus, or middle temporal gyrus.
+
+This region of the brain corresponds to the inferior temporal cortex and is responsible for visual object recognition and receives processed visual information. 
+
+The inferior temporal cortex in primates has specific regions dedicated to processing different visual stimuli processed and organized by the different layers of the striate cortex and extra-striate cortex. 
+
+The information from the V1 –V5 regions of the geniculate and tectopulvinar pathways are radiated to the IT cortex via the ventral stream: visual information specifically related to the color and form of the visual stimuli. 
+
+Through comparative research between primates – humans and non-human primates – results indicate that the IT cortex plays a significant role in visual shape processing. 
+
+This is supported by functional magnetic resonance imaging (fMRI) data collected by researchers comparing this neurological process between humans and macaques.
+
+
+== Function ==
+
+=== Receiving information ===
+
+The light energy that comes from the rays bouncing off of an object is converted into chemical energy by the cells in the retina of the eye. 
+
+This chemical energy is then converted into action potentials that are transferred through the optic nerve and across the optic chiasm, where it is first processed by the lateral geniculate nucleus of the thalamus. 
+
+From there the information is sent to the primary visual cortex, region V1. 
+
+It then travels from the visual areas in the occipital lobe to the parietal and temporal lobes via two distinct anatomical streams. 
+
+These two cortical visual systems were classified by Ungerleider and Mishkin (1982, see two-streams hypothesis). 
+
+One stream travels ventrally to the inferior temporal cortex (from V1 to V2 then through V4 to ITC) while the other travels dorsally to the posterior parietal cortex. 
+
+They are labeled the “what” and “where” streams, respectively. 
+
+The Inferior Temporal Cortex receives information from the ventral stream, understandably so, as it is known to be a region essential in recognizing patterns, faces, and objects.
+
+
+=== Single-cell function in the inferior temporal gyrus ===
+
+The understanding at the single-cell level of the IT cortex and its role of utilizing memory to identify objects and or process the visual field based on color and form visual information is a relatively recent in neuroscience. 
+
+Early research indicated that the cellular connections of the temporal lobe to other memory associated areas of the brain – namely the hippocampus, the amygdala, the prefrontal cortex, among others. 
+
+These cellular connections have recently been found to explain unique elements of memory, suggesting that unique single-cells can be linked to specific unique types and even specific memories.
+
+Research into the single-cell understanding of the IT cortex reveals many compelling characteristics of these cells: 
+    single-cells with similar selectivity of memory are clustered together across the cortical layers of the IT cortex; the temporal lobe neurons have recently been shown to display learning behaviors and possibly relate to long-term memory; and, cortical memory within the IT cortex is likely to be enhanced over time thanks to the influence of the afferent-neurons of the medial-temporal region.
+    
+Further research of the single-cells of the IT cortex suggests that these cells not only have a direct link to the visual system pathway but also are deliberate in the visual stimuli they respond to: 
+    in certain cases, the single-cell IT cortex neurons do not initiate responses when spots or slits, namely simple visual stimuli, are present in the visual field; however, when complicated objects are put in place, this initiates a response in the single-cell neurons of the IT cortex. 
+
+This provides evidence that not only are the single-cell neurons of the IT cortex related in having a unique specific response to visual stimuli but rather that each individual single-cell neuron has a specific response to a specific stimuli. 
+
+The same study also reveals how the magnitude of the response of these single-cell neurons of the IT cortex do not change due to color and size but are only influenced by the shape. 
+
+This led to even more interesting observations where specific IT neurons have been linked to the recognition of faces and hands. 
+
+This is very interesting as to the possibility of relating to neurological disorders of prosopagnosia and explaining the complexity and interest in the human hand. 
+
+Additional research form this study goes into more depth on the role of "face neurons" and "hand neurons" involved in the IT cortex.
+ 
+The significance of the single-cell function in the IT cortex is that it is another pathway in addition to the lateral geniculate pathway that processes most visual system: 
+    this raises questions about how does it benefit our visual information processing in addition to normal visual pathways and what other functional units are involved in additional visual information processing.
+
+
+=== Information processing ===
+
+The information for color and form comes from P-cells that receive their information mainly from cones, so they are sensitive to differences in form and color, as opposed to the M-cells that receive information about motion mainly from rods. 
+
+The neurons in the inferior temporal cortex, also called the inferior temporal visual association cortex, process this information from the P-cells. 
+
+The neurons in the ITC have several unique properties that offer an explanation as to why this area is essential in recognizing patterns. 
+
+They only respond to visual stimuli and their receptive fields always include the fovea, which is one of the densest areas of the retina and is responsible for acute central vision. 
+
+These receptive fields tend to be larger than those in the striate cortex and often extend across the midline to unite the two visual half fields for the first time. 
+
+IT neurons are selective for shape and/or color of stimulus and are usually more responsive to complex shapes as opposed to simple ones. 
+
+A small percentage of them are selective for specific parts of the face. 
+
+Faces and likely other complex shapes are seemingly coded by a sequence of activity across a group of cells, and IT cells can display both short or long term memory for visual stimuli based on experience.
+
+
+=== Object recognition ===
+
+There are a number of regions within the ITC that work together for processing and recognizing the information of “what” something is. 
+
+In fact, discrete categories of objects are even associated with different regions. 
+
+The fusiform gyrus or Fusiform Face Area (FFA) deals more with facial and body recognition rather than objects.
+
+The Parahippocampal Place Area (PPA) helps differentiate between scenes and objects.
+
+The Extrastriate Body Area (EBA) tells apart body parts from other objects.
+
+And the Lateral Occipital Complex (LOC) is used to determine shapes vs. scrambled stimuli.
+
+These areas must all work together, as well as with the hippocampus, in order to create an array of understanding of the physical world. 
+
+The hippocampus is key for storing the memory of what an object is/what it looks like for future use so that it can be compared and contrasted with other objects. 
+
+Correctly being able to recognize an object is highly dependent on this organized network of brain areas that process, share, and store information. 
+
+In a study by Denys et al., functional magnetic resonance imaging (FMRI) was used to compare the processing of visual shape between humans and macaques. 
+
+They found, amongst other things, that there was a degree of overlap between shape and motion sensitive regions of the cortex, but that the overlap was more distinct in humans. 
+
+This would suggest that the human brain is better evolved for a high level of functioning in a distinct, three-dimensional, visual world.
+
+
+== Clinical significance ==
+
+=== Prosopagnosia ===
+
+Prosopagnosia, also called face blindness, is a disorder that results in the inability to recognize or discriminate between faces. 
+
+It can often be associated with other forms of recognition impairment, such as place, car, or emotional recognition. 
+
+A study conducted by Gross et all in 1969 found that certain cells were selective for the shape of a monkey hand, and they observed that as the stimulus they provided began to further resemble a monkey hand, those cells became more active. 
+
+A few years later, in 1972, Gross et al. discovered that certain IT cells were selective for faces. 
+
+Although it is not conclusive, ‘face-selective’ IT cortex cells are assumed to play a large role in facial recognition in monkeys. 
+
+After the extensive research into the result of damage to the IT cortex in monkeys, it is theorized that lesions in the IT gyrus in humans result in prosopagnosia. 
+
+Rubens and Benson’s 1971 study of a subject in life with prosopagnosia reveals that the patient is able to name common objects on visual presentation flawlessly, however she cannot recognize faces. 
+
+Upon necropsy conducted by Benson et al., it was apparent that a discrete lesion in the right fusiform gyrus, a part of the inferior temporal gyrus, was one of the main causes of the subject’s symptoms.
+
+A more in depth observation can be seen with the example of patient L.H. in the study conducted by N.L. 
+
+Etcoff and colleagues in 1991. 
+
+This 40-year-old man was involved in an automobile accident when he was 18, which resulted in severe brain injury. 
+
+Upon recovery, L.H. was unable to recognize or discriminate between faces, or even recognize faces that were familiar to him before the accident. 
+
+L.H. and other patients with prosopagnosia are often able to live relatively normal and productive lives despite their deficit. 
+
+L.H. was still able to recognize common objects, subtle differences in shapes, and even age, sex, and “likeability” of faces. 
+
+However, they use non-facial cues, such as height, hair color, and voice to differentiate between people. 
+
+Non-invasive brain imaging revealed that L.H.’s prosopagnosia was a result of damage to the right temporal lobe, which contains the inferior temporal gyrus.
+
+
+=== Deficits in semantic memory ===
+
+Certain disorders, such as Alzheimer's disease and semantic dementia, are characterized by a patient’s inability to integrate semantic memories, which results in patients being unable to form new memories, lacking awareness of time period, as well as lacking other important cognitive processes. 
+
+Chan et al 2001 conducted a study that used volumetric magnetic resonance imaging to quantify the global and temporal lobe atrophy in semantic dementia and Alzheimer's disease. 
+
+The subjects were selected and confirmed to be in the middle of the spectrum of their respective disorders clinically, and then further confirmation came from a series of neuropsychological tests given to the subjects. 
+
+The study treated the inferior temporal cortex and the middle temporal cortex as one and the same, because of the, "often indistinct," border between the gyri.
+
+The study concluded that in Alzheimer's disease, deficits in inferior temporal structures were not the main source of the disease. 
+
+Rather, atrophy in the entorhinal cortex, amygdala, and hippocampus was prominent in the Alzheimer’s inflicted subjects of the study. 
+
+With respect to semantic dementia, the study concluded that “the middle and inferior temporal gyri [cortices] may play a key role” in semantic memory, and as a result, unfortunately, when these anterior temporal lobe structures are injured, the subject is left with semantic dementia. 
+
+This information shows how, despite often being grouped in the same category, Alzheimer's disease and semantic dementia are very different diseases, and are characterized by marked differences in the subcortical structures they are associated with.
+
+
+=== Cerebral achromatopsia ===
+
+Cerebral achromatopsia is a medical disorder characterized by the inability to perceive color and to achieve satisfactory visual acuity in high light levels. 
+
+Congenital achromatopsia is characterized the same way, however it is genetic, while Cerebral Achromatopsia occurs as a result of damage to certain parts of the brain. 
+
+One part of the brain that is particularly integral to color discrimination is the inferior temporal gyrus. 
+
+A 1995 study conducted by Heywood et al. was meant to highlight the parts of the brain that are important in achromatopsia in monkeys, however, it obviously sheds light on the areas of the brain related to achromatopsia in humans. 
+
+In the study, one group of monkeys (group AT) received lesions in the temporal lobe anterior to V4 and the other group (group MOT) received lesions to the occipito-temporal area that corresponds in cranial location to the lesion that produces cerebral achromatopsia in humans. 
+
+The study concluded that group MOT had no impairment of their color vision while the subjects in group AT all had severe impairments to their color vision, consistent with humans diagnosed with cerebral achromatopsia. 
+
+This study shows that temporal lobe areas anterior to V4, which includes the inferior temporal gyrus, play a large role in patients with Cerebral Achromatopsia.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_temporal_gyrus

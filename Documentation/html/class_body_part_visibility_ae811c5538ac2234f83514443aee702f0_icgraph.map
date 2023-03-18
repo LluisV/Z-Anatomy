@@ -1,0 +1,4 @@
+<map id="BodyPartVisibility.ShowInsertionMuscles" name="BodyPartVisibility.ShowInsertionMuscles">
+<area shape="rect" id="node1" title="Shows the muscles connected to the insertion points of this game object." alt="" coords="248,5,459,45"/>
+<area shape="rect" id="node2" href="$class_contextual_menu.html#a2752890c76b0104a8239d2f4ba6f3cf2" title=" " alt="" coords="5,5,200,45"/>
+</map>

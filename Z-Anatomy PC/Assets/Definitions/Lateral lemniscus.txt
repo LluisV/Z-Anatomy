@@ -1,0 +1,340 @@
+
+
+LATERAL LEMNISCUS
+
+
+The lateral lemniscus is a tract of axons in the brainstem that carries information about sound from the cochlear nucleus to various brainstem nuclei and ultimately the contralateral inferior colliculus of the midbrain. 
+
+Three distinct, primarily inhibitory, cellular groups are located interspersed within these fibers, and are thus named the nuclei of the lateral lemniscus.
+
+
+== Connections ==
+
+There are three small nuclei on each of the lateral lemnisci: 
+
+the intermediate nucleus of the lateral lemniscus (INLL)
+the ventral nucleus of the lateral lemniscus (VNLL)
+the dorsal nucleus of the lateral lemniscus (DNLL)Fibers leaving these brainstem nuclei ascending to the inferior colliculus rejoin the lateral lemniscus. 
+
+In that sense, this is not a 'lemniscus' in the true sense of the word (second order, decussated sensory axons), as there is third (and out of the lateral superior olive, fourth) order information coming out of some of these brainstem nuclei.
+The lateral lemniscus is located where the cochlear nuclei and the pontine reticular formation (PRF) crossover. 
+
+The PRF descends the reticulospinal tract where it innervates motor neurons and spinal interneurons. 
+
+It is the main auditory tract in the brainstem that connects the superior olivary complex (SOC) with the inferior colliculus (IC). 
+
+The dorsal cochlear nucleus (DCN) has input from the LL and output to the contralateral LL via the ipsilateral and contralateral Dorsal Acoustic Stria.
+The two lemnisci communicate via the commissural fibers of Probst.
+
+
+== Nuclei of the lateral lemniscus ==
+
+The function of the complex of Nuclei of the lateral lemniscus is not known; however it has good temporal resolution compared to other cells higher than the cochlear nuclei and is sensitive to both timing and amplitude changes in sound. 
+
+It is also involved in the acoustic startle reflex; the most likely region for this being the VNLL.
+
+
+=== DNLL ===
+
+The cells of the DNLL respond best to bilateral inputs, and have onset and complexity tuned sustained responses. 
+
+The nucleus is primarily GABAergic, and projects bilaterally to the inferior colliculus, and contralaterally to the DNLL, with different populations of cells projecting to each IC.In rat, the DNLL has a prominent columnar organization. 
+
+Nearly all neurons are stained for GABA, especially in the central part of the nucleus, and the remaining GABA negative cells are interspersed with the positive, and often stain for glycine. 
+
+Two populations of GABA+ cells are visible: larger, lightly stained cells that project to the contralateral IC, and smaller, darker stained cells that project ipsilaterally. 
+
+GABAergic axon terminals form dense groups surrounded by GABA-lemniscal fibers throughout the nucleus, and synapse on both somata and in the neuropil. 
+
+Glycinergic axon terminals, on the other hand, are more finely localized, with the majority of recipient neurons located laterally in the nucleus.
+
+
+=== INLL ===
+
+INLL also has little spontaneous activity and broad tuning curves. 
+
+The temporal responses are significantly different from cells of the VNLL.
+This structure is greatly hypertrophied in the rat, forming a prominent bulge on the surface of the brainstem. 
+
+GAD, GABA, and Glycine staining reveals several distinct regions that are not evident in standard cytoarchitectural preparations. 
+
+A modest number of GABA-stained neurons are arranged in small groups, generally in the center of the nucleus, whereas glycine-stained neurons are more common and widely dispersed, with regional concentrations in the dorsolateral and ventrolateral portions of the nucleus. 
+
+Most GABA+ cells are gly+ as well.[broken footnote]
+
+
+=== VNLL ===
+
+Sound in the contralateral ear leads to the strongest responses in the VNLL, which deals with some temporary processing. 
+
+The VNLL may also be essential to the IC’s decoding of amplitude modulated sounds.
+VNLL cells have little spontaneous activity, broad and moderately complex tuning curves; they have both phasic and tonic responses and are involved in temporal processing.
+In rat, the VNLL is composed of two subdivisions, the ventral (columnar) and dorsal (non columnar) regions. 
+
+The columnar region contains many glycine-positive (0 GABA+) neurons, whereas the dorsal region contains clusters of GABA+ neurons intermingled with gly+ cells, with some cells containing both.
+
+
+== Inputs and outputs to nuclei ==
+
+The table below shows that each of the nuclei have a complicated arrangement of ipsilateral and contralateral afferent inputs and outputs:
+
+
+
+https://en.wikipedia.org/wiki/Lateral_lemniscus
+;;;ES;;;
+
+
+
+LEMNISCO LATERAL
+
+
+El lemnisco lateral es un tracto de axones en el tronco encefálico que transporta información sobre el sonido desde el núcleo coclear a varios núcleos del tronco encefálico y, en última instancia, al colículo inferior contralateral del mesencéfalo.
+
+Tres grupos celulares distintos, principalmente inhibidores, se encuentran intercalados dentro de estas fibras y, por lo tanto, se denominan núcleos del lemnisco lateral.
+
+
+== Conexiones ==
+
+Hay tres pequeños núcleos en cada uno de los lemniscos laterales:
+
+el núcleo intermedio del lemnisco lateral (INLL)
+el núcleo ventral del lemnisco lateral (VNLL)
+el núcleo dorsal del lemnisco lateral (DNLL) Las fibras que salen de estos núcleos del tronco encefálico ascienden al colículo inferior y se reincorporan al lemnisco lateral.
+
+En ese sentido, esto no es un 'lemniscus' en el verdadero sentido de la palabra (segundo orden, axones sensoriales decusados), ya que hay información de tercer orden (y fuera de la oliva lateral superior, cuarto) orden que sale de algunos de estos núcleos del tronco encefálico.
+El lemnisco lateral se encuentra donde se cruzan los núcleos cocleares y la formación reticular pontina (PRF).
+
+El PRF desciende por el tracto reticuloespinal donde inerva las neuronas motoras y las interneuronas espinales.
+
+Es el tracto auditivo principal en el tronco encefálico que conecta el complejo olivar superior (SOC) con el colículo inferior (IC).
+
+El núcleo coclear dorsal (DCN) tiene entrada desde el LL y salida al LL contralateral a través de la estría acústica dorsal ipsolateral y contralateral.
+Los dos lemniscos se comunican a través de las fibras comisurales de Probst.
+
+
+== Núcleos del lemnisco lateral ==
+
+Se desconoce la función del complejo de Núcleos del lemnisco lateral; sin embargo, tiene una buena resolución temporal en comparación con otras células más altas que los núcleos cocleares y es sensible a los cambios de tiempo y amplitud en el sonido.
+
+También está involucrado en el reflejo de sobresalto acústico; la región más probable para esto es el VNLL.
+
+
+=== DNLL ===
+
+Las células del DNLL responden mejor a las entradas bilaterales y tienen respuestas sostenidas ajustadas de inicio y complejidad.
+
+El núcleo es principalmente GABAérgico y se proyecta bilateralmente al colículo inferior y contralateralmente al DNLL, con diferentes poblaciones de células que se proyectan a cada IC. En rata, el DNLL tiene una organización columnar prominente.
+
+Casi todas las neuronas se tiñen para GABA, especialmente en la parte central del núcleo, y las células negativas para GABA restantes se entremezclan con las positivas y, a menudo, se tiñen para glicina.
+
+Son visibles dos poblaciones de células GABA+: células más grandes, ligeramente teñidas, que se proyectan hacia el CI contralateral, y células más pequeñas, teñidas de forma más oscura, que se proyectan ipsilateralmente.
+
+Los terminales axónicos GABAérgicos forman grupos densos rodeados por fibras GABA-lemniscales en todo el núcleo y hacen sinapsis tanto en los somas como en el neuropilo.
+
+Las terminales axónicas glicinérgicas, por otro lado, están más finamente localizadas, con la mayoría de las neuronas receptoras ubicadas lateralmente en el núcleo.
+
+
+=== INLL ===
+
+INLL también tiene poca actividad espontánea y amplias curvas de sintonía.
+
+Las respuestas temporales son significativamente diferentes de las células del VNLL.
+Esta estructura está muy hipertrofiada en la rata, formando una protuberancia prominente en la superficie del tronco encefálico.
+
+La tinción con GAD, GABA y glicina revela varias regiones distintas que no son evidentes en las preparaciones de citoarquitectura estándar.
+
+Un número modesto de neuronas teñidas con GABA se organizan en pequeños grupos, generalmente en el centro del núcleo, mientras que las neuronas teñidas con glicina son más comunes y están muy dispersas, con concentraciones regionales en las porciones dorsolateral y ventrolateral del núcleo.
+
+La mayoría de las células GABA+ también son gly+.
+
+
+=== VNLL ===
+
+El sonido en el oído contralateral conduce a las respuestas más fuertes en el VNLL, que se ocupa de algún procesamiento temporal.
+
+El VNLL también puede ser esencial para la decodificación del IC de sonidos modulados en amplitud.
+Las células VNLL tienen poca actividad espontánea, curvas de sintonía amplias y moderadamente complejas; tienen respuestas tanto fásicas como tónicas y están involucradas en el procesamiento temporal.
+En la rata, el VNLL se compone de dos subdivisiones, las regiones ventral (columnar) y dorsal (no columnar).
+
+La región cilíndrica contiene muchas neuronas positivas para glicina (0 GABA+), mientras que la región dorsal contiene grupos de neuronas GABA+ entremezcladas con células gly+, y algunas células contienen ambas.
+
+
+== Entradas y salidas a núcleos ==
+
+La siguiente tabla muestra que cada uno de los núcleos tiene una disposición complicada de entradas y salidas aferentes ipsilaterales y contralaterales:
+
+
+
+https://en.wikipedia.org/wiki/Lateral_lemniscus
+
+;;;PT;;;
+
+
+
+LEMNISCO LATERAL
+
+
+O lemnisco lateral é um trato de axônios no tronco encefálico que transporta informações sobre o som do núcleo coclear para vários núcleos do tronco encefálico e, finalmente, para o colículo inferior contralateral do mesencéfalo.
+
+Três grupos celulares distintos, principalmente inibitórios, estão localizados entremeados dentro dessas fibras, sendo assim denominados núcleos do lemnisco lateral.
+
+
+== Conexões ==
+
+Existem três pequenos núcleos em cada um dos lemnisci laterais:
+
+o núcleo intermediário do lemnisco lateral (INLL)
+o núcleo ventral do lemnisco lateral (VNLL)
+o núcleo dorsal do lemnisco lateral (DNLL) As fibras que saem desses núcleos do tronco encefálico ascendendo ao colículo inferior se unem ao lemnisco lateral.
+
+Nesse sentido, este não é um 'lemnisco' no verdadeiro sentido da palavra (segunda ordem, axônios sensoriais decussados), pois há informações de terceira (e fora da oliveira lateral superior, quarta) ordem saindo de alguns desses núcleos do tronco cerebral.
+O lemnisco lateral está localizado onde os núcleos cocleares e a formação reticular pontina (PRF) se cruzam.
+
+O PRF desce pelo trato reticuloespinhal onde inerva neurônios motores e interneurônios espinhais.
+
+É o principal trato auditivo no tronco encefálico que conecta o complexo olivar superior (SOC) com o colículo inferior (IC).
+
+O núcleo coclear dorsal (NCD) tem entrada do LL e saída para o LL contralateral através da Estria Acústica Dorsal ipsilateral e contralateral.
+Os dois lemniscos se comunicam através das fibras comissurais de Probst.
+
+
+== Núcleos do lemnisco lateral ==
+
+A função do complexo de Núcleos do lemnisco lateral não é conhecida; no entanto, tem boa resolução temporal em comparação com outras células mais altas do que os núcleos cocleares e é sensível às mudanças de tempo e amplitude no som.
+
+Também está envolvido no reflexo acústico de sobressalto; a região mais provável para isso é o VNLL.
+
+
+=== DNLL ===
+
+As células do DNLL respondem melhor a entradas bilaterais e têm respostas sustentadas ajustadas de início e complexidade.
+
+O núcleo é primariamente GABAérgico e projeta-se bilateralmente para o colículo inferior e contralateralmente ao DNLL, com diferentes populações de células projetando-se para cada CI. Em rato, o DNLL tem uma organização colunar proeminente.
+
+Quase todos os neurônios são corados para GABA, especialmente na parte central do núcleo, e as células negativas para GABA restantes são intercaladas com as positivas e muitas vezes coram para glicina.
+
+Duas populações de células GABA+ são visíveis: células maiores e levemente coradas que se projetam para o IC contralateral e células menores e coradas mais escuras que se projetam ipsilateralmente.
+
+Os terminais axônicos GABAérgicos formam grupos densos cercados por fibras GABA-lemniscais em todo o núcleo e fazem sinapse tanto no corpo quanto no neurópilo.
+
+As terminações axônicas glicinérgicas, por outro lado, são mais finamente localizadas, com a maioria dos neurônios receptores localizados lateralmente no núcleo.
+
+
+=== INLL ===
+
+INLL também tem pouca atividade espontânea e amplas curvas de sintonia.
+
+As respostas temporais são significativamente diferentes das células do VNLL.
+Essa estrutura é bastante hipertrofiada no rato, formando uma protuberância proeminente na superfície do tronco cerebral.
+
+A coloração com GAD, GABA e Glicina revela várias regiões distintas que não são evidentes em preparações citoarquitetônicas padrão.
+
+Um número modesto de neurônios corados com GABA está organizado em pequenos grupos, geralmente no centro do núcleo, enquanto os neurônios corados com glicina são mais comuns e amplamente dispersos, com concentrações regionais nas porções dorsolateral e ventrolateral do núcleo.
+
+A maioria das células GABA+ também são gly+.[nota de rodapé quebrada]
+
+
+=== VNLL ===
+
+O som na orelha contralateral leva às respostas mais fortes no VNLL, que lida com algum processamento temporário.
+
+O VNLL também pode ser essencial para a decodificação do IC de sons modulados em amplitude.
+As células VNLL têm pouca atividade espontânea, curvas de sintonia amplas e moderadamente complexas; eles têm respostas fásicas e tônicas e estão envolvidos no processamento temporal.
+Em ratos, o VNLL é composto por duas subdivisões, as regiões ventral (colunar) e dorsal (não colunar).
+
+A região colunar contém muitos neurônios positivos para glicina (0 GABA+), enquanto a região dorsal contém aglomerados de neurônios GABA+ misturados com células gly+, com algumas células contendo ambos.
+
+
+== Entradas e saídas para núcleos ==
+
+A tabela abaixo mostra que cada um dos núcleos tem um arranjo complicado de entradas e saídas aferentes ipsilaterais e contralaterais:
+
+
+
+https://en.wikipedia.org/wiki/Lateral_lemniscus
+
+;;;FR;;;
+
+
+
+LEMNISCUS LATÉRAUX
+
+
+Le lemniscus latéral est un faisceau d'axones dans le tronc cérébral qui transporte des informations sur le son du noyau cochléaire vers divers noyaux du tronc cérébral et finalement le colliculus inférieur controlatéral du mésencéphale.
+
+Trois groupes cellulaires distincts, principalement inhibiteurs, sont situés entre ces fibres et sont ainsi nommés les noyaux du lemnisque latéral.
+
+
+== Connexions ==
+
+Il y a trois petits noyaux sur chacun des lemnisques latéraux :
+
+le noyau intermédiaire du lemnisque latéral (INLL)
+le noyau ventral du lemnisque latéral (VNLL)
+le noyau dorsal du lemnisque latéral (DNLL)Les fibres qui quittent ces noyaux du tronc cérébral en remontant vers le colliculus inférieur rejoignent le lemnisque latéral.
+
+En ce sens, ce n'est pas un `` lemnisque '' au sens propre du terme (deuxième ordre, axones sensoriels décussés), car il y a des informations de troisième ordre (et hors de l'olive supérieure latérale, quatrième) ordre sortant de certains de ces noyaux du tronc cérébral.
+Le lemnisque latéral est situé là où les noyaux cochléaires et la formation réticulaire pontique (PRF) se croisent.
+
+Le PRF descend le tractus réticulo-spinal où il innerve les motoneurones et les interneurones spinaux.
+
+C'est le conduit auditif principal du tronc cérébral qui relie le complexe olivaire supérieur (SOC) au colliculus inférieur (CI).
+
+Le noyau cochléaire dorsal (DCN) a une entrée du LL et une sortie vers le LL controlatéral via la strie acoustique dorsale ipsilatérale et controlatérale.
+Les deux lemnisques communiquent via les fibres commissurales de Probst.
+
+
+== Noyaux du lemnisque latéral ==
+
+La fonction du complexe des noyaux du lemnisque latéral n'est pas connue ; cependant, il a une bonne résolution temporelle par rapport à d'autres cellules plus hautes que les noyaux cochléaires et est sensible à la fois aux changements de synchronisation et d'amplitude du son.
+
+Il est également impliqué dans le réflexe de sursaut acoustique ; la région la plus probable pour cela étant le VNLL.
+
+
+=== DNLL ===
+
+Les cellules de la DNLL répondent le mieux aux entrées bilatérales et ont des réponses soutenues à l'apparition et à la complexité.
+
+Le noyau est principalement GABAergique et se projette bilatéralement sur le colliculus inférieur et contralatéralement sur la DNLL, avec différentes populations de cellules se projetant sur chaque IC.Chez le rat, la DNLL a une organisation cylindrique proéminente.
+
+Presque tous les neurones sont colorés pour le GABA, en particulier dans la partie centrale du noyau, et les cellules GABA négatives restantes sont entrecoupées de cellules positives et souvent colorées pour la glycine.
+
+Deux populations de cellules GABA + sont visibles : des cellules plus grandes et légèrement colorées qui se projettent vers le CI controlatéral et des cellules plus petites et plus foncées qui se projettent ipsilatéralement.
+
+Les terminaisons des axones GABAergiques forment des groupes denses entourés de fibres GABA-lemniscales dans tout le noyau et des synapses à la fois sur les somates et dans le neuropile.
+
+Les terminaisons des axones glycinergiques, en revanche, sont plus finement localisées, la majorité des neurones receveurs étant situés latéralement dans le noyau.
+
+
+=== INLL ===
+
+INLL a également peu d'activité spontanée et de larges courbes d'accord.
+
+Les réponses temporelles sont significativement différentes des cellules de la VNLL.
+Cette structure est fortement hypertrophiée chez le rat, formant un renflement proéminent à la surface du tronc cérébral.
+
+La coloration GAD, GABA et Glycine révèle plusieurs régions distinctes qui ne sont pas évidentes dans les préparations cytoarchitecturales standard.
+
+Un nombre modeste de neurones colorés au GABA sont disposés en petits groupes, généralement au centre du noyau, tandis que les neurones colorés à la glycine sont plus courants et largement dispersés, avec des concentrations régionales dans les parties dorsolatérale et ventrolatérale du noyau.
+
+La plupart des cellules GABA + sont également gly +. [note de bas de page brisée]
+
+
+=== VNLL ===
+
+Le son dans l'oreille controlatérale conduit aux réponses les plus fortes dans le VNLL, qui traite de certains traitements temporaires.
+
+Le VNLL peut également être essentiel au décodage par le CI des sons modulés en amplitude.
+Les cellules VNLL ont peu d'activité spontanée, des courbes d'accord larges et modérément complexes ; ils ont à la fois des réponses phasiques et toniques et sont impliqués dans le traitement temporel.
+Chez le rat, le VNLL est composé de deux subdivisions, les régions ventrale (colonnaire) et dorsale (non colonnaire).
+
+La région cylindrique contient de nombreux neurones glycine-positifs (0 GABA +), tandis que la région dorsale contient des grappes de neurones GABA + mélangés à des cellules gly +, certaines cellules contenant les deux.
+
+
+== Entrées et sorties vers les noyaux ==
+
+Le tableau ci-dessous montre que chacun des noyaux a un arrangement compliqué d'entrées et de sorties afférentes ipsilatérales et controlatérales :
+
+
+
+https://en.wikipedia.org/wiki/Lateral_lemniscus

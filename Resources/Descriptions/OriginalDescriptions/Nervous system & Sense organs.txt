@@ -1,0 +1,637 @@
+
+
+SENSE ORGANS
+
+
+-Olfactory organ
+-Eye
+-Ear
+-Gustatory organ
+
+
+NERVOUS SYSTEM
+
+
+In biology, the classical doctrine of the nervous system determines that it is a highly complex part of an animal that coordinates its actions and sensory information by transmitting signals to and from different parts of its body. 
+
+The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine system to respond to such events. 
+
+Nervous tissue first arose in wormlike organisms about 550 to 600 million years ago. 
+
+However, this classical doctrine has been challenged in recent decades by discoveries about the existence and use of electrical signals in plants. 
+
+On the basis of these findings, some scientists have proposed that a plant nervous system exists and that a scientific field called plant neurobiology should be created. 
+
+This proposal has led to a dispute in the scientific community between those who think we should talk about the nervous system of plants and those who are against it. 
+
+The inflexibility of the positions in the scientific debate on both sides has led to the proposal of a solution to the debate, consisting of redefining the concept of the nervous system by using only physiological criteria and avoiding phylogenetic criteria.
+
+In vertebrates it consists of two main parts, the central nervous system (CNS) and the peripheral nervous system (PNS). 
+
+The CNS consists of the brain and spinal cord. 
+
+The PNS consists mainly of nerves, which are enclosed bundles of the long fibers or axons, that connect the CNS to every other part of the body. 
+
+Nerves that transmit signals from the brain are called motor nerves or efferent nerves, while those nerves that transmit information from the body to the CNS are called sensory nerves or afferent. 
+
+Spinal nerves are mixed nerves that serve both functions. 
+
+The PNS is divided into three separate subsystems, the somatic, autonomic, and enteric nervous systems. 
+
+Somatic nerves mediate voluntary movement. 
+
+The autonomic nervous system is further subdivided into the sympathetic and the parasympathetic nervous systems. 
+
+The sympathetic nervous system is activated in cases of emergencies to mobilize energy, while the parasympathetic nervous system is activated when organisms are in a relaxed state. 
+
+The enteric nervous system functions to control the gastrointestinal system. 
+
+Both autonomic and enteric nervous systems function involuntarily. 
+
+Nerves that exit from the cranium are called cranial nerves while those exiting from the spinal cord are called spinal nerves.
+
+At the cellular level, the nervous system is defined by the presence of a special type of cell, called the neuron, also known as a "nerve cell." 
+
+Neurons have special structures that allow them to send signals rapidly and precisely to other cells. 
+
+They send these signals in the form of electrochemical impulses traveling along thin fibers called axons, which can be directly transmitted to neighboring cells through electrical synapses or cause chemicals called neurotransmitters to be released at chemical synapses. 
+
+A cell that receives a synaptic signal from a neuron may be excited, inhibited, or otherwise modulated. 
+
+The connections between neurons can form neural pathways, neural circuits, and larger networks that generate an organism's perception of the world and determine its behavior. 
+
+Along with neurons, the nervous system contains other specialized cells called glial cells (or simply glia), which provide structural and metabolic support.
+
+Nervous systems are found in most multicellular animals, but vary greatly in complexity. 
+
+The only multicellular animals that have no nervous system at all are sponges, placozoans, and mesozoans, which have very simple body plans. 
+
+The nervous systems of the radially symmetric organisms ctenophores (comb jellies) and cnidarians (which include anemones, hydras, corals and jellyfish) consist of a diffuse nerve net. 
+
+All other animal species, with the exception of a few types of worms, have a nervous system containing a brain, a central cord (or two cords running in parallel), and nerves radiating from the brain and central cord. 
+
+The size of the nervous system ranges from a few hundred cells in the simplest worms, to around 300 billion cells in African elephants.
+
+The central nervous system functions to send signals from one cell to others, or from one part of the body to others and to receive feedback. 
+
+Malfunction of the nervous system can occur as a result of genetic defects, physical damage due to trauma or toxicity, infection, or simply senesence. 
+
+The medical specialty of neurology studies disorders of the nervous system and looks for interventions that can prevent or treat them. 
+
+In the peripheral nervous system, the most common problem is the failure of nerve conduction, which can be due to different causes including diabetic neuropathy and demyelinating disorders such as multiple sclerosis and amyotrophic lateral sclerosis. 
+
+Neuroscience is the field of science that focuses on the study of the nervous system.
+
+
+== Structure ==
+
+The nervous system derives its name from nerves, which are cylindrical bundles of fibers (the axons of neurons), that emanate from the brain and spinal cord, and branch repeatedly to innervate every part of the body. 
+
+Nerves are large enough to have been recognized by the ancient Egyptians, Greeks, and Romans, but their internal structure was not understood until it became possible to examine them using a microscope. 
+
+The author Michael Nikoletseas wrote:
+"It is difficult to believe that until approximately year 1900 it was not known that neurons are the basic units of the brain (Santiago Ramón y Cajal). 
+
+Equally surprising is the fact that the concept of chemical transmission in the brain was not known until around 1930 (Henry Hallett Dale and Otto Loewi). 
+
+We began to understand the basic electrical phenomenon that neurons use in order to communicate among themselves, the action potential, in the 1950s (Alan Lloyd Hodgkin, Andrew Huxley and John Eccles). 
+
+It was in the 1960s that we became aware of how basic neuronal networks code stimuli and thus basic concepts are possible (David H. Hubel and Torsten Wiesel). 
+
+The molecular revolution swept across US universities in the 1980s. 
+
+It was in the 1990s that molecular mechanisms of behavioral phenomena became widely known (Eric Richard Kandel)." 
+
+A microscopic examination shows that nerves consist primarily of axons, along with different membranes that wrap around them and segregate them into fascicles. 
+
+The neurons that give rise to nerves do not lie entirely within the nerves themselves—their cell bodies reside within the brain, spinal cord, or peripheral ganglia.
+
+All animals more advanced than sponges have nervous systems. 
+
+However, even sponges, unicellular animals, and non-animals such as slime molds have cell-to-cell signalling mechanisms that are precursors to those of neurons. 
+
+In radially symmetric animals such as the jellyfish and hydra, the nervous system consists of a nerve net, a diffuse network of isolated cells. 
+
+In bilaterian animals, which make up the great majority of existing species, the nervous system has a common structure that originated early in the Ediacaran period, over 550 million years ago.
+
+
+=== Cells ===
+
+The nervous system contains two main categories or types of cells: neurons and glial cells.
+
+
+==== Neurons ====
+
+The nervous system is defined by the presence of a special type of cell—the neuron (sometimes called "neurone" or "nerve cell"). 
+
+Neurons can be distinguished from other cells in a number of ways, but their most fundamental property is that they communicate with other cells via synapses, which are membrane-to-membrane junctions containing molecular machinery that allows rapid transmission of signals, either electrical or chemical. 
+
+Many types of neuron possess an axon, a protoplasmic protrusion that can extend to distant parts of the body and make thousands of synaptic contacts; axons typically extend throughout the body in bundles called nerves.
+
+Even in the nervous system of a single species such as humans, hundreds of different types of neurons exist, with a wide variety of morphologies and functions. 
+
+These include sensory neurons that transmute physical stimuli such as light and sound into neural signals, and motor neurons that transmute neural signals into activation of muscles or glands; however in many species the great majority of neurons participate in the formation of centralized structures (the brain and ganglia) and they receive all of their input from other neurons and send their output to other neurons.
+
+
+==== Glial cells ====
+
+Glial cells (named from the Greek for "glue") are non-neuronal cells that provide support and nutrition, maintain homeostasis, form myelin, and participate in signal transmission in the nervous system. 
+
+In the human brain, it is estimated that the total number of glia roughly equals the number of neurons, although the proportions vary in different brain areas. 
+
+Among the most important functions of glial cells are to support neurons and hold them in place; to supply nutrients to neurons; to insulate neurons electrically; to destroy pathogens and remove dead neurons; and to provide guidance cues directing the axons of neurons to their targets. 
+
+A very important type of glial cell (oligodendrocytes in the central nervous system, and Schwann cells in the peripheral nervous system) generates layers of a fatty substance called myelin that wraps around axons and provides electrical insulation which allows them to transmit action potentials much more rapidly and efficiently. 
+
+Recent findings indicate that glial cells, such as microglia and astrocytes, serve as important resident immune cells within the central nervous system.
+
+
+=== Anatomy in vertebrates ===
+
+The nervous system of vertebrates (including humans) is divided into the central nervous system (CNS) and the peripheral nervous system (PNS).
+
+The (CNS) is the major division, and consists of the brain and the spinal cord. 
+
+The spinal canal contains the spinal cord, while the cranial cavity contains the brain. 
+
+The CNS is enclosed and protected by the meninges, a three-layered system of membranes, including a tough, leathery outer layer called the dura mater. 
+
+The brain is also protected by the skull, and the spinal cord by the vertebrae.
+
+The peripheral nervous system (PNS) is a collective term for the nervous system structures that do not lie within the CNS. 
+
+The large majority of the axon bundles called nerves are considered to belong to the PNS, even when the cell bodies of the neurons to which they belong reside within the brain or spinal cord. 
+
+The PNS is divided into somatic and visceral parts. 
+
+The somatic part consists of the nerves that innervate the skin, joints, and muscles. 
+
+The cell bodies of somatic sensory neurons lie in dorsal root ganglia of the spinal cord. 
+
+The visceral part, also known as the autonomic nervous system, contains neurons that innervate the internal organs, blood vessels, and glands. 
+
+The autonomic nervous system itself consists of two parts: the sympathetic nervous system and the parasympathetic nervous system. 
+
+Some authors also include sensory neurons whose cell bodies lie in the periphery (for senses such as hearing) as part of the PNS; others, however, omit them.
+
+The vertebrate nervous system can also be divided into areas called gray matter and white matter. 
+
+Gray matter (which is only gray in preserved tissue, and is better described as pink or light brown in living tissue) contains a high proportion of cell bodies of neurons. 
+
+White matter is composed mainly of myelinated axons, and takes its color from the myelin. 
+
+White matter includes all of the nerves, and much of the interior of the brain and spinal cord. 
+
+Gray matter is found in clusters of neurons in the brain and spinal cord, and in cortical layers that line their surfaces. 
+
+There is an anatomical convention that a cluster of neurons in the brain or spinal cord is called a nucleus, whereas a cluster of neurons in the periphery is called a ganglion. 
+
+There are, however, a few exceptions to this rule, notably including the part of the forebrain called the basal ganglia.
+
+
+=== Comparative anatomy and evolution ===
+
+==== Neural precursors in sponges ====
+
+Sponges have no cells connected to each other by synaptic junctions, that is, no neurons, and therefore no nervous system. 
+
+They do, however, have homologs of many genes that play key roles in synaptic function. 
+
+Recent studies have shown that sponge cells express a group of proteins that cluster together to form a structure resembling a postsynaptic density (the signal-receiving part of a synapse). 
+
+However, the function of this structure is currently unclear. 
+
+Although sponge cells do not show synaptic transmission, they do communicate with each other via calcium waves and other impulses, which mediate some simple actions such as whole-body contraction.
+
+
+==== Radiata ====
+
+Jellyfish, comb jellies, and related animals have diffuse nerve nets rather than a central nervous system. 
+
+In most jellyfish the nerve net is spread more or less evenly across the body; in comb jellies it is concentrated near the mouth. 
+
+The nerve nets consist of sensory neurons, which pick up chemical, tactile, and visual signals; motor neurons, which can activate contractions of the body wall; and intermediate neurons, which detect patterns of activity in the sensory neurons and, in response, send signals to groups of motor neurons. 
+
+In some cases groups of intermediate neurons are clustered into discrete ganglia.
+
+The development of the nervous system in radiata is relatively unstructured. 
+
+Unlike bilaterians, radiata only have two primordial cell layers, endoderm and ectoderm. 
+
+Neurons are generated from a special set of ectodermal precursor cells, which also serve as precursors for every other ectodermal cell type.
+
+
+==== Bilateria ====
+
+The vast majority of existing animals are bilaterians, meaning animals with left and right sides that are approximate mirror images of each other. 
+
+All bilateria are thought to have descended from a common wormlike ancestor that appeared in the Ediacaran period, 550–600 million years ago. 
+
+The fundamental bilaterian body form is a tube with a hollow gut cavity running from mouth to anus, and a nerve cord with an enlargement (a "ganglion") for each body segment, with an especially large ganglion at the front, called the "brain".
+
+Even mammals, including humans, show the segmented bilaterian body plan at the level of the nervous system. 
+
+The spinal cord contains a series of segmental ganglia, each giving rise to motor and sensory nerves that innervate a portion of the body surface and underlying musculature. 
+
+On the limbs, the layout of the innervation pattern is complex, but on the trunk it gives rise to a series of narrow bands. 
+
+The top three segments belong to the brain, giving rise to the forebrain, midbrain, and hindbrain.
+
+Bilaterians can be divided, based on events that occur very early in embryonic development, into two groups (superphyla) called protostomes and deuterostomes. 
+
+Deuterostomes include vertebrates as well as echinoderms, hemichordates (mainly acorn worms), and Xenoturbellidans. 
+
+Protostomes, the more diverse group, include arthropods, molluscs, and numerous types of worms. 
+
+There is a basic difference between the two groups in the placement of the nervous system within the body: 
+    protostomes possess a nerve cord on the ventral (usually bottom) side of the body, whereas in deuterostomes the nerve cord is on the dorsal (usually top) side. 
+
+In fact, numerous aspects of the body are inverted between the two groups, including the expression patterns of several genes that show dorsal-to-ventral gradients. 
+
+Most anatomists now consider that the bodies of protostomes and deuterostomes are "flipped over" with respect to each other, a hypothesis that was first proposed by Geoffroy Saint-Hilaire for insects in comparison to vertebrates. 
+
+Thus insects, for example, have nerve cords that run along the ventral midline of the body, while all vertebrates have spinal cords that run along the dorsal midline.
+
+
+==== Worms ====
+
+Worms are the simplest bilaterian animals, and reveal the basic structure of the bilaterian nervous system in the most straightforward way. 
+
+As an example, earthworms have dual nerve cords running along the length of the body and merging at the tail and the mouth. 
+
+These nerve cords are connected by transverse nerves like the rungs of a ladder. 
+
+These transverse nerves help coordinate the two sides of the animal. 
+
+Two ganglia at the head (the "nerve ring") end function similar to a simple brain. 
+
+Photoreceptors on the animal's eyespots provide sensory information on light and dark.
+
+The nervous system of one very small roundworm, the nematode Caenorhabditis elegans, has been completely mapped out in a connectome including its synapses. 
+
+Every neuron and its cellular lineage has been recorded and most, if not all, of the neural connections are known. 
+
+In this species, the nervous system is sexually dimorphic; the nervous systems of the two sexes, males and female hermaphrodites, have different numbers of neurons and groups of neurons that perform sex-specific functions. 
+
+In C. elegans, males have exactly 383 neurons, while hermaphrodites have exactly 302 neurons.
+
+
+==== Arthropods ====
+
+Arthropods, such as insects and crustaceans, have a nervous system made up of a series of ganglia, connected by a ventral nerve cord made up of two parallel connectives running along the length of the belly. 
+
+Typically, each body segment has one ganglion on each side, though some ganglia are fused to form the brain and other large ganglia. 
+
+The head segment contains the brain, also known as the supraesophageal ganglion. 
+
+In the insect nervous system, the brain is anatomically divided into the protocerebrum, deutocerebrum, and tritocerebrum. 
+
+Immediately behind the brain is the subesophageal ganglion, which is composed of three pairs of fused ganglia. 
+
+It controls the mouthparts, the salivary glands and certain muscles. 
+
+Many arthropods have well-developed sensory organs, including compound eyes for vision and antennae for olfaction and pheromone sensation. 
+
+The sensory information from these organs is processed by the brain.
+
+In insects, many neurons have cell bodies that are positioned at the edge of the brain and are electrically passive—the cell bodies serve only to provide metabolic support and do not participate in signalling. 
+
+A protoplasmic fiber runs from the cell body and branches profusely, with some parts transmitting signals and other parts receiving signals. 
+
+Thus, most parts of the insect brain have passive cell bodies arranged around the periphery, while the neural signal processing takes place in a tangle of protoplasmic fibers called neuropil, in the interior.
+
+
+==== "Identified" neurons ====
+
+A neuron is called identified if it has properties that distinguish it from every other neuron in the same animal—properties such as location, neurotransmitter, gene expression pattern, and connectivity—and if every individual organism belonging to the same species has one and only one neuron with the same set of properties. 
+
+In vertebrate nervous systems very few neurons are "identified" in this sense—in humans, there are believed to be none—but in simpler nervous systems, some or all neurons may be thus unique. 
+
+In the roundworm C. elegans, whose nervous system is the most thoroughly described of any animal's, every neuron in the body is uniquely identifiable, with the same location and the same connections in every individual worm. 
+
+One notable consequence of this fact is that the form of the C. elegans nervous system is completely specified by the genome, with no experience-dependent plasticity.The brains of many molluscs and insects also contain substantial numbers of identified neurons. 
+
+In vertebrates, the best known identified neurons are the gigantic Mauthner cells of fish. 
+
+Every fish has two Mauthner cells, in the bottom part of the brainstem, one on the left side and one on the right. 
+
+Each Mauthner cell has an axon that crosses over, innervating neurons at the same brain level and then travelling down through the spinal cord, making numerous connections as it goes. 
+
+The synapses generated by a Mauthner cell are so powerful that a single action potential gives rise to a major behavioral response: 
+    within milliseconds the fish curves its body into a C-shape, then straightens, thereby propelling itself rapidly forward. 
+
+Functionally this is a fast escape response, triggered most easily by a strong sound wave or pressure wave impinging on the lateral line organ of the fish. 
+
+Mauthner cells are not the only identified neurons in fish—there are about 20 more types, including pairs of "Mauthner cell analogs" in each spinal segmental nucleus. 
+
+Although a Mauthner cell is capable of bringing about an escape response individually, in the context of ordinary behavior other types of cells usually contribute to shaping the amplitude and direction of the response.
+
+Mauthner cells have been described as command neurons. 
+
+A command neuron is a special type of identified neuron, defined as a neuron that is capable of driving a specific behavior individually. 
+
+Such neurons appear most commonly in the fast escape systems of various species—the squid giant axon and squid giant synapse, used for pioneering experiments in neurophysiology because of their enormous size, both participate in the fast escape circuit of the squid. 
+
+The concept of a command neuron has, however, become controversial, because of studies showing that some neurons that initially appeared to fit the description were really only capable of evoking a response in a limited set of circumstances.
+
+
+== Function ==
+
+At the most basic level, the function of the nervous system is to send signals from one cell to others, or from one part of the body to others. 
+
+There are multiple ways that a cell can send signals to other cells. 
+
+One is by releasing chemicals called hormones into the internal circulation, so that they can diffuse to distant sites. 
+
+In contrast to this "broadcast" mode of signaling, the nervous system provides "point-to-point" signals—neurons project their axons to specific target areas and make synaptic connections with specific target cells. 
+
+Thus, neural signaling is capable of a much higher level of specificity than hormonal signaling. 
+
+It is also much faster: the fastest nerve signals travel at speeds that exceed 100 meters per second.
+At a more integrative level, the primary function of the nervous system is to control the body. 
+
+It does this by extracting information from the environment using sensory receptors, sending signals that encode this information into the central nervous system, processing the information to determine an appropriate response, and sending output signals to muscles or glands to activate the response. 
+
+The evolution of a complex nervous system has made it possible for various animal species to have advanced perception abilities such as vision, complex social interactions, rapid coordination of organ systems, and integrated processing of concurrent signals. 
+
+In humans, the sophistication of the nervous system makes it possible to have language, abstract representation of concepts, transmission of culture, and many other features of human society that would not exist without the human brain.
+
+
+=== Neurons and synapses ===
+
+Most neurons send signals via their axons, although some types are capable of dendrite-to-dendrite communication. 
+
+(In fact, the types of neurons called amacrine cells have no axons, and communicate only via their dendrites.) 
+
+Neural signals propagate along an axon in the form of electrochemical waves called action potentials, which produce cell-to-cell signals at points where axon terminals make synaptic contact with other cells.Synapses may be electrical or chemical. 
+
+Electrical synapses make direct electrical connections between neurons, but chemical synapses are much more common, and much more diverse in function. 
+
+At a chemical synapse, the cell that sends signals is called presynaptic, and the cell that receives signals is called postsynaptic. 
+
+Both the presynaptic and postsynaptic areas are full of molecular machinery that carries out the signalling process. 
+
+The presynaptic area contains large numbers of tiny spherical vessels called synaptic vesicles, packed with neurotransmitter chemicals. 
+
+When the presynaptic terminal is electrically stimulated, an array of molecules embedded in the membrane are activated, and cause the contents of the vesicles to be released into the narrow space between the presynaptic and postsynaptic membranes, called the synaptic cleft. 
+
+The neurotransmitter then binds to receptors embedded in the postsynaptic membrane, causing them to enter an activated state. 
+
+Depending on the type of receptor, the resulting effect on the postsynaptic cell may be excitatory, inhibitory, or modulatory in more complex ways. 
+
+For example, release of the neurotransmitter acetylcholine at a synaptic contact between a motor neuron and a muscle cell induces rapid contraction of the muscle cell. 
+
+The entire synaptic transmission process takes only a fraction of a millisecond, although the effects on the postsynaptic cell may last much longer (even indefinitely, in cases where the synaptic signal leads to the formation of a memory trace).
+
+There are literally hundreds of different types of synapses. 
+
+In fact, there are over a hundred known neurotransmitters, and many of them have multiple types of receptors. 
+
+Many synapses use more than one neurotransmitter—a common arrangement is for a synapse to use one fast-acting small-molecule neurotransmitter such as glutamate or GABA, along with one or more peptide neurotransmitters that play slower-acting modulatory roles. 
+
+Molecular neuroscientists generally divide receptors into two broad groups: 
+    chemically gated ion channels and second messenger systems. 
+
+When a chemically gated ion channel is activated, it forms a passage that allows specific types of ions to flow across the membrane. 
+
+Depending on the type of ion, the effect on the target cell may be excitatory or inhibitory. 
+
+When a second messenger system is activated, it starts a cascade of molecular interactions inside the target cell, which may ultimately produce a wide variety of complex effects, such as increasing or decreasing the sensitivity of the cell to stimuli, or even altering gene transcription.
+
+According to a rule called Dale's principle, which has only a few known exceptions, a neuron releases the same neurotransmitters at all of its synapses. 
+
+This does not mean, though, that a neuron exerts the same effect on all of its targets, because the effect of a synapse depends not on the neurotransmitter, but on the receptors that it activates. 
+
+Because different targets can (and frequently do) use different types of receptors, it is possible for a neuron to have excitatory effects on one set of target cells, inhibitory effects on others, and complex modulatory effects on others still. 
+
+Nevertheless, it happens that the two most widely used neurotransmitters, glutamate and GABA, each have largely consistent effects. 
+
+Glutamate has several widely occurring types of receptors, but all of them are excitatory or modulatory. 
+
+Similarly, GABA has several widely occurring receptor types, but all of them are inhibitory. 
+
+Because of this consistency, glutamatergic cells are frequently referred to as "excitatory neurons", and GABAergic cells as "inhibitory neurons". 
+
+Strictly speaking, this is an abuse of terminology—it is the receptors that are excitatory and inhibitory, not the neurons—but it is commonly seen even in scholarly publications.
+
+One very important subset of synapses are capable of forming memory traces by means of long-lasting activity-dependent changes in synaptic strength. 
+
+The best-known form of neural memory is a process called long-term potentiation (abbreviated LTP), which operates at synapses that use the neurotransmitter glutamate acting on a special type of receptor known as the NMDA receptor. 
+
+The NMDA receptor has an "associative" property: if the two cells involved in the synapse are both activated at approximately the same time, a channel opens that permits calcium to flow into the target cell. 
+
+The calcium entry initiates a second messenger cascade that ultimately leads to an increase in the number of glutamate receptors in the target cell, thereby increasing the effective strength of the synapse. 
+
+This change in strength can last for weeks or longer. 
+
+Since the discovery of LTP in 1973, many other types of synaptic memory traces have been found, involving increases or decreases in synaptic strength that are induced by varying conditions, and last for variable periods of time. 
+
+The reward system, that reinforces desired behaviour for example, depends on a variant form of LTP that is conditioned on an extra input coming from a reward-signalling pathway that uses dopamine as neurotransmitter. 
+
+All these forms of synaptic modifiability, taken collectively, give rise to neural plasticity, that is, to a capability for the nervous system to adapt itself to variations in the environment.
+
+
+=== Neural circuits and systems ===
+
+The basic neuronal function of sending signals to other cells includes a capability for neurons to exchange signals with each other. 
+
+Networks formed by interconnected groups of neurons are capable of a wide variety of functions, including feature detection, pattern generation and timing, and there are seen to be countless types of information processing possible. 
+
+Warren McCulloch and Walter Pitts showed in 1943 that even artificial neural networks formed from a greatly simplified mathematical abstraction of a neuron are capable of universal computation.
+
+Historically, for many years the predominant view of the function of the nervous system was as a stimulus-response associator. 
+
+In this conception, neural processing begins with stimuli that activate sensory neurons, producing signals that propagate through chains of connections in the spinal cord and brain, giving rise eventually to activation of motor neurons and thereby to muscle contraction, i.e., to overt responses. 
+
+Descartes believed that all of the behaviors of animals, and most of the behaviors of humans, could be explained in terms of stimulus-response circuits, although he also believed that higher cognitive functions such as language were not capable of being explained mechanistically. 
+
+Charles Sherrington, in his influential 1906 book 'The Integrative Action of the Nervous System', developed the concept of stimulus-response mechanisms in much more detail, and Behaviorism, the school of thought that dominated Psychology through the middle of the 20th century, attempted to explain every aspect of human behavior in stimulus-response terms.
+
+However, experimental studies of electrophysiology, beginning in the early 20th century and reaching high productivity by the 1940s, showed that the nervous system contains many mechanisms for maintaining cell excitability and generating patterns of activity intrinsically, without requiring an external stimulus. 
+
+Neurons were found to be capable of producing regular sequences of action potentials, or sequences of bursts, even in complete isolation. 
+
+When intrinsically active neurons are connected to each other in complex circuits, the possibilities for generating intricate temporal patterns become far more extensive. 
+
+A modern conception views the function of the nervous system partly in terms of stimulus-response chains, and partly in terms of intrinsically generated activity patterns—both types of activity interact with each other to generate the full repertoire of behavior.
+
+
+==== Reflexes and other stimulus-response circuits ====
+
+The simplest type of neural circuit is a reflex arc, which begins with a sensory input and ends with a motor output, passing through a sequence of neurons connected in series. 
+
+This can be shown in the "withdrawal reflex" causing a hand to jerk back after a hot stove is touched. 
+
+The circuit begins with sensory receptors in the skin that are activated by harmful levels of heat: 
+    a special type of molecular structure embedded in the membrane causes heat to change the electrical field across the membrane. 
+
+If the change in electrical potential is large enough to pass the given threshold, it evokes an action potential, which is transmitted along the axon of the receptor cell, into the spinal cord. 
+
+There the axon makes excitatory synaptic contacts with other cells, some of which project (send axonal output) to the same region of the spinal cord, others projecting into the brain. 
+
+One target is a set of spinal interneurons that project to motor neurons controlling the arm muscles. 
+
+The interneurons excite the motor neurons, and if the excitation is strong enough, some of the motor neurons generate action potentials, which travel down their axons to the point where they make excitatory synaptic contacts with muscle cells. 
+
+The excitatory signals induce contraction of the muscle cells, which causes the joint angles in the arm to change, pulling the arm away.
+
+In reality, this straightforward schema is subject to numerous complications. 
+
+Although for the simplest reflexes there are short neural paths from sensory neuron to motor neuron, there are also other nearby neurons that participate in the circuit and modulate the response. 
+
+Furthermore, there are projections from the brain to the spinal cord that are capable of enhancing or inhibiting the reflex.
+
+Although the simplest reflexes may be mediated by circuits lying entirely within the spinal cord, more complex responses rely on signal processing in the brain. 
+
+For example, when an object in the periphery of the visual field moves, and a person looks toward it many stages of signal processing are initiated. 
+
+The initial sensory response, in the retina of the eye, and the final motor response, in the oculomotor nuclei of the brain stem, are not all that different from those in a simple reflex, but the intermediate stages are completely different. 
+
+Instead of a one or two step chain of processing, the visual signals pass through perhaps a dozen stages of integration, involving the thalamus, cerebral cortex, basal ganglia, superior colliculus, cerebellum, and several brainstem nuclei. 
+
+These areas perform signal-processing functions that include feature detection, perceptual analysis, memory recall, decision-making, and motor planning.
+
+Feature detection is the ability to extract biologically relevant information from combinations of sensory signals. 
+
+In the visual system, for example, sensory receptors in the retina of the eye are only individually capable of detecting "points of light" in the outside world. 
+
+Second-level visual neurons receive input from groups of primary receptors, higher-level neurons receive input from groups of second-level neurons, and so on, forming a hierarchy of processing stages. 
+
+At each stage, important information is extracted from the signal ensemble and unimportant information is discarded. 
+
+By the end of the process, input signals representing "points of light" have been transformed into a neural representation of objects in the surrounding world and their properties. 
+
+The most sophisticated sensory processing occurs inside the brain, but complex feature extraction also takes place in the spinal cord and in peripheral sensory organs such as the retina.
+
+
+==== Intrinsic pattern generation ====
+Although stimulus-response mechanisms are the easiest to understand, the nervous system is also capable of controlling the body in ways that do not require an external stimulus, by means of internally generated rhythms of activity. 
+
+Because of the variety of voltage-sensitive ion channels that can be embedded in the membrane of a neuron, many types of neurons are capable, even in isolation, of generating rhythmic sequences of action potentials, or rhythmic alternations between high-rate bursting and quiescence. 
+
+When neurons that are intrinsically rhythmic are connected to each other by excitatory or inhibitory synapses, the resulting networks are capable of a wide variety of dynamical behaviors, including attractor dynamics, periodicity, and even chaos. 
+
+A network of neurons that uses its internal structure to generate temporally structured output, without requiring a corresponding temporally structured stimulus, is called a central pattern generator.
+
+Internal pattern generation operates on a wide range of time scales, from milliseconds to hours or longer. 
+
+One of the most important types of temporal pattern is circadian rhythmicity—that is, rhythmicity with a period of approximately 24 hours. 
+
+All animals that have been studied show circadian fluctuations in neural activity, which control circadian alternations in behavior such as the sleep-wake cycle. 
+
+Experimental studies dating from the 1990s have shown that circadian rhythms are generated by a "genetic clock" consisting of a special set of genes whose expression level rises and falls over the course of the day. 
+
+Animals as diverse as insects and vertebrates share a similar genetic clock system. 
+
+The circadian clock is influenced by light but continues to operate even when light levels are held constant and no other external time-of-day cues are available. 
+
+The clock genes are expressed in many parts of the nervous system as well as many peripheral organs, but in mammals, all of these "tissue clocks" are kept in synchrony by signals that emanate from a master timekeeper in a tiny part of the brain called the suprachiasmatic nucleus.
+
+
+=== Mirror neurons ===
+
+A mirror neuron is a neuron that fires both when an animal acts and when the animal observes the same action performed by another. 
+
+Thus, the neuron "mirrors" the behavior of the other, as though the observer were itself acting. 
+
+Such neurons have been directly observed in primate species. 
+
+Birds have been shown to have imitative resonance behaviors and neurological evidence suggests the presence of some form of mirroring system. 
+
+In humans, brain activity consistent with that of mirror neurons has been found in the premotor cortex, the supplementary motor area, the primary somatosensory cortex and the inferior parietal cortex. 
+
+The function of the mirror system is a subject of much speculation. 
+
+Many researchers in cognitive neuroscience and cognitive psychology consider that this system provides the physiological mechanism for the perception/action coupling (see the common coding theory). 
+
+They argue that mirror neurons may be important for understanding the actions of other people, and for learning new skills by imitation. 
+
+Some researchers also speculate that mirror systems may simulate observed actions, and thus contribute to theory of mind skills, while others relate mirror neurons to language abilities. 
+
+However, to date, no widely accepted neural or computational models have been put forward to describe how mirror neuron activity supports cognitive functions such as imitation. 
+
+There are neuroscientists who caution that the claims being made for the role of mirror neurons are not supported by adequate research.
+
+
+== Development ==
+
+In vertebrates, landmarks of embryonic neural development include the birth and differentiation of neurons from stem cell precursors, the migration of immature neurons from their birthplaces in the embryo to their final positions, outgrowth of axons from neurons and guidance of the motile growth cone through the embryo towards postsynaptic partners, the generation of synapses between these axons and their postsynaptic partners, and finally the lifelong changes in synapses which are thought to underlie learning and memory.
+
+All bilaterian animals at an early stage of development form a gastrula, which is polarized, with one end called the animal pole and the other the vegetal pole. 
+
+The gastrula has the shape of a disk with three layers of cells, an inner layer called the endoderm, which gives rise to the lining of most internal organs, a middle layer called the mesoderm, which gives rise to the bones and muscles, and an outer layer called the ectoderm, which gives rise to the skin and nervous system.
+
+In vertebrates, the first sign of the nervous system is the appearance of a thin strip of cells along the center of the back, called the neural plate. 
+
+The inner portion of the neural plate (along the midline) is destined to become the central nervous system (CNS), the outer portion the peripheral nervous system (PNS). 
+
+As development proceeds, a fold called the neural groove appears along the midline. 
+
+This fold deepens, and then closes up at the top. 
+
+At this point the future CNS appears as a cylindrical structure called the neural tube, whereas the future PNS appears as two strips of tissue called the neural crest, running lengthwise above the neural tube. 
+
+The sequence of stages from neural plate to neural tube and neural crest is known as neurulation.
+
+In the early 20th century, a set of famous experiments by Hans Spemann and Hilde Mangold showed that the formation of nervous tissue is "induced" by signals from a group of mesodermal cells called the organizer region. 
+
+For decades, though, the nature of neural induction defeated every attempt to figure it out, until finally it was resolved by genetic approaches in the 1990s. 
+
+Induction of neural tissue requires inhibition of the gene for a so-called bone morphogenetic protein, or BMP. 
+
+Specifically the protein BMP4 appears to be involved. 
+
+Two proteins called Noggin and Chordin, both secreted by the mesoderm, are capable of inhibiting BMP4 and thereby inducing ectoderm to turn into neural tissue. 
+
+It appears that a similar molecular mechanism is involved for widely disparate types of animals, including arthropods as well as vertebrates. 
+
+In some animals, however, another type of molecule called Fibroblast Growth Factor or FGF may also play an important role in induction.
+
+Induction of neural tissues causes formation of neural precursor cells, called neuroblasts. 
+
+In drosophila, neuroblasts divide asymmetrically, so that one product is a "ganglion mother cell" (GMC), and the other is a neuroblast. 
+
+A GMC divides once, to give rise to either a pair of neurons or a pair of glial cells. 
+
+In all, a neuroblast is capable of generating an indefinite number of neurons or glia.
+
+As shown in a 2008 study, one factor common to all bilateral organisms (including humans) is a family of secreted signaling molecules called neurotrophins which regulate the growth and survival of neurons. 
+
+Zhu et al. identified DNT1, the first neurotrophin found in flies. 
+
+DNT1 shares structural similarity with all known neurotrophins and is a key factor in the fate of neurons in Drosophila. 
+
+Because neurotrophins have now been identified in both vertebrate and invertebrates, this evidence suggests that neurotrophins were present in an ancestor common to bilateral organisms and may represent a common mechanism for nervous system formation.
+
+
+== Pathology ==
+
+The central nervous system is protected by major physical and chemical barriers. 
+
+Physically, the brain and spinal cord are surrounded by tough meningeal membranes, and enclosed in the bones of the skull and vertebral column, which combine to form a strong physical shield. 
+
+Chemically, the brain and spinal cord are isolated by the blood–brain barrier, which prevents most types of chemicals from moving from the bloodstream into the interior of the CNS. 
+
+These protections make the CNS less susceptible in many ways than the PNS; the flip side, however, is that damage to the CNS tends to have more serious consequences.
+
+Although nerves tend to lie deep under the skin except in a few places such as the ulnar nerve near the elbow joint, they are still relatively exposed to physical damage, which can cause pain, loss of sensation, or loss of muscle control. 
+
+Damage to nerves can also be caused by swelling or bruises at places where a nerve passes through a tight bony channel, as happens in carpal tunnel syndrome. 
+
+If a nerve is completely transected, it will often regenerate, but for long nerves this process may take months to complete. 
+
+In addition to physical damage, peripheral neuropathy may be caused by many other medical problems, including genetic conditions, metabolic conditions such as diabetes, inflammatory conditions such as Guillain–Barré syndrome, vitamin deficiency, infectious diseases such as leprosy or shingles, or poisoning by toxins such as heavy metals. 
+
+Many cases have no cause that can be identified, and are referred to as idiopathic. 
+
+It is also possible for nerves to lose function temporarily, resulting in numbness as stiffness—common causes include mechanical pressure, a drop in temperature, or chemical interactions with local anesthetic drugs such as lidocaine.
+
+Physical damage to the spinal cord may result in loss of sensation or movement. 
+
+If an injury to the spine produces nothing worse than swelling, the symptoms may be transient, but if nerve fibers in the spine are actually destroyed, the loss of function is usually permanent. 
+
+Experimental studies have shown that spinal nerve fibers attempt to regrow in the same way as nerve fibers, but in the spinal cord, tissue destruction usually produces scar tissue that cannot be penetrated by the regrowing nerves.
+
+
+
+https://en.wikipedia.org/wiki/Nervous_system

@@ -1,0 +1,84 @@
+ETHMOID BONE
+    Cribriform plate
+        Cribriform foramina
+    Crista galli
+        Ala of crista galli
+    Perpendicular plate of ethmoid bone
+    Ethmoidal labyrinth
+    Cells of ethmoid bone
+        Anterior cells of ethmoid bone
+        Middle cells of ethmoid bone
+        Posterior cells of ethmoid bone
+    Orbital plate of ethmoidal labyrinth
+    Bony supreme nasal concha
+    Bony superior nasal concha
+    Bony middle nasal concha
+    Bony ethmoidal bulla
+    Uncinate process of ethmoid bone
+    Bony ethmoidal infundibulum
+    Bony semilunar hiatus
+;;;ES;;;
+
+HUESO ETMOIDAL
+Lámina cribosa
+Agujero cribiforme
+Crista galli
+ala de crista galli
+placa perpendicular del hueso etmoides
+laberinto etmoidal
+Células del hueso etmoides
+Células anteriores del hueso etmoides
+Células medias del hueso etmoides
+Células posteriores del hueso etmoides
+Placa orbital del laberinto etmoidal
+Concha nasal suprema ósea
+Concha nasal superior ósea
+Concha nasal media ósea
+Bulla etmoidal ósea
+Proceso uncinado del hueso etmoides
+Infundíbulo etmoidal óseo
+Hiato semilunar óseo
+
+;;;PT;;;
+
+OSSO ETMOIDE
+Placa cribriforme
+Forames cribriformes
+Crista galli
+Ala de crista galli
+Lâmina perpendicular do osso etmóide
+Labirinto etmoidal
+Células do osso etmóide
+Células anteriores do osso etmóide
+Células médias do osso etmóide
+Células posteriores do osso etmóide
+Placa orbital do labirinto etmoidal
+Concha nasal suprema óssea
+Concha nasal superior óssea
+Concha nasal média óssea
+Bolha etmoidal óssea
+Processo uncinado do osso etmoidal
+Infundíbulo etmoidal ósseo
+Hiato semilunar ósseo
+
+;;;FR;;;
+
+OS ETHMOÏDE
+Plaque cribriforme
+Foramen cribriforme
+Crista Galli
+Ala de crista galli
+Plaque perpendiculaire d'os ethmoïde
+Labyrinthe ethmoïdal
+Cellules de l'os ethmoïde
+Cellules antérieures de l'os ethmoïde
+Cellules moyennes de l'os ethmoïde
+Cellules postérieures de l'os ethmoïde
+Plaque orbitale du labyrinthe ethmoïdal
+Conque nasale suprême osseuse
+Conque nasale supérieure osseuse
+Conque nasale moyenne osseuse
+Bulle ethmoïdale osseuse
+Processus unciforme de l'os ethmoïde
+Infundibulum ethmoïdal osseux
+Hiatus semi-lunaire osseux

@@ -1,0 +1,436 @@
+ 
+ 
+ Z = Colors
+
+ ALT + Z = X-ray 
+
+ ALT + B = Clipping box
+
+ SHIFT + ALT + Z = Key colors
+ 
+ N = MENU with the Z-ANATOMY ADD-ON
+
+
+
+ SHIFT + % = Group labels on/off
+  
+     
+
+ Q > Set = Reset view
+ 
+ MMB = Orbit
+ or Numpad 4 / 6 / 2 / 8
+
+ SHIFT + MMB = Pan
+ or 
+ SHIFT + Numpad 4 / 6 / 2 / 8 = Pan
+
+ Numpad 1 = Frontal view
+
+ CTRL+ Numpad 1 = Dorsal view
+
+ Numpad  3 = Left view
+
+ CTRL+ Numpad 3 = Right view
+      
+ Numpad  7 = Cranial view
+
+ CTRL+ Numpad 7 = Caudal view
+      
+ Numpad 9 = Invert point of view
+
+ Numpad . = Frame selection
+
+
+ HOME = FRAME ALL
+
+
+ CTRL + SPACEBAR = Maximise window
+    
+
+
+ 1 / 2 / 3 / ... = Change layer
+
+ SHIFT + 1 / 2 / 3 / ...  = Combine layers
+
+
+
+ A = Select all
+
+ A A = Deselect all
+ or
+ ALT + A = Deselect all    
+
+ LMB = Select
+
+ SHIFT + LMB = Select multiple
+
+ LMB ( Click and drag ) = Box select
+   
+ C = Brush select
+
+ + MMB = Change radius  
+    
+ RMB with selection = Collections
+
+
+
+ H = Hide
+
+ SHIFT + H = Isolate
+
+ CTRL + SHIFT + H = Isolate on layer 
+    
+ CTRL + SHIFT + ALT + H = Reveal on layer
+ 
+ ALT + H = Show all
+
+
+
+ % = Language
+
+
+
+ G = Grab (Move)
+ 
+ ALT + G = Reset position
+ 
+ R = Rotate
+ 
+ ALT + R = Reset rotation
+ 
+ S = Scale
+ 
+ ALT + S = Reset scale
+ 
+ 
+PRESS 'CheatSheet' in the Header for the .png version.
+;;;ES;;;
+
+ 
+ 
+Z = Colores
+
+ALT + Z = rayos X
+
+ALT + B = cuadro de recorte
+
+MAYÚS + ALT + Z = Colores clave
+ 
+N = MENÚ con Z-ANATOMY ADD-ON
+
+
+
+SHIFT + % = Activar/desactivar etiquetas de grupo
+ 
+ 
+
+Q > Establecer = Restablecer vista
+ 
+MMB = órbita
+o Teclado numérico 4 / 6 / 2 / 8
+
+MAYÚS + MMB = Panorámica
+o
+MAYÚS + Teclado numérico 4 / 6 / 2 / 8 = Panorámica
+
+Teclado numérico 1 = Vista frontal
+
+CTRL+ Teclado numérico 1 = Vista dorsal
+
+Teclado numérico 3 = Vista izquierda
+
+CTRL+ Teclado numérico 3 = Vista derecha
+ 
+Teclado numérico 7 = vista craneal
+
+CTRL+ Teclado numérico 7 = Vista caudal
+ 
+Teclado numérico 9 = Invertir punto de vista
+
+teclado numérico = Selección de cuadro
+
+
+INICIO = MARCO TODO
+
+
+CTRL + BARRA ESPACIADORA = Maximizar ventana
+ 
+
+
+1 / 2 / 3 / ... = Cambiar capa
+
+SHIFT + 1 / 2 / 3 / ... = Combinar capas
+
+
+
+A = Seleccionar todo
+
+AA = Deseleccionar todo
+o
+ALT + A = Deseleccionar todo
+
+LMB = Seleccionar
+
+SHIFT + LMB = Seleccionar varios
+
+LMB (Hacer clic y arrastrar) = Seleccionar cuadro
+ 
+C = selección de pincel
+
++ MMB = Cambiar radio
+ 
+RMB con selección = Colecciones
+
+
+
+H = Ocultar
+
+MAYÚS + H = Aislar
+
+CTRL + MAYÚS + H = Aislar en la capa
+ 
+CTRL + MAYÚS + ALT + H = Revelar en la capa
+ 
+ALT + H = Mostrar todo
+
+
+
+% = Idioma
+
+
+
+G = agarrar (mover)
+ 
+ALT + G = Restablecer posición
+ 
+R = Girar
+ 
+ALT + R = Restablecer rotación
+ 
+S = Escala
+ 
+ALT + S = Restablecer escala
+ 
+ 
+PRESIONE 'CheatSheet' en el encabezado para la versión .png.
+
+;;;PT;;;
+
+ 
+ 
+Z = Cores
+
+ALT + Z = Raio-X
+
+ALT + B = Caixa de recorte
+
+SHIFT + ALT + Z = Cores das teclas
+ 
+N = MENU com o ADD-ON Z-ANATOMY
+
+
+
+SHIFT + % = Etiquetas de grupo ativadas/desativadas
+ 
+ 
+
+Q > Definir = Redefinir visualização
+ 
+MMB = Órbita
+ou teclado numérico 4/6/2/8
+
+SHIFT + MMB = Pan
+ou
+SHIFT + Numpad 4 / 6 / 2 / 8 = Pan
+
+Numpad 1 = vista frontal
+
+CTRL + Numpad 1 = Vista dorsal
+
+Numpad 3 = vista esquerda
+
+CTRL+ Numpad 3 = Vista direita
+ 
+Numpad 7 = vista craniana
+
+CTRL+ Numpad 7 = Vista caudal
+ 
+Numpad 9 = Inverter ponto de vista
+
+Teclado numérico. = Seleção de quadros
+
+
+INÍCIO = QUADRO TODOS
+
+
+CTRL + BARRA DE ESPAÇO = Maximizar janela
+ 
+
+
+1 / 2 / 3 / ... = Alterar camada
+
+SHIFT + 1 / 2 / 3 / ... = Combinar camadas
+
+
+
+A = Selecionar tudo
+
+AA = Desmarcar tudo
+ou
+ALT + A = Desmarcar tudo
+
+LMB = Selecionar
+
+SHIFT + LMB = Selecionar vários
+
+LMB (Clique e arraste) = Seleção de caixa
+ 
+C = Seleção de pincel
+
++ MMB = Alterar raio
+ 
+RMB com seleção = Coleções
+
+
+
+H = Ocultar
+
+SHIFT + H = Isolar
+
+CTRL + SHIFT + H = Isolar na camada
+ 
+CTRL + SHIFT + ALT + H = Revelar na camada
+ 
+ALT + H = Mostrar tudo
+
+
+
+% = Idioma
+
+
+
+G = Agarrar (Mover)
+ 
+ALT + G = Redefinir posição
+ 
+R = Girar
+ 
+ALT + R = Redefinir rotação
+ 
+S = Escala
+ 
+ALT + S = Redefinir escala
+ 
+ 
+PRESSIONE 'CheatSheet' no cabeçalho para a versão .png.
+
+;;;FR;;;
+
+ 
+ 
+Z = Couleurs
+
+ALT + Z = rayons X
+
+ALT + B = Zone de détourage
+
+SHIFT + ALT + Z = Couleurs des touches
+ 
+N = MENU avec le module complémentaire Z-ANATOMY
+
+
+
+SHIFT + % = Grouper les libellés activé/désactivé
+ 
+ 
+
+Q > Set = Réinitialiser la vue
+ 
+MMB = Orbite
+ou Pavé numérique 4 / 6 / 2 / 8
+
+SHIFT + MMB = panoramique
+ou
+SHIFT + Pavé numérique 4 / 6 / 2 / 8 = Panoramique
+
+Pavé numérique 1 = Vue frontale
+
+CTRL+ Pavé numérique 1 = Vue dorsale
+
+Pavé numérique 3 = Vue gauche
+
+CTRL+ Pavé numérique 3 = Vue droite
+ 
+Pavé numérique 7 = Vue crânienne
+
+CTRL+ Pavé numérique 7 = Vue caudale
+ 
+Pavé numérique 9 = Inverser le point de vue
+
+Pavé numérique. = Sélection du cadre
+
+
+ACCUEIL = TOUT ENCADRER
+
+
+CTRL + ESPACE = Agrandir la fenêtre
+ 
+
+
+1 / 2 / 3 / ... = Changer de couche
+
+SHIFT + 1 / 2 / 3 / ... = Combiner les calques
+
+
+
+A = Tout sélectionner
+
+AA = Tout désélectionner
+ou
+ALT + A = Tout désélectionner
+
+LMB = Sélectionner
+
+SHIFT + LMB = Sélectionner plusieurs
+
+LMB (Cliquer et faire glisser) = Boîte de sélection
+ 
+C = sélection du pinceau
+
++ MMB = Changer de rayon
+ 
+RMB avec sélection = Collections
+
+
+
+H = Cacher
+
+SHIFT + H = Isoler
+
+CTRL + MAJ + H = Isoler sur le calque
+ 
+CTRL + MAJ + ALT + H = Révéler sur le calque
+ 
+ALT + H = Afficher tout
+
+
+
+% = Langue
+
+
+
+G = saisir (déplacer)
+ 
+ALT + G = Position de réinitialisation
+ 
+R = Tourner
+ 
+ALT + R = Réinitialiser la rotation
+ 
+S = Échelle
+ 
+ALT + S = Réinitialiser l'échelle
+ 
+ 
+APPUYEZ SUR 'CheatSheet' dans l'en-tête pour la version .png.

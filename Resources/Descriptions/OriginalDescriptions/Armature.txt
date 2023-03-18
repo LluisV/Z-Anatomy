@@ -1,0 +1,34 @@
+
+
+ARMATURE
+
+
+An armature in Blender can be thought of as similar to the armature of a real skeleton, and just like a real skeleton an armature can consist of many bones. 
+
+These bones can be moved around and anything that they are attached to or associated with will move and deform in a similar way.
+
+An “armature” is a type of object used for rigging. 
+A rig is the controls and strings that move a marionette (puppet). Armature object borrows many ideas from real-world skeletons.
+
+------------------------------------
+
+Press 'Ctrl+Tab' to enter Pose mode
+
+The IK/FK button can be moved to switch between 'Inverse Kinematics'(IK) and 'Forward Kinematics'(FK)
+
+------------------------------------
+
+Select a controller with Left Mouse Button (LMB)
+
+Press 'G' to move it
+Press 'R' to rotate it
+    Press 'R+Z' to rotate it along the Z-axis
+    Press 'R+X' to rotate it along the X-axis
+    Press 'R+Y' to rotate it along the Y-axis
+    
+    Press 'R+X+X' to rotate it along the local X-axis
+    
+    Press 'R+R' to rotate it along all axis
+    
+    
+https://www.youtube.com/watch?v=cZ3o5tjO51s

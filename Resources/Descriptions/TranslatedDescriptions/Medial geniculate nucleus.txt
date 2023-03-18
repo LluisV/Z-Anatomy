@@ -1,0 +1,524 @@
+
+
+MEDIAL GENICULATE NUCLEUS
+
+
+The medial geniculate nucleus (MGN) or medial geniculate body (MGB) is part of the auditory thalamus and represents the thalamic relay between the inferior colliculus (IC) and the auditory cortex (AC). 
+
+It is made up of a number of sub-nuclei that are distinguished by their neuronal morphology and density, by their afferent and efferent connections, and by the coding properties of their neurons. 
+
+It is thought that the MGN influences the direction and maintenance of attention.
+
+
+== Divisions ==
+
+The MGN has three major divisions; ventral (VMGN), dorsal (DMGN) and medial (MMGN). 
+
+Whilst the VMGN is specific to auditory information processing, the DMGN and MMGN also receive information from non-auditory pathways.
+
+
+=== Ventral subnucleus ===
+
+
+
+==== Cell types ====
+There are two main cell types in the ventral subnucleus of the medial geniculate body (VMGN):
+
+Thalamocortical relay cells (or principal neurons): The dendritic input to these cells comes from two sets of dendritic trees oriented on opposite poles of the cell. 
+
+The long axis of the relay cells lie parallel to each other running superior-inferiorly with the dendritic trees of cells within the same iso-frequency band overlapping. 
+
+This is similar to the dendritic organization of the IC, but with a different orientation. 
+
+The dendrites of relay cells form a synaptic nest with ascending axons from the inferior colliculus and intrathalamic interneurons. 
+
+In this synapse, relay cells are excited by input from the IC axons. 
+
+At the same time, they are inhibited by dendritic synapses from the interneurons of the VMGB. 
+
+This type of synaptic nesting is characteristic of other regions in the thalamus as well.
+Intrathalamic Interneurons: These interneurons provide inhibitory (GABA) input to the relay cells at the synaptic nests. 
+
+The target of their axons however, is not clear. 
+
+Some interneurons appear to target relay cells, while others target other interneurons. 
+
+There is also at least one type of interneuron that appears to not be involved in the synaptic nests.
+
+
+==== Function ====
+The VMGN is thought to be primarily responsible for relaying frequency, intensity and binaural information to the cortex. 
+
+The responses in the VMGN appear to be organized in a tonotopically similar way to those in the IC. 
+
+The primary difference being that the iso-frequency bands are arranged such that lateral regions are most responsive to low frequencies and medial regions are responsive to high frequencies. 
+
+Spatiotopic and modulotopic maps (as in the IC) however have not been well supported by mammalian studies. 
+
+Both monaural (10%) and binaural cells (90%) exist in the MGN. 
+
+The monaural cells are primarily responsive to sound in the contralateral hemifield. 
+
+Binaural cells are typically similar to the EE or EI type found in the IC.
+Definitions of abbreviations
+IC = Inferior colliculus
+EE (Excitatory excitatory) type neurons are characterized by excitatory responses to monaural stimulations of both years. 
+
+This response may either be higher than the monaural response (EE– facilitation) Or lower (EE– occlusion)
+EI (Excitatory inhibitory) type neurons Are characterized by monaural excitation (usually from the contralateral ear). 
+
+The ipsilateral neuron is inhibited when contralateral ear is stimulated at the same time
+
+
+=== Dorsal subnucleus ===
+
+
+
+==== Cell types ====
+There are a large number of cell types present in the dorsal subnucleus of the medial geniculate body (DMGN):
+At least two principal cell types have been found, along with two distinct types of interneurons. 
+
+Several sub-nuclei have been identified based on morphology. 
+
+No frequency-specific layering has been found in the DMGN.
+
+
+==== Function ====
+Many types of responses are present in the DMGB that appear to vary by sub-nuclei. 
+
+Generally, the responses are broadly tuned, but some cells appear to respond only to complex stimuli. 
+
+Other cells are multi modal, often responding to somatosensory as well as auditory stimuli.
+
+
+=== Medial subnucleus ===
+
+
+
+==== Cell types ====
+Cells in the medial subnucleus of the medial geniculate body (MMGN) have large irregular shaped dendritic trees. 
+
+There is no clear segregation based on the source of these inputs.
+
+
+==== Function ====
+The MMGN seems to functionally be responsible for detection of the relative intensity and duration of a sound. 
+
+It shows a wide range of responses to auditory stimuli. 
+
+Binaural interactions found in the MMGN include EE, EI, and IE types. 
+
+Both broadly and narrowly tuned cells have been observed. 
+
+A type of intensity tuning has also been observed. 
+
+In this type of cell, the response actually decreases as sound intensity increases above a specific level. 
+
+Almost all cells in the MMGN appear to respond for the duration of the stimulus, and have very little adaptation. 
+
+Individual cells still appear to be preferentially tuned to certain frequencies, but they often have more than one and are broadly tuned within these cell frequencies. 
+
+It is not clear whether there truly is one, none, or many tonotopic organizations maps present in the MMGN. 
+
+Anaesthetics tend to have large effects on cells within the MMGN, making responses difficult to study. 
+
+Finally, the behaviour of MMGN cells are complicated by the fact that sensory stimulation from other modalities modifies the responsiveness of many, but not all, cells in the MMGN.
+
+
+
+https://en.wikipedia.org/wiki/Medial_geniculate_nucleus
+;;;ES;;;
+
+
+
+NÚCLEO GENICULADO MEDIAL
+
+
+El núcleo geniculado medial (MGN) o cuerpo geniculado medial (MGB) es parte del tálamo auditivo y representa el relevo talámico entre el colículo inferior (IC) y la corteza auditiva (AC).
+
+Está formado por una serie de subnúcleos que se distinguen por su morfología y densidad neuronal, por sus conexiones aferentes y eferentes, y por las propiedades codificantes de sus neuronas.
+
+Se piensa que la MGN influye en la dirección y mantenimiento de la atención.
+
+
+== Divisiones ==
+
+El MGN tiene tres divisiones principales; ventral (VMGN), dorsal (DMGN) y medial (MMGN).
+
+Mientras que VMGN es específico para el procesamiento de información auditiva, DMGN y MMGN también reciben información de vías no auditivas.
+
+
+=== Subnúcleo ventral ===
+
+
+
+==== Tipos de células ====
+Hay dos tipos principales de células en el subnúcleo ventral del cuerpo geniculado medial (VMGN):
+
+Células de relevo talamocorticales (o neuronas principales): la entrada dendrítica a estas células proviene de dos conjuntos de árboles dendríticos orientados en polos opuestos de la célula.
+
+El eje largo de las células de relevo se encuentran paralelos entre sí y se extienden de arriba a abajo con los árboles dendríticos de las células dentro de la misma banda de isofrecuencia superpuestas.
+
+Esto es similar a la organización dendrítica del IC, pero con una orientación diferente.
+
+Las dendritas de las células de relevo forman un nido sináptico con axones ascendentes del colículo inferior e interneuronas intratalámicas.
+
+En esta sinapsis, las células de relevo son excitadas por la entrada de los axones IC.
+
+Al mismo tiempo, son inhibidas por las sinapsis dendríticas de las interneuronas de la VMGB.
+
+Este tipo de anidamiento sináptico también es característico de otras regiones del tálamo.
+Interneuronas intratalámicas: estas interneuronas proporcionan entrada inhibitoria (GABA) a las células de relevo en los nidos sinápticos.
+
+Sin embargo, el objetivo de sus axones no está claro.
+
+Algunas interneuronas parecen dirigirse a las células de retransmisión, mientras que otras se dirigen a otras interneuronas.
+
+También hay al menos un tipo de interneurona que parece no estar involucrada en los nidos sinápticos.
+
+
+==== Función ====
+Se cree que la VMGN es la principal responsable de transmitir información de frecuencia, intensidad y binaural a la corteza.
+
+Las respuestas en la VMGN parecen estar organizadas de manera tonotópicamente similar a las del IC.
+
+La principal diferencia es que las bandas de isofrecuencia están dispuestas de manera que las regiones laterales responden mejor a las frecuencias bajas y las regiones medias responden a las frecuencias altas.
+
+Sin embargo, los mapas espaciotópicos y modulotópicos (como en el IC) no han sido bien respaldados por estudios de mamíferos.
+
+Tanto las células monoaurales (10%) como las binaurales (90%) existen en la MGN.
+
+Las células monoaurales responden principalmente al sonido en el hemicampo contralateral.
+
+Las células binaurales suelen ser similares al tipo EE o EI que se encuentra en el IC.
+Definiciones de abreviaturas
+IC = colículo inferior
+Las neuronas de tipo EE (excitatorias excitatorias) se caracterizan por respuestas excitatorias a estimulaciones monoaurales de ambos años.
+
+Esta respuesta puede ser más alta que la respuesta monoaural (EE– facilitación) o más baja (EE– oclusión)
+Neuronas de tipo EI (inhibidoras excitatorias) Se caracterizan por una excitación monoaural (generalmente del oído contralateral).
+
+La neurona ipsilateral se inhibe cuando el oído contralateral se estimula al mismo tiempo.
+
+
+=== Subnúcleo dorsal ===
+
+
+
+==== Tipos de células ====
+Hay una gran cantidad de tipos de células presentes en el subnúcleo dorsal del cuerpo geniculado medial (DMGN):
+Se han encontrado al menos dos tipos de células principales, junto con dos tipos distintos de interneuronas.
+
+Se han identificado varios subnúcleos en función de la morfología.
+
+No se han encontrado capas específicas de frecuencia en el DMGN.
+
+
+==== Función ====
+Muchos tipos de respuestas están presentes en el DMGB que parecen variar según los subnúcleos.
+
+En general, las respuestas están ampliamente sintonizadas, pero algunas células parecen responder solo a estímulos complejos.
+
+Otras células son multimodales y a menudo responden a estímulos somatosensoriales y auditivos.
+
+
+=== Subnúcleo medial ===
+
+
+
+==== Tipos de células ====
+Las células del subnúcleo medial del cuerpo geniculado medial (MMGN) tienen grandes árboles dendríticos de forma irregular.
+
+No existe una segregación clara basada en la fuente de estos insumos.
+
+
+==== Función ====
+El MMGN parece ser funcionalmente responsable de la detección de la intensidad relativa y la duración de un sonido.
+
+Muestra una amplia gama de respuestas a los estímulos auditivos.
+
+Las interacciones binaurales que se encuentran en el MMGN incluyen los tipos EE, EI e IE.
+
+Se han observado células sintonizadas de forma amplia y estrecha.
+
+También se ha observado un tipo de ajuste de intensidad.
+
+En este tipo de celda, la respuesta en realidad disminuye a medida que la intensidad del sonido aumenta por encima de un nivel específico.
+
+Casi todas las células en la MMGN parecen responder durante la duración del estímulo y tienen muy poca adaptación.
+
+Las celdas individuales todavía parecen estar sintonizadas preferentemente a ciertas frecuencias, pero a menudo tienen más de una y están sintonizadas ampliamente dentro de estas frecuencias de celda.
+
+No está claro si realmente hay uno, ninguno o muchos mapas de organizaciones tonotópicas presentes en el MMGN.
+
+Los anestésicos tienden a tener grandes efectos en las células dentro de la MMGN, lo que dificulta el estudio de las respuestas.
+
+Finalmente, el comportamiento de las células MMGN se complica por el hecho de que la estimulación sensorial de otras modalidades modifica la capacidad de respuesta de muchas, pero no todas, las células en la MMGN.
+
+
+
+https://en.wikipedia.org/wiki/Medial_geniculate_nucleus
+
+;;;PT;;;
+
+
+
+NÚCLEO GENICULADO MEDIAL
+
+
+O núcleo geniculado medial (MGN) ou corpo geniculado medial (MGB) faz parte do tálamo auditivo e representa o relé talâmico entre o colículo inferior (CI) e o córtex auditivo (AC).
+
+É composto por vários subnúcleos que se distinguem por sua morfologia e densidade neuronal, por suas conexões aferentes e eferentes e pelas propriedades de codificação de seus neurônios.
+
+Pensa-se que o MGN influencia a direção e manutenção da atenção.
+
+
+== Divisões ==
+
+A MGN tem três divisões principais; ventral (VMGN), dorsal (DMGN) e medial (MMGN).
+
+Enquanto o VMGN é específico para processamento de informações auditivas, o DMGN e o MMGN também recebem informações de vias não auditivas.
+
+
+=== Subnúcleo ventral ===
+
+
+
+==== Tipos de células ====
+Existem dois tipos principais de células no subnúcleo ventral do corpo geniculado medial (VMGN):
+
+Células retransmissoras talamocorticais (ou neurônios principais): A entrada dendrítica para essas células vem de dois conjuntos de árvores dendríticas orientadas em pólos opostos da célula.
+
+Os eixos longos das células de retransmissão ficam paralelos uns aos outros correndo superior-inferiormente com as árvores dendríticas das células dentro da mesma banda de isofrequência sobrepostas.
+
+Isso é semelhante à organização dendrítica do CI, mas com uma orientação diferente.
+
+Os dendritos das células retransmissoras formam um ninho sináptico com axônios ascendentes do colículo inferior e interneurônios intratalâmicos.
+
+Nesta sinapse, as células retransmissoras são excitadas pela entrada dos axônios IC.
+
+Ao mesmo tempo, eles são inibidos pelas sinapses dendríticas dos interneurônios do VMGB.
+
+Esse tipo de aninhamento sináptico também é característico de outras regiões do tálamo.
+Interneurônios intratalâmicos: Esses interneurônios fornecem entrada inibitória (GABA) para as células de retransmissão nos ninhos sinápticos.
+
+O alvo de seus axônios, no entanto, não é claro.
+
+Alguns interneurônios parecem ter como alvo as células de retransmissão, enquanto outros têm como alvo outros interneurônios.
+
+Há também pelo menos um tipo de interneurônio que parece não estar envolvido nos ninhos sinápticos.
+
+
+==== Função ====
+Acredita-se que o VMGN seja o principal responsável pela transmissão de frequência, intensidade e informação binaural para o córtex.
+
+As respostas no VMGN parecem estar organizadas de forma tonotopicamente semelhante às do IC.
+
+A principal diferença é que as bandas de isofrequência são dispostas de tal forma que as regiões laterais são mais responsivas às baixas frequências e as regiões mediais são responsivas às altas frequências.
+
+Os mapas espatiotópicos e modulotópicos (como no IC), no entanto, não foram bem apoiados por estudos em mamíferos.
+
+Ambas as células monoaurais (10%) e binaurais (90%) existem no MGN.
+
+As células monoaurais são primariamente responsivas ao som no hemicampo contralateral.
+
+As células binaurais são tipicamente semelhantes ao tipo EE ou EI encontrado no IC.
+Definições de abreviaturas
+IC = colículo inferior
+Neurônios do tipo EE (excitatório excitatório) são caracterizados por respostas excitatórias a estímulos monoaurais de ambos os anos.
+
+Essa resposta pode ser maior que a resposta mono (facilitação EE) ou menor (oclusão EE)
+Neurônios do tipo EI (excitatório inibitório) São caracterizados por excitação monoaural (geralmente da orelha contralateral).
+
+O neurônio ipsilateral é inibido quando a orelha contralateral é estimulada ao mesmo tempo
+
+
+=== Subnúcleo dorsal ===
+
+
+
+==== Tipos de células ====
+Há um grande número de tipos de células presentes no subnúcleo dorsal do corpo geniculado medial (DMGN):
+Pelo menos dois tipos principais de células foram encontrados, juntamente com dois tipos distintos de interneurônios.
+
+Vários subnúcleos foram identificados com base na morfologia.
+
+Nenhuma camada específica de frequência foi encontrada no DMGN.
+
+
+==== Função ====
+Muitos tipos de respostas estão presentes no DMGB que parecem variar de acordo com os subnúcleos.
+
+Geralmente, as respostas são amplamente ajustadas, mas algumas células parecem responder apenas a estímulos complexos.
+
+Outras células são multimodais, muitas vezes respondendo a estímulos somatossensoriais e auditivos.
+
+
+=== Subnúcleo medial ===
+
+
+
+==== Tipos de células ====
+As células do subnúcleo medial do corpo geniculado medial (MMGN) têm grandes árvores dendríticas de formato irregular.
+
+Não há uma segregação clara com base na fonte desses insumos.
+
+
+==== Função ====
+O MMGN parece ser funcionalmente responsável pela detecção da intensidade relativa e duração de um som.
+
+Ele mostra uma ampla gama de respostas a estímulos auditivos.
+
+As interações binaurais encontradas no MMGN incluem os tipos EE, EI e IE.
+
+Ambas as células sintonizadas ampla e estreitamente foram observadas.
+
+Um tipo de ajuste de intensidade também foi observado.
+
+Nesse tipo de célula, a resposta realmente diminui à medida que a intensidade do som aumenta acima de um nível específico.
+
+Quase todas as células do MMGN parecem responder pela duração do estímulo e têm muito pouca adaptação.
+
+As células individuais ainda parecem estar sintonizadas preferencialmente em certas frequências, mas geralmente têm mais de uma e são amplamente sintonizadas dentro dessas frequências celulares.
+
+Não está claro se realmente existe um, nenhum ou muitos mapas de organizações tonotópicas presentes no MMGN.
+
+Os anestésicos tendem a ter grandes efeitos nas células dentro do MMGN, tornando as respostas difíceis de estudar.
+
+Finalmente, o comportamento das células MMGN é complicado pelo fato de que a estimulação sensorial de outras modalidades modifica a capacidade de resposta de muitas, mas não de todas as células do MMGN.
+
+
+
+https://en.wikipedia.org/wiki/Medial_geniculate_nucleus
+
+;;;FR;;;
+
+
+
+NOYAU GENICULE MEDIAL
+
+
+Le noyau géniculé médial (MGN) ou corps géniculé médial (MGB) fait partie du thalamus auditif et représente le relais thalamique entre le colliculus inférieur (IC) et le cortex auditif (AC).
+
+Il est constitué d'un certain nombre de sous-noyaux qui se distinguent par leur morphologie et leur densité neuronales, par leurs connexions afférentes et efférentes, et par les propriétés codantes de leurs neurones.
+
+On pense que le MGN influence la direction et le maintien de l'attention.
+
+
+== Divisions ==
+
+Le MGN a trois divisions principales; ventrale (VMGN), dorsale (DMGN) et médiale (MMGN).
+
+Alors que le VMGN est spécifique au traitement de l'information auditive, le DMGN et le MMGN reçoivent également des informations de voies non auditives.
+
+
+=== Sous-noyau ventral ===
+
+
+
+==== Types de cellules ====
+Il existe deux principaux types de cellules dans le sous-noyau ventral du corps géniculé médial (VMGN):
+
+Cellules relais thalamocorticales (ou neurones principaux) : L'apport dendritique à ces cellules provient de deux ensembles d'arbres dendritiques orientés sur les pôles opposés de la cellule.
+
+Le grand axe des cellules relais sont parallèles les unes aux autres et fonctionnent de manière supérieure-inférieure avec les arbres dendritiques des cellules dans la même bande d'isofréquence qui se chevauchent.
+
+Ceci est similaire à l'organisation dendritique du CI, mais avec une orientation différente.
+
+Les dendrites des cellules relais forment un nid synaptique avec les axones ascendants du colliculus inférieur et les interneurones intrathalamiques.
+
+Dans cette synapse, les cellules relais sont excitées par l'entrée des axones du CI.
+
+En même temps, ils sont inhibés par les synapses dendritiques des interneurones du VMGB.
+
+Ce type de nidification synaptique est également caractéristique d'autres régions du thalamus.
+Interneurones intrathalamiques : Ces interneurones fournissent une entrée inhibitrice (GABA) aux cellules relais au niveau des nids synaptiques.
+
+La cible de leurs axones n'est cependant pas claire.
+
+Certains interneurones semblent cibler les cellules relais, tandis que d'autres ciblent d'autres interneurones.
+
+Il existe également au moins un type d'interneurone qui ne semble pas être impliqué dans les nids synaptiques.
+
+
+==== Fonction ====
+On pense que le VMGN est principalement responsable de la transmission des informations de fréquence, d'intensité et binaurales au cortex.
+
+Les réponses du VMGN semblent être organisées de manière tonotopiquement similaire à celles du CI.
+
+La principale différence étant que les bandes d'isofréquences sont agencées de sorte que les régions latérales réagissent le plus aux basses fréquences et que les régions médianes réagissent aux hautes fréquences.
+
+Les cartes spatiotopiques et modulotopiques (comme dans l'IC) n'ont cependant pas été bien étayées par des études sur les mammifères.
+
+Les cellules monaurales (10%) et binaurales (90%) existent dans le MGN.
+
+Les cellules monaurales sont principalement sensibles au son dans l'hémichamp controlatéral.
+
+Les cellules binaurales sont généralement similaires au type EE ou EI trouvé dans le CI.
+Définitions des abréviations
+IC = Colliculus inférieur
+Les neurones de type EE (Excitatory excitatory) sont caractérisés par des réponses excitatrices aux stimulations monaurales des deux années.
+
+Cette réponse peut être soit supérieure à la réponse monaurale (EE- facilitation) soit inférieure (EE- occlusion)
+Les neurones de type EI (excitateurs inhibiteurs) sont caractérisés par une excitation monaurale (habituellement de l'oreille controlatérale).
+
+Le neurone ipsilatéral est inhibé lorsque l'oreille controlatérale est stimulée en même temps
+
+
+=== Sous-noyau dorsal ===
+
+
+
+==== Types de cellules ====
+Il existe un grand nombre de types de cellules présentes dans le sous-noyau dorsal du corps genouillé médial (DMGN):
+Au moins deux principaux types de cellules ont été trouvés, ainsi que deux types distincts d'interneurones.
+
+Plusieurs sous-noyaux ont été identifiés sur la base de la morphologie.
+
+Aucune stratification spécifique à la fréquence n'a été trouvée dans le DMGN.
+
+
+==== Fonction ====
+De nombreux types de réponses sont présents dans le DMGB qui semblent varier selon les sous-noyaux.
+
+Généralement, les réponses sont largement accordées, mais certaines cellules semblent ne répondre qu'à des stimuli complexes.
+
+D'autres cellules sont multimodales, répondant souvent à des stimuli somatosensoriels et auditifs.
+
+
+=== Sous-noyau médial ===
+
+
+
+==== Types de cellules ====
+Les cellules du sous-noyau médial du corps genouillé médial (MMGN) ont de grands arbres dendritiques de forme irrégulière.
+
+Il n'y a pas de séparation claire basée sur la source de ces intrants.
+
+
+==== Fonction ====
+Le MMGN semble être fonctionnellement responsable de la détection de l'intensité et de la durée relatives d'un son.
+
+Il montre un large éventail de réponses aux stimuli auditifs.
+
+Les interactions binaurales trouvées dans le MMGN incluent les types EE, EI et IE.
+
+Des cellules à la fois largement et étroitement accordées ont été observées.
+
+Un type de réglage d'intensité a également été observé.
+
+Dans ce type de cellule, la réponse diminue en fait à mesure que l'intensité sonore augmente au-dessus d'un niveau spécifique.
+
+Presque toutes les cellules du MMGN semblent répondre pendant la durée du stimulus et ont très peu d'adaptation.
+
+Les cellules individuelles semblent toujours être préférentiellement accordées à certaines fréquences, mais elles en ont souvent plus d'une et sont largement accordées à l'intérieur de ces fréquences cellulaires.
+
+Il n'est pas clair s'il y a vraiment une, aucune ou plusieurs cartes d'organisations tonotopiques présentes dans le MMGN.
+
+Les anesthésiques ont tendance à avoir des effets importants sur les cellules du MMGN, ce qui rend les réponses difficiles à étudier.
+
+Enfin, le comportement des cellules MMGN est compliqué par le fait que la stimulation sensorielle d'autres modalités modifie la réactivité de nombreuses cellules du MMGN, mais pas toutes.
+
+
+
+https://en.wikipedia.org/wiki/Medial_geniculate_nucleus

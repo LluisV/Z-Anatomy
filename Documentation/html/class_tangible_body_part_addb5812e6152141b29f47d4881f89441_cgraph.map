@@ -1,0 +1,7 @@
+<map id="TangibleBodyPart.Deselect" name="TangibleBodyPart.Deselect">
+<area shape="rect" id="node1" title="Deselects the object by changing its selection state and hiding its labels and notes." alt="" coords="5,35,184,60"/>
+<area shape="rect" id="node2" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="237,5,430,31"/>
+<area shape="rect" id="node5" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="232,55,435,95"/>
+<area shape="rect" id="node3" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="483,5,669,31"/>
+<area shape="rect" id="node4" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="717,5,853,31"/>
+</map>

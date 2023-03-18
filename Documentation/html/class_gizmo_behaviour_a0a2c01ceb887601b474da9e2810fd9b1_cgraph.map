@@ -1,0 +1,19 @@
+<map id="GizmoBehaviour.SetCameraRotation" name="GizmoBehaviour.SetCameraRotation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,243,191,283"/>
+<area shape="rect" id="node2" href="$class_camera_controller.html#af59b8c70c769ad14e5bc7eda175cd34e" title="If the camera is not in a routine." alt="" coords="241,193,427,218"/>
+<area shape="rect" id="node3" href="$class_camera_controller.html#ad6368b486df330594afecf0cb2970b84" title="Initiates a coroutine to smoothly rotate the camera to a given orientation." alt="" coords="239,243,429,283"/>
+<area shape="rect" id="node4" href="$class_cross_planes_gizmo.html#aa36a5f21c411405b986110d4199cb74a" title=" " alt="" coords="239,307,429,333"/>
+<area shape="rect" id="node5" href="$class_cross_planes_gizmo.html#af8c99c35cacc47fd6a7f2e318dc58236" title=" " alt="" coords="495,5,676,45"/>
+<area shape="rect" id="node6" href="$class_cross_planes_gizmo.html#aeaa71cdcae09785a3ed0c6db3a85638d" title=" " alt="" coords="477,69,693,109"/>
+<area shape="rect" id="node7" href="$class_cross_sections.html#a8eda6e5e70f750140c741810e4a0733e" title=" " alt="" coords="490,282,681,307"/>
+<area shape="rect" id="node9" href="$class_toggle_change_color.html#a4a4032ca574a278e9b643737811abecf" title=" " alt="" coords="995,400,1203,440"/>
+<area shape="rect" id="node10" href="$class_toggle_change_color.html#a5151f16be3bac74ac7ac5d02b7dff1f4" title=" " alt="" coords="741,332,947,372"/>
+<area shape="rect" id="node11" href="$class_cross_sections.html#a34acddf18f0aa5e3b957fcc2316f8e98" title=" " alt="" coords="489,331,682,357"/>
+<area shape="rect" id="node12" href="$class_cross_sections.html#a4a7b375cdb17e952ed6c50ffc9f43b79" title=" " alt="" coords="490,381,681,406"/>
+<area shape="rect" id="node13" href="$class_cross_sections.html#aa149d762c7fe1b9c531e7151d8ef7506" title=" " alt="" coords="497,134,673,159"/>
+<area shape="rect" id="node14" href="$class_cube_text.html#a280991cbf0ad849fedd55f80153cdc69" title=" " alt="" coords="494,582,677,607"/>
+<area shape="rect" id="node15" href="$class_cross_sections.html#ac17aec3b1779632c14f9a7fc8c865232" title=" " alt="" coords="512,430,659,455"/>
+<area shape="rect" id="node16" href="$class_cross_sections.html#a1f12813590db5d6c97738e2829978baf" title=" " alt="" coords="511,183,660,209"/>
+<area shape="rect" id="node17" href="$class_cross_sections.html#ac6a27c36a58feb3e50593c2ede83a86c" title=" " alt="" coords="512,233,659,258"/>
+<area shape="rect" id="node8" href="$class_cross_sections.html#a08ddae0abb0d9e88575c2085300edafe" title=" " alt="" coords="751,282,937,307"/>
+</map>

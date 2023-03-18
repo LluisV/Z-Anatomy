@@ -1,0 +1,328 @@
+TEMPORAL BONE
+    Petrous part of temporal bone
+        Occipital margin of temporal bone
+        Mastoid process
+        Mastoid antrum
+            Mastoid cells
+        Mastoid notch
+        Groove for occipital artery
+        Mastoid foramen
+        Apex of petrous part
+            Carotid canal
+                External opening of carotid canal
+                Internal opening of carotid canal
+            Caroticotympanic canaliculi
+            Musculotubal canal
+                Semicanal for tensor tympani
+                Semicanal for auditory tube
+                Septum of musculotubal canal
+        Anterior surface of petrous part
+            Tegmen tympani
+            Arcuate eminence
+            Hiatus for greater petrosal nerve
+            Groove for greater petrosal nerve
+            Hiatus for lesser petrosal nerve
+            Groove for lesser petrosal nerve
+            Trigeminal impression
+        Petrous ridge
+            Groove for superior petrosal sinus
+        Posterior surface of petrous part
+            Internal acoustic opening
+            Internal acoustic meatus
+            Subarcuate fossa
+            Vestibular canaliculus
+            Opening of vestibular canaliculus
+        Posterior border of petrous part
+            Jugular notch of temporal bone
+        Inferior surface of petrous part
+            Jugular fossa
+                Cochlear canaliculus
+                Opening of cochlear canaliculus
+                Mastoid canaliculus
+            Intrajugular process of temporal bone
+            Styloid process of temporal bone
+            Stylomastoid foramen
+            Inferior tympanic canaliculus
+            Petrosal fossula
+        Bony tympanic cavity
+        Facial canal
+            Geniculum of facial canal
+        Posterior tympanic canaliculus
+        Anterior tympanic canaliculus
+        Bony labyrinth
+    Tympanic part of temporal bone
+        Tympanic ring
+        Bony external acoustic opening
+        Bony external acoustic meatus
+        Greater tympanic spine
+        Lesser tympanic spine
+        Tympanic sulcus
+        Tympanic notch
+        Sheath of styloid process
+    Squamous part of temporal bone
+        Parietal border of temporal bone
+        Parietal notch
+        Sphenoidal margin of temporal bone
+        Temporal surface of temporal bone
+        Groove for middle temporal artery
+        Zygomatic process of temporal bone
+            Supramastoid crest
+            Suprameatal fovea
+            Suprameatal spine
+        Mandibular fossa
+            Articular surface of mandibular fossa
+        Articular tubercle
+            Articular eminence
+        Cerebral surface of squamous part of temporal bone
+    Petrotympanic fissure
+    Petrosquamous fissure
+    Tympanosquamous fissure
+    Tympanomastoid fissure
+;;;ES;;;
+
+HUESO TEMPORAL
+Parte petrosa del hueso temporal
+Margen occipital del hueso temporal
+proceso mastoideo
+antro mastoideo
+Células mastoideas
+muesca mastoidea
+Surco para la arteria occipital
+agujero mastoideo
+Ápice de la porción petrosa
+canal carotideo
+Apertura externa del canal carotideo
+Apertura interna del canal carotideo
+Canalículos caroticotimpánicos
+canal musculotubárico
+Semicanal para tensor del tímpano
+Semicanal para trompa auditiva
+Tabique del canal musculotubárico
+Superficie anterior de la porción petrosa
+Tegmen tímpanos
+eminencia arqueada
+Hiato por nervio petroso mayor
+Surco para nervio petroso mayor
+Hiato del nervio petroso menor
+Surco para el nervio petroso menor
+Impresión del trigémino
+Cresta petrosa
+Surco para seno petroso superior
+Superficie posterior de la porción petrosa
+Apertura acústica interna
+Conducto acústico interno
+fosa subarcuata
+Canalículo vestibular
+Abertura del canalículo vestibular
+Borde posterior de la porción petrosa
+muesca yugular del hueso temporal
+Superficie inferior de la porción petrosa
+fosa yugular
+Canalículo coclear
+Apertura del canalículo coclear
+Canalículo mastoideo
+Proceso intrayugular del hueso temporal
+Apófisis estiloides del hueso temporal
+Agujero estilomastoideo
+Canalículo timpánico inferior
+Fósula Petrosal
+Cavidad timpánica ósea
+conducto facial
+Genículo del canal facial
+Canalículo timpánico posterior
+Canalículo timpánico anterior
+laberinto óseo
+Porción timpánica del hueso temporal
+anillo timpánico
+Apertura acústica externa ósea
+Meato auditivo externo óseo
+Espina timpánica mayor
+Espina timpánica menor
+surco timpánico
+Muesca timpánica
+Vaina de la apófisis estiloides
+Parte escamosa del hueso temporal
+Borde parietal del hueso temporal
+muesca parietal
+Margen esfenoidal del hueso temporal
+Superficie temporal del hueso temporal
+Surco para la arteria temporal media
+Proceso cigomático del hueso temporal
+Cresta supramastoidea
+fóvea suprameatal
+Espina suprameal
+fosa mandibular
+Superficie articular de la fosa mandibular
+tubérculo articular
+eminencia articular
+Superficie cerebral de la parte escamosa del hueso temporal
+Fisura petrotimpánica
+Fisura petrosescamosa
+Fisura timpanoescamosa
+fisura timpanomastoidea
+
+;;;PT;;;
+
+OSSO TEMPORAL
+Parte petrosa do osso temporal
+Margem occipital do osso temporal
+Processo mastóide
+antro mastóide
+Células mastóides
+Incisura da mastóide
+Sulco para artéria occipital
+Forame mastóide
+Ápice da parte petrosa
+Canal carotídeo
+Abertura externa do canal carotídeo
+Abertura interna do canal carotídeo
+Canalículos Caroticotimpânicos
+canal musculotubal
+Semicanal para tensor do tímpano
+Semicanal para tuba auditiva
+Septo do canal musculotubário
+Superfície anterior da parte petrosa
+Tímpano Tegmen
+Eminência arqueada
+Hiato para nervo petroso maior
+Sulco para nervo petroso maior
+Hiato para nervo petroso menor
+Sulco para nervo petroso menor
+Impressão trigeminal
+cume petroso
+Sulco para seio petroso superior
+Superfície posterior da parte petrosa
+Abertura acústica interna
+Meato acústico interno
+Fossa subarqueada
+Canalículo vestibular
+Abertura do canalículo vestibular
+Borda posterior da parte petrosa
+Incisura jugular do osso temporal
+Superfície inferior da parte petrosa
+fossa jugular
+Canalículo coclear
+Abertura do canalículo coclear
+Canalículo mastóide
+Processo intrajugular do osso temporal
+Processo estilóide do osso temporal
+Forame estilomastóideo
+Canalículo timpânico inferior
+Fóssula Petrosal
+Cavidade timpânica óssea
+Canal facial
+Genículo do canal facial
+Canalículo timpânico posterior
+Canalículo timpânico anterior
+Labirinto ósseo
+Parte timpânica do osso temporal
+Anel timpânico
+Abertura acústica externa óssea
+Meato acústico externo ósseo
+Maior coluna timpânica
+Coluna timpânica menor
+Sulco timpânico
+Incisura timpânica
+Bainha do processo estilóide
+Parte escamosa do osso temporal
+Borda parietal do osso temporal
+Incisura parietal
+Margem esfenoidal do osso temporal
+Superfície temporal do osso temporal
+Sulco para artéria temporal média
+Processo zigomático do osso temporal
+Crista supramastóidea
+Fóvea suprameatal
+Coluna suprameatal
+Fossa mandibular
+Superfície articular da fossa mandibular
+Tubérculo articular
+Eminência articular
+Superfície cerebral da parte escamosa do osso temporal
+fissura petrotimpânica
+Fissura petroescamosa
+Fissura tímpanoescamosa
+Fissura timpanomastóidea
+
+;;;FR;;;
+
+OS TEMPOREL
+Partie pétreuse de l'os temporal
+Marge occipitale de l'os temporal
+Processus mastoïde
+Antre mastoïdien
+Cellules mastoïdiennes
+Encoche mastoïdienne
+Rainure pour artère occipitale
+Foramen mastoïdien
+Apex de la partie pétreuse
+Canal carotidien
+Ouverture externe du canal carotidien
+Ouverture interne du canal carotidien
+  Canalicules caroticotympaniques
+Canal musculo-tubaire
+Semi-canal du tenseur du tympan
+Semi-canal pour tube auditif
+Septum du canal musculotubaire
+Face antérieure de la partie pétreuse
+Tympan de Tegmen
+Éminence arquée
+Hiatus pour le grand nerf pétreux
+Rainure pour le grand nerf pétreux
+Hiatus du petit nerf pétreux
+Rainure pour le petit nerf pétreux
+Empreinte trijumeau
+Crête pétreuse
+Rainure pour sinus pétreux supérieur
+Face postérieure de la partie pétreuse
+Ouverture acoustique interne
+Méat acoustique interne
+Fosse subarquée
+Canalicule vestibulaire
+Ouverture du canalicule vestibulaire
+Bord postérieur de la partie pétreuse
+Encoche jugulaire de l'os temporal
+Face inférieure de la partie pétreuse
+Fosse jugulaire
+Canalicule cochléaire
+Ouverture du canalicule cochléaire
+Canalicule mastoïdien
+Processus intrajugulaire de l'os temporal
+Processus styloïde de l'os temporal
+Foramen stylomastoïdien
+Canalicule tympanique inférieur
+Fossule pétrolifère
+Cavité tympanique osseuse
+Canal facial
+Géniculum du canal facial
+Canalicule tympanique postérieur
+Canalicule tympanique antérieur
+Labyrinthe osseux
+Partie tympanique de l'os temporal
+Anneau tympanique
+Ouverture acoustique externe osseuse
+Méat acoustique externe osseux
+Grande colonne vertébrale tympanique
+Petite colonne vertébrale tympanique
+Sillon tympanique
+Encoche tympanique
+Gaine du processus styloïde
+Partie squameuse de l'os temporal
+Bord pariétal de l'os temporal
+Encoche pariétale
+Marge sphénoïdale de l'os temporal
+Surface temporale de l'os temporal
+Rainure pour l'artère temporale moyenne
+Processus zygomatique de l'os temporal
+Crête supramastoïdienne
+Fovéa supraméatique
+Rachis sus-méatal
+Fosse mandibulaire
+Surface articulaire de la fosse mandibulaire
+Tubercule articulaire
+Éminence articulaire
+Surface cérébrale de la partie squameuse de l'os temporal
+Fissure pétrotympanique
+Fissure pétrosquameuse
+Fissure tympanosquameuse
+Fissure tympano-mastoïdienne

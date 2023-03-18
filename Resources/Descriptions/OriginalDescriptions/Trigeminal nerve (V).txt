@@ -1,0 +1,379 @@
+
+
+TRIGEMINAL NERVE (V)
+
+
+The trigeminal nerve (the fifth cranial nerve, or simply CN V) is a nerve responsible for sensation in the face and motor functions such as biting and chewing; it is the most complex of the cranial nerves. 
+
+Its name ("trigeminal" = tri-, or three, and - geminus, or twin: thrice-twinned) derives from each of the two nerves (one on each side of the pons) having three major branches: the ophthalmic nerve (V1), the maxillary nerve (V2), and the mandibular nerve (V3). 
+
+The ophthalmic and maxillary nerves are purely sensory, whereas the mandibular nerve supplies motor as well as sensory (or "cutaneous") functions. 
+
+Adding to the complexity of this nerve is that autonomic nerve fibers as well as special sensory fibers (taste) are contained within it.
+
+The motor division of the trigeminal nerve derives from the basal plate of the embryonic pons, and the sensory division originates in the cranial neural crest. 
+
+Sensory information from the face and body is processed by parallel pathways in the central nervous system.
+
+
+== Structure ==
+
+The three major branches of the trigeminal nerve—the ophthalmic nerve (V1), the maxillary nerve (V2) and the mandibular nerve (V3)—converge on the trigeminal ganglion (also called the semilunar ganglion or gasserian ganglion), located within Meckel's cave and containing the cell bodies of incoming sensory-nerve fibers. 
+
+The trigeminal ganglion is analogous to the dorsal root ganglia of the spinal cord, which contain the cell bodies of incoming sensory fibers from the rest of the body.
+From the trigeminal ganglion, a single, large sensory root (portio major) enters the brainstem at the level of the pons. 
+
+Immediately adjacent to the sensory root, a smaller motor root (portio minor) emerges from the pons at the same level. 
+
+Motor fibers pass through the trigeminal ganglion without synapsing on their way to peripheral muscles, but their cell bodies are located in the nucleus of the fifth nerve, deep within the pons. 
+
+The areas of cutaneous distribution (dermatomes) of the three sensory branches of the trigeminal nerve have sharp borders with relatively little overlap (unlike dermatomes in the rest of the body, which have considerable overlap). 
+
+The injection of a local anesthetic, such as lidocaine, results in the complete loss of sensation from well-defined areas of the face and mouth. 
+
+For example, teeth on one side of the jaw can be numbed by injecting the mandibular nerve. 
+
+Occasionally, injury or disease processes may affect two (or all three) branches of the trigeminal nerve; in these cases, the involved branches may be termed:
+
+V1/V2 distribution – Referring to the ophthalmic and maxillary branches
+V2/V3 distribution – Referring to the maxillary and mandibular branches
+V1-V3 distribution – Referring to all three branchesNerves on the left side of the jaw slightly outnumber the nerves on the right side of the jaw.
+
+
+=== Sensory branches ===
+
+
+The ophthalmic, maxillary and mandibular branches leave the skull through three separate foramina: the superior orbital fissure, the foramen rotundum and the foramen ovale, respectively. 
+
+The ophthalmic nerve (V1) carries sensory information from the scalp and forehead, the upper eyelid, the conjunctiva and cornea of the eye, the nose (including the tip of the nose, except alae nasi), the nasal mucosa, the frontal sinuses and parts of the meninges (the dura and blood vessels). 
+
+The maxillary nerve (V2) carries sensory information from the lower eyelid and cheek, the nares and upper lip, the upper teeth and gums, the nasal mucosa, the palate and roof of the pharynx, the maxillary, ethmoid and sphenoid sinuses and parts of the meninges. 
+
+The mandibular nerve (V3) carries sensory information from the lower lip, the lower teeth and gums, the chin and jaw (except the angle of the jaw, which is supplied by C2-C3), parts of the external ear and parts of the meninges. 
+
+The mandibular nerve carries touch-position and pain-temperature sensations from the mouth. 
+
+Although it does not carry taste sensation (the chorda tympani is responsible for taste), one of its branches—the lingual nerve—carries sensation from the tongue.
+
+The peripheral processes of mesencephalic nucleus of V neurons run in the motor root of the trigeminal nerve and terminate in the muscle spindles in the muscles of mastication. 
+
+They are proprioceptive fibers, conveying information regarding the location of the masticatory muscles. 
+
+The central processes of mesencephalic V neurons synapse in the motor nucleus V.
+
+
+== Function ==
+
+The sensory function of the trigeminal nerve is to provide tactile, proprioceptive, and nociceptive afference to the face and mouth. 
+
+Its motor function activates the muscles of mastication, the tensor tympani, tensor veli palatini, mylohyoid and the anterior belly of the digastric.
+
+The trigeminal nerve carries general somatic afferent fibers (GSA), which innervate the skin of the face via ophthalmic (V1), maxillary (V2) and mandibular (V3) divisions. 
+
+The trigeminal nerve also carries special visceral efferent (SVE) axons, which innervate the muscles of mastication via the mandibular (V3) division.
+
+
+=== Muscles ===
+
+The motor component of the mandibular division (V3) of the trigeminal nerve controls the movement of eight muscles, including the four muscles of mastication: the masseter, the temporal muscle, and the medial and lateral pterygoids. 
+
+The other four muscles are the tensor veli palatini, the mylohyoid, the anterior belly of the digastric and the tensor tympani. 
+
+A useful mnemonic for remembering these muscles is "My Tensors Dig Ants 4 MoM" (Mylohyoid—Tensor Tympani + Tensor Veli Palatini—Digastric (Anterior) – 4 Muscles of Mastication (Temporalis, Masseter, Medial and Lateral Pterygoids))
+With the exception of the tensor tympani, all these muscles are involved in biting, chewing and swallowing and all have bilateral cortical representation. 
+
+A unilateral central lesion (for example, a stroke), no matter how large, is unlikely to produce an observable deficit. 
+
+Injury to a peripheral nerve can cause paralysis of muscles on one side of the jaw, with the jaw deviating towards the paralyzed side when it opens. 
+
+This direction of the mandible is due to the action of the functioning pterygoids on the opposite side.
+
+
+=== Sensation ===
+
+
+The two basic types of sensation are touch-position and pain-temperature. 
+
+Touch-position input comes to attention immediately, but pain-temperature input reaches the level of consciousness after a delay; when a person steps on a pin, the awareness of stepping on something is immediate but the pain associated with it is delayed.
+
+Touch-position information is generally carried by myelinated (fast-conducting) nerve fibers, and pain-temperature information by unmyelinated (slow-conducting) fibers. 
+
+The primary sensory receptors for touch-position (Meissner’s corpuscles, Merkel's receptors, Pacinian corpuscles, Ruffini’s corpuscles, hair receptors, muscle spindle organs and Golgi tendon organs) are structurally more complex than those for pain-temperature, which are nerve endings.
+
+Sensation in this context refers to the conscious perception of touch-position and pain-temperature information, rather than the special senses (smell, sight, taste, hearing and balance) processed by different cranial nerves and sent to the cerebral cortex through different pathways. 
+
+The perception of magnetic fields, electrical fields, low-frequency vibrations and infrared radiation by some nonhuman vertebrates is processed by their equivalent of the fifth cranial nerve.
+
+Touch in this context refers to the perception of detailed, localized tactile information, such as two-point discrimination (the difference between touching one point and two closely spaced points) or the difference between coarse, medium or fine sandpaper. 
+
+People without touch-position perception can feel the surface of their bodies and perceive touch in a broad sense, but they lack perceptual detail.
+Position, in this context, refers to conscious proprioception. 
+
+Proprioceptors (muscle spindle and Golgi tendon organs) provide information about joint position and muscle movement. 
+
+Although much of this information is processed at an unconscious level (primarily by the cerebellum and the vestibular nuclei), some is available at a conscious level.
+Touch-position and pain-temperature sensations are processed by different pathways in the central nervous system. 
+
+This hard-wired distinction is maintained up to the cerebral cortex. 
+
+Within the cerebral cortex, sensations are linked with other cortical areas.
+
+
+=== Sensory pathways ===
+
+Sensory pathways from the periphery to the cortex are separate for touch-position and pain-temperature sensations. 
+
+All sensory information is sent to specific nuclei in the thalamus. 
+
+Thalamic nuclei, in turn, send information to specific areas in the cerebral cortex. 
+
+Each pathway consists of three bundles of nerve fibers connected in series:
+
+The secondary neurons in each pathway decussate (cross the spinal cord or brainstem), because the spinal cord develops in segments. 
+
+Decussated fibers later reach and connect these segments with the higher centers. 
+
+The optic chiasm is the primary cause of decussation; nasal fibers of the optic nerve cross (so each cerebral hemisphere receives contralateral—opposite—vision) to keep the interneuronal connections responsible for processing information short. 
+
+All sensory and motor pathways converge and diverge to the contralateral hemisphere.Although sensory pathways are often depicted as chains of individual neurons connected in series, this is an oversimplification. 
+
+Sensory information is processed and modified at each level in the chain by interneurons and input from other areas of the nervous system. 
+
+For example, cells in the main trigeminal nucleus (Main V in the diagram below) receive input from the reticular formation and cerebral cortex. 
+
+This information contributes to the final output of the cells in Main V to the thalamus.
+
+Touch-position information from the body is carried to the thalamus by the medial lemniscus, and from the face by the trigeminal lemniscus (both the anterior and posterior trigeminothalamic tracts). 
+
+Pain-temperature information from the body is carried to the thalamus by the spinothalamic tract, and from the face by the anterior division of the trigeminal lemniscus (also called the anterior trigeminothalamic tract).
+
+Pathways for touch-position and pain-temperature sensations from the face and body merge in the brainstem, and touch-position and pain-temperature sensory maps of the entire body are projected onto the thalamus. 
+
+From the thalamus, touch-position and pain-temperature information is projected onto the cerebral cortex.
+
+
+=== Summary ===
+
+The complex processing of pain-temperature information in the thalamus and cerebral cortex (as opposed to the relatively simple, straightforward processing of touch-position information) reflects a phylogenetically older, more primitive sensory system. 
+
+The detailed information received from peripheral touch-position receptors is superimposed on a background of awareness, memory and emotions partially set by peripheral pain-temperature receptors.
+
+Although thresholds for touch-position perception are relatively easy to measure, those for pain-temperature perception are difficult to define and measure. 
+
+"Touch" is an objective sensation, but "pain" is an individualized sensation which varies among different people and is conditioned by memory and emotion. 
+
+Anatomical differences between the pathways for touch-position perception and pain-temperature sensation help explain why pain, especially chronic pain, is difficult to manage.
+
+
+== Trigeminal nucleus ==
+
+
+All sensory information from the face, both touch-position and pain-temperature, is sent to the trigeminal nucleus. 
+
+In classical anatomy most sensory information from the face is carried by the fifth nerve, but sensation from parts of the mouth, parts of the ear and parts of the meninges is carried by general somatic afferent fibers in cranial nerves VII (the facial nerve), IX (the glossopharyngeal nerve) and X (the vagus nerve).
+
+All sensory fibers from these nerves terminate in the trigeminal nucleus. 
+
+On entering the brainstem, sensory fibers from V, VII, IX and X are sorted and sent to the trigeminal nucleus (which contains a sensory map of the face and mouth). 
+
+The spinal counterparts of the trigeminal nucleus (cells in the dorsal horn and dorsal column nuclei of the spinal cord) contain a sensory map of the rest of the body.
+
+The trigeminal nucleus extends throughout the brainstem, from the midbrain to the medulla, continuing into the cervical cord (where it merges with the dorsal horn cells of the spinal cord). 
+
+The nucleus is divided into three parts, visible in microscopic sections of the brainstem. 
+
+From caudal to rostral (ascending from the medulla to the midbrain), they are the spinal trigeminal, the principal sensory and the mesencephalic nuclei. 
+
+The parts of the trigeminal nucleus receive different types of sensory information; the spinal trigeminal nucleus receives pain-temperature fibers, the principal sensory nucleus receives touch-position fibers and the mesencephalic nucleus receives proprioceptor and mechanoreceptor fibers from the jaws and teeth.
+
+
+=== Spinal trigeminal nucleus ===
+
+The spinal trigeminal nucleus represents pain-temperature sensation from the face. 
+
+Pain-temperature fibers from peripheral nociceptors are carried in cranial nerves V, VII, IX and X. 
+
+On entering the brainstem, sensory fibers are grouped and sent to the spinal trigeminal nucleus. 
+
+This bundle of incoming fibers can be identified in cross-sections of the pons and medulla as the spinal tract of the trigeminal nucleus, which parallels the spinal trigeminal nucleus. 
+
+The spinal tract of V is analogous to, and continuous with, Lissauer's tract in the spinal cord.
+The spinal trigeminal nucleus contains a pain-temperature sensory map of the face and mouth. 
+
+From the spinal trigeminal nucleus, secondary fibers cross the midline and ascend in the trigeminothalamic (quintothalamic) tract to the contralateral thalamus. 
+
+Pain-temperature fibers are sent to multiple thalamic nuclei. 
+
+The central processing of pain-temperature information differs from the processing of touch-position information.
+
+
+==== Somatotopic representation ====
+
+Exactly how pain-temperature fibers from the face are distributed to the spinal trigeminal nucleus is disputed. 
+
+The present general understanding is that pain-temperature information from all areas of the human body is represented in the spinal cord and brainstem in an ascending, caudal-to-rostral fashion. 
+
+Information from the lower extremities is represented in the lumbar cord, and that from the upper extremities in the thoracic cord. 
+
+Information from the neck and the back of the head is represented in the cervical cord, and that from the face and mouth in the spinal trigeminal nucleus.
+Within the spinal trigeminal nucleus, information is represented in a layered, or "onion-skin" fashion. 
+
+The lowest levels of the nucleus (in the upper cervical cord and lower medulla) represent peripheral areas of the face (the scalp, ears and chin). 
+
+Higher levels (in the upper medulla) represent central areas (nose, cheeks and lips). 
+
+The highest levels (in the pons) represent the mouth, teeth and pharyngeal cavity. 
+The onion skin distribution differs from the dermatome distribution of the peripheral branches of the fifth nerve. 
+
+Lesions which destroy lower areas of the spinal trigeminal nucleus (but spare higher areas) preserve pain-temperature sensation in the nose (V1), upper lip (V2) and mouth (V3) and remove pain-temperature sensation from the forehead (V1), cheeks (V2) and chin (V3). 
+
+Although analgesia in this distribution is "nonphysiologic" in the traditional sense (because it crosses several dermatomes), this analgesia is found in humans after surgical sectioning of the spinal tract of the trigeminal nucleus.
+The spinal trigeminal nucleus sends pain-temperature information to the thalamus and sends information to the mesencephalon and the reticular formation of the brainstem. 
+
+The latter pathways are analogous to the spinomesencephalic and spinoreticular tracts of the spinal cord, which send pain-temperature information from the rest of the body to the same areas. 
+
+The mesencephalon modulates painful input before it reaches the level of consciousness. 
+
+The reticular formation is responsible for the automatic (unconscious) orientation of the body to painful stimuli. 
+
+Incidentally, Sulfur-containing compounds found in plants in the onion family stimulate receptors found in trigeminal ganglia, bypassing the olfactory system.
+
+
+=== Principal nucleus ===
+
+The principal nucleus represents touch-pressure sensation from the face. 
+
+It is located in the pons, near the entrance for the fifth nerve. 
+
+Fibers carrying touch-position information from the face and mouth via cranial nerves V, VII, IX, and X are sent to this nucleus when they enter the brainstem.
+
+The principal nucleus contains a touch-position sensory map of the face and mouth, just as the spinal trigeminal nucleus contains a complete pain-temperature map. 
+
+This nucleus is analogous to the dorsal column nuclei (the gracile and cuneate nuclei) of the spinal cord, which contain a touch-position map of the rest of the body.
+
+From the principal nucleus, secondary fibers cross the midline and ascend in the ventral trigeminothalamic tract to the contralateral thalamus. 
+
+The ventral trigeminothalamic tract runs parallel to the medial lemniscus, which carries touch-position information from the rest of the body to the thalamus.
+
+Some sensory information from the teeth and jaws is sent from the principal nucleus to the ipsilateral thalamus via the small dorsal trigeminal tract. 
+
+Touch-position information from the teeth and jaws of one side of the face is represented bilaterally in the thalamus and cortex.
+
+
+=== Mesencephalic nucleus ===
+
+The mesencephalic nucleus is not a true nucleus; it is a sensory ganglion (like the trigeminal ganglion) embedded in the brainstem and the sole exception to the rule that sensory information passes through peripheral sensory ganglia before entering the central nervous system. 
+
+It has been found in all vertebrates except lampreys and hagfishes. 
+
+They are the only vertebrates without jaws and have specific cells in their brainstems. 
+
+These "internal ganglion" cells were discovered in the late 19th century by medical student Sigmund Freud.
+
+Two types of sensory fibers have cell bodies in the mesencephalic nucleus: proprioceptor fibers from the jaw and mechanoreceptor fibers from the teeth. 
+
+Some of these incoming fibers go to the motor nucleus of the trigeminal nerve (V), bypassing the pathways for conscious perception. 
+
+The jaw jerk reflex is an example; tapping the jaw elicits a reflex closure of the jaw in the same way that tapping the knee elicits a reflex kick of the lower leg. 
+
+Other incoming fibers from the teeth and jaws go to the main nucleus of V. 
+
+This information is projected bilaterally to the thalamus and available for conscious perception.
+Activities such as biting, chewing and swallowing require symmetrical, simultaneous coordination of both sides of the body. 
+
+They are automatic activities, requiring little conscious attention and involving a sensory component (feedback about touch-position) processed at the unconscious level in the mesencephalic nucleus.
+
+
+=== Pathways to the thalamus and cortex ===
+
+Sensation has been defined as the conscious perception of touch-position and pain-temperature information. 
+
+With the exception of smell, all sensory input (touch-position, pain-temperature, sight, taste, hearing and balance) is sent to the thalamus and then the cortex. 
+
+The thalamus is anatomically subdivided into nuclei.
+
+
+=== Touch-position sensation ===
+
+
+Touch-position information from the body is sent to the ventral posterolateral nucleus (VPL) of the thalamus. 
+
+Touch-position information from the face is sent to the ventral posteromedial nucleus (VPM) of the thalamus. 
+
+From the VPL and VPM, information is projected to the primary somatosensory cortex (SI) in the parietal lobe.
+
+The representation of sensory information in the postcentral gyrus is organized somatotopically. 
+
+Adjacent areas of the body are represented by adjacent areas in the cortex. 
+
+When body parts are drawn in proportion to the density of their innervation, the result is a "little man": the cortical homunculus.
+
+Many textbooks have reproduced the outdated Penfield-Rasmussen diagram [ref?], with the toes and genitals on the mesial surface of the cortex when they are actually represented on the convexity. 
+
+The classic diagram implies a single primary sensory map of the body, when there are multiple primary maps. 
+
+At least four separate, anatomically distinct sensory homunculi have been identified in the postcentral gyrus. 
+
+They represent combinations of input from surface and deep receptors and rapidly and slowly adapting peripheral receptors; smooth objects will activate certain cells, and rough objects will activate other cells.
+
+Information from all four maps in SI is sent to the secondary sensory cortex (SII) in the parietal lobe. 
+
+SII contains two more sensory homunculi. 
+
+Information from one side of the body is generally represented on the opposite side in SI, but on both sides in SII. 
+
+Functional MRI imaging of a defined stimulus (for example, stroking the skin with a toothbrush) "lights up" a single focus in SI and two foci in SII.
+
+
+=== Pain-temperature sensation ===
+
+Pain-temperature information is sent to the VPL (body) and VPM (face) of the thalamus (the same nuclei which receive touch-position information). 
+
+From the thalamus, pain-temperature and touch-position information is projected onto SI.
+
+Unlike touch-position information, however, pain-temperature information is also sent to other thalamic nuclei and projected onto additional areas of the cerebral cortex. 
+
+Some pain-temperature fibers are sent to the medial dorsal thalamic nucleus (MD), which projects to the anterior cingulate cortex. 
+
+Other fibers are sent to the ventromedial (VM) nucleus of the thalamus, which projects to the insular cortex. 
+
+Finally, some fibers are sent to the intralaminar nucleus (IL) of the thalamus via the reticular formation. 
+
+The IL projects diffusely to all parts of the cerebral cortex.
+The insular and cingulate cortices are parts of the brain which represent touch-position and pain-temperature in the context of other simultaneous perceptions (sight, smell, taste, hearing and balance) in the context of memory and emotional state. 
+
+Peripheral pain-temperature information is channeled directly to the brain at a deep level, without prior processing. 
+
+Touch-position information is handled differently. 
+
+Diffuse thalamic projections from the IL and other thalamic nuclei are responsible for a given level of consciousness, with the thalamus and reticular formation "activating" the brain; peripheral pain-temperature information also feeds directly into this system.
+
+
+== Clinical significance ==
+
+Trigeminal neuralgia
+Cluster headache
+Migraine
+
+
+=== Wallenberg syndrome ===
+
+
+Wallenberg syndrome (lateral medullary syndrome) is a clinical demonstration of the anatomy of the trigeminal nerve, summarizing how it processes sensory information. 
+
+A stroke usually affects only one side of the body; loss of sensation due to a stroke will be lateralized to the right or the left side of the body. 
+
+The only exceptions to this rule are certain spinal-cord lesions and the medullary syndromes, of which Wallenberg syndrome is the best-known example. 
+
+In this syndrome, a stroke causes a loss of pain-temperature sensation from one side of the face and the other side of the body.
+This is explained by the anatomy of the brainstem. 
+
+In the medulla, the ascending spinothalamic tract (which carries pain-temperature information from the opposite side of the body) is adjacent to the ascending spinal tract of the trigeminal nerve (which carries pain-temperature information from the same side of the face). 
+
+A stroke which cuts off the blood supply to this area (for example, a clot in the posterior inferior cerebellar artery) destroys both tracts simultaneously. 
+
+The result is a loss of pain-temperature (but not touch-position) sensation in a "checkerboard" pattern (ipsilateral face, contralateral body), facilitating diagnosis.
+
+
+
+https://en.wikipedia.org/wiki/Trigeminal_nerve

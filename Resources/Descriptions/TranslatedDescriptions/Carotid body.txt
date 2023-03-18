@@ -1,0 +1,496 @@
+
+
+CAROTID BODY
+
+
+The carotid body is a small cluster of chemoreceptor cells, and supporting sustentacular cells. 
+
+The carotid body is located in the adventitia, in the bifurcation (fork) of the common carotid artery, which runs along both sides of the neck.The carotid body detects changes in the composition of arterial blood flowing through it, mainly the partial pressure of arterial oxygen, but also of carbon dioxide. 
+
+It is also sensitive to changes in blood pH, and temperature.
+
+
+== Structure ==
+
+The carotid body is made up of two types of cells, called glomus cells: glomus type I cells are peripheral chemoreceptors, and glomus type II cells are sustentacular supportive cells.
+
+Glomus type I cells are derived from the neural crest. 
+
+They release a variety of neurotransmitters, including acetylcholine, ATP, and dopamine that trigger EPSPs in synapsed neurons leading to the respiratory center. 
+
+They are innervated by axons of the glossopharyngeal nerve which collectively are called the carotid sinus nerve.
+Glomus type II cells resemble glial cells, express the glial marker S100 and act as supporting cells.
+
+
+== Function ==
+
+The carotid body functions as a sensor: it responds to a stimulus, primarily O2 partial pressure, which is detected by the type I (glomus) cells, and triggers an action potential through the afferent fibers of the glossopharyngeal nerve, which relays the information to the central nervous system.
+
+
+=== Stimulus ===
+
+The carotid body peripheral chemoreceptors are primarily sensitive to decreases in the partial pressure of oxygen (PO2). 
+
+This is in contrast to the central chemoreceptors in the medulla oblongata that are primarily sensitive to changes in pH and PCO2 (a decrease in pH and an increase in PCO2). 
+
+The carotid body chemoreceptors are also sensitive to pH and PCO2, but only secondarily. 
+
+More specifically, the sensitivity of carotid body chemoreceptors to decreased PO2 is greater when pH is decreased and PCO2 is increased.
+Impulse rate for carotid bodies is particularly sensitive to changes in arterial PO2 in the range of 60 down to 30 mm Hg, a range in which hemoglobin saturation with oxygen decreases rapidly.The output of the carotid bodies is low at an oxygen partial pressure above about 100mmHg (13,3 kPa) (at normal physiological pH), but below 60mmHg the activity of the type I (glomus) cells increases rapidly due to a decrease in hemoglobin-oxygen saturation below 90%.
+
+
+=== Detection ===
+
+The mechanism for detecting reductions in PO2 has yet to be identified, there may be multiple mechanisms and could vary between species. 
+
+Hypoxia detection has been shown to depend upon increased hydrogen sulfide generation produced by cystathionine gamma-lyase as hypoxia detection is reduced in mice in which this enzyme is knocked out or pharmacologically inhibited. 
+
+The process of detection involves the interaction of cystathionine gamma-lyase with hemeoxygenase-2 and the production of carbon monoxide. 
+
+Yet, some studies show that physiologic concentration of hydrogen sulfide may not be strong enough to trigger such responses.
+Other theories suggest it may involve mitochondrial oxygen sensors and the haem-containing cytochromes that undergo reversible one-electron reduction during oxidative-phosphorylation. 
+
+Haem reversibly binds O2 with an affinity similar to that of the carotid body, suggesting that haem containing proteins may have a role in O2, potentially this could be one of the complexes involved in oxidative-phosphorylation. 
+
+This leads to increases in reactive oxygen species and rises in intracellular Ca2+. 
+
+However, whether hypoxia leads to an increase or decrease in reactive oxygen species is unknown. 
+
+The role of reactive oxygen species in hypoxia sensing is also under question.The oxygen dependent enzyme haem-oxidase has also been put forward as a hypoxia sensor. 
+
+In normoxia, haem-oxygenase generates carbon monoxide (CO), CO activates the large conductance calcium-activated potassium channel, BK. 
+
+Falls in CO that occur as a consequence of hypoxia would lead to closure of this potassium channel and this would lead to membrane depolarisation and consequence activation of the carotid body. 
+
+A role for the "energy sensor" AMP-activated protein kinase (AMPK) has also been proposed in hypoxia sensing. 
+
+This enzyme is activated during times of net energy usage and metabolic stress, including hypoxia. 
+
+AMPK has a number of targets and it appears that, in the carotid body, when AMPK is activated by hypoxia, it leads to downstream potassium channel closure of both O2-sentive TASK-like and BK channelsAn increased PCO2 is detected because the CO2 diffuses into the cell, where it increases the concentration of carbonic acid and thus protons. 
+
+The precise mechanism of CO2 sensing is unknown, however it has been demonstrated that CO2 and low pH inhibit a TASK-like potassium conductance, reducing potassium current. 
+
+This leads to depolarisation of the cell membrane which leads to Ca2+ entry, excitation of glomus cells and consequent neurotransmitter release.Arterial acidosis (either metabolic or from altered PCO2) inhibits acid-base transporters (e.g. 
+
+Na+-H+) which raise intracellular pH, and activates transporters (e.g. 
+
+Cl−-HCO3−) which decrease it. 
+
+Changes in proton concentration caused by acidosis (or the opposite from alkalosis) inside the cell stimulates the same pathways involved in PCO2 sensing.
+Another mechanism is through oxygen sensitive potassium channels. 
+
+A drop in dissolved oxygen lead to closing of these channels which results in depolarization. 
+
+This leads to release of the neurotransmitter dopamine in the glossopharyngeal and vagus afferente to the vasomotor area.
+
+
+=== Action potential ===
+
+The type I (glomus) cells in the carotid (and aortic bodies) are derived from neuroectoderm and are thus electrically excitable. 
+
+A decrease in oxygen partial pressure, an increase in carbon dioxide partial pressure, and a decrease in arterial pH can all cause depolarization of the cell membrane, and they affect this by blocking potassium currents. 
+
+This reduction in the membrane potential opens voltage-gated calcium channels, which causes a rise in intracellular calcium concentration. 
+
+This causes exocytosis of vesicles containing a variety of neurotransmitters, including acetylcholine, noradrenaline, dopamine, adenosine, ATP, substance P, and met-enkephalin. 
+
+These act on receptors on the afferent nerve fibres which lie in apposition to the glomus cell to cause an action potential.
+
+
+=== Relay ===
+
+The feedback from the carotid body is sent to the cardiorespiratory centers in the medulla oblongata via the afferent branches of the glossopharyngeal nerve. 
+
+The efferent fibres of the aortic body chemoreceptors are relayed by the vagus nerve. 
+
+These centers, in turn, regulate breathing and blood pressure, with hypoxia causing an increase in ventilation.
+
+
+== Clinical significance ==
+
+
+
+=== Paraganglioma ===
+
+
+A paraganglioma is a tumor that may involve the carotid body and is usually benign. 
+
+Rarely, a malignant neuroblastoma may originate from the carotid body.
+
+
+
+https://en.wikipedia.org/wiki/Carotid_body
+;;;ES;;;
+
+
+
+CUERPO CARÓTIDO
+
+
+El cuerpo carotídeo es un pequeño grupo de células quimiorreceptoras y células sustentaculares de sostén.
+
+El cuerpo carotídeo se encuentra en la adventicia, en la bifurcación (bifurcación) de la arteria carótida común, que discurre a ambos lados del cuello. El cuerpo carotídeo detecta cambios en la composición de la sangre arterial que circula por él, principalmente la presión parcial de oxígeno arterial, sino también de dióxido de carbono.
+
+También es sensible a los cambios en el pH y la temperatura de la sangre.
+
+
+== Estructura ==
+
+El cuerpo carotídeo está formado por dos tipos de células, denominadas células glómicas: las células glómicas tipo I son quimiorreceptores periféricos y las células glómicas tipo II son células sustentaculares de apoyo.
+
+Las células glómicas tipo I se derivan de la cresta neural.
+
+Liberan una variedad de neurotransmisores, que incluyen acetilcolina, ATP y dopamina, que activan los EPSP en las neuronas en sinapsis que conducen al centro respiratorio.
+
+Están inervados por axones del nervio glosofaríngeo que en conjunto se denominan nervio del seno carotídeo.
+Las células glómicas tipo II se asemejan a las células gliales, expresan el marcador glial S100 y actúan como células de apoyo.
+
+
+== Función ==
+
+El cuerpo carotídeo funciona como un sensor: responde a un estímulo, principalmente la presión parcial de O2, que es detectada por las células tipo I (glomus), y desencadena un potencial de acción a través de las fibras aferentes del nervio glosofaríngeo, que transmite la información a el sistema nervioso central
+
+
+=== Estímulo ===
+
+Los quimiorreceptores periféricos del cuerpo carotídeo son principalmente sensibles a las disminuciones en la presión parcial de oxígeno (PO2).
+
+Esto contrasta con los quimiorreceptores centrales en el bulbo raquídeo que son principalmente sensibles a los cambios en el pH y la PCO2 (una disminución en el pH y un aumento en la PCO2).
+
+Los quimiorreceptores del cuerpo carotídeo también son sensibles al pH y la PCO2, pero solo de forma secundaria.
+
+Más específicamente, la sensibilidad de los quimiorreceptores del cuerpo carotídeo a la PO2 disminuida es mayor cuando el pH disminuye y la PCO2 aumenta.
+La frecuencia de impulso de los cuerpos carotídeos es particularmente sensible a los cambios en la PO2 arterial en el rango de 60 a 30 mm Hg, un rango en el que la saturación de hemoglobina con oxígeno disminuye rápidamente. La producción de los cuerpos carotídeos es baja a una presión parcial de oxígeno superior a 100 mmHg (13,3 kPa) (a pH fisiológico normal), pero por debajo de 60 mmHg la actividad de las células tipo I (glomus) aumenta rápidamente debido a una disminución de la saturación de oxígeno de la hemoglobina por debajo del 90%.
+
+
+=== Detección ===
+
+El mecanismo para detectar reducciones en PO2 aún no se ha identificado, puede haber múltiples mecanismos y podría variar entre especies.
+
+Se ha demostrado que la detección de hipoxia depende del aumento de la generación de sulfuro de hidrógeno producido por la cistationina gamma-liasa, ya que la detección de hipoxia se reduce en ratones en los que esta enzima está desactivada o inhibida farmacológicamente.
+
+El proceso de detección implica la interacción de la cistationina gamma-liasa con la hemeoxigenasa-2 y la producción de monóxido de carbono.
+
+Sin embargo, algunos estudios muestran que la concentración fisiológica de sulfuro de hidrógeno puede no ser lo suficientemente fuerte como para desencadenar tales respuestas.
+Otras teorías sugieren que puede involucrar sensores de oxígeno mitocondriales y los citocromos que contienen hemo que experimentan una reducción reversible de un electrón durante la fosforilación oxidativa.
+
+El hemo se une de forma reversible al O2 con una afinidad similar a la del cuerpo carotídeo, lo que sugiere que las proteínas que contienen hemo pueden tener un papel en el O2, lo que podría ser uno de los complejos involucrados en la fosforilación oxidativa.
+
+Esto conduce a aumentos en las especies reactivas de oxígeno y aumentos en el Ca2+ intracelular.
+
+Sin embargo, se desconoce si la hipoxia conduce a un aumento o disminución de las especies reactivas de oxígeno.
+
+También se cuestiona el papel de las especies reactivas del oxígeno en la detección de la hipoxia. La enzima dependiente del oxígeno, la hemooxidasa, también se ha propuesto como sensor de la hipoxia.
+
+En normoxia, la hemooxigenasa genera monóxido de carbono (CO), el CO activa el canal de potasio activado por calcio de gran conductancia, BK.
+
+Las caídas de CO que se producen como consecuencia de la hipoxia conducirían al cierre de este canal de potasio y esto conduciría a la despolarización de la membrana y consecuentemente a la activación del cuerpo carotídeo.
+
+También se ha propuesto un papel para la proteína quinasa activada por AMP (AMPK) "sensor de energía" en la detección de hipoxia.
+
+Esta enzima se activa durante los momentos de uso neto de energía y estrés metabólico, incluida la hipoxia.
+
+AMPK tiene una serie de objetivos y parece que, en el cuerpo carotídeo, cuando AMPK se activa por hipoxia, conduce al cierre del canal de potasio aguas abajo de los canales BK y TASK sensibles a O2. Se detecta un aumento de PCO2 porque el CO2 se difunde en la célula, donde aumenta la concentración de ácido carbónico y por tanto de protones.
+
+Se desconoce el mecanismo preciso de detección de CO2; sin embargo, se ha demostrado que el CO2 y un pH bajo inhiben una conductancia de potasio similar a TASK, lo que reduce la corriente de potasio.
+
+Esto conduce a la despolarización de la membrana celular que conduce a la entrada de Ca2+, la excitación de las células glómicas y la consiguiente liberación de neurotransmisores. La acidosis arterial (ya sea metabólica o por PCO2 alterada) inhibe los transportadores ácido-base (por
+
+Na+-H+) que elevan el pH intracelular y activan los transportadores (p.
+
+Cl−-HCO3−) que lo disminuyen.
+
+Los cambios en la concentración de protones causados ​​por acidosis (o lo opuesto a la alcalosis) dentro de la célula estimulan las mismas vías involucradas en la detección de PCO2.
+Otro mecanismo es a través de los canales de potasio sensibles al oxígeno.
+
+Una caída en el oxígeno disuelto conduce al cierre de estos canales, lo que resulta en la despolarización.
+
+Esto conduce a la liberación del neurotransmisor dopamina en el glosofaríngeo y vago aferente al área vasomotora.
+
+
+=== Potencial de acción ===
+
+Las células de tipo I (glomus) en la carótida (y los cuerpos aórticos) se derivan del neuroectodermo y, por lo tanto, son eléctricamente excitables.
+
+Una disminución en la presión parcial de oxígeno, un aumento en la presión parcial de dióxido de carbono y una disminución en el pH arterial pueden causar la despolarización de la membrana celular y afectan esto al bloquear las corrientes de potasio.
+
+Esta reducción en el potencial de membrana abre canales de calcio dependientes de voltaje, lo que provoca un aumento en la concentración de calcio intracelular.
+
+Esto provoca la exocitosis de vesículas que contienen una variedad de neurotransmisores, que incluyen acetilcolina, noradrenalina, dopamina, adenosina, ATP, sustancia P y metencefalina.
+
+Éstos actúan sobre los receptores de las fibras nerviosas aferentes que se encuentran en aposición a la célula glómica para provocar un potencial de acción.
+
+
+=== Relé ===
+
+La retroalimentación del cuerpo carotídeo se envía a los centros cardiorrespiratorios del bulbo raquídeo a través de las ramas aferentes del nervio glosofaríngeo.
+
+Las fibras eferentes de los quimiorreceptores del cuerpo aórtico son retransmitidas por el nervio vago.
+
+Estos centros, a su vez, regulan la respiración y la presión arterial, provocando la hipoxia un aumento de la ventilación.
+
+
+== Importancia clínica ==
+
+
+
+=== Paraganglioma ===
+
+
+Un paraganglioma es un tumor que puede afectar al cuerpo carotídeo y suele ser benigno.
+
+En raras ocasiones, un neuroblastoma maligno puede originarse en el cuerpo carotídeo.
+
+
+
+https://en.wikipedia.org/wiki/Carotid_body
+
+;;;PT;;;
+
+
+
+CORPO CARÓTIDO
+
+
+O corpo carotídeo é um pequeno aglomerado de células quimiorreceptoras e células sustentaculares de suporte.
+
+O corpo carotídeo localiza-se na adventícia, na bifurcação (forquilha) da artéria carótida comum, que percorre os dois lados do pescoço. oxigênio arterial, mas também de dióxido de carbono.
+
+Também é sensível a mudanças no pH do sangue e temperatura.
+
+
+== Estrutura ==
+
+O corpo carotídeo é formado por dois tipos de células, chamadas células glômicas: as células glômicas tipo I são quimiorreceptores periféricos e as células glômicas tipo II são células de suporte sustentaculares.
+
+As células glômicas do tipo I são derivadas da crista neural.
+
+Eles liberam uma variedade de neurotransmissores, incluindo acetilcolina, ATP e dopamina que desencadeiam EPSPs em neurônios sinapsados ​​que levam ao centro respiratório.
+
+Eles são inervados por axônios do nervo glossofaríngeo que coletivamente são chamados de nervo do seio carotídeo.
+As células glômicas tipo II se assemelham às células gliais, expressam o marcador glial S100 e atuam como células de suporte.
+
+
+== Função ==
+
+O corpo carotídeo funciona como um sensor: responde a um estímulo, principalmente a pressão parcial de O2, que é detectada pelas células tipo I (glômicas), e desencadeia um potencial de ação através das fibras aferentes do nervo glossofaríngeo, que retransmite a informação para o sistema nervoso central.
+
+
+=== Estímulo ===
+
+Os quimiorreceptores periféricos do corpo carotídeo são primariamente sensíveis à diminuição da pressão parcial de oxigênio (PO2).
+
+Isso contrasta com os quimiorreceptores centrais na medula oblonga que são primariamente sensíveis a mudanças no pH e na PCO2 (uma diminuição no pH e um aumento na PCO2).
+
+Os quimiorreceptores do corpo carotídeo também são sensíveis ao pH e à PCO2, mas apenas secundariamente.
+
+Mais especificamente, a sensibilidade dos quimiorreceptores do corpo carotídeo à diminuição da PO2 é maior quando o pH diminui e a PCO2 aumenta.
+A taxa de impulso para os corpos carotídeos é particularmente sensível a mudanças na PO2 arterial na faixa de 60 a 30 mmHg, uma faixa na qual a saturação da hemoglobina com oxigênio diminui rapidamente. 100mmHg (13,3 kPa) (em pH fisiológico normal), mas abaixo de 60mmHg a atividade das células tipo I (glômicas) aumenta rapidamente devido a uma diminuição na saturação de hemoglobina-oxigênio abaixo de 90%.
+
+
+=== Detecção ===
+
+O mecanismo para detectar reduções na PO2 ainda não foi identificado, pode haver vários mecanismos e pode variar entre as espécies.
+
+Demonstrou-se que a detecção de hipóxia depende do aumento da geração de sulfeto de hidrogênio produzido pela cistationina gama-liase, uma vez que a detecção de hipóxia é reduzida em camundongos nos quais esta enzima é eliminada ou inibida farmacologicamente.
+
+O processo de detecção envolve a interação da cistationina gama-liase com a hemeoxigenase-2 e a produção de monóxido de carbono.
+
+No entanto, alguns estudos mostram que a concentração fisiológica de sulfeto de hidrogênio pode não ser forte o suficiente para desencadear tais respostas.
+Outras teorias sugerem que pode envolver sensores de oxigênio mitocondriais e os citocromos contendo heme que sofrem redução reversível de um elétron durante a fosforilação oxidativa.
+
+O heme liga-se reversivelmente ao O2 com afinidade semelhante à do corpo carotídeo, sugerindo que as proteínas contendo heme podem ter um papel no O2, potencialmente este poderia ser um dos complexos envolvidos na fosforilação oxidativa.
+
+Isso leva a aumentos nas espécies reativas de oxigênio e aumentos no Ca2+ intracelular.
+
+No entanto, não se sabe se a hipóxia leva a um aumento ou diminuição das espécies reativas de oxigênio.
+
+O papel das espécies reativas de oxigênio na detecção de hipóxia também está em questão. A enzima hem-oxidase dependente de oxigênio também foi apresentada como um sensor de hipóxia.
+
+Na normóxia, a hem-oxigenase gera monóxido de carbono (CO), CO ativa o canal de potássio ativado por cálcio de grande condutância, BK.
+
+As quedas de CO que ocorrem como consequência da hipóxia levariam ao fechamento desse canal de potássio e isso levaria à despolarização da membrana e consequente ativação do corpo carotídeo.
+
+Um papel para a proteína quinase ativada por AMP "sensor de energia" (AMPK) também foi proposto na detecção de hipóxia.
+
+Essa enzima é ativada durante períodos de uso de energia líquida e estresse metabólico, incluindo hipóxia.
+
+A AMPK tem vários alvos e parece que, no corpo carotídeo, quando a AMPK é ativada por hipóxia, leva ao fechamento dos canais de potássio a jusante dos canais TASK e BK sensíveis ao O2. da célula, onde aumenta a concentração de ácido carbônico e, portanto, de prótons.
+
+O mecanismo preciso da detecção de CO2 é desconhecido, no entanto, foi demonstrado que CO2 e pH baixo inibem uma condutância de potássio semelhante a TASK, reduzindo a corrente de potássio.
+
+Isso leva à despolarização da membrana celular que leva à entrada de Ca2+, excitação das células glômicas e consequente liberação de neurotransmissores. A acidose arterial (metabólica ou de PCO2 alterada) inibe os transportadores ácido-base (p.
+
+Na+-H+) que aumentam o pH intracelular e ativam transportadores (p.
+
+Cl−-HCO3−) que a diminuem.
+
+Mudanças na concentração de prótons causadas pela acidose (ou o oposto da alcalose) dentro da célula estimulam as mesmas vias envolvidas na detecção de PCO2.
+Outro mecanismo é através dos canais de potássio sensíveis ao oxigênio.
+
+Uma queda no oxigênio dissolvido leva ao fechamento desses canais, o que resulta em despolarização.
+
+Isso leva à liberação do neurotransmissor dopamina no glossofaríngeo e vago aferente para a área vasomotora.
+
+
+=== Potencial de ação ===
+
+As células do tipo I (glômicas) na carótida (e nos corpos aórticos) são derivadas do neuroectoderma e, portanto, são eletricamente excitáveis.
+
+Uma diminuição na pressão parcial de oxigênio, um aumento na pressão parcial de dióxido de carbono e uma diminuição no pH arterial podem causar despolarização da membrana celular, e afetam isso bloqueando as correntes de potássio.
+
+Essa redução no potencial de membrana abre canais de cálcio dependentes de voltagem, o que causa um aumento na concentração de cálcio intracelular.
+
+Isso causa exocitose de vesículas contendo uma variedade de neurotransmissores, incluindo acetilcolina, noradrenalina, dopamina, adenosina, ATP, substância P e metencefalina.
+
+Estes atuam em receptores nas fibras nervosas aferentes que se apõem à célula glômica para causar um potencial de ação.
+
+
+=== Relé ===
+
+O feedback do corpo carotídeo é enviado para os centros cardiorrespiratórios na medula oblonga através dos ramos aferentes do nervo glossofaríngeo.
+
+As fibras eferentes dos quimiorreceptores do corpo aórtico são retransmitidas pelo nervo vago.
+
+Esses centros, por sua vez, regulam a respiração e a pressão arterial, com a hipóxia causando aumento da ventilação.
+
+
+== Significado clínico ==
+
+
+
+=== Paraganglioma ===
+
+
+Um paraganglioma é um tumor que pode envolver o corpo carotídeo e geralmente é benigno.
+
+Raramente, um neuroblastoma maligno pode se originar do corpo carotídeo.
+
+
+
+https://en.wikipedia.org/wiki/Carotid_body
+
+;;;FR;;;
+
+
+
+CORPS CAROTIDE
+
+
+Le corps carotidien est un petit groupe de cellules chimioréceptrices et de cellules sustentaculaires de soutien.
+
+Le corps carotidien est situé dans l'adventice, dans la bifurcation (fourche) de l'artère carotide commune, qui longe les deux côtés du cou. Le corps carotidien détecte les changements dans la composition du sang artériel qui le traverse, principalement la pression partielle de d'oxygène artériel, mais aussi de gaz carbonique.
+
+Il est également sensible aux variations du pH sanguin et de la température.
+
+
+== Structure ==
+
+Le corps carotidien est composé de deux types de cellules, appelées cellules glomiques : les cellules glomiques de type I sont des chimiorécepteurs périphériques et les cellules glomiques de type II sont des cellules de soutien sustentaculaires.
+
+Les cellules glomus de type I sont dérivées de la crête neurale.
+
+Ils libèrent une variété de neurotransmetteurs, y compris l'acétylcholine, l'ATP et la dopamine qui déclenchent les EPSP dans les neurones synapses menant au centre respiratoire.
+
+Ils sont innervés par les axones du nerf glossopharyngé qui sont collectivement appelés le nerf du sinus carotidien.
+Les cellules glomus de type II ressemblent aux cellules gliales, expriment le marqueur glial S100 et agissent comme des cellules de soutien.
+
+
+== Fonction ==
+
+Le corps carotidien fonctionne comme un capteur : il répond à un stimulus, principalement la pression partielle d'O2, qui est détecté par les cellules de type I (glomus), et déclenche un potentiel d'action à travers les fibres afférentes du nerf glossopharyngé, qui relaie l'information à le système nerveux central.
+
+
+=== Stimulation ===
+
+Les chémorécepteurs périphériques du corps carotidien sont principalement sensibles aux diminutions de la pression partielle d'oxygène (PO2).
+
+Cela contraste avec les chimiorécepteurs centraux de la moelle allongée qui sont principalement sensibles aux changements de pH et de PCO2 (une diminution du pH et une augmentation de la PCO2).
+
+Les chémorécepteurs du corps carotidien sont également sensibles au pH et à la PCO2, mais secondairement seulement.
+
+Plus précisément, la sensibilité des chémorécepteurs du corps carotidien à la diminution de la PO2 est plus grande lorsque le pH est diminué et que la PCO2 est augmentée.
+Le taux d'impulsion des corps carotidiens est particulièrement sensible aux variations de la PO2 artérielle dans la plage de 60 à 30 mm Hg, une plage dans laquelle la saturation en hémoglobine en oxygène diminue rapidement. Le débit des corps carotidiens est faible à une pression partielle d'oxygène supérieure à environ 100 mmHg (13,3 kPa) (à pH physiologique normal), mais en dessous de 60 mmHg, l'activité des cellules de type I (glomus) augmente rapidement en raison d'une diminution de la saturation hémoglobine-oxygène en dessous de 90 %.
+
+
+=== Détection ===
+
+Le mécanisme de détection des réductions de PO2 n'a pas encore été identifié, il peut y avoir plusieurs mécanismes et peut varier d'une espèce à l'autre.
+
+Il a été démontré que la détection de l'hypoxie dépend de la génération accrue de sulfure d'hydrogène produite par la cystathionine gamma-lyase, car la détection de l'hypoxie est réduite chez les souris chez lesquelles cette enzyme est désactivée ou pharmacologiquement inhibée.
+
+Le processus de détection implique l'interaction de la cystathionine gamma-lyase avec l'héméoxygénase-2 et la production de monoxyde de carbone.
+
+Pourtant, certaines études montrent que la concentration physiologique de sulfure d'hydrogène peut ne pas être assez forte pour déclencher de telles réponses.
+D'autres théories suggèrent qu'il pourrait impliquer des capteurs d'oxygène mitochondriaux et les cytochromes contenant de l'hème qui subissent une réduction réversible à un électron pendant la phosphorylation oxydative.
+
+L'hème se lie de manière réversible à l'O2 avec une affinité similaire à celle du corps carotidien, ce qui suggère que les protéines contenant de l'hème peuvent avoir un rôle dans l'O2, potentiellement cela pourrait être l'un des complexes impliqués dans la phosphorylation oxydative.
+
+Cela conduit à une augmentation des espèces réactives de l'oxygène et à une augmentation du Ca2+ intracellulaire.
+
+Cependant, on ne sait pas si l'hypoxie entraîne une augmentation ou une diminution des espèces réactives de l'oxygène.
+
+Le rôle des espèces réactives de l'oxygène dans la détection de l'hypoxie est également remis en question. L'hém-oxydase, une enzyme dépendante de l'oxygène, a également été proposée comme capteur d'hypoxie.
+
+En normoxie, l'hème-oxygénase génère du monoxyde de carbone (CO), CO active le canal potassique activé par le calcium à grande conductance, BK.
+
+Les chutes de CO qui se produisent à la suite d'une hypoxie entraîneraient la fermeture de ce canal potassique, ce qui entraînerait une dépolarisation membranaire et une activation du corps carotidien.
+
+Un rôle pour le "capteur d'énergie" protéine kinase activée par l'AMP (AMPK) a également été proposé dans la détection de l'hypoxie.
+
+Cette enzyme est activée pendant les périodes d'utilisation nette d'énergie et de stress métabolique, y compris l'hypoxie.
+
+L'AMPK a un certain nombre de cibles et il semble que, dans le corps carotidien, lorsque l'AMPK est activée par l'hypoxie, elle entraîne la fermeture du canal potassique en aval des canaux de type TASK et BK sensibles à l'O2. Une augmentation de la PCO2 est détectée car le CO2 se diffuse dans la cellule, où il augmente la concentration d'acide carbonique et donc de protons.
+
+Le mécanisme précis de la détection du CO2 est inconnu, mais il a été démontré que le CO2 et un pH bas inhibent une conductance potassique de type TASK, réduisant le courant potassique.
+
+Cela conduit à la dépolarisation de la membrane cellulaire qui conduit à l'entrée de Ca2+, à l'excitation des cellules glomiques et à la libération consécutive de neurotransmetteurs.
+
+Na+-H+) qui augmentent le pH intracellulaire et activent les transporteurs (ex.
+
+Cl−-HCO3−) qui la diminuent.
+
+Les changements de concentration de protons causés par l'acidose (ou l'inverse de l'alcalose) à l'intérieur de la cellule stimulent les mêmes voies impliquées dans la détection de la PCO2.
+Un autre mécanisme passe par les canaux potassiques sensibles à l'oxygène.
+
+Une baisse de l'oxygène dissous conduit à la fermeture de ces canaux qui se traduit par une dépolarisation.
+
+Cela conduit à la libération du neurotransmetteur dopamine dans le glossopharynx et le vagus afférent à la zone vasomotrice.
+
+
+=== Potentiel d'action ===
+
+Les cellules de type I (glomus) de la carotide (et des corps aortiques) sont dérivées du neuroectoderme et sont donc électriquement excitables.
+
+Une diminution de la pression partielle d'oxygène, une augmentation de la pression partielle de dioxyde de carbone et une diminution du pH artériel peuvent toutes provoquer une dépolarisation de la membrane cellulaire, et elles affectent cela en bloquant les courants de potassium.
+
+Cette réduction du potentiel membranaire ouvre les canaux calciques voltage-dépendants, ce qui provoque une augmentation de la concentration intracellulaire de calcium.
+
+Cela provoque l'exocytose des vésicules contenant une variété de neurotransmetteurs, notamment l'acétylcholine, la noradrénaline, la dopamine, l'adénosine, l'ATP, la substance P et la met-enképhaline.
+
+Ceux-ci agissent sur les récepteurs des fibres nerveuses afférentes qui se trouvent en apposition de la cellule glomique pour provoquer un potentiel d'action.
+
+
+=== Relais ===
+
+La rétroaction du corps carotidien est envoyée aux centres cardiorespiratoires du bulbe rachidien via les branches afférentes du nerf glossopharyngien.
+
+Les fibres efférentes des chémorécepteurs du corps aortique sont relayées par le nerf vague.
+
+Ces centres, à leur tour, régulent la respiration et la pression artérielle, l'hypoxie provoquant une augmentation de la ventilation.
+
+
+== Signification clinique ==
+
+
+
+=== Paragangliome ===
+
+
+Un paragangliome est une tumeur qui peut impliquer le corps carotidien et qui est généralement bénigne.
+
+Rarement, un neuroblastome malin peut provenir du corps carotidien.
+
+
+
+https://en.wikipedia.org/wiki/Carotid_body

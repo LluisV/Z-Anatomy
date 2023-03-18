@@ -1,0 +1,831 @@
+
+
+SKELETAL MUSCLE
+
+
+Skeletal muscles (commonly referred to as muscles) are organs of the vertebrate muscular system that are mostly attached by tendons to bones of the skeleton. 
+
+The muscle cells of skeletal muscles are much longer than in the other types of muscle tissue, and are often known as muscle fibers. 
+
+The muscle tissue of a skeletal muscle is striated – having a striped appearance due to the arrangement of the sarcomeres.
+
+Skeletal muscles are voluntary muscles under the control of the somatic nervous system. 
+
+The other types of muscle are cardiac muscle which is also striated and smooth muscle which is non-striated; both of these types of muscle tissue are classified as involuntary, or, under the control of the autonomic nervous system.
+
+A skeletal muscle contains multiple fascicles – bundles of muscle fibers. 
+
+Each individual fiber, and each muscle is surrounded by a type of connective tissue layer of fascia. 
+
+Muscle fibers are formed from the fusion of developmental myoblasts in a process known as myogenesis resulting in long multinucleated cells. 
+
+In these cells the nuclei termed myonuclei are located along the inside of the cell membrane. 
+
+Muscle fibers also have multiple mitochondria to meet energy needs.
+Muscle fibers are in turn composed of myofibrils. 
+
+The myofibrils are composed of actin and myosin filaments called myofilaments, repeated in units called sarcomeres, which are the basic functional, contractile units of the muscle fiber necessary for muscle contraction. 
+
+Muscles are predominantly powered by the oxidation of fats and carbohydrates, but anaerobic chemical reactions are also used, particularly by fast twitch fibers. 
+
+These chemical reactions produce adenosine triphosphate (ATP) molecules that are used to power the movement of the myosin heads.
+
+
+== Structure ==
+
+=== Gross anatomy ===
+
+There are more than 600 skeletal muscles in the human body, making up around 40% to 50% of body weight. 
+
+Most muscles occur in bilaterally-placed pairs to serve both sides of the body. 
+
+Muscles are often classed as groups of muscles that work together to carry out an action. 
+
+In the torso there are several major muscle groups including the pectoral, and abdominal muscles; intrinsic and extrinsic muscles are subdivisions of muscle groups in the hand, foot, tongue, and extraocular muscles of the eye. 
+
+Muscles are also grouped into compartments including four groups in the arm, and the four groups in the leg.
+
+Apart from the contractile part of a muscle consisting of its fibers, a muscle contains a non-contractile part of dense fibrous connective tissue that makes up the tendon at each end. 
+
+The tendons attach the muscles to bones to give skeletal movement. 
+
+The length of a muscle includes the tendons. 
+
+Connective tissue is present in all muscles as deep fascia. 
+
+Deep fascia specialises within muscles to enclose each muscle fiber as endomysium; each muscle fascicle as perimysium, and each individual muscle as epimysium. 
+
+Together these layers are called mysia. 
+
+Deep fascia also separates the groups of muscles into muscle compartments.
+
+Two types of sensory receptors found in muscles are muscle spindles, and Golgi tendon organs. 
+
+Muscle spindles are stretch receptors located in the muscle belly. 
+
+Golgi tendon organs are proprioceptors located at the myotendinous junction that inform of a muscle's tension.
+
+
+==== Skeletal muscle fibers ====
+
+Skeletal muscle cells are the individual contractile cells within a muscle, and are often termed as muscle fibers. 
+
+A single muscle such as the biceps in a young adult male contains around 253,000 muscle fibers.
+
+Skeletal muscle fibers are the only muscle cells that are multinucleated with the nuclei often referred to as myonuclei. 
+
+This occurs during myogenesis with the fusion of myoblasts each contributing a nucleus. 
+
+Fusion depends on muscle-specific proteins known as fusogens called myomaker and myomerger.
+
+Many nuclei are needed by the skeletal muscle cell for the large amounts of proteins and enzymes needed to be produced for the cell's normal functioning. 
+ 
+A single muscle fiber can contain from hundreds to thousands of nuclei. 
+
+A muscle fiber for example in the human biceps with a length of 10 cm can have as many as 3000 nuclei. 
+
+Unlike in a non-muscle cell where the nucleus is centrally positioned, the myonucleus is elongated and located close to the sarcolemma. 
+
+The myonuclei are quite uniformly arranged along the fiber with each nucleus having its own myonuclear domain where it is responsible for supporting the volume of cytoplasm in that particular section of the myofiber.
+
+A group of muscle stem cells known as myosatellite cells, also satellite cells are found between the basement membrane and the sarcolemma of muscle fibers. 
+
+These cells are normally quiescent but can be activated by exercise or pathology to provide additional myonuclei for muscle growth or repair.
+
+
+==== Attachment to tendons ====
+
+Muscles attach to tendons in a complex interface region known as the musculotendinous junction also known as the myotendinous junction, an area specialised for the primary transmission of force. 
+
+At the muscle-tendon interface, force is transmitted from the sarcomeres in the muscle cells to the tendon. 
+
+Muscles and tendons develop in close association, and after their joining at the myotendinous junction they constitute a dynamic unit for the transmission of force from muscle contraction to the skeletal system.
+
+
+==== Arrangement of muscle fibers ====
+
+Muscle architecture refers to the arrangement of muscle fibers relative to the axis of force generation, which runs from a muscle's origin to its insertion. 
+
+The usual arrangements are types of parallel, and types of pennate muscle. 
+
+In parallel muscles the fascicles run parallel to the axis of force generation, but the fascicles can vary in their relationship to one another, and to their tendons. 
+
+These variations are seen in fusiform, strap, and convergent muscles. 
+
+A convergent muscle has a triangular or fan-shape as the fibers converge at its insertion and are fanned out broadly at the origin. 
+
+A less common example of a parallel muscle is a circular muscle such as the orbicularis oculi, in which the fibers are longitudinally arranged, but create a circle from origin to insertion. 
+
+These different architectures, can cause variations in the tension that a muscle can create between its tendons.
+
+The fibers in pennate muscles run at an angle to the axis of force generation. 
+
+This pennation angle reduces the effective force of any individual fiber, as it is effectively pulling off-axis. 
+
+However, because of this angle, more fibers can be packed into the same muscle volume, increasing the physiological cross-sectional area (PCSA). 
+
+This effect is known as fiber packing, and in terms of force generation, it more than overcomes the efficiency-loss of the off-axis orientation. 
+
+The trade-off comes in overall speed of muscle shortening and in the total excursion. 
+
+Overall muscle shortening speed is reduced compared to fiber shortening speed, as is the total distance of shortening. 
+
+All of these effects scale with pennation angle; greater angles lead to greater force due to increased fiber packing and PCSA, but with greater losses in shortening speed and excursion. 
+
+Types of pennate muscle are unipennate, bipennate, and multipennate. 
+
+A unipennate muscle has similarly angled fibers that are on one side of a tendon. 
+
+A bipennate muscle has fibers on two sides of a tendon. 
+
+Multipennate muscles have fibers that are oriented at multiple angles along the force-generating axis, and this is the most general and most common architecture.
+
+
+=== Muscle fiber growth ===
+
+Muscle fibers grow when exercised and shrink when not in use. 
+
+This is due to the fact that exercise stimulates the increase in myofibrils which increase the overall size of muscle cells. 
+
+Well exercised muscles can not only add more size but can also develop more mitochondria, myoglobin, glycogen and a higher density of capillaries. 
+
+However muscle cells cannot divide to produce new cells, and as a result there are fewer muscle cells in an adult than in a newborn.
+
+
+=== Muscle naming ===
+
+
+There are a number of terms used in the naming of muscles including those relating to size, shape, action, location, their orientation, and their number of heads.
+
+By size
+brevis means short; longus means long; longissimus means longest; magnus means large; major means larger; maximus means largest; minor means smaller, and minimus smallest; latissimus means widest, and vastus means huge. 
+
+These terms are often used after the particular muscle such as gluteus maximus, and gluteus minimus.
+
+By relative shape
+deltoid means triangular; quadratus means having four sides; rhomboideus means having a rhomboid shape; teres means round or cylindrical, and trapezius means having a trapezoid shape; serratus means saw-toothed; orbicularis means circular; pectinate means comblike; piriformis means pear-shaped; platys means flat and gracilis means slender. 
+
+Examples are the pronator teres, and the pronator quadratus.
+
+By action
+abductor moving away from the midline; adductor moving towards the midline; depressor moving downwards; elevator moving upwards; flexor moving that decreases an angle; extensor moving that increase an angle or straightens; pronator moving to face down; supinator moving to face upwards; internal rotator rotating towards the body; external rotator rotating away from the body; sphincter decreases the size , and tensor gives tension to; fixator muscles serve to fix a joint in a given position by stabilizing the prime mover whilst other joints are moving.
+
+By number of heads
+biceps two; triceps three and quadriceps four.
+
+By location
+named after the near main structure such as the temporal muscle (temporalis) near to the temporal bone. 
+
+Also supra- above; infra- below, and sub- under.
+
+By fascicle orientation
+Relative to the midline, rectus means parallel to the midline; transverse means perpendicular to the midline, and oblique means diagonal to the midline. 
+
+Relative to the axis of the generation of force – types of parallel, and types of pennate muscles.
+
+
+== Fiber types ==
+
+Broadly there are two types of muscle fiber: Type I, which is slow, and Type II which are fast. 
+
+Type II has two divisions of type IIA (oxidative), and type IIX (glycolytic), giving three main fiber types. 
+
+These fibers have relatively distinct metabolic, contractile, and motor unit properties. 
+
+The table below differentiates these types of properties. 
+
+These types of properties—while they are partly dependent on the properties of individual fibers—tend to be relevant and measured at the level of the motor unit, rather than individual fiber.
+
+
+=== Fiber color ===
+
+Traditionally, fibers were categorized depending on their varying color, which is a reflection of myoglobin content. 
+
+Type I fibers appear red due to the high levels of myoglobin. 
+
+Red muscle fibers tend to have more mitochondria and greater local capillary density. 
+
+These fibers are more suited for endurance and are slow to fatigue because they use oxidative metabolism to generate ATP (adenosine triphosphate). 
+
+Less oxidative Type II fibers are white due to relatively low myoglobin and a reliance on glycolytic enzymes.
+
+
+=== Twitch speed ===
+
+Fibers can also be classified on their twitch capabilities, into fast and slow twitch. 
+
+These traits largely, but not completely, overlap the classifications based on color, ATPase, or MHC.
+Some authors define a fast twitch fiber as one in which the myosin can split ATP very quickly. 
+
+These mainly include the ATPase type II and MHC type II fibers. 
+
+However, fast twitch fibers also demonstrate a higher capability for electrochemical transmission of action potentials and a rapid level of calcium release and uptake by the sarcoplasmic reticulum. 
+
+The fast twitch fibers rely on a well-developed, anaerobic, short term, glycolytic system for energy transfer and can contract and develop tension at 2–3 times the rate of slow twitch fibers. 
+
+Fast twitch muscles are much better at generating short bursts of strength or speed than slow muscles, and so fatigue more quickly.
+
+The slow twitch fibers generate energy for ATP re-synthesis by means of a long term system of aerobic energy transfer. 
+
+These mainly include the ATPase type I and MHC type I fibers. 
+
+They tend to have a low activity level of ATPase, a slower speed of contraction with a less well developed glycolytic capacity. 
+
+Fibers that become slow-twitch develop greater numbers of mitochondria and capillaries making them better for prolonged work.
+
+Type distribution
+Individual muscles tend to be a mixture of various fiber types, but their proportions vary depending on the actions of that muscle. 
+
+For instance, in humans, the quadriceps muscles contain ~52% type I fibers, while the soleus is ~80% type I. 
+
+The orbicularis oculi muscle of the eye is only ~15% type I. 
+
+Motor units within the muscle, however, have minimal variation between the fibers of that unit. 
+
+It is this fact that makes the size principal of motor unit recruitment viable.
+
+The total number of skeletal muscle fibers has traditionally been thought not to change.
+
+It is believed there are no sex or age differences in fiber distribution; however, proportions of fiber types vary considerably from muscle to muscle and person to person. 
+
+Among different species there is a much variation in the proportions of muscle fiber types.
+
+Sedentary men and women (as well as young children) have 45% type II and 55% type I fibers.
+
+People at the higher end of any sport tend to demonstrate patterns of fiber distribution e.g. endurance athletes show a higher level of type I fibers.
+
+Sprint athletes, on the other hand, require large numbers of type IIX fibers.
+
+Middle-distance event athletes show approximately equal distribution of the two types. 
+
+This is also often the case for power athletes such as throwers and jumpers.
+
+It has been suggested that various types of exercise can induce changes in the fibers of a skeletal muscle.
+
+It is thought that if you perform endurance type events for a sustained period of time, some of the type IIX fibers transform into type IIA fibers. 
+
+However, there is no consensus on the subject.
+
+It may well be that the type IIX fibers show enhancements of the oxidative capacity after high intensity endurance training which brings them to a level at which they are able to perform oxidative metabolism as effectively as slow twitch fibers of untrained subjects. 
+
+This would be brought about by an increase in mitochondrial size and number and the associated related changes, not a change in fiber type.
+
+
+=== Fiber typing methods ===
+
+
+There are numerous methods employed for fiber-typing, and confusion between the methods is common among non-experts. 
+
+Two commonly confused methods are histochemical staining for myosin ATPase activity and immunohistochemical staining for myosin heavy chain (MHC) type. 
+
+Myosin ATPase activity is commonly—and correctly—referred to as simply "fiber type", and results from the direct assaying of ATPase activity under various conditions (e.g. pH). 
+
+Myosin heavy chain staining is most accurately referred to as "MHC fiber type", e.g. "MHC IIa fibers", and results from determination of different MHC isoforms. 
+
+These methods are closely related physiologically, as the MHC type is the primary determinant of ATPase activity. 
+
+However, neither of these typing methods is directly metabolic in nature; they do not directly address oxidative or glycolytic capacity of the fiber.
+
+When "type I" or "type II" fibers are referred to generically, this most accurately refers to the sum of numerical fiber types (I vs. 
+
+II) as assessed by myosin ATPase activity staining (e.g. "type II" fibers refers to type IIA + type IIAX + type IIXA ... etc.).
+
+Below is a table showing the relationship between these two methods, limited to fiber types found in humans. 
+
+Subtype capitalization is used in fiber typing vs. 
+
+MHC typing, and some ATPase types actually contain multiple MHC types. 
+
+Also, a subtype B or b is not expressed in humans by either method. 
+
+Early researchers believed humans to express a MHC IIb, which led to the ATPase classification of IIB. 
+
+However, later research showed that the human MHC IIb was in fact IIx, indicating that the IIB is better named IIX. 
+
+IIb is expressed in other mammals, so is still accurately seen (along with IIB) in the literature. 
+
+Non human fiber types include true IIb fibers, IIc, IId, etc.
+
+Further fiber typing methods are less formally delineated, and exist on more of a spectrum. 
+
+They tend to be focused more on metabolic and functional capacities (i.e., oxidative vs. glycolytic, fast vs. slow contraction time). 
+
+As noted above, fiber typing by ATPase or MHC does not directly measure or dictate these parameters. 
+
+However, many of the various methods are mechanistically linked, while others are correlated in vivo. 
+
+For instance, ATPase fiber type is related to contraction speed, because high ATPase activity allows faster crossbridge cycling. 
+
+While ATPase activity is only one component of contraction speed, Type I fibers are "slow", in part, because they have low speeds of ATPase activity in comparison to Type II fibers. 
+
+However, measuring contraction speed is not the same as ATPase fiber typing.
+
+
+== Microanatomy ==
+
+
+Skeletal muscle exhibits a distinctive banding pattern when viewed under the microscope due to the arrangement of two contractile proteins myosin, and actin – that are two of the myofilaments in the myofibrils. 
+
+The myosin forms the thick filaments, and actin forms the thin filaments, and are arranged in repeating units called sarcomeres. 
+
+The interaction of both proteins results in muscle contraction.
+
+The sarcomere is attached to other organelles such as the mitochondria by intermediate filaments in the cytoskeleton. 
+
+The costamere attaches the sarcomere to the sarcolemma.Every single organelle and macromolecule of a muscle fiber is arranged to ensure that it meets desired functions. 
+
+The cell membrane is called the sarcolemma with the cytoplasm known as the sarcoplasm. 
+
+In the sarcoplasm are the myofibrils. 
+
+The myofibrils are long protein bundles about one micrometer in diameter. 
+
+Pressed against the inside of the sarcolemma are the unusual flattened myonuclei. 
+
+Between the myofibrils are the mitochondria.
+
+While the muscle fiber does not have smooth endoplasmic cisternae, it contains sarcoplasmic reticulum. 
+
+The sarcoplasmic reticulum surrounds the myofibrils and holds a reserve of the calcium ions needed to cause a muscle contraction. 
+
+Periodically, it has dilated end sacs known as terminal cisternae. 
+
+These cross the muscle fiber from one side to the other. 
+
+In between two terminal cisternae is a tubular infolding called a transverse tubule (T tubule). 
+
+T tubules are the pathways for action potentials to signal the sarcoplasmic reticulum to release calcium, causing a muscle contraction. 
+
+Together, two terminal cisternae and a transverse tubule form a triad.
+
+
+== Development ==
+
+
+All muscles are derived from paraxial mesoderm. 
+
+During embryonic development in the process of somitogenesis the paraxial mesoderm is divided along the embryo's length to form somites, corresponding to the segmentation of the body most obviously seen in the vertebral column. 
+
+Each somite has three divisions, sclerotome (which forms vertebrae), dermatome (which forms skin), and myotome (which forms muscle). 
+
+The myotome is divided into two sections, the epimere and hypomere, which form epaxial and hypaxial muscles, respectively. 
+
+The only epaxial muscles in humans are the erector spinae and small vertebral muscles, and are innervated by the dorsal rami of the spinal nerves. 
+
+All other muscles, including those of the limbs are hypaxial, and innervated by the ventral rami of the spinal nerves.
+
+During development, myoblasts (muscle progenitor cells) either remain in the somite to form muscles associated with the vertebral column or migrate out into the body to form all other muscles. 
+
+Myoblast migration is preceded by the formation of connective tissue frameworks, usually formed from the somatic lateral plate mesoderm. 
+
+Myoblasts follow chemical signals to the appropriate locations, where they fuse into elongated multinucleated skeletal muscle cells.
+
+Between the tenth and the eighteenth weeks of gestation, all muscle cells have fast myosin heavy chains; two myotube types become distinguished in the developing fetus – both expressing fast chains but one expressing fast and slow chains. 
+
+Between 10 and 40 per cent of the fibers express the slow myosin chain.
+
+Fiber types are established during embryonic development and are remodelled later in the adult by neural and hormonal influences. 
+
+The population of satellite cells present underneath the basal lamina is necessary for the postnatal development of muscle cells.
+
+
+== Function ==
+
+The primary function of muscle is contraction. 
+
+Following contraction, skeletal muscle functions as an endocrine organ by secreting myokines – a wide range of cytokines and other peptides that act as signalling molecules. 
+
+Myokines in turn are believed to mediate the health benefits of exercise. 
+
+Myokines are secreted into the bloodstream after muscle contraction. 
+
+Interleukin 6 (IL-6) is the most studied myokine, other muscle contraction-induced myokines include BDNF, FGF21, and SPARC.Muscle also functions to produce body heat. 
+
+Muscle contraction is responsible for producing 85% of the body's heat. 
+
+This heat produced is as a by-product of muscular activity, and is mostly wasted. 
+
+As a homeostatic response to extreme cold, muscles are signaled to trigger contractions of shivering in order to generate heat.
+
+
+=== Contraction ===
+
+
+Contraction is achieved by the muscle's structural unit the muscle fiber, and by its functional unit, the motor unit. 
+
+Muscle fibers are excitable cells stimulated by motor neurons. 
+
+The motor unit consists of a motor neuron and the many fibers that it makes contact with. 
+
+A single muscle is stimulated by many motor units. 
+
+Muscle fibers are subject to depolarization by the neurotransmitter acetylcholine, released by the motor neurons at the neuromuscular junctions.
+
+In addition to the actin and myosin myofilaments in the myofibrils that make up the contractile sarcomeres, there are two other important regulatory proteins – troponin and tropomyosin, that make muscle contraction possible. 
+
+These proteins are associated with actin and cooperate to prevent its interaction with myosin. 
+
+Once a cell is sufficiently stimulated, the cell's sarcoplasmic reticulum releases ionic calcium (Ca2+), which then interacts with the regulatory protein troponin. 
+
+Calcium-bound troponin undergoes a conformational change that leads to the movement of tropomyosin, subsequently exposing the myosin-binding sites on actin. 
+
+This allows for myosin and actin ATP-dependent cross-bridge cycling and shortening of the muscle.
+
+
+==== Excitation-contraction coupling ====
+
+Excitation contraction coupling is the process by which a muscular action potential in the muscle fiber causes the myofibrils to contract. 
+
+This process relies on a direct coupling between the sarcoplasmic reticulum calcium release channel RYR1 (ryanodine receptor 1), and voltage-gated L-type calcium channels (identified as dihydropyridine receptors, DHPRs). 
+
+DHPRs are located on the sarcolemma (which includes the surface sarcolemma and the transverse tubules), while the RyRs reside across the SR membrane. 
+
+The close apposition of a transverse tubule and two SR regions containing RyRs is described as a triad and is predominantly where excitation–contraction coupling takes place. 
+
+Excitation–contraction coupling occurs when depolarization of skeletal muscle cell results in a muscle action potential, which spreads across the cell surface and into the muscle fiber's network of T-tubules, thereby depolarizing the inner portion of the muscle fiber. 
+
+Depolarization of the inner portions activates dihydropyridine receptors in the terminal cisternae, which are in close proximity to ryanodine receptors in the adjacent sarcoplasmic reticulum. 
+
+The activated dihydropyridine receptors physically interact with ryanodine receptors to activate them via foot processes (involving conformational changes that allosterically activates the ryanodine receptors). 
+
+As the ryanodine receptors open, Ca2+ is released from the sarcoplasmic reticulum into the local junctional space and diffuses into the bulk cytoplasm to cause a calcium spark. 
+
+Note that the sarcoplasmic reticulum has a large calcium buffering capacity partially due to a calcium-binding protein called calsequestrin. 
+
+The near synchronous activation of thousands of calcium sparks by the action potential causes a cell-wide increase in calcium giving rise to the upstroke of the calcium transient. 
+
+The Ca2+ released into the cytosol binds to Troponin C by the actin filaments, to allow crossbridge cycling, producing force and, in some situations, motion. 
+
+The sarco/endoplasmic reticulum calcium-ATPase (SERCA) actively pumps Ca2+ back into the sarcoplasmic reticulum. 
+
+As Ca2+ declines back to resting levels, the force declines and relaxation occurs.
+
+
+==== Muscle movement ====
+
+The efferent leg of the peripheral nervous system is responsible for conveying commands to the muscles and glands, and is ultimately responsible for voluntary movement. 
+
+Nerves move muscles in response to voluntary and autonomic (involuntary) signals from the brain. 
+
+Deep muscles, superficial muscles, muscles of the face and internal muscles all correspond with dedicated regions in the primary motor cortex of the brain, directly anterior to the central sulcus that divides the frontal and parietal lobes.
+
+In addition, muscles react to reflexive nerve stimuli that do not always send signals all the way to the brain. 
+
+In this case, the signal from the afferent fiber does not reach the brain, but produces the reflexive movement by direct connections with the efferent nerves in the spine. 
+
+However, the majority of muscle activity is volitional, and the result of complex interactions between various areas of the brain.
+
+Nerves that control skeletal muscles in mammals correspond with neuron groups along the primary motor cortex of the brain's cerebral cortex. 
+
+Commands are routed through the basal ganglia and are modified by input from the cerebellum before being relayed through the pyramidal tract to the spinal cord and from there to the motor end plate at the muscles. 
+
+Along the way, feedback, such as that of the extrapyramidal system contribute signals to influence muscle tone and response.
+
+Deeper muscles such as those involved in posture often are controlled from nuclei in the brain stem and basal ganglia.
+
+
+==== Proprioception ====
+
+In skeletal muscles, muscle spindles convey information about the degree of muscle length and stretch to the central nervous system to assist in maintaining posture and joint position. 
+
+The sense of where our bodies are in space is called proprioception, the perception of body awareness, the "unconscious" awareness of where the various regions of the body are located at any one time. 
+
+Several areas in the brain coordinate movement and position with the feedback information gained from proprioception. 
+
+The cerebellum and red nucleus in particular continuously sample position against movement and make minor corrections to assure smooth motion.
+
+
+=== Energy consumption ===
+
+
+Muscular activity accounts for much of the body's energy consumption. 
+
+All muscle cells produce adenosine triphosphate (ATP) molecules which are used to power the movement of the myosin heads. 
+
+Muscles have a short-term store of energy in the form of creatine phosphate which is generated from ATP and can regenerate ATP when needed with creatine kinase. 
+
+Muscles also keep a storage form of glucose in the form of glycogen. 
+
+Glycogen can be rapidly converted to glucose when energy is required for sustained, powerful contractions. 
+
+Within the voluntary skeletal muscles, the glucose molecule can be metabolized anaerobically in a process called glycolysis which produces two ATP and two lactic acid molecules in the process (note that in aerobic conditions, lactate is not formed; instead pyruvate is formed and transmitted through the citric acid cycle). 
+
+Muscle cells also contain globules of fat, which are used for energy during aerobic exercise. 
+
+The aerobic energy systems take longer to produce the ATP and reach peak efficiency, and requires many more biochemical steps, but produces significantly more ATP than anaerobic glycolysis. 
+
+Cardiac muscle on the other hand, can readily consume any of the three macronutrients (protein, glucose and fat) aerobically without a 'warm up' period and always extracts the maximum ATP yield from any molecule involved. 
+
+The heart, liver and red blood cells will also consume lactic acid produced and excreted by skeletal muscles during exercise.
+
+Skeletal muscle uses more calories than other organs.
+
+At rest it consumes 54.4 kJ/kg (13.0 kcal/kg) per day. 
+
+This is larger than adipose tissue (fat) at 18.8 kJ/kg (4.5 kcal/kg), and bone at 9.6 kJ/kg (2.3 kcal/kg).
+
+
+==== Efficiency ====
+
+The efficiency of human muscle has been measured (in the context of rowing and cycling) at 18% to 26%. 
+
+The efficiency is defined as the ratio of mechanical work output to the total metabolic cost, as can be calculated from oxygen consumption. 
+
+This low efficiency is the result of about 40% efficiency of generating ATP from food energy, losses in converting energy from ATP into mechanical work inside the muscle, and mechanical losses inside the body. 
+
+The latter two losses are dependent on the type of exercise and the type of muscle fibers being used (fast-twitch or slow-twitch). 
+
+For an overall efficiency of 20 percent, one watt of mechanical power is equivalent to 4.3 kcal per hour. 
+
+For example, one manufacturer of rowing equipment calibrates its rowing ergometer to count burned calories as equal to four times the actual mechanical work, plus 300 kcal per hour, this amounts to about 20 percent efficiency at 250 watts of mechanical output. 
+
+The mechanical energy output of a cyclic contraction can depend upon many factors, including activation timing, muscle strain trajectory, and rates of force rise & decay. 
+
+These can be synthesized experimentally using work loop analysis.
+
+
+=== Muscle strength ===
+
+
+Muscle strength is a result of three overlapping factors: physiological strength (muscle size, cross sectional area, available crossbridging, responses to training), neurological strength (how strong or weak is the signal that tells the muscle to contract), and mechanical strength (muscle's force angle on the lever, moment arm length, joint capabilities).
+
+Vertebrate muscle typically produces approximately 25–33 N (5.6–7.4 lbf) of force per square centimeter of muscle cross-sectional area when isometric and at optimal length. 
+
+Some invertebrate muscles, such as in crab claws, have much longer sarcomeres than vertebrates, resulting in many more sites for actin and myosin to bind and thus much greater force per square centimeter at the cost of much slower speed. 
+
+The force generated by a contraction can be measured non-invasively using either mechanomyography or phonomyography, be measured in vivo using tendon strain (if a prominent tendon is present), or be measured directly using more invasive methods.
+
+The strength of any given muscle, in terms of force exerted on the skeleton, depends upon length, shortening speed, cross sectional area, pennation, sarcomere length, myosin isoforms, and neural activation of motor units. 
+
+Significant reductions in muscle strength can indicate underlying pathology, with the chart at right used as a guide.
+
+
+==== The "strongest" human muscle ====
+
+Since three factors affect muscular strength simultaneously and muscles never work individually, it is misleading to compare strength in individual muscles, and state that one is the "strongest". 
+
+But below are several muscles whose strength is noteworthy for different reasons.
+
+In ordinary parlance, muscular "strength" usually refers to the ability to exert a force on an external object—for example, lifting a weight. 
+
+By this definition, the masseter or jaw muscle is the strongest. 
+
+The 1992 Guinness Book of Records records the achievement of a bite strength of 4,337 N (975 lbf) for 2 seconds. 
+
+What distinguishes the masseter is not anything special about the muscle itself, but its advantage in working against a much shorter lever arm than other muscles.
+
+If "strength" refers to the force exerted by the muscle itself, e.g., on the place where it inserts into a bone, then the strongest muscles are those with the largest cross-sectional area. 
+
+This is because the tension exerted by an individual skeletal muscle fiber does not vary much. 
+
+Each fiber can exert a force on the order of 0.3 micronewton. 
+
+By this definition, the strongest muscle of the body is usually said to be the quadriceps femoris or the gluteus maximus.
+
+Because muscle strength is determined by cross-sectional area, a shorter muscle will be stronger "pound for pound" (i.e., by weight) than a longer muscle of the same cross-sectional area. 
+
+The myometrial layer of the uterus may be the strongest muscle by weight in the female human body. 
+
+At the time when an infant is delivered, the entire human uterus weighs about 1.1 kg (40 oz). 
+
+During childbirth, the uterus exerts 100 to 400 N (25 to 100 lbf) of downward force with each contraction.
+
+The external muscles of the eye are conspicuously large and strong in relation to the small size and weight of the eyeball. 
+
+It is frequently said that they are "the strongest muscles for the job they have to do" and are sometimes claimed to be "100 times stronger than they need to be." 
+
+However, eye movements (particularly saccades used on facial scanning and reading) do require high speed movements, and eye muscles are exercised nightly during rapid eye movement sleep.
+
+The statement that "the tongue is the strongest muscle in the body" appears frequently in lists of surprising facts, but it is difficult to find any definition of "strength" that would make this statement true. 
+
+Note that the tongue consists of eight muscles, not one.
+
+
+==== Force generation ====
+
+Muscle force is proportional to physiologic cross-sectional area (PCSA), and muscle velocity is proportional to muscle fiber length. 
+
+The torque around a joint, however, is determined by a number of biomechanical parameters, including the distance between muscle insertions and pivot points, muscle size and architectural gear ratio. 
+
+Muscles are normally arranged in opposition so that when one group of muscles contracts, another group relaxes or lengthens. 
+
+Antagonism in the transmission of nerve impulses to the muscles means that it is impossible to fully stimulate the contraction of two antagonistic muscles at any one time. 
+
+During ballistic motions such as throwing, the antagonist muscles act to 'brake' the agonist muscles throughout the contraction, particularly at the end of the motion. 
+
+In the example of throwing, the chest and front of the shoulder (anterior deltoid) contract to pull the arm forward, while the muscles in the back and rear of the shoulder (posterior deltoid) also contract and undergo eccentric contraction to slow the motion down to avoid injury. 
+
+Part of the training process is learning to relax the antagonist muscles to increase the force input of the chest and anterior shoulder.
+
+Contracting muscles produce vibration and sound. 
+
+Slow twitch fibers produce 10 to 30 contractions per second (10 to 30 Hz). 
+
+Fast twitch fibers produce 30 to 70 contractions per second (30 to 70 Hz). 
+
+The vibration can be witnessed and felt by highly tensing one's muscles, as when making a firm fist. 
+
+The sound can be heard by pressing a highly tensed muscle against the ear, again a firm fist is a good example. 
+
+The sound is usually described as a rumbling sound. 
+
+Some individuals can voluntarily produce this rumbling sound by contracting the tensor tympani muscle of the middle ear. 
+
+The rumbling sound can also be heard when the neck or jaw muscles are highly tensed.
+
+
+=== Signal transduction pathways ===
+
+Skeletal muscle fiber-type phenotype in adult animals is regulated by several independent signaling pathways. 
+
+These include pathways involved with the Ras/mitogen-activated protein kinase (MAPK) pathway, calcineurin, calcium/calmodulin-dependent protein kinase IV, and the peroxisome proliferator γ coactivator 1 (PGC-1). 
+
+The Ras/MAPK signaling pathway links the motor neurons and signaling systems, coupling excitation and transcription regulation to promote the nerve-dependent induction of the slow program in regenerating muscle. 
+
+Calcineurin, a Ca2+/calmodulin-activated phosphatase implicated in nerve activity-dependent fiber-type specification in skeletal muscle, directly controls the phosphorylation state of the transcription factor NFAT, allowing for its translocation to the nucleus and leading to the activation of slow-type muscle proteins in cooperation with myocyte enhancer factor 2 (MEF2) proteins and other regulatory proteins. 
+
+Ca2+/calmodulin-dependent protein kinase activity is also upregulated by slow motor neuron activity, possibly because it amplifies the slow-type calcineurin-generated responses by promoting MEF2 transactivator functions and enhancing oxidative capacity through stimulation of mitochondrial biogenesis.
+
+Contraction-induced changes in intracellular calcium or reactive oxygen species provide signals to diverse pathways that include the MAPKs, calcineurin and calcium/calmodulin-dependent protein kinase IV to activate transcription factors that regulate gene expression and enzyme activity in skeletal muscle.
+
+PGC1-α (PPARGC1A), a transcriptional coactivator of nuclear receptors important to the regulation of a number of mitochondrial genes involved in oxidative metabolism, directly interacts with MEF2 to synergistically activate selective slow twitch (ST) muscle genes and also serves as a target for calcineurin signaling. 
+
+A peroxisome proliferator-activated receptor δ (PPARδ)-mediated transcriptional pathway is involved in the regulation of the skeletal muscle fiber phenotype. 
+
+Mice that harbor an activated form of PPARd display an "endurance" phenotype, with a coordinated increase in oxidative enzymes and mitochondrial biogenesis and an increased proportion of ST fibers. 
+
+Thus—through functional genomics—calcineurin, calmodulin-dependent kinase, PGC-1α, and activated PPARδ form the basis of a signaling network that controls skeletal muscle fiber-type transformation and metabolic profiles that protect against insulin resistance and obesity.
+
+The transition from aerobic to anaerobic metabolism during intense work requires that several systems are rapidly activated to ensure a constant supply of ATP for the working muscles. 
+
+These include a switch from fat-based to carbohydrate-based fuels, a redistribution of blood flow from nonworking to exercising muscles, and the removal of several of the by-products of anaerobic metabolism, such as carbon dioxide and lactic acid. 
+
+Some of these responses are governed by transcriptional control of the fast twitch (FT) glycolytic phenotype. 
+
+For example, skeletal muscle reprogramming from an ST glycolytic phenotype to an FT glycolytic phenotype involves the Six1/Eya1 complex, composed of members of the Six protein family. 
+
+Moreover, the hypoxia-inducible factor 1-α (HIF1A) has been identified as a master regulator for the expression of genes involved in essential hypoxic responses that maintain ATP levels in cells. 
+
+Ablation of HIF-1α in skeletal muscle was associated with an increase in the activity of rate-limiting enzymes of the mitochondria, indicating that the citric acid cycle and increased fatty acid oxidation may be compensating for decreased flow through the glycolytic pathway in these animals. 
+
+However, hypoxia-mediated HIF-1α responses are also linked to the regulation of mitochondrial dysfunction through the formation of excessive reactive oxygen species in mitochondria.
+
+Other pathways also influence adult muscle character. 
+
+For example, physical force inside a muscle fiber may release the transcription factor serum response factor from the structural protein titin, leading to altered muscle growth.
+
+
+== Exercise ==
+
+Exercise is often recommended as a means of improving motor skills, fitness, muscle and bone strength, and joint function. 
+
+Exercise has several effects upon muscles, connective tissue, bone, and the nerves that stimulate the muscles. 
+
+One such effect is muscle hypertrophy, an increase in size of muscle due to an increase in the number of muscle fibers or cross-sectional area of myofibrils. 
+
+Muscle changes depend on the type of exercise used.
+Generally, there are two types of exercise regimes, aerobic and anaerobic. 
+
+Aerobic exercise (e.g. marathons) involves low intensity, but long duration activities during which, the muscles used are below their maximal contraction strength. 
+
+Aerobic activities rely on the aerobic respiration (i.e. citric acid cycle and electron transport chain) for metabolic energy by consuming fat, protein, carbohydrates, and oxygen. 
+
+Muscles involved in aerobic exercises contain a higher percentage of Type I (or slow-twitch) muscle fibers, which primarily contain mitochondrial and oxidation enzymes associated with aerobic respiration. 
+
+On the contrary, anaerobic exercise is associated with short duration, but high intensity exercise (e.g. sprinting and weight lifting). 
+
+The anaerobic activities predominately use Type II, fast-twitch, muscle fibers. 
+
+Type II muscle fibers rely on glucogenesis for energy during anaerobic exercise. 
+
+During anaerobic exercise, type II fibers consume little oxygen, protein and fat, produces large amounts of lactic acid and are fatigable. 
+
+Many exercises are partially aerobic and anaerobic; for example, soccer and rock climbing.
+
+The presence of lactic acid has an inhibitory effect on ATP generation within the muscle. 
+
+It can even stop ATP production if the intracellular concentration becomes too high. 
+
+However, endurance training mitigates the buildup of lactic acid through increased capillarization and myoglobin. 
+
+This increases the ability to remove waste products, like lactic acid, out of the muscles in order to not impair muscle function. 
+
+Once moved out of muscles, lactic acid can be used by other muscles or body tissues as a source of energy, or transported to the liver where it is converted back to pyruvate. 
+
+In addition to increasing the level of lactic acid, strenuous exercise results in the loss of potassium ions in muscle. 
+
+This may facilitate the recovery of muscle function by protecting against fatigue.
+
+Delayed onset muscle soreness is pain or discomfort that may be felt one to three days after exercising and generally subsides two to three days after which. 
+
+Once thought to be caused by lactic acid build-up, a more recent theory is that it is caused by tiny tears in the muscle fibers caused by eccentric contraction, or unaccustomed training levels. 
+
+Since lactic acid disperses fairly rapidly, it could not explain pain experienced days after exercise.
+
+
+== Clinical significance ==
+
+=== Muscle disease ===
+
+Diseases of skeletal muscle are termed myopathies, while diseases of nerves are called neuropathies. 
+
+Both can affect muscle function or cause muscle pain, and fall under the umbrella of neuromuscular disease. 
+
+The cause of many myopathies is attributed to mutations in the various associated muscle proteins. 
+
+Some inflammatory myopathies include polymyositis and inclusion body myositis
+
+Neuromuscular diseases affect the muscles and their nervous control. 
+
+In general, problems with nervous control can cause spasticity or paralysis, depending on the location and nature of the problem. 
+
+A number of movement disorders are caused by neurological disorders such as Parkinson's disease and Huntington's disease where there is central nervous system dysfunction.
+
+Symptoms of muscle diseases may include weakness, spasticity, myoclonus and myalgia. 
+
+Diagnostic procedures that may reveal muscular disorders include testing creatine kinase levels in the blood and electromyography (measuring electrical activity in muscles). 
+
+In some cases, muscle biopsy may be done to identify a myopathy, as well as genetic testing to identify DNA abnormalities associated with specific myopathies and dystrophies.
+
+A non-invasive elastography technique that measures muscle noise is undergoing experimentation to provide a way of monitoring neuromuscular disease. 
+
+The sound produced by a muscle comes from the shortening of actomyosin filaments along the axis of the muscle. 
+
+During contraction, the muscle shortens along its length and expands across its width, producing vibrations at the surface.
+
+
+=== Hypertrophy ===
+
+Independent of strength and performance measures, muscles can be induced to grow larger by a number of factors, including hormone signaling, developmental factors, strength training, and disease. 
+
+Contrary to popular belief, the number of muscle fibres cannot be increased through exercise. 
+
+Instead, muscles grow larger through a combination of muscle cell growth as new protein filaments are added along with additional mass provided by undifferentiated satellite cells alongside the existing muscle cells.
+
+Biological factors such as age and hormone levels can affect muscle hypertrophy. 
+
+During puberty in males, hypertrophy occurs at an accelerated rate as the levels of growth-stimulating hormones produced by the body increase. 
+
+Natural hypertrophy normally stops at full growth in the late teens. 
+
+As testosterone is one of the body's major growth hormones, on average, men find hypertrophy much easier to achieve than women. 
+
+Taking additional testosterone or other anabolic steroids will increase muscular hypertrophy.
+
+Muscular, spinal and neural factors all affect muscle building. 
+
+Sometimes a person may notice an increase in strength in a given muscle even though only its opposite has been subject to exercise, such as when a bodybuilder finds her left biceps stronger after completing a regimen focusing only on the right biceps. 
+
+This phenomenon is called cross education.
+
+
+=== Atrophy ===
+ 
+Every day between one and two percent of muscle is broken down and rebuilt. 
+
+Inactivity, malnutrition, disease, and aging can increase the breakdown leading to muscle atrophy or sarcopenia. 
+
+Sarcopenia is commonly an age-related process that can cause frailty and its consequences. 
+
+A decrease in muscle mass may be accompanied by a smaller number and size of the muscle cells as well as lower protein content.
+
+Human spaceflight, involving prolonged periods of immobilization and weightlessness is known to result in muscle weakening and atrophy resulting in a loss of as much as 30% of mass in some muscles. 
+
+Such consequences are also noted in some mammals following hibernation.
+
+Many diseases and conditions including cancer, AIDS, and heart failure can cause muscle loss known as cachexia.
+
+
+=== Research ===
+
+Myopathies have been modeled with cell culture systems of muscle from healthy or diseased tissue biopsies. 
+
+Another source of skeletal muscle and progenitors is provided by the directed differentiation of pluripotent stem cells.
+
+Research on skeletal muscle properties uses many techniques. 
+
+Electrical muscle stimulation is used to determine force and contraction speed at different frequencies related to fiber-type composition and mix within an individual muscle group. 
+
+In vitro muscle testing is used for more complete characterization of muscle properties.
+
+The electrical activity associated with muscle contraction is measured via electromyography (EMG). 
+
+Skeletal muscle has two physiological responses: relaxation and contraction. 
+
+The mechanisms for which these responses occur generate electrical activity measured by EMG. 
+
+Specifically, EMG can measure the action potential of a skeletal muscle, which occurs from the hyperpolarization of the motor axons from nerve impulses sent to the muscle. 
+
+EMG is used in research for determining if the skeletal muscle of interest is being activated, the amount of force generated, and an indicator of muscle fatigue. 
+
+The two types of EMG are intra-muscular EMG and the most common, surface EMG. 
+
+The EMG signals are much greater when a skeletal muscle is contracting verses relaxing. 
+
+However, for smaller and deeper skeletal muscles the EMG signals are reduced and therefore are viewed as a less valued technique for measuring the activation. 
+
+In research using EMG, a maximal voluntary contraction (MVC) is commonly performed on the skeletal muscle of interest, to have reference data for the rest of the EMG recordings during the main experimental testing for that same skeletal muscle.
+
+
+
+https://en.wikipedia.org/wiki/Skeletal_muscle

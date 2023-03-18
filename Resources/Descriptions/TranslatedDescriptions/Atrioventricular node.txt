@@ -1,0 +1,344 @@
+
+
+ATRIOVENTRICULAR NODE
+
+
+The atrioventricular node or AV node electrically connects the heart's atria and ventricles to coordinate beating in the top of the heart; it is part of the electrical conduction system of the heart. 
+
+The AV node lies at the lower back section of the interatrial septum near the opening of the coronary sinus, and conducts the normal electrical impulse from the atria to the ventricles. 
+
+The AV node is quite compact (~1 x 3 x 5 mm).
+
+
+== Structure ==
+
+
+
+=== Location ===
+
+The AV node lies at the lower back section of the interatrial septum near the opening of the coronary sinus, which conducts the normal electrical impulse from the atria to the ventricles. 
+
+The AV node is quite compact (~1 x 3 x 5 mm). 
+
+It is located at the center of Koch's triangle—a triangle enclosed by the septal leaflet of the tricuspid valve, the coronary sinus, and the membranous part of the interatrial septum.
+
+
+=== Blood supply ===
+
+The blood supply of the AV node is from the atrioventricular nodal branch. 
+
+The origin of this artery is most commonly (80-90% of hearts) a branch of the right coronary artery, with the remainder originating from the left circumflex artery. 
+
+This is associated with the dominance of the coronary artery circulation. 
+
+In right-dominant individuals the blood supply is from the right coronary artery while in left dominant individuals it originates from the left circumflex artery.
+
+
+=== Development ===
+
+BMP (Bone morphogenetic protein) cell signaling plays a key role in diverse aspects of cardiac differentiation and morphogenesis. (BMPs) are multifunctional signaling molecules critical for the development of AV node. 
+
+BMP influences AV node development through Alk3 receptor (Activin receptor-like kinase 3). 
+
+Abnormalities seen in BMP and Alk3 are associated with some cardiovascular diseases like Ebstein’s anomaly and AV conduction disease.
+
+
+== Function ==
+
+
+The AV node receives two inputs from the right atrium: posteriorly, via the crista terminalis, and anteriorly, via the interatrial septum.Contraction of heart muscle cells requires depolarization and repolarization of their cell membranes. 
+
+Movement of ions across cell membranes causes these events. 
+
+The cardiac conduction system (and AV node part of it) coordinates myocyte mechanical activity. 
+
+A wave of excitation spreads out from the sinoatrial node through the atria along specialized conduction channels. 
+
+This activates the AV node. 
+
+The atrioventricular node delays impulses by approximately 0.09s. 
+
+This delay in the cardiac pulse is extremely important: It ensures that the atria have ejected their blood into the ventricles first before the ventricles contract.This also protects the ventricles from excessively fast rate response to atrial arrhythmias (see below).AV conduction during normal cardiac rhythm occurs through two different pathways:
+
+the first “pathway” has a slow conduction velocity but shorter refractory period
+the second “pathway” has a faster conduction velocity but longer refractory period.An important property that is unique to the AV node is decremental conduction, in which the more frequently the node is stimulated the slower it conducts. 
+
+This is the property of the AV node that prevents rapid conduction to the ventricle in cases of rapid atrial rhythms, such as atrial fibrillation or atrial flutter.
+The AV node's normal intrinsic firing rate without stimulation (such as that from the SA node) is 40-60 times/minute. 
+
+This property is important because loss of the conduction system before the AV node should still result in pacing of the ventricles by the — slower — pacemaking ability of the AV node.
+
+
+== Clinical significance ==
+
+Atrioventricular conduction disease (AV block) describes impairment of the electrical continuity between the atria and ventricles. 
+
+It occurs when the atrial depolarization fail to reach the ventricles or is conducted with an abnormally long delay. 
+
+It can result from an injury or be a genetically inherited disorder.
+Atrioventricular nodal re-entry tachycardia.
+Cystic tumour of atrioventricular nodal region (CTAVN) CTAVN is of endodermal origin and occurs exclusively in the area of the AV node, tricuspid valve, and interatrial septum.
+
+
+
+https://en.wikipedia.org/wiki/Atrioventricular_node
+;;;ES;;;
+
+
+
+NÓDULO ATRIOVENTRICULAR
+
+
+El nódulo auriculoventricular o nódulo AV conecta eléctricamente las aurículas y los ventrículos del corazón para coordinar los latidos en la parte superior del corazón; es parte del sistema de conducción eléctrica del corazón.
+
+El nódulo AV se encuentra en la sección inferior de la espalda del tabique interauricular cerca de la abertura del seno coronario y conduce el impulso eléctrico normal desde las aurículas hasta los ventrículos.
+
+El nodo AV es bastante compacto (~1 x 3 x 5 mm).
+
+
+== Estructura ==
+
+
+
+=== Ubicación ===
+
+El nódulo AV se encuentra en la sección inferior de la espalda del tabique interauricular, cerca de la abertura del seno coronario, que conduce el impulso eléctrico normal desde las aurículas hasta los ventrículos.
+
+El nodo AV es bastante compacto (~1 x 3 x 5 mm).
+
+Está ubicado en el centro del triángulo de Koch, un triángulo encerrado por la valva septal de la válvula tricúspide, el seno coronario y la parte membranosa del tabique interauricular.
+
+
+=== Suministro de sangre ===
+
+El suministro de sangre del nódulo AV proviene de la rama del nódulo auriculoventricular.
+
+El origen de esta arteria es más comúnmente (80-90% de los corazones) una rama de la arteria coronaria derecha, y el resto se origina en la arteria circunfleja izquierda.
+
+Esto está asociado con el predominio de la circulación de la arteria coronaria.
+
+En los individuos con dominancia derecha, el suministro de sangre proviene de la arteria coronaria derecha, mientras que en los individuos con dominancia izquierda se origina en la arteria circunfleja izquierda.
+
+
+=== Desarrollo ===
+
+La señalización celular BMP (proteína morfogenética ósea) juega un papel clave en diversos aspectos de la diferenciación y morfogénesis cardíaca. (BMP) son moléculas de señalización multifuncionales críticas para el desarrollo del nodo AV.
+
+BMP influye en el desarrollo del nódulo AV a través del receptor Alk3 (quinasa 3 similar al receptor de activina).
+
+Las anomalías observadas en BMP y Alk3 están asociadas con algunas enfermedades cardiovasculares como la anomalía de Ebstein y la enfermedad de conducción AV.
+
+
+== Función ==
+
+
+El nódulo AV recibe dos entradas de la aurícula derecha: posteriormente, a través de la cresta terminal, y anteriormente, a través del tabique interauricular. La contracción de las células del músculo cardíaco requiere la despolarización y repolarización de sus membranas celulares.
+
+El movimiento de iones a través de las membranas celulares provoca estos eventos.
+
+El sistema de conducción cardiaco (y parte del nódulo AV) coordina la actividad mecánica de los miocitos.
+
+Una onda de excitación se propaga desde el nódulo sinoauricular a través de las aurículas a lo largo de canales de conducción especializados.
+
+Esto activa el nodo AV.
+
+El nódulo auriculoventricular retrasa los impulsos aproximadamente 0,09 s.
+
+Este retraso en el pulso cardíaco es extremadamente importante: asegura que las aurículas hayan expulsado su sangre hacia los ventrículos primero antes de que los ventrículos se contraigan. Esto también protege a los ventrículos de una respuesta de frecuencia excesivamente rápida a las arritmias auriculares (ver más abajo). El ritmo cardíaco se produce a través de dos vías diferentes:
+
+la primera "vía" tiene una velocidad de conducción lenta pero un período refractario más corto
+la segunda “vía” tiene una velocidad de conducción más rápida pero un período refractario más largo. Una propiedad importante que es exclusiva del nódulo AV es la conducción decreciente, en la que cuanto más frecuentemente se estimula el nódulo, más lentamente conduce.
+
+Esta es la propiedad del nódulo AV que impide la conducción rápida al ventrículo en casos de ritmos auriculares rápidos, como la fibrilación auricular o el aleteo auricular.
+La tasa de activación intrínseca normal del nódulo AV sin estimulación (como la del nódulo SA) es de 40 a 60 veces por minuto.
+
+Esta propiedad es importante porque la pérdida del sistema de conducción antes del nódulo AV aún debería dar como resultado la estimulación de los ventrículos por la capacidad de creación de marcapasos (más lenta) del nódulo AV.
+
+
+== Importancia clínica ==
+
+La enfermedad de conducción auriculoventricular (bloqueo AV) describe el deterioro de la continuidad eléctrica entre las aurículas y los ventrículos.
+
+Ocurre cuando la despolarización auricular no llega a los ventrículos o se lleva a cabo con un retraso anormalmente largo.
+
+Puede ser el resultado de una lesión o ser un trastorno heredado genéticamente.
+Taquicardia de reentrada en el nódulo auriculoventricular.
+Tumor quístico de la región del nódulo auriculoventricular (CTAVN) El CTAVN es de origen endodérmico y ocurre exclusivamente en el área del nódulo AV, la válvula tricúspide y el tabique interauricular.
+
+
+
+https://en.wikipedia.org/wiki/Atrioventricular_node
+
+;;;PT;;;
+
+
+
+NÓ ATRIOVENTRICULAR
+
+
+O nó atrioventricular ou nó AV conecta eletricamente os átrios e ventrículos do coração para coordenar os batimentos na parte superior do coração; faz parte do sistema de condução elétrica do coração.
+
+O nó AV situa-se na parte inferior das costas do septo interatrial, próximo à abertura do seio coronário, e conduz o impulso elétrico normal dos átrios para os ventrículos.
+
+O nó AV é bastante compacto (~1 x 3 x 5 mm).
+
+
+== Estrutura ==
+
+
+
+=== Localização ===
+
+O nó AV situa-se na parte inferior das costas do septo interatrial, próximo à abertura do seio coronário, que conduz o impulso elétrico normal dos átrios para os ventrículos.
+
+O nó AV é bastante compacto (~1 x 3 x 5 mm).
+
+Localiza-se no centro do triângulo de Koch — um triângulo circundado pelo folheto septal da válvula tricúspide, pelo seio coronário e pela parte membranosa do septo interatrial.
+
+
+=== Suprimento sanguíneo ===
+
+O suprimento sanguíneo do nó AV é do ramo nodal atrioventricular.
+
+A origem dessa artéria é mais comumente (80-90% dos corações) um ramo da artéria coronária direita, com o restante originando-se da artéria circunflexa esquerda.
+
+Isso está associado à dominância da circulação da artéria coronária.
+
+Nos indivíduos dominantes à direita, o suprimento sanguíneo é da artéria coronária direita, enquanto nos indivíduos dominantes à esquerda origina-se da artéria circunflexa esquerda.
+
+
+=== Desenvolvimento ===
+
+A sinalização celular BMP (Bone morphogenetic protein) desempenha um papel fundamental em diversos aspectos da diferenciação e morfogênese cardíaca. (BMPs) são moléculas de sinalização multifuncionais críticas para o desenvolvimento do nó AV.
+
+A BMP influencia o desenvolvimento do nó AV através do receptor Alk3 (quinase 3 semelhante ao receptor de actina).
+
+Anormalidades observadas em BMP e Alk3 estão associadas a algumas doenças cardiovasculares, como anomalia de Ebstein e doença de condução AV.
+
+
+== Função ==
+
+
+O nó AV recebe duas entradas do átrio direito: posteriormente, através da crista terminal, e anteriormente, através do septo interatrial. A contração das células do músculo cardíaco requer despolarização e repolarização de suas membranas celulares.
+
+O movimento de íons através das membranas celulares causa esses eventos.
+
+O sistema de condução cardíaca (e parte do nó AV) coordena a atividade mecânica dos miócitos.
+
+Uma onda de excitação se espalha do nodo sinoatrial através dos átrios ao longo de canais de condução especializados.
+
+Isso ativa o nó AV.
+
+O nó atrioventricular atrasa os impulsos em aproximadamente 0,09s.
+
+Esse atraso no pulso cardíaco é extremamente importante: garante que os átrios tenham ejetado seu sangue nos ventrículos antes que os ventrículos se contraiam. Isso também protege os ventrículos da resposta de frequência excessivamente rápida a arritmias atriais (veja abaixo). ritmo cardíaco ocorre através de duas vias diferentes:
+
+a primeira “via” tem uma velocidade de condução lenta, mas um período refratário mais curto
+a segunda “via” tem uma velocidade de condução mais rápida, mas um período refratário mais longo. Uma propriedade importante exclusiva do nó AV é a condução decremental, na qual quanto mais frequentemente o nó é estimulado, mais lentamente ele conduz.
+
+Esta é a propriedade do nó AV que impede a condução rápida para o ventrículo em casos de ritmos atriais rápidos, como fibrilação atrial ou flutter atrial.
+A taxa de disparo intrínseca normal do nodo AV sem estimulação (como a do nodo SA) é de 40-60 vezes/minuto.
+
+Essa propriedade é importante porque a perda do sistema de condução antes do nó AV ainda deve resultar em estimulação dos ventrículos pela capacidade de estimulação — mais lenta — do nó AV.
+
+
+== Significado clínico ==
+
+A doença de condução atrioventricular (bloqueio AV) descreve o comprometimento da continuidade elétrica entre os átrios e os ventrículos.
+
+Ocorre quando a despolarização atrial não atinge os ventrículos ou é realizada com atraso anormalmente longo.
+
+Pode resultar de uma lesão ou ser um distúrbio geneticamente herdado.
+Taquicardia por reentrada nodal atrioventricular.
+Tumor cístico da região nodal atrioventricular (CTAVN) O CTAVN é de origem endodérmica e ocorre exclusivamente na área do nó AV, valva tricúspide e septo interatrial.
+
+
+
+https://en.wikipedia.org/wiki/Atrioventricular_node
+
+;;;FR;;;
+
+
+
+NŒUD AURICULO-VENTRICULAIRE
+
+
+Le nœud auriculo-ventriculaire ou nœud AV relie électriquement les oreillettes et les ventricules du cœur pour coordonner les battements dans la partie supérieure du cœur ; il fait partie du système de conduction électrique du cœur.
+
+Le nœud AV se situe dans la partie inférieure du dos du septum interauriculaire près de l'ouverture du sinus coronaire et conduit l'impulsion électrique normale des oreillettes aux ventricules.
+
+Le nœud AV est assez compact (~1 x 3 x 5 mm).
+
+
+== Structure ==
+
+
+
+=== Emplacement ===
+
+Le nœud AV se situe dans la partie inférieure du dos du septum interauriculaire près de l'ouverture du sinus coronaire, qui conduit l'impulsion électrique normale des oreillettes aux ventricules.
+
+Le nœud AV est assez compact (~1 x 3 x 5 mm).
+
+Il est situé au centre du triangle de Koch, un triangle délimité par le feuillet septal de la valve tricuspide, le sinus coronaire et la partie membraneuse du septum interauriculaire.
+
+
+=== Approvisionnement en sang ===
+
+L'approvisionnement en sang du nœud AV provient de la branche nodale auriculo-ventriculaire.
+
+L'origine de cette artère est le plus souvent (80 à 90 % des cœurs) une branche de l'artère coronaire droite, le reste provenant de l'artère circonflexe gauche.
+
+Ceci est associé à la dominance de la circulation de l'artère coronaire.
+
+Chez les individus dominants à droite, l'apport sanguin provient de l'artère coronaire droite, tandis que chez les individus dominants à gauche, il provient de l'artère circonflexe gauche.
+
+
+=== Développement ===
+
+La signalisation cellulaire BMP (Bone morphogenetic protein) joue un rôle clé dans divers aspects de la différenciation cardiaque et de la morphogenèse. (BMP) sont des molécules de signalisation multifonctionnelles essentielles au développement du nœud AV.
+
+La BMP influence le développement du nœud AV via le récepteur Alk3 (kinase 3 de type récepteur d'activine).
+
+Les anomalies observées dans la BMP et l'Alk3 sont associées à certaines maladies cardiovasculaires telles que l'anomalie d'Ebstein et la maladie de la conduction AV.
+
+
+== Fonction ==
+
+
+Le nœud AV reçoit deux entrées de l'oreillette droite : en arrière, via la crista terminalis, et en avant, via le septum interauriculaire. La contraction des cellules du muscle cardiaque nécessite une dépolarisation et une repolarisation de leurs membranes cellulaires.
+
+Le mouvement des ions à travers les membranes cellulaires provoque ces événements.
+
+Le système de conduction cardiaque (et le nœud AV qui en fait partie) coordonne l'activité mécanique des myocytes.
+
+Une onde d'excitation se propage du nœud sino-auriculaire à travers les oreillettes le long de canaux de conduction spécialisés.
+
+Cela active le nœud AV.
+
+Le nœud auriculo-ventriculaire retarde les impulsions d'environ 0,09 s.
+
+Ce retard du pouls cardiaque est extrêmement important : il garantit que les oreillettes ont éjecté leur sang dans les ventricules avant que les ventricules ne se contractent. Cela protège également les ventricules d'une réponse excessivement rapide aux arythmies auriculaires (voir ci-dessous). le rythme cardiaque se produit par deux voies différentes :
+
+la première "voie" a une vitesse de conduction lente mais une période réfractaire plus courte
+la deuxième "voie" a une vitesse de conduction plus rapide mais une période réfractaire plus longue. Une propriété importante qui est unique au nœud AV est la conduction décrémentale, dans laquelle plus le nœud est stimulé fréquemment, plus il conduit lentement.
+
+C'est la propriété du nœud AV qui empêche la conduction rapide vers le ventricule en cas de rythmes auriculaires rapides, tels que la fibrillation auriculaire ou le flutter auriculaire.
+Le taux de déclenchement intrinsèque normal du nœud AV sans stimulation (comme celui du nœud SA) est de 40 à 60 fois/minute.
+
+Cette propriété est importante car la perte du système de conduction avant le nœud AV devrait toujours entraîner la stimulation des ventricules par la capacité de stimulation — plus lente — du nœud AV.
+
+
+== Signification clinique ==
+
+La maladie de la conduction auriculo-ventriculaire (bloc AV) décrit une altération de la continuité électrique entre les oreillettes et les ventricules.
+
+Elle survient lorsque la dépolarisation auriculaire n'atteint pas les ventricules ou est effectuée avec un délai anormalement long.
+
+Elle peut résulter d'une blessure ou être une maladie génétiquement héréditaire.
+Tachycardie de réentrée nodale auriculo-ventriculaire.
+Tumeur kystique de la région nodale auriculo-ventriculaire (CTAVN) CTAVN est d'origine endodermique et se produit exclusivement dans la région du nœud AV, de la valve tricuspide et du septum interauriculaire.
+
+
+
+https://en.wikipedia.org/wiki/Atrioventricular_node

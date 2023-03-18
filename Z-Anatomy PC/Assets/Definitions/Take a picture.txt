@@ -1,0 +1,176 @@
+
+
+TAKE A PICTURE
+
+
+Press '0'(Numpad zero) to pass in camera view
+
+Press 'G' to move
+Press 'G+Z' to move on the Z-Axis (vertical)
+Press 'G+X' to move on the X-Axis (horizontal)
+
+Press 'R+R' to rotate freely
+Press 'R+Z' to rotate along the Z-Axis
+Press 'R+X' to rotate along the X-Axis
+
+Press 'S' to resize the camera
+
+Press 'F12' to Render an image
+Press 'F3' to save this image in a folder of your choice
+
+Press 'Ctrl+F12' to Render an animation.
+
+Go to Properties>Output properties>Format>Resolution
+To change the proportions, definition and/or compression.
+
+---
+
+This setup -in which the 'Orthographic scale' is driven by the 'Take a picture' object's size, and is parented to it; is meant to facilitate the rendering of images.
+
+(The usual rendering mode can be recreated adding a new camera, setting it to active camera (Select it and press 'Ctrl+0').
+
+In the customized'Anatomy Shortcuts', pressing 'F12' creates a 'Viewport Render' instead of the traditional 'Render'because it is faster and only shows what you see in the viewport.
+
+If you want to use the compositing (post-rendering effects):
+-Press 'N' to open the menu
+-Go to 'Visibility' and Press 'Sync Visibility'
+This step will make sure that what you see is what you get.
+-Render > RenderImage/Animation
+
+
+
+
+;;;ES;;;
+
+
+
+TOMA UNA FOTO
+
+
+Presione '0' (teclado numérico cero) para pasar a la vista de cámara
+
+Presiona 'G' para moverte
+Presiona 'G+Z' para moverte en el eje Z (vertical)
+Presiona 'G+X' para moverte en el eje X (horizontal)
+
+Pulse 'R+R' para girar libremente
+Presione 'R+Z' para rotar a lo largo del eje Z
+Presione 'R+X' para rotar a lo largo del eje X
+
+Presione 'S' para cambiar el tamaño de la cámara
+
+Presione 'F12' para renderizar una imagen
+Presione 'F3' para guardar esta imagen en una carpeta de su elección
+
+Presione 'Ctrl+F12' para renderizar una animación.
+
+Vaya a Propiedades>Propiedades de salida>Formato>Resolución
+Para cambiar las proporciones, definición y/o compresión.
+
+---
+
+Esta configuración, en la que la 'Escala ortográfica' es impulsada por el tamaño del objeto 'Tomar una foto', y está relacionado con él; está destinado a facilitar la representación de imágenes.
+
+(El modo de renderizado habitual se puede recrear agregando una nueva cámara, configurándola como cámara activa (selecciónela y presione 'Ctrl+0').
+
+En los 'Accesos directos de anatomía' personalizados, al presionar 'F12' se crea un 'Renderizado de ventana gráfica' en lugar del 'Renderizado' tradicional porque es más rápido y solo muestra lo que ve en la ventana gráfica.
+
+Si desea utilizar la composición (efectos posteriores al renderizado):
+-Presione 'N' para abrir el menú
+-Ve a 'Visibilidad' y presiona 'Sincronizar visibilidad'
+Este paso se asegurará de que lo que ve es lo que obtiene.
+-Renderizar > RenderizarImagen/Animación
+
+
+
+
+
+;;;PT;;;
+
+
+
+TIRAR UMA FOTO
+
+
+Pressione '0' (Numpad zero) para passar na visão da câmera
+
+Pressione 'G' para mover
+Pressione 'G+Z' para mover no eixo Z (vertical)
+Pressione 'G+X' para mover no eixo X (horizontal)
+
+Pressione 'R+R' para girar livremente
+Pressione 'R+Z' para girar ao longo do eixo Z
+Pressione 'R+X' para girar ao longo do eixo X
+
+Pressione 'S' para redimensionar a câmera
+
+Pressione 'F12' para renderizar uma imagem
+Pressione 'F3' para salvar esta imagem em uma pasta de sua escolha
+
+Pressione 'Ctrl+F12' para renderizar uma animação.
+
+Vá para Propriedades>Propriedades de saída>Formato>Resolução
+Para alterar as proporções, definição e/ou compressão.
+
+---
+
+Esta configuração - na qual a 'escala ortográfica' é orientada pelo tamanho do objeto 'Tirar uma foto' e é parente dele; destina-se a facilitar a renderização de imagens.
+
+(O modo de renderização usual pode ser recriado adicionando uma nova câmera, configurando-a para a câmera ativa (Selecione-a e pressione 'Ctrl+0').
+
+Nos 'Atalhos de anatomia' personalizados, pressionar 'F12' cria um 'Viewport Render' em vez do tradicional 'Render' porque é mais rápido e mostra apenas o que você vê na viewport.
+
+Se você quiser usar a composição (efeitos pós-renderização):
+-Pressione 'N' para abrir o menu
+-Vá para 'Visibilidade' e pressione 'Sincronizar Visibilidade'
+Esta etapa garantirá que o que você vê é o que você obtém.
+-Render > RenderImage/Animation
+
+
+
+
+
+;;;FR;;;
+
+
+
+PRENDRE UNE PHOTO
+
+
+Appuyez sur '0' (pavé numérique zéro) pour passer en vue caméra
+
+Appuyez sur 'G' pour vous déplacer
+Appuyez sur 'G+Z' pour vous déplacer sur l'axe Z (vertical)
+Appuyez sur 'G+X' pour vous déplacer sur l'axe X (horizontal)
+
+Appuyez sur 'R+R' pour tourner librement
+Appuyez sur 'R+Z' pour tourner le long de l'axe Z
+Appuyez sur 'R + X' pour faire pivoter le long de l'axe X
+
+Appuyez sur 'S' pour redimensionner la caméra
+
+Appuyez sur 'F12' pour rendre une image
+Appuyez sur 'F3' pour enregistrer cette image dans un dossier de votre choix
+
+Appuyez sur 'Ctrl+F12' pour effectuer le rendu d'une animation.
+
+Allez dans Propriétés>Propriétés de sortie>Format>Résolution
+Pour modifier les proportions, la définition et/ou la compression.
+
+---
+
+Cette configuration - dans laquelle 'l'échelle orthographique' est pilotée par la taille de l'objet 'Prendre une photo' et lui est apparentée ; est destiné à faciliter le rendu des images.
+
+(Le mode de rendu habituel peut être recréé en ajoutant une nouvelle caméra, en la définissant comme caméra active (sélectionnez-la et appuyez sur 'Ctrl+0').
+
+Dans les "raccourcis anatomiques" personnalisés, appuyer sur "F12" crée un "rendu de la fenêtre" au lieu du "rendu" traditionnel car il est plus rapide et ne montre que ce que vous voyez dans la fenêtre.
+
+Si vous souhaitez utiliser le compositing (effets de post-rendu) :
+-Appuyez sur 'N' pour ouvrir le menu
+-Allez à 'Visibilité' et appuyez sur 'Sync Visibilité'
+Cette étape permettra de s'assurer que ce que vous voyez est ce que vous obtenez.
+-Rendu > RenduImage/Animation
+
+
+
+

@@ -1,0 +1,7 @@
+<map id="CameraController.CenterView" name="CameraController.CenterView">
+<area shape="rect" id="node1" title="Centers the camera on the active objects or the selected object(s)." alt="" coords="5,70,197,95"/>
+<area shape="rect" id="node2" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="264,5,461,45"/>
+<area shape="rect" id="node4" href="$class_camera_controller.html#ae8f0cded58d5553031b76bcf41fd2d4d" title="Sets the target game object and updates the pivot to its position." alt="" coords="271,70,454,95"/>
+<area shape="rect" id="node5" href="$class_camera_controller.html#a295b28e32bc3b9f8fa767988dbd0c630" title="Initiates a coroutine to update the camera&#39;s position to a new distance from its target,..." alt="" coords="245,119,480,145"/>
+<area shape="rect" id="node3" href="$class_camera_controller.html#aaa7e8228113908116a25b1a69eea1c1b" title="Updates the bounds." alt="" coords="528,13,739,38"/>
+</map>

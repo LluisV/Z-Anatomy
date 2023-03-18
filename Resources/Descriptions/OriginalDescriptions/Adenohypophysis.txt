@@ -1,0 +1,223 @@
+
+
+ADENOHYPOPHYSIS/ANTERIOR PITUITARY
+
+
+A major organ of the endocrine system, the anterior pituitary (also called the adenohypophysis or pars anterior) is the glandular, anterior lobe that together with the posterior lobe (posterior pituitary, or the neurohypophysis) makes up the pituitary gland (hypophysis). 
+
+The anterior pituitary regulates several physiological processes, including stress, growth, reproduction, and lactation. 
+
+Proper functioning of the anterior pituitary and of the organs it regulates can often be ascertained via blood tests that measure hormone levels.
+
+
+== Structure ==
+
+
+The pituitary gland sits in a protective bony enclosure called the sella turcica (Turkish chair/saddle). 
+
+It is composed of three lobes: the anterior, intermediate, and posterior lobes. 
+
+In many animals, these lobes are distinct. 
+
+However, in humans, the intermediate lobe is but a few cell layers thick and indistinct; as a result, it is often considered part of the anterior pituitary. 
+
+In all animals, the fleshy, glandular anterior pituitary is distinct from the neural composition of the posterior pituitary.
+
+The anterior pituitary is composed of three regions:
+
+Pars distalisThe pars distalis (distal part) comprises the majority of the anterior pituitary and is where the bulk of pituitary hormone production occurs. 
+
+The pars distalis contains two types of cells, including chromophobe cells and chromophil cells. 
+
+The chromophils can be further divided into acidophils (alpha cells) and basophils (beta cells). 
+
+These cells all together produce hormones of the anterior pituitary and release them into the blood stream.
+
+Nota bene: The terms "basophil" and "acidophil" are used by some books, whereas others prefer not to use these terms. 
+
+This is due to the possible confusion with white blood cells, where one may also find basophils and acidophils.
+
+		
+Pars tuberalis
+The pars tuberalis (tubular part) forms a part of the sheath extending up from the pars distalis, which joins with the pituitary stalk (also known as the infundibular stalk or infundibulum), arising from the posterior lobe. 
+
+(The pituitary stalk connects the hypothalamus to the posterior pituitary.) The function of the pars tuberalis is poorly understood. 
+
+However, it has been seen to be important in receiving the endocrine signal in the form of TSHB (a β subunit of TSH), informing the pars tuberalis of the photoperiod (length of day). 
+
+The expression of this subunit is regulated by the secretion of melatonin in response to light information transmitted to the pineal gland. 
+
+Earlier studies have shown localization of melatonin receptors in this region.
+
+Pars intermedia
+The pars intermedia (intermediate part) sits between the pars distalis and the posterior pituitary, forming the boundary between the anterior and posterior pituitaries. 
+
+It is very small and indistinct in humans.
+
+
+=== Development ===
+
+The anterior pituitary is derived from the ectoderm, more specifically from that of Rathke’s pouch, part of the developing hard palate in the embryo.Rathke’s pouch is also ectodermal in origin.
+
+The pouch eventually loses its connection with the pharynx, giving rise to the anterior pituitary. 
+
+The anterior wall of Rathke's pouch proliferates, filling most of the pouch to form the pars distalis and the pars tuberalis. 
+
+The posterior wall of the anterior pituitary forms the pars intermedia. 
+
+Its formation from the soft tissues of the upper palate contrasts with the posterior pituitary, which originates from neuroectoderm.
+
+
+== Function ==
+
+The anterior pituitary contains five types of endocrine cell, and they are defined by the hormones they secrete: somatotropes (GH); Lactotropes (PRL); gonadotropes (LH and FSH); corticotropes (ACTH) and thyrotropes (TSH). 
+
+It also contains non-endocrine folliculostellate cells which are thought to stimulate and support the endocrine cell populations.
+
+Hormones secreted by the anterior pituitary are trophic hormones (Greek: trophe, “nourishment”). 
+
+Trophic hormones directly affect growth either as hyperplasia or hypertrophy on the tissue it is stimulating. 
+
+Tropic hormones are named for their ability to act directly on target tissues or other endocrine glands to release hormones, causing numerous cascading physiological responses.
+
+
+=== Role in the endocrine system ===
+
+
+Hypothalamic controlHormone secretion from the anterior pituitary gland is regulated by hormones secreted by the hypothalamus. 
+
+Neuroendocrine cells in the hypothalamus project axons to the median eminence, at the base of the brain. 
+
+At this site, these cells can release substances into small blood vessels that travel directly to the anterior pituitary gland (the hypothalamo-hypophyseal portal vessels).
+
+Other Control MechanismsAside from hypothalamic control of the anterior pituitary, other systems in the body have been shown to regulate the anterior pituitary’s function. 
+
+GABA can either stimulate or inhibit the secretion of luteinizing hormone (LH) and growth hormone (GH) and can stimulate the secretion of thyroid-stimulating hormone (TSH). 
+
+Prostaglandins are now known to inhibit adrenocorticotropic hormone (ACTH) and also to stimulate TSH, GH and LH release. 
+
+GABA, through action with the hypothalamus, has been shown experimentally to influence the level of GH secretion. 
+
+Clinical evidence supports the experimental findings of the excitatory and inhibitory effects GABA has on GH secretion, dependent on GABA’s site of action within the hypothalamic-pituitary unit.
+
+
+=== Effects of the anterior pituitary ===
+
+Thermal homeostasisThe homeostatic maintenance of the anterior pituitary is crucial to our physiological well being. 
+
+Increased plasma levels of TSH induce hyperthermia through a mechanism involving increased metabolism and cutaneous vasodilation. 
+
+Increased levels of LH also result in hypothermia but through a decreased metabolism action. 
+
+ACTH increase metabolism and induce cutaneous vasoconstriction, increased plasma levels also result in hyperthermia and prolactin decreases with decreasing temperature values. 
+
+Follicle-stimulating hormone (FSH) also may cause hypothermia if increased beyond homeostatic levels through an increased metabolic mechanism only.
+
+Gonadal function
+Gonadotropes, primarily luteinising hormone (LH) secreted from the anterior pituitary stimulates the ovulation cycle in female mammals, whilst in the males, LH stimulates the synthesis of androgen which drives the ongoing will to mate together with a constant production of sperm.
+
+HPA axis
+Hypothalamic-pituitary-adrenal axis
+The anterior pituitary plays a role in stress response. 
+
+Corticotropin releasing hormone (CRH) from the hypothalamus stimulates ACTH release in a cascading effect that ends with the production of glucocorticoids from the adrenal cortex.
+
+
+=== Behavioral effects ===
+
+Development
+The release of GH, LH, and FSH are required for correct human development, including gonadal development.
+
+Breast-feeding
+Release of the hormone prolactin is essential for lactation.
+Stress
+Operating through the hypothalamic-pituitary-adrenal axis (HPA), the anterior pituitary gland has a large role in the neuroendocrine system’s stress response. 
+
+Stress induces a release of corticotropin-releasing hormone (CRH) and vasopressin from the hypothalamus, which activates the release of adrenocorticotropic hormone (ACTH) from the anterior pituitary gland. 
+
+Then, this acts on the adrenal cortex to produce glucocorticoids such as cortisol. 
+
+These glucocorticoids act back on the anterior pituitary gland and the hypothalamus with negative feedback to slow the production of CRH and ACTH. 
+
+Increased cortisol under stress conditions can cause the following: metabolic effects (mobilization of glucose, fatty acids, and amino acids), bone re-absorption (calcium mobilization), activation of the sympathetic nervous system response (fight or flight), anti-inflammatory effects, and inhibition of reproduction/growth. 
+
+When the anterior pituitary gland is removed (hypophysectomy) in rats, their avoidance learning mechanisms were slowed, but injections of ACTH restored their performance. 
+
+In addition, stress may delay the release of reproductive hormones such as luteinizing hormone (LH) and follicle-stimulating hormone (FSH). 
+
+This shows that the anterior pituitary gland is involved in behavioral functions as well as being part of a larger pathway for stress responses. 
+
+It is also known that (HPA) hormones are related to certain skin diseases and skin homeostasis. 
+
+There is evidence linking hyperactivity of HPA hormones to stress-related skin diseases and skin tumors.
+
+Aging
+Operating through the hypothalamic-pituitary-gonadal axis, the anterior pituitary gland also affects the reproductive system. 
+
+The hypothalamus releases gonadotropin-releasing hormone (GnRH), which stimulates the release of luteinizing hormone (LH) and follicle-stimulating hormone. 
+
+Then the gonads produce estrogen and testosterone. 
+
+The decrease in release of gonadotropins (LH and FSH) caused by normal aging may be responsible for impotence and frailty in elderly men because of the eventual decrease in production of testosterone. 
+
+This lower level of testosterone can have other effects, such as reduced libido, well-being and mood, muscle and bone strength, and metabolism.
+
+Tactile responding
+It has been shown that infant mice who were stroked with a paintbrush (simulating motherly care) had more release and binding of growth hormone (GH) from the anterior pituitary gland.Circadian rhythms
+
+Light information received by the eyes is transmitted to the pineal gland via the circadian pacemaker (the suprachiasmatic nucleus). 
+
+Diminishing light stimulates the release of melatonin from the pineal gland which can also affect the secretion levels in the hypothalamic-pituitary-gonadal axis. 
+
+Melatonin can lower levels of LH and FSH, which will decrease levels of estrogen and testosterone. 
+
+In addition, melatonin may affect production of prolactin.
+
+
+== Clinical significance ==
+
+
+=== Increased activity ===
+
+Hyperpituitarism is the condition where the pituitary secretes excessive amounts of hormones. 
+
+This hypersecretion often results in the formation of a pituitary adenoma (tumour), which are benign apart from a tiny fraction. 
+
+There are mainly three types of anterior pituitary tumors and their associated disorders. 
+
+For example, acromegaly results from excessive secretion of growth hormone (GH) often being released by a pituitary adenoma. 
+
+This disorder can cause disfigurement and possibly death and can lead to gigantism, a hormone disorder shown in “giants” such as André the Giant, where it occurs before the epiphyseal plates in bones close in puberty. 
+
+The most common type of pituitary tumour is a prolactinoma which hypersecretes prolactin. 
+
+A third type of pituitary adenoma secretes excess ACTH, which in turn, causes an excess of cortisol to be secreted and is the cause of Cushing's disease.
+
+
+=== Decreased activity ===
+
+
+Hypopituitarism is characterized by a decreased secretion of hormones released by the anterior pituitary. 
+
+For example, hypo-secretion of GH prior to puberty can be a cause of dwarfism. 
+
+In addition, secondary adrenal insufficiency can be caused by hypo-secretion of ACTH which, in turn, does not signal the adrenal cortex to produce a sufficient amount of cortisol. 
+
+This is a life-threatening condition. 
+
+Hypopituitarism could be caused by the destruction or removal of the anterior pituitary tissue through traumatic brain injury, tumor, tuberculosis, or syphilis, among other causes. 
+
+This disorder used to be referred to as Simmonds' disease but now according to the Diseases Database it is called Sheehan syndrome. 
+
+If the hypopituitarism is caused by the blood loss associated with childbirth, the disorder is referred to as Sheehan syndrome.
+
+
+== History ==
+
+=== Etymology ===
+
+The anterior pituitary is also known as the adenohypophysis, meaning "glandular undergrowth", from the Greek adeno- ("gland"), hypo ("under"), and physis ("growth").
+
+
+
+https://en.wikipedia.org/wiki/Anterior_pituitary

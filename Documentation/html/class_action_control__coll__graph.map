@@ -1,0 +1,8 @@
+<map id="ActionControl" name="ActionControl">
+<area shape="rect" id="node1" title=" " alt="" coords="312,212,412,237"/>
+<area shape="rect" id="node2" title=" " alt="" coords="336,5,447,31"/>
+<area shape="rect" id="node3" href="$class_expand_collapse_u_i.html" title=" " alt="" coords="34,80,162,105"/>
+<area shape="rect" id="node4" href="$class_toggle_change_color.html" title=" " alt="" coords="324,80,459,105"/>
+<area shape="rect" id="node5" href="$class_box_selection.html" title=" " alt="" coords="483,80,582,105"/>
+<area shape="rect" id="node6" href="$class_brush_selection.html" title=" " alt="" coords="607,80,717,105"/>
+</map>

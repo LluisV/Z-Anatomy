@@ -1,0 +1,300 @@
+
+
+COCHLEAR NERVE
+
+
+The cochlear nerve (also auditory nerve or acoustic nerve) is one of two parts of the vestibulocochlear nerve, a cranial nerve present in amniotes, the other part being the vestibular nerve. 
+
+The cochlear nerve carries auditory sensory information from the cochlea of the inner ear directly to the brain. 
+
+The other portion of the vestibulocochlear nerve is the vestibular nerve, which carries spatial orientation information to the brain from the semicircular canals, also known as semicircular ducts.
+
+
+== Anatomy and connections ==
+
+In terms of anatomy, an auditory nerve fiber is either bipolar or unipolar, with its distal projection being called the peripheral process, and its proximal projection being called the axon; these two projections are also known as the "peripheral axon" and the "central axon", respectively. 
+
+The peripheral process is sometimes referred to as a dendrite, although that term is somewhat inaccurate. 
+
+Unlike the typical dendrite, the peripheral process generates and conducts action potentials, which then "jump" across the cell body (or soma) and continue to propagate along the central axon. 
+
+In this respect, auditory nerve fibers are somewhat unusual in that action potentials pass through the soma. 
+
+Both the peripheral process and the axon are myelinated.
+In humans, there are on average 30,000 nerve fibers within the cochlear nerve. 
+
+The number of fibers varies significantly across species; the domestic cat, for example, has an average of 50,000 fibers. 
+
+The peripheral axons of auditory nerve fibers form synaptic connections with the hair cells of the cochlea via ribbon synapses using the neurotransmitter glutamate. 
+
+The central axons form synaptic connections with cells in the cochlear nucleus of the brainstem.
+The cell bodies of the cochlear nerve lie within the cochlea and collectively form the spiral ganglion, named for the spiral shape it shares with the cochlea. 
+
+These central axons exit the cochlea at its base and form a nerve trunk, which, in humans, is approximately one inch long. 
+
+This travels in parallel with the vestibular nerves through the internal auditory canal, through which it connects to the brainstem. 
+
+There, its fibers synapse with the cell bodies of the cochlear nucleus.
+
+
+== Types of neurons ==
+
+In mammals, cochlear nerve fibers are classified as either type I or type II.
+
+Type I neurons make up 90-95% of the neurons and innervate the inner hair cells. 
+
+They have relatively large diameters, are bipolar, and are myelinated. 
+
+Each type I axon innervates only a single inner hair cell, but each inner hair cell is innervated by up to 30 such nerve fibers, depending on species and location within the cochlea.
+Type II neurons make up the remaining 5-10% of the neurons and innervate the outer hair cells. 
+
+They have relatively small diameters, are unipolar, and are unmyelinated.
+
+
+== Cochlear nuclear complex ==
+
+In mammals, the axons from each cochlear nerve terminate in the cochlear nuclear complex that is ipsilaterally located in the medulla of the brainstem. 
+
+The cochlear nucleus is the first 'relay station' of the central auditory system and receives mainly ipsilateral afferent input.
+The three major components of the cochlear nuclear complex are (see figure below):
+
+the dorsal cochlear nucleus (DCN)
+the anteroventral cochlear nucleus (AVCN)
+the posteroventral cochlear nucleus (PVCN)Each of the three cochlear nuclei are tonotopically organized. 
+
+The axons from the low-frequency region of the cochlea project to the ventral portion of the dorsal cochlear nucleus and the ventrolateral portions of the anteroventral cochlear nucleus. 
+
+The axons from the high-frequency region project to the dorsal portion of the anteroventral cochlear nucleus and the uppermost dorsal portions of the dorsal cochlear nucleus. 
+
+The axons from the intermediate frequency region project to intermediate targets, such that tonotopy is preserved between the cochlea and the cochlear nuclei.
+
+
+
+https://en.wikipedia.org/wiki/Cochlear_nerve
+;;;ES;;;
+
+
+
+NERVIO COCLEAR
+
+
+El nervio coclear (también nervio auditivo o nervio acústico) es una de las dos partes del nervio vestibulococlear, un nervio craneal presente en los amniotas, siendo la otra parte el nervio vestibular.
+
+El nervio coclear transporta información sensorial auditiva desde la cóclea del oído interno directamente al cerebro.
+
+La otra porción del nervio vestibulococlear es el nervio vestibular, que lleva información de orientación espacial al cerebro desde los canales semicirculares, también conocidos como conductos semicirculares.
+
+
+== Anatomía y conexiones ==
+
+En términos de anatomía, una fibra del nervio auditivo es bipolar o unipolar, y su proyección distal se denomina proceso periférico y su proyección proximal se denomina axón; estas dos proyecciones también se conocen como "axón periférico" y "axón central", respectivamente.
+
+El proceso periférico a veces se denomina dendrita, aunque ese término es algo inexacto.
+
+A diferencia de la dendrita típica, el proceso periférico genera y conduce potenciales de acción, que luego "saltan" a través del cuerpo celular (o soma) y continúan propagándose a lo largo del axón central.
+
+A este respecto, las fibras del nervio auditivo son algo inusuales en cuanto a que los potenciales de acción pasan a través del soma.
+
+Tanto el proceso periférico como el axón están mielinizados.
+En los seres humanos, hay un promedio de 30 000 fibras nerviosas dentro del nervio coclear.
+
+El número de fibras varía significativamente entre especies; el gato doméstico, por ejemplo, tiene una media de 50.000 fibras.
+
+Los axones periféricos de las fibras del nervio auditivo forman conexiones sinápticas con las células ciliadas de la cóclea a través de sinapsis en cinta utilizando el neurotransmisor glutamato.
+
+Los axones centrales forman conexiones sinápticas con células en el núcleo coclear del tronco encefálico.
+Los cuerpos celulares del nervio coclear se encuentran dentro de la cóclea y forman colectivamente el ganglio espiral, llamado así por la forma espiral que comparte con la cóclea.
+
+Estos axones centrales salen de la cóclea por su base y forman un tronco nervioso que, en los seres humanos, mide aproximadamente una pulgada de largo.
+
+Este viaja en paralelo con los nervios vestibulares a través del canal auditivo interno, a través del cual se conecta con el tronco encefálico.
+
+Allí, sus fibras hacen sinapsis con los cuerpos celulares del núcleo coclear.
+
+
+== Tipos de neuronas ==
+
+En los mamíferos, las fibras nerviosas cocleares se clasifican como tipo I o tipo II.
+
+Las neuronas de tipo I constituyen el 90-95% de las neuronas e inervan las células ciliadas internas.
+
+Tienen diámetros relativamente grandes, son bipolares y están mielinizados.
+
+Cada axón de tipo I inerva solo una única célula ciliada interna, pero cada célula ciliada interna está inervada por hasta 30 fibras nerviosas de este tipo, según la especie y la ubicación dentro de la cóclea.
+Las neuronas de tipo II constituyen el 5-10% restante de las neuronas e inervan las células ciliadas externas.
+
+Tienen diámetros relativamente pequeños, son unipolares y no están mielinizados.
+
+
+== Complejo nuclear coclear ==
+
+En los mamíferos, los axones de cada nervio coclear terminan en el complejo nuclear coclear que está ubicado ipsolateralmente en la médula del tronco encefálico.
+
+El núcleo coclear es la primera "estación de relevo" del sistema auditivo central y recibe principalmente impulsos aferentes homolaterales.
+Los tres componentes principales del complejo nuclear coclear son (ver figura a continuación):
+
+el núcleo coclear dorsal (DCN)
+el núcleo coclear anteroventral (AVCN)
+el núcleo coclear posteroventral (PVCN) Cada uno de los tres núcleos cocleares está organizado tonotópicamente.
+
+Los axones de la región de baja frecuencia de la cóclea se proyectan hacia la porción ventral del núcleo coclear dorsal y las porciones ventrolaterales del núcleo coclear anteroventral.
+
+Los axones de la región de alta frecuencia se proyectan hacia la porción dorsal del núcleo coclear anteroventral y las porciones dorsales superiores del núcleo coclear dorsal.
+
+Los axones de la región de frecuencia intermedia se proyectan hacia objetivos intermedios, de modo que se conserva la tonotopía entre la cóclea y los núcleos cocleares.
+
+
+
+https://en.wikipedia.org/wiki/Cochlear_nerve
+
+;;;PT;;;
+
+
+
+NERVO COCLEAR
+
+
+O nervo coclear (também nervo auditivo ou nervo acústico) é uma das duas partes do nervo vestibulococlear, um nervo craniano presente nos amniotas, sendo a outra parte o nervo vestibular.
+
+O nervo coclear transporta informações sensoriais auditivas da cóclea do ouvido interno diretamente para o cérebro.
+
+A outra porção do nervo vestibulococlear é o nervo vestibular, que transporta informações de orientação espacial para o cérebro a partir dos canais semicirculares, também conhecidos como ductos semicirculares.
+
+
+== Anatomia e conexões ==
+
+Em termos de anatomia, uma fibra do nervo auditivo é bipolar ou unipolar, com sua projeção distal sendo chamada de processo periférico e sua projeção proximal sendo chamada de axônio; essas duas projeções também são conhecidas como "axônio periférico" e "axônio central", respectivamente.
+
+O processo periférico às vezes é chamado de dendrito, embora esse termo seja um pouco impreciso.
+
+Ao contrário do dendrito típico, o processo periférico gera e conduz potenciais de ação, que então "saltam" pelo corpo celular (ou soma) e continuam a se propagar ao longo do axônio central.
+
+A esse respeito, as fibras nervosas auditivas são um tanto incomuns, pois os potenciais de ação passam pelo soma.
+
+Tanto o processo periférico quanto o axônio são mielinizados.
+Em humanos, existem em média 30.000 fibras nervosas dentro do nervo coclear.
+
+O número de fibras varia significativamente entre as espécies; o gato doméstico, por exemplo, tem em média 50.000 fibras.
+
+Os axônios periféricos das fibras do nervo auditivo formam conexões sinápticas com as células ciliadas da cóclea por meio de sinapses em fita usando o neurotransmissor glutamato.
+
+Os axônios centrais formam conexões sinápticas com células no núcleo coclear do tronco cerebral.
+Os corpos celulares do nervo coclear situam-se dentro da cóclea e formam coletivamente o gânglio espiral, nomeado pela forma espiral que compartilha com a cóclea.
+
+Esses axônios centrais saem da cóclea em sua base e formam um tronco nervoso que, em humanos, tem aproximadamente 2,5 cm de comprimento.
+
+Este viaja em paralelo com os nervos vestibulares através do canal auditivo interno, através do qual se conecta ao tronco encefálico.
+
+Lá, suas fibras fazem sinapse com os corpos celulares do núcleo coclear.
+
+
+== Tipos de neurônios ==
+
+Nos mamíferos, as fibras nervosas cocleares são classificadas como tipo I ou tipo II.
+
+Os neurônios do tipo I compõem 90-95% dos neurônios e inervam as células ciliadas internas.
+
+Eles têm diâmetros relativamente grandes, são bipolares e são mielinizados.
+
+Cada axônio do tipo I inerva apenas uma única célula ciliada interna, mas cada célula ciliada interna é inervada por até 30 dessas fibras nervosas, dependendo da espécie e localização dentro da cóclea.
+Os neurônios do tipo II compõem os 5-10% restantes dos neurônios e inervam as células ciliadas externas.
+
+Eles têm diâmetros relativamente pequenos, são unipolares e não mielinizados.
+
+
+== Complexo nuclear coclear ==
+
+Nos mamíferos, os axônios de cada nervo coclear terminam no complexo nuclear coclear que está localizado ipsilateralmente na medula do tronco encefálico.
+
+O núcleo coclear é a primeira 'estação de retransmissão' do sistema auditivo central e recebe principalmente aferências ipsilaterais.
+Os três principais componentes do complexo nuclear coclear são (veja a figura abaixo):
+
+o núcleo coclear dorsal (DCN)
+o núcleo coclear anteroventral (AVCN)
+o núcleo coclear posteroventral (PVCN) Cada um dos três núcleos cocleares é organizado tonotopicamente.
+
+Os axônios da região de baixa frequência da cóclea projetam-se para a porção ventral do núcleo coclear dorsal e as porções ventrolaterais do núcleo coclear anteroventral.
+
+Os axônios da região de alta frequência projetam-se para a porção dorsal do núcleo coclear anteroventral e para as porções dorsais superiores do núcleo coclear dorsal.
+
+Os axônios da região de frequência intermediária projetam-se para alvos intermediários, de modo que a tonotopia é preservada entre a cóclea e os núcleos cocleares.
+
+
+
+https://en.wikipedia.org/wiki/Cochlear_nerve
+
+;;;FR;;;
+
+
+
+NERF COCHLEAIRE
+
+
+Le nerf cochléaire (également nerf auditif ou nerf acoustique) est l'une des deux parties du nerf vestibulocochléaire, un nerf crânien présent chez les amniotes, l'autre partie étant le nerf vestibulaire.
+
+Le nerf cochléaire transporte les informations sensorielles auditives de la cochlée de l'oreille interne directement au cerveau.
+
+L'autre partie du nerf vestibulocochléaire est le nerf vestibulaire, qui transporte les informations d'orientation spatiale vers le cerveau à partir des canaux semi-circulaires, également appelés canaux semi-circulaires.
+
+
+== Anatomie et connexions ==
+
+En termes d'anatomie, une fibre nerveuse auditive est bipolaire ou unipolaire, sa projection distale étant appelée le processus périphérique et sa projection proximale étant appelée l'axone ; ces deux projections sont également appelées respectivement «axone périphérique» et «axone central».
+
+Le processus périphérique est parfois appelé dendrite, bien que ce terme soit quelque peu imprécis.
+
+Contrairement à la dendrite typique, le processus périphérique génère et conduit des potentiels d'action, qui "sautent" ensuite à travers le corps cellulaire (ou soma) et continuent à se propager le long de l'axone central.
+
+À cet égard, les fibres nerveuses auditives sont quelque peu inhabituelles en ce que les potentiels d'action traversent le soma.
+
+Le processus périphérique et l'axone sont myélinisés.
+Chez l'homme, il y a en moyenne 30 000 fibres nerveuses dans le nerf cochléaire.
+
+Le nombre de fibres varie considérablement d'une espèce à l'autre; le chat domestique, par exemple, possède en moyenne 50 000 fibres.
+
+Les axones périphériques des fibres nerveuses auditives forment des connexions synaptiques avec les cellules ciliées de la cochlée via des synapses en ruban utilisant le neurotransmetteur glutamate.
+
+Les axones centraux forment des connexions synaptiques avec les cellules du noyau cochléaire du tronc cérébral.
+Les corps cellulaires du nerf cochléaire se trouvent dans la cochlée et forment collectivement le ganglion spiral, du nom de la forme en spirale qu'il partage avec la cochlée.
+
+Ces axones centraux sortent de la cochlée à sa base et forment un tronc nerveux qui, chez l'homme, mesure environ un pouce de long.
+
+Celui-ci se déplace parallèlement aux nerfs vestibulaires à travers le conduit auditif interne, par lequel il se connecte au tronc cérébral.
+
+Là, ses fibres synapse avec les corps cellulaires du noyau cochléaire.
+
+
+== Types de neurones ==
+
+Chez les mammifères, les fibres nerveuses cochléaires sont classées en type I ou type II.
+
+Les neurones de type I constituent 90 à 95 % des neurones et innervent les cellules ciliées internes.
+
+Ils ont des diamètres relativement grands, sont bipolaires et sont myélinisés.
+
+Chaque axone de type I n'innerve qu'une seule cellule ciliée interne, mais chaque cellule ciliée interne est innervée par jusqu'à 30 de ces fibres nerveuses, selon l'espèce et l'emplacement dans la cochlée.
+Les neurones de type II constituent les 5 à 10 % restants des neurones et innervent les cellules ciliées externes.
+
+Ils ont des diamètres relativement petits, sont unipolaires et ne sont pas myélinisés.
+
+
+== Complexe nucléaire cochléaire ==
+
+Chez les mammifères, les axones de chaque nerf cochléaire se terminent dans le complexe nucléaire cochléaire qui est situé ipsilatéralement dans la moelle du tronc cérébral.
+
+Le noyau cochléaire est la première «station relais» du système auditif central et reçoit principalement des entrées afférentes ipsilatérales.
+Les trois principaux composants du complexe nucléaire cochléaire sont (voir figure ci-dessous):
+
+le noyau cochléaire dorsal (DCN)
+le noyau cochléaire antéroventral (AVCN)
+le noyau cochléaire postéro-ventral (PVCN) Chacun des trois noyaux cochléaires est organisé de manière tonotopique.
+
+Les axones de la région basse fréquence de la cochlée se projettent vers la partie ventrale du noyau cochléaire dorsal et les parties ventrolatérales du noyau cochléaire antéroventral.
+
+Les axones de la région à haute fréquence se projettent vers la partie dorsale du noyau cochléaire antéroventral et les parties dorsales supérieures du noyau cochléaire dorsal.
+
+Les axones de la région de fréquence intermédiaire se projettent vers des cibles intermédiaires, de sorte que la tonotopie est préservée entre la cochlée et les noyaux cochléaires.
+
+
+
+https://en.wikipedia.org/wiki/nerf_cochléaire

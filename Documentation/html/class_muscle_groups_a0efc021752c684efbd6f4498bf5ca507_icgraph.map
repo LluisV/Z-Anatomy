@@ -1,0 +1,4 @@
+<map id="MuscleGroups.GetConvergingMuscles" name="MuscleGroups.GetConvergingMuscles">
+<area shape="rect" id="node1" title=" " alt="" coords="256,5,451,45"/>
+<area shape="rect" id="node2" href="$class_body_part_visibility.html#aedc5643dfed3f651ec237227b5da14a6" title="This function finds the muscle with the same name as the current insertion&#39;s name,..." alt="" coords="5,5,208,45"/>
+</map>

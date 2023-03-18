@@ -1,0 +1,16 @@
+<map id="TangibleBodyPart.UpdateBounds" name="TangibleBodyPart.UpdateBounds">
+<area shape="rect" id="node1" title="Updates the bounds of the mesh collider to match the bounds of the mesh. This function is useful when..." alt="" coords="1047,42,1260,67"/>
+<area shape="rect" id="node2" href="$class_tangible_body_part.html#a21559cddd49f0a9587591a7df9ee43f9" title="Resets the object to its original position." alt="" coords="789,13,999,38"/>
+<area shape="rect" id="node4" href="$class_translate_object.html#af89d1ef3759183205d219b2794285c5c" title=" " alt="" coords="807,63,981,103"/>
+<area shape="rect" id="node3" href="$class_contextual_menu.html#aa4e81544ee1a9e9754b699f2360809ed" title=" " alt="" coords="536,5,737,45"/>
+<area shape="rect" id="node5" href="$class_move_command.html#a1431d973de98599c6b5cf3aa0c2c9b5e" title=" " alt="" coords="555,70,718,95"/>
+<area shape="rect" id="node6" href="$class_move_command.html#a34ef88e6bdd4c51b6778b92309bd6b85" title=" " alt="" coords="564,119,709,145"/>
+<area shape="rect" id="node7" href="$class_translate_object.html#a3453e02504e80fa0cc580568862ab033" title=" " alt="" coords="532,169,741,194"/>
+<area shape="rect" id="node8" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="278,54,474,79"/>
+<area shape="rect" id="node10" href="$class_contextual_menu.html#ad3bb957ded433c8f085c763aa8e261af" title=" " alt="" coords="277,104,475,144"/>
+<area shape="rect" id="node11" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="271,169,481,194"/>
+<area shape="rect" id="node12" href="$class_hierarchy_button.html#a0906c341355a0461c23265da273e6e80" title=" " alt="" coords="293,218,459,243"/>
+<area shape="rect" id="node14" href="$class_bonus_collections.html#ad0ba7fe4c7574fdb4970bf29eb0bca76" title=" " alt="" coords="268,267,484,293"/>
+<area shape="rect" id="node9" href="$class_lexicon_element_button.html#a41dc70b684895c694867c73606cf67fb" title=" " alt="" coords="5,47,220,87"/>
+<area shape="rect" id="node13" href="$class_hierarchy_button.html#a1120572edd81dea744858740db7b707f" title=" " alt="" coords="24,211,201,251"/>
+</map>

@@ -1,0 +1,89 @@
+
+
+RETINOHYPOTHALAMIC TRACT
+
+
+The retinohypothalamic tract (RHT) is a photic neural input pathway involved in the circadian rhythms of mammals. 
+
+The origin of the retinohypothalamic tract is the intrinsically photosensitive retinal ganglion cells (ipRGC), which contain the photopigment melanopsin. 
+
+The axons of the ipRGCs belonging to the retinohypothalamic tract project directly, monosynaptically, to the suprachiasmatic nuclei (SCN) via the optic nerve and the optic chiasm. 
+
+The suprachiasmatic nuclei receive and interpret information on environmental light, dark and day length, important in the entrainment of the "body clock". 
+
+They can coordinate peripheral "clocks" and direct the pineal gland to secrete the hormone melatonin.
+
+
+== Structure ==
+
+The retinohypothalamic tract consists of retinal ganglion cells. 
+
+A distinct population of ganglion cells, known as intrinsically photosensitive retinal ganglion cells (ipRGCs), is critically responsible for providing non-image-forming visual signals to the brain. 
+
+Only about two percent of all retinal ganglion cells are ipRGCs, whose cell bodies are in mainly the ganglion cell layer (and some are displaced in the inner nuclear layer of the retina). 
+
+The photopigment melanopsin is present on the dendrites of ipRGCs, giving ipRGCs sensitivity to light in the absence of rod or cone input. 
+
+The dendrites spread outwards from ipRGCs within the inner plexiform layer. 
+
+These dendrites can also receive more canonical signals from the rest of the neuroretina. 
+
+These signals are then carried through the optic nerve, which projects to the suprachiasmatic nucleus (SCN), anterior hypothalamic area, retrochiasmatic area, and lateral hypothalamus. 
+
+However, a major portion of the RHT ends in the SCN.
+
+
+== Neurotransmitters ==
+
+
+
+=== Glutamate ===
+
+Glutamate levels in the RHT are measured by means of immunoreactivity. 
+
+Retinal nerve terminals display a significantly higher content of glutamate immunoreactivity than the postsynaptic dendrites and non-retinal terminals. 
+
+The higher immunoreactivity in terminals shows that is readily available before transmission and is used up as the electrical signals travel along the RHT. 
+
+The synapse of glutamate to the SCN has been shown to cause phase shifts in circadian rhythms, discussed more in detail later.
+
+
+=== Pituitary adenylate cyclase-activating polypeptide (PACAP) ===
+
+Pituitary adenylate cyclase-activating polypeptide (PACAP) is co-stored and co-transmitted with glutamate in retinal terminals. 
+
+More than ninety percent of all RHT projecting fibers to the SCN store PACAP. 
+
+White light induces activation of ganglion cells containing PACAP. 
+
+This allows for the concentration in SCN to be lower during the day and higher at night because humans are exposed to light more during the day and are having greater optic nerve stimulation.
+
+
+== Effect on circadian rhythms ==
+
+
+The SCN of the hypothalamus contains an endogenous pacemaker that regulates circadian rhythms. 
+
+The zeitgeber found to have the most profound effect on the SCN is light, which is the form of stimulation of which conversion is needed for it to be processed by the brain. 
+
+Neurotransmitters that travel the RHT are responsible for delivering this message to other parts of the brain. 
+
+If damage is done to this important pathway, alterations in circadian rhythms including phase shifts may occur. 
+
+Studies done on rats show that even with severely degenerated photoreceptors (blind, no visible light perception), they have the ability to entrain to the light/dark cycle because they have intact RHTs.A study was conducted to observe the differences in three groups of Sprague-Dawley rats: ones that had part of the RHT pathway cut when it was an adult (AE), ones that had part of the pathway cut within 24 hours of their birth (NE), and a control group. 
+
+Further development of the brains of those in the NE group showed that the two suprachaismatic nuclei (SCN) have nearly equal inputs shortly after the pathway is cut. 
+
+This was shown to drastically slow down the re-synchronization of internal biological rhythms to the external time cues, primarily light. 
+
+Rats in the AE and NE groups similarly reduced the amount of fluid intake during the study during the hours they were exposed to constant light. 
+
+This may indicate that the intake of water is affected by the number of connections in this pathway and affect the further development of other parts of the brain that are dependent on light.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Retinohypothalamic_tract

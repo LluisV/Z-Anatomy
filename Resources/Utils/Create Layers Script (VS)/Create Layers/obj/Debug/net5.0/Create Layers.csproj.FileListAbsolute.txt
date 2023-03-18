@@ -1,0 +1,32 @@
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\bin\Debug\net5.0\Create Layers.exe
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\bin\Debug\net5.0\Create Layers.deps.json
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\bin\Debug\net5.0\Create Layers.runtimeconfig.json
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\bin\Debug\net5.0\Create Layers.runtimeconfig.dev.json
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\bin\Debug\net5.0\Create Layers.dll
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\bin\Debug\net5.0\ref\Create Layers.dll
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\bin\Debug\net5.0\Create Layers.pdb
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\Create Layers.csproj.AssemblyReference.cache
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\Create Layers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\Create Layers.AssemblyInfoInputs.cache
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\Create Layers.AssemblyInfo.cs
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\Create Layers.csproj.CoreCompileInputs.cache
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\Create Layers.dll
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\ref\Create Layers.dll
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\Create Layers.pdb
+C:\Users\Lluis\source\repos\Create Layers\Create Layers\obj\Debug\net5.0\Create Layers.genruntimeconfig.cache
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\bin\Debug\net5.0\Create Layers.exe
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\bin\Debug\net5.0\Create Layers.deps.json
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\bin\Debug\net5.0\Create Layers.runtimeconfig.json
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\bin\Debug\net5.0\Create Layers.runtimeconfig.dev.json
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\bin\Debug\net5.0\Create Layers.dll
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\bin\Debug\net5.0\ref\Create Layers.dll
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\bin\Debug\net5.0\Create Layers.pdb
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\Create Layers.csproj.AssemblyReference.cache
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\Create Layers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\Create Layers.AssemblyInfoInputs.cache
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\Create Layers.AssemblyInfo.cs
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\Create Layers.csproj.CoreCompileInputs.cache
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\Create Layers.dll
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\ref\Create Layers.dll
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\Create Layers.pdb
+C:\Users\Lluis\Desktop\Projectes\Unity\Z-Anatomy PC\Resources\Utils\Create Layers Script (VS)\Create Layers\obj\Debug\net5.0\Create Layers.genruntimeconfig.cache

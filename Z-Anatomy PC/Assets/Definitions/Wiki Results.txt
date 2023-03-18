@@ -1,0 +1,248 @@
+===== Wiki download report =====
+ ## Partial matches (check manualy) ##
+Sciatic bursa of obturator internus
+Subcutaneous prepatellar bursa
+Deep infrapatellar bursa
+Anserine bursa
+
+
+
+
+ ## Not matched ##
+Subtendinous bursa of trapezius muscle
+Subcutaneous acromial bursa
+Subdeltoid bursa
+Coracobrachial bursa
+Subtendinous bursa of infraspinatus muscle
+Subtendinous bursa of teres major muscle
+Subtendinous bursa of triceps brachii muscle
+Subcutaneous trochanteric bursa
+Trochanteric bursa of gluteus maximus muscle
+Trochanteric bursa of gluteus medius muscle
+Trochanteric bursa of gluteus minimus muscle
+Bursa of piriformis muscle
+Subtendinous bursa of obturator internus
+Sciatic bursa of gluteus maximus muscle
+Intermuscular gluteal bursae
+Subtendinous bursa of iliacus muscle
+Superior bursa of biceps femoris muscle
+Subtendinous prepatellar bursa
+Subfacial prepatellar bursa
+Subcutaneous infrapatellar bursa
+Suprapatellar bursa
+Subcutaneous bursa of tuberosity of tibia
+Subtendinous bursa of sartorius muscle
+Inferior subtendinous bursa of biceps femoris muscle
+Medial subtendinous bursa of gastrocnemius muscle
+Lateral subtendinous bursa of gastrocnemius muscle
+Semimembranosus bursa
+Subcutaneous bursa of lateral malleolus
+Subcutaneous bursa of medial malleolus
+Subtendinous bursa of tibialis anterior
+Subcutaneous calcaneal bursa
+Subtendinous calcaneal bursa
+
+
+
+
+ ## Fully matched ##
+Subacromial bursa
+Bicipitoradial bursa
+Sciatic bursa of obturator internus
+Iliopectineal bursa
+Subcutaneous prepatellar bursa
+Deep infrapatellar bursa
+Anserine bursa
+
+
+
+
+
+;;;ES;;;
+
+===== Informe de descarga de Wiki =====
+## Coincidencias parciales (verificar manualmente) ##
+Bolsa ciática del obturador interno
+Bursa prerrotuliana subcutánea
+Bursa infrapatelar profunda
+bursa anserina
+
+
+
+
+## No coinciden ##
+Bolsa subtendinosa del músculo trapecio
+Bursa acromial subcutánea
+bursa subdeltoidea
+bolsa coracobraquial
+Bolsa subtendinosa del músculo infraespinoso
+Bolsa subtendinosa del musculo redondo mayor
+Bolsa subtendinosa del músculo tríceps braquial
+Bursa trocantérica subcutánea
+Bolsa trocantérea del músculo glúteo mayor
+Bolsa trocantérica del músculo glúteo medio
+Bolsa trocantérea del músculo glúteo menor
+Bursa del musculo piriforme
+Bursa subtendinosa del obturador interno
+Bolsa ciática del músculo glúteo mayor
+Bursas glúteas intermusculares
+Bolsa subtendinosa del músculo ilíaco
+Bolsa superior del músculo bíceps femoral
+Bursa prerrotuliana subtendinosa
+Bursa prerrotuliana subfacial
+Bursa infrapatelar subcutánea
+Bursa suprarrotuliana
+Bursa subcutánea de la tuberosidad de la tibia
+Bolsa subtendinosa del músculo sartorio
+Bursa subtendinosa inferior del músculo bíceps femoral
+Bursa subtendinosa medial del músculo gastrocnemio
+Bursa subtendinosa lateral del músculo gastrocnemio
+bolsa semimembranosa
+Bursa subcutánea del maléolo lateral
+Bursa subcutánea del maléolo medial
+Bursa subtendinosa del tibial anterior
+Bursa subcutánea del calcáneo
+Bursa subtendinosa del calcáneo
+
+
+
+
+## Coincidencia total ##
+bursa subacromial
+bursa bicipitoradial
+Bolsa ciática del obturador interno
+bolsa iliopectínea
+Bursa prerrotuliana subcutánea
+Bursa infrapatelar profunda
+bursa anserina
+
+
+
+
+
+
+;;;PT;;;
+
+===== Relatório de download do wiki =====
+## Correspondências parciais (verifique manualmente) ##
+Bursa ciática do obturador interno
+Bursa pré-patelar subcutânea
+Bursa infrapatelar profunda
+bolsa anserina
+
+
+
+
+## Não correspondido ##
+Bolsa subtendínea do músculo trapézio
+Bolsa acromial subcutânea
+Bolsa subdeltóidea
+Bolsa coracobraquial
+Bolsa subtendínea do músculo infraespinal
+Bolsa subtendínea do músculo redondo maior
+Bolsa subtendínea do músculo tríceps braquial
+Bolsa trocantérica subcutânea
+Bolsa trocantérica do músculo glúteo máximo
+Bolsa trocantérica do músculo glúteo médio
+Bolsa trocantérica do músculo glúteo mínimo
+Bursa do músculo piriforme
+Bolsa subtendínea do obturador interno
+Bolsa ciática do músculo glúteo máximo
+Bursas glúteas intermusculares
+Bolsa subtendínea do músculo ilíaco
+Bursa superior do músculo bíceps femoral
+Bursa pré-patelar subtendínea
+Bursa pré-patelar subfacial
+Bursa infrapatelar subcutânea
+Bolsa suprapatelar
+Bolsa subcutânea da tuberosidade da tíbia
+Bolsa subtendínea do músculo sartório
+Bolsa subtendínea inferior do músculo bíceps femoral
+Bolsa subtendínea medial do músculo gastrocnêmio
+Bolsa subtendínea lateral do músculo gastrocnêmio
+Bolsa semimembranosa
+Bolsa subcutânea do maléolo lateral
+Bolsa subcutânea do maléolo medial
+Bolsa subtendínea do tibial anterior
+Bursa subcutânea do calcâneo
+Bursa subtendínea do calcâneo
+
+
+
+
+## Totalmente compatível ##
+Bolsa subacromial
+Bursa bicipitoradial
+Bursa ciática do obturador interno
+Bolsa iliopectínea
+Bursa pré-patelar subcutânea
+Bursa infrapatelar profunda
+bolsa anserina
+
+
+
+
+
+
+;;;FR;;;
+
+===== Rapport de téléchargement Wiki =====
+## Correspondances partielles (vérifier manuellement) ##
+Bourse sciatique de l'obturateur interne
+Bourse prépatellaire sous-cutanée
+Bourse infrapatellaire profonde
+Bourse d'ansérine
+
+
+
+
+## Pas adapté ##
+Bourse sous-tendineuse du muscle trapèze
+Bourse acromiale sous-cutanée
+Bourse sous-deltoïdienne
+Bourse coracobrachiale
+Bourse sous-tendineuse du muscle sous-épineux
+Bourse sous-tendineuse du muscle grand rond
+Bourse sous-tendineuse du muscle triceps brachial
+Bourse trochantérienne sous-cutanée
+Bourse trochantérienne du muscle grand fessier
+Bourse trochantérienne du muscle moyen fessier
+Bourse trochantérienne du muscle petit fessier
+Bourse du muscle piriforme
+Bourse sous-tendineuse de l'obturateur interne
+Bourse sciatique du muscle grand fessier
+Bourse fessière intermusculaire
+Bourse sous-tendineuse du muscle iliaque
+Bourse supérieure du muscle biceps fémoral
+Bourse prépatellaire sous-tendineuse
+Bourse prépatellaire sous-faciale
+Bourse sous-cutanée sous-patellaire
+Bourse suprapatellaire
+Bourse sous-cutanée de la tubérosité du tibia
+Bourse sous-tendineuse du muscle couturier
+Bourse sous-tendineuse inférieure du muscle biceps fémoral
+Bourse sous-tendineuse médiale du muscle gastrocnémien
+Bourse sous-tendineuse latérale du muscle gastrocnémien
+Bourse semi-membraneuse
+Bourse sous-cutanée de la malléole latérale
+Bourse sous-cutanée de la malléole médiale
+Bourse sous-tendineuse du tibial antérieur
+Bourse calcanéenne sous-cutanée
+Bourse calcanéenne sous-tendineuse
+
+
+
+
+## Entièrement compatible ##
+Bourse sous-acromiale
+Bourse bicipitoradiale
+Bourse sciatique de l'obturateur interne
+Bourse ilio-pectinée
+Bourse prépatellaire sous-cutanée
+Bourse infrapatellaire profonde
+Bourse d'ansérine
+
+
+
+
+

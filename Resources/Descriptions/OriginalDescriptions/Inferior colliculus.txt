@@ -1,0 +1,99 @@
+
+
+INFERIOR COLLICULUS
+
+
+The inferior colliculus (IC) (Latin for lower hill) is the principal midbrain nucleus of the auditory pathway and receives input from several peripheral brainstem nuclei in the auditory pathway, as well as inputs from the auditory cortex. 
+
+The inferior colliculus has three subdivisions: the central nucleus, a dorsal cortex by which it is surrounded, and an external cortex which is located laterally. 
+
+Its bimodal neurons are implicated in auditory-somatosensory interaction, receiving projections from somatosensory nuclei. 
+
+This multisensory integration may underlie a filtering of self-effected sounds from vocalization, chewing, or respiration activities.
+
+The inferior colliculi together with the superior colliculi form the eminences of the corpora quadrigemina, and also part of the tectal region of the midbrain. 
+
+The inferior colliculus lies caudal to its counterpart – the superior colliculus – above the trochlear nerve, and at the base of the projection of the medial geniculate nucleus and the lateral geniculate nucleus.
+
+
+== Subdivisions ==
+
+The inferior colliculus has three subdivisions – the central nucleus, the dorsal cortex by which it is surrounded, and an external cortex which is located laterally.
+
+
+== Relationship to auditory system ==
+
+The inferior colliculi of the midbrain are located just below the visual processing centers known as the superior colliculi. 
+
+The inferior colliculus is the first place where vertically orienting data from the fusiform cells in the dorsal cochlear nucleus can finally synapse with horizontally orienting data. 
+
+Sound location data thus becomes fully integrated by the inferior colliculus.
+
+IC are large auditory nuclei on the right and left sides of the midbrain. 
+
+Of the three subdivisions the central nucleus of IC (CNIC) is the principal way station for ascending auditory information in the IC.
+
+
+=== Input and output connections of IC ===
+
+The input connections to the inferior colliculus are composed of many brainstem nuclei. 
+
+All nuclei except the contralateral ventral nucleus of the lateral lemniscus send projections to the central nucleus (CNIC) bilaterally. 
+
+It has been shown that great majority of auditory fibers ascending in the lateral lemniscus terminate in the CNIC. 
+
+In addition, the IC receives inputs from the auditory cortex, the medial division of the medial geniculate body, the posterior limitans, suprapeduncular nucleus and subparafascicular intralaminar nuclei of the thalamus, the substantia nigra pars compacta lateralis, the dorsolateral periaqueductal gray, the nucleus of the brachium of the inferior colliculus (or inferior brachium) and deep layers of the superior colliculus. 
+
+The inferior brachium carries auditory afferent fibers from the inferior colliculus of the mesencephalon to the medial geniculate nucleus.
+
+The inferior colliculus receives input from both the ipsilateral and contralateral cochlear nucleus and respectively the corresponding ears. 
+
+There is some lateralization, the dorsal projections (containing vertical data) only project to the contralateral inferior colliculus. 
+
+This inferior colliculus contralateral to the ear it is receiving the most information from, then projects to its ipsilateral medial geniculate nucleus.
+
+The inferior colliculus also receives descending inputs from the auditory cortex and auditory thalamus (or medial geniculate nucleus).
+
+The medial geniculate body (MGB) is the output connection from inferior colliculus and the last subcortical way station. 
+
+The MGB is composed of ventral, dorsal, and medial divisions, which are relatively similar in humans and other mammals. 
+
+The ventral division receives auditory signals from the central nucleus of the IC.
+
+
+=== Function of IC ===
+
+The majority of the ascending fibers from the lateral lemniscus project to IC, which means major ascending auditory pathways converge here. 
+
+IC appears as an integrative station and switchboard as well. 
+
+It is involved in the integration and routing of multi-modal sensory perception, mainly the startle response and vestibulo-ocular reflex. 
+
+It is also responsive to specific amplitude modulation frequencies and this might be responsible for detection of pitch. 
+
+In addition, spatial localization by binaural hearing is a related function of IC as well.
+The inferior colliculus has a relatively high metabolism in the brain. 
+
+The Conrad Simon Memorial Research Initiative measured the blood flow of the IC and put a number at 1.80 cc/g/min in the cat brain. 
+
+For reference, the runner up in the included measurements was the somatosensory cortex at 1.53. 
+
+This indicates that the inferior colliculus is metabolically more active than many other parts of the brain. 
+
+The hippocampus, normally considered to use up a disproportionate amount of energy, was not measured or compared.
+
+Skottun et al. measured the interaural time difference sensitivity of single neurons in the inferior colliculus, and used these to predict behavioural performance. 
+
+The predicted just noticeable difference was comparable to that achieved by humans in behavioral tests. 
+
+This suggested that by the level of the inferior colliculus, integration of information over multiple neurons is unnecessary (see population code).
+
+Axiomatically determined functional models of spectro-temporal receptive fields in inferior colliculus have been determined by Lindeberg and Friberg  in terms of derivatives of Gaussian functions over the log-spectral domain and either Gaussian kernels over time in the case of non-causal time or first-order integrators (truncated exponential kernels) coupled in cascade in the case of truly time-causal operations, optionally in combination with local glissando transformations to account for variations in frequencies over time.
+
+The shapes of the receptive field functions in these models can be determined by necessity from structural properties of the environment combined with requirements about the internal structure of the auditory system to enable theoretically well-founded processing of sound signals at different temporal and log-spectral scales. 
+
+Thereby, the receptive fields in inferior colliculus can be seen as well adapted to handling natural sound transformations.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_colliculus

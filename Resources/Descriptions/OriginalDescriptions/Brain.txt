@@ -1,0 +1,789 @@
+! Confusion between the latest definitions (TA2-2019) of brain, cerebrum and telencephalon !
+
+
+BRAIN
+
+
+A brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. 
+
+It is located in the head, usually close to the sensory organs for senses such as vision. 
+
+It is the most complex organ in a vertebrate's body. 
+
+In a human, the cerebral cortex contains approximately 14–16 billion neurons, and the estimated number of neurons in the cerebellum is 55–70 billion. 
+
+Each neuron is connected by synapses to several thousand other neurons. 
+
+These neurons typically communicate with one another by means of long fibers called axons, which carry trains of signal pulses called action potentials to distant parts of the brain or body targeting specific recipient cells.
+Physiologically, brains exert centralized control over a body's other organs. 
+
+They act on the rest of the body both by generating patterns of muscle activity and by driving the secretion of chemicals called hormones. 
+
+This centralized control allows rapid and coordinated responses to changes in the environment. 
+
+Some basic types of responsiveness such as reflexes can be mediated by the spinal cord or peripheral ganglia, but sophisticated purposeful control of behavior based on complex sensory input requires the information integrating capabilities of a centralized brain.
+The operations of individual brain cells are now understood in considerable detail but the way they cooperate in ensembles of millions is yet to be solved. 
+
+Recent models in modern neuroscience treat the brain as a biological computer, very different in mechanism from an electronic computer, but similar in the sense that it acquires information from the surrounding world, stores it, and processes it in a variety of ways.
+This article compares the properties of brains across the entire range of animal species, with the greatest attention to vertebrates. 
+
+It deals with the human brain insofar as it shares the properties of other brains. 
+
+The ways in which the human brain differs from other brains are covered in the human brain article. 
+
+Several topics that might be covered here are instead covered there because much more can be said about them in a human context. 
+
+The most important is brain disease and the effects of brain damage, that are covered in the human brain article.
+
+
+== Anatomy ==
+
+
+The shape and size of the brain varies greatly between species, and identifying common features is often difficult. 
+
+Nevertheless, there are a number of principles of brain architecture that apply across a wide range of species. 
+
+Some aspects of brain structure are common to almost the entire range of animal species; others distinguish "advanced" brains from more primitive ones, or distinguish vertebrates from invertebrates.The simplest way to gain information about brain anatomy is by visual inspection, but many more sophisticated techniques have been developed. 
+
+Brain tissue in its natural state is too soft to work with, but it can be hardened by immersion in alcohol or other fixatives, and then sliced apart for examination of the interior. 
+
+Visually, the interior of the brain consists of areas of so-called grey matter, with a dark color, separated by areas of white matter, with a lighter color. 
+
+Further information can be gained by staining slices of brain tissue with a variety of chemicals that bring out areas where specific types of molecules are present in high concentrations. 
+
+It is also possible to examine the microstructure of brain tissue using a microscope, and to trace the pattern of connections from one brain area to another.
+
+
+=== Cellular structure ===
+
+
+The brains of all species are composed primarily of two broad classes of cells: neurons and glial cells. 
+
+Glial cells (also known as glia or neuroglia) come in several types, and perform a number of critical functions, including structural support, metabolic support, insulation, and guidance of development. 
+
+Neurons, however, are usually considered the most important cells in the brain.
+The property that makes neurons unique is their ability to send signals to specific target cells over long distances. 
+
+They send these signals by means of an axon, which is a thin protoplasmic fiber that extends from the cell body and projects, usually with numerous branches, to other areas, sometimes nearby, sometimes in distant parts of the brain or body. 
+
+The length of an axon can be extraordinary: for example, if a pyramidal cell (an excitatory neuron) of the cerebral cortex were magnified so that its cell body became the size of a human body, its axon, equally magnified, would become a cable a few centimeters in diameter, extending more than a kilometer. 
+
+These axons transmit signals in the form of electrochemical pulses called action potentials, which last less than a thousandth of a second and travel along the axon at speeds of 1–100 meters per second. 
+
+Some neurons emit action potentials constantly, at rates of 10–100 per second, usually in irregular patterns; other neurons are quiet most of the time, but occasionally emit a burst of action potentials.Axons transmit signals to other neurons by means of specialized junctions called synapses. 
+
+A single axon may make as many as several thousand synaptic connections with other cells. 
+
+When an action potential, traveling along an axon, arrives at a synapse, it causes a chemical called a neurotransmitter to be released. 
+
+The neurotransmitter binds to receptor molecules in the membrane of the target cell.Synapses are the key functional elements of the brain. 
+
+The essential function of the brain is cell-to-cell communication, and synapses are the points at which communication occurs. 
+
+The human brain has been estimated to contain approximately 100 trillion synapses; even the brain of a fruit fly contains several million. 
+
+The functions of these synapses are very diverse: some are excitatory (exciting the target cell); others are inhibitory; others work by activating second messenger systems that change the internal chemistry of their target cells in complex ways. 
+
+A large number of synapses are dynamically modifiable; that is, they are capable of changing strength in a way that is controlled by the patterns of signals that pass through them. 
+
+It is widely believed that activity-dependent modification of synapses is the brain's primary mechanism for learning and memory.Most of the space in the brain is taken up by axons, which are often bundled together in what are called nerve fiber tracts. 
+
+A myelinated axon is wrapped in a fatty insulating sheath of myelin, which serves to greatly increase the speed of signal propagation. (There are also unmyelinated axons). 
+
+Myelin is white, making parts of the brain filled exclusively with nerve fibers appear as light-colored white matter, in contrast to the darker-colored grey matter that marks areas with high densities of neuron cell bodies.
+
+
+=== Evolution ===
+
+
+
+==== Generic bilaterian nervous system ====
+
+Except for a few primitive organisms such as sponges (which have no nervous system) and cnidarians (which have a nervous system consisting of a diffuse nerve net), all living multicellular animals are bilaterians, meaning animals with a bilaterally symmetric body shape (that is, left and right sides that are approximate mirror images of each other). 
+
+All bilaterians are thought to have descended from a common ancestor that appeared early in the Cambrian period, 485–540 million years ago, and it has been hypothesized that this common ancestor had the shape of a simple tubeworm with a segmented body. 
+
+At a schematic level, that basic worm-shape continues to be reflected in the body and nervous system architecture of all modern bilaterians, including vertebrates. 
+
+The fundamental bilateral body form is a tube with a hollow gut cavity running from the mouth to the anus, and a nerve cord with an enlargement (a ganglion) for each body segment, with an especially large ganglion at the front, called the brain. 
+
+The brain is small and simple in some species, such as nematode worms; in other species, including vertebrates, it is the most complex organ in the body. 
+
+Some types of worms, such as leeches, also have an enlarged ganglion at the back end of the nerve cord, known as a "tail brain".There are a few types of existing bilaterians that lack a recognizable brain, including echinoderms and tunicates. 
+
+It has not been definitively established whether the existence of these brainless species indicates that the earliest bilaterians lacked a brain, or whether their ancestors evolved in a way that led to the disappearance of a previously existing brain structure.
+
+
+==== Invertebrates ====
+
+This category includes tardigrades, arthropods, molluscs, and numerous types of worms. 
+
+The diversity of invertebrate body plans is matched by an equal diversity in brain structures.Two groups of invertebrates have notably complex brains: arthropods (insects, crustaceans, arachnids, and others), and cephalopods (octopuses, squids, and similar molluscs). 
+
+The brains of arthropods and cephalopods arise from twin parallel nerve cords that extend through the body of the animal. 
+
+Arthropods have a central brain, the supraesophageal ganglion, with three divisions and large optical lobes behind each eye for visual processing. 
+
+Cephalopods such as the octopus and squid have the largest brains of any invertebrates.There are several invertebrate species whose brains have been studied intensively because they have properties that make them convenient for experimental work:
+
+Fruit flies (Drosophila), because of the large array of techniques available for studying their genetics, have been a natural subject for studying the role of genes in brain development. 
+
+In spite of the large evolutionary distance between insects and mammals, many aspects of Drosophila neurogenetics have been shown to be relevant to humans. 
+
+The first biological clock genes, for example, were identified by examining Drosophila mutants that showed disrupted daily activity cycles. 
+
+A search in the genomes of vertebrates revealed a set of analogous genes, which were found to play similar roles in the mouse biological clock—and therefore almost certainly in the human biological clock as well. 
+
+Studies done on Drosophila, also show that most neuropil regions of the brain are continuously reorganized throughout life in response to specific living conditions.
+The nematode worm Caenorhabditis elegans, like Drosophila, has been studied largely because of its importance in genetics. 
+
+In the early 1970s, Sydney Brenner chose it as a model organism for studying the way that genes control development. 
+
+One of the advantages of working with this worm is that the body plan is very stereotyped: the nervous system of the hermaphrodite contains exactly 302 neurons, always in the same places, making identical synaptic connections in every worm. 
+
+Brenner's team sliced worms into thousands of ultrathin sections and photographed each one under an electron microscope, then visually matched fibers from section to section, to map out every neuron and synapse in the entire body. 
+
+The complete neuronal wiring diagram of C.elegans – its connectome was achieved. 
+
+Nothing approaching this level of detail is available for any other organism, and the information gained has enabled a multitude of studies that would otherwise have not been possible.
+The sea slug Aplysia californica was chosen by Nobel Prize-winning neurophysiologist Eric Kandel as a model for studying the cellular basis of learning and memory, because of the simplicity and accessibility of its nervous system, and it has been examined in hundreds of experiments.
+
+
+==== Vertebrates ====
+
+The first vertebrates appeared over 500 million years ago (Mya), during the Cambrian period, and may have resembled the modern hagfish in form. 
+
+Sharks appeared about 450 Mya, amphibians about 400 Mya, reptiles about 350 Mya, and mammals about 200 Mya. 
+
+Each species has an equally long evolutionary history, but the brains of modern hagfishes, lampreys, sharks, amphibians, reptiles, and mammals show a gradient of size and complexity that roughly follows the evolutionary sequence. 
+
+All of these brains contain the same set of basic anatomical components, but many are rudimentary in the hagfish, whereas in mammals the foremost part (the telencephalon) is greatly elaborated and expanded.Brains are most simply compared in terms of their size. 
+
+The relationship between brain size, body size and other variables has been studied across a wide range of vertebrate species. 
+
+As a rule, brain size increases with body size, but not in a simple linear proportion. 
+
+In general, smaller animals tend to have larger brains, measured as a fraction of body size. 
+
+For mammals, the relationship between brain volume and body mass essentially follows a power law with an exponent of about 0.75. 
+
+This formula describes the central tendency, but every family of mammals departs from it to some degree, in a way that reflects in part the complexity of their behavior. 
+
+For example, primates have brains 5 to 10 times larger than the formula predicts. 
+
+Predators tend to have larger brains than their prey, relative to body size.
+
+All vertebrate brains share a common underlying form, which appears most clearly during early stages of embryonic development. 
+
+In its earliest form, the brain appears as three swellings at the front end of the neural tube; these swellings eventually become the forebrain, midbrain, and hindbrain (the prosencephalon, mesencephalon, and rhombencephalon, respectively). 
+
+At the earliest stages of brain development, the three areas are roughly equal in size. 
+
+In many classes of vertebrates, such as fish and amphibians, the three parts remain similar in size in the adult, but in mammals the forebrain becomes much larger than the other parts, and the midbrain becomes very small.The brains of vertebrates are made of very soft tissue. 
+
+Living brain tissue is pinkish on the outside and mostly white on the inside, with subtle variations in color. 
+
+Vertebrate brains are surrounded by a system of connective tissue membranes called meninges that separate the skull from the brain. 
+
+Blood vessels enter the central nervous system through holes in the meningeal layers. 
+
+The cells in the blood vessel walls are joined tightly to one another, forming the blood–brain barrier, which blocks the passage of many toxins and pathogens (though at the same time blocking antibodies and some drugs, thereby presenting special challenges in treatment of diseases of the brain).Neuroanatomists usually divide the vertebrate brain into six main regions: the telencephalon (cerebral hemispheres), diencephalon (thalamus and hypothalamus), mesencephalon (midbrain), cerebellum, pons, and medulla oblongata. 
+
+Each of these areas has a complex internal structure. 
+
+Some parts, such as the cerebral cortex and the cerebellar cortex, consist of layers that are folded or convoluted to fit within the available space. 
+
+Other parts, such as the thalamus and hypothalamus, consist of clusters of many small nuclei. 
+
+Thousands of distinguishable areas can be identified within the vertebrate brain based on fine distinctions of neural structure, chemistry, and connectivity.
+
+Although the same basic components are present in all vertebrate brains, some branches of vertebrate evolution have led to substantial distortions of brain geometry, especially in the forebrain area. 
+
+The brain of a shark shows the basic components in a straightforward way, but in teleost fishes (the great majority of existing fish species), the forebrain has become "everted", like a sock turned inside out. 
+
+In birds, there are also major changes in forebrain structure. 
+
+These distortions can make it difficult to match brain components from one species with those of another species.Here is a list of some of the most important vertebrate brain components, along with a brief description of their functions as currently understood:
+
+The medulla, along with the spinal cord, contains many small nuclei involved in a wide variety of sensory and involuntary motor functions such as vomiting, heart rate and digestive processes.
+The pons lies in the brainstem directly above the medulla. 
+
+Among other things, it contains nuclei that control often voluntary but simple acts such as sleep, respiration, swallowing, bladder function, equilibrium, eye movement, facial expressions, and posture.
+The hypothalamus is a small region at the base of the forebrain, whose complexity and importance belies its size. 
+
+It is composed of numerous small nuclei, each with distinct connections and neurochemistry. 
+
+The hypothalamus is engaged in additional involuntary or partially voluntary acts such as sleep and wake cycles, eating and drinking, and the release of some hormones.
+The thalamus is a collection of nuclei with diverse functions: some are involved in relaying information to and from the cerebral hemispheres, while others are involved in motivation. 
+
+The subthalamic area (zona incerta) seems to contain action-generating systems for several types of "consummatory" behaviors such as eating, drinking, defecation, and copulation.
+The cerebellum modulates the outputs of other brain systems, whether motor-related or thought related, to make them certain and precise. 
+
+Removal of the cerebellum does not prevent an animal from doing anything in particular, but it makes actions hesitant and clumsy. 
+
+This precision is not built-in but learned by trial and error. 
+
+The muscle coordination learned while riding a bicycle is an example of a type of neural plasticity that may take place largely within the cerebellum. 10% of the brain's total volume consists of the cerebellum and 50% of all neurons are held within its structure.
+The optic tectum allows actions to be directed toward points in space, most commonly in response to visual input. 
+
+In mammals, it is usually referred to as the superior colliculus, and its best-studied function is to direct eye movements. 
+
+It also directs reaching movements and other object-directed actions. 
+
+It receives strong visual inputs, but also inputs from other senses that are useful in directing actions, such as auditory input in owls and input from the thermosensitive pit organs in snakes. 
+
+In some primitive fishes, such as lampreys, this region is the largest part of the brain. 
+
+The superior colliculus is part of the midbrain.
+The pallium is a layer of grey matter that lies on the surface of the forebrain and is the most complex and most recent evolutionary development of the brain as an organ. 
+
+In reptiles and mammals, it is called the cerebral cortex. 
+
+Multiple functions involve the pallium, including smell and spatial memory. 
+
+In mammals, where it becomes so large as to dominate the brain, it takes over functions from many other brain areas. 
+
+In many mammals, the cerebral cortex consists of folded bulges called gyri that create deep furrows or fissures called sulci. 
+
+The folds increase the surface area of the cortex and therefore increase the amount of gray matter and the amount of information that can be stored and processed.
+The hippocampus, strictly speaking, is found only in mammals. 
+
+However, the area it derives from, the medial pallium, has counterparts in all vertebrates. 
+
+There is evidence that this part of the brain is involved in complex events such as spatial memory and navigation in fishes, birds, reptiles, and mammals.
+The basal ganglia are a group of interconnected structures in the forebrain. 
+
+The primary function of the basal ganglia appears to be action selection: they send inhibitory signals to all parts of the brain that can generate motor behaviors, and in the right circumstances can release the inhibition, so that the action-generating systems are able to execute their actions. 
+
+Reward and punishment exert their most important neural effects by altering connections within the basal ganglia.
+The olfactory bulb is a special structure that processes olfactory sensory signals and sends its output to the olfactory part of the pallium. 
+
+It is a major brain component in many vertebrates, but is greatly reduced in humans and other primates (whose senses are dominated by information acquired by sight rather than smell).
+
+
+===== Reptiles =====
+
+
+====== Birds ======
+
+
+===== Mammals =====
+The most obvious difference between the brains of mammals and other vertebrates is in terms of size. 
+
+On average, a mammal has a brain roughly twice as large as that of a bird of the same body size, and ten times as large as that of a reptile of the same body size.Size, however, is not the only difference: there are also substantial differences in shape. 
+
+The hindbrain and midbrain of mammals are generally similar to those of other vertebrates, but dramatic differences appear in the forebrain, which is greatly enlarged and also altered in structure. 
+
+The cerebral cortex is the part of the brain that most strongly distinguishes mammals. 
+
+In non-mammalian vertebrates, the surface of the cerebrum is lined with a comparatively simple three-layered structure called the pallium. 
+
+In mammals, the pallium evolves into a complex six-layered structure called neocortex or isocortex. 
+
+Several areas at the edge of the neocortex, including the hippocampus and amygdala, are also much more extensively developed in mammals than in other vertebrates.The elaboration of the cerebral cortex carries with it changes to other brain areas. 
+
+The superior colliculus, which plays a major role in visual control of behavior in most vertebrates, shrinks to a small size in mammals, and many of its functions are taken over by visual areas of the cerebral cortex. 
+
+The cerebellum of mammals contains a large portion (the neocerebellum) dedicated to supporting the cerebral cortex, which has no counterpart in other vertebrates.
+
+
+====== Primates ======
+
+The brains of humans and other primates contain the same structures as the brains of other mammals, but are generally larger in proportion to body size. 
+
+The encephalization quotient (EQ) is used to compare brain sizes across species. 
+
+It takes into account the nonlinearity of the brain-to-body relationship. 
+
+Humans have an average EQ in the 7-to-8 range, while most other primates have an EQ in the 2-to-3 range. 
+
+Dolphins have values higher than those of primates other than humans, but nearly all other mammals have EQ values that are substantially lower.
+Most of the enlargement of the primate brain comes from a massive expansion of the cerebral cortex, especially the prefrontal cortex and the parts of the cortex involved in vision. 
+
+The visual processing network of primates includes at least 30 distinguishable brain areas, with a complex web of interconnections. 
+
+It has been estimated that visual processing areas occupy more than half of the total surface of the primate neocortex. 
+
+The prefrontal cortex carries out functions that include planning, working memory, motivation, attention, and executive control. 
+
+It takes up a much larger proportion of the brain for primates than for other species, and an especially large fraction of the human brain.
+
+
+== Development ==
+
+
+The brain develops in an intricately orchestrated sequence of stages. 
+
+It changes in shape from a simple swelling at the front of the nerve cord in the earliest embryonic stages, to a complex array of areas and connections. 
+
+Neurons are created in special zones that contain stem cells, and then migrate through the tissue to reach their ultimate locations. 
+
+Once neurons have positioned themselves, their axons sprout and navigate through the brain, branching and extending as they go, until the tips reach their targets and form synaptic connections. 
+
+In a number of parts of the nervous system, neurons and synapses are produced in excessive numbers during the early stages, and then the unneeded ones are pruned away.For vertebrates, the early stages of neural development are similar across all species. 
+
+As the embryo transforms from a round blob of cells into a wormlike structure, a narrow strip of ectoderm running along the midline of the back is induced to become the neural plate, the precursor of the nervous system. 
+
+The neural plate folds inward to form the neural groove, and then the lips that line the groove merge to enclose the neural tube, a hollow cord of cells with a fluid-filled ventricle at the center. 
+
+At the front end, the ventricles and cord swell to form three vesicles that are the precursors of the prosencephalon (forebrain), mesencephalon (midbrain), and rhombencephalon (hindbrain). 
+
+At the next stage, the forebrain splits into two vesicles called the telencephalon (which will contain the cerebral cortex, basal ganglia, and related structures) and the diencephalon (which will contain the thalamus and hypothalamus). 
+
+At about the same time, the hindbrain splits into the metencephalon (which will contain the cerebellum and pons) and the myelencephalon (which will contain the medulla oblongata). 
+
+Each of these areas contains proliferative zones where neurons and glial cells are generated; the resulting cells then migrate, sometimes for long distances, to their final positions.Once a neuron is in place, it extends dendrites and an axon into the area around it. 
+
+Axons, because they commonly extend a great distance from the cell body and need to reach specific targets, grow in a particularly complex way. 
+
+The tip of a growing axon consists of a blob of protoplasm called a growth cone, studded with chemical receptors. 
+
+These receptors sense the local environment, causing the growth cone to be attracted or repelled by various cellular elements, and thus to be pulled in a particular direction at each point along its path. 
+
+The result of this pathfinding process is that the growth cone navigates through the brain until it reaches its destination area, where other chemical cues cause it to begin generating synapses. 
+
+Considering the entire brain, thousands of genes create products that influence axonal pathfinding.The synaptic network that finally emerges is only partly determined by genes, though. 
+
+In many parts of the brain, axons initially "overgrow", and then are "pruned" by mechanisms that depend on neural activity. 
+
+In the projection from the eye to the midbrain, for example, the structure in the adult contains a very precise mapping, connecting each point on the surface of the retina to a corresponding point in a midbrain layer. 
+
+In the first stages of development, each axon from the retina is guided to the right general vicinity in the midbrain by chemical cues, but then branches very profusely and makes initial contact with a wide swath of midbrain neurons. 
+
+The retina, before birth, contains special mechanisms that cause it to generate waves of activity that originate spontaneously at a random point and then propagate slowly across the retinal layer. 
+
+These waves are useful because they cause neighboring neurons to be active at the same time; that is, they produce a neural activity pattern that contains information about the spatial arrangement of the neurons. 
+
+This information is exploited in the midbrain by a mechanism that causes synapses to weaken, and eventually vanish, if activity in an axon is not followed by activity of the target cell. 
+
+The result of this sophisticated process is a gradual tuning and tightening of the map, leaving it finally in its precise adult form.Similar things happen in other brain areas: an initial synaptic matrix is generated as a result of genetically determined chemical guidance, but then gradually refined by activity-dependent mechanisms, partly driven by internal dynamics, partly by external sensory inputs. 
+
+In some cases, as with the retina-midbrain system, activity patterns depend on mechanisms that operate only in the developing brain, and apparently exist solely to guide development.In humans and many other mammals, new neurons are created mainly before birth, and the infant brain contains substantially more neurons than the adult brain. 
+
+There are, however, a few areas where new neurons continue to be generated throughout life. 
+
+The two areas for which adult neurogenesis is well established are the olfactory bulb, which is involved in the sense of smell, and the dentate gyrus of the hippocampus, where there is evidence that the new neurons play a role in storing newly acquired memories. 
+
+With these exceptions, however, the set of neurons that is present in early childhood is the set that is present for life. 
+
+Glial cells are different: as with most types of cells in the body, they are generated throughout the lifespan.There has long been debate about whether the qualities of mind, personality, and intelligence can be attributed to heredity or to upbringing—this is the nature and nurture controversy. 
+
+Although many details remain to be settled, neuroscience research has clearly shown that both factors are important. 
+
+Genes determine the general form of the brain, and genes determine how the brain reacts to experience. 
+
+Experience, however, is required to refine the matrix of synaptic connections, which in its developed form contains far more information than the genome does. 
+
+In some respects, all that matters is the presence or absence of experience during critical periods of development. 
+
+In other respects, the quantity and quality of experience are important; for example, there is substantial evidence that animals raised in enriched environments have thicker cerebral cortices, indicating a higher density of synaptic connections, than animals whose levels of stimulation are restricted.
+
+
+== Physiology ==
+
+The functions of the brain depend on the ability of neurons to transmit electrochemical signals to other cells, and their ability to respond appropriately to electrochemical signals received from other cells. 
+
+The electrical properties of neurons are controlled by a wide variety of biochemical and metabolic processes, most notably the interactions between neurotransmitters and receptors that take place at synapses.
+
+
+=== Neurotransmitters and receptors ===
+
+Neurotransmitters are chemicals that are released at synapses when the local membrane is depolarised and Ca2+ enters into the cell, typically when an action potential arrives at the synapse – neurotransmitters attach themselves to receptor molecules on the membrane of the synapse's target cell (or cells), and thereby alter the electrical or chemical properties of the receptor molecules.
+With few exceptions, each neuron in the brain releases the same chemical neurotransmitter, or combination of neurotransmitters, at all the synaptic connections it makes with other neurons; this rule is known as Dale's principle. 
+
+Thus, a neuron can be characterized by the neurotransmitters that it releases. 
+
+The great majority of psychoactive drugs exert their effects by altering specific neurotransmitter systems. 
+
+This applies to drugs such as cannabinoids, nicotine, heroin, cocaine, alcohol, fluoxetine, chlorpromazine, and many others.The two neurotransmitters that are most widely found in the vertebrate brain are glutamate, which almost always exerts excitatory effects on target neurons, and gamma-aminobutyric acid (GABA), which is almost always inhibitory. 
+
+Neurons using these transmitters can be found in nearly every part of the brain. 
+
+Because of their ubiquity, drugs that act on glutamate or GABA tend to have broad and powerful effects. 
+
+Some general anesthetics act by reducing the effects of glutamate; most tranquilizers exert their sedative effects by enhancing the effects of GABA.There are dozens of other chemical neurotransmitters that are used in more limited areas of the brain, often areas dedicated to a particular function. 
+
+Serotonin, for example—the primary target of many antidepressant drugs and many dietary aids—comes exclusively from a small brainstem area called the raphe nuclei. 
+
+Norepinephrine, which is involved in arousal, comes exclusively from a nearby small area called the locus coeruleus. 
+
+Other neurotransmitters such as acetylcholine and dopamine have multiple sources in the brain but are not as ubiquitously distributed as glutamate and GABA.
+
+
+=== Electrical activity ===
+
+
+As a side effect of the electrochemical processes used by neurons for signaling, brain tissue generates electric fields when it is active. 
+
+When large numbers of neurons show synchronized activity, the electric fields that they generate can be large enough to detect outside the skull, using electroencephalography (EEG) or magnetoencephalography (MEG). 
+
+EEG recordings, along with recordings made from electrodes implanted inside the brains of animals such as rats, show that the brain of a living animal is constantly active, even during sleep. 
+
+Each part of the brain shows a mixture of rhythmic and nonrhythmic activity, which may vary according to behavioral state. 
+
+In mammals, the cerebral cortex tends to show large slow delta waves during sleep, faster alpha waves when the animal is awake but inattentive, and chaotic-looking irregular activity when the animal is actively engaged in a task, called beta and gamma waves. 
+
+During an epileptic seizure, the brain's inhibitory control mechanisms fail to function and electrical activity rises to pathological levels, producing EEG traces that show large wave and spike patterns not seen in a healthy brain. 
+
+Relating these population-level patterns to the computational functions of individual neurons is a major focus of current research in neurophysiology.
+
+
+=== Metabolism ===
+
+All vertebrates have a blood–brain barrier that allows metabolism inside the brain to operate differently from metabolism in other parts of the body. 
+
+Glial cells play a major role in brain metabolism by controlling the chemical composition of the fluid that surrounds neurons, including levels of ions and nutrients.Brain tissue consumes a large amount of energy in proportion to its volume, so large brains place severe metabolic demands on animals. 
+
+The need to limit body weight in order, for example, to fly, has apparently led to selection for a reduction of brain size in some species, such as bats. 
+
+Most of the brain's energy consumption goes into sustaining the electric charge (membrane potential) of neurons. 
+
+Most vertebrate species devote between 2% and 8% of basal metabolism to the brain. 
+
+In primates, however, the percentage is much higher—in humans it rises to 20–25%. 
+
+The energy consumption of the brain does not vary greatly over time, but active regions of the cerebral cortex consume somewhat more energy than inactive regions; this forms the basis for the functional brain imaging methods of PET, fMRI, and NIRS. 
+
+The brain typically gets most of its energy from oxygen-dependent metabolism of glucose (i.e., blood sugar), but ketones provide a major alternative source, together with contributions from medium chain fatty acids (caprylic and heptanoic acids), lactate, acetate, and possibly amino acids.
+
+
+== Function ==
+
+
+Information from the sense organs is collected in the brain. 
+
+There it is used to determine what actions the organism is to take. 
+
+The brain processes the raw data to extract information about the structure of the environment. 
+
+Next it combines the processed information with information about the current needs of the animal and with memory of past circumstances. 
+
+Finally, on the basis of the results, it generates motor response patterns. 
+
+These signal-processing tasks require intricate interplay between a variety of functional subsystems.The function of the brain is to provide coherent control over the actions of an animal. 
+
+A centralized brain allows groups of muscles to be co-activated in complex patterns; it also allows stimuli impinging on one part of the body to evoke responses in other parts, and it can prevent different parts of the body from acting at cross-purposes to each other.
+
+
+=== Perception ===
+
+
+The human brain is provided with information about light, sound, the chemical composition of the atmosphere, temperature, the position of the body in space (proprioception), the chemical composition of the bloodstream, and more. 
+
+In other animals additional senses are present, such as the infrared heat-sense of snakes, the magnetic field sense of some birds, or the electric field sense mainly seen in aquatic animals.
+Each sensory system begins with specialized receptor cells, such as photoreceptor cells in the retina of the eye, or vibration-sensitive hair cells in the cochlea of the ear. 
+
+The axons of sensory receptor cells travel into the spinal cord or brain, where they transmit their signals to a first-order sensory nucleus dedicated to one specific sensory modality. 
+
+This primary sensory nucleus sends information to higher-order sensory areas that are dedicated to the same modality. 
+
+Eventually, via a way-station in the thalamus, the signals are sent to the cerebral cortex, where they are processed to extract the relevant features, and integrated with signals coming from other sensory systems.
+
+
+=== Motor control ===
+
+Motor systems are areas of the brain that are involved in initiating body movements, that is, in activating muscles. 
+
+Except for the muscles that control the eye, which are driven by nuclei in the midbrain, all the voluntary muscles in the body are directly innervated by motor neurons in the spinal cord and hindbrain. 
+
+Spinal motor neurons are controlled both by neural circuits intrinsic to the spinal cord, and by inputs that descend from the brain. 
+
+The intrinsic spinal circuits implement many reflex responses, and contain pattern generators for rhythmic movements such as walking or swimming. 
+
+The descending connections from the brain allow for more sophisticated control.The brain contains several motor areas that project directly to the spinal cord. 
+
+At the lowest level are motor areas in the medulla and pons, which control stereotyped movements such as walking, breathing, or swallowing. 
+
+At a higher level are areas in the midbrain, such as the red nucleus, which is responsible for coordinating movements of the arms and legs. 
+
+At a higher level yet is the primary motor cortex, a strip of tissue located at the posterior edge of the frontal lobe. 
+
+The primary motor cortex sends projections to the subcortical motor areas, but also sends a massive projection directly to the spinal cord, through the pyramidal tract. 
+
+This direct corticospinal projection allows for precise voluntary control of the fine details of movements. 
+
+Other motor-related brain areas exert secondary effects by projecting to the primary motor areas. 
+
+Among the most important secondary areas are the premotor cortex, supplementary motor area, basal ganglia, and cerebellum. 
+
+In addition to all of the above, the brain and spinal cord contain extensive circuitry to control the autonomic nervous system which controls the movement of the smooth muscle of the body.
+
+
+=== Sleep ===
+
+
+Many animals alternate between sleeping and waking in a daily cycle. 
+
+Arousal and alertness are also modulated on a finer time scale by a network of brain areas. 
+
+A key component of the sleep system is the suprachiasmatic nucleus (SCN), a tiny part of the hypothalamus located directly above the point at which the optic nerves from the two eyes cross. 
+
+The SCN contains the body's central biological clock. 
+
+Neurons there show activity levels that rise and fall with a period of about 24 hours, circadian rhythms: these activity fluctuations are driven by rhythmic changes in expression of a set of "clock genes". 
+
+The SCN continues to keep time even if it is excised from the brain and placed in a dish of warm nutrient solution, but it ordinarily receives input from the optic nerves, through the retinohypothalamic tract (RHT), that allows daily light-dark cycles to calibrate the clock.The SCN projects to a set of areas in the hypothalamus, brainstem, and midbrain that are involved in implementing sleep-wake cycles. 
+
+An important component of the system is the reticular formation, a group of neuron-clusters scattered diffusely through the core of the lower brain. 
+
+Reticular neurons send signals to the thalamus, which in turn sends activity-level-controlling signals to every part of the cortex. 
+
+Damage to the reticular formation can produce a permanent state of coma.Sleep involves great changes in brain activity. 
+
+Until the 1950s it was generally believed that the brain essentially shuts off during sleep, but this is now known to be far from true; activity continues, but patterns become very different. 
+
+There are two types of sleep: REM sleep (with dreaming) and NREM (non-REM, usually without dreaming) sleep, which repeat in slightly varying patterns throughout a sleep episode. 
+
+Three broad types of distinct brain activity patterns can be measured: REM, light NREM and deep NREM. 
+
+During deep NREM sleep, also called slow wave sleep, activity in the cortex takes the form of large synchronized waves, whereas in the waking state it is noisy and desynchronized. 
+
+Levels of the neurotransmitters norepinephrine and serotonin drop during slow wave sleep, and fall almost to zero during REM sleep; levels of acetylcholine show the reverse pattern.
+
+
+=== Homeostasis ===
+
+
+For any animal, survival requires maintaining a variety of parameters of bodily state within a limited range of variation: these include temperature, water content, salt concentration in the bloodstream, blood glucose levels, blood oxygen level, and others. 
+
+The ability of an animal to regulate the internal environment of its body—the milieu intérieur, as the pioneering physiologist Claude Bernard called it—is known as homeostasis (Greek for "standing still"). 
+
+Maintaining homeostasis is a crucial function of the brain. 
+
+The basic principle that underlies homeostasis is negative feedback: any time a parameter diverges from its set-point, sensors generate an error signal that evokes a response that causes the parameter to shift back toward its optimum value. (This principle is widely used in engineering, for example in the control of temperature using a thermostat.)
+In vertebrates, the part of the brain that plays the greatest role is the hypothalamus, a small region at the base of the forebrain whose size does not reflect its complexity or the importance of its function. 
+
+The hypothalamus is a collection of small nuclei, most of which are involved in basic biological functions. 
+
+Some of these functions relate to arousal or to social interactions such as sexuality, aggression, or maternal behaviors; but many of them relate to homeostasis. 
+
+Several hypothalamic nuclei receive input from sensors located in the lining of blood vessels, conveying information about temperature, sodium level, glucose level, blood oxygen level, and other parameters. 
+
+These hypothalamic nuclei send output signals to motor areas that can generate actions to rectify deficiencies. 
+
+Some of the outputs also go to the pituitary gland, a tiny gland attached to the brain directly underneath the hypothalamus. 
+
+The pituitary gland secretes hormones into the bloodstream, where they circulate throughout the body and induce changes in cellular activity.
+
+
+=== Motivation ===
+
+
+The individual animals need to express survival-promoting behaviors, such as seeking food, water, shelter, and a mate. 
+
+The motivational system in the brain monitors the current state of satisfaction of these goals, and activates behaviors to meet any needs that arise. 
+
+The motivational system works largely by a reward–punishment mechanism. 
+
+When a particular behavior is followed by favorable consequences, the reward mechanism in the brain is activated, which induces structural changes inside the brain that cause the same behavior to be repeated later, whenever a similar situation arises. 
+
+Conversely, when a behavior is followed by unfavorable consequences, the brain's punishment mechanism is activated, inducing structural changes that cause the behavior to be suppressed when similar situations arise in the future.Most organisms studied to date utilize a reward–punishment mechanism: for instance, worms and insects can alter their behavior to seek food sources or to avoid dangers. 
+
+In vertebrates, the reward-punishment system is implemented by a specific set of brain structures, at the heart of which lie the basal ganglia, a set of interconnected areas at the base of the forebrain. 
+
+The basal ganglia are the central site at which decisions are made: the basal ganglia exert a sustained inhibitory control over most of the motor systems in the brain; when this inhibition is released, a motor system is permitted to execute the action it is programmed to carry out. 
+
+Rewards and punishments function by altering the relationship between the inputs that the basal ganglia receive and the decision-signals that are emitted. 
+
+The reward mechanism is better understood than the punishment mechanism, because its role in drug abuse has caused it to be studied very intensively. 
+
+Research has shown that the neurotransmitter dopamine plays a central role: addictive drugs such as cocaine, amphetamine, and nicotine either cause dopamine levels to rise or cause the effects of dopamine inside the brain to be enhanced.
+
+
+=== Learning and memory ===
+
+Almost all animals are capable of modifying their behavior as a result of experience—even the most primitive types of worms. 
+
+Because behavior is driven by brain activity, changes in behavior must somehow correspond to changes inside the brain. 
+
+Already in the late 19th century theorists like Santiago Ramón y Cajal argued that the most plausible explanation is that learning and memory are expressed as changes in the synaptic connections between neurons. 
+
+Until 1970, however, experimental evidence to support the synaptic plasticity hypothesis was lacking. 
+
+In 1971 Tim Bliss and Terje Lømo published a paper on a phenomenon now called long-term potentiation: the paper showed clear evidence of activity-induced synaptic changes that lasted for at least several days. 
+
+Since then technical advances have made these sorts of experiments much easier to carry out, and thousands of studies have been made that have clarified the mechanism of synaptic change, and uncovered other types of activity-driven synaptic change in a variety of brain areas, including the cerebral cortex, hippocampus, basal ganglia, and cerebellum. 
+
+Brain-derived neurotrophic factor (BDNF) and physical activity appear to play a beneficial role in the process.Neuroscientists currently distinguish several types of learning and memory that are implemented by the brain in distinct ways:
+
+Working memory is the ability of the brain to maintain a temporary representation of information about the task that an animal is currently engaged in. 
+
+This sort of dynamic memory is thought to be mediated by the formation of cell assemblies—groups of activated neurons that maintain their activity by constantly stimulating one another.
+Episodic memory is the ability to remember the details of specific events. 
+
+This sort of memory can last for a lifetime. 
+
+Much evidence implicates the hippocampus in playing a crucial role: people with severe damage to the hippocampus sometimes show amnesia, that is, inability to form new long-lasting episodic memories.
+Semantic memory is the ability to learn facts and relationships. 
+
+This sort of memory is probably stored largely in the cerebral cortex, mediated by changes in connections between cells that represent specific types of information.
+Instrumental learning is the ability for rewards and punishments to modify behavior. 
+
+It is implemented by a network of brain areas centered on the basal ganglia.
+Motor learning is the ability to refine patterns of body movement by practicing, or more generally by repetition. 
+
+A number of brain areas are involved, including the premotor cortex, basal ganglia, and especially the cerebellum, which functions as a large memory bank for microadjustments of the parameters of movement.
+
+
+== Research ==
+
+
+The field of neuroscience encompasses all approaches that seek to understand the brain and the rest of the nervous system. 
+
+Psychology seeks to understand mind and behavior, and neurology is the medical discipline that diagnoses and treats diseases of the nervous system. 
+
+The brain is also the most important organ studied in psychiatry, the branch of medicine that works to study, prevent, and treat mental disorders. 
+
+Cognitive science seeks to unify neuroscience and psychology with other fields that concern themselves with the brain, such as computer science (artificial intelligence and similar fields) and philosophy.The oldest method of studying the brain is anatomical, and until the middle of the 20th century, much of the progress in neuroscience came from the development of better cell stains and better microscopes. 
+
+Neuroanatomists study the large-scale structure of the brain as well as the microscopic structure of neurons and their components, especially synapses. 
+
+Among other tools, they employ a plethora of stains that reveal neural structure, chemistry, and connectivity. 
+
+In recent years, the development of immunostaining techniques has allowed investigation of neurons that express specific sets of genes. 
+
+Also, functional neuroanatomy uses medical imaging techniques to correlate variations in human brain structure with differences in cognition or behavior.Neurophysiologists study the chemical, pharmacological, and electrical properties of the brain: their primary tools are drugs and recording devices. 
+
+Thousands of experimentally developed drugs affect the nervous system, some in highly specific ways. 
+
+Recordings of brain activity can be made using electrodes, either glued to the scalp as in EEG studies, or implanted inside the brains of animals for extracellular recordings, which can detect action potentials generated by individual neurons. 
+
+Because the brain does not contain pain receptors, it is possible using these techniques to record brain activity from animals that are awake and behaving without causing distress. 
+
+The same techniques have occasionally been used to study brain activity in human patients suffering from intractable epilepsy, in cases where there was a medical necessity to implant electrodes to localize the brain area responsible for epileptic seizures. 
+
+Functional imaging techniques such as fMRI are also used to study brain activity; these techniques have mainly been used with human subjects, because they require a conscious subject to remain motionless for long periods of time, but they have the great advantage of being noninvasive.
+
+Another approach to brain function is to examine the consequences of damage to specific brain areas. 
+
+Even though it is protected by the skull and meninges, surrounded by cerebrospinal fluid, and isolated from the bloodstream by the blood–brain barrier, the delicate nature of the brain makes it vulnerable to numerous diseases and several types of damage. 
+
+In humans, the effects of strokes and other types of brain damage have been a key source of information about brain function. 
+
+Because there is no ability to experimentally control the nature of the damage, however, this information is often difficult to interpret. 
+
+In animal studies, most commonly involving rats, it is possible to use electrodes or locally injected chemicals to produce precise patterns of damage and then examine the consequences for behavior.Computational neuroscience encompasses two approaches: first, the use of computers to study the brain; second, the study of how brains perform computation. 
+
+On one hand, it is possible to write a computer program to simulate the operation of a group of neurons by making use of systems of equations that describe their electrochemical activity; such simulations are known as biologically realistic neural networks. 
+
+On the other hand, it is possible to study algorithms for neural computation by simulating, or mathematically analyzing, the operations of simplified "units" that have some of the properties of neurons but abstract out much of their biological complexity. 
+
+The computational functions of the brain are studied both by computer scientists and neuroscientists.Computational neurogenetic modeling is concerned with the study and development of dynamic neuronal models for modeling brain functions with respect to genes and dynamic interactions between genes.
+Recent years have seen increasing applications of genetic and genomic techniques to the study of the brain and a focus on the roles of neurotrophic factors and physical activity in neuroplasticity. 
+
+The most common subjects are mice, because of the availability of technical tools. 
+
+It is now possible with relative ease to "knock out" or mutate a wide variety of genes, and then examine the effects on brain function. 
+
+More sophisticated approaches are also being used: for example, using Cre-Lox recombination it is possible to activate or deactivate genes in specific parts of the brain, at specific times.
+
+
+=== History ===
+
+
+The oldest brain to have been discovered was in Armenia in the Areni-1 cave complex. 
+
+The brain, estimated to be over 5,000 years old, was found in the skull of a 12 to 14-year-old girl. 
+
+Although the brains were shriveled, they were well preserved due to the climate found inside the cave.Early philosophers were divided as to whether the seat of the soul lies in the brain or heart. 
+
+Aristotle favored the heart, and thought that the function of the brain was merely to cool the blood. 
+
+Democritus, the inventor of the atomic theory of matter, argued for a three-part soul, with intellect in the head, emotion in the heart, and lust near the liver. 
+
+The unknown author of On the Sacred Disease, a medical treatise in the Hippocratic Corpus, came down unequivocally in favor of the brain, writing:
+
+Men ought to know that from nothing else but the brain come joys, delights, laughter and sports, and sorrows, griefs, despondency, and lamentations. ... 
+
+And by the same organ we become mad and delirious, and fears and terrors assail us, some by night, and some by day, and dreams and untimely wanderings, and cares that are not suitable, and ignorance of present circumstances, desuetude, and unskillfulness. 
+
+All these things we endure from the brain, when it is not healthy...
+On the Sacred Disease, attributed to Hippocrates
+
+The Roman physician Galen also argued for the importance of the brain, and theorized in some depth about how it might work. 
+
+Galen traced out the anatomical relationships among brain, nerves, and muscles, demonstrating that all muscles in the body are connected to the brain through a branching network of nerves. 
+
+He postulated that nerves activate muscles mechanically by carrying a mysterious substance he called pneumata psychikon, usually translated as "animal spirits". 
+
+Galen's ideas were widely known during the Middle Ages, but not much further progress came until the Renaissance, when detailed anatomical study resumed, combined with the theoretical speculations of René Descartes and those who followed him. 
+
+Descartes, like Galen, thought of the nervous system in hydraulic terms. 
+
+He believed that the highest cognitive functions are carried out by a non-physical res cogitans, but that the majority of behaviors of humans, and all behaviors of animals, could be explained mechanistically.The first real progress toward a modern understanding of nervous function, though, came from the investigations of Luigi Galvani (1737–1798), who discovered that a shock of static electricity applied to an exposed nerve of a dead frog could cause its leg to contract. 
+
+Since that time, each major advance in understanding has followed more or less directly from the development of a new technique of investigation. 
+
+Until the early years of the 20th century, the most important advances were derived from new methods for staining cells. 
+
+Particularly critical was the invention of the Golgi stain, which (when correctly used) stains only a small fraction of neurons, but stains them in their entirety, including cell body, dendrites, and axon. 
+
+Without such a stain, brain tissue under a microscope appears as an impenetrable tangle of protoplasmic fibers, in which it is impossible to determine any structure. 
+
+In the hands of Camillo Golgi, and especially of the Spanish neuroanatomist Santiago Ramón y Cajal, the new stain revealed hundreds of distinct types of neurons, each with its own unique dendritic structure and pattern of connectivity.
+
+In the first half of the 20th century, advances in electronics enabled investigation of the electrical properties of nerve cells, culminating in work by Alan Hodgkin, Andrew Huxley, and others on the biophysics of the action potential, and the work of Bernard Katz and others on the electrochemistry of the synapse. 
+
+These studies complemented the anatomical picture with a conception of the brain as a dynamic entity. 
+
+Reflecting the new understanding, in 1942 Charles Sherrington visualized the workings of the brain waking from sleep:
+
+The great topmost sheet of the mass, that where hardly a light had twinkled or moved, becomes now a sparkling field of rhythmic flashing points with trains of traveling sparks hurrying hither and thither. 
+
+The brain is waking and with it the mind is returning. 
+
+It is as if the Milky Way entered upon some cosmic dance. 
+
+Swiftly the head mass becomes an enchanted loom where millions of flashing shuttles weave a dissolving pattern, always a meaningful pattern though never an abiding one; a shifting harmony of subpatterns.
+—Sherrington, 1942, Man on his Nature
+The invention of electronic computers in the 1940s, along with the development of mathematical information theory, led to a realization that brains can potentially be understood as information processing systems. 
+
+This concept formed the basis of the field of cybernetics, and eventually gave rise to the field now known as computational neuroscience. 
+
+The earliest attempts at cybernetics were somewhat crude in that they treated the brain as essentially a digital computer in disguise, as for example in John von Neumann's 1958 book, The Computer and the Brain. 
+
+Over the years, though, accumulating information about the electrical responses of brain cells recorded from behaving animals has steadily moved theoretical concepts in the direction of increasing realism.One of the most influential early contributions was a 1959 paper titled What the frog's eye tells the frog's brain: the paper examined the visual responses of neurons in the retina and optic tectum of frogs, and came to the conclusion that some neurons in the tectum of the frog are wired to combine elementary responses in a way that makes them function as "bug perceivers". 
+
+A few years later David Hubel and Torsten Wiesel discovered cells in the primary visual cortex of monkeys that become active when sharp edges move across specific points in the field of view—a discovery for which they won a Nobel Prize. 
+
+Follow-up studies in higher-order visual areas found cells that detect binocular disparity, color, movement, and aspects of shape, with areas located at increasing distances from the primary visual cortex showing increasingly complex responses. 
+
+Other investigations of brain areas unrelated to vision have revealed cells with a wide variety of response correlates, some related to memory, some to abstract types of cognition such as space.Theorists have worked to understand these response patterns by constructing mathematical models of neurons and neural networks, which can be simulated using computers. 
+
+Some useful models are abstract, focusing on the conceptual structure of neural algorithms rather than the details of how they are implemented in the brain; other models attempt to incorporate data about the biophysical properties of real neurons. 
+
+No model on any level is yet considered to be a fully valid description of brain function, though. 
+
+The essential difficulty is that sophisticated computation by neural networks requires distributed processing in which hundreds or thousands of neurons work cooperatively—current methods of brain activity recording are only capable of isolating action potentials from a few dozen neurons at a time.Furthermore, even single neurons appear to be complex and capable of performing computations. 
+
+So, brain models that don't reflect this are too abstract to be representative of brain operation; models that do try to capture this are very computationally expensive and arguably intractable with present computational resources. 
+
+However, the Human Brain Project is trying to build a realistic, detailed computational model of the entire human brain. 
+
+The wisdom of this approach has been publicly contested, with high-profile scientists on both sides of the argument.
+In the second half of the 20th century, developments in chemistry, electron microscopy, genetics, computer science, functional brain imaging, and other fields progressively opened new windows into brain structure and function. 
+
+In the United States, the 1990s were officially designated as the "Decade of the Brain" to commemorate advances made in brain research, and to promote funding for such research.In the 21st century, these trends have continued, and several new approaches have come into prominence, including multielectrode recording, which allows the activity of many brain cells to be recorded all at the same time; genetic engineering, which allows molecular components of the brain to be altered experimentally; genomics, which allows variations in brain structure to be correlated with variations in DNA properties and neuroimaging.
+
+
+== Society and culture ==
+
+
+
+=== As food ===
+
+
+Animal brains are used as food in numerous cuisines.
+
+
+=== In rituals ===
+
+Some archaeological evidence suggests that the mourning rituals of European Neanderthals also involved the consumption of the brain.The Fore people of Papua New Guinea are known to eat human brains. 
+
+In funerary rituals, those close to the dead would eat the brain of the deceased to create a sense of immortality. 
+
+A prion disease called kuru has been traced to this.
+
+
+
+https://en.wikipedia.org/wiki/Brain

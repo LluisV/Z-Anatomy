@@ -1,0 +1,52 @@
+HIP BONE
+    Acetabulum
+        Acetabular margin
+        Acetabular fossa
+        Acetabular notch
+        Lunate surface
+    Ischiopubic ramus
+    Obturator foramen
+    Greater sciatic notch
+    Greater sciatic foramen
+    ILIUM
+        Body of ilium
+            Supra-acetabular groove
+        Arcuate line of ilium
+        Ala of ilium
+            Iliac crest
+                Outer lip of iliac crest
+                   Iliac tubercle
+                Intermediate zone
+                Inner lip of iliac crest
+            Anterior superior iliac spine
+            Anterior inferior iliac spine
+            Posterior superior iliac spine
+            Posterior inferior iliac spine
+            Iliac fossa
+        Gluteal surface of ilium
+            Anterior gluteal line
+            Posterior gluteal line
+            Inferior gluteal line
+        Sacropelvic surface of ilium
+            Auricular surface of ilium
+            Iliac tuberosity
+    ISCHIUM
+        Body of ischium
+        Ramus of ischium
+            Ischial tuberosity
+        Ischial spine
+        Lesser sciatic notch
+        Lesser sciatic foramen
+    PUBIS
+        Body of pubis
+            Pubic tubercle
+            Symphysial surface of pubis
+            Pubic crest
+        Superior pubic ramus
+            Iliopubic eminence
+            Pecten pubis
+            Obturator crest
+            Obturator groove
+            Anterior obturator tubercle
+            Posterior obturator tubercle
+        Inferior pubic ramus

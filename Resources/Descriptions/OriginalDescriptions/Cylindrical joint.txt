@@ -1,0 +1,16 @@
+
+
+CYLINDRICAL JOINT
+
+
+A cylindrical joint is a two-degrees-of-freedom kinematic pair used in mechanisms. 
+
+Cylindrical joints provide single-axis sliding function as well as a single axis rotation, providing a way for two rigid bodies to translate and rotate freely. 
+
+This can be pictured by an unsecured axle mounted on a chassis, as it may freely rotate and translate. 
+
+An example of this would be the rotating rods of a Table football.
+
+
+
+https://en.wikipedia.org/wiki/Cylindrical_joint

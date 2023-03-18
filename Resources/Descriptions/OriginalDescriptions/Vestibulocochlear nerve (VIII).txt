@@ -1,0 +1,107 @@
+
+
+VESTIBULOCOCHLEAR NERVE (VIII)
+
+
+The vestibulocochlear nerve (auditory vestibular nerve), known as the eighth cranial nerve, transmits sound and equilibrium (balance) information from the inner ear to the brain. 
+
+Through olivocochlear fibers, it also transmits motor and modulatory information from the superior olivary complex in the brainstem to the cochlea.
+
+
+== Structure ==
+
+The vestibulocochlear nerve consists mostly of bipolar neurons and splits into two large divisions: the cochlear nerve and the vestibular nerve.
+Cranial nerve 8, the vestibulocochlear nerve, goes to the middle portion of the brainstem called the pons, (which then is largely composed of fibers going to the cerebellum). 
+The 8th cranial nerve runs between the base of the pons (the middle portion of the brainstem) and medulla oblongata (the lower portion of the brainstem). 
+
+This junction between the pons, medulla, and cerebellum that contains the 8th nerve is called the cerebellopontine angle.
+The vestibulocochlear nerve is accompanied by the labyrinthine artery, which usually branches off from the anterior inferior cerebellar artery (AICA) at the cerebellopontine angle, and then goes with the 7th nerve through the internal acoustic meatus to the internal ear.
+The cochlear nerve travels away from the cochlea of the inner ear where it starts as the spiral ganglia. 
+
+Processes from the organ of Corti conduct afferent transmission to the spiral ganglia. 
+
+It is the inner hair cells of the organ of Corti that are responsible for activation of afferent receptors in response to pressure waves reaching the basilar membrane through the transduction of sound. 
+
+The exact mechanism by which sound is transmitted by the neurons of the cochlear nerve is uncertain; the two competing theories are place theory and temporal theory.
+The vestibular nerve travels from the vestibular system of the inner ear. 
+
+The vestibular ganglion houses the cell bodies of the bipolar neurons and extends processes to five sensory organs. 
+
+Three of these are the cristae located in the ampullae of the semicircular canals. 
+
+Hair cells of the cristae activate afferent receptors in response to rotational acceleration. 
+
+The other two sensory organs supplied by the vestibular neurons are the maculae of the saccule and utricle. 
+
+Hair cells of the maculae in the utricle activate afferent receptors in response to linear acceleration while hair cells of the maculae in the saccule respond to vertically directed linear force.
+
+
+=== Development ===
+
+The vestibulocochlear nerve is derived from the embryonic otic placode.
+
+
+== Function ==
+
+This is the nerve along which the sensory cells (the hair cells) of the inner ear transmit information to the brain. 
+
+It consists of the cochlear nerve, carrying information about hearing, and the vestibular nerve, carrying information about balance. 
+It emerges from the pontomedullary junction and exits the inner skull via the internal acoustic meatus (or internal auditory meatus) in the temporal bone.
+The vestibulocochlear nerve carries axons of type SSA (special somatic afferent).
+
+
+== Clinical significance ==
+
+
+
+=== Symptoms of damage ===
+
+Damage to the vestibulocochlear nerve may cause the following symptoms:
+
+hearing loss
+vertigo
+false sense of motion
+loss of equilibrium (in dark places)
+nystagmus
+motion sickness
+gaze-evoked tinnitus.
+
+
+=== Examination ===
+
+Examinations that can be done include the Rinne test and the Weber test.
+Rinne's test involves Rinne's Right Test and Rinne's Left Test since auditory acuity is equal in both ears. 
+
+If Bone Conduction(BC) is more than Air Conduction(AC) i.e. 
+
+BC>AC indicates Rinne Test is negative or abnormal. 
+
+If AC>BC Rinne test is normal or positive. 
+
+If BC>AC and Weber's test lateralizes to abnormal side then it is Conductive hearing loss. 
+
+If AC>BC and Weber's test lateralizes to normal side then it concludes Sensorineural hearing loss.
+After pure-tone testing, if the AC and BC responses at all frequencies 500–8000 Hz are better than 25 dB HL, meaning 0-24 dB HL, the results are considered normal hearing sensitivity. 
+
+If the AC and BC are worse than 25 dB HL at any one or more frequency between 500 and 8000 Hz, meaning 25+, and there is a no bigger difference between AC and BC beyond 10 dB at any frequency, there is a sensori-neural hearing loss present. 
+
+If the BC responses are normal, 0-24 dB HL, and the AC are worse than 25 dB HL, as well as a 10 dB gap between the air and bone responses, a conductive hearing loss is present.
+{updated March 2019}
+The modified Hughson–Westlake method is used by many audiologists during testing. 
+
+A battery of (1) otoscopy, to view the ear canal and tympanic membrane, (2) tympanometry, to assess the immittance of the tympanic membrane and how well it moves, (3) otoacoustic emissions, to measure the response of the outer hair cells located in the cochlea, (4) audiobooth pure-tone testing, to obtain thresholds to determine the type, severity, and pathology of the hearing loss present, and (5) speech tests, to measure the patients recognition and ability to repeat the speech heard, is all taken into consideration when diagnosing the pathology of the patient.
+
+
+== History ==
+
+
+
+=== Etymology ===
+
+Some older texts call the nerve the acoustic or auditory nerve, but these terms have fallen out of widespread use because they fail to recognize the nerve's role in the vestibular system. 
+
+Vestibulocochlear nerve is therefore preferred by most.
+
+
+
+https://en.wikipedia.org/wiki/Vestibulocochlear_nerve

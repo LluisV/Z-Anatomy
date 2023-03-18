@@ -1,0 +1,924 @@
+
+
+SUPERIOR OLIVARY COMPLEX
+
+
+The superior olivary complex (SOC) or superior olive is a collection of brainstem nuclei that functions in multiple aspects of hearing and is an important component of the ascending and descending auditory pathways of the auditory system. 
+
+The SOC is intimately related to the trapezoid body: most of the cell groups of the SOC are dorsal (posterior in primates) to this axon bundle while a number of cell groups are embedded in the trapezoid body. 
+
+Overall, the SOC displays a significant interspecies variation, being largest in bats and rodents and smaller in primates.
+
+
+== Physiology ==
+
+The superior olivary nucleus plays a number of roles in hearing. 
+
+The medial superior olive (MSO) is a specialized nucleus that is believed to measure the time difference of arrival of sounds between the ears (the interaural time difference or ITD). 
+
+The ITD is a major cue for determining the azimuth of sounds, i.e., localising them on the azimuthal plane – their degree to the left or the right.
+The lateral superior olive (LSO) is believed to be involved in measuring the difference in sound intensity between the ears (the interaural level difference or ILD). 
+
+The ILD is a second major cue in determining the azimuth of high-frequency sounds.
+
+
+== Relationship to auditory system ==
+
+The superior olivary complex is generally located in the pons, but in humans extends from the rostral medulla to the mid-pons and receives projections predominantly from the anteroventral cochlear nucleus (AVCN) via the trapezoid body, although the posteroventral nucleus projects to the SOC via the intermediate acoustic stria. 
+
+The SOC is the first major site of convergence of auditory information from the left and right ears.
+
+
+== Primary nuclei ==
+
+The superior olivary complex is divided into three primary nuclei, the MSO, LSO, and the Medial nucleus of the trapezoid body, and several smaller periolivary nuclei. 
+
+These three nuclei are the most studied, and therefore best understood. 
+
+Typically, they are regarded as forming the ascending azimuthal localization pathway.
+
+
+=== Medial superior olive (MSO) ===
+
+The medial superior olive is thought to help locate the azimuth of a sound, that is, the angle to the left or right where the sound source is located. 
+
+Sound elevation cues are not processed in the olivary complex. 
+
+The fusiform cells of the dorsal cochlear nucleus (DCN), which are thought to contribute to localization in elevation, bypass the SOC and project directly to the inferior colliculus. 
+
+Only horizontal data is present, but it does come from two different ear sources, which aids in the localizing of sound on the azimuth axis. 
+
+The way in which the superior olive does this is by measuring the differences in time between two ear signals recording the same stimulus. 
+
+Traveling around the head takes about 700 μs, and the medial superior olive is able to distinguish time differences much smaller than this. 
+
+In fact, it is observed that people can detect interaural differences down to 10 μs. 
+
+The nucleus is tonotopically organized, but the azimuthal receptive field projection is "most likely a complex, nonlinear map".The projections of the medial superior olive terminate densely in the ipsilateral central nucleus of the inferior colliculus (CNIC). 
+
+The majority of these axons are considered to be "round shaped" or type R. 
+
+These R axons are mostly glutamatergic and contain round synaptic vesicles and form asymmetric synaptic junctions.
+This is the largest of the nuclei and in humans it contains approximately 15,500 neurons.
+Each MSO receives bilateral inputs from the right and left AVCNs.
+The output is via the ipsilateral lateral lemniscus to the inferior colliculus.
+The MSO responds better to binaural stimuli.
+The MSO's main function is detection of interaural time difference (ITD) cues to binaural lateralization.
+The MSO is severely disrupted in the autistic brain.
+
+
+=== Lateral superior olive (LSO) ===
+
+This olive has similar functions to the medial superior olive, but employs intensity to localize the sound source. 
+
+The LSO receives excitatory, glutamatergic input from spherical bushy cells in the ipsilateral cochlear nucleus and inhibitory, glycinergic input from the medial nucleus of the trapezoid body (MNTB). 
+
+The MNTB is driven by excitatory input from globular bushy cells in the contralateral cochlear nucleus. 
+
+Thus, the LSO receives excitatory input from the ipsilateral ear and inhibitory input from the contralateral ear. 
+
+This is the basis of ILD sensitivity. 
+
+Projections from both cochlear nuclei are primarily high frequency, and these frequencies are subsequently represented by the majority of LSO neurons (>2/3 over 2–3 kHz in cat). 
+
+The LSO does in fact encode frequency across the animals audible range (not just "high" frequency). 
+
+Additional inputs derive from the ipsilateral LNTB (glycinergic, see below), which provide inhibitory information from the ipsilateral cochlear nucleus. 
+
+Another possibly inhibitory input derives from ipsilateral AVCN non-spherical cells. 
+
+These cells are either globular bushy or multipolar (stellate). 
+
+Either of these two inputs could provide the basis for ipsilateral inhibition seen in response maps flanking the primary excitation, sharpening the unit's frequency tuning.The LSO projects bilaterally to the central nucleus of the inferior colliculus (ICC). 
+
+Ipsilateral projections are primarily inhibitory (glycinergic), and the contralateral projections are excitatory. 
+
+Additional projection targets include the dorsal and ventral nuclei of the lateral lemniscus (DNLL & VNLL). 
+
+The GABAergic projections from the DNLL form a major source of GABA in the auditory brainstem, and project bilaterally to the ICC and to the contralateral DNLL. 
+
+These converging excitatory and inhibitory connections may act to decrease the level dependence of ILD sensitivity in the ICC compared to the LSO.
+Additional projections form the lateral olivocochlear bundle (LOC), which innervates cochlear inner hair cells. 
+
+These projections are thought to have a long time constant, and act to normalize the sound level detected by each ear in order to aid in sound localization. 
+
+Considerable species differences exist: LOC projection neurons are distributed within the LSO in rodents, and surround the LSO in predators (i.e. cat).
+
+
+=== Medial nucleus of the trapezoid body (MNTB) ===
+
+The MNTB, in the trapezoid body, is composed of mainly neurons with round cell bodies which utilize glycine as a neurotransmitter.
+The size of the MNTB is reduced in primates.
+Each MNTB neuron receives a large "calyx" type ending, the calyx of Held arising from the globular bushy cells in the contralateral AVCN.
+There are two response types found: a ‘chopper type’ similar to spindle cells in the AVCN and a primary type which is similar to those of bushy cells in the AVCN.
+
+
+== Periolivary nuclei ==
+
+The SOC is composed of between six and nine periolivary nuclei, depending upon the researcher cited, typically named based upon their location with regard to the primary nuclei. 
+
+These nuclei surround each of the primary nuclei, and contribute to both the ascending and descending auditory systems. 
+
+These nuclei also form the source of the olivocochlear bundle, which innervates the cochlea. 
+
+In the guinea pig, ascending projections to the inferior colliculi are primarily ipsilateral (>80%), with the largest single source coming from the SPON. 
+
+Also, ventral nuclei (RPO, VMPO, AVPO, & VNTB) are almost entirely ipsilateral, while the remaining nuclei project bilaterally.
+, *The MSO appears to be smaller and disorganized in mice.
+
+
+=== Ventral nucleus of the trapezoid body (VNTB) ===
+
+The VNTB is a small nucleus located laterally to the MNTB, and ventral to the MSO.
+Made up of a heterogeneous population of cells, this nucleus projects to many auditory nuclei, and forms the medial olivocochlear bundle (MOC) which innervates cochlear outer hair cells. 
+
+These cells contain electromotile fibers, and act as mechanical amplifiers/attenuators within the cochlea.
+The nucleus projects to both IC, with no cells projecting bilaterally.
+
+
+=== Lateral nucleus of the trapezoid body (LNTB) ===
+
+Located ventral to the LSO
+AVCN spherical bushy cells project collaterals bilaterally, and globular bushy cells project collaterals ipsilaterally to LNTB neurons.
+Cells are immunoreactive for glycine, and are retrogradely labeled following injection of tritiated glycine into the LSO
+The nucleus projects to both IC, with few cells projecting bilaterally, as well as the ipsilateral LSO.
+Large multipolar cells project to the cochlear nucleus, but not the IC, in both cat and guinea pig.
+Inputs are often via end-bulbs of Held, producing very fast signal transduction.
+
+
+=== Superior periolivary nucleus (SPON) (dorsomedial periolivary nucleus (DMPO)) ===
+
+Located directly dorsal to the MNTB
+In rats, SPON is a homogeneous GABAergic nucleus. 
+
+These tonotopically organized neurons receive excitatory inputs from octopus and multipolar cells in the contralateral ventral cochlear nucleus, a glycinergic (inhibitory) input from the ipsilateral MNTB, an unknown GABAergic (inhibitory) input, and project to the ipsilateral ICC. 
+
+Most neurons respond only at the offset of a stimulus, can phase lock to AM stimuli up to 200 Hz, and may form the basis for ICC duration selectivity. 
+
+Notably, SPON neurons do not receive descending inputs from the IC, and it does not project to the cochlea or cochlear nucleus as many periolivary nuclei do.
+In contrast, glycinergic projections to ipsilateral ICC are observed in guinea pigs and chinchillas, suggesting a species-related neurotransmitter difference.
+In guinea pigs, round to oval multipolar cells project to both IC, with many cells projecting bilaterally. 
+
+The more elongated cells that project to the cochlear nucleus to not project to the ICC. 
+
+There appear to be to populations of cells, one that projects ipsilaterally, and one that projects bilaterally.
+The majority of information had come from rodent SPON, due to the nucleus' prominent size in these species, with very few studies have been done in cat DMPO, none of which were extensive.
+
+
+=== Dorsal periolivary nucleus (DPO) ===
+
+Located dorsal and medial to the LSO
+Contains both EE (excited by both ears) and E0 (excited by the contralateral ear only) units.
+Neurons are tonotopically organized, and high frequency.
+May belong to a single nucleus along with the DLPO
+The nucleus projects to both IC, with no cells projecting bilaterally.
+
+
+=== Dorsolateral periolivary nucleus (DLPO) ===
+
+Located dorsal and lateral to the LSO
+Contains both EE (excited by both ears) and E0 (excited by the contralateral ear only) units.
+Neurons are tonotopically organized, and low frequency.
+May belong to a single nucleus along with the DPO
+The nucleus projects to both IC, with few cells projecting bilaterally.
+
+
+=== Ventrolateral periolivary nucleus (VLPO) ===
+
+Located ventral to and within the ventral hillus of the LSO
+Contains both EI (excited by contralateral and inhibited by ipsilateral ear) and E0 (excited by the contralateral ear only) units.
+Neurons are tonotopically organized, and high frequency.
+Subdivided into the LNTB, PPO and ALPO 
+
+
+=== Anterolateral periolivary nucleus (ALPO) ===
+
+The nucleus projects to both IC, with no cells projecting bilaterally.
+Large multipolar cells project to the cochlear nucleus, but not the IC, in both cat and guinea pig.
+
+
+=== Ventromedial periolivary nucleus (VMPO) ===
+
+Located between the MSO and MNTB.
+Sends projections to the ICC bilaterally.
+The nucleus projects to both IC, with no cells projecting bilaterally.
+
+
+=== Rostral periolivary nucleus (RPO) (anterior periolivary nucleus (APO)) ===
+
+Located between the rostral pole of the MSO and the VNLL
+Sometimes called the Ventral Nucleus of the Trapezoid Body (VNTB)
+
+
+=== Caudal periolivary nucleus (CPO) (posterior periolivary nucleus (PPO)) ===
+
+Located between the caudal pole of the MSO and the facial nucleus (7N)
+
+
+=== Posteroventral periolivary nucleus (PVPO) ===
+
+The nucleus projects to both IC, with no cells projecting bilaterally.
+
+
+== Pathophysiology ==
+
+An autopsy of a 21-year-old woman with autism, epilepsy and mental retardation found a near-complete absence of the superior olive.
+
+
+
+https://en.wikipedia.org/wiki/Superior_olivary_complex
+;;;ES;;;
+
+
+
+COMPLEJO OLIVARIO SUPERIOR
+
+
+El complejo olivar superior (SOC) u olivar superior es una colección de núcleos del tronco encefálico que funciona en múltiples aspectos de la audición y es un componente importante de las vías auditivas ascendentes y descendentes del sistema auditivo.
+
+El SOC está íntimamente relacionado con el cuerpo trapezoidal: la mayoría de los grupos de células del SOC son dorsales (posteriores en primates) a este haz de axones, mientras que varios grupos de células están incrustados en el cuerpo trapezoidal.
+
+En general, el SOC muestra una variación significativa entre especies, siendo mayor en murciélagos y roedores y menor en primates.
+
+
+== Fisiología ==
+
+El núcleo olivar superior desempeña una serie de funciones en la audición.
+
+La oliva medial superior (MSO) es un núcleo especializado que se cree que mide la diferencia de tiempo de llegada de los sonidos entre los oídos (la diferencia de tiempo interaural o ITD).
+
+El ITD es una clave importante para determinar el azimut de los sonidos, es decir, localizarlos en el plano azimutal, su grado hacia la izquierda o hacia la derecha.
+Se cree que la oliva superior lateral (LSO) está involucrada en la medición de la diferencia en la intensidad del sonido entre los oídos (la diferencia de nivel interaural o ILD).
+
+El ILD es una segunda pista importante para determinar el azimut de los sonidos de alta frecuencia.
+
+
+== Relación con el sistema auditivo ==
+
+El complejo olivar superior generalmente se encuentra en la protuberancia, pero en humanos se extiende desde la médula rostral hasta la protuberancia media y recibe proyecciones predominantemente del núcleo coclear anteroventral (AVCN) a través del cuerpo trapezoidal, aunque el núcleo posteroventral se proyecta al SOC a través de la estría acústica intermedia.
+
+El SOC es el primer sitio importante de convergencia de información auditiva de los oídos izquierdo y derecho.
+
+
+== Núcleos primarios ==
+
+El complejo olivar superior se divide en tres núcleos primarios, el MSO, LSO y el núcleo medial del cuerpo trapezoidal, y varios núcleos periolivares más pequeños.
+
+Estos tres núcleos son los más estudiados y, por tanto, los mejor comprendidos.
+
+Por lo general, se considera que forman la vía de localización azimutal ascendente.
+
+
+=== Oliva medial superior (MSO) ===
+
+Se cree que la oliva medial superior ayuda a localizar el azimut de un sonido, es decir, el ángulo hacia la izquierda o hacia la derecha donde se encuentra la fuente de sonido.
+
+Las señales de elevación del sonido no se procesan en el complejo olivar.
+
+Las células fusiformes del núcleo coclear dorsal (DCN), que se cree que contribuyen a la localización en elevación, eluden el SOC y se proyectan directamente al colículo inferior.
+
+Solo están presentes los datos horizontales, pero provienen de dos fuentes auditivas diferentes, lo que ayuda a localizar el sonido en el eje del acimut.
+
+La forma en que la oliva superior hace esto es midiendo las diferencias de tiempo entre dos señales auditivas que registran el mismo estímulo.
+
+Viajar alrededor de la cabeza toma alrededor de 700 μs, y la oliva superior medial es capaz de distinguir diferencias de tiempo mucho más pequeñas que esto.
+
+De hecho, se observa que las personas pueden detectar diferencias interaurales de hasta 10 μs.
+
+El núcleo está organizado tonotópicamente, pero la proyección del campo receptivo azimutal es "muy probablemente un mapa no lineal complejo". Las proyecciones de la oliva superior medial terminan densamente en el núcleo central ipsolateral del colículo inferior (CNIC).
+
+Se considera que la mayoría de estos axones tienen "forma redonda" o tipo R.
+
+Estos axones R son en su mayoría glutamatérgicos y contienen vesículas sinápticas redondas y forman uniones sinápticas asimétricas.
+Este es el más grande de los núcleos y en humanos contiene aproximadamente 15.500 neuronas.
+Cada MSO recibe entradas bilaterales de los AVCN derecho e izquierdo.
+La salida es a través del lemnisco lateral ipsilateral al colículo inferior.
+El MSO responde mejor a los estímulos binaurales.
+La función principal del MSO es la detección de señales de diferencia de tiempo interaural (ITD) para la lateralización binaural.
+El MSO está severamente interrumpido en el cerebro autista.
+
+
+=== Oliva superior lateral (LSO) ===
+
+Esta oliva tiene funciones similares a la oliva medial superior, pero emplea la intensidad para localizar la fuente del sonido.
+
+El LSO recibe impulsos glutamatérgicos excitatorios de las células tupidas esféricas en el núcleo coclear ipsilateral e impulsos glicinérgicos inhibidores del núcleo medial del cuerpo trapezoidal (MNTB).
+
+El MNTB es impulsado por la entrada excitatoria de las células globulares arbustivas en el núcleo coclear contralateral.
+
+Por lo tanto, el LSO recibe información excitatoria del oído ipsolateral e inhibidora del oído contralateral.
+
+Esta es la base de la sensibilidad ILD.
+
+Las proyecciones de ambos núcleos cocleares son principalmente de alta frecuencia y, posteriormente, estas frecuencias están representadas por la mayoría de las neuronas LSO (> 2/3 sobre 2 a 3 kHz en gato).
+
+De hecho, el LSO codifica la frecuencia en todo el rango audible de los animales (no solo la frecuencia "alta").
+
+Las entradas adicionales se derivan del LNTB ipsilateral (glicinérgico, véase más adelante), que proporcionan información inhibitoria del núcleo coclear ipsilateral.
+
+Otra entrada posiblemente inhibidora se deriva de las células no esféricas AVCN ipsilaterales.
+
+Estas células son tupidas globulares o multipolares (estrelladas).
+
+Cualquiera de estas dos entradas podría proporcionar la base para la inhibición ipsolateral vista en los mapas de respuesta que flanquean la excitación primaria, agudizando la sintonización de frecuencia de la unidad. El LSO se proyecta bilateralmente al núcleo central del colículo inferior (ICC).
+
+Las proyecciones ipsilaterales son principalmente inhibidoras (glicinérgicas) y las proyecciones contralaterales son excitatorias.
+
+Los objetivos de proyección adicionales incluyen los núcleos dorsal y ventral del lemnisco lateral (DNLL y VNLL).
+
+Las proyecciones GABAérgicas del DNLL forman una fuente importante de GABA en el tronco encefálico auditivo y se proyectan bilateralmente al ICC y al DNLL contralateral.
+
+Estas conexiones convergentes de excitación e inhibición pueden actuar para disminuir la dependencia del nivel de sensibilidad de la ILD en el ICC en comparación con el LSO.
+Proyecciones adicionales forman el haz olivococlear lateral (LOC), que inerva las células ciliadas internas de la cóclea.
+
+Se cree que estas proyecciones tienen una constante de tiempo prolongada y actúan para normalizar el nivel de sonido detectado por cada oído para ayudar en la localización del sonido.
+
+Existen diferencias considerables entre especies: las neuronas de proyección LOC se distribuyen dentro del LSO en roedores y rodean el LSO en depredadores (es decir, gato).
+
+
+=== Núcleo medial del cuerpo trapezoidal (MNTB) ===
+
+El MNTB, en el cuerpo trapezoidal, se compone principalmente de neuronas con cuerpos celulares redondos que utilizan la glicina como neurotransmisor.
+El tamaño de la MNTB se reduce en primates.
+Cada neurona MNTB recibe una gran terminación de tipo "cáliz", el cáliz de Held que surge de las células globulares arbustivas en la AVCN contralateral.
+Se encontraron dos tipos de respuesta: un 'tipo chopper' similar a las células fusiformes en la AVCN y un tipo primario que es similar a las células arbustivas en la AVCN.
+
+
+== Núcleos periolivares ==
+
+El SOC se compone de entre seis y nueve núcleos periolivares, según el investigador citado, normalmente nombrados según su ubicación con respecto a los núcleos primarios.
+
+Estos núcleos rodean a cada uno de los núcleos primarios y contribuyen tanto a los sistemas auditivos ascendentes como descendentes.
+
+Estos núcleos también forman la fuente del haz olivococlear, que inerva la cóclea.
+
+En el conejillo de Indias, las proyecciones ascendentes hacia los colículos inferiores son principalmente ipsilaterales (>80 %), y la fuente única más grande proviene del SPON.
+
+Además, los núcleos ventrales (RPO, VMPO, AVPO y VNTB) son casi completamente ipsilaterales, mientras que los núcleos restantes se proyectan bilateralmente.
+, *El MSO parece ser más pequeño y desorganizado en ratones.
+
+
+=== Núcleo ventral del cuerpo trapezoidal (VNTB) ===
+
+El VNTB es un pequeño núcleo ubicado lateralmente al MNTB y ventral al MSO.
+Compuesto por una población heterogénea de células, este núcleo se proyecta a muchos núcleos auditivos y forma el haz olivococlear medial (MOC) que inerva las células ciliadas externas cocleares.
+
+Estas células contienen fibras electromóviles y actúan como amplificadores/atenuadores mecánicos dentro de la cóclea.
+El núcleo se proyecta a ambos IC, sin células que se proyecten bilateralmente.
+
+
+=== Núcleo lateral del cuerpo trapezoidal (LNTB) ===
+
+Situado ventral a la LSO
+Las células tupidas esféricas AVCN proyectan colaterales bilateralmente, y las células tupidas globulares proyectan colaterales ipsilateralmente a las neuronas LNTB.
+Las células son inmunorreactivas para la glicina y se marcan de forma retrógrada después de la inyección de glicina tritiada en el LSO
+El núcleo se proyecta a ambos IC, con pocas células que se proyectan bilateralmente, así como al LSO ipsilateral.
+Grandes células multipolares se proyectan al núcleo coclear, pero no al CI, tanto en gatos como en cobayas.
+Las entradas a menudo se realizan a través de los bulbos finales de Held, lo que produce una transducción de señal muy rápida.
+
+
+=== Núcleo periolivar superior (SPON) (núcleo periolivar dorsomedial (DMPO)) ===
+
+Ubicado directamente dorsal al MNTB
+En ratas, SPON es un núcleo GABAérgico homogéneo.
+
+Estas neuronas organizadas tonotópicamente reciben entradas excitatorias de pulpo y células multipolares en el núcleo coclear ventral contralateral, una entrada glicinérgica (inhibidora) del MNTB ipsilateral, una entrada GABAérgica (inhibidora) desconocida y se proyectan hacia el ICC ipsilateral.
+
+La mayoría de las neuronas responden solo en el desplazamiento de un estímulo, pueden sincronizarse en fase con estímulos AM de hasta 200 Hz y pueden formar la base para la selectividad de duración de ICC.
+
+En particular, las neuronas SPON no reciben entradas descendentes del IC y no se proyectan hacia la cóclea o el núcleo coclear como lo hacen muchos núcleos periolivares.
+Por el contrario, se observan proyecciones glicinérgicas al ICC ipsilateral en conejillos de indias y chinchillas, lo que sugiere una diferencia de neurotransmisores relacionada con las especies.
+En los conejillos de Indias, las células multipolares redondas u ovaladas se proyectan hacia ambos IC, con muchas células que se proyectan bilateralmente.
+
+Las células más alargadas que se proyectan al núcleo coclear para no proyectar al ICC.
+
+Parece haber poblaciones de células, una que se proyecta ipsilateralmente y otra que se proyecta bilateralmente.
+La mayoría de la información provino de SPON de roedores, debido al tamaño prominente del núcleo en estas especies, y se han realizado muy pocos estudios en DMPO de gato, ninguno de los cuales fue extenso.
+
+
+=== Núcleo periolivar dorsal (DPO) ===
+
+Situado dorsal y medial al LSO
+Contiene unidades EE (excitado por ambos oídos) y E0 (excitado solo por el oído contralateral).
+Las neuronas están organizadas tonotópicamente y son de alta frecuencia.
+Puede pertenecer a un solo núcleo junto con el DLPO
+El núcleo se proyecta a ambos IC, sin células que se proyecten bilateralmente.
+
+
+=== Núcleo periolivar dorsolateral (DLPO) ===
+
+Situado dorsal y lateral al LSO
+Contiene unidades EE (excitado por ambos oídos) y E0 (excitado solo por el oído contralateral).
+Las neuronas están organizadas tonotópicamente y son de baja frecuencia.
+Puede pertenecer a un solo núcleo junto con el DPO
+El núcleo se proyecta a ambos IC, con pocas células que se proyectan bilateralmente.
+
+
+=== Núcleo periolivar ventrolateral (VLPO) ===
+
+Ubicado ventral y dentro del hillus ventral del LSO
+Contiene unidades EI (excitado por el oído contralateral e inhibido por el oído ipsilateral) y E0 (excitado solo por el oído contralateral).
+Las neuronas están organizadas tonotópicamente y son de alta frecuencia.
+Subdividido en LNTB, PPO y ALPO
+
+
+=== Núcleo periolivar anterolateral (ALPO) ===
+
+El núcleo se proyecta a ambos IC, sin células que se proyecten bilateralmente.
+Grandes células multipolares se proyectan al núcleo coclear, pero no al CI, tanto en gatos como en cobayas.
+
+
+=== Núcleo periolivar ventromedial (VMPO) ===
+
+Ubicado entre el MSO y el MNTB.
+Envía proyecciones al ICC de forma bilateral.
+El núcleo se proyecta a ambos IC, sin células que se proyecten bilateralmente.
+
+
+=== Núcleo periolivar rostral (RPO) (núcleo periolivar anterior (APO)) ===
+
+Ubicado entre el polo rostral del MSO y el VNLL
+A veces llamado Núcleo Ventral del Cuerpo Trapezoide (VNTB)
+
+
+=== Núcleo periolivar caudal (CPO) (núcleo periolivar posterior (PPO)) ===
+
+Situado entre el polo caudal del MSO y el núcleo facial (7N)
+
+
+=== Núcleo periolivar posteroventral (PVPO) ===
+
+El núcleo se proyecta a ambos IC, sin células que se proyecten bilateralmente.
+
+
+== Fisiopatología ==
+
+Una autopsia de una mujer de 21 años con autismo, epilepsia y retraso mental encontró una ausencia casi completa de la oliva superior.
+
+
+
+https://en.wikipedia.org/wiki/Superior_olivary_complex
+
+;;;PT;;;
+
+
+
+COMPLEXO OLIVÁRIO SUPERIOR
+
+
+O complexo olivar superior (SOC) ou oliva superior é uma coleção de núcleos do tronco cerebral que funciona em vários aspectos da audição e é um componente importante das vias auditivas ascendentes e descendentes do sistema auditivo.
+
+O SOC está intimamente relacionado ao corpo trapezóide: a maioria dos grupos de células do SOC são dorsais (posteriores em primatas) a este feixe de axônios, enquanto vários grupos celulares estão embutidos no corpo trapezóide.
+
+No geral, o SOC apresenta uma variação interespécies significativa, sendo maior em morcegos e roedores e menor em primatas.
+
+
+== Fisiologia ==
+
+O núcleo olivar superior desempenha vários papéis na audição.
+
+A oliva superior medial (MSO) é um núcleo especializado que se acredita medir a diferença de tempo de chegada dos sons entre as orelhas (a diferença de tempo interaural ou ITD).
+
+O ITD é uma dica importante para determinar o azimute dos sons, ou seja, localizá-los no plano azimutal – seu grau à esquerda ou à direita.
+Acredita-se que a oliva superior lateral (LSO) esteja envolvida na medição da diferença na intensidade do som entre as orelhas (a diferença de nível interaural ou ILD).
+
+O ILD é uma segunda pista importante na determinação do azimute dos sons de alta frequência.
+
+
+== Relação com o sistema auditivo ==
+
+O complexo olivar superior geralmente está localizado na ponte, mas em humanos se estende da medula rostral até a ponte média e recebe projeções predominantemente do núcleo coclear anteroventral (AVCN) via corpo trapezóide, embora o núcleo posteroventral se projete para o SOC via SOC. a estria acústica intermediária.
+
+O SOC é o primeiro grande local de convergência de informações auditivas das orelhas esquerda e direita.
+
+
+== Núcleos primários ==
+
+O complexo olivar superior é dividido em três núcleos primários, o MSO, LSO e o núcleo medial do corpo trapezóide, e vários núcleos periolivar menores.
+
+Esses três núcleos são os mais estudados e, portanto, mais bem compreendidos.
+
+Normalmente, eles são considerados como formando a via de localização azimutal ascendente.
+
+
+=== Azeitona superior medial (MSO) ===
+
+Acredita-se que a oliva superior medial ajude a localizar o azimute de um som, ou seja, o ângulo à esquerda ou à direita onde a fonte sonora está localizada.
+
+As pistas de elevação sonora não são processadas no complexo olivar.
+
+As células fusiformes do núcleo coclear dorsal (NCD), que se acredita contribuir para a localização em elevação, contornam o SOC e projetam-se diretamente para o colículo inferior.
+
+Apenas dados horizontais estão presentes, mas vêm de duas fontes de ouvido diferentes, o que ajuda na localização do som no eixo azimute.
+
+A maneira pela qual a azeitona superior faz isso é medindo as diferenças de tempo entre dois sinais auditivos que registram o mesmo estímulo.
+
+Viajar ao redor da cabeça leva cerca de 700 μs, e a oliva superior medial é capaz de distinguir diferenças de tempo muito menores do que isso.
+
+De fato, observa-se que as pessoas podem detectar diferenças interaurais de até 10 μs.
+
+O núcleo é organizado tonotopicamente, mas a projeção do campo receptivo azimutal é "provavelmente um mapa complexo e não linear". As projeções da oliva superior medial terminam densamente no núcleo central ipsilateral do colículo inferior (CNIC).
+
+A maioria desses axônios são considerados de "forma redonda" ou tipo R.
+
+Esses axônios R são principalmente glutamatérgicos e contêm vesículas sinápticas redondas e formam junções sinápticas assimétricas.
+Este é o maior dos núcleos e em humanos contém aproximadamente 15.500 neurônios.
+Cada MSO recebe entradas bilaterais dos AVCNs direito e esquerdo.
+A saída é via lemnisco lateral ipsilateral para o colículo inferior.
+O MSO responde melhor a estímulos binaurais.
+A principal função do MSO é a detecção de sinais de diferença de tempo interaural (ITD) para a lateralização binaural.
+O MSO é severamente interrompido no cérebro autista.
+
+
+=== Azeitona superior lateral (LSO) ===
+
+Esta azeitona tem funções semelhantes à oliva superior medial, mas emprega intensidade para localizar a fonte sonora.
+
+O LSO recebe estímulos glutamatérgicos excitatórios de células esféricas espessas no núcleo coclear ipsilateral e estímulos glicinérgicos inibitórios do núcleo medial do corpo trapezóide (MNTB).
+
+O MNTB é impulsionado pela entrada excitatória de células espessas globulares no núcleo coclear contralateral.
+
+Assim, o LSO recebe entrada excitatória da orelha ipsilateral e entrada inibitória da orelha contralateral.
+
+Esta é a base da sensibilidade ILD.
+
+As projeções de ambos os núcleos cocleares são principalmente de alta frequência, e essas frequências são subsequentemente representadas pela maioria dos neurônios LSO (> 2/3 sobre 2–3 kHz no gato).
+
+O LSO de fato codifica a frequência em toda a faixa audível dos animais (não apenas a frequência "alta").
+
+Entradas adicionais derivam do LNTB ipsilateral (glicinérgico, veja abaixo), que fornece informações inibitórias do núcleo coclear ipsilateral.
+
+Outra entrada possivelmente inibitória deriva de células não esféricas AVCN ipsilaterais.
+
+Essas células são espessas globulares ou multipolares (estreladas).
+
+Qualquer uma dessas duas entradas poderia fornecer a base para a inibição ipsilateral vista nos mapas de resposta que flanqueiam a excitação primária, aguçando a sintonia de frequência da unidade. O LSO projeta-se bilateralmente para o núcleo central do colículo inferior (ICC).
+
+As projeções ipsilaterais são principalmente inibitórias (glicinérgicas) e as projeções contralaterais são excitatórias.
+
+Alvos de projeção adicionais incluem os núcleos dorsal e ventral do lemnisco lateral (DNLL e VNLL).
+
+As projeções GABAérgicas do DNLL formam uma fonte importante de GABA no tronco encefálico auditivo e projetam-se bilateralmente para o ICC e para o DNLL contralateral.
+
+Essas conexões excitatórias e inibitórias convergentes podem atuar para diminuir a dependência do nível de sensibilidade do ILD no ICC em comparação com o LSO.
+Projeções adicionais formam o feixe olivococlear lateral (LOC), que inerva as células ciliadas internas da cóclea.
+
+Acredita-se que essas projeções tenham uma constante de tempo longa e agem para normalizar o nível de som detectado por cada ouvido, a fim de auxiliar na localização do som.
+
+Existem diferenças consideráveis ​​entre as espécies: os neurônios de projeção LOC são distribuídos dentro do LSO em roedores e cercam o LSO em predadores (ou seja, gato).
+
+
+=== Núcleo medial do corpo trapezóide (MNTB) ===
+
+O MNTB, no corpo trapezóide, é composto principalmente por neurônios com corpos celulares redondos que utilizam a glicina como neurotransmissor.
+O tamanho do MNTB é reduzido em primatas.
+Cada neurônio MNTB recebe uma grande terminação do tipo "cálice", o cálice de Held que surge das células espessas globulares no AVCN contralateral.
+Existem dois tipos de resposta encontrados: um 'tipo chopper' semelhante às células fusiformes no AVCN e um tipo primário que é semelhante às células espessas no AVCN.
+
+
+== Núcleos periolivar ==
+
+O SOC é composto por seis a nove núcleos periolivar, dependendo do pesquisador citado, normalmente nomeados com base em sua localização em relação aos núcleos primários.
+
+Esses núcleos circundam cada um dos núcleos primários e contribuem para os sistemas auditivos ascendente e descendente.
+
+Esses núcleos também formam a fonte do feixe olivococlear, que inerva a cóclea.
+
+Na cobaia, as projeções ascendentes para os colículos inferiores são principalmente ipsilaterais (>80%), com a maior fonte única proveniente do SPON.
+
+Além disso, os núcleos ventrais (RPO, VMPO, AVPO e VNTB) são quase inteiramente ipsilaterais, enquanto os núcleos restantes se projetam bilateralmente.
+, *O MSO parece ser menor e desorganizado em camundongos.
+
+
+=== Núcleo ventral do corpo trapezoidal (VNTB) ===
+
+O VNTB é um pequeno núcleo localizado lateralmente ao MNTB e ventral ao MSO.
+Composto por uma população heterogênea de células, esse núcleo projeta-se para vários núcleos auditivos e forma o feixe olivococlear medial (MOC) que inerva as células ciliadas externas da cóclea.
+
+Essas células contêm fibras eletromóveis e atuam como amplificadores/atenuadores mecânicos dentro da cóclea.
+O núcleo projeta-se para ambos os CI, sem células projetando-se bilateralmente.
+
+
+=== Núcleo lateral do corpo trapezoidal (LNTB) ===
+
+Localizado ventral ao LSO
+As células espessas esféricas AVCN projetam colaterais bilateralmente e as células espessas globulares projetam colaterais ipsilateralmente aos neurônios LNTB.
+As células são imunorreativas para glicina e são marcadas retrogradamente após a injeção de glicina tritiada no LSO
+O núcleo projeta-se tanto para o IC, com poucas células projetando-se bilateralmente, quanto para o LSO ipsilateral.
+Grandes células multipolares projetam-se para o núcleo coclear, mas não para o CI, tanto no gato quanto no porquinho-da-índia.
+As entradas são geralmente via terminais de Held, produzindo uma transdução de sinal muito rápida.
+
+
+=== Núcleo periolivar superior (SPON) (núcleo periolivar dorsomedial (DMPO)) ===
+
+Localizado diretamente dorsal ao MNTB
+Em ratos, SPON é um núcleo GABAérgico homogêneo.
+
+Esses neurônios organizados tonotopicamente recebem aferências excitatórias de polvo e células multipolares no núcleo coclear ventral contralateral, uma aferência glicinérgica (inibitória) do MNTB ipsilateral, uma aferência GABAérgica (inibitória) desconhecida e se projetam para o ICC ipsilateral.
+
+A maioria dos neurônios responde apenas no deslocamento de um estímulo, pode bloquear a fase para estímulos AM até 200 Hz e pode formar a base para a seletividade de duração do ICC.
+
+Notavelmente, os neurônios SPON não recebem entradas descendentes do CI e não se projetam para a cóclea ou núcleo coclear como muitos núcleos periolivar.
+Em contraste, projeções glicinérgicas para ICC ipsilateral são observadas em cobaias e chinchilas, sugerindo uma diferença de neurotransmissor relacionada à espécie.
+Em cobaias, células multipolares redondas a ovais projetam-se para ambos os CI, com muitas células projetando-se bilateralmente.
+
+As células mais alongadas que se projetam para o núcleo coclear não se projetam para o ICC.
+
+Parece haver populações de células, uma que se projeta ipsilateralmente e outra que se projeta bilateralmente.
+A maioria das informações veio de roedores SPON, devido ao tamanho proeminente do núcleo nestas espécies, com muito poucos estudos foram feitos em gato DMPO, nenhum dos quais foi extenso.
+
+
+=== Núcleo periolivar dorsal (DPO) ===
+
+Localizado dorsal e medialmente ao LSO
+Contém unidades EE (excitadas por ambas as orelhas) e E0 (excitadas apenas pela orelha contralateral).
+Os neurônios são organizados tonotopicamente e de alta frequência.
+Pode pertencer a um único núcleo junto com o DLPO
+O núcleo projeta-se para ambos os CI, sem células projetando-se bilateralmente.
+
+
+=== Núcleo periolivar dorsolateral (DLPO) ===
+
+Localizado dorsal e lateralmente ao LSO
+Contém unidades EE (excitadas por ambas as orelhas) e E0 (excitadas apenas pela orelha contralateral).
+Os neurônios são organizados tonotopicamente e de baixa frequência.
+Pode pertencer a um único núcleo junto com o DPO
+O núcleo projeta-se para ambos os CI, com poucas células projetando-se bilateralmente.
+
+
+=== Núcleo periolivar ventrolateral (VLPO) ===
+
+Localizado ventral para e dentro do hillus ventral do LSO
+Contém unidades EI (excitado pelo ouvido contralateral e inibido pelo ouvido ipsilateral) e E0 (excitado apenas pelo ouvido contralateral).
+Os neurônios são organizados tonotopicamente e de alta frequência.
+Subdividido em LNTB, PPO e ALPO
+
+
+=== Núcleo periolivar ântero-lateral (ALPO) ===
+
+O núcleo projeta-se para ambos os CI, sem células projetando-se bilateralmente.
+Grandes células multipolares projetam-se para o núcleo coclear, mas não para o CI, tanto no gato quanto no porquinho-da-índia.
+
+
+=== Núcleo periolivar ventromedial (VMPO) ===
+
+Localizado entre o MSO e MNTB.
+Envia projeções ao ICC bilateralmente.
+O núcleo projeta-se para ambos os CI, sem células projetando-se bilateralmente.
+
+
+=== Núcleo periolivar rostral (RPO) (núcleo periolivar anterior (APO)) ===
+
+Localizado entre o pólo rostral do MSO e o VNLL
+Às vezes chamado de Núcleo Ventral do Corpo Trapezóide (VNTB)
+
+
+=== Núcleo periolivar caudal (CPO) (núcleo periolivar posterior (PPO)) ===
+
+Localizado entre o pólo caudal do MSO e o núcleo facial (7N)
+
+
+=== Núcleo periolivar póstero-ventral (PVPO) ===
+
+O núcleo projeta-se para ambos os CI, sem células projetando-se bilateralmente.
+
+
+== Fisiopatologia ==
+
+Uma autópsia de uma mulher de 21 anos com autismo, epilepsia e retardo mental encontrou uma ausência quase completa da azeitona superior.
+
+
+
+https://en.wikipedia.org/wiki/Superior_olivary_complex
+
+;;;FR;;;
+
+
+
+COMPLEXE OLIVAIRE SUPERIEUR
+
+
+Le complexe olivaire supérieur (SOC) ou olive supérieure est une collection de noyaux du tronc cérébral qui fonctionne dans de multiples aspects de l'audition et est un composant important des voies auditives ascendantes et descendantes du système auditif.
+
+Le SOC est intimement lié au corps trapézoïdal : la plupart des groupes cellulaires du SOC sont dorsaux (postérieurs chez les primates) à ce faisceau d'axones tandis qu'un certain nombre de groupes cellulaires sont intégrés dans le corps trapézoïdal.
+
+Dans l'ensemble, le SOC affiche une variation interspécifique significative, étant le plus important chez les chauves-souris et les rongeurs et le plus petit chez les primates.
+
+
+== Physiologie ==
+
+Le noyau olivaire supérieur joue un certain nombre de rôles dans l'audition.
+
+L'olive supérieure médiale (MSO) est un noyau spécialisé censé mesurer la différence de temps d'arrivée des sons entre les oreilles (la différence de temps interaurale ou ITD).
+
+L'ITD est un repère majeur pour déterminer l'azimut des sons, c'est-à-dire les localiser sur le plan azimutal – leur degré vers la gauche ou vers la droite.
+On pense que l'olive supérieure latérale (LSO) est impliquée dans la mesure de la différence d'intensité sonore entre les oreilles (la différence de niveau interaurale ou ILD).
+
+L'ILD est un deuxième indice majeur dans la détermination de l'azimut des sons à haute fréquence.
+
+
+== Relation avec le système auditif ==
+
+Le complexe olivaire supérieur est généralement situé dans le pont, mais chez l'homme s'étend de la moelle rostrale au pont moyen et reçoit des projections principalement du noyau cochléaire antéroventral (AVCN) via le corps trapézoïdal, bien que le noyau postéroventral se projette vers le SOC via la strie acoustique intermédiaire.
+
+Le SOC est le premier site majeur de convergence des informations auditives des oreilles gauche et droite.
+
+
+== Noyaux primaires ==
+
+Le complexe olivaire supérieur est divisé en trois noyaux primaires, le MSO, le LSO et le noyau médial du corps trapézoïdal, et plusieurs noyaux périolivaires plus petits.
+
+Ces trois noyaux sont les plus étudiés, et donc les mieux compris.
+
+Typiquement, ils sont considérés comme formant la voie de localisation azimutale ascendante.
+
+
+=== Olive supérieure médiale (MSO) ===
+
+On pense que l'olive supérieure médiale aide à localiser l'azimut d'un son, c'est-à-dire l'angle vers la gauche ou la droite où se trouve la source sonore.
+
+Les signaux sonores d'élévation ne sont pas traités dans le complexe olivaire.
+
+Les cellules fusiformes du noyau cochléaire dorsal (DCN), dont on pense qu'elles contribuent à la localisation en élévation, contournent le SOC et se projettent directement sur le colliculus inférieur.
+
+Seules les données horizontales sont présentes, mais elles proviennent de deux sources auditives différentes, ce qui facilite la localisation du son sur l'axe azimutal.
+
+Pour ce faire, l'olive supérieure mesure les différences de temps entre deux signaux auditifs enregistrant le même stimulus.
+
+Le déplacement autour de la tête prend environ 700 μs, et l'olive supérieure médiale est capable de distinguer des différences de temps beaucoup plus petites que cela.
+
+En fait, on observe que les gens peuvent détecter des différences interaurales jusqu'à 10 μs.
+
+Le noyau est organisé de manière tonotopique, mais la projection du champ récepteur azimutal est "très probablement une carte complexe et non linéaire". Les projections de l'olive supérieure médiale se terminent de manière dense dans le noyau central ipsilatéral du colliculus inférieur (CNIC).
+
+La majorité de ces axones sont considérés comme "de forme ronde" ou de type R.
+
+Ces axones R sont principalement glutamatergiques et contiennent des vésicules synaptiques rondes et forment des jonctions synaptiques asymétriques.
+C'est le plus grand des noyaux et chez l'homme, il contient environ 15 500 neurones.
+Chaque MSO reçoit des entrées bilatérales des AVCN droit et gauche.
+La sortie se fait via le lemnisque latéral ipsilatéral vers le colliculus inférieur.
+Le MSO répond mieux aux stimuli binauraux.
+La fonction principale du MSO est la détection des signaux de différence de temps interaurale (ITD) à la latéralisation binaurale.
+Le MSO est gravement perturbé dans le cerveau des autistes.
+
+
+=== Olive supérieure latérale (LSO) ===
+
+Cette olive a des fonctions similaires à l'olive supérieure médiale, mais utilise l'intensité pour localiser la source sonore.
+
+Le LSO reçoit une entrée excitatrice et glutamatergique des cellules touffues sphériques du noyau cochléaire ipsilatéral et une entrée inhibitrice et glycinergique du noyau médial du corps trapézoïdal (MNTB).
+
+Le MNTB est entraîné par l'entrée excitatrice des cellules touffues globulaires dans le noyau cochléaire controlatéral.
+
+Ainsi, le LSO reçoit une entrée excitatrice de l'oreille ipsilatérale et une entrée inhibitrice de l'oreille controlatérale.
+
+C'est la base de la sensibilité ILD.
+
+Les projections des deux noyaux cochléaires sont principalement à haute fréquence, et ces fréquences sont ensuite représentées par la majorité des neurones LSO (> 2/3 sur 2–3 kHz chez le chat).
+
+Le LSO encode en fait la fréquence à travers la gamme audible des animaux (pas seulement la "haute" fréquence).
+
+Des entrées supplémentaires dérivent du LNTB ipsilatéral (glycinergique, voir ci-dessous), qui fournit des informations inhibitrices du noyau cochléaire ipsilatéral.
+
+Une autre entrée éventuellement inhibitrice provient des cellules non sphériques AVCN ipsilatérales.
+
+Ces cellules sont soit globulaires touffues soit multipolaires (stellées).
+
+L'une ou l'autre de ces deux entrées pourrait fournir la base de l'inhibition ipsilatérale observée dans les cartes de réponse flanquant l'excitation primaire, affinant le réglage de fréquence de l'unité. Le LSO se projette bilatéralement sur le noyau central du colliculus inférieur (ICC).
+
+Les projections homolatérales sont principalement inhibitrices (glycinergiques) et les projections controlatérales sont excitatrices.
+
+Les cibles de projection supplémentaires incluent les noyaux dorsal et ventral du lemniscus latéral (DNLL & VNLL).
+
+Les projections GABAergiques de la DNLL forment une source majeure de GABA dans le tronc cérébral auditif et se projettent bilatéralement sur l'ICC et sur la DNLL controlatérale.
+
+Ces connexions excitatrices et inhibitrices convergentes peuvent agir pour diminuer la dépendance au niveau de la sensibilité de l'ILD dans l'ICC par rapport au LSO.
+Des projections supplémentaires forment le faisceau olivocochléaire latéral (LOC), qui innerve les cellules ciliées internes de la cochlée.
+
+On pense que ces projections ont une longue constante de temps et agissent pour normaliser le niveau sonore détecté par chaque oreille afin d'aider à la localisation du son.
+
+Il existe des différences considérables entre les espèces : les neurones de projection LOC sont répartis dans le LSO chez les rongeurs et entourent le LSO chez les prédateurs (c'est-à-dire le chat).
+
+
+=== Noyau médial du corps trapézoïdal (MNTB) ===
+
+Le MNTB, dans le corps trapézoïdal, est composé principalement de neurones à corps cellulaires ronds qui utilisent la glycine comme neurotransmetteur.
+La taille du MNTB est réduite chez les primates.
+Chaque neurone MNTB reçoit une grande terminaison de type « calice », le calice de Held issu des cellules globuleuses touffues de l'AVCN controlatéral.
+Deux types de réponse ont été trouvés : un "type hacheur" similaire aux cellules fusiformes dans l'AVCN et un type primaire qui est similaire à celles des cellules touffues dans l'AVCN.
+
+
+== Noyaux périolivaires ==
+
+Le SOC est composé de six à neuf noyaux périolivaires, selon le chercheur cité, généralement nommés en fonction de leur emplacement par rapport aux noyaux primaires.
+
+Ces noyaux entourent chacun des noyaux primaires et contribuent à la fois aux systèmes auditifs ascendants et descendants.
+
+Ces noyaux forment également la source du faisceau olivocochléaire, qui innerve la cochlée.
+
+Chez le cobaye, les projections ascendantes vers les colliculi inférieurs sont principalement ipsilatérales (> 80 %), la plus grande source unique provenant du SPON.
+
+De plus, les noyaux ventraux (RPO, VMPO, AVPO et VNTB) sont presque entièrement ipsilatéraux, tandis que les noyaux restants se projettent bilatéralement.
+, *Le MSO semble être plus petit et désorganisé chez la souris.
+
+
+=== Noyau ventral du corps trapézoïdal (VNTB) ===
+
+Le VNTB est un petit noyau situé latéralement au MNTB et ventral au MSO.
+Constitué d'une population hétérogène de cellules, ce noyau se projette sur de nombreux noyaux auditifs et forme le faisceau olivocochléaire médial (MOC) qui innerve les cellules ciliées externes de la cochlée.
+
+Ces cellules contiennent des fibres électromotrices et agissent comme des amplificateurs/atténuateurs mécaniques dans la cochlée.
+Le noyau se projette sur les deux IC, sans cellule projetant bilatéralement.
+
+
+=== Noyau latéral du corps trapézoïdal (LNTB) ===
+
+Situé ventral au LSO
+Les cellules touffues sphériques AVCN projettent des collatérales bilatéralement, et les cellules touffues globulaires projettent des collatérales ipsilatéralement aux neurones LNTB.
+Les cellules sont immunoréactives pour la glycine et sont marquées rétrogradement après l'injection de glycine tritiée dans le LSO
+Le noyau se projette à la fois sur IC, avec quelques cellules projetant bilatéralement, ainsi que sur le LSO ipsilatéral.
+Les grandes cellules multipolaires se projettent sur le noyau cochléaire, mais pas sur le CI, à la fois chez le chat et le cobaye.
+Les entrées se font souvent via des ampoules d'extrémité de Held, produisant une transduction de signal très rapide.
+
+
+=== Noyau périolivaire supérieur (SPON) (noyau périolivaire dorsomédian (DMPO)) ===
+
+Situé directement dorsal au MNTB
+Chez le rat, SPON est un noyau GABAergique homogène.
+
+Ces neurones organisés tonotopiquement reçoivent des entrées excitatrices de la pieuvre et des cellules multipolaires dans le noyau cochléaire ventral controlatéral, une entrée glycinergique (inhibitrice) du MNTB ipsilatéral, une entrée GABAergique inconnue (inhibitrice) et se projettent vers l'ICC ipsilatéral.
+
+La plupart des neurones ne répondent qu'au décalage d'un stimulus, peuvent se verrouiller en phase sur des stimuli AM jusqu'à 200 Hz et peuvent constituer la base de la sélectivité de la durée ICC.
+
+Notamment, les neurones SPON ne reçoivent pas d'entrées descendantes du CI et ne se projettent pas vers la cochlée ou le noyau cochléaire comme le font de nombreux noyaux périolivaires.
+En revanche, des projections glycinergiques vers l'ICC ipsilatéral sont observées chez les cobayes et les chinchillas, suggérant une différence de neurotransmetteur liée à l'espèce.
+Chez les cobayes, les cellules multipolaires rondes à ovales se projettent sur les deux IC, de nombreuses cellules se projetant bilatéralement.
+
+Les cellules plus allongées qui se projettent vers le noyau cochléaire ne se projettent pas vers l'ICC.
+
+Il semble y avoir des populations de cellules, une qui se projette ipsilatéralement et une qui se projette bilatéralement.
+La majorité des informations provenaient de SPON de rongeurs, en raison de la taille proéminente du noyau chez ces espèces, et très peu d'études ont été réalisées sur le DMPO de chat, dont aucune n'était approfondie.
+
+
+=== Noyau périolivaire dorsal (DPO) ===
+
+Situé dorsal et médial au LSO
+Contient à la fois les unités EE (excitées par les deux oreilles) et E0 (excitées par l'oreille controlatérale uniquement).
+Les neurones sont organisés de manière tonotopique et à haute fréquence.
+Peut appartenir à un seul noyau avec le DLPO
+Le noyau se projette sur les deux IC, sans cellule projetant bilatéralement.
+
+
+=== Noyau périolivaire dorsolatéral (DLPO) ===
+
+Situé dorsal et latéral au LSO
+Contient à la fois les unités EE (excitées par les deux oreilles) et E0 (excitées par l'oreille controlatérale uniquement).
+Les neurones sont organisés de manière tonotopique et à basse fréquence.
+Peut appartenir à un seul noyau avec le DPO
+Le noyau se projette sur les deux CI, avec quelques cellules projetant bilatéralement.
+
+
+=== Noyau périolivaire ventrolatéral (VLPO) ===
+
+Situé ventral et à l'intérieur de la colline ventrale du LSO
+Contient à la fois des unités EI (excitées par l'oreille controlatérale et inhibées par l'oreille ipsilatérale) et E0 (excitées par l'oreille controlatérale uniquement).
+Les neurones sont organisés de manière tonotopique et à haute fréquence.
+Subdivisé en LNTB, PPO et ALPO
+
+
+=== Noyau périolivaire antérolatéral (ALPO) ===
+
+Le noyau se projette sur les deux IC, sans cellule projetant bilatéralement.
+Les grandes cellules multipolaires se projettent sur le noyau cochléaire, mais pas sur le CI, à la fois chez le chat et le cobaye.
+
+
+=== Noyau périolivaire ventromédian (VMPO) ===
+
+Situé entre le MSO et le MNTB.
+Envoie des projections à la CPI bilatéralement.
+Le noyau se projette sur les deux IC, sans cellule projetant bilatéralement.
+
+
+=== Noyau périolivaire rostral (RPO) (noyau périolivaire antérieur (APO)) ===
+
+Situé entre le pôle rostral du MSO et le VNLL
+Parfois appelé noyau ventral du corps trapézoïdal (VNTB)
+
+
+=== Noyau périolivaire caudal (CPO) (noyau périolivaire postérieur (PPO)) ===
+
+Situé entre le pôle caudal du MSO et le noyau facial (7N)
+
+
+=== Noyau périolivaire postéroventral (PVPO) ===
+
+Le noyau se projette sur les deux IC, sans cellule projetant bilatéralement.
+
+
+== Physiopathologie ==
+
+L'autopsie d'une femme de 21 ans atteinte d'autisme, d'épilepsie et de retard mental a révélé une absence presque complète de l'olive supérieure.
+
+
+
+https://en.wikipedia.org/wiki/Superior_olivary_complex

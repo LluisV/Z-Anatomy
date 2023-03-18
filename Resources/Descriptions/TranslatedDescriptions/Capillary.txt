@@ -1,0 +1,1224 @@
+
+
+CAPILLARY
+
+
+A capillary is a small blood vessel from 5 to 10 micrometres (μm) in diameter. 
+
+Capillaries are composed of only the tunica intima, consisting of a thin wall of simple squamous endothelial cells. 
+
+They are the smallest blood vessels in the body: they convey blood between the arterioles and venules. 
+
+These microvessels are the site of exchange of many substances with the interstitial fluid surrounding them. 
+
+Substances which cross capillaries include water, oxygen, carbon dioxide, urea, glucose, uric acid, lactic acid and creatinine. 
+
+Lymph capillaries connect with larger lymph vessels to drain lymphatic fluid collected in the microcirculation.
+During early embryonic development, new capillaries are formed through vasculogenesis, the process of blood vessel formation that occurs through a de novo production of endothelial cells that then form vascular tubes. 
+
+The term angiogenesis denotes the formation of new capillaries from pre-existing blood vessels and already present endothelium which divides.
+
+
+== Etymology ==
+
+Capillary comes from the Latin word capillaris, meaning "of or resembling hair," with use in English beginning in the mid-17th century. 
+
+The meaning stems from the tiny, hairlike diameter of a capillary. 
+
+While capillary is usually used as a noun, the word also is used as an adjective, as in "capillary action", in which a liquid flows without influence of external forces, such as gravity.
+
+
+== Structure ==
+
+
+Blood flows from the heart through arteries, which branch and narrow into arterioles, and then branch further into capillaries where nutrients and wastes are exchanged. 
+
+The capillaries then join and widen to become venules, which in turn widen and converge to become veins, which then return blood back to the heart through the venae cavae. 
+
+In the mesentery, metarterioles form an additional stage between arterioles and capillaries.
+Individual capillaries are part of the capillary bed, an interweaving network of capillaries supplying tissues and organs. 
+
+The more metabolically active a tissue is, the more capillaries are required to supply nutrients and carry away products of metabolism. 
+
+There are two types of capillaries: true capillaries, which branch from arterioles and provide exchange between tissue and the capillary blood, and sinusoids, a type of open-pore capillary found in the liver, bone marrow, anterior pituitary gland, and brain circumventricular organs. 
+
+Capillaries and sinusoids are short vessels that directly connect the arterioles and venules at opposite ends of the beds. 
+
+Metarterioles are found primarily in the mesenteric microcirculation.Lymphatic capillaries are slightly larger in diameter than blood capillaries, and have closed ends (unlike the blood capillaries open at one end to the arterioles and open at the other end to the venules). 
+
+This structure permits interstitial fluid to flow into them but not out. 
+
+Lymph capillaries have a greater internal oncotic pressure than blood capillaries, due to the greater concentration of plasma proteins in the lymph.
+
+
+=== Types ===
+
+There are three types of blood capillaries:
+
+
+==== Continuous ====
+Continuous capillaries are continuous in the sense that the endothelial cells provide an uninterrupted lining, and they only allow smaller molecules, such as water and ions, to pass through their intercellular clefts. 
+
+Lipid-soluble molecules can passively diffuse through the endothelial cell membranes along concentration gradients. 
+
+Continuous capillaries can be further divided into two subtypes:
+
+Those with numerous transport vesicles, which are found primarily in skeletal muscles, fingers, gonads, and skin.
+Those with few vesicles, which are primarily found in the central nervous system. 
+
+These capillaries are a constituent of the blood–brain barrier.
+
+
+==== Fenestrated ====
+Fenestrated capillaries have pores known as fenestrae (Latin for "windows") in the endothelial cells that are 60–80 nm in diameter. 
+
+They are spanned by a diaphragm of radially oriented fibrils that allows small molecules and limited amounts of protein to diffuse. 
+
+In the renal glomerulus there are cells with no diaphragms, called podocyte foot processes or pedicels, which have slit pores with a function analogous to the diaphragm of the capillaries. 
+
+Both of these types of blood vessels have continuous basal laminae and are primarily located in the endocrine glands, intestines, pancreas, and the glomeruli of the kidney.
+
+
+==== Sinusoidal ====
+
+Sinusoidal capillaries or discontinuous capillaries are a special type of open-pore capillary, also known as a sinusoid, that have wider fenestrations that are 30–40 μm diameters, and wider openings in the endothelium. 
+
+Fenestrated capillaries have diaphragms that cover the pores whereas sinusoids lack a diaphragm and just have an open pore. 
+
+These types of blood vessels allow red and white blood cells (7.5 μm – 25 μm diameter) and various serum proteins to pass, aided by a discontinuous basal lamina. 
+
+These capillaries lack pinocytotic vesicles, and therefore use gaps present in cell junctions to permit transfer between endothelial cells, and hence across the membrane. 
+
+Sinusoids are irregular spaces filled with blood and are mainly found in the liver, bone marrow, spleen, and brain circumventricular organs.
+
+
+== Function ==
+
+
+The capillary wall performs an important function by allowing nutrients and waste substances to pass across it. 
+
+Molecules larger than 3 nm such as albumin and other large proteins pass through transcellular transport carried inside vesicles, a process which requires them to go through the cells that form the wall. 
+
+Molecules smaller than 3 nm such as water and gases cross the capillary wall through the space between cells in a process known as paracellular transport. 
+
+These transport mechanisms allow bidirectional exchange of substances depending on osmotic gradients. 
+
+Capillaries that form part of the blood–brain barrier only allow for transcellular transport as tight junctions between endothelial cells seal the paracellular space.Capillary beds may control their blood flow via autoregulation. 
+
+This allows an organ to maintain constant flow despite a change in central blood pressure. 
+
+This is achieved by myogenic response, and in the kidney by tubuloglomerular feedback. 
+
+When blood pressure increases, arterioles are stretched and subsequently constrict (a phenomenon known as the Bayliss effect) to counteract the increased tendency for high pressure to increase blood flow.In the lungs special mechanisms have been adapted to meet the needs of increased necessity of blood flow during exercise. 
+
+When the heart rate increases and more blood must flow through the lungs, capillaries are recruited and are also distended to make room for increased blood flow. 
+
+This allows blood flow to increase while resistance decreases.Capillary permeability can be increased by the release of certain cytokines, anaphylatoxins, or other mediators (such as leukotrienes, prostaglandins, histamine, bradykinin, etc.) highly influenced by the immune system.
+
+
+=== Starling equation ===
+
+The transport mechanisms can be further quantified by the Starling equation. 
+
+The Starling equation defines the forces across a semipermeable membrane and allows calculation of the net flux:
+
+ 
+  
+   
+     
+    
+     J
+     
+      v
+     
+    
+    =
+    
+     K
+     
+      f
+     
+    
+    (
+    [
+    
+     P
+     
+      c
+     
+    
+    −
+    
+     P
+     
+      i
+     
+    
+    ]
+    −
+    σ
+    [
+    
+     π
+     
+      c
+     
+    
+    −
+    
+     π
+     
+      i
+     
+    
+    ]
+    )
+   
+  
+  {\displaystyle \ J_{v}=K_{f}([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+ where:
+
+ 
+  
+   
+    (
+    [
+    
+     P
+     
+      c
+     
+    
+    −
+    
+     P
+     
+      i
+     
+    
+    ]
+    −
+    σ
+    [
+    
+     π
+     
+      c
+     
+    
+    −
+    
+     π
+     
+      i
+     
+    
+    ]
+    )
+   
+  
+  {\displaystyle ([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+  is the net driving force,
+
+ 
+  
+   
+    
+     K
+     
+      f
+     
+    
+   
+  
+  {\displaystyle K_{f}}
+  is the proportionality constant, and
+
+ 
+  
+   
+    
+     J
+     
+      v
+     
+    
+   
+  
+  {\displaystyle J_{v}}
+  is the net fluid movement between compartments.By convention, outward force is defined as positive, and inward force is defined as negative. 
+
+The solution to the equation is known as the net filtration or net fluid movement (Jv). 
+
+If positive, fluid will tend to leave the capillary (filtration). 
+
+If negative, fluid will tend to enter the capillary (absorption). 
+
+This equation has a number of important physiologic implications, especially when pathologic processes grossly alter one or more of the variables.According to Starling's equation, the movement of fluid depends on six variables:
+
+Capillary hydrostatic pressure ( Pc )
+Interstitial hydrostatic pressure ( Pi )
+Capillary oncotic pressure ( πc )
+Interstitial oncotic pressure ( πi )
+Filtration coefficient ( Kf )
+Reflection coefficient ( σ )
+
+
+== Clinical significance ==
+
+Disorders of capillary formation as a developmental defect or acquired disorder are a feature in many common and serious disorders. 
+
+Within a wide range of cellular factors and cytokines, issues with normal genetic expression and bioactivity of the vascular growth and permeability factor vascular endothelial growth factor (VEGF) appear to play a major role in many of the disorders. 
+
+Cellular factors include reduced number and function of bone-marrow derived endothelial progenitor cells. and reduced ability of those cells to form blood vessels.
+Formation of additional capillaries and larger blood vessels (angiogenesis) is a major mechanism by which a cancer may help to enhance its own growth. 
+
+Disorders of retinal capillaries contribute to the pathogenesis of age-related macular degeneration.
+Reduced capillary density (capillary rarefaction) occurs in association with cardiovascular risk factors and in patients with coronary heart disease.
+
+
+=== Therapeutics ===
+
+Major diseases where altering capillary formation could be helpful include conditions where there is excessive or abnormal capillary formation such as cancer and disorders harming eyesight; and medical conditions in which there is reduced capillary formation either for familial or genetic reasons, or as an acquired problem.
+
+In patients with the retinal disorder, neovascular age-related macular degeneration, local anti-VEGF therapy to limit the bio-activity of vascular endothelial growth factor has been shown to protect vision by limiting progression. 
+
+In a wide range of cancers, treatment approaches have been studied, or are in development, aimed at decreasing tumour growth by reducing angiogenesis.
+
+
+=== Blood sampling ===
+
+Capillary blood sampling can be used to test for blood glucose (such as in blood glucose monitoring), hemoglobin, pH and lactate. 
+
+It is generally performed by creating a small cut using a blood lancet, followed by sampling by capillary action on the cut with a test strip or small pipette.
+
+
+== History ==
+
+Contrary to a popular misconception, William Harvey did not explicitly predict the existence of capillaries, but he clearly saw the need for some sort of connection between the arterial and venous systems. 
+
+In 1653, he wrote, "...the blood doth enter into every member through the arteries, and does return by the veins, and that the veins are the vessels and ways by which the blood is returned to the heart itself; and that the blood in the members and extremities does pass from the arteries into the veins (either mediately by an anastomosis, or immediately through the porosities of the flesh, or both ways) as before it did in the heart and thorax out of the veins, into the arteries..."Marcello Malpighi was the first to observe directly and correctly describe capillaries, discovering them in a frog's lung 8 years later, in 1661.
+
+
+
+https://en.wikipedia.org/wiki/Capillary
+;;;ES;;;
+
+
+
+CAPILAR
+
+
+Un capilar es un pequeño vaso sanguíneo de 5 a 10 micrómetros (μm) de diámetro.
+
+Los capilares se componen únicamente de la túnica íntima, que consiste en una pared delgada de células endoteliales escamosas simples.
+
+Son los vasos sanguíneos más pequeños del cuerpo: transportan sangre entre las arteriolas y las vénulas.
+
+Estos microvasos son el sitio de intercambio de muchas sustancias con el líquido intersticial que los rodea.
+
+Las sustancias que atraviesan los capilares incluyen agua, oxígeno, dióxido de carbono, urea, glucosa, ácido úrico, ácido láctico y creatinina.
+
+Los capilares linfáticos se conectan con vasos linfáticos más grandes para drenar el líquido linfático recogido en la microcirculación.
+Durante el desarrollo embrionario temprano, se forman nuevos capilares a través de la vasculogénesis, el proceso de formación de vasos sanguíneos que ocurre a través de una producción de novo de células endoteliales que luego forman tubos vasculares.
+
+El término angiogénesis denota la formación de nuevos capilares a partir de vasos sanguíneos preexistentes y endotelio ya presente que se divide.
+
+
+== Etimología ==
+
+Capilar proviene de la palabra latina capillaris, que significa "de o parecido al cabello", y su uso en inglés comenzó a mediados del siglo XVII.
+
+El significado se deriva del diminuto diámetro, parecido a un cabello, de un capilar.
+
+Si bien capilar generalmente se usa como sustantivo, la palabra también se usa como adjetivo, como en "acción capilar", en la que un líquido fluye sin la influencia de fuerzas externas, como la gravedad.
+
+
+== Estructura ==
+
+
+La sangre fluye desde el corazón a través de las arterias, que se ramifican y se estrechan en arteriolas, y luego se ramifican más en los capilares donde se intercambian los nutrientes y los desechos.
+
+Luego, los capilares se unen y se ensanchan para convertirse en vénulas, que a su vez se ensanchan y convergen para convertirse en venas, que luego devuelven la sangre al corazón a través de las venas cavas.
+
+En el mesenterio, las metarteriolas forman una etapa adicional entre las arteriolas y los capilares.
+Los capilares individuales son parte del lecho capilar, una red entrelazada de capilares que irrigan tejidos y órganos.
+
+Cuanto más metabólicamente activo es un tejido, más capilares se requieren para suministrar nutrientes y transportar los productos del metabolismo.
+
+Hay dos tipos de capilares: los capilares verdaderos, que se ramifican desde las arteriolas y permiten el intercambio entre el tejido y la sangre capilar, y los sinusoides, un tipo de capilar de poro abierto que se encuentra en el hígado, la médula ósea, la hipófisis anterior y los órganos circunventriculares del cerebro. .
+
+Los capilares y los sinusoides son vasos cortos que conectan directamente las arteriolas y las vénulas en los extremos opuestos de los lechos.
+
+Las metarteriolas se encuentran principalmente en la microcirculación mesentérica. Los capilares linfáticos tienen un diámetro ligeramente mayor que los capilares sanguíneos y tienen extremos cerrados (a diferencia de los capilares sanguíneos que se abren en un extremo a las arteriolas y se abren en el otro extremo a las vénulas).
+
+Esta estructura permite que el líquido intersticial fluya hacia ellos pero no hacia afuera.
+
+Los capilares linfáticos tienen una mayor presión oncótica interna que los capilares sanguíneos, debido a la mayor concentración de proteínas plasmáticas en la linfa.
+
+
+=== Tipos ===
+
+Hay tres tipos de capilares sanguíneos:
+
+
+==== Continuo ====
+Los capilares continuos son continuos en el sentido de que las células endoteliales proporcionan un revestimiento ininterrumpido y solo permiten que moléculas más pequeñas, como agua e iones, pasen a través de sus hendiduras intercelulares.
+
+Las moléculas solubles en lípidos pueden difundirse pasivamente a través de las membranas de las células endoteliales a lo largo de gradientes de concentración.
+
+Los capilares continuos se pueden dividir en dos subtipos:
+
+Los que tienen numerosas vesículas de transporte, que se encuentran principalmente en los músculos esqueléticos, los dedos, las gónadas y la piel.
+Aquellos con pocas vesículas, que se encuentran principalmente en el sistema nervioso central.
+
+Estos capilares son un constituyente de la barrera hematoencefálica.
+
+
+==== Fenestrado ====
+Los capilares fenestrados tienen poros conocidos como fenestrae (en latín, "ventanas") en las células endoteliales que tienen un diámetro de 60 a 80 nm.
+
+Están atravesados ​​por un diafragma de fibrillas orientadas radialmente que permiten la difusión de pequeñas moléculas y cantidades limitadas de proteína.
+
+En el glomérulo renal existen células sin diafragma, denominadas pedicelos o pedicelos podocitarios, que tienen poros hendidos con una función análoga al diafragma de los capilares.
+
+Ambos tipos de vasos sanguíneos tienen láminas basales continuas y se encuentran principalmente en las glándulas endocrinas, los intestinos, el páncreas y los glomérulos del riñón.
+
+
+==== Sinusoidal ====
+
+Los capilares sinusoidales o capilares discontinuos son un tipo especial de capilar de poro abierto, también conocido como sinusoide, que tienen fenestraciones más anchas de 30 a 40 μm de diámetro y aberturas más anchas en el endotelio.
+
+Los capilares fenestrados tienen diafragmas que cubren los poros, mientras que los sinusoides carecen de diafragma y solo tienen un poro abierto.
+
+Estos tipos de vasos sanguíneos permiten el paso de glóbulos rojos y blancos (7,5 μm – 25 μm de diámetro) y diversas proteínas séricas, con la ayuda de una lámina basal discontinua.
+
+Estos capilares carecen de vesículas de pinocitosis y, por lo tanto, utilizan los espacios presentes en las uniones celulares para permitir la transferencia entre las células endoteliales y, por lo tanto, a través de la membrana.
+
+Los sinusoides son espacios irregulares llenos de sangre y se encuentran principalmente en el hígado, la médula ósea, el bazo y los órganos circunventriculares del cerebro.
+
+
+== Función ==
+
+
+La pared capilar cumple una función importante al permitir que los nutrientes y las sustancias de desecho pasen a través de ella.
+
+Las moléculas mayores de 3 nm, como la albúmina y otras proteínas grandes, pasan por transporte transcelular dentro de las vesículas, proceso que requiere que atraviesen las células que forman la pared.
+
+Las moléculas de menos de 3 nm, como el agua y los gases, cruzan la pared capilar a través del espacio entre las células en un proceso conocido como transporte paracelular.
+
+Estos mecanismos de transporte permiten el intercambio bidireccional de sustancias en función de los gradientes osmóticos.
+
+Los capilares que forman parte de la barrera hematoencefálica solo permiten el transporte transcelular ya que las uniones estrechas entre las células endoteliales sellan el espacio paracelular. Los lechos capilares pueden controlar su flujo sanguíneo a través de la autorregulación.
+
+Esto permite que un órgano mantenga un flujo constante a pesar de un cambio en la presión arterial central.
+
+Esto se logra mediante la respuesta miogénica y, en el riñón, mediante la retroalimentación tubuloglomerular.
+
+Cuando aumenta la presión arterial, las arteriolas se estiran y posteriormente se contraen (fenómeno conocido como efecto Bayliss) para contrarrestar la mayor tendencia de la presión alta a aumentar el flujo sanguíneo. En los pulmones, se han adaptado mecanismos especiales para satisfacer las necesidades de una mayor necesidad de sangre. flujo durante el ejercicio.
+
+Cuando la frecuencia cardíaca aumenta y debe fluir más sangre a través de los pulmones, los capilares se reclutan y también se distienden para dejar espacio para un mayor flujo sanguíneo.
+
+Esto permite que aumente el flujo sanguíneo mientras disminuye la resistencia. La permeabilidad capilar puede aumentar por la liberación de ciertas citocinas, anafilatoxinas u otros mediadores (como leucotrienos, prostaglandinas, histamina, bradiquinina, etc.) altamente influenciados por el sistema inmunitario.
+
+
+=== Ecuación de Starling ===
+
+Los mecanismos de transporte se pueden cuantificar aún más mediante la ecuación de Starling.
+
+La ecuación de Starling define las fuerzas a través de una membrana semipermeable y permite calcular el flujo neto:
+
+ 
+ 
+ 
+ 
+ 
+j
+ 
+v
+ 
+ 
+=
+ 
+k
+ 
+F
+ 
+ 
+(
+[
+ 
+PAGS
+ 
+C
+ 
+ 
+−
+ 
+PAGS
+ 
+i
+ 
+ 
+]
+−
+σ
+[
+ 
+π
+ 
+C
+ 
+ 
+−
+ 
+π
+ 
+i
+ 
+ 
+]
+)
+ 
+ 
+{\displaystyle \ J_{v}=K_{f}([P_{c}-P_{i}]-\sigma [\pi_{c}-\pi_{i}])}
+dónde:
+
+ 
+ 
+ 
+(
+[
+ 
+PAGS
+ 
+C
+ 
+ 
+−
+ 
+PAGS
+ 
+i
+ 
+ 
+]
+−
+σ
+[
+ 
+π
+ 
+C
+ 
+ 
+−
+ 
+π
+ 
+i
+ 
+ 
+]
+)
+ 
+ 
+{\displaystyle ([P_{c}-P_{i}]-\sigma [\pi_{c}-\pi_{i}])}
+es la fuerza motriz neta,
+
+ 
+ 
+ 
+ 
+k
+ 
+F
+ 
+ 
+ 
+ 
+{\displaystyle K_{f}}
+es la constante de proporcionalidad, y
+
+ 
+ 
+ 
+ 
+j
+ 
+v
+ 
+ 
+ 
+ 
+{\displaystyle J_{v}}
+es el movimiento neto de fluido entre compartimentos. Por convención, la fuerza hacia afuera se define como positiva y la fuerza hacia adentro se define como negativa.
+
+La solución a la ecuación se conoce como filtración neta o movimiento neto de fluidos (Jv).
+
+Si es positivo, el líquido tenderá a salir del capilar (filtración).
+
+Si es negativo, el líquido tenderá a entrar en el capilar (absorción).
+
+Esta ecuación tiene una serie de implicaciones fisiológicas importantes, especialmente cuando los procesos patológicos alteran gravemente una o más de las variables. Según la ecuación de Starling, el movimiento del fluido depende de seis variables:
+
+Presión hidrostática capilar (Pc)
+Presión hidrostática intersticial (Pi)
+Presión oncótica capilar (πc)
+Presión oncótica intersticial ( πi )
+Coeficiente de filtración ( Kf )
+Coeficiente de reflexión ( σ )
+
+
+== Importancia clínica ==
+
+Los trastornos de la formación de capilares como un defecto del desarrollo o un trastorno adquirido son una característica de muchos trastornos comunes y graves.
+
+Dentro de una amplia gama de factores celulares y citoquinas, los problemas con la expresión genética normal y la bioactividad del factor de crecimiento vascular y permeabilidad del factor de crecimiento endotelial vascular (VEGF) parecen desempeñar un papel importante en muchos de los trastornos.
+
+Los factores celulares incluyen el número y la función reducidos de las células progenitoras endoteliales derivadas de la médula ósea. y capacidad reducida de esas células para formar vasos sanguíneos.
+La formación de capilares adicionales y vasos sanguíneos más grandes (angiogénesis) es un mecanismo importante por el cual un cáncer puede ayudar a mejorar su propio crecimiento.
+
+Los trastornos de los capilares retinianos contribuyen a la patogenia de la degeneración macular relacionada con la edad.
+La densidad capilar reducida (rarefacción capilar) ocurre en asociación con factores de riesgo cardiovascular y en pacientes con enfermedad coronaria.
+
+
+=== Terapéutica ===
+
+Las principales enfermedades en las que podría ser útil alterar la formación de capilares incluyen condiciones en las que hay una formación de capilares excesiva o anormal, como el cáncer y los trastornos que dañan la vista; y condiciones médicas en las que hay una formación capilar reducida ya sea por razones familiares o genéticas, o como un problema adquirido.
+
+En pacientes con trastorno de la retina, degeneración macular relacionada con la edad neovascular, se ha demostrado que la terapia local anti-VEGF para limitar la bioactividad del factor de crecimiento endotelial vascular protege la visión al limitar la progresión.
+
+En una amplia gama de cánceres, se han estudiado, o están en desarrollo, enfoques de tratamiento destinados a disminuir el crecimiento tumoral mediante la reducción de la angiogénesis.
+
+
+=== Muestreo de sangre ===
+
+El muestreo de sangre capilar se puede utilizar para analizar la glucosa en sangre (como en el control de la glucosa en sangre), la hemoglobina, el pH y el lactato.
+
+Por lo general, se realiza creando un pequeño corte con una lanceta de sangre, seguido de un muestreo por acción capilar en el corte con una tira reactiva o una pipeta pequeña.
+
+
+== Historia ==
+
+Contrariamente a un concepto erróneo popular, William Harvey no predijo explícitamente la existencia de capilares, pero vio claramente la necesidad de algún tipo de conexión entre los sistemas arterial y venoso.
+
+En 1653, escribió: "... la sangre entra en cada miembro a través de las arterias y regresa por las venas, y que las venas son los vasos y vías por los cuales la sangre regresa al corazón mismo; y que la sangre en los miembros y extremidades pasa de las arterias a las venas (ya sea mediatamente por una anastomosis, o inmediatamente a través de las porosidades de la carne, o en ambos sentidos) como antes lo hizo en el corazón y el tórax fuera de las venas, en las arterias..."Marcello Malpighi fue el primero en observar directamente y describir correctamente los capilares, encontrándolos en el pulmón de una rana 8 años después, en 1661.
+
+
+
+https://en.wikipedia.org/wiki/Capillary
+
+;;;PT;;;
+
+
+
+CAPILAR
+
+
+Um capilar é um pequeno vaso sanguíneo de 5 a 10 micrômetros (μm) de diâmetro.
+
+Os capilares são compostos apenas pela túnica íntima, constituída por uma parede fina de células endoteliais escamosas simples.
+
+São os menores vasos sanguíneos do corpo: transportam sangue entre as arteríolas e as vênulas.
+
+Esses microvasos são o local de troca de muitas substâncias com o fluido intersticial que os circunda.
+
+As substâncias que atravessam os capilares incluem água, oxigênio, dióxido de carbono, uréia, glicose, ácido úrico, ácido lático e creatinina.
+
+Os capilares linfáticos se conectam com vasos linfáticos maiores para drenar o líquido linfático coletado na microcirculação.
+Durante o desenvolvimento embrionário inicial, novos capilares são formados através da vasculogênese, o processo de formação de vasos sanguíneos que ocorre através de uma produção de novo de células endoteliais que então formam tubos vasculares.
+
+O termo angiogênese denota a formação de novos capilares a partir de vasos sanguíneos pré-existentes e endotélio já presente que se divide.
+
+
+== Etimologia ==
+
+Capilar vem da palavra latina capillaris, que significa "de ou parecido com cabelo", com uso em inglês a partir de meados do século XVII.
+
+O significado deriva do diâmetro minúsculo e semelhante a um cabelo de um capilar.
+
+Enquanto capilar é geralmente usado como substantivo, a palavra também é usada como adjetivo, como em "ação capilar", em que um líquido flui sem influência de forças externas, como a gravidade.
+
+
+== Estrutura ==
+
+
+O sangue flui do coração através das artérias, que se ramificam e se estreitam em arteríolas e depois se ramificam ainda mais nos capilares, onde os nutrientes e os resíduos são trocados.
+
+Os capilares então se unem e se alargam para se tornarem vênulas, que por sua vez se alargam e convergem para se tornarem veias, que então retornam o sangue ao coração através das veias cavas.
+
+No mesentério, as metarteríolas formam um estágio adicional entre as arteríolas e os capilares.
+Capilares individuais fazem parte do leito capilar, uma rede entrelaçada de capilares que suprem tecidos e órgãos.
+
+Quanto mais metabolicamente ativo for um tecido, mais capilares são necessários para fornecer nutrientes e transportar produtos do metabolismo.
+
+Existem dois tipos de capilares: capilares verdadeiros, que se ramificam das arteríolas e fornecem troca entre o tecido e o sangue capilar, e os sinusóides, um tipo de capilar de poro aberto encontrado no fígado, medula óssea, glândula pituitária anterior e órgãos circunventriculares cerebrais. .
+
+Capilares e sinusóides são vasos curtos que conectam diretamente as arteríolas e vênulas nas extremidades opostas dos leitos.
+
+As metarteríolas são encontradas principalmente na microcirculação mesentérica. Os capilares linfáticos são ligeiramente maiores em diâmetro do que os capilares sanguíneos e têm extremidades fechadas (ao contrário dos capilares sanguíneos que se abrem em uma extremidade para as arteríolas e na outra para as vênulas).
+
+Essa estrutura permite que o fluido intersticial flua para dentro deles, mas não para fora.
+
+Os capilares linfáticos têm uma pressão oncótica interna maior do que os capilares sanguíneos, devido à maior concentração de proteínas plasmáticas na linfa.
+
+
+=== Tipos ===
+
+Existem três tipos de capilares sanguíneos:
+
+
+==== Contínuo ====
+Os capilares contínuos são contínuos no sentido de que as células endoteliais fornecem um revestimento ininterrupto e permitem apenas que moléculas menores, como água e íons, passem por suas fendas intercelulares.
+
+Moléculas lipossolúveis podem se difundir passivamente através das membranas das células endoteliais ao longo de gradientes de concentração.
+
+Os capilares contínuos podem ser divididos em dois subtipos:
+
+Aqueles com numerosas vesículas de transporte, que são encontradas principalmente nos músculos esqueléticos, dedos, gônadas e pele.
+Aqueles com poucas vesículas, que são encontradas principalmente no sistema nervoso central.
+
+Esses capilares são um constituinte da barreira hematoencefálica.
+
+
+==== Fenestrado ====
+Capilares fenestrados têm poros conhecidos como fenestrae (latim para "janelas") nas células endoteliais que têm 60-80 nm de diâmetro.
+
+Eles são atravessados ​​por um diafragma de fibrilas orientadas radialmente que permite a difusão de pequenas moléculas e quantidades limitadas de proteína.
+
+No glomérulo renal existem células sem diafragma, chamadas de podócitos ou pedicelos, que possuem poros em fenda com função análoga ao diafragma dos capilares.
+
+Ambos os tipos de vasos sanguíneos têm lâminas basais contínuas e estão localizados principalmente nas glândulas endócrinas, intestinos, pâncreas e glomérulos do rim.
+
+
+==== Sinusoidal ====
+
+Os capilares sinusoidais ou capilares descontínuos são um tipo especial de capilar de poro aberto, também conhecido como sinusóide, que possui fenestrações mais amplas com diâmetros de 30 a 40 μm e aberturas mais amplas no endotélio.
+
+Os capilares fenestrados têm diafragmas que cobrem os poros, enquanto os sinusóides não têm diafragma e têm apenas um poro aberto.
+
+Esses tipos de vasos sanguíneos permitem a passagem de glóbulos vermelhos e brancos (7,5 μm – 25 μm de diâmetro) e várias proteínas séricas, auxiliadas por uma lâmina basal descontínua.
+
+Esses capilares não possuem vesículas pinocitóticas e, portanto, usam lacunas presentes nas junções celulares para permitir a transferência entre as células endoteliais e, portanto, através da membrana.
+
+Os sinusóides são espaços irregulares preenchidos com sangue e são encontrados principalmente no fígado, medula óssea, baço e órgãos circunventriculares cerebrais.
+
+
+== Função ==
+
+
+A parede capilar desempenha uma função importante, permitindo que nutrientes e substâncias residuais passem por ela.
+
+Moléculas maiores que 3 nm, como a albumina e outras proteínas grandes, passam por transporte transcelular dentro das vesículas, processo que exige que elas passem pelas células que formam a parede.
+
+Moléculas menores que 3 nm, como água e gases, atravessam a parede capilar através do espaço entre as células em um processo conhecido como transporte paracelular.
+
+Esses mecanismos de transporte permitem a troca bidirecional de substâncias dependendo dos gradientes osmóticos.
+
+Os capilares que fazem parte da barreira hematoencefálica apenas permitem o transporte transcelular, pois as junções estreitas entre as células endoteliais selam o espaço paracelular. Os leitos capilares podem controlar seu fluxo sanguíneo por meio da autorregulação.
+
+Isso permite que um órgão mantenha um fluxo constante, apesar de uma mudança na pressão sanguínea central.
+
+Isso é alcançado pela resposta miogênica e, no rim, por feedback tubuloglomerular.
+
+Quando a pressão arterial aumenta, as arteríolas são distendidas e subsequentemente contraídas (um fenômeno conhecido como efeito Bayliss) para neutralizar a tendência aumentada da pressão alta para aumentar o fluxo sanguíneo. fluxo durante o exercício.
+
+Quando a frequência cardíaca aumenta e mais sangue deve fluir pelos pulmões, os capilares são recrutados e também distendidos para dar espaço ao aumento do fluxo sanguíneo.
+
+Isso permite que o fluxo sanguíneo aumente enquanto a resistência diminui. A permeabilidade capilar pode ser aumentada pela liberação de certas citocinas, anafilatoxinas ou outros mediadores (como leucotrienos, prostaglandinas, histamina, bradicinina, etc.) altamente influenciados pelo sistema imunológico.
+
+
+=== Equação de Starling ===
+
+Os mecanismos de transporte podem ser quantificados pela equação de Starling.
+
+A equação de Starling define as forças através de uma membrana semipermeável e permite o cálculo do fluxo líquido:
+
+ 
+ 
+ 
+ 
+ 
+J
+ 
+v
+ 
+ 
+=
+ 
+K
+ 
+f
+ 
+ 
+(
+[
+ 
+P
+ 
+c
+ 
+ 
+−
+ 
+P
+ 
+eu
+ 
+ 
+]
+−
+σ
+[
+ 
+π
+ 
+c
+ 
+ 
+−
+ 
+π
+ 
+eu
+ 
+ 
+]
+)
+ 
+ 
+{\displaystyle \ J_{v}=K_{f}([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+Onde:
+
+ 
+ 
+ 
+(
+[
+ 
+P
+ 
+c
+ 
+ 
+−
+ 
+P
+ 
+eu
+ 
+ 
+]
+−
+σ
+[
+ 
+π
+ 
+c
+ 
+ 
+−
+ 
+π
+ 
+eu
+ 
+ 
+]
+)
+ 
+ 
+{\displaystyle ([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+é a força motriz líquida,
+
+ 
+ 
+ 
+ 
+K
+ 
+f
+ 
+ 
+ 
+ 
+{\displaystyle K_{f}}
+é a constante de proporcionalidade, e
+
+ 
+ 
+ 
+ 
+J
+ 
+v
+ 
+ 
+ 
+ 
+{\displaystyle J_{v}}
+é o movimento líquido do fluido entre compartimentos. Por convenção, a força externa é definida como positiva e a força interna é definida como negativa.
+
+A solução para a equação é conhecida como filtração líquida ou movimento líquido de fluido (Jv).
+
+Se positivo, o fluido tenderá a deixar o capilar (filtração).
+
+Se negativo, o fluido tenderá a entrar no capilar (absorção).
+
+Esta equação tem várias implicações fisiológicas importantes, especialmente quando os processos patológicos alteram grosseiramente uma ou mais das variáveis. De acordo com a equação de Starling, o movimento do fluido depende de seis variáveis:
+
+Pressão hidrostática capilar (Pc)
+Pressão hidrostática intersticial (Pi)
+Pressão oncótica capilar ( πc )
+Pressão oncótica intersticial (πi)
+Coeficiente de filtração ( Kf )
+Coeficiente de reflexão ( σ )
+
+
+== Significado clínico ==
+
+Distúrbios da formação capilar como defeito de desenvolvimento ou distúrbio adquirido são uma característica em muitos distúrbios comuns e graves.
+
+Dentro de uma ampla gama de fatores celulares e citocinas, problemas com expressão genética normal e bioatividade do crescimento vascular e fator de permeabilidade do fator de crescimento endotelial vascular (VEGF) parecem desempenhar um papel importante em muitos dos distúrbios.
+
+Fatores celulares incluem número e função reduzidos de células progenitoras endoteliais derivadas da medula óssea. e capacidade reduzida dessas células para formar vasos sanguíneos.
+A formação de capilares adicionais e vasos sanguíneos maiores (angiogênese) é um mecanismo importante pelo qual um câncer pode ajudar a aumentar seu próprio crescimento.
+
+Distúrbios dos capilares da retina contribuem para a patogênese da degeneração macular relacionada à idade.
+Densidade capilar reduzida (rarefação capilar) ocorre em associação com fatores de risco cardiovascular e em pacientes com doença coronariana.
+
+
+=== Terapêutica ===
+
+As principais doenças em que a alteração da formação capilar pode ser útil incluem condições em que há formação capilar excessiva ou anormal, como câncer e distúrbios que prejudicam a visão; e condições médicas em que há formação capilar reduzida, seja por razões familiares ou genéticas, ou como um problema adquirido.
+
+Em pacientes com o distúrbio da retina, degeneração macular relacionada à idade neovascular, a terapia anti-VEGF local para limitar a bioatividade do fator de crescimento endotelial vascular demonstrou proteger a visão limitando a progressão.
+
+Em uma ampla gama de cânceres, abordagens de tratamento foram estudadas, ou estão em desenvolvimento, com o objetivo de diminuir o crescimento do tumor por meio da redução da angiogênese.
+
+
+=== Amostra de sangue ===
+
+A amostragem de sangue capilar pode ser usada para testar a glicose no sangue (como no monitoramento da glicose no sangue), hemoglobina, pH e lactato.
+
+Geralmente é realizado através da criação de um pequeno corte usando uma lanceta de sangue, seguido de amostragem por ação capilar no corte com uma tira de teste ou pequena pipeta.
+
+
+== História ==
+
+Ao contrário de um equívoco popular, William Harvey não previu explicitamente a existência de capilares, mas viu claramente a necessidade de algum tipo de conexão entre os sistemas arterial e venoso.
+
+Em 1653, ele escreveu: "... o sangue entra em cada membro através das artérias, e retorna pelas veias, e que as veias são os vasos e caminhos pelos quais o sangue retorna ao próprio coração; e que o sangue nos membros e extremidades passa das artérias para as veias (seja mediatamente por uma anastomose, ou imediatamente através das porosidades da carne, ou em ambos os sentidos) como antes no coração e tórax, saindo das veias, para as artérias..."Marcello Malpighi foi o primeiro a observar direta e corretamente os capilares, descobrindo-os no pulmão de um sapo 8 anos depois, em 1661.
+
+
+
+https://en.wikipedia.org/wiki/Capillary
+
+;;;FR;;;
+
+
+
+CAPILLAIRE
+
+
+Un capillaire est un petit vaisseau sanguin de 5 à 10 micromètres (μm) de diamètre.
+
+Les capillaires sont composés uniquement de la tunique intima, constituée d'une fine paroi de simples cellules endothéliales squameuses.
+
+Ce sont les plus petits vaisseaux sanguins du corps : ils véhiculent le sang entre les artérioles et les veinules.
+
+Ces microvaisseaux sont le lieu d'échange de nombreuses substances avec le liquide interstitiel qui les entoure.
+
+Les substances qui traversent les capillaires comprennent l'eau, l'oxygène, le dioxyde de carbone, l'urée, le glucose, l'acide urique, l'acide lactique et la créatinine.
+
+Les capillaires lymphatiques se connectent aux gros vaisseaux lymphatiques pour drainer le liquide lymphatique collecté dans la microcirculation.
+Au début du développement embryonnaire, de nouveaux capillaires se forment par vasculogenèse, le processus de formation de vaisseaux sanguins qui se produit par une production de novo de cellules endothéliales qui forment ensuite des tubes vasculaires.
+
+Le terme angiogenèse désigne la formation de nouveaux capillaires à partir de vaisseaux sanguins préexistants et d'endothélium déjà présent qui se divise.
+
+
+== Etymologie ==
+
+Capillaire vient du mot latin capillaris, signifiant "de ou ressemblant à des cheveux", avec une utilisation en anglais à partir du milieu du 17ème siècle.
+
+La signification provient du petit diamètre ressemblant à un cheveu d'un capillaire.
+
+Alors que capillaire est généralement utilisé comme nom, le mot est également utilisé comme adjectif, comme dans "action capillaire", dans laquelle un liquide s'écoule sans influence de forces externes, telles que la gravité.
+
+
+== Structure ==
+
+
+Le sang s'écoule du cœur à travers les artères, qui se ramifient et se rétrécissent en artérioles, puis se ramifient plus loin dans les capillaires où les nutriments et les déchets sont échangés.
+
+Les capillaires se rejoignent et s'élargissent ensuite pour devenir des veinules, qui à leur tour s'élargissent et convergent pour devenir des veines, qui renvoient ensuite le sang vers le cœur par les veines caves.
+
+Dans le mésentère, les métartérioles forment un étage supplémentaire entre les artérioles et les capillaires.
+Les capillaires individuels font partie du lit capillaire, un réseau entrelacé de capillaires alimentant les tissus et les organes.
+
+Plus un tissu est métaboliquement actif, plus il faut de capillaires pour fournir les nutriments et emporter les produits du métabolisme.
+
+Il existe deux types de capillaires : les vrais capillaires, qui se ramifient à partir des artérioles et assurent l'échange entre les tissus et le sang capillaire, et les sinusoïdes, un type de capillaire à pores ouverts que l'on trouve dans le foie, la moelle osseuse, l'hypophyse antérieure et les organes circumventriculaires du cerveau. .
+
+Les capillaires et les sinusoïdes sont des vaisseaux courts qui relient directement les artérioles et les veinules aux extrémités opposées des lits.
+
+Les métartérioles se trouvent principalement dans la microcirculation mésentérique. Les capillaires lymphatiques ont un diamètre légèrement plus grand que les capillaires sanguins et ont des extrémités fermées (contrairement aux capillaires sanguins ouverts à une extrémité sur les artérioles et ouverts à l'autre extrémité sur les veinules).
+
+Cette structure permet au fluide interstitiel de s'écouler à l'intérieur mais pas à l'extérieur.
+
+Les capillaires lymphatiques ont une pression oncotique interne plus élevée que les capillaires sanguins, en raison de la plus grande concentration de protéines plasmatiques dans la lymphe.
+
+
+=== Genre ===
+
+Il existe trois types de capillaires sanguins :
+
+
+==== Continu ====
+Les capillaires continus sont continus dans le sens où les cellules endothéliales fournissent un revêtement ininterrompu et ne laissent passer que des molécules plus petites, telles que l'eau et les ions, à travers leurs fentes intercellulaires.
+
+Les molécules liposolubles peuvent diffuser passivement à travers les membranes des cellules endothéliales le long de gradients de concentration.
+
+Les capillaires continus peuvent être divisés en deux sous-types :
+
+Ceux qui ont de nombreuses vésicules de transport, qui se trouvent principalement dans les muscles squelettiques, les doigts, les gonades et la peau.
+Ceux qui ont peu de vésicules, qui se trouvent principalement dans le système nerveux central.
+
+Ces capillaires sont un constituant de la barrière hémato-encéphalique.
+
+
+==== Fenestré ====
+Les capillaires fenêtrés ont des pores appelés fenestrae (latin pour «fenêtres») dans les cellules endothéliales qui mesurent 60 à 80 nm de diamètre.
+
+Ils sont enjambés par un diaphragme de fibrilles orientées radialement qui permet à de petites molécules et à des quantités limitées de protéines de se diffuser.
+
+Dans le glomérule rénal, il existe des cellules sans diaphragme, appelées processus ou pédicelles du pied des podocytes, qui ont des pores fendus avec une fonction analogue au diaphragme des capillaires.
+
+Ces deux types de vaisseaux sanguins ont des lames basales continues et sont principalement situés dans les glandes endocrines, les intestins, le pancréas et les glomérules du rein.
+
+
+==== Sinusoïdal ====
+
+Les capillaires sinusoïdaux ou capillaires discontinus sont un type spécial de capillaires à pores ouverts, également appelés sinusoïdes, qui ont des fenestrations plus larges de 30 à 40 μm de diamètre et des ouvertures plus larges dans l'endothélium.
+
+Les capillaires fenêtrés ont des diaphragmes qui recouvrent les pores alors que les sinusoïdes n'ont pas de diaphragme et n'ont qu'un pore ouvert.
+
+Ces types de vaisseaux sanguins laissent passer les globules rouges et blancs (7,5 μm - 25 μm de diamètre) et diverses protéines sériques, aidés par une lame basale discontinue.
+
+Ces capillaires manquent de vésicules pinocytotiques et utilisent donc les lacunes présentes dans les jonctions cellulaires pour permettre le transfert entre les cellules endothéliales, et donc à travers la membrane.
+
+Les sinusoïdes sont des espaces irréguliers remplis de sang et se trouvent principalement dans le foie, la moelle osseuse, la rate et les organes circumventriculaires du cerveau.
+
+
+== Fonction ==
+
+
+La paroi capillaire remplit une fonction importante en permettant aux nutriments et aux déchets de la traverser.
+
+Les molécules de plus de 3 nm telles que l'albumine et d'autres grandes protéines passent par le transport transcellulaire transporté à l'intérieur des vésicules, un processus qui les oblige à traverser les cellules qui forment la paroi.
+
+Les molécules inférieures à 3 nm telles que l'eau et les gaz traversent la paroi capillaire à travers l'espace entre les cellules dans un processus connu sous le nom de transport paracellulaire.
+
+Ces mécanismes de transport permettent un échange bidirectionnel de substances en fonction des gradients osmotiques.
+
+Les capillaires qui font partie de la barrière hémato-encéphalique ne permettent que le transport transcellulaire, car des jonctions étroites entre les cellules endothéliales scellent l'espace paracellulaire. Les lits capillaires peuvent contrôler leur flux sanguin par autorégulation.
+
+Cela permet à un organe de maintenir un débit constant malgré un changement de la pression artérielle centrale.
+
+Ceci est réalisé par une réponse myogénique et, dans le rein, par une rétroaction tubuloglomérulaire.
+
+Lorsque la pression artérielle augmente, les artérioles sont étirées puis se contractent (phénomène connu sous le nom d'effet Bayliss) pour contrecarrer la tendance accrue de l'hypertension à augmenter le flux sanguin. Dans les poumons, des mécanismes spéciaux ont été adaptés pour répondre aux besoins accrus en sang. débit pendant l'exercice.
+
+Lorsque la fréquence cardiaque augmente et que plus de sang doit circuler dans les poumons, les capillaires sont recrutés et sont également distendus pour faire place à un flux sanguin accru.
+
+Cela permet d'augmenter le flux sanguin tandis que la résistance diminue. La perméabilité capillaire peut être augmentée par la libération de certaines cytokines, anaphylatoxines ou autres médiateurs (tels que les leucotriènes, les prostaglandines, l'histamine, la bradykinine, etc.) fortement influencés par le système immunitaire.
+
+
+=== Équation de Starling ===
+
+Les mécanismes de transport peuvent être davantage quantifiés par l'équation de Starling.
+
+L'équation de Starling définit les forces à travers une membrane semi-perméable et permet le calcul du flux net :
+
+ 
+ 
+ 
+ 
+ 
+J
+ 
+v
+ 
+ 
+=
+ 
+K
+ 
+F
+ 
+ 
+(
+[
+ 
+P
+ 
+c
+ 
+ 
+−
+ 
+P
+ 
+je
+ 
+ 
+]
+−
+σ
+[
+ 
+π
+ 
+c
+ 
+ 
+−
+ 
+π
+ 
+je
+ 
+ 
+]
+)
+ 
+ 
+{\displaystyle \ J_{v}=K_{f}([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+où:
+
+ 
+ 
+ 
+(
+[
+ 
+P
+ 
+c
+ 
+ 
+−
+ 
+P
+ 
+je
+ 
+ 
+]
+−
+σ
+[
+ 
+π
+ 
+c
+ 
+ 
+−
+ 
+π
+ 
+je
+ 
+ 
+]
+)
+ 
+ 
+{\displaystyle ([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+est la force motrice nette,
+
+ 
+ 
+ 
+ 
+K
+ 
+F
+ 
+ 
+ 
+ 
+{\displaystyle K_{f}}
+est la constante de proportionnalité, et
+
+ 
+ 
+ 
+ 
+J
+ 
+v
+ 
+ 
+ 
+ 
+{\displaystyle J_{v}}
+est le mouvement fluide net entre les compartiments. Par convention, la force vers l'extérieur est définie comme positive et la force vers l'intérieur est définie comme négative.
+
+La solution de l'équation est connue sous le nom de filtration nette ou mouvement net de fluide (Jv).
+
+S'il est positif, le liquide aura tendance à sortir du capillaire (filtration).
+
+S'il est négatif, le liquide aura tendance à pénétrer dans le capillaire (absorption).
+
+Cette équation a un certain nombre d'implications physiologiques importantes, en particulier lorsque des processus pathologiques modifient grossièrement une ou plusieurs des variables. Selon l'équation de Starling, le mouvement du fluide dépend de six variables :
+
+Pression hydrostatique capillaire ( Pc )
+Pression hydrostatique interstitielle ( Pi )
+Pression oncotique capillaire ( πc )
+Pression oncotique interstitielle ( πi )
+Coefficient de filtration ( Kf )
+Coefficient de réflexion ( σ )
+
+
+== Signification clinique ==
+
+Les troubles de la formation capillaire en tant que défaut de développement ou trouble acquis sont une caractéristique de nombreux troubles courants et graves.
+
+Dans un large éventail de facteurs cellulaires et de cytokines, les problèmes d'expression génétique normale et de bioactivité du facteur de croissance vasculaire et du facteur de perméabilité du facteur de croissance endothélial vasculaire (VEGF) semblent jouer un rôle majeur dans de nombreux troubles.
+
+Les facteurs cellulaires comprennent le nombre et la fonction réduits des cellules progénitrices endothéliales dérivées de la moelle osseuse. et la capacité réduite de ces cellules à former des vaisseaux sanguins.
+La formation de capillaires supplémentaires et de vaisseaux sanguins plus gros (angiogenèse) est un mécanisme majeur par lequel un cancer peut aider à améliorer sa propre croissance.
+
+Les troubles des capillaires rétiniens contribuent à la pathogenèse de la dégénérescence maculaire liée à l'âge.
+Une densité capillaire réduite (raréfaction capillaire) se produit en association avec des facteurs de risque cardiovasculaire et chez les patients atteints de maladie coronarienne.
+
+
+=== Thérapeutique ===
+
+Les principales maladies où la modification de la formation capillaire pourrait être utile comprennent les conditions dans lesquelles il existe une formation capillaire excessive ou anormale, comme le cancer et les troubles de la vue; et des conditions médicales dans lesquelles il y a une formation capillaire réduite soit pour des raisons familiales ou génétiques, soit en tant que problème acquis.
+
+Chez les patients atteints de troubles rétiniens, de dégénérescence maculaire néovasculaire liée à l'âge, il a été démontré qu'un traitement anti-VEGF local pour limiter la bioactivité du facteur de croissance endothélial vasculaire protège la vision en limitant la progression.
+
+Dans un large éventail de cancers, des approches thérapeutiques ont été étudiées ou sont en cours de développement, visant à diminuer la croissance tumorale en réduisant l'angiogenèse.
+
+
+=== Prise de sang ===
+
+L'échantillonnage de sang capillaire peut être utilisé pour tester la glycémie (comme dans la surveillance de la glycémie), l'hémoglobine, le pH et le lactate.
+
+Elle est généralement réalisée en créant une petite incision à l'aide d'une lancette à sang, suivie d'un prélèvement par capillarité sur l'incision à l'aide d'une bandelette réactive ou d'une petite pipette.
+
+
+== Historique ==
+
+Contrairement à une idée fausse populaire, William Harvey n'a pas explicitement prédit l'existence de capillaires, mais il a clairement vu la nécessité d'une sorte de connexion entre les systèmes artériel et veineux.
+
+En 1653, il écrivit : "... le sang entre dans chaque membre par les artères et revient par les veines, et que les veines sont les vaisseaux et les voies par lesquelles le sang est renvoyé au cœur lui-même ; et que le sang des membres et des extrémités passe des artères dans les veines (soit médiatement par une anastomose, soit immédiatement à travers les porosités de la chair, soit dans les deux sens) comme auparavant il le faisait dans le cœur et le thorax hors des veines, dans les artères..."Marcello Malpighi fut le premier à observer directement et à décrire correctement les capillaires, les découvrant dans le poumon d'une grenouille 8 ans plus tard, en 1661.
+
+
+
+https://en.wikipedia.org/wiki/Capillaire

@@ -1,0 +1,548 @@
+
+
+OLFACTORY EPITHELIUM
+
+
+The olfactory epithelium is a specialized epithelial tissue inside the nasal cavity that is involved in smell. 
+
+In humans, it measures
+9 cm2 and lies on the roof of the nasal cavity about 7 cm above and behind the nostrils. 
+
+The olfactory epithelium is the part of the olfactory system directly responsible for detecting odors.
+
+
+== Structure ==
+
+Olfactory epithelium consists of four distinct cell types:
+Olfactory sensory neurons
+Supporting cells
+Basal cells
+Brush cells
+
+
+=== Olfactory sensory neurons ===
+
+
+The olfactory receptor neurons are sensory neurons of the olfactory epithelium. 
+
+They are bipolar neurons and their apical poles express odorant receptors on non-motile cilia at the ends of the dendritic knob, which extend out into the airspace to interact with odorants. 
+
+Odorant receptors bind odorants in the airspace, which are made soluble by the serous secretions from olfactory glands located in the lamina propria of the mucosa. 
+
+The axons of the olfactory sensory neurons congregate to form the olfactory nerve (CN I). 
+
+Once the axons pass through the cribriform plate, they terminate and synapse with the dendrites of mitral cells in the glomeruli of the olfactory bulb.
+
+
+=== Supporting cells ===
+
+Analogous to neural glial cells, the supporting cells are non-neural cells in the olfactory epithelium that are located in the apical layer of the pseudostratified ciliated columnar epithelium. 
+
+There are two types of supporting cells in the olfactory epithelium: sustentacular cells and microvillar cells. 
+
+The sustentacular cells function as metabolic and physical support for the olfactory epithelium. 
+
+Microvillar cells are another class of supporting cells that are morphologically and biochemically distinct from the sustentacular cells, and arise from a basal cell population that expresses the c-KIT cell surface protein.
+
+
+=== Basal cells ===
+
+Resting on or near the basal lamina of the olfactory epithelium, basal cells are stem cells capable of division and differentiation into either supporting or olfactory cells. 
+
+While some of these basal cells divide rapidly, a significant proportion remain relatively quiescent and replenish olfactory epithelial cells as needed. 
+
+This leads to the olfactory epithelium being replaced every 6–8 weeks.Basal cells can be divided on the basis of their cellular and histological features into two populations: the horizontal basal cells, which are slowly dividing reserve cells that express p63; and globose basal cells, which are a heterogeneous population of cells consisting of reserve cells, amplifying progenitor cells, and immediate precursor cells.
+
+
+=== Brush cells ===
+
+A brush cell is a microvilli-bearing columnar cell with its basal surface in contact with afferent nerve endings of the trigeminal nerve (CN V) and is specialized for transduction of general sensation.
+
+
+=== Olfactory (Bowman's) glands ===
+
+Tubuloalveolar serous secreting glands lying in the lamina propria of the olfactory mucosa. 
+
+These glands deliver a proteinaceous secretion via ducts onto the surface of the mucosa. 
+
+The role of the secretions are to trap and dissolve odiferous substances for the bipolar neurons. 
+
+Constant flow from the olfactory glands allows old odors to be constantly washed away.
+
+
+== Development ==
+
+
+The olfactory epithelium derives from two structures during embryonic development: the olfactory placode, which was long believed to be its sole origin; and neural crest cells, whose contributions have been identified more recently through fate mapping studies.The embryonic olfactory epithelium consists of fewer cell types than in the adult, including apical and basal progenitor cells, as well as immature olfactory sensory neurons. 
+
+Early embryonic neurogenesis relies mostly on the apical cells, while later stage embryonic neurogenesis and secondary neurogenesis in adults relies on basal stem cells. 
+
+The axons of the immature olfactory sensory neurons, along with a mixed population of migratory cells, including immature olfactory ensheathing cells and gonadotropin-releasing hormone neurons form a “migratory mass” that travels towards the olfactory bulb. 
+
+At the end of the embryonic stage, the epithelium develops into a pseudostratified columnar epithelium and begins secondary neurogenesis.
+
+
+=== Olfactory placode ===
+
+Placodes are transient, focal aggregations of ectoderm located in the developmental region of the future vertebrate head, and give rise to sensory organs. 
+
+Early cranial sensory placodes are marked by expression of Six1, part of the Six family of transcription factors that regulate preplacodal ectoderm specification. 
+
+The olfactory placode forms as two thickenings of non-neural region of embryonic ectoderm. 
+
+In mice, the olfactory placode derives from an anterior portion of the neural tube, ~9-9.5 days into development and not long after the closure of the neural plate. 
+
+Development of the olfactory placode requires the presence underlying neural crest-derived mesenchymal tissue. 
+
+The specification of the olfactory placode tissue involves signaling of multiple gene networks, beginning with signals from bone morphogenetic proteins (BMP), retinoic acid (RA), and fibroblast growth factor (FGF), specifically FGF8. 
+
+The resulting regulated downstream expression of transcription factors, such as Pax6, Dlx3, Sox2, and others, within the presumptive olfactory placode are crucial for sub-regionalization within the future olfactory epithelium and is responsible for the diversity of cells that compose the future epithelium.Similar to the other embryonic placodes, the olfactory placode gives rise to both neural and non-neural structures, ultimately resulting in the formation of the nasal epithelium. 
+
+The specification of neural versus non-neural tissue involves signals both within the olfactory placode, and between the olfactory placode and the underlying mesenchymal compartment. 
+
+Continued signaling by BMP, FGF, and RA, the morphogens that initially induced placode formation, collectively coordinate the patterning of olfactory placode tissue into the future distinct cell types that make up the olfactory epithelium. 
+
+The cell types derived from the olfactory placode include:
+Neural: olfactory sensory neurons, LHRH-secreting neurons, and ganglion cells
+Non-neuronal: basal cells, olfactory supporting cells, ciliated cells, Bowman’s glands, Schwann cells, submucosal glands, and brush cellsHowever, there is significant evidence for an additional neural crest-origin for many of these cell types as well.
+
+
+=== Olfactory sensory neuron development ===
+
+Olfaction results from the proper development and interaction of the two components of the primary olfactory pathway: the olfactory epithelium and the olfactory bulb. 
+
+The olfactory epithelium contains olfactory sensory neurons, whose axons innervate the olfactory bulb. 
+
+In order for olfactory sensory neurons to function properly, they must express odorant receptors and the proper transduction proteins on non-motile cilia that extend from the dendritic knob in addition to projecting their axons to the olfactory bulb.The cells of the olfactory epithelium, including olfactory sensory neurons, begin to differentiate soon after the induction of the olfactory placode. 
+
+Once the olfactory sensory neurons differentiate, they express odorant receptors, which transduce odorant information from the environment to the central nervous system and aids in the development of the odorant map. 
+
+The differentiated olfactory sensory neurons extend pioneering axons, which follow guidance cues released by the underlying mesenchyme, as well as other chemotrophic cues released from the telencephalon. 
+
+As development of the olfactory pathway progresses, more axons innervate the olfactory bulb, which develops from the rostral-most region of telencephalon. 
+
+The organization and subsequent processing of odorant information is possible due to the convergence of olfactory sensory neuron axons expressing the same odorant receptors onto the same glomerulus at the olfactory bulb.
+
+
+== Clinical significance ==
+
+The olfactory epithelium can be damaged by inhalation of toxic fumes, physical injury to the interior of the nose, and possibly by the use of some nasal sprays. 
+
+Because of its regenerative capacity, damage to the olfactory epithelium can be temporary but in extreme cases, injury can be permanent, leading to anosmia.
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_epithelium
+;;;ES;;;
+
+
+
+EPITELIO OLFATIVO
+
+
+El epitelio olfativo es un tejido epitelial especializado dentro de la cavidad nasal que está involucrado en el olfato.
+
+En humanos, mide
+9 cm2 y se encuentra en el techo de la cavidad nasal unos 7 cm por encima y detrás de las fosas nasales.
+
+El epitelio olfativo es la parte del sistema olfativo directamente responsable de detectar olores.
+
+
+== Estructura ==
+
+El epitelio olfatorio consta de cuatro tipos de células distintas:
+Neuronas sensoriales olfativas
+Células de apoyo
+Células basales
+Células de pincel
+
+
+=== Neuronas sensoriales olfativas ===
+
+
+Las neuronas receptoras olfatorias son neuronas sensoriales del epitelio olfatorio.
+
+Son neuronas bipolares y sus polos apicales expresan receptores de olores en los cilios inmóviles en los extremos de la protuberancia dendrítica, que se extienden hacia el espacio aéreo para interactuar con los olores.
+
+Los receptores de olores se unen a los olores en el espacio aéreo, que se vuelven solubles por las secreciones serosas de las glándulas olfatorias ubicadas en la lámina propia de la mucosa.
+
+Los axones de las neuronas sensoriales olfatorias se congregan para formar el nervio olfatorio (NC I).
+
+Una vez que los axones atraviesan la placa cribosa, terminan y hacen sinapsis con las dendritas de las células mitrales en los glomérulos del bulbo olfatorio.
+
+
+=== Células de apoyo ===
+
+Análogas a las células gliales neurales, las células de sostén son células no neurales en el epitelio olfativo que se localizan en la capa apical del epitelio cilíndrico ciliado pseudoestratificado.
+
+Hay dos tipos de células de sostén en el epitelio olfatorio: células sustentaculares y células microvillares.
+
+Las células sustentaculares funcionan como soporte metabólico y físico del epitelio olfatorio.
+
+Las células microvellares son otra clase de células de soporte que son morfológica y bioquímicamente distintas de las células sustentaculares y surgen de una población de células basales que expresa la proteína de superficie celular c-KIT.
+
+
+=== Células basales ===
+
+Descansando sobre o cerca de la lámina basal del epitelio olfatorio, las células basales son células madre capaces de dividirse y diferenciarse en células de soporte u olfativas.
+
+Si bien algunas de estas células basales se dividen rápidamente, una proporción significativa permanece relativamente inactiva y repone las células epiteliales olfativas según sea necesario.
+
+Esto lleva a que el epitelio olfatorio se reemplace cada 6 a 8 semanas. Las células basales se pueden dividir en dos poblaciones, según sus características celulares e histológicas: las células basales horizontales, que se dividen lentamente como células de reserva que expresan p63; y células basales globosas, que son una población heterogénea de células que consta de células de reserva, células progenitoras amplificadoras y células precursoras inmediatas.
+
+
+=== Cepillar celdas ===
+
+Una célula en cepillo es una célula columnar que contiene microvellosidades con su superficie basal en contacto con las terminaciones nerviosas aferentes del nervio trigémino (CN V) y está especializada en la transducción de la sensación general.
+
+
+=== Glándulas olfatorias (de Bowman) ===
+
+Glándulas secretoras serosas tubuloalveolares situadas en la lámina propia de la mucosa olfatoria.
+
+Estas glándulas liberan una secreción proteica a través de conductos sobre la superficie de la mucosa.
+
+El papel de las secreciones es atrapar y disolver sustancias olorosas para las neuronas bipolares.
+
+El flujo constante de las glándulas olfativas permite eliminar constantemente los olores antiguos.
+
+
+== Desarrollo ==
+
+
+El epitelio olfativo se deriva de dos estructuras durante el desarrollo embrionario: la placoda olfativa, que durante mucho tiempo se creyó que era su único origen; y células de la cresta neural, cuyas contribuciones se han identificado más recientemente a través de estudios de mapeo del destino. El epitelio olfativo embrionario consta de menos tipos de células que en el adulto, incluidas las células progenitoras apicales y basales, así como las neuronas sensoriales olfativas inmaduras.
+
+La neurogénesis embrionaria temprana se basa principalmente en las células apicales, mientras que la neurogénesis embrionaria en etapas posteriores y la neurogénesis secundaria en adultos se basan en las células madre basales.
+
+Los axones de las neuronas sensoriales olfatorias inmaduras, junto con una población mixta de células migratorias, incluidas las células envolventes olfativas inmaduras y las neuronas de la hormona liberadora de gonadotropina, forman una "masa migratoria" que viaja hacia el bulbo olfatorio.
+
+Al final de la etapa embrionaria, el epitelio se convierte en un epitelio cilíndrico seudoestratificado y comienza la neurogénesis secundaria.
+
+
+=== Placoda olfativa ===
+
+Las placodas son agregaciones focales transitorias de ectodermo ubicadas en la región de desarrollo de la futura cabeza de los vertebrados y dan lugar a los órganos sensoriales.
+
+Las placodas sensoriales craneales tempranas están marcadas por la expresión de Six1, parte de la familia Six de factores de transcripción que regulan la especificación del ectodermo preplacodal.
+
+La placoda olfativa se forma como dos engrosamientos de la región no neural del ectodermo embrionario.
+
+En ratones, la placoda olfativa se deriva de una porción anterior del tubo neural, ~9-9.5 días después del desarrollo y no mucho después del cierre de la placa neural.
+
+El desarrollo de la placoda olfativa requiere la presencia de tejido mesenquimatoso derivado de la cresta neural subyacente.
+
+La especificación del tejido de la placoda olfativa implica la señalización de múltiples redes de genes, comenzando con señales de proteínas morfogenéticas óseas (BMP), ácido retinoico (RA) y factor de crecimiento de fibroblastos (FGF), específicamente FGF8.
+
+La expresión descendente regulada resultante de factores de transcripción, como Pax6, Dlx3, Sox2 y otros, dentro de la presunta placoda olfativa, es crucial para la subregionalización dentro del futuro epitelio olfativo y es responsable de la diversidad de células que componen el futuro epitelio. Al igual que las otras placodas embrionarias, la placoda olfativa da lugar a estructuras tanto neurales como no neurales, lo que finalmente da como resultado la formación del epitelio nasal.
+
+La especificación de tejido neural frente a no neural implica señales tanto dentro de la placoda olfativa como entre la placoda olfativa y el compartimento mesenquimatoso subyacente.
+
+La señalización continua de BMP, FGF y RA, los morfógenos que inicialmente indujeron la formación de placodas, coordinan colectivamente el patrón del tejido de placodas olfativas en los futuros tipos de células distintas que componen el epitelio olfativo.
+
+Los tipos de células derivados de la placoda olfativa incluyen:
+Neural: neuronas sensoriales olfativas, neuronas secretoras de LHRH y células ganglionares
+No neuronales: células basales, células de soporte olfativas, células ciliadas, glándulas de Bowman, células de Schwann, glándulas submucosas y células en cepillo. Sin embargo, también hay evidencia significativa de un origen de cresta neural adicional para muchos de estos tipos de células.
+
+
+=== Desarrollo de neuronas sensoriales olfativas ===
+
+El olfato resulta del desarrollo adecuado y la interacción de los dos componentes de la vía olfativa primaria: el epitelio olfativo y el bulbo olfativo.
+
+El epitelio olfatorio contiene neuronas sensoriales olfativas, cuyos axones inervan el bulbo olfatorio.
+
+Para que las neuronas sensoriales olfatorias funcionen correctamente, deben expresar los receptores de olores y las proteínas de transducción adecuadas en los cilios inmóviles que se extienden desde el bulto dendrítico, además de proyectar sus axones al bulbo olfatorio. Las células del epitelio olfatorio, incluidas Las neuronas sensoriales olfatorias comienzan a diferenciarse poco después de la inducción de la placoda olfativa.
+
+Una vez que las neuronas sensoriales olfativas se diferencian, expresan receptores de olores, que transducen la información de olores del ambiente al sistema nervioso central y ayudan en el desarrollo del mapa de olores.
+
+Las neuronas sensoriales olfatorias diferenciadas extienden los axones pioneros, que siguen las señales de guía liberadas por el mesénquima subyacente, así como otras señales quimiotróficas liberadas desde el telencéfalo.
+
+A medida que avanza el desarrollo de la vía olfatoria, más axones inervan el bulbo olfatorio, que se desarrolla a partir de la región más rostral del telencéfalo.
+
+La organización y posterior procesamiento de la información odorante es posible debido a la convergencia de axones de neuronas sensoriales olfativas que expresan los mismos receptores odoríferos en el mismo glomérulo en el bulbo olfatorio.
+
+
+== Importancia clínica ==
+
+El epitelio olfativo puede dañarse por la inhalación de vapores tóxicos, lesiones físicas en el interior de la nariz y posiblemente por el uso de algunos aerosoles nasales.
+
+Debido a su capacidad regenerativa, el daño del epitelio olfativo puede ser temporal pero, en casos extremos, la lesión puede ser permanente y provocar anosmia.
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_epithelium
+
+;;;PT;;;
+
+
+
+EPITÉLIO OLFATIVO
+
+
+O epitélio olfativo é um tecido epitelial especializado dentro da cavidade nasal que está envolvido no olfato.
+
+Em humanos, mede
+9 cm2 e fica no teto da cavidade nasal cerca de 7 cm acima e atrás das narinas.
+
+O epitélio olfativo é a parte do sistema olfativo diretamente responsável pela detecção de odores.
+
+
+== Estrutura ==
+
+O epitélio olfativo consiste em quatro tipos celulares distintos:
+Neurônios sensoriais olfativos
+Células de suporte
+Células basais
+Células de escova
+
+
+=== Neurônios sensoriais olfativos ===
+
+
+Os neurônios receptores olfativos são neurônios sensoriais do epitélio olfativo.
+
+Eles são neurônios bipolares e seus pólos apicais expressam receptores odoríferos em cílios imóveis nas extremidades do botão dendrítico, que se estendem para o espaço aéreo para interagir com odorantes.
+
+Os receptores odoríferos ligam odorantes no espaço aéreo, que se tornam solúveis pelas secreções serosas das glândulas olfativas localizadas na lâmina própria da mucosa.
+
+Os axônios dos neurônios sensoriais olfatórios se reúnem para formar o nervo olfatório (NC I).
+
+Uma vez que os axônios passam pela placa cribriforme, eles terminam e fazem sinapse com os dendritos das células mitrais nos glomérulos do bulbo olfatório.
+
+
+=== Células de suporte ===
+
+Análoga às células gliais neurais, as células de suporte são células não neurais no epitélio olfatório que estão localizadas na camada apical do epitélio colunar ciliado pseudoestratificado.
+
+Existem dois tipos de células de suporte no epitélio olfativo: células sustentaculares e células microvilares.
+
+As células sustentaculares funcionam como suporte metabólico e físico para o epitélio olfativo.
+
+As células microvilares são outra classe de células de suporte que são morfológica e bioquimicamente distintas das células sustentaculares, e surgem de uma população de células basais que expressa a proteína de superfície celular c-KIT.
+
+
+=== Células basais ===
+
+Descansando sobre ou perto da lâmina basal do epitélio olfatório, as células basais são células-tronco capazes de divisão e diferenciação em células de suporte ou olfativas.
+
+Enquanto algumas dessas células basais se dividem rapidamente, uma proporção significativa permanece relativamente quiescente e reabastece as células epiteliais olfativas conforme necessário.
+
+Isso leva à substituição do epitélio olfatório a cada 6-8 semanas. As células basais podem ser divididas com base em suas características celulares e histológicas em duas populações: as células basais horizontais, que são células de reserva de divisão lenta que expressam p63; e células basais globosas, que são uma população heterogênea de células consistindo de células de reserva, células progenitoras amplificadoras e células precursoras imediatas.
+
+
+=== Células do pincel ===
+
+Uma célula em escova é uma célula colunar contendo microvilosidades com sua superfície basal em contato com as terminações nervosas aferentes do nervo trigêmeo (NC V) e é especializada na transdução da sensação geral.
+
+
+=== Glândulas olfativas (de Bowman) ===
+
+Glândulas secretoras serosas tubuloalveolares situadas na lâmina própria da mucosa olfativa.
+
+Essas glândulas liberam uma secreção proteica por meio de ductos na superfície da mucosa.
+
+O papel das secreções é prender e dissolver substâncias odoríferas para os neurônios bipolares.
+
+O fluxo constante das glândulas olfativas permite que os odores antigos sejam constantemente lavados.
+
+
+== Desenvolvimento ==
+
+
+O epitélio olfativo deriva de duas estruturas durante o desenvolvimento embrionário: o placódio olfativo, que por muito tempo se acreditou ser sua única origem; e células da crista neural, cujas contribuições foram identificadas mais recentemente através de estudos de mapeamento de destino. O epitélio olfativo embrionário consiste em menos tipos de células do que no adulto, incluindo células progenitoras apicais e basais, bem como neurônios sensoriais olfativos imaturos.
+
+A neurogênese embrionária inicial depende principalmente das células apicais, enquanto a neurogênese embrionária em estágio posterior e a neurogênese secundária em adultos dependem das células-tronco basais.
+
+Os axônios dos neurônios sensoriais olfativos imaturos, juntamente com uma população mista de células migratórias, incluindo células embainhadas olfativas imaturas e neurônios do hormônio liberador de gonadotrofina formam uma “massa migratória” que viaja em direção ao bulbo olfatório.
+
+No final do estágio embrionário, o epitélio se desenvolve em um epitélio colunar pseudoestratificado e inicia a neurogênese secundária.
+
+
+=== placódio olfativo ===
+
+Os placódios são agregados transitórios e focais de ectoderma localizados na região de desenvolvimento da futura cabeça de vertebrado e dão origem a órgãos sensoriais.
+
+Os primeiros placódios sensoriais cranianos são marcados pela expressão de Six1, parte da família Six de fatores de transcrição que regulam a especificação do ectoderma pré-placodal.
+
+O placóide olfativo forma-se como dois espessamentos da região não neural do ectoderma embrionário.
+
+Em camundongos, o placódio olfativo deriva de uma porção anterior do tubo neural, ~9-9,5 dias após o desenvolvimento e não muito tempo após o fechamento da placa neural.
+
+O desenvolvimento do placódio olfativo requer a presença de tecido mesenquimal derivado da crista neural subjacente.
+
+A especificação do tecido placóide olfativo envolve a sinalização de múltiplas redes de genes, começando com sinais de proteínas morfogenéticas ósseas (BMP), ácido retinóico (RA) e fator de crescimento de fibroblastos (FGF), especificamente FGF8.
+
+A expressão regulada a jusante resultante de fatores de transcrição, como Pax6, Dlx3, Sox2 e outros, dentro do placódio olfativo presuntivo, é crucial para a sub-regionalização no futuro epitélio olfativo e é responsável pela diversidade de células que compõem o futuro epitélio. Semelhante aos outros placóides embrionários, o placóide olfatório dá origem a estruturas neurais e não neurais, resultando na formação do epitélio nasal.
+
+A especificação de tecido neural versus não neural envolve sinais tanto dentro do placódio olfativo quanto entre o placódio olfativo e o compartimento mesenquimal subjacente.
+
+A sinalização contínua por BMP, FGF e RA, os morfogênios que inicialmente induziram a formação de placóides, coordenam coletivamente a padronização do tecido placóide olfatório nos futuros tipos de células distintas que compõem o epitélio olfatório.
+
+Os tipos de células derivadas do placódio olfativo incluem:
+Neurais: neurônios sensoriais olfativos, neurônios secretores de LHRH e células ganglionares
+Não neuronais: células basais, células de sustentação olfativas, células ciliadas, glândulas de Bowman, células de Schwann, glândulas submucosas e células em escova.
+
+
+=== Desenvolvimento do neurônio sensorial olfativo ===
+
+O olfato resulta do desenvolvimento e interação adequados dos dois componentes da via olfativa primária: o epitélio olfativo e o bulbo olfativo.
+
+O epitélio olfatório contém neurônios sensoriais olfatórios, cujos axônios inervam o bulbo olfatório.
+
+Para que os neurônios sensoriais olfativos funcionem adequadamente, eles devem expressar receptores odoríferos e as proteínas de transdução apropriadas em cílios imóveis que se estendem do botão dendrítico, além de projetar seus axônios para o bulbo olfatório.As células do epitélio olfatório, incluindo neurônios sensoriais olfativos, começam a se diferenciar logo após a indução do placóide olfativo.
+
+Uma vez que os neurônios sensoriais olfativos se diferenciam, eles expressam receptores odoríferos, que transduzem informações odoríferas do ambiente para o sistema nervoso central e auxiliam no desenvolvimento do mapa olfativo.
+
+Os neurônios sensoriais olfativos diferenciados estendem axônios pioneiros, que seguem pistas de orientação liberadas pelo mesênquima subjacente, bem como outras pistas quimiotróficas liberadas do telencéfalo.
+
+À medida que o desenvolvimento da via olfativa progride, mais axônios inervam o bulbo olfativo, que se desenvolve a partir da região mais rostral do telencéfalo.
+
+A organização e o processamento subsequente da informação odorífera são possíveis devido à convergência dos axônios dos neurônios sensoriais olfatórios que expressam os mesmos receptores odoríferos no mesmo glomérulo no bulbo olfatório.
+
+
+== Significado clínico ==
+
+O epitélio olfativo pode ser danificado pela inalação de gases tóxicos, lesão física no interior do nariz e possivelmente pelo uso de alguns sprays nasais.
+
+Devido à sua capacidade regenerativa, a lesão do epitélio olfativo pode ser temporária, mas em casos extremos, a lesão pode ser permanente, levando à anosmia.
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_epithelium
+
+;;;FR;;;
+
+
+
+ÉPITHÉLIUM OLFACTIF
+
+
+L'épithélium olfactif est un tissu épithélial spécialisé à l'intérieur de la cavité nasale qui est impliqué dans l'odorat.
+
+Chez l'homme, il mesure
+9 cm2 et se trouve sur le toit de la cavité nasale à environ 7 cm au-dessus et derrière les narines.
+
+L'épithélium olfactif est la partie du système olfactif directement responsable de la détection des odeurs.
+
+
+== Structure ==
+
+L'épithélium olfactif est constitué de quatre types cellulaires distincts :
+Neurones sensoriels olfactifs
+Cellules de soutien
+Cellules basales
+Cellules de brosse
+
+
+=== Neurones sensoriels olfactifs ===
+
+
+Les neurones récepteurs olfactifs sont des neurones sensoriels de l'épithélium olfactif.
+
+Ce sont des neurones bipolaires et leurs pôles apicaux expriment des récepteurs odorants sur des cils non mobiles aux extrémités du bouton dendritique, qui s'étendent dans l'espace aérien pour interagir avec les odorants.
+
+Les récepteurs odorants se lient aux odorants dans l'espace aérien, qui sont rendus solubles par les sécrétions séreuses des glandes olfactives situées dans la lamina propria de la muqueuse.
+
+Les axones des neurones sensoriels olfactifs se rassemblent pour former le nerf olfactif (CN I).
+
+Une fois que les axones traversent la plaque cribriforme, ils se terminent et se synapsent avec les dendrites des cellules mitrales dans les glomérules du bulbe olfactif.
+
+
+=== Cellules de support ===
+
+Analogues aux cellules gliales neurales, les cellules de soutien sont des cellules non neurales de l'épithélium olfactif situées dans la couche apicale de l'épithélium cylindrique cilié pseudostratifié.
+
+Il existe deux types de cellules de soutien dans l'épithélium olfactif : les cellules sustentaculaires et les cellules microvillaires.
+
+Les cellules sustentaculaires fonctionnent comme un support métabolique et physique pour l'épithélium olfactif.
+
+Les cellules microvillaires sont une autre classe de cellules de soutien qui sont morphologiquement et biochimiquement distinctes des cellules sustentaculaires et proviennent d'une population de cellules basales qui exprime la protéine de surface cellulaire c-KIT.
+
+
+=== Cellules basales ===
+
+Reposant sur ou à proximité de la lame basale de l'épithélium olfactif, les cellules basales sont des cellules souches capables de se diviser et de se différencier en cellules de soutien ou olfactives.
+
+Alors que certaines de ces cellules basales se divisent rapidement, une proportion importante reste relativement au repos et reconstitue les cellules épithéliales olfactives au besoin.
+
+Cela conduit au remplacement de l'épithélium olfactif toutes les 6 à 8 semaines. Les cellules basales peuvent être divisées sur la base de leurs caractéristiques cellulaires et histologiques en deux populations : les cellules basales horizontales, qui se divisent lentement en cellules de réserve qui expriment p63 ; et les cellules basales globuleuses, qui sont une population hétérogène de cellules constituées de cellules de réserve, de cellules progénitrices amplificatrices et de cellules précurseurs immédiates.
+
+
+=== Cellules de brosse ===
+
+Une cellule en brosse est une cellule cylindrique portant des microvillosités dont la surface basale est en contact avec les terminaisons nerveuses afférentes du nerf trijumeau (CN V) et est spécialisée dans la transduction de la sensation générale.
+
+
+=== Glandes olfactives (de Bowman) ===
+
+Glandes séreuses séreuses tubuloalvéolaires situées dans la lamina propria de la muqueuse olfactive.
+
+Ces glandes délivrent une sécrétion protéique via des conduits à la surface de la muqueuse.
+
+Le rôle des sécrétions est de piéger et dissoudre les substances odoriférantes pour les neurones bipolaires.
+
+Le flux constant des glandes olfactives permet aux anciennes odeurs d'être constamment éliminées.
+
+
+== Développement ==
+
+
+L'épithélium olfactif dérive de deux structures au cours du développement embryonnaire : la placode olfactive, longtemps considérée comme sa seule origine ; et les cellules de la crête neurale, dont les contributions ont été identifiées plus récemment grâce à des études de cartographie du devenir. L'épithélium olfactif embryonnaire est constitué de moins de types de cellules que chez l'adulte, y compris les cellules progénitrices apicales et basales, ainsi que les neurones sensoriels olfactifs immatures.
+
+La neurogenèse embryonnaire précoce repose principalement sur les cellules apicales, tandis que la neurogenèse embryonnaire à un stade ultérieur et la neurogenèse secondaire chez l'adulte reposent sur des cellules souches basales.
+
+Les axones des neurones sensoriels olfactifs immatures, ainsi qu'une population mixte de cellules migratrices, y compris les cellules engainantes olfactives immatures et les neurones de l'hormone de libération des gonadotrophines forment une "masse migratrice" qui se déplace vers le bulbe olfactif.
+
+A la fin du stade embryonnaire, l'épithélium se développe en un épithélium cylindrique pseudostratifié et commence la neurogenèse secondaire.
+
+
+=== Placode olfactif ===
+
+Les placodes sont des agrégations focales transitoires d'ectoderme situées dans la région de développement de la future tête de vertébré et donnent naissance à des organes sensoriels.
+
+Les placodes sensorielles crâniennes précoces sont marquées par l'expression de Six1, qui fait partie de la famille Six de facteurs de transcription qui régulent la spécification de l'ectoderme préplacodal.
+
+La placode olfactive se présente sous la forme de deux épaississements de la région non neurale de l'ectoderme embryonnaire.
+
+Chez la souris, la placode olfactive dérive d'une partie antérieure du tube neural, environ 9 à 9,5 jours après le développement et peu de temps après la fermeture de la plaque neurale.
+
+Le développement de la placode olfactive nécessite la présence sous-jacente de tissu mésenchymateux dérivé de la crête neurale.
+
+La spécification du tissu placode olfactif implique la signalisation de plusieurs réseaux de gènes, en commençant par les signaux des protéines morphogénétiques osseuses (BMP), de l'acide rétinoïque (RA) et du facteur de croissance des fibroblastes (FGF), en particulier du FGF8.
+
+L'expression régulée en aval résultante de facteurs de transcription, tels que Pax6, Dlx3, Sox2 et autres, au sein de la placode olfactive présumée est cruciale pour la sous-régionalisation dans le futur épithélium olfactif et est responsable de la diversité des cellules qui composent le futur épithélium. Semblable aux autres placodes embryonnaires, la placode olfactive donne naissance à des structures neurales et non neurales, aboutissant finalement à la formation de l'épithélium nasal.
+
+La spécification du tissu neuronal par rapport au tissu non neuronal implique des signaux à la fois dans la placode olfactive et entre la placode olfactive et le compartiment mésenchymateux sous-jacent.
+
+La signalisation continue par BMP, FGF et RA, les morphogènes qui ont initialement induit la formation de placode, coordonnent collectivement la structuration du tissu de placode olfactif dans les futurs types de cellules distinctes qui composent l'épithélium olfactif.
+
+Les types de cellules dérivés de la placode olfactive comprennent :
+Neural : neurones sensoriels olfactifs, neurones sécréteurs de LHRH et cellules ganglionnaires
+Non neuronal : cellules basales, cellules de soutien olfactives, cellules ciliées, glandes de Bowman, cellules de Schwann, glandes sous-muqueuses et cellules de brosse. Cependant, il existe également des preuves significatives d'une origine de crête neurale supplémentaire pour bon nombre de ces types de cellules.
+
+
+=== Développement des neurones sensoriels olfactifs ===
+
+L'olfaction résulte du bon développement et de l'interaction des deux composants de la voie olfactive primaire : l'épithélium olfactif et le bulbe olfactif.
+
+L'épithélium olfactif contient des neurones sensoriels olfactifs, dont les axones innervent le bulbe olfactif.
+
+Pour que les neurones sensoriels olfactifs fonctionnent correctement, ils doivent exprimer les récepteurs olfactifs et les protéines de transduction appropriées sur les cils non mobiles qui s'étendent du bouton dendritique en plus de projeter leurs axones vers le bulbe olfactif. Les cellules de l'épithélium olfactif, y compris neurones sensoriels olfactifs, commencent à se différencier peu après l'induction de la placode olfactive.
+
+Une fois que les neurones sensoriels olfactifs se différencient, ils expriment des récepteurs odorants, qui transduisent les informations odorantes de l'environnement au système nerveux central et aident au développement de la carte odorante.
+
+Les neurones sensoriels olfactifs différenciés étendent les axones pionniers, qui suivent les signaux de guidage libérés par le mésenchyme sous-jacent, ainsi que d'autres signaux chimiotrophes libérés par le télencéphale.
+
+Au fur et à mesure que le développement de la voie olfactive progresse, davantage d'axones innervent le bulbe olfactif, qui se développe à partir de la région la plus rostrale du télencéphale.
+
+L'organisation et le traitement ultérieur des informations olfactives sont possibles grâce à la convergence des axones des neurones sensoriels olfactifs exprimant les mêmes récepteurs olfactifs sur le même glomérule au niveau du bulbe olfactif.
+
+
+== Signification clinique ==
+
+L'épithélium olfactif peut être endommagé par l'inhalation de vapeurs toxiques, des blessures physiques à l'intérieur du nez et éventuellement par l'utilisation de certains vaporisateurs nasaux.
+
+En raison de sa capacité de régénération, les lésions de l'épithélium olfactif peuvent être temporaires mais, dans les cas extrêmes, les lésions peuvent être permanentes, entraînant une anosmie.
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_epithelium

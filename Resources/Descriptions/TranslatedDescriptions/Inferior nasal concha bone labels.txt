@@ -1,0 +1,24 @@
+INFERIOR NASAL CONCHA BONE
+    Lacrimal process
+    Maxillary process of inferior nasal concha
+    Ethmoidal process
+;;;ES;;;
+
+HUESO DE LA CONCHA NASAL INFERIOR
+proceso lagrimal
+Proceso maxilar de la concha nasal inferior
+proceso etmoidal
+
+;;;PT;;;
+
+OSSO DA CONCHA NASAL INFERIOR
+Processo lacrimal
+Processo maxilar da concha nasal inferior
+Processo etmoidal
+
+;;;FR;;;
+
+CONQUE NASALE INFÉRIEURE
+Processus lacrymal
+Processus maxillaire de la conque nasale inférieure
+Processus ethmoïdal

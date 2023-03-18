@@ -1,0 +1,8 @@
+Refs-1,Refs-2,Refs-3,Refs-4,Refs-5,Refs-6,Refs-7,Refs-8,Refs-9,Refs-10
+Distal,Fibular,Plantar,Abduction,Inversion,Paramedian plane,Anterior median line,Sternal line.r,Paravertebral line.r,Anterior axillary line.l
+Dorsal,Radial,Palmar,Adduction,Eversion,Coronal planes,Sternal line.l,Parasternal line.r,Paravertebral line.l,Posterior axillary line.l
+Proximal,Tibial,,Circumduction,Plantar flexion,Median plane,Parasternal line.l,Midclavicular line.r,Posterior median line,Anterior axillary line.r
+Ventral,Ulnar,,Lateral rotation,Dorsiflexion,Transverse planes,Midclavicular line.l,Mamillary line.r,Scapular line.r,Posterior axillary line.r
+Frontal,Occipital,,Medial rotation,,,Mamillary line.l,,Scapular line.l,
+Cranial,,,Supination,,,,,,
+Caudal,,,Pronation,,,,,,

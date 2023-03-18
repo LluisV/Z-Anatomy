@@ -1,0 +1,5 @@
+<map id="SelectedObjectsManagement.ShowBodyPartInfo" name="SelectedObjectsManagement.ShowBodyPartInfo">
+<area shape="rect" id="node1" title="Shows the body part information of a given game object. Sets the description of the object using its ..." alt="" coords="263,23,460,63"/>
+<area shape="rect" id="node2" href="$class_select_command.html#a4adfba5781cb1795ec4cdb9cd5a03c3a" title=" " alt="" coords="25,5,195,31"/>
+<area shape="rect" id="node3" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="5,55,215,80"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ActionControl.SelectAll" name="ActionControl.SelectAll">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,161,88"/>
+<area shape="rect" id="node2" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="215,5,401,31"/>
+<area shape="rect" id="node4" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="209,55,407,95"/>
+<area shape="rect" id="node6" href="$class_selected_objects_management.html#a53480cd3be7a8d0db9027d8c8a575f19" title="Selects a GameObject." alt="" coords="209,119,407,159"/>
+<area shape="rect" id="node3" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="492,5,628,31"/>
+<area shape="rect" id="node5" href="$class_camera_controller.html#aaa7e8228113908116a25b1a69eea1c1b" title="Updates the bounds." alt="" coords="455,63,665,88"/>
+<area shape="rect" id="node7" href="$class_tangible_body_part.html#adb5f699d5b8ba8e366f6edcd5cbd70cb" title="Sets the selected outline to the object." alt="" coords="477,127,643,152"/>
+<area shape="rect" id="node8" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="713,119,916,159"/>
+</map>

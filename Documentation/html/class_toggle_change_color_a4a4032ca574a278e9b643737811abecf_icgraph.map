@@ -1,0 +1,32 @@
+<map id="ToggleChangeColor.SetDisabledColor" name="ToggleChangeColor.SetDisabledColor">
+<area shape="rect" id="node1" title=" " alt="" coords="1244,296,1452,336"/>
+<area shape="rect" id="node2" href="$class_action_control.html#a4e2657f3b2269134ac6a70527e7f0b84" title=" " alt="" coords="1009,81,1190,121"/>
+<area shape="rect" id="node6" href="$class_action_control.html#ab4fd8d9427750711b6f7d86b0970dff9" title=" " alt="" coords="1003,145,1195,185"/>
+<area shape="rect" id="node7" href="$class_cross_sections.html#a08ddae0abb0d9e88575c2085300edafe" title=" " alt="" coords="1006,410,1193,435"/>
+<area shape="rect" id="node9" href="$class_cross_planes_gizmo.html#aa36a5f21c411405b986110d4199cb74a" title=" " alt="" coords="523,442,713,467"/>
+<area shape="rect" id="node21" href="$class_cross_planes_gizmo.html#a5338074ec34b4fd0567c5dfb15913af3" title=" " alt="" coords="526,218,710,243"/>
+<area shape="rect" id="node26" href="$class_action_control.html#af3fd5404e0fe7f0b0eef3eb9f9ce66ef" title=" " alt="" coords="1009,324,1190,364"/>
+<area shape="rect" id="node27" href="$class_action_control.html#aeae83047b0d0f182a501f0435967def8" title=" " alt="" coords="1003,209,1196,249"/>
+<area shape="rect" id="node28" href="$class_cross_sections.html#af11785609aef5487b6498c6bd2fdce67" title=" " alt="" coords="538,40,698,66"/>
+<area shape="rect" id="node29" href="$class_pencil.html#a1c6fb31bb757b5bda9f8c7054dc509bf" title=" " alt="" coords="1012,666,1187,691"/>
+<area shape="rect" id="node30" href="$class_pencil.html#afbe1183c288e6faa74e9be5047285b5a" title=" " alt="" coords="1024,715,1175,740"/>
+<area shape="rect" id="node3" href="$class_action_control.html#ab47a47910b78a06c6f929c3b75a736ef" title=" " alt="" coords="777,66,939,91"/>
+<area shape="rect" id="node4" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="297,116,450,142"/>
+<area shape="rect" id="node5" href="$class_action_control.html#af4b5fb1e27d73c0412c93ef8f174b582" title=" " alt="" coords="770,167,946,192"/>
+<area shape="rect" id="node8" href="$class_cross_sections.html#a8eda6e5e70f750140c741810e4a0733e" title=" " alt="" coords="763,416,953,442"/>
+<area shape="rect" id="node18" href="$class_cross_sections.html#a34acddf18f0aa5e3b957fcc2316f8e98" title=" " alt="" coords="761,466,955,491"/>
+<area shape="rect" id="node19" href="$class_cross_sections.html#a4a7b375cdb17e952ed6c50ffc9f43b79" title=" " alt="" coords="763,515,953,540"/>
+<area shape="rect" id="node20" href="$class_cross_sections.html#aa149d762c7fe1b9c531e7151d8ef7506" title=" " alt="" coords="770,268,946,294"/>
+<area shape="rect" id="node23" href="$class_cross_sections.html#ac17aec3b1779632c14f9a7fc8c865232" title=" " alt="" coords="785,564,931,590"/>
+<area shape="rect" id="node24" href="$class_cross_sections.html#a1f12813590db5d6c97738e2829978baf" title=" " alt="" coords="783,318,933,343"/>
+<area shape="rect" id="node25" href="$class_cross_sections.html#ac6a27c36a58feb3e50593c2ede83a86c" title=" " alt="" coords="785,367,931,392"/>
+<area shape="rect" id="node10" href="$class_cross_planes_gizmo.html#a94b961d0269fe0c611bcf904228cd5b9" title=" " alt="" coords="275,334,472,359"/>
+<area shape="rect" id="node11" href="$class_cube_text.html#a88636f4b123b3acb4897bfbf02fb3d6e" title=" " alt="" coords="31,432,199,458"/>
+<area shape="rect" id="node12" href="$class_cross_planes_gizmo.html#a411e610493135abbf62a01fa543e6c61" title=" " alt="" coords="272,434,475,474"/>
+<area shape="rect" id="node13" href="$class_gizmo_behaviour.html#a0a2c01ceb887601b474da9e2810fd9b1" title=" " alt="" coords="281,522,466,562"/>
+<area shape="rect" id="node15" href="$class_cross_planes_gizmo.html#ace50ea1c3f2f85b2829314344247bea0" title=" " alt="" coords="286,587,461,612"/>
+<area shape="rect" id="node16" href="$class_cross_planes_gizmo.html#a99f69ffdc4795ac17b496d9987d38889" title=" " alt="" coords="285,636,461,662"/>
+<area shape="rect" id="node17" href="$class_cross_planes_gizmo.html#a0c27776d629809358d0e8e356822f31a" title=" " alt="" coords="286,284,461,310"/>
+<area shape="rect" id="node14" href="$class_gizmo_behaviour.html#ab2d383b2ea19e7d390ccdfe70b412efc" title=" " alt="" coords="5,530,224,555"/>
+<area shape="rect" id="node22" href="$class_cross_planes_gizmo.html#af27a3ba88990ae0e73b90b6d6e7907b8" title=" " alt="" coords="525,268,711,294"/>
+</map>

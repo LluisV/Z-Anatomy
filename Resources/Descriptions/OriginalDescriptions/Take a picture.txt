@@ -1,0 +1,41 @@
+
+
+TAKE A PICTURE
+
+
+Press '0'(Numpad zero) to pass in camera view
+
+Press 'G' to move
+Press 'G+Z' to move on the Z-Axis (vertical)
+Press 'G+X' to move on the X-Axis (horizontal)
+
+Press 'R+R' to rotate freely
+Press 'R+Z' to rotate along the Z-Axis
+Press 'R+X' to rotate along the X-Axis
+
+Press 'S' to resize the camera
+
+Press 'F12' to Render an image
+Press 'F3' to save this image in a folder of your choice
+
+Press 'Ctrl+F12' to Render an animation.
+
+Go to Properties>Output properties>Format>Resolution
+To change the proportions, definition and/or compression.
+
+---
+
+This setup -in which the 'Orthographic scale' is driven by the 'Take a picture' object's size, and is parented to it; is meant to facilitate the rendering of images.
+
+(The usual rendering mode can be recreated adding a new camera, setting it to active camera (Select it and press 'Ctrl+0').
+
+In the customized'Anatomy Shortcuts', pressing 'F12' creates a 'Viewport Render' instead of the traditional 'Render'because it is faster and only shows what you see in the viewport.
+
+If you want to use the compositing (post-rendering effects):
+-Press 'N' to open the menu
+-Go to 'Visibility' and Press 'Sync Visibility'
+This step will make sure that what you see is what you get.
+-Render > RenderImage/Animation
+
+
+

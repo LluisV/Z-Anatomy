@@ -1,0 +1,744 @@
+
+
+SUPRACHIASMATIC NUCLEUS
+
+
+The suprachiasmatic nucleus or nuclei (SCN) is a tiny region of the brain in the hypothalamus, situated directly above the optic chiasm. 
+
+It is responsible for controlling circadian rhythms. 
+
+The neuronal and hormonal activities it generates regulate many different body functions in a 24-hour cycle. 
+
+The mouse SCN contains approximately 20,000 neurons.The SCN interacts with many other regions of the brain. 
+
+It contains several cell types and several different peptides (including vasopressin and vasoactive intestinal peptide) and neurotransmitters.
+
+
+== Neuroanatomy ==
+
+The SCN is situated in the anterior part of the hypothalamus immediately dorsal, or superior (hence supra) to the optic chiasm (CHO) bilateral to (on either side of) the third ventricle.
+The nucleus can be divided into ventrolateral and dorsolateral portions, also known as the core and shell, respectively. 
+
+These regions differ in their expression of the clock genes, the core expresses them in response to stimuli whereas the shell expresses them constitutively.
+In terms of projections, the core receives innervation via three main pathways, the retinohypothalamic tract, geniculohypothalamic tract, and projections from some Raphe nuclei. 
+
+Dorsomedial SCN is mainly innervated by the core and also by other hypothalamic areas. 
+
+Lastly, its output is mainly to the subparaventricular zone and dorsomedial hypothalamic nucleus which both mediate the influence SCN exerts over circadian regulation of the body.
+
+
+== Circadian effects ==
+
+Different organisms such as bacteria, plants, fungi, and animals, show genetically based near-24-hour rhythms. 
+
+Although all of these clocks appear to be based on a similar type of genetic feedback loop, the specific genes involved are thought to have evolved independently in each kingdom. 
+
+Many aspects of mammalian behavior and physiology show circadian rhythmicity, including sleep, physical activity, alertness, hormone levels, body temperature, immune function, and digestive activity. 
+
+The SCN coordinates these rhythms across the entire body, and rhythmicity is lost if the SCN is destroyed. 
+
+For example, total time of sleep is maintained in rats with SCN damage, but the length and timing of sleep episodes becomes erratic. 
+
+The SCN maintains control across the body by synchronizing "slave oscillators," which exhibit their own near-24-hour rhythms and control circadian phenomena in local tissue.The SCN receives input from specialized photosensitive ganglion cells in the retina via the retinohypothalamic tract. 
+
+Neurons in the ventrolateral SCN (vlSCN) have the ability for light-induced gene expression. 
+
+Melanopsin-containing ganglion cells in the retina have a direct connection to the ventrolateral SCN via the retinohypothalamic tract. 
+
+When the retina receives light, the vlSCN relays this information throughout the SCN allowing entrainment, synchronization, of the person's or animal's daily rhythms to the 24-hour cycle in nature. 
+
+The importance of entraining organisms, including humans, to exogenous cues such as the light/dark cycle, is reflected by several circadian rhythm sleep disorders, where this process does not function normally.Neurons in the dorsomedial SCN (dmSCN) are believed to have an endogenous 24-hour rhythm that can persist under constant darkness (in humans averaging about 24 hours 11 min). 
+
+A GABAergic mechanism is involved in the coupling of the ventral and dorsal regions of the SCN.The SCN sends information to other hypothalamic nuclei and the pineal gland to modulate body temperature and production of hormones such as cortisol and melatonin.
+
+
+== Circadian rhythms of endothermic (warm-blooded) and ectothermic (cold-blooded) vertebrates ==
+
+
+Information about the direct neuronal regulation of metabolic processes and circadian rhythm-controlled behaviors is not well known among either endothermic or ectothermic vertebrates, although extensive research has been done on the SCN in model animals such as the mammalian mouse and ectothermic reptiles, in particular, lizards. 
+
+The SCN is known to be involved not only in photoreception through innervation from the retinohypothalamic tract but also in thermoregulation of vertebrates capable of homeothermy, as well as regulating locomotion and other behavioral outputs of the circadian clock within ectothermic vertebrates. 
+
+The behavioral differences between both classes of vertebrates, when compared to the respective structures and properties of the SCN and various other nuclei proximate to the hypothalamus, provide insight into how these behaviors are the consequence of differing circadian regulation. 
+
+Ultimately, many neuroethological studies must be done to completely ascertain the direct and indirect roles of the SCN on circadian-regulated behaviors of vertebrates.
+
+
+=== The SCN of endotherms and ectotherms ===
+
+In general, external temperature does not influence endothermic animal behavior or circadian rhythm because of the ability of these animals to keep their internal body temperature constant through homeostatic thermoregulation; however, peripheral oscillators (see Circadian rhythm) in mammals are sensitive to temperature pulses and will experience resetting of the circadian clock phase and associated genetic expression, suggesting how peripheral circadian oscillators may be separate entities from one another despite having a master oscillator within the SCN. 
+
+Furthermore, when individual neurons of the SCN from a mouse were treated with heat pulses, a similar resetting of oscillators was observed, but when an intact SCN was treated with the same heat pulse treatment the SCN was resistant to temperature change by exhibiting an unaltered circadian oscillating phase. 
+
+In ectothermic animals, particularly the ruin lizard Podacris sicula, temperature has been shown to affect the circadian oscillators within the SCN. 
+
+This reflects a potential evolutionary relationship among endothermic and ectothermic vertebrates, in how ectotherms rely on environmental temperature to affect their circadian rhythms and behavior and endotherms have an evolved SCN to essentially ignore external temperature and use photoreception as a means for entraining the circadian oscillators within their SCN. 
+
+In addition, the differences of the SCN between endothermic and ectothermic vertebrates suggest that the neuronal organization of the temperature-resistant SCN in endotherms is responsible for driving thermoregulatory behaviors in those animals differently from those of ectotherms, since they rely on external temperature for engaging in certain behaviors.
+
+
+=== Behaviors controlled by the SCN of vertebrates ===
+
+Significant research has been conducted on the genes responsible for controlling circadian rhythm, in particular within the SCN. 
+
+Knowledge of the gene expression of Clock (Clk) and Period2 (Per2), two of the many genes responsible for regulating circadian rhythm within the individual cells of the SCN, has allowed for a greater understanding of how genetic expression influences the regulation of circadian rhythm-controlled behaviors. 
+
+Studies on thermoregulation of ruin lizards and mice have informed some connections between the neural and genetic components of both vertebrates when experiencing induced hypothermic conditions. 
+
+Certain findings have reflected how evolution of SCN both structurally and genetically has resulted in the engagement of characteristic and stereotyped thermoregulatory behavior in both classes of vertebrates.
+
+Mice: Among vertebrates, it is known that mammals are endotherms that are capable of homeostatic thermoregulation. 
+
+Mice have been shown to have some thermosensitivity within the SCN, although the regulation of body temperature by mice experiencing hypothermia is more sensitive to whether they are in a bright or dark environment; it has been shown that mice in darkened conditions and experiencing hypothermia maintain a stable internal body temperature, even while fasting. 
+
+In light conditions, mice showed a drop in body temperature under the same fasting and hypothermic conditions. 
+
+Through analyzing genetic expression of Clock genes in wild-type and knockout strains, as well as analyzing the activity of neurons within the SCN and connections to proximate nuclei of the hypothalamus in the aforementioned conditions, it has been shown that the SCN is the center of control for circadian body temperature rhythm. 
+
+This circadian control, thus, includes both direct and indirect influence of many of the thermoregulatory behaviors that mammals engage in to maintain homeostasis.
+Ruin lizards: Several studies have been conducted on the genes expressed in circadian oscillating cells of the SCN during various light and dark conditions, as well as effects from inducing mild hypothermia in reptiles. 
+
+In terms of structure, the SCNs of lizards have a closer resemblance to those of mice, possessing a dorsomedial portion and a ventrolateral core. 
+
+However, genetic expression of the circadian-related Per2 gene in lizards is similar to that in reptiles and birds, despite the fact that birds have been known to have a distinct SCN structure consisting of a lateral and medial portion. 
+
+Studying the lizard SCN because of the lizard's small body size and ectothermy is invaluable to understanding how this class of vertebrates modifies its behavior within the dynamics of circadian rhythm, but it has not yet been determined whether the systems of cold-blooded vertebrates were slowed as a result of decreased activity in the SCN or showed decreases in metabolic activity as a result of hypothermia.
+
+
+== Other signals from the retina ==
+
+
+The SCN is one of many nuclei that receive nerve signals directly from the retina.
+Some of the others are the lateral geniculate nucleus (LGN), the superior colliculus, the basal optic system, and the pretectum:
+
+The LGN passes information about color, contrast, shape, and movement on to the visual cortex and itself signals to the SCN.
+The superior colliculus controls the movement and orientation of the eye.
+The basal optic system also controls eye movements.
+The pretectum controls the size of the pupil.
+
+
+== Gene expression ==
+
+The circadian rhythm in the SCN is generated by a gene expression cycle in individual SCN neurons. 
+
+This cycle has been well conserved through evolution and in essence is similar in cells from many widely different organisms that show circadian rhythms. 
+
+For example, although fruit flies (like all invertebrates) do not have an SCN, the cycle is largely similar to that of mammals. 
+
+It is currently thought that all animals share a common root in their circadian rhythm.
+
+
+=== Fruitfly ===
+
+
+In the fruitfly Drosophila, the cellular circadian rhythm in neurons is controlled by two interlocked feedback loops.
+
+In the first loop, the bHLH transcription factors clock (CLK) and cycle (CYC) drive the transcription of their own repressors period (PER) and timeless (TIM). 
+
+PER and TIM proteins then accumulate in the cytoplasm, translocate into the nucleus at night, and turn off their own transcription, thereby setting up a 24-hour oscillation of transcription and translation.
+In the second loop, the transcription factors vrille (VRI) and Pdp1 are initiated by CLK/CYC. 
+
+PDP1 acts positively on CLK transcription and negatively on VRI.These genes encode various transcription factors that trigger expression of other proteins. 
+
+The products of clock and cycle, called CLK and CYC, belong to the PAS-containing subfamily of the basic helix-loop-helix (bHLH) family of transcription factors, and form a heterodimer. 
+
+This heterodimer (CLK-CYC) initiates the transcription of PER and TIM, whose protein products dimerize and then inhibit their own expression by disrupting CLK-CYC-mediated transcription. 
+
+This negative feedback mechanism gives a 24-hour rhythm in the expression of the clock genes. 
+
+Many genes are suspected to be linked to circadian control by "E-box elements" in their promoters, as CLK-CYC and its homologs bind to these elements.
+The 24-hour rhythm could be reset by light via the protein cryptochrome (CRY), which is involved in the circadian photoreception in Drosophila. 
+
+CRY associates with TIM in a light-dependent manner that leads to the destruction of TIM. 
+
+Without the presence of TIM for stabilization, PER is eventually destroyed during the day. 
+
+As a result, the repression of CLK-CYC is reduced and the whole cycle reinitiates again.
+
+
+=== Mammals ===
+
+
+In mammals, circadian clock genes behave in a manner similar to that of flies.
+CLOCK (circadian locomotor output cycles kaput) was first cloned in mouse and BMAL1 (brain and muscle aryl hydrocarbon receptor nuclear translocator (ARNT)-like 1) is the primary homolog of Drosophila CYC.
+Three homologs of PER (PER1, PER2, and PER3) and two CRY homologs (CRY1 and CRY2) have been identified.
+TIM has been identified in mammals; however, its function is still not determined. 
+
+Mutations in TIM result in an inability to respond to zeitgebers, which is essential for resetting the biological clock.Recent research suggests that, outside the SCN, clock genes may have other important roles as well, including their influence on the effects of drugs of abuse such as cocaine.
+
+
+== Electrophysiology ==
+
+Neurons in the SCN fire action potentials in a 24-hour rhythm. 
+
+At mid-day, the firing rate reaches a maximum, and, during the night, it falls again. 
+
+How the gene expression cycle (so-called the core clock) connects to the neural firing remains unknown.Many SCN neurons are sensitive to light stimulation via the retina, and sustainedly firing action potentials during a light pulse (~30 seconds) in rodents. 
+
+The photic response is likely linked to effects of light on circadian rhythms. 
+
+In addition, focal application of melatonin can decrease firing activity of these neurons, suggesting that melatonin receptors present in the SCN mediate phase-shifting effects through the SCN.
+
+
+
+https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus
+;;;ES;;;
+
+
+
+NÚCLEO SUPRAQUIASMÁTICO
+
+
+El núcleo o núcleos supraquiasmáticos (SCN) es una pequeña región del cerebro en el hipotálamo, situada directamente sobre el quiasma óptico.
+
+Se encarga de controlar los ritmos circadianos.
+
+Las actividades neuronales y hormonales que genera regulan muchas funciones corporales diferentes en un ciclo de 24 horas.
+
+El SCN de ratón contiene aproximadamente 20.000 neuronas. El SCN interactúa con muchas otras regiones del cerebro.
+
+Contiene varios tipos de células y varios péptidos diferentes (incluyendo vasopresina y péptido intestinal vasoactivo) y neurotransmisores.
+
+
+== Neuroanatomía ==
+
+El SCN está situado en la parte anterior del hipotálamo inmediatamente dorsal, o superior (por lo tanto supra) al quiasma óptico (CHO) bilateral a (a cada lado de) el tercer ventrículo.
+El núcleo se puede dividir en porciones ventrolateral y dorsolateral, también conocidas como núcleo y capa, respectivamente.
+
+Estas regiones difieren en la expresión de los genes del reloj, el núcleo los expresa en respuesta a estímulos mientras que el caparazón los expresa de manera constitutiva.
+En términos de proyecciones, el núcleo recibe inervación a través de tres vías principales, el tracto retinohipotalámico, el tracto geniculohipotalámico y proyecciones de algunos núcleos de Raphe.
+
+El SCN dorsomedial está inervado principalmente por el núcleo y también por otras áreas hipotalámicas.
+
+Por último, su salida es principalmente a la zona subparaventricular y al núcleo hipotalámico dorsomedial, que median la influencia que ejerce el SCN sobre la regulación circadiana del cuerpo.
+
+
+== Efectos circadianos ==
+
+Diferentes organismos, como bacterias, plantas, hongos y animales, muestran ritmos de casi 24 horas con base genética.
+
+Aunque todos estos relojes parecen estar basados ​​en un tipo similar de ciclo de retroalimentación genética, se cree que los genes específicos involucrados han evolucionado independientemente en cada reino.
+
+Muchos aspectos del comportamiento y la fisiología de los mamíferos muestran un ritmo circadiano, incluido el sueño, la actividad física, el estado de alerta, los niveles hormonales, la temperatura corporal, la función inmunológica y la actividad digestiva.
+
+El SCN coordina estos ritmos en todo el cuerpo y la ritmicidad se pierde si se destruye el SCN.
+
+Por ejemplo, el tiempo total de sueño se mantiene en ratas con daño en el SCN, pero la duración y el momento de los episodios de sueño se vuelven erráticos.
+
+El SCN mantiene el control en todo el cuerpo mediante la sincronización de "osciladores esclavos", que exhiben sus propios ritmos de casi 24 horas y controlan los fenómenos circadianos en el tejido local. El SCN recibe información de células ganglionares fotosensibles especializadas en la retina a través del tracto retinohipotalámico.
+
+Las neuronas en el SCN ventrolateral (vlSCN) tienen la capacidad de expresión génica inducida por la luz.
+
+Las células ganglionares que contienen melanopsina en la retina tienen una conexión directa con el SCN ventrolateral a través del tracto retinohipotalámico.
+
+Cuando la retina recibe luz, el vlSCN transmite esta información a través del SCN, lo que permite el arrastre y la sincronización de los ritmos diarios de la persona o el animal con el ciclo de 24 horas en la naturaleza.
+
+La importancia de entrenar a los organismos, incluidos los humanos, a las señales exógenas, como el ciclo de luz/oscuridad, se refleja en varios trastornos del sueño del ritmo circadiano, donde este proceso no funciona normalmente. Se cree que las neuronas en el SCN dorsomedial (dmSCN) tienen un Ritmo endógeno de 24 horas que puede persistir en la oscuridad constante (en humanos con un promedio de 24 horas y 11 minutos).
+
+Un mecanismo GABAérgico está involucrado en el acoplamiento de las regiones ventral y dorsal del SCN. El SCN envía información a otros núcleos hipotalámicos y la glándula pineal para modular la temperatura corporal y la producción de hormonas como el cortisol y la melatonina.
+
+
+== Ritmos circadianos de vertebrados endotérmicos (de sangre caliente) y ectotérmicos (de sangre fría) ==
+
+
+La información sobre la regulación neuronal directa de los procesos metabólicos y los comportamientos controlados por el ritmo circadiano no se conoce bien entre los vertebrados endotérmicos o ectotérmicos, aunque se han realizado amplias investigaciones sobre el SCN en animales modelo como el ratón mamífero y los reptiles ectotérmicos, en particular. lagartos
+
+Se sabe que el SCN está involucrado no solo en la fotorrecepción a través de la inervación del tracto retinohipotalámico, sino también en la termorregulación de los vertebrados capaces de la homeotermia, así como en la regulación de la locomoción y otras salidas conductuales del reloj circadiano dentro de los vertebrados ectotérmicos.
+
+Las diferencias de comportamiento entre ambas clases de vertebrados, cuando se comparan con las estructuras y propiedades respectivas del SCN y varios otros núcleos próximos al hipotálamo, brindan una idea de cómo estos comportamientos son la consecuencia de una regulación circadiana diferente.
+
+En última instancia, se deben realizar muchos estudios neuroetológicos para determinar completamente los roles directos e indirectos del SCN en los comportamientos regulados por el ritmo circadiano de los vertebrados.
+
+
+=== El SCN de endotermos y ectotermos ===
+
+En general, la temperatura externa no influye en el comportamiento endotérmico de los animales ni en el ritmo circadiano debido a la capacidad de estos animales para mantener constante su temperatura corporal interna a través de la termorregulación homeostática; sin embargo, los osciladores periféricos (ver Ritmo circadiano) en los mamíferos son sensibles a los pulsos de temperatura y experimentarán un reinicio de la fase del reloj circadiano y la expresión genética asociada, lo que sugiere cómo los osciladores circadianos periféricos pueden ser entidades separadas entre sí a pesar de tener un oscilador maestro dentro del SCN. .
+
+Además, cuando las neuronas individuales del SCN de un ratón se trataron con pulsos de calor, se observó un restablecimiento similar de los osciladores, pero cuando se trató un SCN intacto con el mismo tratamiento con pulsos de calor, el SCN fue resistente al cambio de temperatura al exhibir un ritmo circadiano inalterado. fase oscilante.
+
+En animales ectotérmicos, particularmente en la lagartija ruinosa Podacris sicula, se ha demostrado que la temperatura afecta los osciladores circadianos dentro del SCN.
+
+Esto refleja una relación evolutiva potencial entre los vertebrados endotérmicos y ectotérmicos, en la forma en que los ectotermos dependen de la temperatura ambiental para afectar sus ritmos y comportamiento circadianos y los endotermos tienen un SCN evolucionado para ignorar esencialmente la temperatura externa y usar la fotorrecepción como un medio para arrastrar los osciladores circadianos dentro de su SCN.
+
+Además, las diferencias del SCN entre los vertebrados endotérmicos y ectotérmicos sugieren que la organización neuronal del SCN resistente a la temperatura en los endotermos es responsable de impulsar los comportamientos de termorregulación en esos animales de manera diferente a los de los ectotermos, ya que dependen de la temperatura externa para participar. ciertos comportamientos.
+
+
+=== Comportamientos controlados por el SCN de los vertebrados ===
+
+Se han realizado importantes investigaciones sobre los genes responsables de controlar el ritmo circadiano, en particular dentro del SCN.
+
+El conocimiento de la expresión génica de Clock (Clk) y Period2 (Per2), dos de los muchos genes responsables de regular el ritmo circadiano dentro de las células individuales del SCN, ha permitido una mayor comprensión de cómo la expresión genética influye en la regulación del ritmo circadiano. -Comportamientos controlados.
+
+Los estudios sobre la termorregulación de lagartijas y ratones ruinosos han informado algunas conexiones entre los componentes neurales y genéticos de ambos vertebrados cuando experimentan condiciones hipotérmicas inducidas.
+
+Ciertos hallazgos han reflejado cómo la evolución de SCN, tanto estructural como genéticamente, ha resultado en el compromiso de un comportamiento termorregulador característico y estereotipado en ambas clases de vertebrados.
+
+Ratones: Entre los vertebrados, se sabe que los mamíferos son endotermos que son capaces de termorregulación homeostática.
+
+Se ha demostrado que los ratones tienen cierta termosensibilidad dentro del SCN, aunque la regulación de la temperatura corporal por parte de los ratones que experimentan hipotermia es más sensible a si están en un ambiente brillante u oscuro; se ha demostrado que los ratones en condiciones de oscuridad y que experimentan hipotermia mantienen una temperatura corporal interna estable, incluso en ayunas.
+
+En condiciones de luz, los ratones mostraron una caída en la temperatura corporal bajo las mismas condiciones de ayuno e hipotermia.
+
+Mediante el análisis de la expresión genética de los genes Clock en cepas de tipo salvaje y knockout, así como el análisis de la actividad de las neuronas dentro del SCN y las conexiones con los núcleos próximos del hipotálamo en las condiciones antes mencionadas, se ha demostrado que el SCN es el centro de control del ritmo circadiano de la temperatura corporal.
+
+Este control circadiano, por lo tanto, incluye la influencia directa e indirecta de muchos de los comportamientos termorreguladores que realizan los mamíferos para mantener la homeostasis.
+Lagartos de ruina: se han realizado varios estudios sobre los genes expresados ​​en las células oscilantes circadianas del SCN durante diversas condiciones de luz y oscuridad, así como los efectos de la inducción de hipotermia leve en reptiles.
+
+En términos de estructura, los SCN de los lagartos se parecen más a los de los ratones, ya que poseen una porción dorsomedial y un núcleo ventrolateral.
+
+Sin embargo, la expresión genética del gen Per2 relacionado con el ritmo circadiano en los lagartos es similar a la de los reptiles y las aves, a pesar de que se sabe que las aves tienen una estructura distinta del SCN que consta de una porción lateral y otra media.
+
+Estudiar el SCN del lagarto debido al tamaño pequeño del cuerpo del lagarto y la ectotermia es invaluable para comprender cómo esta clase de vertebrados modifica su comportamiento dentro de la dinámica del ritmo circadiano, pero aún no se ha determinado si los sistemas de los vertebrados de sangre fría se ralentizaron como como resultado de una disminución de la actividad en el SCN o mostraron disminuciones en la actividad metabólica como resultado de la hipotermia.
+
+
+== Otras señales de la retina ==
+
+
+El SCN es uno de los muchos núcleos que reciben señales nerviosas directamente de la retina.
+Algunos de los otros son el núcleo geniculado lateral (LGN), el colículo superior, el sistema óptico basal y el pretectum:
+
+El LGN transmite información sobre el color, el contraste, la forma y el movimiento a la corteza visual y envía señales al SCN.
+El colículo superior controla el movimiento y la orientación del ojo.
+El sistema óptico basal también controla los movimientos oculares.
+El pretectum controla el tamaño de la pupila.
+
+
+== Expresión génica ==
+
+El ritmo circadiano en el SCN es generado por un ciclo de expresión génica en neuronas individuales del SCN.
+
+Este ciclo se ha conservado bien a lo largo de la evolución y, en esencia, es similar en células de muchos organismos muy diferentes que muestran ritmos circadianos.
+
+Por ejemplo, aunque las moscas de la fruta (como todos los invertebrados) no tienen un SCN, el ciclo es muy similar al de los mamíferos.
+
+Actualmente se piensa que todos los animales comparten una raíz común en su ritmo circadiano.
+
+
+=== Mosca de la fruta ===
+
+
+En la mosca de la fruta Drosophila, el ritmo circadiano celular en las neuronas está controlado por dos bucles de retroalimentación entrelazados.
+
+En el primer bucle, los factores de transcripción de bHLH reloj (CLK) y ciclo (CYC) impulsan la transcripción de sus propios represores de período (PER) y atemporal (TIM).
+
+Las proteínas PER y TIM luego se acumulan en el citoplasma, se trasladan al núcleo por la noche y apagan su propia transcripción, lo que establece una oscilación de transcripción y traducción de 24 horas.
+En el segundo bucle, los factores de transcripción vrille (VRI) y Pdp1 son iniciados por CLK/CYC.
+
+PDP1 actúa positivamente en la transcripción de CLK y negativamente en VRI. Estos genes codifican varios factores de transcripción que desencadenan la expresión de otras proteínas.
+
+Los productos del reloj y el ciclo, llamados CLK y CYC, pertenecen a la subfamilia que contiene PAS de la familia básica de factores de transcripción helix-loop-helix (bHLH) y forman un heterodímero.
+
+Este heterodímero (CLK-CYC) inicia la transcripción de PER y TIM, cuyos productos proteicos se dimerizan y luego inhiben su propia expresión al interrumpir la transcripción mediada por CLK-CYC.
+
+Este mecanismo de retroalimentación negativa da un ritmo de 24 horas en la expresión de los genes del reloj.
+
+Se sospecha que muchos genes están relacionados con el control circadiano por "elementos de caja E" en sus promotores, ya que CLK-CYC y sus homólogos se unen a estos elementos.
+El ritmo de 24 horas podría restablecerse mediante la luz a través de la proteína criptocromo (CRY), que está involucrada en la fotorrecepción circadiana en Drosophila.
+
+CRY se asocia con TIM de una manera dependiente de la luz que conduce a la destrucción de TIM.
+
+Sin la presencia de TIM para la estabilización, PER finalmente se destruye durante el día.
+
+Como resultado, la represión de CLK-CYC se reduce y todo el ciclo se reinicia nuevamente.
+
+
+=== Mamíferos ===
+
+
+En los mamíferos, los genes del reloj circadiano se comportan de manera similar a las moscas.
+CLOCK (ciclos locomotores circadianos kaput) se clonó por primera vez en ratones y BMAL1 (translocador nuclear del receptor de arilo de hidrocarburos del cerebro y los músculos (ARNT) similar a 1) es el homólogo principal de Drosophila CYC.
+Se han identificado tres homólogos de PER (PER1, PER2 y PER3) y dos homólogos de CRY (CRY1 y CRY2).
+TIM se ha identificado en mamíferos; sin embargo, su función aún no está determinada.
+
+Las mutaciones en TIM dan como resultado una incapacidad para responder a los zeitgebers, lo cual es esencial para restablecer el reloj biológico. Investigaciones recientes sugieren que, fuera del SCN, los genes del reloj también pueden tener otras funciones importantes, incluida su influencia en los efectos de las drogas de abuso. como la cocaína.
+
+
+== Electrofisiología ==
+
+Las neuronas en el SCN disparan potenciales de acción en un ritmo de 24 horas.
+
+Al mediodía, la tasa de disparo alcanza un máximo y, durante la noche, vuelve a caer.
+
+Aún se desconoce cómo se conecta el ciclo de expresión génica (el llamado reloj central) con la activación neuronal. Muchas neuronas del SCN son sensibles a la estimulación de la luz a través de la retina y activan potenciales de acción sostenidos durante un pulso de luz (~ 30 segundos) en roedores.
+
+La respuesta fótica probablemente esté relacionada con los efectos de la luz en los ritmos circadianos.
+
+Además, la aplicación focal de melatonina puede disminuir la actividad de disparo de estas neuronas, lo que sugiere que los receptores de melatonina presentes en el SCN median los efectos de cambio de fase a través del SCN.
+
+
+
+https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus
+
+;;;PT;;;
+
+
+
+NÚCLEO SUPRAQUIASMÁTICO
+
+
+O núcleo ou núcleos supraquiasmáticos (SCN) é uma pequena região do cérebro no hipotálamo, situada diretamente acima do quiasma óptico.
+
+É responsável por controlar os ritmos circadianos.
+
+As atividades neuronais e hormonais que ele gera regulam muitas funções corporais diferentes em um ciclo de 24 horas.
+
+O SCN do camundongo contém aproximadamente 20.000 neurônios. O SCN interage com muitas outras regiões do cérebro.
+
+Ele contém vários tipos de células e vários peptídeos diferentes (incluindo vasopressina e peptídeo intestinal vasoativo) e neurotransmissores.
+
+
+== Neuroanatomia ==
+
+O SCN está situado na parte anterior do hipotálamo imediatamente dorsal, ou superior (portanto supra) ao quiasma óptico (CHO) bilateral para (em ambos os lados) do terceiro ventrículo.
+O núcleo pode ser dividido em porções ventrolateral e dorsolateral, também conhecidas como núcleo e concha, respectivamente.
+
+Essas regiões diferem na expressão dos genes do relógio, o núcleo os expressa em resposta a estímulos, enquanto o shell os expressa constitutivamente.
+Em termos de projeções, o núcleo recebe inervação através de três vias principais, o trato retino-hipotalâmico, trato geniculo-hipotalâmico e projeções de alguns núcleos da Rafe.
+
+O SCN dorsomedial é inervado principalmente pelo núcleo e também por outras áreas hipotalâmicas.
+
+Por fim, sua saída é principalmente para a zona subparaventricular e o núcleo hipotalâmico dorsomedial que medeiam a influência que o SCN exerce sobre a regulação circadiana do corpo.
+
+
+== Efeitos circadianos ==
+
+Organismos diferentes, como bactérias, plantas, fungos e animais, mostram ritmos de quase 24 horas com base genética.
+
+Embora todos esses relógios pareçam ser baseados em um tipo similar de retroalimentação genética, acredita-se que os genes específicos envolvidos tenham evoluído independentemente em cada reino.
+
+Muitos aspectos do comportamento e fisiologia dos mamíferos mostram ritmicidade circadiana, incluindo sono, atividade física, estado de alerta, níveis hormonais, temperatura corporal, função imunológica e atividade digestiva.
+
+O SCN coordena esses ritmos em todo o corpo e a ritmicidade é perdida se o SCN for destruído.
+
+Por exemplo, o tempo total de sono é mantido em ratos com danos no SCN, mas a duração e o tempo dos episódios de sono tornam-se erráticos.
+
+O SCN mantém o controle em todo o corpo sincronizando "osciladores escravos", que exibem seus próprios ritmos de quase 24 horas e controlam os fenômenos circadianos no tecido local.
+
+Neurônios no SCN ventrolateral (vlSCN) têm a capacidade de expressão gênica induzida pela luz.
+
+As células ganglionares contendo melanopsina na retina têm uma conexão direta com o SCN ventrolateral através do trato retino-hipotalâmico.
+
+Quando a retina recebe luz, o vlSCN retransmite essa informação por todo o SCN, permitindo o arrastamento, sincronização, dos ritmos diários da pessoa ou do animal para o ciclo de 24 horas na natureza.
+
+A importância de arrastar organismos, incluindo humanos, para pistas exógenas, como o ciclo claro/escuro, é refletida por vários distúrbios do sono do ritmo circadiano, onde esse processo não funciona normalmente. ritmo endógeno de 24 horas que pode persistir sob escuridão constante (em humanos com média de cerca de 24 horas e 11 minutos).
+
+Um mecanismo GABAérgico está envolvido no acoplamento das regiões ventral e dorsal do SCN. O SCN envia informações para outros núcleos hipotalâmicos e a glândula pineal para modular a temperatura corporal e a produção de hormônios como cortisol e melatonina.
+
+
+== Ritmos circadianos de vertebrados endotérmicos (de sangue quente) e ectotérmicos (de sangue frio) ==
+
+
+Informações sobre a regulação neuronal direta de processos metabólicos e comportamentos controlados pelo ritmo circadiano não são bem conhecidas entre vertebrados endotérmicos ou ectotérmicos, embora extensa pesquisa tenha sido feita sobre o SCN em animais modelo, como o camundongo mamífero e répteis ectotérmicos, em particular, lagartos.
+
+O SCN é conhecido por estar envolvido não apenas na fotorrecepção através da inervação do trato retino-hipotalâmico, mas também na termorregulação de vertebrados capazes de homeotermia, bem como na regulação da locomoção e outras saídas comportamentais do relógio circadiano em vertebrados ectotérmicos.
+
+As diferenças comportamentais entre as duas classes de vertebrados, quando comparadas com as respectivas estruturas e propriedades do SCN e vários outros núcleos próximos ao hipotálamo, fornecem uma visão de como esses comportamentos são consequência de diferentes regulação circadiana.
+
+Em última análise, muitos estudos neuroetológicos devem ser feitos para determinar completamente os papéis diretos e indiretos do SCN em comportamentos regulados circadianos de vertebrados.
+
+
+=== O SCN de endotérmicos e ectotérmicos ===
+
+Em geral, a temperatura externa não influencia o comportamento endotérmico dos animais ou o ritmo circadiano devido à capacidade desses animais de manter a temperatura corporal interna constante por meio da termorregulação homeostática; no entanto, osciladores periféricos (ver ritmo circadiano) em mamíferos são sensíveis a pulsos de temperatura e experimentarão a redefinição da fase do relógio circadiano e expressão genética associada, sugerindo como os osciladores circadianos periféricos podem ser entidades separadas umas das outras, apesar de terem um oscilador mestre dentro do SCN .
+
+Além disso, quando neurônios individuais do SCN de um camundongo foram tratados com pulsos de calor, foi observada uma redefinição semelhante de osciladores, mas quando um SCN intacto foi tratado com o mesmo tratamento de pulso de calor, o SCN foi resistente à mudança de temperatura exibindo um circadiano inalterado. fase oscilante.
+
+Em animais ectotérmicos, particularmente o lagarto da ruína Podacris sicula, a temperatura demonstrou afetar os osciladores circadianos dentro do SCN.
+
+Isso reflete uma potencial relação evolutiva entre vertebrados endotérmicos e ectotérmicos, em como os ectotérmicos dependem da temperatura ambiental para afetar seus ritmos e comportamento circadianos e os endotérmicos têm um SCN evoluído para ignorar essencialmente a temperatura externa e usar a fotorrecepção como um meio para arrastar os osciladores circadianos dentro de suas células. SCN.
+
+Além disso, as diferenças do SCN entre vertebrados endotérmicos e ectotérmicos sugerem que a organização neuronal do SCN resistente à temperatura em endotérmicos é responsável por conduzir comportamentos termorregulatórios nesses animais de forma diferente daqueles de ectotérmicos, uma vez que eles dependem da temperatura externa para se envolver em certos comportamentos.
+
+
+=== Comportamentos controlados pelo SCN de vertebrados ===
+
+Pesquisas significativas foram realizadas sobre os genes responsáveis ​​pelo controle do ritmo circadiano, em particular no SCN.
+
+O conhecimento da expressão gênica de Clock (Clk) e Period2 (Per2), dois dos muitos genes responsáveis ​​pela regulação do ritmo circadiano dentro das células individuais do SCN, permitiu uma maior compreensão de como a expressão genética influencia a regulação do ritmo circadiano comportamentos controlados.
+
+Estudos sobre a termorregulação de lagartos e camundongos da ruína informaram algumas conexões entre os componentes neurais e genéticos de ambos os vertebrados ao experimentar condições hipotérmicas induzidas.
+
+Certas descobertas refletiram como a evolução do SCN tanto estrutural quanto geneticamente resultou no envolvimento de comportamento termorregulatório característico e estereotipado em ambas as classes de vertebrados.
+
+Camundongos: Entre os vertebrados, sabe-se que os mamíferos são endotérmicos capazes de termorregulação homeostática.
+
+Os camundongos demonstraram ter alguma termossensibilidade dentro do SCN, embora a regulação da temperatura corporal por camundongos com hipotermia seja mais sensível ao fato de estarem em um ambiente claro ou escuro; foi demonstrado que camundongos em condições escuras e com hipotermia mantêm uma temperatura corporal interna estável, mesmo em jejum.
+
+Em condições de luz, os camundongos apresentaram queda na temperatura corporal sob as mesmas condições de jejum e hipotermia.
+
+Através da análise da expressão genética dos genes Clock em cepas do tipo selvagem e knockout, bem como da análise da atividade dos neurônios dentro do SCN e conexões com os núcleos próximos do hipotálamo nas condições acima, foi demonstrado que o SCN é o centro de controle do ritmo circadiano da temperatura corporal.
+
+Esse controle circadiano, portanto, inclui influência direta e indireta de muitos dos comportamentos termorreguladores que os mamíferos adotam para manter a homeostase.
+Lagartos da ruína: Vários estudos foram realizados sobre os genes expressos em células oscilantes circadianas do SCN durante várias condições de luz e escuridão, bem como os efeitos da indução de hipotermia leve em répteis.
+
+Em termos de estrutura, os SCNs de lagartos apresentam uma maior semelhança com os de camundongos, possuindo uma porção dorsomedial e um núcleo ventrolateral.
+
+No entanto, a expressão genética do gene Per2 relacionado ao circadiano em lagartos é semelhante à de répteis e aves, apesar do fato de que as aves são conhecidas por terem uma estrutura SCN distinta consistindo de uma porção lateral e medial.
+
+Estudar o SCN do lagarto por causa do pequeno tamanho do corpo e da ectotermia do lagarto é inestimável para entender como essa classe de vertebrados modifica seu comportamento dentro da dinâmica do ritmo circadiano, mas ainda não foi determinado se os sistemas de vertebrados de sangue frio foram retardados como resultado da diminuição da atividade no SCN ou mostrou diminuição da atividade metabólica como resultado da hipotermia.
+
+
+== Outros sinais da retina ==
+
+
+O SCN é um dos muitos núcleos que recebem sinais nervosos diretamente da retina.
+Alguns dos outros são o núcleo geniculado lateral (LGN), o colículo superior, o sistema óptico basal e o pretectum:
+
+O LGN passa informações sobre cor, contraste, forma e movimento para o córtex visual e ele mesmo sinaliza para o SCN.
+O colículo superior controla o movimento e a orientação do olho.
+O sistema óptico basal também controla os movimentos dos olhos.
+O pretectum controla o tamanho da pupila.
+
+
+== Expressão gênica ==
+
+O ritmo circadiano no SCN é gerado por um ciclo de expressão gênica em neurônios SCN individuais.
+
+Este ciclo foi bem conservado ao longo da evolução e, em essência, é semelhante em células de muitos organismos amplamente diferentes que apresentam ritmos circadianos.
+
+Por exemplo, embora as moscas da fruta (como todos os invertebrados) não tenham um SCN, o ciclo é muito semelhante ao dos mamíferos.
+
+Atualmente, pensa-se que todos os animais compartilham uma raiz comum em seu ritmo circadiano.
+
+
+=== mosca da fruta ===
+
+
+Na mosca-das-frutas Drosophila, o ritmo circadiano celular nos neurônios é controlado por duas alças de retroalimentação interligadas.
+
+No primeiro loop, os fatores de transcrição bHLH clock (CLK) e ciclo (CYC) conduzem a transcrição de seus próprios repressores período (PER) e atemporal (TIM).
+
+As proteínas PER e TIM então se acumulam no citoplasma, translocam-se para o núcleo à noite e desligam sua própria transcrição, estabelecendo assim uma oscilação de transcrição e tradução de 24 horas.
+Na segunda alça, os fatores de transcrição vrille (VRI) e Pdp1 são iniciados por CLK/CYC.
+
+PDP1 atua positivamente na transcrição de CLK e negativamente em VRI. Esses genes codificam vários fatores de transcrição que desencadeiam a expressão de outras proteínas.
+
+Os produtos do relógio e do ciclo, chamados CLK e CYC, pertencem à subfamília que contém PAS da família de fatores de transcrição de hélice-alça-hélice básica (bHLH) e formam um heterodímero.
+
+Este heterodímero (CLK-CYC) inicia a transcrição de PER e TIM, cujos produtos proteicos dimerizam e então inibem sua própria expressão ao interromper a transcrição mediada por CLK-CYC.
+
+Este mecanismo de feedback negativo dá um ritmo de 24 horas na expressão dos genes do relógio.
+
+Muitos genes são suspeitos de estarem ligados ao controle circadiano por "elementos E-box" em seus promotores, pois CLK-CYC e seus homólogos se ligam a esses elementos.
+O ritmo de 24 horas pode ser reiniciado pela luz através da proteína criptocromo (CRY), que está envolvida na fotorrecepção circadiana em Drosophila.
+
+A CRY se associa à TIM de maneira dependente da luz que leva à destruição da TIM.
+
+Sem a presença do TIM para estabilização, o PER acaba sendo destruído durante o dia.
+
+Como resultado, a repressão de CLK-CYC é reduzida e todo o ciclo é reiniciado.
+
+
+=== Mamíferos ===
+
+
+Nos mamíferos, os genes do relógio circadiano se comportam de maneira semelhante à das moscas.
+CLOCK (ciclos de saída do locomotor circadiano kaput) foi clonado pela primeira vez em camundongo e BMAL1 (translocador nuclear do receptor de aril hidrocarboneto do cérebro e do músculo (ARNT)-like 1) é o homólogo primário de Drosophila CYC.
+Três homólogos de PER (PER1, PER2 e PER3) e dois homólogos de CRY (CRY1 e CRY2) foram identificados.
+TIM foi identificado em mamíferos; no entanto, sua função ainda não está determinada.
+
+Mutações no TIM resultam na incapacidade de responder aos zeitgebers, o que é essencial para redefinir o relógio biológico. Pesquisas recentes sugerem que, fora do SCN, os genes do relógio também podem ter outros papéis importantes, incluindo sua influência nos efeitos das drogas de abuso como a cocaína.
+
+
+== Eletrofisiologia ==
+
+Neurônios no SCN disparam potenciais de ação em um ritmo de 24 horas.
+
+Ao meio-dia, a taxa de disparo atinge o máximo e, durante a noite, volta a cair.
+
+Como o ciclo de expressão gênica (chamado de relógio central) se conecta ao disparo neural permanece desconhecido.
+
+A resposta fótica provavelmente está ligada aos efeitos da luz nos ritmos circadianos.
+
+Além disso, a aplicação focal de melatonina pode diminuir a atividade de disparo desses neurônios, sugerindo que os receptores de melatonina presentes no SCN medeiam os efeitos de mudança de fase através do SCN.
+
+
+
+https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus
+
+;;;FR;;;
+
+
+
+NOYAU SUPRACHIASMATIQUE
+
+
+Le noyau suprachiasmatique ou noyaux (SCN) est une minuscule région du cerveau dans l'hypothalamus, située directement au-dessus du chiasma optique.
+
+Il est responsable du contrôle des rythmes circadiens.
+
+Les activités neuronales et hormonales qu'il génère régulent de nombreuses fonctions corporelles différentes dans un cycle de 24 heures.
+
+Le SCN de la souris contient environ 20 000 neurones. Le SCN interagit avec de nombreuses autres régions du cerveau.
+
+Il contient plusieurs types de cellules et plusieurs peptides différents (dont la vasopressine et le peptide intestinal vasoactif) et neurotransmetteurs.
+
+
+== Neuroanatomie ==
+
+Le SCN est situé dans la partie antérieure de l'hypothalamus immédiatement dorsal, ou supérieur (donc supra) au chiasma optique (CHO) bilatéral au (de chaque côté) du troisième ventricule.
+Le noyau peut être divisé en parties ventrolatérale et dorsolatérale, également appelées noyau et coquille, respectivement.
+
+Ces régions diffèrent par leur expression des gènes de l'horloge, le noyau les exprime en réponse à des stimuli tandis que la coquille les exprime de manière constitutive.
+En termes de projections, le noyau reçoit l'innervation via trois voies principales, le tractus rétinohypothalamique, le tractus géniculohypothalamique et les projections de certains noyaux de Raphé.
+
+Le SCN dorsomédian est principalement innervé par le noyau et également par d'autres zones hypothalamiques.
+
+Enfin, sa sortie est principalement destinée à la zone sous-paraventriculaire et au noyau hypothalamique dorsomédian qui médient tous deux l'influence exercée par le SCN sur la régulation circadienne du corps.
+
+
+== Effets circadiens ==
+
+Différents organismes tels que les bactéries, les plantes, les champignons et les animaux présentent des rythmes génétiques de près de 24 heures.
+
+Bien que toutes ces horloges semblent être basées sur un type similaire de boucle de rétroaction génétique, on pense que les gènes spécifiques impliqués ont évolué indépendamment dans chaque règne.
+
+De nombreux aspects du comportement et de la physiologie des mammifères montrent une rythmicité circadienne, notamment le sommeil, l'activité physique, la vigilance, les niveaux d'hormones, la température corporelle, la fonction immunitaire et l'activité digestive.
+
+Le SCN coordonne ces rythmes dans tout le corps et la rythmicité est perdue si le SCN est détruit.
+
+Par exemple, le temps total de sommeil est maintenu chez les rats avec des dommages SCN, mais la durée et le moment des épisodes de sommeil devient erratique.
+
+Le SCN maintient le contrôle sur tout le corps en synchronisant des « oscillateurs esclaves », qui présentent leurs propres rythmes de près de 24 heures et contrôlent les phénomènes circadiens dans les tissus locaux. Le SCN reçoit des informations de cellules ganglionnaires photosensibles spécialisées dans la rétine via le tractus rétinohypothalamique.
+
+Les neurones du SCN ventrolatéral (vlSCN) ont la capacité d'exprimer des gènes induits par la lumière.
+
+Les cellules ganglionnaires contenant de la mélanopsine dans la rétine ont une connexion directe avec le SCN ventrolatéral via le tractus rétinohypothalamique.
+
+Lorsque la rétine reçoit de la lumière, le vlSCN relaie cette information à travers le SCN permettant l'entraînement, la synchronisation, des rythmes quotidiens de la personne ou de l'animal au cycle de 24 heures dans la nature.
+
+L'importance d'entraîner des organismes, y compris les humains, à des signaux exogènes tels que le cycle lumière / obscurité, se reflète dans plusieurs troubles du rythme circadien du sommeil, où ce processus ne fonctionne pas normalement. On pense que les neurones du SCN dorsomédial (dmSCN) ont un rythme endogène de 24 heures qui peut persister dans l'obscurité constante (chez l'homme en moyenne environ 24 heures 11 min).
+
+Un mécanisme GABAergique est impliqué dans le couplage des régions ventrale et dorsale du SCN. Le SCN envoie des informations aux autres noyaux hypothalamiques et à la glande pinéale pour moduler la température corporelle et la production d'hormones telles que le cortisol et la mélatonine.
+
+
+== Rythmes circadiens des vertébrés endothermiques (à sang chaud) et ectothermiques (à sang froid) ==
+
+
+Les informations sur la régulation neuronale directe des processus métaboliques et les comportements contrôlés par le rythme circadien ne sont pas bien connues chez les vertébrés endothermiques ou ectothermiques, bien que des recherches approfondies aient été menées sur le SCN chez des animaux modèles tels que la souris mammifère et les reptiles ectothermiques, en particulier, lézards.
+
+Le SCN est connu pour être impliqué non seulement dans la photoréception par l'innervation du tractus rétinohypothalamique, mais également dans la thermorégulation des vertébrés capables d'homéothermie, ainsi que dans la régulation de la locomotion et d'autres sorties comportementales de l'horloge circadienne chez les vertébrés ectothermiques.
+
+Les différences de comportement entre les deux classes de vertébrés, lorsqu'elles sont comparées aux structures et propriétés respectives du SCN et de divers autres noyaux proches de l'hypothalamus, donnent un aperçu de la façon dont ces comportements sont la conséquence d'une régulation circadienne différente.
+
+En fin de compte, de nombreuses études neuroéthologiques doivent être menées pour déterminer complètement les rôles directs et indirects du SCN sur les comportements régulés circadiens des vertébrés.
+
+
+=== Le SCN des endothermes et des ectothermes ===
+
+En général, la température externe n'influence pas le comportement animal endothermique ou le rythme circadien en raison de la capacité de ces animaux à maintenir constante leur température corporelle interne grâce à la thermorégulation homéostatique ; cependant, les oscillateurs périphériques (voir rythme circadien) chez les mammifères sont sensibles aux impulsions de température et subiront une réinitialisation de la phase de l'horloge circadienne et de l'expression génétique associée, ce qui suggère que les oscillateurs circadiens périphériques peuvent être des entités distinctes les unes des autres malgré la présence d'un maître oscillateur dans le SCN .
+
+De plus, lorsque des neurones individuels du SCN d'une souris ont été traités avec des impulsions de chaleur, une réinitialisation similaire des oscillateurs a été observée, mais lorsqu'un SCN intact a été traité avec le même traitement par impulsion de chaleur, le SCN était résistant aux changements de température en présentant un rythme circadien inchangé. phase oscillante.
+
+Chez les animaux ectothermes, en particulier le lézard des ruines Podacris sicula, il a été démontré que la température affecte les oscillateurs circadiens au sein du SCN.
+
+Cela reflète une relation évolutive potentielle entre les vertébrés endothermiques et ectothermiques, dans la façon dont les ectothermes dépendent de la température environnementale pour affecter leurs rythmes et comportements circadiens et les endothermes ont un SCN évolué pour ignorer essentiellement la température externe et utiliser la photoréception comme moyen d'entraîner les oscillateurs circadiens dans leur SCN.
+
+De plus, les différences du SCN entre les vertébrés endothermiques et ectothermiques suggèrent que l'organisation neuronale du SCN résistant à la température chez les endothermes est responsable de la conduite des comportements thermorégulateurs chez ces animaux différemment de ceux des ectothermes, car ils dépendent de la température externe pour s'engager dans certains comportements.
+
+
+=== Comportements contrôlés par le SCN des vertébrés ===
+
+Des recherches importantes ont été menées sur les gènes responsables du contrôle du rythme circadien, notamment au sein du SCN.
+
+La connaissance de l'expression génétique de Clock (Clk) et de Period2 (Per2), deux des nombreux gènes responsables de la régulation du rythme circadien dans les cellules individuelles du SCN, a permis de mieux comprendre comment l'expression génétique influence la régulation du rythme circadien -comportements contrôlés.
+
+Des études sur la thermorégulation des lézards et des souris des ruines ont éclairé certains liens entre les composants neuronaux et génétiques des deux vertébrés lorsqu'ils subissent des conditions hypothermiques induites.
+
+Certaines découvertes ont reflété comment l'évolution du SCN à la fois structurellement et génétiquement a entraîné l'engagement d'un comportement thermorégulateur caractéristique et stéréotypé dans les deux classes de vertébrés.
+
+Souris : Parmi les vertébrés, on sait que les mammifères sont des endothermes capables de thermorégulation homéostatique.
+
+Il a été démontré que les souris ont une certaine thermosensibilité au sein du SCN, bien que la régulation de la température corporelle par les souris souffrant d'hypothermie soit plus sensible au fait qu'elles se trouvent dans un environnement lumineux ou sombre; il a été démontré que les souris dans des conditions d'obscurité et en hypothermie maintiennent une température corporelle interne stable, même pendant le jeûne.
+
+Dans des conditions de lumière, les souris ont montré une baisse de la température corporelle dans les mêmes conditions de jeûne et d'hypothermie.
+
+Grâce à l'analyse de l'expression génétique des gènes de l'horloge dans les souches de type sauvage et knock-out, ainsi qu'à l'analyse de l'activité des neurones au sein du SCN et des connexions aux noyaux proches de l'hypothalamus dans les conditions susmentionnées, il a été démontré que le SCN est le centre de contrôle du rythme circadien de la température corporelle.
+
+Ce contrôle circadien comprend donc à la fois l'influence directe et indirecte de nombreux comportements thermorégulateurs dans lesquels les mammifères s'engagent pour maintenir l'homéostasie.
+Lézards de ruine : Plusieurs études ont été menées sur les gènes exprimés dans les cellules oscillantes circadiennes du SCN dans diverses conditions de lumière et d'obscurité, ainsi que sur les effets de l'induction d'une hypothermie légère chez les reptiles.
+
+En termes de structure, les SCN des lézards ressemblent davantage à ceux des souris, possédant une partie dorsomédiale et un noyau ventrolatéral.
+
+Cependant, l'expression génétique du gène Per2 lié au rythme circadien chez les lézards est similaire à celle des reptiles et des oiseaux, malgré le fait que les oiseaux sont connus pour avoir une structure SCN distincte constituée d'une partie latérale et médiale.
+
+L'étude du lézard SCN en raison de sa petite taille corporelle et de son ectothermie est inestimable pour comprendre comment cette classe de vertébrés modifie son comportement dans la dynamique du rythme circadien, mais il n'a pas encore été déterminé si les systèmes des vertébrés à sang froid ont été ralentis comme à la suite d'une diminution de l'activité du SCN ou ont montré une diminution de l'activité métabolique à la suite d'une hypothermie.
+
+
+== Autres signaux de la rétine ==
+
+
+Le SCN est l'un des nombreux noyaux qui reçoivent des signaux nerveux directement de la rétine.
+Certains des autres sont le noyau géniculé latéral (LGN), le colliculus supérieur, le système optique basal et le prétectum :
+
+Le LGN transmet des informations sur la couleur, le contraste, la forme et le mouvement au cortex visuel et lui-même signale au SCN.
+Le colliculus supérieur contrôle le mouvement et l'orientation de l'œil.
+Le système optique basal contrôle également les mouvements oculaires.
+Le prétectum contrôle la taille de la pupille.
+
+
+== Expression génétique ==
+
+Le rythme circadien dans le SCN est généré par un cycle d'expression génique dans les neurones individuels du SCN.
+
+Ce cycle a été bien conservé au cours de l'évolution et est essentiellement similaire dans les cellules de nombreux organismes très différents qui présentent des rythmes circadiens.
+
+Par exemple, bien que les mouches des fruits (comme tous les invertébrés) n'aient pas de SCN, le cycle est largement similaire à celui des mammifères.
+
+On pense actuellement que tous les animaux partagent une racine commune dans leur rythme circadien.
+
+
+=== Mouche des fruits ===
+
+
+Chez la drosophile drosophile, le rythme circadien cellulaire dans les neurones est contrôlé par deux boucles de rétroaction imbriquées.
+
+Dans la première boucle, les facteurs de transcription bHLH horloge (CLK) et cycle (CYC) pilotent la transcription de leurs propres répresseurs période (PER) et intemporel (TIM).
+
+Les protéines PER et TIM s'accumulent alors dans le cytoplasme, se transloquent dans le noyau la nuit et arrêtent leur propre transcription, mettant ainsi en place une oscillation de 24 heures de transcription et de traduction.
+Dans la deuxième boucle, les facteurs de transcription vrille (VRI) et Pdp1 sont initiés par CLK/CYC.
+
+PDP1 agit positivement sur la transcription de CLK et négativement sur VRI. Ces gènes codent pour divers facteurs de transcription qui déclenchent l'expression d'autres protéines.
+
+Les produits de l'horloge et du cycle, appelés CLK et CYC, appartiennent à la sous-famille contenant le PAS de la famille basique hélice-boucle-hélice (bHLH) des facteurs de transcription et forment un hétérodimère.
+
+Cet hétérodimère (CLK-CYC) initie la transcription de PER et TIM, dont les produits protéiques se dimérisent puis inhibent leur propre expression en perturbant la transcription médiée par CLK-CYC.
+
+Ce mécanisme de rétroaction négative donne un rythme de 24 heures dans l'expression des gènes de l'horloge.
+
+De nombreux gènes sont soupçonnés d'être liés au contrôle circadien par des «éléments de la boîte E» dans leurs promoteurs, car CLK-CYC et ses homologues se lient à ces éléments.
+Le rythme de 24 heures pourrait être réinitialisé par la lumière via la protéine cryptochrome (CRY), qui est impliquée dans la photoréception circadienne chez la drosophile.
+
+CRY s'associe à TIM d'une manière dépendante de la lumière qui conduit à la destruction de TIM.
+
+Sans la présence de TIM pour la stabilisation, le PER est finalement détruit au cours de la journée.
+
+En conséquence, la répression de CLK-CYC est réduite et tout le cycle recommence.
+
+
+=== Mammifères ===
+
+
+Chez les mammifères, les gènes de l'horloge circadienne se comportent d'une manière similaire à celle des mouches.
+CLOCK (circadian locomotor output cycles kaput) a été cloné pour la première fois chez la souris et BMAL1 (translocateur nucléaire du récepteur des hydrocarbures aryliques cérébral et musculaire (ARNT)-like 1) est l'homologue principal de Drosophila CYC.
+Trois homologues de PER (PER1, PER2 et PER3) et deux homologues de CRY (CRY1 et CRY2) ont été identifiés.
+TIM a été identifié chez les mammifères; cependant, sa fonction n'est toujours pas déterminée.
+
+Les mutations du TIM entraînent une incapacité à répondre aux zeitgebers, ce qui est essentiel pour réinitialiser l'horloge biologique. Des recherches récentes suggèrent qu'en dehors du SCN, les gènes d'horloge peuvent également jouer d'autres rôles importants, notamment leur influence sur les effets des drogues. comme la cocaïne.
+
+
+== Électrophysiologie ==
+
+Les neurones du SCN déclenchent des potentiels d'action à un rythme de 24 heures.
+
+A midi, la cadence de tir atteint un maximum, et, pendant la nuit, elle retombe.
+
+La façon dont le cycle d'expression génique (appelé l'horloge centrale) se connecte au déclenchement neural reste inconnue. De nombreux neurones SCN sont sensibles à la stimulation lumineuse via la rétine et déclenchent de manière soutenue des potentiels d'action pendant une impulsion lumineuse (~ 30 secondes) chez les rongeurs.
+
+La réponse photique est probablement liée aux effets de la lumière sur les rythmes circadiens.
+
+De plus, l'application focale de mélatonine peut diminuer l'activité de déclenchement de ces neurones, ce qui suggère que les récepteurs de mélatonine présents dans le SCN induisent des effets de déphasage à travers le SCN.
+
+
+
+https://en.wikipedia.org/wiki/Suprachiasmatic_nucleus

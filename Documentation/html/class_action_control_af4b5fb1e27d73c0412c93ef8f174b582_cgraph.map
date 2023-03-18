@@ -1,0 +1,9 @@
+<map id="ActionControl.ScalpelClick" name="ActionControl.ScalpelClick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,109,181,134"/>
+<area shape="rect" id="node2" href="$class_action_control.html#a4e2657f3b2269134ac6a70527e7f0b84" title=" " alt="" coords="235,5,417,45"/>
+<area shape="rect" id="node5" href="$class_toggle_change_color.html#a5151f16be3bac74ac7ac5d02b7dff1f4" title=" " alt="" coords="472,133,677,173"/>
+<area shape="rect" id="node6" href="$class_action_control.html#ab4fd8d9427750711b6f7d86b0970dff9" title=" " alt="" coords="230,69,422,109"/>
+<area shape="rect" id="node7" href="$class_action_control.html#aeae83047b0d0f182a501f0435967def8" title=" " alt="" coords="229,133,423,173"/>
+<area shape="rect" id="node3" href="$class_lasso_selection.html#a7351dae0907cce6f4107405b205bf80a" title=" " alt="" coords="502,17,647,42"/>
+<area shape="rect" id="node4" href="$class_toggle_change_color.html#a4a4032ca574a278e9b643737811abecf" title=" " alt="" coords="471,69,679,109"/>
+</map>

@@ -1,0 +1,20 @@
+
+
+COLORS
+    
+    
+Press 'Z' 
+    to switch between 'Solid' and 'Rendered' viewport shading
+    
+In 'Solid viewport shading', 
+Press 'Alt+Z' 
+    to toggle X-ray mode.
+Press 'Alt+B' 
+    to create or get out of a Clipping border
+    
+Press 'Shift+Alt+Z'
+    to set/reset the key colors of the muscles and their insertions.
+    
+Press 'N' to open the options
+In 'Visibility', check 'Comic shader'
+    to toggle the cartoon style

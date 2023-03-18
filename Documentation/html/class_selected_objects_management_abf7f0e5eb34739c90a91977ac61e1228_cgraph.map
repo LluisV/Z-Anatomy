@@ -1,0 +1,13 @@
+<map id="SelectedObjectsManagement.SelectAllChildren" name="SelectedObjectsManagement.SelectAllChildren">
+<area shape="rect" id="node1" title="Recursively selects all the children of a parent Transform, excluding objects with Line or Label comp..." alt="" coords="5,133,203,173"/>
+<area shape="rect" id="node2" href="$class_tangible_body_part.html#adb5f699d5b8ba8e366f6edcd5cbd70cb" title="Sets the selected outline to the object." alt="" coords="263,53,429,78"/>
+<area shape="rect" id="node4" href="$class_action_control.html#a8be02d2a690999101a2534530d37c03d" title=" " alt="" coords="251,141,441,166"/>
+<area shape="rect" id="node9" href="$class_lexicon.html#ac7c65494b584322aa61f8adb4fdb8607" title=" " alt="" coords="265,269,427,294"/>
+<area shape="rect" id="node3" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="503,5,706,45"/>
+<area shape="rect" id="node5" href="$class_panels_management.html#ade3e9398bcde7caf1a6cd8cdb4891db7" title=" " alt="" coords="509,69,700,109"/>
+<area shape="rect" id="node7" href="$class_panels_management.html#ab497371db20d7a22b2a3d040756139bb" title=" " alt="" coords="489,133,720,173"/>
+<area shape="rect" id="node8" href="$class_action_control.html#ad86242abe7e098854c6928368a5b2b15" title=" " alt="" coords="505,197,704,237"/>
+<area shape="rect" id="node6" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="768,109,944,134"/>
+<area shape="rect" id="node10" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="511,261,698,301"/>
+<area shape="rect" id="node11" href="$class_lexicon_element.html#a401b942dc784d0f5c9ff8091cbcdefe8" title=" " alt="" coords="511,325,698,365"/>
+</map>

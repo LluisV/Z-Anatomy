@@ -1,0 +1,304 @@
+
+
+CAPILLARY
+
+
+A capillary is a small blood vessel from 5 to 10 micrometres (μm) in diameter. 
+
+Capillaries are composed of only the tunica intima, consisting of a thin wall of simple squamous endothelial cells. 
+
+They are the smallest blood vessels in the body: they convey blood between the arterioles and venules. 
+
+These microvessels are the site of exchange of many substances with the interstitial fluid surrounding them. 
+
+Substances which cross capillaries include water, oxygen, carbon dioxide, urea, glucose, uric acid, lactic acid and creatinine. 
+
+Lymph capillaries connect with larger lymph vessels to drain lymphatic fluid collected in the microcirculation.
+During early embryonic development, new capillaries are formed through vasculogenesis, the process of blood vessel formation that occurs through a de novo production of endothelial cells that then form vascular tubes. 
+
+The term angiogenesis denotes the formation of new capillaries from pre-existing blood vessels and already present endothelium which divides.
+
+
+== Etymology ==
+
+Capillary comes from the Latin word capillaris, meaning "of or resembling hair," with use in English beginning in the mid-17th century. 
+
+The meaning stems from the tiny, hairlike diameter of a capillary. 
+
+While capillary is usually used as a noun, the word also is used as an adjective, as in "capillary action", in which a liquid flows without influence of external forces, such as gravity.
+
+
+== Structure ==
+
+
+Blood flows from the heart through arteries, which branch and narrow into arterioles, and then branch further into capillaries where nutrients and wastes are exchanged. 
+
+The capillaries then join and widen to become venules, which in turn widen and converge to become veins, which then return blood back to the heart through the venae cavae. 
+
+In the mesentery, metarterioles form an additional stage between arterioles and capillaries.
+Individual capillaries are part of the capillary bed, an interweaving network of capillaries supplying tissues and organs. 
+
+The more metabolically active a tissue is, the more capillaries are required to supply nutrients and carry away products of metabolism. 
+
+There are two types of capillaries: true capillaries, which branch from arterioles and provide exchange between tissue and the capillary blood, and sinusoids, a type of open-pore capillary found in the liver, bone marrow, anterior pituitary gland, and brain circumventricular organs. 
+
+Capillaries and sinusoids are short vessels that directly connect the arterioles and venules at opposite ends of the beds. 
+
+Metarterioles are found primarily in the mesenteric microcirculation.Lymphatic capillaries are slightly larger in diameter than blood capillaries, and have closed ends (unlike the blood capillaries open at one end to the arterioles and open at the other end to the venules). 
+
+This structure permits interstitial fluid to flow into them but not out. 
+
+Lymph capillaries have a greater internal oncotic pressure than blood capillaries, due to the greater concentration of plasma proteins in the lymph.
+
+
+=== Types ===
+
+There are three types of blood capillaries:
+
+
+==== Continuous ====
+Continuous capillaries are continuous in the sense that the endothelial cells provide an uninterrupted lining, and they only allow smaller molecules, such as water and ions, to pass through their intercellular clefts. 
+
+Lipid-soluble molecules can passively diffuse through the endothelial cell membranes along concentration gradients. 
+
+Continuous capillaries can be further divided into two subtypes:
+
+Those with numerous transport vesicles, which are found primarily in skeletal muscles, fingers, gonads, and skin.
+Those with few vesicles, which are primarily found in the central nervous system. 
+
+These capillaries are a constituent of the blood–brain barrier.
+
+
+==== Fenestrated ====
+Fenestrated capillaries have pores known as fenestrae (Latin for "windows") in the endothelial cells that are 60–80 nm in diameter. 
+
+They are spanned by a diaphragm of radially oriented fibrils that allows small molecules and limited amounts of protein to diffuse. 
+
+In the renal glomerulus there are cells with no diaphragms, called podocyte foot processes or pedicels, which have slit pores with a function analogous to the diaphragm of the capillaries. 
+
+Both of these types of blood vessels have continuous basal laminae and are primarily located in the endocrine glands, intestines, pancreas, and the glomeruli of the kidney.
+
+
+==== Sinusoidal ====
+
+Sinusoidal capillaries or discontinuous capillaries are a special type of open-pore capillary, also known as a sinusoid, that have wider fenestrations that are 30–40 μm diameters, and wider openings in the endothelium. 
+
+Fenestrated capillaries have diaphragms that cover the pores whereas sinusoids lack a diaphragm and just have an open pore. 
+
+These types of blood vessels allow red and white blood cells (7.5 μm – 25 μm diameter) and various serum proteins to pass, aided by a discontinuous basal lamina. 
+
+These capillaries lack pinocytotic vesicles, and therefore use gaps present in cell junctions to permit transfer between endothelial cells, and hence across the membrane. 
+
+Sinusoids are irregular spaces filled with blood and are mainly found in the liver, bone marrow, spleen, and brain circumventricular organs.
+
+
+== Function ==
+
+
+The capillary wall performs an important function by allowing nutrients and waste substances to pass across it. 
+
+Molecules larger than 3 nm such as albumin and other large proteins pass through transcellular transport carried inside vesicles, a process which requires them to go through the cells that form the wall. 
+
+Molecules smaller than 3 nm such as water and gases cross the capillary wall through the space between cells in a process known as paracellular transport. 
+
+These transport mechanisms allow bidirectional exchange of substances depending on osmotic gradients. 
+
+Capillaries that form part of the blood–brain barrier only allow for transcellular transport as tight junctions between endothelial cells seal the paracellular space.Capillary beds may control their blood flow via autoregulation. 
+
+This allows an organ to maintain constant flow despite a change in central blood pressure. 
+
+This is achieved by myogenic response, and in the kidney by tubuloglomerular feedback. 
+
+When blood pressure increases, arterioles are stretched and subsequently constrict (a phenomenon known as the Bayliss effect) to counteract the increased tendency for high pressure to increase blood flow.In the lungs special mechanisms have been adapted to meet the needs of increased necessity of blood flow during exercise. 
+
+When the heart rate increases and more blood must flow through the lungs, capillaries are recruited and are also distended to make room for increased blood flow. 
+
+This allows blood flow to increase while resistance decreases.Capillary permeability can be increased by the release of certain cytokines, anaphylatoxins, or other mediators (such as leukotrienes, prostaglandins, histamine, bradykinin, etc.) highly influenced by the immune system.
+
+
+=== Starling equation ===
+
+The transport mechanisms can be further quantified by the Starling equation. 
+
+The Starling equation defines the forces across a semipermeable membrane and allows calculation of the net flux:
+
+ 
+  
+   
+     
+    
+     J
+     
+      v
+     
+    
+    =
+    
+     K
+     
+      f
+     
+    
+    (
+    [
+    
+     P
+     
+      c
+     
+    
+    −
+    
+     P
+     
+      i
+     
+    
+    ]
+    −
+    σ
+    [
+    
+     π
+     
+      c
+     
+    
+    −
+    
+     π
+     
+      i
+     
+    
+    ]
+    )
+   
+  
+  {\displaystyle \ J_{v}=K_{f}([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+ where:
+
+ 
+  
+   
+    (
+    [
+    
+     P
+     
+      c
+     
+    
+    −
+    
+     P
+     
+      i
+     
+    
+    ]
+    −
+    σ
+    [
+    
+     π
+     
+      c
+     
+    
+    −
+    
+     π
+     
+      i
+     
+    
+    ]
+    )
+   
+  
+  {\displaystyle ([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+  is the net driving force,
+
+ 
+  
+   
+    
+     K
+     
+      f
+     
+    
+   
+  
+  {\displaystyle K_{f}}
+  is the proportionality constant, and
+
+ 
+  
+   
+    
+     J
+     
+      v
+     
+    
+   
+  
+  {\displaystyle J_{v}}
+  is the net fluid movement between compartments.By convention, outward force is defined as positive, and inward force is defined as negative. 
+
+The solution to the equation is known as the net filtration or net fluid movement (Jv). 
+
+If positive, fluid will tend to leave the capillary (filtration). 
+
+If negative, fluid will tend to enter the capillary (absorption). 
+
+This equation has a number of important physiologic implications, especially when pathologic processes grossly alter one or more of the variables.According to Starling's equation, the movement of fluid depends on six variables:
+
+Capillary hydrostatic pressure ( Pc )
+Interstitial hydrostatic pressure ( Pi )
+Capillary oncotic pressure ( πc )
+Interstitial oncotic pressure ( πi )
+Filtration coefficient ( Kf )
+Reflection coefficient ( σ )
+
+
+== Clinical significance ==
+
+Disorders of capillary formation as a developmental defect or acquired disorder are a feature in many common and serious disorders. 
+
+Within a wide range of cellular factors and cytokines, issues with normal genetic expression and bioactivity of the vascular growth and permeability factor vascular endothelial growth factor (VEGF) appear to play a major role in many of the disorders. 
+
+Cellular factors include reduced number and function of bone-marrow derived endothelial progenitor cells. and reduced ability of those cells to form blood vessels.
+Formation of additional capillaries and larger blood vessels (angiogenesis) is a major mechanism by which a cancer may help to enhance its own growth. 
+
+Disorders of retinal capillaries contribute to the pathogenesis of age-related macular degeneration.
+Reduced capillary density (capillary rarefaction) occurs in association with cardiovascular risk factors and in patients with coronary heart disease.
+
+
+=== Therapeutics ===
+
+Major diseases where altering capillary formation could be helpful include conditions where there is excessive or abnormal capillary formation such as cancer and disorders harming eyesight; and medical conditions in which there is reduced capillary formation either for familial or genetic reasons, or as an acquired problem.
+
+In patients with the retinal disorder, neovascular age-related macular degeneration, local anti-VEGF therapy to limit the bio-activity of vascular endothelial growth factor has been shown to protect vision by limiting progression. 
+
+In a wide range of cancers, treatment approaches have been studied, or are in development, aimed at decreasing tumour growth by reducing angiogenesis.
+
+
+=== Blood sampling ===
+
+Capillary blood sampling can be used to test for blood glucose (such as in blood glucose monitoring), hemoglobin, pH and lactate. 
+
+It is generally performed by creating a small cut using a blood lancet, followed by sampling by capillary action on the cut with a test strip or small pipette.
+
+
+== History ==
+
+Contrary to a popular misconception, William Harvey did not explicitly predict the existence of capillaries, but he clearly saw the need for some sort of connection between the arterial and venous systems. 
+
+In 1653, he wrote, "...the blood doth enter into every member through the arteries, and does return by the veins, and that the veins are the vessels and ways by which the blood is returned to the heart itself; and that the blood in the members and extremities does pass from the arteries into the veins (either mediately by an anastomosis, or immediately through the porosities of the flesh, or both ways) as before it did in the heart and thorax out of the veins, into the arteries..."Marcello Malpighi was the first to observe directly and correctly describe capillaries, discovering them in a frog's lung 8 years later, in 1661.
+
+
+
+https://en.wikipedia.org/wiki/Capillary

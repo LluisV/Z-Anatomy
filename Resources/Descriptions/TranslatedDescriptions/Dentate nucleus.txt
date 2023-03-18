@@ -1,0 +1,892 @@
+
+
+DENTATE NUCLEUS
+
+
+The dentate nucleus is a cluster of neurons, or nerve cells, in the central nervous system that has a dentate – tooth-like or serrated – edge. 
+
+It is located within the deep white matter of each cerebellar hemisphere, and it is the largest single structure linking the cerebellum to the rest of the brain. 
+
+It is the largest and most lateral, or farthest from the midline, of the four pairs of deep cerebellar nuclei, the others being the globose and emboliform nuclei, which together are referred to as the interposed nucleus, and the fastigial nucleus. 
+
+The dentate nucleus is responsible for the planning, initiation and control of voluntary movements. 
+
+The dorsal region of the dentate nucleus contains output channels involved in motor function, which is the movement of skeletal muscle, while the ventral region contains output channels involved in nonmotor function, such as conscious thought and visuospatial function.
+
+
+== Development ==
+
+The dentate nucleus is highly convoluted, with gyri (ridges on the cerebral cortex) and sulci (furrows or grooves on the cerebral cortex). 
+
+Its formation is coincident with a critical period of extensive growth in the fetal dentate. 
+
+The dentate nucleus becomes visible in the cerebellar white matter as early as 11–12 weeks of gestation, containing only smooth lateral (towards the side(s) or away from the midline) and medial (towards the midline) surfaces. 
+
+During this time, the neurons of the dentate nucleus are similar in shape and form, being mainly bipolar cells.During 22–28 weeks of gestation, which is the critical period in fetal development of the dentate nucleus, gyral formation occurs extensively over the entire surface. 
+
+Here, neurons mature into various forms of multipolar cells, and the most frequent neuronal types are medium sized to large neurons.
+
+
+== Structure ==
+
+
+
+=== Location ===
+
+
+The architecture of cerebellum has a form that resembles the structure of a crystal, so a slice anywhere in the cerebellum gives repeated architecture. 
+
+The eight cerebellar nuclei, located within the deep white matter of each cerebellar hemisphere, are grouped into pairs, with one of each pair in each of the two hemispheres. 
+
+As a chunk of tissue, the dentate nucleus with overlying cerebellar cortex makes up a functional unit called the cerebrocerebellum. 
+
+Thus, there is a part of cerebellum that communicates exclusively with the dentate nucleus.
+
+
+==== Deep cerebellar nuclei ====
+Dentate: The dentate nucleus is the largest, most lateral, and phylogenetically most recent of the cerebellar nuclei. 
+
+It receives afferent, or incoming, signals from the premotor cortex and supplementary motor cortex via the pontocerebellar system. 
+
+Efferent, or outgoing, signals travel via the superior cerebellar peduncle through the red nucleus to the contralateral – opposite side – Ventroanterior/Ventrolateral (VA/VL) thalamus.
+Interposed: The globose and emboliform nuclei together make up the interposed nucleus. 
+
+The interposed nucleus is the smallest of the cerebellar nuclei. 
+
+It is located between the denate and fastigial nuclei. 
+
+It receives afferent supply from the anterior (toward the front) lobe of the cerebellum and sends output to the contralateral red nucleus through the superior cerebellar peduncle. 
+
+This nucleus is the origin of the rubrospinal tract that mainly influences limb flexor muscles.
+Fastigial: The fastigial nucleus is the most medial. 
+
+It receives afferent input from the vermis, and efferents travel via the inferior cerebellar peduncle to the vestibular nuclei.The deep cerebellar nuclei receive the final output from the cerebellar cortex via Purkinje cells in the form of inhibition. 
+
+Neurons in the cerebellar nuclei generate spontaneous action potentials despite ongoing inhibition from Purkinje cells. 
+
+The cerebellar nuclei receive afferent projections from the inferior olive, lateral reticular nucleus, upper cervical and lumbar spinal segments, and the Pontine nuclei. 
+
+Together, the deep cerebellar nuclei form a functional unit that provides feedback control of the cerebellar cortex by cerebellar output.
+
+
+=== Morphology ===
+
+The dentate nucleus is highly convoluted and can be divided into dorsal (motor) and ventral (nonmotor) domains. 
+
+The ventral half is much more developed in humans than in great apes, and it appears to play an important role in fiber connection. 
+
+Further, the ventral domain mediates higher cerebellar functions, such as language and cognition, as well as versatile and coordinated finger movement. 
+
+While it is generally accepted that the ventral region is more recent on an evolutionary timescale, current 3-Dimensional imaging raises questions regarding this assumption, as a third axis, the rostrocaudal axis, can now be analyzed. 
+
+In addition, current images show that the ventral region is not physically larger than the dorsal region in humans, as would be predicted if size increases with cognitive function.The neurons of the adult dentate are divided based on size, morphology, and function into large principal and small local circuit neurons.
+
+
+==== Large principal neurons ====
+The large principal neurons have been classified into four primary types according to position within the dentate, shape of soma (cell body), and dendritic branching. 
+
+These neurons are responsible for communication between the dentate nucleus and the cerebellar cortex.
+
+Central neurons: The central neurons are located in deeper parts of the nuclear mass, away from the periphery. 
+
+They have round and prickly somata, and numerous dendritic trunks emerge from every direction of the soma. 
+
+These dendrites have complex branching patterns and spherical dendritic fields.
+Border neurons: The border neurons are concentrated at the boundary of the nuclear lamina and have elliptical somata. 
+
+They have a stout axon directed into the surrounding white matter, as well as four to six primary dendrites that branch from the opposite end. 
+
+The dendritic fields of these neurons have a tetrahedron shape with the cell body in one corner.
+Intermediate asymmetric neurons: The intermediate asymmetrical neurons are evenly distributed throughout the nuclear mass, and they have large, elliptical somata. 
+
+They have five to nine dendrites branching in all directions, with one or two much longer than the others.
+Intermediate fusiform neurons: The intermediate fusiform neurons are scattered throughout the dentate, and they have elongated and elliptical somata which are tapered at both ends. 
+
+They include three to five primary dendrites which divide into several long dendrites. 
+
+The upper part of the cell body is parallel to the apical dendrites, which are oriented toward the nuclear core.
+
+
+==== Small local circuit neurons ====
+Small local circuit neurons include signaling pathways that are contained within the dentate. 
+
+These neurons provide feedback to the dentate and allow for fine control of signaling. 
+
+Currently, less research has been conducted on the specific shape and role of these neurons, as the dentate nucleus is composed primarily of large principal neurons.
+
+
+== Function ==
+
+
+
+=== Projections ===
+
+The dentate contains anatomically separate and functionally distinct motor and nonmotor domains (dorsal and ventral, respectively), and projections are organized from the dentate nucleus to distinct areas in the ventrolateral thalamus. 
+
+In addition, the dorsal parts of the dentate project to the primary motor and premotor areas of the cerebral cortex, while the ventral parts of the dentate project to prefrontal and posterior parietal areas of the cerebral cortex. 
+
+The motor and nonmotor domains make up approximately 50–60 percent and 20 percent, respectively, of the dentate. 
+
+It is estimated that the human dentate proportions are comparable. 
+
+All cerebral cortical areas that are targeted by the dentate project back on the cerebellum via efferents to Pontine nuclei, and cortical areas that do not project onto the cerebellum are not targets of dentate output.
+The motor domain in the dorsal portion of the dentate contains output channels that control both generation and control of movement, as well as neurons that innervate premotor areas in the frontal lobe. 
+The nonmotor domain contains output channels involved in cognition and visuospatial function, and projections to the prefrontal and posterior parietal cortical areas within this region are clustered into distinct regions with little overlap. 
+
+These areas are activated during tasks involving short-term working memory, rule-based learning, and higher executive function-like planning. 
+
+Although the ventral aspect of the dentate has been shown to be involved in acquisition of information, whether it is involved in retention and storage remains unclear.
+
+
+=== Pathways ===
+
+There are three distinct routes from the dentate nucleus to the ventrolateral thalamus, including a direct, posterior, and anterior route. 
+
+The direct route passes in the anterolateral direction under the thalamus and enters from the ventral side. 
+
+Axons following the posterior pathway turn dorsally from the midline at the posterior side of the thalamus, entering the thalamus from various positions. 
+
+Axons following the anterior route pass laterally in the subthalamus and enter the external medullary lamina. 
+
+Within the lamina, fibers turn posteriorly and enter the dorsal side of the thalamus. 
+
+Therefore, as a result of these various pathways, the neurons of the dentate nucleus are able to traverse all thalamic nuclei, with the exception of those at the midline and anterior nuclear groups.Dentate nucleus axons can be divergent or convergent. 
+
+Convergent branches include those that originate from entirely different axons and traverse different routes, yet overlap on the same terminal field. 
+
+Divergent pathways originate from the same axon but travel different routes and target different terminal fields. 
+
+Although no point-to-point connectivity has been observed between the dentate nucleus and the thalamus, it is believed that there is a pre-wired connectivity between a single dentate site and several body part representations in the thalamus.Three modalities are received by cerebellum, including proprioception, nociception, and somatic input, and all of these stimulate the dentate nucleus. 
+
+The dentate nucleus is mostly responsible for planning and execution of fine movement. 
+
+Since any motor function requires sensory information, it can be assumed that the dentate nucleus receives and modulates this sensory information, though the specific mechanism of this remains unclear. 
+
+For example, the act of lifting an object requires sensory input, such as the size of the object and where it is located in space. 
+
+While the primary role of the dentate nucleus is control of the movement, it does play a role in sensory processing as well.
+
+
+=== Role ===
+
+The role of the dentate nucleus can be described in two basic tenets:
+The dentate nucleus is involved in basic circuitry work, including input to the cerebellum from everywhere else. 
+
+Any function that needs coordination, including thoughts and motor behavior, must go through the cerebellum to be smoothened. 
+
+This input travels in two parts, to the surface of the cerebellar cortex as well as collateral input to the cerebellar nuclei.
+The whole cerebellum has only one output, which necessarily leads from the deep cerebellar nuclei. 
+
+There is output from the cerebellar cortex, so this output must go through the cerebellar nuclei and send output to rest of nervous system. 
+
+Thus, the cerebellum communicates to the outside world via the cerebellar nuclei. 
+
+Input that reaches the cerebellar cortex is processed in many ways; eventually whatever happens in cerebellar cortex exits the cerebellum through a synapse in the cerebellar nuclei.The dentate nucleus is responsible for the planning, initiation and control of voluntary movements. 
+
+The dorsal region of the dentate contains output channels involved in motor function, while the ventral region contains output channels involved in nonmotor function, such as cognition and visuospatial function. 
+
+The dentate nucleus sends commands and information to the motor and premotor areas in the forebrain.
+
+
+== Clinical significance ==
+
+Several pathological processes involve the dentate nucleus including metabolic, genetic, and neurodegenerative disorders, as well as some infections.
+
+
+=== Metabolic disorders ===
+
+Maple syrup urine disease (MSUD): An inherited disorder of amino acid metabolism in newborns, MSUD results in neurological deterioration. 
+
+Myelin edema is seen in the cerebellum, including the dentate nucleus, brain stem, and corticospinal tracts.Leigh disease: Clinical and pathological symptoms usually appear in the first year of life and include psychomotor retardation and brain stem dysfunction. 
+
+Bilaterally symmetric defects are seen in the periaqueductal grey matter, brain stem, basal ganglia, and dentate nucleus.Glutaric aciduria type 1 (GA1): An autosomal recessive disease, GA1 is due to glutaryl-coenzyme A dehydrogenase deficiency. 
+
+Abnormalities are seen in the basal ganglia and dentate nucleus.Canavan's disease: Canavan's disease is a white matter disease due to aspartoacylase deficiency. 
+
+The dentate nucleus is not affected until late in disease progression.
+
+
+=== Miscellaneous disorders ===
+
+Neurofibromatosis type 1 (NF1): NF1 is an autosomal dominant neurocutaneous disorder. 
+
+The hallmark of NF1 is the development of numerous tumors. 
+
+Cerebellar white matter and dentate nucleus lesions usually occur in children less than ten years of age.Langerhans cell histiocytosis (LCH): LCH is an aggressive disorder due to proliferation of Langerhans cell hystiocytes, and the dentate nucleus is believed to be involved in up to 40 percent of patients.Alzheimer's disease (AD) with myoclonus: There is an increase in mean volume of large neurons and a decrease in mean volume of small neurons in the dentate nucleus in AD with myoclonus. 
+
+Morphological changes in the dentate nucleus may contribute to the pathological substrate of myoclonus in AD.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_nucleus
+;;;ES;;;
+
+
+
+NÚCLEO DENTADO
+
+
+El núcleo dentado es un grupo de neuronas, o células nerviosas, en el sistema nervioso central que tiene un borde dentado, similar a un diente o dentado.
+
+Se encuentra dentro de la sustancia blanca profunda de cada hemisferio cerebeloso y es la estructura individual más grande que une el cerebelo con el resto del cerebro.
+
+Es el más grande y más lateral, o más alejado de la línea media, de los cuatro pares de núcleos cerebelosos profundos, los otros son los núcleos globoso y emboliforme, que en conjunto se denominan núcleo interpuesto y núcleo fastigial.
+
+El núcleo dentado es responsable de la planificación, iniciación y control de los movimientos voluntarios.
+
+La región dorsal del núcleo dentado contiene canales de salida involucrados en la función motora, que es el movimiento del músculo esquelético, mientras que la región ventral contiene canales de salida involucrados en la función no motora, como el pensamiento consciente y la función visuoespacial.
+
+
+== Desarrollo ==
+
+El núcleo dentado es muy contorneado, con circunvoluciones (crestas en la corteza cerebral) y surcos (surcos o hendiduras en la corteza cerebral).
+
+Su formación coincide con un período crítico de crecimiento extenso en el dentado fetal.
+
+El núcleo dentado se vuelve visible en la sustancia blanca del cerebelo a las 11 o 12 semanas de gestación y solo contiene superficies lisas laterales (hacia los lados o alejándose de la línea media) y medial (hacia la línea media).
+
+Durante este tiempo, las neuronas del núcleo dentado son similares en forma y forma, siendo principalmente células bipolares. Durante las semanas 22 a 28 de gestación, que es el período crítico en el desarrollo fetal del núcleo dentado, la formación de giros ocurre extensamente en todo el superficie.
+
+Aquí, las neuronas maduran en varias formas de células multipolares, y los tipos neuronales más frecuentes son neuronas de tamaño mediano a grande.
+
+
+== Estructura ==
+
+
+
+=== Ubicación ===
+
+
+La arquitectura del cerebelo tiene una forma que se asemeja a la estructura de un cristal, por lo que un corte en cualquier parte del cerebelo da una arquitectura repetida.
+
+Los ocho núcleos cerebelosos, ubicados dentro de la sustancia blanca profunda de cada hemisferio cerebeloso, se agrupan en pares, con uno de cada par en cada uno de los dos hemisferios.
+
+Como un trozo de tejido, el núcleo dentado con la corteza cerebelosa suprayacente forma una unidad funcional llamada cerebrocerebelo.
+
+Así, existe una parte del cerebelo que se comunica exclusivamente con el núcleo dentado.
+
+
+==== Núcleos cerebelosos profundos ====
+Dentado: El núcleo dentado es el más grande, más lateral y filogenéticamente más reciente de los núcleos cerebelosos.
+
+Recibe señales aferentes o entrantes de la corteza premotora y la corteza motora suplementaria a través del sistema pontocerebeloso.
+
+Las señales eferentes o salientes viajan a través del pedúnculo cerebeloso superior a través del núcleo rojo hacia el tálamo contralateral (lado opuesto) ventroanterior/ventrolateral (VA/VL).
+Interpuesto: Los núcleos globoso y emboliforme juntos forman el núcleo interpuesto.
+
+El núcleo interpuesto es el más pequeño de los núcleos cerebelosos.
+
+Se encuentra entre los núcleos denado y fastigial.
+
+Recibe inervación aferente del lóbulo anterior (hacia el frente) del cerebelo y envía salida al núcleo rojo contralateral a través del pedúnculo cerebeloso superior.
+
+Este núcleo es el origen del tracto rubroespinal que influye principalmente en los músculos flexores de las extremidades.
+Fastigial: El núcleo fastigial es el más medial..
+
+Recibe información aferente del vermis y las eferencias viajan a través del pedúnculo cerebeloso inferior hasta los núcleos vestibulares. Los núcleos cerebelosos profundos reciben la salida final de la corteza cerebelosa a través de las células de Purkinje en forma de inhibición.
+
+Las neuronas en los núcleos del cerebelo generan potenciales de acción espontáneos a pesar de la inhibición continua de las células de Purkinje.
+
+Los núcleos cerebelosos reciben proyecciones aferentes de la oliva inferior, el núcleo reticular lateral, los segmentos espinales cervical superior y lumbar y los núcleos pontinos.
+
+Juntos, los núcleos cerebelosos profundos forman una unidad funcional que proporciona control de retroalimentación de la corteza cerebelosa a través de las señales del cerebelo.
+
+
+=== Morfología ===
+
+El núcleo dentado es muy contorneado y puede dividirse en dominios dorsal (motor) y ventral (no motor).
+
+La mitad ventral está mucho más desarrollada en los humanos que en los grandes simios y parece desempeñar un papel importante en la conexión de las fibras.
+
+Además, el dominio ventral media funciones cerebelosas superiores, como el lenguaje y la cognición, así como el movimiento versátil y coordinado de los dedos.
+
+Si bien generalmente se acepta que la región ventral es más reciente en una escala de tiempo evolutiva, las imágenes tridimensionales actuales plantean preguntas con respecto a esta suposición, ya que ahora se puede analizar un tercer eje, el eje rostrocaudal.
+
+Además, las imágenes actuales muestran que la región ventral no es físicamente más grande que la región dorsal en los humanos, como se podría predecir si el tamaño aumenta con la función cognitiva. Las neuronas del dentado adulto se dividen según el tamaño, la morfología y la función en grandes neuronas principales y pequeñas del circuito local.
+
+
+==== Grandes neuronas principales ====
+Las neuronas principales grandes se han clasificado en cuatro tipos principales según la posición dentro del dentado, la forma del soma (cuerpo celular) y la ramificación dendrítica.
+
+Estas neuronas son responsables de la comunicación entre el núcleo dentado y la corteza cerebelosa.
+
+Neuronas centrales: Las neuronas centrales se ubican en partes más profundas de la masa nuclear, alejadas de la periferia.
+
+Tienen somas redondos y espinosos, y numerosos troncos dendríticos emergen de todas las direcciones del soma.
+
+Estas dendritas tienen patrones de ramificación complejos y campos dendríticos esféricos.
+Neuronas fronterizas: las neuronas fronterizas se concentran en el límite de la lámina nuclear y tienen somas elípticos.
+
+Tienen un axón robusto dirigido hacia la sustancia blanca circundante, así como de cuatro a seis dendritas primarias que se ramifican desde el extremo opuesto.
+
+Los campos dendríticos de estas neuronas tienen forma de tetraedro con el cuerpo celular en una esquina.
+Neuronas asimétricas intermedias: las neuronas asimétricas intermedias están distribuidas uniformemente por toda la masa nuclear y tienen grandes somas elípticos.
+
+Tienen de cinco a nueve dendritas que se ramifican en todas las direcciones, con una o dos mucho más largas que las otras.
+Neuronas fusiformes intermedias: las neuronas fusiformes intermedias están dispersas por todo el dentado y tienen somas alargados y elípticos que se estrechan en ambos extremos.
+
+Incluyen de tres a cinco dendritas primarias que se dividen en varias dendritas largas.
+
+La parte superior del cuerpo celular es paralela a las dendritas apicales, que están orientadas hacia el núcleo nuclear.
+
+
+==== Pequeñas neuronas del circuito local ====
+Las neuronas de circuito local pequeño incluyen vías de señalización que están contenidas dentro del dentado.
+
+Estas neuronas proporcionan retroalimentación al dentado y permiten un control preciso de la señalización.
+
+Actualmente, se han realizado menos investigaciones sobre la forma y el papel específicos de estas neuronas, ya que el núcleo dentado se compone principalmente de grandes neuronas principales.
+
+
+== Función ==
+
+
+
+=== Proyecciones ===
+
+El dentado contiene dominios motores y no motores anatómicamente separados y funcionalmente distintos (dorsal y ventral, respectivamente), y las proyecciones se organizan desde el núcleo dentado hacia áreas distintas en el tálamo ventrolateral.
+
+Además, las partes dorsales del dentado se proyectan hacia las áreas motora primaria y premotora de la corteza cerebral, mientras que las partes ventrales del dentado se proyectan hacia las áreas prefrontal y parietal posterior de la corteza cerebral.
+
+Los dominios motor y no motor constituyen aproximadamente el 50-60 por ciento y el 20 por ciento, respectivamente, del dentado.
+
+Se estima que las proporciones dentadas humanas son comparables.
+
+Todas las áreas corticales cerebrales a las que se dirige el dentado se proyectan hacia atrás en el cerebelo a través de eferentes a los núcleos pontinos, y las áreas corticales que no se proyectan al cerebelo no son objetivos de la salida dentada.
+El dominio motor en la porción dorsal del dentado contiene canales de salida que controlan tanto la generación como el control del movimiento, así como neuronas que inervan áreas premotoras en el lóbulo frontal.
+El dominio no motor contiene canales de salida involucrados en la cognición y la función visuoespacial, y las proyecciones a las áreas corticales parietales prefrontal y posterior dentro de esta región se agrupan en distintas regiones con poca superposición.
+
+Estas áreas se activan durante las tareas que involucran la memoria de trabajo a corto plazo, el aprendizaje basado en reglas y la planificación similar a la función ejecutiva superior.
+
+Aunque se ha demostrado que el aspecto ventral del dentado está involucrado en la adquisición de información, aún no está claro si está involucrado en la retención y el almacenamiento.
+
+
+=== Caminos ===
+
+Hay tres rutas distintas desde el núcleo dentado hasta el tálamo ventrolateral, que incluyen una ruta directa, posterior y anterior.
+
+La ruta directa pasa en dirección anterolateral por debajo del tálamo y entra por el lado ventral.
+
+Los axones que siguen la vía posterior giran dorsalmente desde la línea media en el lado posterior del tálamo y entran en el tálamo desde varias posiciones.
+
+Los axones que siguen la ruta anterior pasan lateralmente en el subtálamo y entran en la lámina medular externa.
+
+Dentro de la lámina, las fibras giran hacia atrás y entran en el lado dorsal del tálamo.
+
+Por lo tanto, como resultado de estas diversas vías, las neuronas del núcleo dentado pueden atravesar todos los núcleos talámicos, con la excepción de los de la línea media y los grupos nucleares anteriores. Los axones del núcleo dentado pueden ser divergentes o convergentes.
+
+Las ramas convergentes incluyen aquellas que se originan en axones completamente diferentes y atraviesan diferentes rutas, pero se superponen en el mismo campo terminal.
+
+Las vías divergentes se originan en el mismo axón pero recorren diferentes rutas y se dirigen a diferentes campos terminales.
+
+Aunque no se ha observado conectividad punto a punto entre el núcleo dentado y el tálamo, se cree que existe una conectividad preestablecida entre un solo sitio dentado y varias representaciones de partes del cuerpo en el tálamo. El cerebelo recibe tres modalidades , incluyendo propiocepción, nocicepción y entrada somática, y todos estos estimulan el núcleo dentado.
+
+El núcleo dentado es principalmente responsable de la planificación y ejecución de movimientos finos.
+
+Dado que cualquier función motora requiere información sensorial, se puede suponer que el núcleo dentado recibe y modula esta información sensorial, aunque el mecanismo específico de esto sigue sin estar claro.
+
+Por ejemplo, el acto de levantar un objeto requiere información sensorial, como el tamaño del objeto y su ubicación en el espacio.
+
+Si bien el papel principal del núcleo dentado es el control del movimiento, también desempeña un papel en el procesamiento sensorial.
+
+
+=== Rol ===
+
+El papel del núcleo dentado se puede describir en dos principios básicos:
+El núcleo dentado está involucrado en el trabajo de circuitos básicos, incluida la entrada al cerebelo desde cualquier otro lugar.
+
+Cualquier función que necesite coordinación, incluidos los pensamientos y el comportamiento motor, debe pasar por el cerebelo para suavizarse.
+
+Esta información viaja en dos partes, a la superficie de la corteza cerebelosa, así como información colateral a los núcleos cerebelosos.
+Todo el cerebelo tiene una sola salida, que necesariamente proviene de los núcleos cerebelosos profundos.
+
+Hay salida de la corteza cerebelosa, por lo que esta salida debe pasar por los núcleos del cerebelo y enviar la salida al resto del sistema nervioso.
+
+Así, el cerebelo se comunica con el mundo exterior a través de los núcleos cerebelosos.
+
+La información que llega a la corteza cerebelosa se procesa de muchas maneras; finalmente, todo lo que sucede en la corteza cerebelosa sale del cerebelo a través de una sinapsis en los núcleos cerebelosos. El núcleo dentado es responsable de la planificación, iniciación y control de los movimientos voluntarios.
+
+La región dorsal del dentado contiene canales de salida involucrados en la función motora, mientras que la región ventral contiene canales de salida involucrados en la función no motora, como la cognición y la función visuoespacial.
+
+El núcleo dentado envía comandos e información a las áreas motora y premotora del cerebro anterior.
+
+
+== Importancia clínica ==
+
+Varios procesos patológicos involucran el núcleo dentado, incluidos trastornos metabólicos, genéticos y neurodegenerativos, así como algunas infecciones.
+
+
+=== Trastornos metabólicos ===
+
+Enfermedad de la orina con jarabe de arce (MSUD): un trastorno hereditario del metabolismo de los aminoácidos en los recién nacidos, la MSUD provoca un deterioro neurológico.
+
+El edema de mielina se observa en el cerebelo, incluido el núcleo dentado, el tronco encefálico y los tractos corticoespinales. Enfermedad de Leigh: los síntomas clínicos y patológicos suelen aparecer en el primer año de vida e incluyen retraso psicomotor y disfunción del tronco encefálico.
+
+Se observan defectos bilateralmente simétricos en la sustancia gris periacueductal, el tronco encefálico, los ganglios basales y el núcleo dentado. Aciduria glutárica tipo 1 (GA1): una enfermedad autosómica recesiva, la GA1 se debe a la deficiencia de glutaril-coenzima A deshidrogenasa.
+
+Se observan anomalías en los ganglios basales y el núcleo dentado.Enfermedad de Canavan: La enfermedad de Canavan es una enfermedad de la sustancia blanca debida a la deficiencia de aspartoacilasa.
+
+El núcleo dentado no se ve afectado hasta el final de la progresión de la enfermedad.
+
+
+=== Varios trastornos ===
+
+Neurofibromatosis tipo 1 (NF1): NF1 es un trastorno neurocutáneo autosómico dominante.
+
+El sello distintivo de la NF1 es el desarrollo de numerosos tumores.
+
+Las lesiones de la sustancia blanca del cerebelo y del núcleo dentado generalmente ocurren en niños menores de diez años. 40 por ciento de los pacientes. Enfermedad de Alzheimer (EA) con mioclonías: hay un aumento en el volumen medio de las neuronas grandes y una disminución en el volumen medio de las neuronas pequeñas en el núcleo dentado en la EA con mioclonías.
+
+Los cambios morfológicos en el núcleo dentado pueden contribuir al sustrato patológico de las mioclonías en la EA.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_nucleus
+
+;;;PT;;;
+
+
+
+NÚCLEO DENTADO
+
+
+O núcleo denteado é um aglomerado de neurônios, ou células nervosas, no sistema nervoso central que tem uma borda dentada – semelhante a um dente ou serrilhada.
+
+Ele está localizado dentro da substância branca profunda de cada hemisfério cerebelar e é a maior estrutura única que liga o cerebelo ao resto do cérebro.
+
+É o maior e mais lateral, ou mais distante da linha média, dos quatro pares de núcleos cerebelares profundos, sendo os outros os núcleos globoso e emboliforme, que juntos são chamados de núcleo interposto e o núcleo fastigial.
+
+O núcleo denteado é responsável pelo planejamento, iniciação e controle dos movimentos voluntários.
+
+A região dorsal do núcleo denteado contém canais de saída envolvidos na função motora, que é o movimento do músculo esquelético, enquanto a região ventral contém canais de saída envolvidos na função não motora, como pensamento consciente e função visuoespacial.
+
+
+== Desenvolvimento ==
+
+O núcleo denteado é altamente convoluto, com giros (estrias no córtex cerebral) e sulcos (sulcos ou sulcos no córtex cerebral).
+
+Sua formação coincide com um período crítico de crescimento extensivo no dente fetal.
+
+O núcleo denteado torna-se visível na substância branca cerebelar tão cedo quanto 11-12 semanas de gestação, contendo apenas superfícies laterais lisas (em direção ao(s) lado(s) ou longe da linha média) e mediais (em direção à linha média).
+
+Durante este tempo, os neurônios do núcleo denteado são semelhantes em forma e forma, sendo principalmente células bipolares. superfície.
+
+Aqui, os neurônios amadurecem em várias formas de células multipolares, e os tipos neuronais mais frequentes são de tamanho médio a grande.
+
+
+== Estrutura ==
+
+
+
+=== Localização ===
+
+
+A arquitetura do cerebelo tem uma forma que se assemelha à estrutura de um cristal, então uma fatia em qualquer lugar do cerebelo dá uma arquitetura repetida.
+
+Os oito núcleos cerebelares, localizados dentro da substância branca profunda de cada hemisfério cerebelar, são agrupados em pares, com um de cada par em cada um dos dois hemisférios.
+
+Como um pedaço de tecido, o núcleo denteado com córtex cerebelar sobrejacente forma uma unidade funcional chamada cerebrocerebelo.
+
+Assim, há uma parte do cerebelo que se comunica exclusivamente com o núcleo denteado.
+
+
+==== Núcleos cerebelares profundos ====
+Denteado: O núcleo denteado é o maior, mais lateral e filogeneticamente mais recente dos núcleos cerebelares.
+
+Ele recebe sinais aferentes, ou de entrada, do córtex pré-motor e do córtex motor suplementar através do sistema pontocerebelar.
+
+Os sinais eferentes, ou de saída, viajam através do pedúnculo cerebelar superior através do núcleo rubro para o tálamo contralateral – lado oposto – Ventroanterior/Ventrolateral (VA/VL).
+Interposto: Os núcleos globoso e emboliforme juntos formam o núcleo interposto.
+
+O núcleo interposto é o menor dos núcleos cerebelares.
+
+Localiza-se entre os núcleos denato e fastigial.
+
+Ele recebe suprimento aferente do lobo anterior (em direção à frente) do cerebelo e envia saída para o núcleo rubro contralateral através do pedúnculo cerebelar superior.
+
+Este núcleo é a origem do trato rubroespinhal que influencia principalmente os músculos flexores dos membros.
+Fastigial: O núcleo fastigial é o mais medial.
+
+Ele recebe aferências aferentes do vermis e eferentes viajam através do pedúnculo cerebelar inferior para os núcleos vestibulares. Os núcleos cerebelares profundos recebem a saída final do córtex cerebelar via células de Purkinje na forma de inibição.
+
+Neurônios nos núcleos cerebelares geram potenciais de ação espontâneos apesar da inibição contínua das células de Purkinje.
+
+Os núcleos cerebelares recebem projeções aferentes da oliva inferior, núcleo reticular lateral, segmentos cervicais e lombares superiores e núcleos pontinos.
+
+Juntos, os núcleos cerebelares profundos formam uma unidade funcional que fornece controle de feedback do córtex cerebelar por saída cerebelar.
+
+
+=== Morfologia ===
+
+O núcleo denteado é altamente convoluto e pode ser dividido em domínios dorsal (motor) e ventral (não motor).
+
+A metade ventral é muito mais desenvolvida em humanos do que em grandes símios, e parece desempenhar um papel importante na conexão das fibras.
+
+Além disso, o domínio ventral medeia funções cerebelares superiores, como linguagem e cognição, bem como movimentos versáteis e coordenados dos dedos.
+
+Embora seja geralmente aceito que a região ventral é mais recente em uma escala de tempo evolutiva, a imagem tridimensional atual levanta questões sobre essa suposição, pois um terceiro eixo, o eixo rostrocaudal, pode agora ser analisado.
+
+Além disso, as imagens atuais mostram que a região ventral não é fisicamente maior do que a região dorsal em humanos, como seria previsto se o tamanho aumentasse com a função cognitiva. neurônios de circuitos locais principais e pequenos.
+
+
+==== Grandes neurônios principais ====
+Os grandes neurônios principais foram classificados em quatro tipos primários de acordo com a posição dentro do denteado, forma do soma (corpo celular) e ramificação dendrítica.
+
+Esses neurônios são responsáveis ​​pela comunicação entre o núcleo denteado e o córtex cerebelar.
+
+Neurônios centrais: Os neurônios centrais estão localizados em partes mais profundas da massa nuclear, longe da periferia.
+
+Eles têm somatos redondos e espinhosos, e numerosos troncos dendríticos emergem de todas as direções do soma.
+
+Esses dendritos têm padrões de ramificação complexos e campos dendríticos esféricos.
+Neurônios fronteiriços: Os neurônios fronteiriços estão concentrados no limite da lâmina nuclear e possuem somatos elípticos.
+
+Eles têm um axônio robusto direcionado para a substância branca circundante, bem como quatro a seis dendritos primários que se ramificam da extremidade oposta.
+
+Os campos dendríticos desses neurônios têm uma forma tetraedro com o corpo celular em um canto.
+Neurônios assimétricos intermediários: Os neurônios assimétricos intermediários são distribuídos uniformemente por toda a massa nuclear e possuem grandes somas elípticas.
+
+Eles têm cinco a nove dendritos ramificados em todas as direções, com um ou dois muito mais longos que os outros.
+Neurônios fusiformes intermediários: Os neurônios fusiformes intermediários estão dispersos por todo o denteado e possuem somatas alongadas e elípticas que são afiladas em ambas as extremidades.
+
+Eles incluem três a cinco dendritos primários que se dividem em vários dendritos longos.
+
+A parte superior do corpo celular é paralela aos dendritos apicais, que são orientados em direção ao núcleo nuclear.
+
+
+==== Pequenos neurônios de circuito local ====
+Neurônios de circuitos locais pequenos incluem vias de sinalização que estão contidas no denteado.
+
+Esses neurônios fornecem feedback ao denteado e permitem um controle fino da sinalização.
+
+Atualmente, menos pesquisas foram conduzidas sobre a forma e o papel específicos desses neurônios, pois o núcleo denteado é composto principalmente de grandes neurônios principais.
+
+
+== Função ==
+
+
+
+=== Projeções ===
+
+O denteado contém domínios motores e não motores anatomicamente separados e funcionalmente distintos (dorsal e ventral, respectivamente), e as projeções são organizadas do núcleo denteado para áreas distintas no tálamo ventrolateral.
+
+Além disso, as partes dorsais do denteado projetam-se para as áreas motora primária e pré-motora do córtex cerebral, enquanto as partes ventrais do denteado projetam-se para as áreas pré-frontal e parietal posterior do córtex cerebral.
+
+Os domínios motor e não motor constituem aproximadamente 50-60% e 20%, respectivamente, do denteado.
+
+Estima-se que as proporções dentadas humanas sejam comparáveis.
+
+Todas as áreas corticais cerebrais que são direcionadas pelo projeto denteado de volta ao cerebelo via eferentes para os núcleos pontinos, e áreas corticais que não se projetam para o cerebelo não são alvos de saída denteada.
+O domínio motor na porção dorsal do denteado contém canais de saída que controlam tanto a geração quanto o controle do movimento, bem como neurônios que inervam áreas pré-motoras no lobo frontal.
+O domínio não motor contém canais de saída envolvidos na cognição e função visuoespacial, e as projeções para as áreas corticais pré-frontal e parietal posterior dentro dessa região são agrupadas em regiões distintas com pouca sobreposição.
+
+Essas áreas são ativadas durante tarefas que envolvem memória de trabalho de curto prazo, aprendizado baseado em regras e planejamento de funções executivas superiores.
+
+Embora o aspecto ventral do denteado tenha demonstrado estar envolvido na aquisição de informações, ainda não está claro se ele está envolvido na retenção e armazenamento.
+
+
+=== Caminhos ===
+
+Existem três vias distintas do núcleo denteado para o tálamo ventrolateral, incluindo uma via direta, posterior e anterior.
+
+A via direta passa na direção anterolateral sob o tálamo e entra pelo lado ventral.
+
+Os axônios que seguem a via posterior giram dorsalmente a partir da linha média no lado posterior do tálamo, entrando no tálamo de várias posições.
+
+Os axônios que seguem a via anterior passam lateralmente no subtálamo e entram na lâmina medular externa.
+
+Dentro da lâmina, as fibras se voltam posteriormente e entram no lado dorsal do tálamo.
+
+Portanto, como resultado dessas várias vias, os neurônios do núcleo denteado são capazes de atravessar todos os núcleos talâmicos, com exceção daqueles da linha média e dos grupos nucleares anteriores. Os axônios do núcleo denteado podem ser divergentes ou convergentes.
+
+Ramos convergentes incluem aqueles que se originam de axônios totalmente diferentes e percorrem rotas diferentes, mas se sobrepõem no mesmo campo terminal.
+
+As vias divergentes originam-se do mesmo axônio, mas percorrem rotas diferentes e têm como alvo campos terminais diferentes.
+
+Embora nenhuma conectividade ponto a ponto tenha sido observada entre o núcleo denteado e o tálamo, acredita-se que haja uma conectividade pré-conectada entre um único local denteado e várias representações de partes do corpo no tálamo. Três modalidades são recebidas pelo cerebelo , incluindo propriocepção, nocicepção e entrada somática, e todos estes estimulam o núcleo denteado.
+
+O núcleo denteado é o principal responsável pelo planejamento e execução do movimento fino.
+
+Uma vez que qualquer função motora requer informação sensorial, pode-se supor que o núcleo denteado recebe e modula essa informação sensorial, embora o mecanismo específico disso permaneça obscuro.
+
+Por exemplo, o ato de levantar um objeto requer informações sensoriais, como o tamanho do objeto e sua localização no espaço.
+
+Embora o papel principal do núcleo denteado seja o controle do movimento, ele também desempenha um papel no processamento sensorial.
+
+
+=== Função ===
+
+O papel do núcleo denteado pode ser descrito em dois princípios básicos:
+O núcleo denteado está envolvido no trabalho básico dos circuitos, incluindo a entrada no cerebelo de qualquer outro lugar.
+
+Qualquer função que precise de coordenação, incluindo pensamentos e comportamento motor, deve passar pelo cerebelo para ser suavizada.
+
+Essa entrada viaja em duas partes, para a superfície do córtex cerebelar, bem como a entrada colateral para os núcleos cerebelares.
+Todo o cerebelo tem apenas uma saída, que necessariamente leva dos núcleos cerebelares profundos.
+
+Há saída do córtex cerebelar, então essa saída deve passar pelos núcleos cerebelares e enviar saída para o resto do sistema nervoso.
+
+Assim, o cerebelo se comunica com o mundo exterior através dos núcleos cerebelares.
+
+A entrada que chega ao córtex cerebelar é processada de várias maneiras; eventualmente, tudo o que acontece no córtex cerebelar sai do cerebelo através de uma sinapse nos núcleos cerebelares. O núcleo denteado é responsável pelo planejamento, iniciação e controle dos movimentos voluntários.
+
+A região dorsal do denteado contém canais de saída envolvidos na função motora, enquanto a região ventral contém canais de saída envolvidos na função não motora, como cognição e função visuoespacial.
+
+O núcleo denteado envia comandos e informações para as áreas motora e pré-motora do prosencéfalo.
+
+
+== Significado clínico ==
+
+Vários processos patológicos envolvem o núcleo denteado, incluindo distúrbios metabólicos, genéticos e neurodegenerativos, bem como algumas infecções.
+
+
+=== Distúrbios metabólicos ===
+
+Doença da urina do xarope de bordo (MSUD): Um distúrbio hereditário do metabolismo de aminoácidos em recém-nascidos, MSUD resulta em deterioração neurológica.
+
+O edema de mielina é observado no cerebelo, incluindo o núcleo denteado, tronco cerebral e tratos corticospinais.Doença de Leigh: Os sintomas clínicos e patológicos geralmente aparecem no primeiro ano de vida e incluem retardo psicomotor e disfunção do tronco cerebral.
+
+Defeitos bilateralmente simétricos são observados na substância cinzenta periaquedutal, tronco encefálico, gânglios da base e núcleo denteado.Acidúria glutárica tipo 1 (GA1): Doença autossômica recessiva, a GA1 é devida à deficiência de glutaril-coenzima A desidrogenase.
+
+Anormalidades são observadas nos gânglios da base e no núcleo denteado.Doença de Canavan: A doença de Canavan é uma doença da substância branca devido à deficiência de aspartoacilase.
+
+O núcleo denteado não é afetado até o final da progressão da doença.
+
+
+=== Distúrbios diversos ===
+
+Neurofibromatose tipo 1 (NF1): NF1 é uma doença neurocutânea autossômica dominante.
+
+A marca registrada da NF1 é o desenvolvimento de numerosos tumores.
+
+As lesões da substância branca cerebelar e do núcleo denteado geralmente ocorrem em crianças com menos de dez anos de idade. 40 por cento dos pacientes.Doença de Alzheimer (DA) com mioclonia: Há um aumento no volume médio de neurônios grandes e uma diminuição no volume médio de neurônios pequenos no núcleo denteado na DA com mioclonia.
+
+Alterações morfológicas no núcleo denteado podem contribuir para o substrato patológico da mioclonia na DA.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_nucleus
+
+;;;FR;;;
+
+
+
+NOYAU DENTÉ
+
+
+Le noyau denté est un groupe de neurones, ou cellules nerveuses, dans le système nerveux central qui a un bord denté - en forme de dent ou dentelé.
+
+Il est situé dans la substance blanche profonde de chaque hémisphère cérébelleux, et c'est la plus grande structure unique reliant le cervelet au reste du cerveau.
+
+C'est le plus grand et le plus latéral, ou le plus éloigné de la ligne médiane, des quatre paires de noyaux cérébelleux profonds, les autres étant les noyaux globuleux et emboliforme, qui ensemble sont appelés noyau interposé, et le noyau fastigial.
+
+Le noyau denté est responsable de la planification, de l'initiation et du contrôle des mouvements volontaires.
+
+La région dorsale du noyau denté contient des canaux de sortie impliqués dans la fonction motrice, qui est le mouvement du muscle squelettique, tandis que la région ventrale contient des canaux de sortie impliqués dans la fonction non motrice, telle que la pensée consciente et la fonction visuospatiale.
+
+
+== Développement ==
+
+Le noyau denté est très alambiqué, avec des gyri (crêtes sur le cortex cérébral) et des sillons (sillons ou rainures sur le cortex cérébral).
+
+Sa formation coïncide avec une période critique de croissance extensive du denté fœtal.
+
+Le noyau denté devient visible dans la substance blanche cérébelleuse dès 11 à 12 semaines de gestation, ne contenant que des surfaces latérales lisses (vers le ou les côtés ou loin de la ligne médiane) et médiales (vers la ligne médiane).
+
+Pendant ce temps, les neurones du noyau denté ont une forme et une forme similaires, étant principalement des cellules bipolaires. Pendant 22 à 28 semaines de gestation, qui est la période critique du développement fœtal du noyau denté, la formation gyrale se produit largement sur l'ensemble surface.
+
+Ici, les neurones mûrissent en diverses formes de cellules multipolaires, et les types de neurones les plus fréquents sont des neurones de taille moyenne à grande.
+
+
+== Structure ==
+
+
+
+=== Emplacement ===
+
+
+L'architecture du cervelet a une forme qui ressemble à la structure d'un cristal, donc une tranche n'importe où dans le cervelet donne une architecture répétée.
+
+Les huit noyaux cérébelleux, situés dans la matière blanche profonde de chaque hémisphère cérébelleux, sont regroupés en paires, avec un de chaque paire dans chacun des deux hémisphères.
+
+En tant que morceau de tissu, le noyau denté avec le cortex cérébelleux sus-jacent constitue une unité fonctionnelle appelée cérébrocervelet.
+
+Ainsi, il y a une partie du cervelet qui communique exclusivement avec le noyau denté.
+
+
+==== Noyaux cérébelleux profonds ====
+Denté: Le noyau denté est le plus grand, le plus latéral et le plus récent phylogénétiquement des noyaux cérébelleux.
+
+Il reçoit des signaux afférents ou entrants du cortex prémoteur et du cortex moteur supplémentaire via le système pontocérébelleux.
+
+Les signaux efférents, ou sortants, voyagent via le pédoncule cérébelleux supérieur à travers le noyau rouge jusqu'au thalamus contralatéral - côté opposé - ventroantérieur / ventrolatéral (VA / VL).
+Interposé: Les noyaux globuleux et emboliforme forment ensemble le noyau interposé.
+
+Le noyau interposé est le plus petit des noyaux cérébelleux.
+
+Il est situé entre les noyaux dénés et fastigiaux.
+
+Il reçoit un apport afférent du lobe antérieur (vers l'avant) du cervelet et envoie une sortie au noyau rouge controlatéral à travers le pédoncule cérébelleux supérieur.
+
+Ce noyau est à l'origine du tractus rubrospinal qui influence principalement les muscles fléchisseurs des membres.
+Fastigial: Le noyau fastigial est le plus médial.
+
+Il reçoit une entrée afférente du vermis et les efférents voyagent via le pédoncule cérébelleux inférieur jusqu'aux noyaux vestibulaires. Les noyaux cérébelleux profonds reçoivent la sortie finale du cortex cérébelleux via les cellules de Purkinje sous forme d'inhibition.
+
+Les neurones des noyaux cérébelleux génèrent des potentiels d'action spontanés malgré l'inhibition continue des cellules de Purkinje.
+
+Les noyaux cérébelleux reçoivent des projections afférentes de l'olive inférieure, du noyau réticulaire latéral, des segments spinaux cervicaux et lombaires supérieurs et des noyaux pontins.
+
+Ensemble, les noyaux cérébelleux profonds forment une unité fonctionnelle qui fournit un contrôle de rétroaction du cortex cérébelleux par la sortie cérébelleuse.
+
+
+=== Morphologie ===
+
+Le noyau denté est très alambiqué et peut être divisé en domaines dorsal (moteur) et ventral (non moteur).
+
+La moitié ventrale est beaucoup plus développée chez l'homme que chez les grands singes, et elle semble jouer un rôle important dans la connexion des fibres.
+
+De plus, le domaine ventral assure la médiation des fonctions cérébelleuses supérieures, telles que le langage et la cognition, ainsi que le mouvement polyvalent et coordonné des doigts.
+
+S'il est généralement admis que la région ventrale est plus récente sur une échelle de temps évolutive, l'imagerie tridimensionnelle actuelle soulève des questions concernant cette hypothèse, car un troisième axe, l'axe rostrocaudal, peut désormais être analysé.
+
+De plus, les images actuelles montrent que la région ventrale n'est pas physiquement plus grande que la région dorsale chez l'homme, comme on pourrait le prédire si la taille augmente avec la fonction cognitive. Les neurones du denté adulte sont divisés en fonction de la taille, de la morphologie et de la fonction en grands principaux et petits neurones du circuit local.
+
+
+==== Gros neurones principaux ====
+Les grands neurones principaux ont été classés en quatre types principaux en fonction de leur position dans le denté, de la forme du soma (corps cellulaire) et de la ramification dendritique.
+
+Ces neurones sont responsables de la communication entre le noyau denté et le cortex cérébelleux.
+
+Neurones centraux : Les neurones centraux sont situés dans les parties les plus profondes de la masse nucléaire, loin de la périphérie.
+
+Ils ont des somata ronds et épineux, et de nombreux troncs dendritiques émergent de toutes les directions du soma.
+
+Ces dendrites ont des motifs de ramification complexes et des champs dendritiques sphériques.
+Neurones frontières: Les neurones frontières sont concentrés à la limite de la lame nucléaire et ont des somates elliptiques.
+
+Ils ont un axone robuste dirigé dans la substance blanche environnante, ainsi que quatre à six dendrites primaires qui se ramifient à l'extrémité opposée.
+
+Les champs dendritiques de ces neurones ont une forme de tétraèdre avec le corps cellulaire dans un coin.
+Neurones asymétriques intermédiaires : Les neurones asymétriques intermédiaires sont répartis uniformément dans la masse nucléaire et ils ont de grands somates elliptiques.
+
+Ils ont cinq à neuf dendrites ramifiées dans toutes les directions, dont une ou deux beaucoup plus longues que les autres.
+Neurones fusiformes intermédiaires: Les neurones fusiformes intermédiaires sont dispersés dans tout le denté et ils ont des somata allongés et elliptiques qui sont effilés aux deux extrémités.
+
+Ils comprennent trois à cinq dendrites primaires qui se divisent en plusieurs longues dendrites.
+
+La partie supérieure du corps cellulaire est parallèle aux dendrites apicales, qui sont orientées vers le noyau nucléaire.
+
+
+==== Petits neurones du circuit local ====
+Les petits neurones du circuit local comprennent des voies de signalisation contenues dans le denté.
+
+Ces neurones fournissent une rétroaction au denté et permettent un contrôle précis de la signalisation.
+
+Actuellement, moins de recherches ont été menées sur la forme et le rôle spécifiques de ces neurones, car le noyau denté est composé principalement de grands neurones principaux.
+
+
+== Fonction ==
+
+
+
+=== Projections ===
+
+Le denté contient des domaines moteurs et non moteurs anatomiquement séparés et fonctionnellement distincts (dorsal et ventral, respectivement), et les projections sont organisées à partir du noyau denté vers des zones distinctes du thalamus ventrolatéral.
+
+De plus, les parties dorsales du projet denté sur les zones motrices et prémotrices primaires du cortex cérébral, tandis que les parties ventrales du projet denté sur les zones pariétales préfrontales et postérieures du cortex cérébral.
+
+Les domaines moteur et non moteur représentent environ 50 à 60 % et 20 %, respectivement, du denté.
+
+On estime que les proportions humaines dentées sont comparables.
+
+Toutes les zones corticales cérébrales qui sont ciblées par le projet denté sur le cervelet via des efférents vers les noyaux pontins, et les zones corticales qui ne se projettent pas sur le cervelet ne sont pas des cibles de sortie dentée.
+Le domaine moteur dans la partie dorsale du denté contient des canaux de sortie qui contrôlent à la fois la génération et le contrôle du mouvement, ainsi que des neurones qui innervent les zones prémotrices du lobe frontal.
+Le domaine non moteur contient des canaux de sortie impliqués dans la cognition et la fonction visuospatiale, et les projections vers les zones corticales pariétales préfrontales et postérieures de cette région sont regroupées en régions distinctes avec peu de chevauchement.
+
+Ces zones sont activées lors de tâches impliquant la mémoire de travail à court terme, l'apprentissage basé sur des règles et la planification de type fonction exécutive supérieure.
+
+Bien qu'il ait été démontré que l'aspect ventral du denté est impliqué dans l'acquisition d'informations, s'il est impliqué dans la rétention et le stockage reste incertain.
+
+
+=== Parcours ===
+
+Il existe trois voies distinctes du noyau denté au thalamus ventrolatéral, y compris une voie directe, postérieure et antérieure.
+
+La voie directe passe dans le sens antérolatéral sous le thalamus et pénètre par la face ventrale.
+
+Les axones suivant la voie postérieure tournent dorsalement à partir de la ligne médiane du côté postérieur du thalamus, entrant dans le thalamus à partir de diverses positions.
+
+Les axones suivant la voie antérieure passent latéralement dans le sous-thalamus et pénètrent dans la lame médullaire externe.
+
+Dans la lame, les fibres tournent vers l'arrière et pénètrent dans la face dorsale du thalamus.
+
+Ainsi, grâce à ces différentes voies, les neurones du noyau denté sont capables de traverser tous les noyaux thalamiques, à l'exception de ceux de la ligne médiane et des groupes nucléaires antérieurs. Les axones du noyau denté peuvent être divergents ou convergents.
+
+Les branches convergentes comprennent celles qui proviennent d'axones entièrement différents et traversent des routes différentes, mais se chevauchent sur le même champ terminal.
+
+Les voies divergentes proviennent du même axone mais parcourent des routes différentes et ciblent des champs terminaux différents.
+
+Bien qu'aucune connectivité point à point n'ait été observée entre le noyau denté et le thalamus, on pense qu'il existe une connectivité pré-câblée entre un seul site denté et plusieurs représentations de parties du corps dans le thalamus. Trois modalités sont reçues par le cervelet , y compris la proprioception, la nociception et les apports somatiques, et tous stimulent le noyau denté.
+
+Le noyau denté est principalement responsable de la planification et de l'exécution des mouvements fins.
+
+Étant donné que toute fonction motrice nécessite des informations sensorielles, on peut supposer que le noyau denté reçoit et module ces informations sensorielles, bien que le mécanisme spécifique de cela reste incertain.
+
+Par exemple, le fait de soulever un objet nécessite une entrée sensorielle, telle que la taille de l'objet et son emplacement dans l'espace.
+
+Bien que le rôle principal du noyau denté soit le contrôle du mouvement, il joue également un rôle dans le traitement sensoriel.
+
+
+=== Rôle ===
+
+Le rôle du noyau denté peut être décrit en deux principes de base :
+Le noyau denté est impliqué dans le travail de base des circuits, y compris l'entrée dans le cervelet de partout ailleurs.
+
+Toute fonction nécessitant une coordination, y compris les pensées et le comportement moteur, doit passer par le cervelet pour être lissée.
+
+Cette entrée se déplace en deux parties, à la surface du cortex cérébelleux ainsi qu'en entrée collatérale vers les noyaux cérébelleux.
+L'ensemble du cervelet n'a qu'une seule sortie, qui part nécessairement des noyaux cérébelleux profonds.
+
+Il y a une sortie du cortex cérébelleux, donc cette sortie doit passer par les noyaux cérébelleux et envoyer la sortie au reste du système nerveux.
+
+Ainsi, le cervelet communique avec le monde extérieur via les noyaux cérébelleux.
+
+L'entrée qui atteint le cortex cérébelleux est traitée de plusieurs façons ; finalement, tout ce qui se passe dans le cortex cérébelleux sort du cervelet par une synapse dans les noyaux cérébelleux. Le noyau denté est responsable de la planification, de l'initiation et du contrôle des mouvements volontaires.
+
+La région dorsale du denté contient des canaux de sortie impliqués dans la fonction motrice, tandis que la région ventrale contient des canaux de sortie impliqués dans la fonction non motrice, telle que la cognition et la fonction visuospatiale.
+
+Le noyau denté envoie des commandes et des informations aux zones motrices et prémotrices du cerveau antérieur.
+
+
+== Signification clinique ==
+
+Plusieurs processus pathologiques impliquent le noyau denté, notamment des troubles métaboliques, génétiques et neurodégénératifs, ainsi que certaines infections.
+
+
+=== Troubles métaboliques ===
+
+Maladie urinaire du sirop d'érable (MSUD) : trouble héréditaire du métabolisme des acides aminés chez les nouveau-nés, la MSUD entraîne une détérioration neurologique.
+
+L'œdème de myéline est observé dans le cervelet, y compris le noyau denté, le tronc cérébral et les voies corticospinales. Maladie de Leigh : les symptômes cliniques et pathologiques apparaissent généralement au cours de la première année de vie et comprennent un retard psychomoteur et un dysfonctionnement du tronc cérébral.
+
+Des défauts à symétrie bilatérale sont observés dans la matière grise périaqueducale, le tronc cérébral, les ganglions de la base et le noyau denté.Acidurie glutarique de type 1 (GA1): Une maladie autosomique récessive, GA1 est due à un déficit en glutaryl-coenzyme A déshydrogénase.
+
+Des anomalies sont observées dans les ganglions de la base et le noyau denté.Maladie de Canavan : la maladie de Canavan est une maladie de la substance blanche due à un déficit en aspartoacylase.
+
+Le noyau denté n'est pas affecté jusqu'à la fin de la progression de la maladie.
+
+
+=== Troubles divers ===
+
+Neurofibromatose de type 1 (NF1) : la NF1 est une maladie neurocutanée autosomique dominante.
+
+La caractéristique de la NF1 est le développement de nombreuses tumeurs.
+
+Les lésions de la substance blanche cérébelleuse et du noyau denté surviennent généralement chez les enfants de moins de dix ans.Histiocytose à cellules de Langerhans (LCH) : LCH est un trouble agressif dû à la prolifération des hystiocytes à cellules de Langerhans, et on pense que le noyau denté est impliqué dans jusqu'à 40 % des patients.Maladie d'Alzheimer (MA) avec myoclonie : Il y a une augmentation du volume moyen des gros neurones et une diminution du volume moyen des petits neurones dans le noyau denté dans la MA avec myoclonie.
+
+Les modifications morphologiques du noyau denté peuvent contribuer au substrat pathologique de la myoclonie dans la MA.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_nucleus

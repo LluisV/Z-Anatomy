@@ -1,0 +1,94 @@
+
+
+HABENULA
+
+
+In neuroanatomy, habenula (diminutive of Latin habena meaning rein) originally denoted the stalk of the pineal gland (pineal habenula; pedunculus of pineal body), but gradually came to refer to a neighboring group of nerve cells with which the pineal gland was believed to be associated, the habenular nucleus. 
+
+The habenular nucleus is a set of well-conserved structures in all vertebrate animals.Currently, this term refers to this separate cell mass in the caudal portion of the dorsal diencephalon, known as the epithalamus, found in all vertebrates on both sides of the third ventricle. 
+
+It is embedded in the posterior end of the stria medullaris from which it receives most of its afferent fibers. 
+
+By way of the fasciculus retroflexus (habenulointerpeduncular tract) it projects to the interpeduncular nucleus and other paramedian cell groups of the midbrain tegmentum.
+Functionally, the habenula is involved in nociception, sleep-wake cycles, reproductive behavioural, and mood (see section on depression below). 
+
+It is one of the few areas known to influence virtually all monoaminergic systems in the brainstem, such as dopamine, norepinephrine, and serotonin.
+
+
+== Anatomy ==
+
+The habenula was traditionally divided into lateral (limbic) and medial (motor) parts. 
+
+Detailed examination of the region in the cat, however, suggested that the lateral part should be further divided into ten distinct subnuclei and the medial into five distinct subnuclei.
+
+
+=== Asymmetry ===
+
+Various species exhibit left-right asymmetric differentiation of habenular neurons. 
+
+In many fishes and amphibians, the habenula on one side is significantly larger and better organized into distinct nuclei in the dorsal diencephalon than its smaller pair. 
+
+The sidedness of such differentiation (whether the left or the right is more developed) varies with the species. 
+
+In birds and mammals, however, both habenulae are more symmetrical (although not entirely) and consist of a medial and a lateral nucleus on each side which is in fish and amphibians equivalent to dorsal habenula and the ventral habenula, respectively.
+
+
+=== Lateral habenula ===
+
+The primary input regions to the lateral habenula (LHb) are the lateral preoptic area (bringing input from the hippocampus and lateral septum), the ventral pallidum (bringing input from the nucleus accumbens and mediodorsal nucleus of the thalamus), the lateral hypothalamus, the medial habenula, and the internal segment of the globus pallidus (bringing input from other basal ganglia structures).Neurons in the lateral habenula are 'reward-negative' as they are activated by stimuli associated with unpleasant events, the absence of the reward or the presence of punishment especially when this is unpredictable. 
+
+Reward information to the lateral habenula comes from the internal part of the globus pallidus.The outputs of the lateral habenula target dopaminergic regions (substantia nigra pars compacta and the ventral tegmental area), serotonergic regions (median raphe and dorsal raphe nuclei), and a cholinergic region (the laterodorsal tegmental nucleus). 
+
+This output inhibits dopamine neurons in substantia nigra pars compacta and the ventral tegmental area, with activation in the lateral habenula linking to deactivation in them, and vice versa, deactivation in the lateral habenula with their activation. 
+
+The lateral habenula functions to oppose the action of the laterodorsal tegmental nucleus in the acquisition of avoidance responses but not the processing of avoidance later on when it is a memory, motivation or its execution. 
+
+New research suggests that lateral habenula may play a crucial role in decision making.
+
+
+=== Medial habenula ===
+
+Input to the medial habenula (MHb) comes from a variety of regions and carries a number of different chemicals. 
+
+Input regions include septal nuclei (the nucleus fimbrialis septi and the nucleus triangularis septi), dopaminergic inputs from the interfascicular nucleus of the ventral tegmental area, noradrenergic inputs from the locus ceruleus, and GABAergic inputs from the diagonal band of Broca. 
+
+The medial habenula sends outputs of glutamate, substance P and acetylcholine to the periaqueductal gray via the interpeduncular nucleus as well as to the pineal gland.
+
+
+=== Olfactory coding in the habenula ===
+
+In lower vertebrates (lampreys and teleost fishes), mitral cell (principal olfactory neurons) axons project exclusively to the right hemisphere of the habenula in an asymmetric manner. 
+
+It is reported that the dorsal habenulae (DHb) are functionally asymmetric with predominantly odor responses in the right hemisphere. 
+
+It was also shown that DHb neurons are spontaneously active even in the absence of olfactory stimulation. 
+
+These spontaneously-active DHb neurons are organized into functional clusters which were proposed to govern olfactory responses. (Jetti, SK. et al 2014, Current Biology)
+
+
+== Functions ==
+
+The habenular nuclei are involved in pain processing, reproductive behavior, nutrition, sleep-wake cycles, stress responses, and learning. 
+
+Recent demonstrations using fMRI and single unit electrophysiology have closely linked the function of the lateral habenula with reward processing, in particular with regard to encoding negative feedback or negative rewards. 
+
+Matsumoto and Hikosaka suggested in 2007 that this reward and reward-negative information in the brain might "be elaborated through the interplay among the lateral habenula, the basal ganglia, and monoaminergic (dopaminergic and serotonergic) systems" and that the lateral habenula may play a pivotal role in this "integrative function". 
+
+Recent evidence suggests that neurons in the lateral habenula signal positive and negative information-prediction errors in addition to positive and negative reward-prediction errors.
+
+
+== Depression ==
+
+Both the medial and lateral habenula show reduced volume in those with depression. 
+
+Neuron cell numbers were also reduced on the right side. 
+
+Such changes are not seen in those with schizophrenia. 
+
+Deep brain stimulation of the major afferent bundle (i.e., stria medullaris thalami) of the lateral habenula has been used for treatment of depression where it is severe, protracted and therapy-resistant.Methyl-D-aspartate (NMDA) receptor-dependent burst firing in the lateral habenula has been associated with depression in animal studies, and it has been shown that the general anesthetic ketamine blocks this firing by acting as a receptor antagonist. 
+
+Ketamine has been the subject of numerous studies after having shown fast-acting antidepressant effects in humans.
+
+
+
+https://en.wikipedia.org/wiki/Habenula

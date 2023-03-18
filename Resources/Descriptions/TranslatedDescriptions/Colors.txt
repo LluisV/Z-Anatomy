@@ -1,0 +1,88 @@
+
+
+COLORS
+    
+    
+Press 'Z' 
+    to switch between 'Solid' and 'Rendered' viewport shading
+    
+In 'Solid viewport shading', 
+Press 'Alt+Z' 
+    to toggle X-ray mode.
+Press 'Alt+B' 
+    to create or get out of a Clipping border
+    
+Press 'Shift+Alt+Z'
+    to set/reset the key colors of the muscles and their insertions.
+    
+Press 'N' to open the options
+In 'Visibility', check 'Comic shader'
+    to toggle the cartoon style
+;;;ES;;;
+
+
+
+COLORES
+ 
+ 
+Presione 'Z'
+para cambiar entre el sombreado de ventana gráfica 'Sólido' y 'Renderizado'
+ 
+En 'Sombreado de vista sólida',
+Presiona 'Alt+Z'
+para cambiar el modo de rayos X.
+Presiona 'Alt+B'
+para crear o salir de un borde de recorte
+ 
+Presiona 'Mayús+Alt+Z'
+para configurar/restablecer los colores clave de los músculos y sus inserciones.
+ 
+Presione 'N' para abrir las opciones
+En 'Visibilidad', marque 'Comic shader'
+para alternar el estilo de dibujos animados
+
+;;;PT;;;
+
+
+
+CORES
+ 
+ 
+Pressione 'Z'
+para alternar entre o sombreamento da janela de visualização 'Sólido' e 'Renderizado'
+ 
+Em 'Sombreamento sólido da janela de visualização',
+Pressione 'Alt+Z'
+para alternar o modo de raios-X.
+Pressione 'Alt+B'
+para criar ou sair de uma borda de recorte
+ 
+Pressione 'Shift+Alt+Z'
+para definir/redefinir as cores-chave dos músculos e suas inserções.
+ 
+Pressione 'N' para abrir as opções
+Em 'Visibilidade', marque 'Comic shader'
+para alternar o estilo de desenho animado
+
+;;;FR;;;
+
+
+
+COULEURS
+ 
+ 
+Appuyez sur 'Z'
+pour basculer entre l'ombrage de la fenêtre 'Solide' et 'Rendu'
+ 
+Dans 'Ombrure solide de la fenêtre',
+Appuyez sur 'Alt+Z'
+pour basculer en mode rayons X.
+Appuyez sur 'Alt+B'
+pour créer ou sortir d'une bordure de détourage
+ 
+Appuyez sur 'Maj+Alt+Z'
+pour définir/réinitialiser les couleurs clés des muscles et de leurs insertions.
+ 
+Appuyez sur 'N' pour ouvrir les options
+Dans 'Visibilité', cochez 'Comic shader'
+pour basculer le style de dessin animé

@@ -1,0 +1,193 @@
+
+
+COCHLEAR NUCLEUS
+
+
+The cochlear nuclear (CN) complex comprises two cranial nerve nuclei in the human brainstem, the ventral cochlear nucleus (VCN) and the dorsal cochlear nucleus (DCN). 
+
+The ventral (anterior) cochlear nucleus is unlayered whereas the dorsal cochlear nucleus is layered. 
+
+Auditory nerve fibers, fibers that travel through the auditory nerve (also known as the cochlear nerve or eighth cranial nerve) carry information from the inner ear, the cochlea, on the same side of the head, to the nerve root in the ventral cochlear nucleus. 
+
+At the nerve root the fibers branch to innervate the ventral cochlear nucleus and the deep layer of the dorsal cochlear nucleus. 
+
+All acoustic information thus enters the brain through the cochlear nuclei, where the processing of acoustic information begins. 
+
+The outputs from the cochlear nuclei are received in higher regions of the auditory brainstem.
+
+
+== Structure ==
+
+The cochlear nuclei (CN) are located at the dorso-lateral side of the brainstem, spanning the junction of the pons and medulla.
+
+The ventral cochlear nucleus (VCN) on the ventral aspect of the brain stem, ventrolateral to the inferior peduncle.
+
+The dorsal cochlear nucleus (DCN), also known as the tuberculum acusticum or acoustic tubercle, curves over the VCN and wraps around the cerebellar peduncle.
+
+The VCN is further divided by the nerve root into the posteroventral cochlear nucleus (PVCN) and the anteroventral cochlear nucleus (AVCN).
+
+
+=== Projections to the cochlear nuclei ===
+
+The major input to the cochlear nucleus is from the auditory nerve, a part of cranial nerve VIII (the vestibulocochlear nerve). 
+
+The auditory nerve fibers form a highly organized system of connections according to their peripheral innervation of the cochlea. 
+
+Axons from the spiral ganglion cells of the lower frequencies innervate the ventrolateral portions of the ventral cochlear nucleus and lateral-ventral portions of the dorsal cochlear nucleus. 
+
+The axons from the higher frequency organ of corti hair cells project to the dorsal portion of the ventral cochlear nucleus and the dorsal-medial portions of the dorsal cochlear nucleus. 
+
+The mid frequency projections end up in between the two extremes; in this way the tonotopic organization that is established in the cochlea is preserved in the cochlear nuclei. 
+
+This tonotopic organization is preserved because only a few inner hair cells synapse on the dendrites of a nerve cell in the spiral ganglion, and the axon from that nerve cell synapses on only a very few dendrites in the cochlear nucleus. 
+
+In contrast with the VCN that receives all acoustic input from the auditory nerve, the DCN receives input not only from the auditory nerve but it also receives acoustic input from neurons in the VCN (T stellate cells). 
+
+The DCN is therefore in a sense a second order sensory nucleus.
+The cochlear nuclei have long been thought to receive input only from the ipsilateral ear. 
+
+There is evidence, however, for stimulation from the contralateral ear via the contralateral CN, and also the somatosensory parts of the brain.
+
+
+=== Projections from the cochlear nuclei ===
+
+There are three major fiber bundles, axons of cochlear nuclear neurons, that carry information from the cochlear nuclei to targets that are mainly on the opposite side of the brain.  
+
+Through the medulla, one projection goes to the contralateral superior olivary complex (SOC) via the trapezoid body, whilst the other half shoots to the ipsilateral SOC. 
+
+This pathway is called the ventral acoustic stria (VAS or, more commonly, the trapezoid body). 
+
+Another pathway, called the dorsal acoustic stria (DAS, also known as the stria of von Monakow), rises above the medulla into the pons where it hits the nuclei of the lateral lemniscus along with its kin, the intermediate acoustic stria (IAS, also known as the stria of Held). 
+
+The IAS decussates across the medulla, before joining the ascending fibers in the contralateral lateral lemniscus. 
+
+The lateral lemniscus contains cells of the nuclei of the lateral lemniscus, and in turn projects to the inferior colliculus. 
+
+The inferior colliculus receives direct, monosynaptic projections from the superior olivary complex, the contralateral dorsal acoustic stria, some classes of stellate neurons of the VCN, as well as from the different nuclei of the lateral lemniscus.
+
+Most of these inputs terminate in the inferior colliculus, although there are a few small projections that bypass the inferior colliculus and project to the medial geniculate, or other forebrain structures.
+
+Medial superior olive (MSO) via trapezoid body (TB) – Ipsilateral and contralateral stimulation for low frequency sounds.
+
+Lateral superior olive (LSO) directly and via TB – Ipsilateral stimulation for high frequency sounds.
+
+Medial nucleus of trapezoid body (MNTB) – Contralateral stimulation.
+Inferior colliculus – Contralateral stimulation.
+
+Periolivary nuclei (PON) – Ipsilateral and contralateral stimulation.
+Lateral lemniscus (LL) and lemniscal nuclei (LN) – Ipsilateral and contralateral stimulation.
+
+
+=== Histology ===
+
+Three types of principal cells convey information out of the ventral cochlear nucleus: Bushy cells, stellate cells, and octopus cells.
+
+Bushy cells are found mainly in the anterior ventral cochlear nucleus (AVCN). 
+
+These can be further divided into large spherical, small spherical and globular bushy cells, depending on their appearance, and also their location. 
+
+Within the AVCN there is an area of large spherical cells; caudal to this are smaller spherical cells, and globular cells occupy the region around the nerve root. 
+
+An important difference between these subtypes is that they project to differing targets in the superior olivary complex. 
+
+Large spherical bushy cells project to the ipsilateral and contralateral medial superior olive. 
+
+Globular bushy cells project to the contralateral medial nucleus of the trapezoid body, and small spherical bushy cells likely project to the lateral superior olive. 
+
+They have a few (1-4) very short dendrites with numerous small branching, which cause it to resemble a “bush”. 
+
+The bushy cells have specialized electrical properties that allow them to transmit timing information from the auditory nerve to more central areas of the auditory system. 
+
+Because bushy cells receive input from multiple auditory nerve fibers that are tuned to similar frequencies, bushy cells can improve the precision of the timing information by in essence averaging out jitter in timing of the inputs. 
+
+Bushy cells can also be inhibited by sounds adjacent to the frequency to which they are tuned, leading to even sharper tuning than seen in auditory nerve fibers. 
+
+These cells are usually innervated only by a few auditory nerve fibres, which dominate its firing pattern. 
+
+These afferent nerve fibres wrap their terminal branches around the entire soma, creating a large synapse onto the bushy cells, called an "endbulb of Held". 
+
+Therefore, a single unit recording of an electrically stimulated bushy neuron characteristically produces exactly one action potential and constitutes the primary response.
+
+Stellate cells (aka multipolar cells), have longer dendrites that lie parallel to fascicles of auditory nerve fibers. 
+
+They are also called chopper cells, in reference to their ability to fire a regularly spaced train of action potentials for the duration of a tonal or noise stimulus. 
+
+The chopping pattern is intrinsic to the electrical excitability of the stellate cell, and the firing rate depends on the strength of the auditory input more than on the frequency. 
+
+Each stellate cell is narrowly tuned and has inhibitory sidebands, enabling the population of stellate cells to encode the spectrum of sounds, enhancing spectral peaks and valleys. 
+
+These neurons provide acoustic input to the DCN.
+Octopus cells are found in a small region of the posterior ventral cochlear nucleus (PVCN). 
+
+The distinguishing features of these cells are their long, thick and tentacle-shaped dendrites that typically emanate from one side of the cell body. 
+
+Octopus cells produce an "Onset Response" to simple tonal stimuli. 
+
+That is, they respond only at the onset of a broad-band stimulus. 
+
+The octopus cells can fire with some of the highest temporal precision of any neuron in the brain. 
+
+Electrical stimuli to the auditory nerve evoke a graded excitatory postsynaptic potential in the octopus cells. 
+
+These EPSPs are very brief. 
+
+The octopus cells are thought to be important for extracting timing information. 
+
+It has been reported that these cells can respond to click trains at a rate of 800 Hz.Two types of principal cells convey information out of the dorsal cochlear nucleus (DCN) to the contralateral inferior colliculus. 
+
+The principal cells receive two systems of inputs. 
+
+Acoustic input comes to the deep layer through several paths. 
+
+Excitatory acoustic input comes from auditory nerve fibers and also from stellate cells of the VCN. 
+
+Acoustic input is also conveyed through inhibitory interneurons (tuberculoventral cells of the DCN and "wide band inhibitors" in the VCN). 
+
+Through the outermost molecular layer, the DCN receives other types of sensory information, most importantly information about the location of the head and ears, through parallel fibers. 
+
+This information is distributed through a cerebellar like circuit that also includes inhibitory interneurons.  
+
+Fusiform cells (also known as pyramidal cells). 
+
+Fusiform cells integrate information through two tufts of dendrites, the apical dendrites receiving multisensory, excitatory and inhibitory input through the outermost molecular layer and the basal dendrites receiving excitatory and inhibitory acoustic input from the basal dendrites that extend into the deep layer. 
+
+These neurons are thought to enable mammals to analyze the spectral cues that enable us to localize sounds in elevation and when we lose hearing in one ear.
+
+Giant cells also integrate inputs from the molecular and deep layers but input from the deep layer is predominant. 
+
+It is unclear what their role is in hearing.
+
+
+== Function ==
+
+The cochlear nuclear complex is the first integrative, or processing, stage in the auditory system. 
+
+Information is brought to the nuclei from the ipsilateral cochlea via the cochlear nerve. 
+
+Several tasks are performed in the cochlear nuclei. 
+
+By distributing acoustic input to multiple types of principal cells, the auditory pathway is subdivided into parallel ascending pathways, which can simultaneously extract different types of information. 
+
+The cells of the ventral cochlear nucleus extract information that is carried by the auditory nerve in the timing of firing and in the pattern of activation of the population of auditory nerve fibers. 
+
+The cells of the dorsal cochlear nucleus perform a non-linear spectral analysis and place that spectral analysis into the context of the location of the head, ears and shoulders and that separate expected, self-generated spectral cues from more interesting, unexpected spectral cues using input from the auditory cortex, pontine nuclei, trigeminal ganglion and nucleus, dorsal column nuclei and the second dorsal root ganglion. 
+
+It is likely that these neurons help mammals to use spectral cues for orienting toward those sounds. 
+
+The information is used by higher brainstem regions to achieve further computational objectives (such as sound source location or improvement in signal to noise ratio). 
+
+The inputs from these other areas of the brain probably play a role in sound localization.
+
+In order to understand in more detail the specific functions of the cochlear nuclei it is first necessary to understand the way sound information is represented by the fibers of the auditory nerve. 
+
+Briefly, there are around 30,000 auditory nerve fibres in each of the two auditory nerves. 
+
+Each fiber is an axon of a spiral ganglion cell that represents a particular frequency of sound, and a particular range of loudness. 
+
+Information in each nerve fibre is represented by the rate of action potentials as well as the particular timing of individual action potentials. 
+
+The particular physiology and morphology of each cochlear nucleus cell type enhances different aspects of sound information.
+
+
+
+https://en.wikipedia.org/wiki/Cochlear_nucleus

@@ -1,0 +1,100 @@
+
+
+INFERIOR FRONTAL GYRUS
+
+
+The inferior frontal gyrus (IFG), (gyrus frontalis inferior), is the lowest positioned gyrus of the frontal gyri, of the frontal lobe, and is part of the prefrontal cortex.
+Its superior border is the inferior frontal sulcus (which divides it from the middle frontal gyrus), its inferior border is the lateral sulcus (which divides it from the superior temporal gyrus) and its posterior border is the inferior precentral sulcus. 
+
+Above it is the middle frontal gyrus, behind it is the precentral gyrus.The inferior frontal gyrus contains Broca's area, which is involved in language processing and speech production.
+
+
+== Structure ==
+
+The inferior frontal gyrus is highly convoluted and has three cytoarchitecturally diverse regions. 
+
+The three subdivisions are an opercular part, a triangular part, and an orbital part. 
+
+These divisions are marked by two rami arising from the lateral sulcus. 
+
+The ascending ramus separates the opercular and triangular parts. 
+
+The anterior (horizontal) ramus separates the triangular and orbital parts.
+Opercular part of inferior frontal gyrus (pars opercularis), (cortex posterior to the ascending ramus of the lateral sulcus), is the part of frontal lobe that overlies the insular cortex and may be associated with recognizing a tone of voice in spoken native languages. 
+
+This expands on previous work indicating that comprehension of inflectional morpheme processing is associated with the inferior frontal gyrus.
+Triangular part of inferior frontal gyrus (pars triangularis), (cortex between the ascending ramus and the horizontal ramus of the lateral sulcus). 
+
+It may be associated with the ability to translate from a secondary or tertiary language back to one's native language.
+Orbital part of inferior frontal gyrus (pars orbitalis) (cortex inferior and anterior to the horizontal ramus of the lateral sulcus)Cytoarchitecturally the opercular part of the inferior frontal gyrus is known as Brodmann area 44 (BA44). 
+
+The triangular part of the inferior frontal gyrus is known as Brodmann area 45 (BA45), and the orbital part of the inferior frontal gyrus is known as
+Brodmann area 47. 
+
+The opercular part and the triangular part (BA44 and BA45) make up Broca's area.
+
+
+== Function ==
+
+The inferior frontal gyrus has a number of functions including the processing of speech and language in Broca's area. 
+
+Neural circuitry has been shown to connect different sites of stimulus to other regions of response including other subdivisions and also other frontal gyri.
+
+
+=== Language processing ===
+
+ 
+The left opercular part of the inferior frontal gyrus is a part of the articulatory network involved in motor syllable programs. 
+
+The articulatory network also contains the premotor cortex, and the anterior insula. 
+
+These areas are interrelated but have specific functions in speech comprehension and production. 
+
+The articulatory network acts mostly when the vocal tract moves to produce syllables. 
+
+The pars opercularis acts indirectly through the motor cortex to control the motor aspect of speech production, and codes motor programs for this system, while the auditory cortex (via the temporoparietal junction in the lateral sulcus (Sylvian fissure) houses a series of sensory targets. 
+
+Together, these areas function as a sensory-motor loop for syllable information coding.In a study conducted comparing phonological and arithmetic processing and the involvement of different sections of the inferior frontal gyrus and angular gyrus, cortical activation for phonology, subtraction, and multiplication tasks was compared. 
+
+The predetermined language-calculation network was limited to the left inferior frontal gyrus, angular gyrus, superior parietal lobule, and the horizontal portion of the intraparietal sulcus. 
+
+The results were significant to support that there was a pattern of left lateralization for each of these tasks all activating the Perisylvian fissure network, with some general localized areas for phonology and arithmetic. 
+
+It was supported that phonology activated the pars opercularis (BA44), and anterior angular gyrus, multiplication mainly implicated the pars triangularis (BA45), and the posterior angular gyrus. 
+
+These systems are activated through similar neuronal processes but independently placed along the network.
+
+
+=== Language comprehension and production ===
+
+Most language processing takes place in Broca's area usually in the left hemisphere. 
+
+Damage to this region often results in a type of non-fluent aphasia known as Broca's aphasia. 
+
+Broca's area is made up of the pars opercularis and the pars triangularis, both of which contribute to verbal fluency, but each has its own specific contribution. 
+
+The pars opercularis (BA44) is involved in language production and phonological processing due to its connections with motor areas of the mouth and tongue. 
+
+The pars triangularis (BA45) is involved in semantic processing. 
+
+Characteristics of Broca's aphasia include agrammatic speech, relatively good language comprehension, poor repetition, and difficulty speaking mostly uttering short sentences made up mostly of nouns. 
+
+The left IFG has also been suggested to play a role in inhibitory processes, including the tendency to inhibit learning from undesirable information. 
+
+For example, transcranial magnetic stimulation to the left IFG has been shown to release such inhibition, increasing the ability to learn from undesirable information.The right opercular part of the IFG, (BA44) has been implicated in go/no go tasks. 
+
+In these tasks, the participant encounters a preliminary task (for instance repeatedly pressing a button), and then must halt this task whenever a "no go" signal is presented, ultimately measuring a level of impulse control through inhibition of a prepotent response. 
+
+It seems that the same area is also implicated in risk aversion: a study found that higher risk aversion correlated with higher activity at IFG. 
+
+This might be explained as an inhibition signal to accept a risky option. 
+
+Disruption of activity of this area with transcranial direct-current stimulation (tDCS) leads to change in risk attitudes, as behaviorally demonstrated by choices over risky outcomes.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Inferior_frontal_gyrus

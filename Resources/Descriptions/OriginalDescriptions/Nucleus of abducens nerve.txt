@@ -1,0 +1,52 @@
+
+
+NUCLEUS OF ABDUCENS NERVE/
+ABDUCENS NUCLEUS
+
+
+The abducens nucleus is the originating nucleus from which the abducens nerve (VI) emerges—a cranial nerve nucleus. 
+
+This nucleus is located beneath the fourth ventricle in the caudal portion of the pons, medial to the sulcus limitans.
+
+The abducens nucleus along with the internal genu of the facial nerve make up the facial colliculus, a hump at the caudal end of the medial eminence on the dorsal aspect of the pons.
+
+
+== Structure ==
+
+Two primary neuron types are located in the abducens nucleus: motorneurons and interneurons. 
+
+The former directly drive the contraction of the ipsilateral lateral rectus muscle via the abducens nerve (sixth cranial nerve); contraction of this muscle rotates the eye outward (abduction). 
+
+The latter relay signals from the abducens nucleus to the contralateral oculomotor nucleus, where motoneurons drive the contraction of the ipsilateral medial rectus muscle (hence, contralateral to the abducens nucleus that issues the command) ; contraction of this muscle rotates the eye inward (adduction).
+
+
+== Function ==
+
+This "wiring" pattern suggests that the main function of the abducens nucleus is to generate coordinated movements of both eyes in the same direction. 
+
+Indeed, electrical stimulation of the abducens nucleus has been shown to generate conjugate eye movements (i.e. both eyes rotate in the same direction, and by the same angle). 
+
+Such eye movements occur whenever we look between targets located in the distance. 
+
+Moreover, lesions to the axonal tract of interneurons (in the medial longitudinal fasciculus) have been shown to disrupt conjugate eye movements through the paralysis of the contralateral eye. 
+
+Importantly, despite the lesions, this muscle remains functional during convergence eye movements. 
+
+Finally, experiments where the electrical activity of single neurons in the abducens nucleus has been recorded during slow and fast conjugate eye movements have demonstrated very little differences in the discharge patterns of motoneurons and interneurons.
+
+Altogether, it is now well accepted that the abducens nucleus is a key structure for the conjugated movements of both eyes.
+
+
+== Clinical significance ==
+
+Damage to the abducens nerve causes monocular ipsilateral lateral ophthalmoparesis: specifically, loss of the ability to move the ipsilateral eye outward (abduction).
+
+In contrast, damage to the abducens nucleus causes lateral gaze palsy. 
+
+This is due to damage to both the lower motor neurons that innervate the ipsilateral lateral rectus and internuclear neurons that projecting through the contra lateral medial longitudinal fasciculus to the medial rectus subnucleus of the oculomotor nucleus. 
+
+Note, however, that the eye contralateral to the lesion can still move in the direction of the lesion during convergence movements.
+
+
+
+https://en.wikipedia.org/wiki/Abducens_nucleus

@@ -1,0 +1,4 @@
+<map id="Label" name="Label">
+<area shape="rect" id="node1" title="Represents a label in 3D space. Updates its color based on its position and handles its selection." alt="" coords="34,79,87,104"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,116,31"/>
+</map>

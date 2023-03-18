@@ -1,0 +1,26 @@
+var class_global_variables =
+[
+    [ "allBodyPartRenderers", "class_global_variables.html#ad01a7448f7cda0306c9d262fff9d5c5f", null ],
+    [ "allBodyParts", "class_global_variables.html#a074ade9f7f418fad8cd67686ee023337", null ],
+    [ "allNameScripts", "class_global_variables.html#a801a1a3f4031f3e6749f1ed74af0e05f", null ],
+    [ "allVisibilityScripts", "class_global_variables.html#a90bc1a9f7538596faf198d5e57da65d0", null ],
+    [ "arteries", "class_global_variables.html#a5a3cb744733b85cd23bad1baa031cb02", null ],
+    [ "bodySections", "class_global_variables.html#a707b7e8c54168d597d918c4644a16bea", null ],
+    [ "bones", "class_global_variables.html#a66eb6e81da25a2b20ce4adf4e3732068", null ],
+    [ "globalParent", "class_global_variables.html#ab74a2f2efae479cb9fe838b51072331e", null ],
+    [ "insertions", "class_global_variables.html#a59aefa8a6cf44374e733dfdc5cd2c454", null ],
+    [ "insertionsDictionary", "class_global_variables.html#a79795921acf79caed4a8522d5041d03c", null ],
+    [ "joints", "class_global_variables.html#af4446f1bfb93913a1b271cfd90824721", null ],
+    [ "labelFontSize", "class_global_variables.html#ad22f23810c2c215756c7a066c55b9582", null ],
+    [ "lineSize", "class_global_variables.html#ab71695e512410292700427c30abce324", null ],
+    [ "lymphs", "class_global_variables.html#ad26a66d345a319484da255b78d40b8a3", null ],
+    [ "muscles", "class_global_variables.html#a6117dd10f5c7429ddd3c155cfdf2cc6e", null ],
+    [ "musclesDictionary", "class_global_variables.html#a986a57e15c8e689a09906687becbfaa5", null ],
+    [ "nerves", "class_global_variables.html#ab47cfcfff60f9bf76dea9214460454d7", null ],
+    [ "references", "class_global_variables.html#af91f2beef8931e6484b77afc86c78d9d", null ],
+    [ "refresh", "class_global_variables.html#aa8166ce249f328be042429f126e7b283", null ],
+    [ "regions", "class_global_variables.html#af5940f890e0635bec91bde9a32d05952", null ],
+    [ "titleLabelFontSize", "class_global_variables.html#ac81a8328a78cec2e7c1bd51722218e51", null ],
+    [ "veins", "class_global_variables.html#a283f4ed73935540b785cdd03b10cccb5", null ],
+    [ "viscera", "class_global_variables.html#a33cafa34821aed03653c6aa669a54b97", null ]
+];

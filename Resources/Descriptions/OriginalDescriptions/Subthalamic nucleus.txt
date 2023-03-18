@@ -1,0 +1,154 @@
+
+
+SUBTHALAMIC NUCLEUS
+
+
+The subthalamic nucleus is a small lens-shaped nucleus in the brain where it is, from a functional point of view, part of the basal ganglia system. 
+
+In terms of anatomy, it is the major part of the subthalamus. 
+
+As suggested by its name, the subthalamic nucleus is located ventral to the thalamus. 
+
+It is also dorsal to the substantia nigra and medial to the internal capsule. 
+
+It was first described by Jules Bernard Luys in 1865, and the term corpus Luysi or Luys' body is still sometimes used.
+
+
+== Anatomy ==
+
+
+
+=== Structure ===
+
+The principal type of neuron found in the subthalamic nucleus has rather long, sparsely spiny dendrites. 
+
+In the more centrally located neurons, the dendritic arbors have a more ellipsoidal shape. 
+
+The dimensions of these arbors (1200 μm, 600 μm, and 300 μm) are similar across many species—including rat, cat, monkey and human—which is unusual. 
+
+However, the number of neurons increases with brain size as well as the external dimensions of the nucleus. 
+
+The principal neurons are glutamatergic, which give them a particular functional position in the basal ganglia system. 
+
+In humans there are also a small number (about 7.5%) of GABAergic interneurons that participate in the local circuitry; however, the dendritic arbors of subthalamic neurons shy away from the border and primarily interact with one another.The structure of the subthalamic nucleus has not been fully elucidate yet, but it is likely composed of several internal domains. 
+
+The primate subthalamic nucleus is often divided in three internal anatomical-functional domains. 
+
+However, this so called tripartite model has been debated because it does not fully explain the complexity of the subthalamic nucleus in brain function.
+
+
+=== Afferent axons ===
+
+The subthalamic nucleus receives its main input from the external globus pallidus (GPe), not so much through the ansa lenticularis as often said but by radiating fibers crossing the medial pallidum first and the internal capsule (see figure). 
+
+These afferents are GABAergic, inhibiting neurons in the subthalamic nucleus. 
+
+Excitatory, glutamatergic inputs come from the cerebral cortex (particularly the motor cortex), and from the pars parafascicularis of the central complex. 
+
+The subthalamic nucleus also receives neuromodulatory inputs, notably dopaminergic axons from the substantia nigra pars compacta.
+It also receives inputs from the pedunculopontine nucleus.
+
+
+=== Efferent targets ===
+
+The axons of subthalamic nucleus neurons leave the nucleus dorsally. 
+
+The efferent axons are glutamatergic (excitatory). 
+
+Except for the connection to the striatum (17.3% in macaques), most of the subthalamic principal neurons are multitargets and directed to the other elements of the core of the basal ganglia. 
+
+Some send axons to the substantia nigra medially and to the medial and lateral nuclei of the pallidum laterally (3-target, 21.3%). 
+
+Some are 2-target with the lateral pallidum and the substantia nigra (2.7%) or the lateral pallidum and the medial (48%). 
+
+Less are single target for the lateral pallidum. 
+
+In the pallidum, subthalamic terminals end in bands parallel to the pallidal border. 
+
+When all axons reaching this target are added, the main efference of the subthalamic nucleus is, in 82.7% of the cases, clearly the internal globus pallidus (GPi).
+Some researchers have reported internal axon collaterals. 
+
+However, there is little functional evidence for this.
+
+
+== Physiology ==
+
+
+
+=== Subthalamic nucleus ===
+
+The first intracellular electrical recordings of subthalamic neurons were performed using sharp electrodes in a rat slice preparation. 
+
+In these recordings three key observations were made, all three of which have dominated subsequent reports of subthalamic firing properties. 
+
+The first observation was that, in the absence of current injection or synaptic stimulation, the majority of cells were spontaneously firing. 
+
+The second observation is that these cells are capable of transiently firing at very high frequencies.  The third observation concerns non-linear behaviors when cells are transiently depolarized after being hyperpolarized below –65mV. 
+
+They are then able to engage voltage-gated calcium and sodium currents to fire bursts of action potentials.
+Several recent studies have focused on the autonomous pacemaking ability of subthalamic neurons. 
+
+These cells are often referred to as "fast-spiking pacemakers", since they can generate spontaneous action potentials at rates of 80 to 90 Hz in primates.
+Oscillatory and synchronous activity is likely to be a typical pattern of discharge in subthalamic neurons recorded from patients and animal models characterized by the loss of dopaminergic cells in the substantia nigra pars compacta, which is the principal pathology that underlies Parkinson's disease.
+
+
+=== Lateropallido-subthalamic system ===
+
+Strong reciprocal connections link the subthalamic nucleus and the external segment of the globus pallidus. 
+
+Both are fast-spiking pacemakers. 
+
+Together, they are thought to constitute the "central pacemaker of the basal ganglia" with synchronous bursts.
+The connection of the lateral pallidum with the subthalamic nucleus is also the one in the basal ganglia system where the reduction between emitter/receiving elements is likely the strongest. 
+
+In terms of volume, in humans, the lateral pallidum measures 808 mm³, the subthalamic nucleus only 158 mm³. 
+
+This translated in numbers of neurons represents a strong compression with loss of map precision.
+Some axons from the lateral pallidum go to the striatum. 
+
+The activity of the medial pallidum is influenced by afferences from the lateral pallidum and from the subthalamic nucleus. 
+
+The same for the substantia nigra pars reticulata. 
+
+The subthalamic nucleus sends axons to another regulator: the pedunculo-pontine complex (id).
+The lateropallido-subthalamic system is thought to play a key role in the generation of the patterns of activity seen in Parkinson's disease.
+
+
+== Pathophysiology ==
+
+Chronic stimulation of the STN, called deep brain stimulation (DBS), is used to treat patients with Parkinson disease. 
+
+The first to be stimulated are the terminal arborisations of afferent axons, which modify the activity of subthalamic neurons. 
+
+However, it has been shown in thalamic slices from mice, that the stimulus also causes nearby astrocytes to release adenosine triphosphate (ATP), a precursor to adenosine (through a catabolic process). 
+
+In turn, adenosine A1 receptor activation depresses excitatory transmission in the thalamus, thus mimicking ablation of the subthalamic nucleus.
+Unilateral destruction or disruption of the subthalamic nucleus — which can commonly occur via a small vessel stroke in patients with diabetes, hypertension, or a history of smoking – produces hemiballismus.
+As one of the STN's suspected functions is in impulse control, dysfunction in this region has been implicated in obsessive–compulsive disorder. 
+
+Artificially stimulating the STN has shown some promise in correcting severe impulsive behavior and may later be used as an alternative treatment for the disorder.
+
+
+== Function ==
+
+The function of the STN is unknown, but current theories place it as a component of the basal ganglia control system that may perform action selection. 
+
+It is thought to implement the so-called "hyperdirect pathway" of motor control, contrasting with the direct and indirect pathways implemented elsewhere in the basal ganglia. 
+
+STN dysfunction has also been shown to increase impulsivity in individuals presented with two equally rewarding stimuli.Research has suggested that the subthalamus is an extrapyramidal center. 
+
+It holds muscular responses in check, and damage may result in hemiballism (a violent flinging of the arm and leg on one side of the body).The physiological role of the STN has been for long hidden by its pathological role. 
+
+But lately, the research on the physiology of the STN lead to the discovery that the STN is required to achieve intended movement, including locomotion, balance and motor coordination. 
+
+It is indeed involved in stopping or interrupting on-going motor tasks. 
+
+Moreover, STN excitation was generally correlated with significant reduction in locomotor activity, while in contrast, STN inhibition enhanced locomotion.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Subthalamic_nucleus

@@ -1,0 +1,57 @@
+SPHENOID BONE
+    Body of sphenoid bone
+        Sphenoidal yoke
+        Limbus of sphenoid
+        Chiasmatic sulcus
+        Sella turcica
+            Tuberculum sellae
+            Middle clinoid process
+            Hypophysial fossa
+            Craniopharyngeal canal
+            Dorsum sellae
+            Posterior clinoid process
+        Carotid sulcus
+        Sphenoidal lingula
+        Sphenoidal crest
+        Sphenoidal rostrum
+        Sinus of sphenoid bone
+            Opening of sinus of sphenoid bone
+        Septum of sphenoidal sinuses
+        Sphenoidal concha
+    Lesser wing
+        Optic canal
+        Infra-optic tubercle
+        Anterior clinoid process
+            Caroticoclinoid foramen
+        Crista alaris
+    Greater wing
+        Cerebral surface of greater wing
+        Temporal surface of greater wing
+        Infratemporal surface of greater wing
+        Infratemporal crest
+        Maxillary surface of greater wing
+        Orbital surface of greater wing
+        Zygomatic margin of greater wing
+        Frontal margin of greater wing
+        Parietal margin of greater wing
+        Squamosal margin of greater wing
+        Foramen rotundum
+        Foramen ovale
+        Sphenoidal emissary foramen
+        Foramen spinosum
+        Foramen petrosum
+        Spine of sphenoid bone
+        Sulcus of auditory tube
+    Pterygoid process
+        Lateral pterygoid plate
+        Medial pterygoid plate
+    Pterygoid notch
+    Pterygoid fossa
+    Scaphoid fossa
+    Vaginal process of sphenoid bone
+        Palatovaginal groove
+        Vomerovaginal groove
+    Pterygoid hamulus
+        Groove of pterygoid hamulus
+    Pterygoid canal
+    Pterygospinous process

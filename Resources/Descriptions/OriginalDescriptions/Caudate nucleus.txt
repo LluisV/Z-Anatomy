@@ -1,0 +1,269 @@
+
+
+CAUDATE NUCLEUS
+
+
+The caudate nucleus is one of the structures that make up the corpus striatum, which is a component of the basal ganglia. 
+
+While the caudate nucleus has long been associated with motor processes due to its role in Parkinson's disease, it plays important roles in various other nonmotor functions as well, including procedural learning, associative learning and inhibitory control of action, among other functions. 
+
+The caudate is also one of the brain structures which compose the reward system and functions as part of the cortico–basal ganglia–thalamic loop.
+
+
+== Structure ==
+
+
+Together with the putamen, the caudate forms the dorsal striatum, which is considered a single functional structure; anatomically, it is separated by a large white matter tract, the internal capsule, so it is sometimes also referred to as two structures: the medial dorsal striatum (the caudate) and the lateral dorsal striatum (the putamen). 
+
+In this vein, the two are functionally distinct not as a result of structural differences, but merely due to the topographical distribution of function.
+The caudate nuclei are located near the center of the brain, sitting astride the thalamus. 
+
+There is a caudate nucleus within each hemisphere of the brain. 
+
+Individually, they resemble a C-shape structure with a wider "head" (caput in Latin) at the front, tapering to a "body" (corpus) and a "tail" (cauda). 
+
+Sometimes a part of the caudate nucleus is referred to as the "knee" (genu). 
+
+The caudate head receives its blood supply from the lenticulostriate artery while the tail of the caudate receives its blood supply from the anterior choroidal artery.
+
+The head and body of the caudate nucleus form part of the floor of the anterior horn of the lateral ventricle. 
+
+After the body travels briefly towards the back of the head, the tail curves back toward the anterior, forming the roof of the inferior horn of the lateral ventricle. 
+
+This means that a coronal (on a plane parallel to the face) section that cuts through the tail will also cross the body and head of the caudate nucleus.
+
+
+=== Neurochemistry ===
+
+The caudate is highly innervated by dopaminergic neurons that originate from the substantia nigra pars compacta (SNc). 
+
+The SNc is located in the midbrain and contains cell projections to the caudate and putamen, utilizing the neurotransmitter dopamine. 
+
+There are also additional inputs from various association cortices.
+
+
+== Motor functions ==
+
+
+
+=== Spatial mnemonic processing ===
+
+The caudate nucleus integrates spatial information with motor behavior formulation. 
+
+Selective impairment of spatial working memory in subjects with Parkinson's disease and the knowledge of the disease's impact on the amount of dopamine supplied to the striatum have linked the caudate nucleus to spatial and nonspatial mnemonic processing. 
+
+Spatially dependent motor preparation has been linked to the caudate nucleus through event-related fMRI analysis techniques. 
+
+Activity in the caudate nucleus was demonstrated to be greater during tasks featuring spatial and motoric memory demands than those that involved nonspatial tasks.
+Specifically, spatial working memory activity has been observed, via fMRI studies of delayed recognition, to be greater in the caudate nucleus when the activity immediately preceded a motor response. 
+
+These results indicate that the caudate nucleus could be involved in coding a motor response. 
+
+With this in mind, the caudate nucleus could be involved in the recruitment of the motor system to support working memory performance by the mediation of sensory-motor transformations.
+
+
+=== Directed movements ===
+
+The caudate nucleus contributes importantly to body and limbs posture and the speed and accuracy of directed movements. 
+
+Deficits in posture and accuracy during paw usage tasks were observed following the removal of caudate nuclei in felines. 
+
+A delay in initiating performance and the need to constantly shift body position were both observed in cats following partial removal of the nuclei.Following the application of cocaine to the caudate nucleus and the resulting lesions produced, a "leaping or forward movement" was observed in monkeys. 
+
+Due to its association with damage to the caudate, this movement demonstrates the inhibitory nature of the caudate nucleus. 
+
+The "motor release" observed as a result of this procedure indicates that the caudate nucleus inhibits the tendency for an animal to move forward without resistance.
+
+
+== Cognitive functions ==
+
+
+
+=== Goal-directed action ===
+
+A review of neuroimaging studies, anatomical studies of caudate connectivity, and behavioral studies reveals a role for the caudate in executive functioning. 
+
+A study of Parkinson's patients (see below) may also contribute to a growing body of evidence.
+A two-pronged approach of neuroimaging (including PET and fMRI) and anatomical studies expose a strong relationship between the caudate and cortical areas associated with executive functioning: "non-invasive measures of anatomical and functional connectivity in humans demonstrate a clear link between the caudate and executive frontal areas."Meanwhile, behavioral studies provide another layer to the argument: recent studies suggest that the caudate is fundamental to goal-directed action, that is, "the selection of behavior based on the changing values of goals and a knowledge of which actions lead to what outcomes." One such study presented rats with levers that triggered the release of a cinnamon flavored solution. 
+
+After the rats learned to press the lever, the researchers changed the value of the outcome (the rats were taught to dislike the flavor either by being given too much of the flavor, or by making the rats ill after drinking the solution) and the effects were observed. 
+
+Normal rats pressed the lever less frequently, while rats with lesions in the caudate did not suppress the behavior as effectively. 
+
+In this way, the study demonstrates the link between the caudate and goal-directed behavior; rats with damaged caudate nuclei had difficulty assessing the changing value of the outcome. 
+
+In a 2003-human behavioral study, a similar process was repeated, but the decision this time was whether or not to trust another person when money was at stake. 
+
+While here the choice was far more complex––the subjects were not simply asked to press a lever, but had to weigh a host of different factors––at the crux of the study was still behavioral selection based on changing values of outcomes.
+In short, neuroimagery and anatomical studies support the assertion that the caudate plays a role in executive functioning, while behavioral studies deepen our understanding of the ways in which the caudate guides some of our decision-making processes.
+
+
+=== Memory ===
+
+The dorsal-prefrontal cortex subcortical loop involving the caudate nucleus has been linked to deficits in working memory, specifically in schizophrenic patients. 
+
+Functional imaging has shown activation of this subcortical loop during working memory tasks in primates and healthy human subjects. 
+
+The caudate may be affiliated with deficits involving working memory from before illness onset as well. 
+
+Caudate nucleus volume has been found to be inversely associated with perseverative errors on spatial working memory tasks.The amygdala sends direct projections to the caudate nucleus. 
+
+Both the amygdala and the caudate nucleus have direct and indirect projections to the hippocampus. 
+
+The influence of the amygdala on memory processing in the caudate nucleus has been demonstrated with the finding that lesions involving the connections between these two structures "block the memory-enhancing effects of oxotremorine infused into the caudate nucleus". 
+
+In a study involving rats given water-maze training, the caudate nucleus was discovered to enhance memory of visually cued training after amphetamine was infused post-training into the caudate.
+
+
+=== Learning ===
+
+In a 2005 study, subjects were asked to learn to categorize visual stimuli by classifying images and receiving feedback on their responses. 
+
+Activity associated with successful classification learning (correct categorization) was concentrated to the body and tail of the caudate, while activity associated with feedback processing (the result of incorrect categorization) was concentrated to the head of the caudate.
+
+
+=== Sleep ===
+
+Bilateral lesions in the head of the caudate nucleus in cats were correlated with a decrease in the duration of deep slow wave sleep during the sleep-wakefulness cycle. 
+
+With a decrease in total volume of deep slow wave sleep, the transition of short-term memory to long-term memory may also be affected negatively.
+However, the effects of caudate nuclei removal on the sleep-wakefulness pattern of cats have not been permanent. 
+
+Normalization has been discovered after a period of three months following caudate nuclei ablation. 
+
+This discovery could be due to the inter-related nature of the roles of the caudate nucleus and the frontal cortex in controlling levels of central nervous system activation. 
+
+The cats with caudate removal, although permanently hyperactive, had a significant decrease in rapid eye movement sleep (REMS) time that only lasted for about two months. 
+
+However, afrontal cats had a permanent decrease in REMS time and only a temporary period of hyperactivity.Contrasting with associations between "deep", REM sleep and the caudate nucleus, a study involving EEG and fMRI measures during human sleep cycles has indicated that the caudate nucleus demonstrates reduced activity during non-REM sleep across all sleep stages. 
+
+Additionally, studies of human caudate nuclei volume in congenital central hypoventilation syndrome (CCHS) subjects established a correlation between CCHS and a significant reduction in left and right caudate volume. 
+
+CCHS is a genetic disorder that affects the sleep cycle due to a reduced drive to breathe. 
+
+Therefore, the caudate nucleus has been suggested to play a role in human sleep cycles.
+
+
+=== Emotion ===
+
+The caudate nucleus has been implicated in responses to visual beauty, and has been suggested as one of the "neural correlates of romantic love".Approach-attachment behavior and affect are also controlled by the caudate nucleus. 
+
+Cats with bilateral removal of the caudate nuclei persistently approached and followed objects, attempting to contact the target, while exhibiting a friendly disposition by the elicitation of treading of the forelimbs and purring. 
+
+The magnitude of the behavioral responses was correlated to the extent of the removal of the nuclei. 
+
+Reports of human patients with selective damage to the caudate nucleus show unilateral caudate damage resulting in loss of drive, obsessive-compulsive disorder, stimulus-bound perseverative behavior, and hyperactivity. 
+
+Most of these deficits can be classified as relating to approach-attachment behaviors, from approaching a target to romantic love.
+
+
+=== Language ===
+
+Neuroimaging studies reveal that people who can communicate in multiple languages activate exactly the same brain regions regardless of the language. 
+
+A 2006 publication studies this phenomenon and identifies the caudate as a center for language control. 
+
+In perhaps the most illustrative case, a trilingual subject with a lesion to the caudate was observed. 
+
+The patient maintained language comprehension in her three languages, but when asked to produce language, she involuntarily switched between the three languages. 
+
+In short, "these and other findings with bilingual patients suggest that the left caudate is required to monitor and control lexical and language alternatives in production tasks."Local shape deformations of the medial surface of the caudate have been correlated with verbal learning capacity for females and the number of perseverance errors on spatial and verbal fluency working memory tasks for males. 
+
+Specifically, a larger caudate nucleus volume has been linked with better verbal fluency performance.A neurological study of glossolalia showed a significant reduction in activity in the left caudate nucleus during glossolalia compared to singing in English.
+
+
+=== Threshold control ===
+
+The brain contains large collections of neurons reciprocally connected by excitatory synapses, thus forming large network of elements with positive feedback. 
+
+It is difficult to see how such a system can operate without some mechanism to prevent explosive activation. 
+
+There is some indirect evidence that the caudate may perform this regulatory role by measuring the general activity of cerebral cortex and controlling the threshold potential.
+
+
+== Clinical significance ==
+
+
+
+=== Alzheimer's disease ===
+
+A 2013 study has suggested a link between Alzheimer's patients and the caudate nucleus. 
+
+MRI images were used to estimate the volume of caudate nuclei in patients with Alzheimer's and normal volunteers. 
+
+The study found a "significant reduction in the caudate volume" in Alzheimer's patients when compared to the normal volunteers. 
+
+While the correlation does not indicate causation, the finding may have implications for early diagnosis.
+
+
+=== Parkinson's disease ===
+
+Parkinson's disease is likely the most studied basal ganglia disorder. 
+
+Patients with this progressive neurodegenerative disorder often first experience movement related symptoms (the three most common being tremors at rest, muscular rigidity, and akathisia) which are later combined with various cognitive deficiencies, including dementia. 
+
+Parkinson's disease depletes dopaminergic neurons in the nigrostriatal tract, a dopamine pathway that is connected to the head of the caudate. 
+
+As such, many studies have correlated the loss of dopaminergic neurons that send axons to the caudate nucleus and the degree of dementia in Parkinson's patients. 
+
+And while a relationship has been drawn between the caudate and Parkinson's motor deficiencies, the caudate has also been associated with Parkinson's concomitant cognitive impairments. 
+
+One review contrasts the performance of patients with Parkinson's and patients that strictly suffered from frontal-lobe damage in the Tower of London test. 
+
+The differences in performance between the two types of patients (in a test that, in short, requires subjects to select appropriate intermediate goals with a larger goal in mind) draws a link between the caudate and goal-directed action. 
+
+However, the studies are not conclusive. 
+
+While the caudate has been associated with executive function (see "Goal-Directed Action"), it remains "entirely unclear whether executive deficits in [Parkinson's patients] reflect pre-dominantly their cortical or subcortical damage."
+
+
+=== Huntington's disease ===
+
+In Huntington's disease, a genetic mutation occurs in the HTT gene which encodes for Htt protein. 
+
+The Htt protein interacts with over 100 other proteins, and appears to have multiple biological functions. 
+
+The behavior of this mutated protein is not completely understood, but it is toxic to certain cell types, particularly in the brain. 
+
+Early damage is most evident in the striatum, but as the disease progresses, other areas of the brain are also more conspicuously affected. 
+
+Early symptoms are attributable to functions of the striatum and its cortical connections—namely control over movement, mood and higher cognitive function.
+
+
+=== Attention-deficit hyperactivity disorder ===
+
+A 2002 study draws a relationship between caudate asymmetry and symptoms related to ADHD. 
+
+The authors used MR images to compare the relative volumes of the caudate nuclei (as the caudate is a bilateral structure), and drew a connection between any asymmetries and symptoms of ADHD: "The degree of caudate asymmetry significantly predicted cumulative severity ratings of inattentive behaviors." This correlation is congruent with previous associations of the caudate with attentional functioning. 
+
+A more recent 2018 study replicated these findings, and demonstrated that the caudate asymmetries related to ADHD were more pronounced in the dorsal medial regions of the caudate.
+
+
+=== Schizophrenia ===
+
+The volume of white matter in the caudate nucleus has been linked with patients diagnosed with Schizophrenia. 
+
+A 2004 study uses magnetic resonance imaging to compare the relative volume of white matter in the caudate among Schizophrenia patients. 
+
+Those patients who suffer from the disorder have "smaller absolute and relative volumes of white matter in the caudate nucleus than healthy subjects."
+
+
+=== Bipolar type I ===
+
+A 2014 study found Type I Bipolar patients had relatively higher volume of gray and white matter in the caudate nucleus and other areas associated with reward processing and decision making, compared to controls and Bipolar II subjects. 
+
+Overall the amount of gray and white matter in Bipolar patients was lower than controls.
+
+
+=== Obsessive-compulsive disorder ===
+
+It has been theorized that the caudate nucleus may be dysfunctional in persons with obsessive compulsive disorder (OCD), in that it may perhaps be unable to properly regulate the transmission of information regarding worrying events or ideas between the thalamus and the orbitofrontal cortex.
+A neuroimaging study with positron emission tomography found that the right caudate nucleus had the largest change in glucose metabolism after patients had been treated with paroxetine. 
+
+Recent SDM meta-analyses of voxel-based morphometry studies comparing people with OCD and healthy controls have found people with OCD to have increased grey matter volumes in bilateral lenticular nuclei, extending to the caudate nuclei, while decreased grey matter volumes in bilateral dorsal medial frontal/anterior cingulate gyri. 
+
+These findings contrast with those in people with other anxiety disorders, who evince decreased (rather than increased) grey matter volumes in bilateral lenticular / caudate nuclei, while also decreased grey matter volumes in bilateral dorsal medial frontal/anterior cingulate gyri.
+
+
+
+https://en.wikipedia.org/wiki/Caudate_nucleus

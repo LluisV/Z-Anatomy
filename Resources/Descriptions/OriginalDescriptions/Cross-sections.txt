@@ -1,0 +1,16 @@
+
+
+CROSS-SECTIONS
+
+
+Click on the eye-icon of the Cross-section planes in the outliner
+
+Press 'N' to open the side-panel
+
+In Z-Anatomy>Cross sections
+Select the collections and the axis to perform the cross section
+
+You can affect only the selected objects by clicking on the upper X/Y/Z buttons
+
+Select a plane with LMB (Left Mouse Button)
+and press 'G' to move it.

@@ -1,0 +1,33 @@
+
+
+MOVEMENTS (List)
+
+
+-abduction
+-adduction
+
+-lateral rotation
+-medial rotation
+
+-circumduction
+
+-flexion
+-extension
+
+-pronation
+-supination
+
+-opposition
+-reposition
+
+-plantar flexion
+-dorsiflexion
+
+-elevation
+-depression
+
+-eversion
+-inversion
+
+-protraction
+-retraction

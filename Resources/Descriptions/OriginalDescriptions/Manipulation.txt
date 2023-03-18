@@ -1,0 +1,19 @@
+
+
+MANIPULATION
+    
+    
+Press 'G' 
+    to Grab (move with the mouse) the selected object(s)
+
+Press 'Alt+G' 
+    to Reset the position of the selected object(s)
+    
+Press 'R' 
+    to Rotate (with the mouse) the selected object(s)
+    
+Press 'Alt+R' 
+    to Reset the rotation of the selected object(s)
+    
+Press 'T' 
+    to open/close the Toolbar

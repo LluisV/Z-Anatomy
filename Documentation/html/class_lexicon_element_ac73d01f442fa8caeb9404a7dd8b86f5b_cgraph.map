@@ -1,0 +1,25 @@
+<map id="LexiconElement.HideElement" name="LexiconElement.HideElement">
+<area shape="rect" id="node1" title=" " alt="" coords="5,168,199,193"/>
+<area shape="rect" id="node2" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="1344,56,1531,81"/>
+<area shape="rect" id="node4" href="$class_selected_objects_management.html#ac596a7dcaa8802ec6bef09f6c1c8e34f" title="Recursively deselects all child objects of a given parent object." alt="" coords="264,161,461,201"/>
+<area shape="rect" id="node16" href="$class_mesh_management.html#afc8c1eff6ec83e7af15b458d20dac90a" title=" " alt="" coords="247,5,479,31"/>
+<area shape="rect" id="node17" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="270,249,455,289"/>
+<area shape="rect" id="node19" href="$class_action_control.html#a8be02d2a690999101a2534530d37c03d" title=" " alt="" coords="267,345,458,371"/>
+<area shape="rect" id="node3" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="1579,56,1715,81"/>
+<area shape="rect" id="node5" href="$class_selected_objects_management.html#a494c9715c282ac39a6abccad66ce424b" title="Deselects a GameObject from the currently selected objects." alt="" coords="543,191,741,231"/>
+<area shape="rect" id="node6" href="$class_hierarchy_bar.html#ad72351240ca9b401b5f967796fcb0cc1" title=" " alt="" coords="836,273,967,299"/>
+<area shape="rect" id="node7" href="$class_tangible_body_part.html#addb5812e6152141b29f47d4881f89441" title="Deselects the object by changing its selection state and hiding its labels and notes." alt="" coords="812,171,991,196"/>
+<area shape="rect" id="node10" href="$class_names_management.html#a187bea184db6fba1986089b5f2740806" title=" " alt="" coords="805,341,997,367"/>
+<area shape="rect" id="node13" href="$class_lexicon.html#ac7c65494b584322aa61f8adb4fdb8607" title=" " alt="" coords="820,224,983,249"/>
+<area shape="rect" id="node8" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="1074,171,1267,196"/>
+<area shape="rect" id="node9" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="1069,106,1272,146"/>
+<area shape="rect" id="node11" href="$class_names_management.html#aefcfe541cea7196d510da01b57769586" title=" " alt="" coords="1045,349,1296,389"/>
+<area shape="rect" id="node12" href="$class_highlight_text.html#ad3eb806f90582a81e06d0399850b79d0" title=" " alt="" coords="1360,356,1515,381"/>
+<area shape="rect" id="node14" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="1077,285,1264,325"/>
+<area shape="rect" id="node15" href="$class_lexicon_element.html#a401b942dc784d0f5c9ff8091cbcdefe8" title=" " alt="" coords="1077,221,1264,261"/>
+<area shape="rect" id="node18" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="551,256,733,281"/>
+<area shape="rect" id="node20" href="$class_panels_management.html#ade3e9398bcde7caf1a6cd8cdb4891db7" title=" " alt="" coords="547,434,737,474"/>
+<area shape="rect" id="node22" href="$class_panels_management.html#ab497371db20d7a22b2a3d040756139bb" title=" " alt="" coords="527,370,757,410"/>
+<area shape="rect" id="node23" href="$class_action_control.html#ad86242abe7e098854c6928368a5b2b15" title=" " alt="" coords="543,306,741,346"/>
+<area shape="rect" id="node21" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="813,395,989,420"/>
+</map>

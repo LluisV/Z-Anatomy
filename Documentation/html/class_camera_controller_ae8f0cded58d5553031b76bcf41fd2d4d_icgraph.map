@@ -1,0 +1,17 @@
+<map id="CameraController.SetTarget" name="CameraController.SetTarget">
+<area shape="rect" id="node1" title="Sets the target game object and updates the pivot to its position." alt="" coords="785,230,968,255"/>
+<area shape="rect" id="node2" href="$class_camera_controller.html#a75eb2cf30824d49180db4b716219a6e4" title="Centers the camera on the active objects or the selected object(s)." alt="" coords="539,205,731,230"/>
+<area shape="rect" id="node3" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="278,13,474,38"/>
+<area shape="rect" id="node6" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="271,275,481,301"/>
+<area shape="rect" id="node11" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="271,325,481,350"/>
+<area shape="rect" id="node13" href="$class_lexicon_element.html#ade6110168b807cc5da5476f7aa1cacff" title=" " alt="" coords="549,103,720,129"/>
+<area shape="rect" id="node14" href="$class_camera_controller.html#aef236650b45b2e4afcb90d8091abfd1e" title="Resets the camera to its default position and parameters." alt="" coords="532,359,737,385"/>
+<area shape="rect" id="node5" href="$class_select_command.html#a4adfba5781cb1795ec4cdb9cd5a03c3a" title=" " alt="" coords="291,62,461,87"/>
+<area shape="rect" id="node7" href="$class_hierarchy_button.html#a0906c341355a0461c23265da273e6e80" title=" " alt="" coords="293,111,459,137"/>
+<area shape="rect" id="node9" href="$class_bonus_collections.html#a4f18fdd0b2d21d6bcb40c99a120f10f1" title=" " alt="" coords="268,161,484,186"/>
+<area shape="rect" id="node12" href="$class_selected_objects_management.html#a91bae1160eb4529889e6477e3ea029ba" title=" " alt="" coords="277,211,475,251"/>
+<area shape="rect" id="node4" href="$class_lexicon_element_button.html#a41dc70b684895c694867c73606cf67fb" title=" " alt="" coords="5,5,220,45"/>
+<area shape="rect" id="node8" href="$class_hierarchy_button.html#a1120572edd81dea744858740db7b707f" title=" " alt="" coords="24,100,201,140"/>
+<area shape="rect" id="node10" href="$class_bonus_collection_item.html#acf23cc61e3608a0a5fb56cc7d6aa980f" title=" " alt="" coords="25,165,200,190"/>
+<area shape="rect" id="node15" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="299,374,453,399"/>
+</map>

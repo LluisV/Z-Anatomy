@@ -1,0 +1,83 @@
+
+
+LATERAL LEMNISCUS
+
+
+The lateral lemniscus is a tract of axons in the brainstem that carries information about sound from the cochlear nucleus to various brainstem nuclei and ultimately the contralateral inferior colliculus of the midbrain. 
+
+Three distinct, primarily inhibitory, cellular groups are located interspersed within these fibers, and are thus named the nuclei of the lateral lemniscus.
+
+
+== Connections ==
+
+There are three small nuclei on each of the lateral lemnisci: 
+
+the intermediate nucleus of the lateral lemniscus (INLL)
+the ventral nucleus of the lateral lemniscus (VNLL)
+the dorsal nucleus of the lateral lemniscus (DNLL)Fibers leaving these brainstem nuclei ascending to the inferior colliculus rejoin the lateral lemniscus. 
+
+In that sense, this is not a 'lemniscus' in the true sense of the word (second order, decussated sensory axons), as there is third (and out of the lateral superior olive, fourth) order information coming out of some of these brainstem nuclei.
+The lateral lemniscus is located where the cochlear nuclei and the pontine reticular formation (PRF) crossover. 
+
+The PRF descends the reticulospinal tract where it innervates motor neurons and spinal interneurons. 
+
+It is the main auditory tract in the brainstem that connects the superior olivary complex (SOC) with the inferior colliculus (IC). 
+
+The dorsal cochlear nucleus (DCN) has input from the LL and output to the contralateral LL via the ipsilateral and contralateral Dorsal Acoustic Stria.
+The two lemnisci communicate via the commissural fibers of Probst.
+
+
+== Nuclei of the lateral lemniscus ==
+
+The function of the complex of Nuclei of the lateral lemniscus is not known; however it has good temporal resolution compared to other cells higher than the cochlear nuclei and is sensitive to both timing and amplitude changes in sound. 
+
+It is also involved in the acoustic startle reflex; the most likely region for this being the VNLL.
+
+
+=== DNLL ===
+
+The cells of the DNLL respond best to bilateral inputs, and have onset and complexity tuned sustained responses. 
+
+The nucleus is primarily GABAergic, and projects bilaterally to the inferior colliculus, and contralaterally to the DNLL, with different populations of cells projecting to each IC.In rat, the DNLL has a prominent columnar organization. 
+
+Nearly all neurons are stained for GABA, especially in the central part of the nucleus, and the remaining GABA negative cells are interspersed with the positive, and often stain for glycine. 
+
+Two populations of GABA+ cells are visible: larger, lightly stained cells that project to the contralateral IC, and smaller, darker stained cells that project ipsilaterally. 
+
+GABAergic axon terminals form dense groups surrounded by GABA-lemniscal fibers throughout the nucleus, and synapse on both somata and in the neuropil. 
+
+Glycinergic axon terminals, on the other hand, are more finely localized, with the majority of recipient neurons located laterally in the nucleus.
+
+
+=== INLL ===
+
+INLL also has little spontaneous activity and broad tuning curves. 
+
+The temporal responses are significantly different from cells of the VNLL.
+This structure is greatly hypertrophied in the rat, forming a prominent bulge on the surface of the brainstem. 
+
+GAD, GABA, and Glycine staining reveals several distinct regions that are not evident in standard cytoarchitectural preparations. 
+
+A modest number of GABA-stained neurons are arranged in small groups, generally in the center of the nucleus, whereas glycine-stained neurons are more common and widely dispersed, with regional concentrations in the dorsolateral and ventrolateral portions of the nucleus. 
+
+Most GABA+ cells are gly+ as well.[broken footnote]
+
+
+=== VNLL ===
+
+Sound in the contralateral ear leads to the strongest responses in the VNLL, which deals with some temporary processing. 
+
+The VNLL may also be essential to the IC’s decoding of amplitude modulated sounds.
+VNLL cells have little spontaneous activity, broad and moderately complex tuning curves; they have both phasic and tonic responses and are involved in temporal processing.
+In rat, the VNLL is composed of two subdivisions, the ventral (columnar) and dorsal (non columnar) regions. 
+
+The columnar region contains many glycine-positive (0 GABA+) neurons, whereas the dorsal region contains clusters of GABA+ neurons intermingled with gly+ cells, with some cells containing both.
+
+
+== Inputs and outputs to nuclei ==
+
+The table below shows that each of the nuclei have a complicated arrangement of ipsilateral and contralateral afferent inputs and outputs:
+
+
+
+https://en.wikipedia.org/wiki/Lateral_lemniscus

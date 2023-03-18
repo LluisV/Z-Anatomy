@@ -1,0 +1,226 @@
+
+
+EPIDERMIS
+
+
+The epidermis is the outermost of the three layers that comprise the skin, the inner layers being the dermis and hypodermis. 
+
+The epidermis layer provides a barrier to infection from environmental pathogens and regulates the amount of water released from the body into the atmosphere through transepidermal water loss.The epidermis is composed of multiple layers of flattened cells that overlie a base layer (stratum basale) composed of columnar cells arranged perpendicularly. 
+
+The layers of cells develop from stem cells in the basal layer. 
+
+The human epidermis is a familiar example of epithelium, particularly a stratified squamous epithelium
+The word epidermis is derived through Latin from Ancient Greek epidermis, itself from Ancient Greek epi 'over, upon' and from Ancient Greek derma 'skin'. 
+
+Something related to or part of the epidermis is termed epidermal.
+
+
+== Structure ==
+
+
+
+=== Cellular components ===
+
+The epidermis primarily consists of keratinocytes (proliferating basal and differentiated suprabasal), which comprise 90% of its cells, but also contains melanocytes, Langerhans cells, Merkel cells,: 2–3  and inflammatory cells. 
+
+Epidermal thickenings called Rete ridges (or rete pegs) extend downward between dermal papillae.Blood capillaries are found beneath the epidermis, and are linked to an arteriole and a venule.
+The epidermis itself has no blood supply and is nourished almost exclusively by diffused oxygen from the surrounding air. 
+
+Cellular mechanisms for regulating water and sodium levels (ENaCs) are found in all layers of the epidermis.
+
+
+=== Cell junctions ===
+
+Epidermal cells are tightly interconnected to serve as a tight barrier against the exterior environment. 
+
+The junctions between the epidermal cells are of the adherens junction type, formed by transmembrane proteins called cadherins. 
+
+Inside the cell, the cadherins are linked to actin filaments. 
+
+In immunofluorescence microscopy, the actin filament network appears as a thick border surrounding the cells, although the actin filaments are actually located inside the cell and run parallel to the cell membrane. 
+
+Because of the proximity of the neighboring cells and tightness of the junctions, the actin immunofluorescence appears as a border between cells.
+
+
+=== Layers ===
+
+
+The epidermis is composed of 4 or 5 layers, depending on the region of skin being considered. 
+
+Those layers in descending order are:
+cornified layer (stratum corneum)
+Composed of 10 to 30 layers of polyhedral, anucleated corneocytes (final step of keratinocyte differentiation), with the palms and soles having the most layers. 
+
+Corneocytes contain a protein envelope (cornified envelope proteins) underneath the plasma membrane, are filled with water-retaining keratin proteins, attached together through corneodesmosomes and surrounded in the extracellular space by stacked layers of lipids. 
+
+Most of the barrier functions of the epidermis localize to this layer.
+clear/translucent layer (stratum lucidum, only in palms and soles)
+This narrow layer is found only on the palms and soles. 
+
+The epidermis of these two areas is known as "thick skin" because with this extra layer, the skin has 5 epidermal layers instead of 4.
+granular layer (stratum granulosum)
+Keratinocytes lose their nuclei and their cytoplasm appears granular. 
+
+Lipids, contained into those keratinocytes within lamellar bodies, are released into the extracellular space through exocytosis to form a lipid barrier. 
+
+Those polar lipids are then converted into non-polar lipids and arranged parallel to the cell surface. 
+
+For example glycosphingolipids become ceramides and phospholipids become free fatty acids.
+spinous layer (stratum spinosum)
+Keratinocytes become connected through desmosomes and produce lamellar bodies, from within the Golgi, enriched in polar lipids, glycosphingolipids, free sterols, phospholipids and catabolic enzymes. 
+
+Langerhans cells, immunologically active cells, are located in the middle of this layer.
+basal/germinal layer (stratum basale/germinativum)
+Composed mainly of proliferating and non-proliferating keratinocytes, attached to the basement membrane by hemidesmosomes. 
+
+Melanocytes are present, connected to numerous keratinocytes in this and other strata through dendrites. 
+
+Merkel cells are also found in the stratum basale with large numbers in touch-sensitive sites such as the fingertips and lips. 
+
+They are closely associated with cutaneous nerves and seem to be involved in light touch sensation.
+Malpighian layer (stratum malpighi)
+This is both the stratum basale and stratum spinosum.The epidermis is separated from the dermis, its underlying tissue, by a basement membrane.
+
+
+=== Cellular kinetics ===
+
+
+
+==== Cell division ====
+As a stratified squamous epithelium, the epidermis is maintained by cell division within the stratum basale. 
+
+Differentiating cells delaminate from the basement membrane and are displaced outward through the epidermal layers, undergoing multiple stages of differentiation until, in the stratum corneum, losing their nucleus and fusing to squamous sheets, which are eventually shed from the surface (desquamation). 
+
+Differentiated keratinocytes secrete keratin proteins, which contribute to the formation of an extracellular matrix that is an integral part of the skin barrier function. 
+
+In normal skin, the rate of keratinocyte production equals the rate of loss, taking about two weeks for a cell to journey from the stratum basale to the top of the stratum granulosum, and an additional four weeks to cross the stratum corneum. 
+
+The entire epidermis is replaced by new cell growth over a period of about 48 days.
+
+
+==== Calcium concentration ====
+Keratinocyte differentiation throughout the epidermis is in part mediated by a calcium gradient, increasing from the stratum basale until the outer stratum granulosum, where it reaches its maximum, and decreasing in the stratum corneum. 
+
+Calcium concentration in the stratum corneum is very low in part because those relatively dry cells are not able to dissolve the ions. 
+
+This calcium gradient parallels keratinocyte differentiation and as such is considered a key regulator in the formation of the epidermal layers.Elevation of extracellular calcium concentrations induces an increase in intracellular free calcium concentrations. 
+
+Part of that intracellular increase comes from calcium released from intracellular stores and another part comes from transmembrane calcium influx, through both calcium-sensitive chloride channels and voltage-independent cation channels permeable to calcium. 
+
+Moreover, it has been suggested that an extracellular calcium-sensing receptor (CaSR) also contributes to the rise in intracellular calcium concentration.
+
+
+=== Development ===
+
+Epidermal organogenesis, the formation of the epidermis, begins in the cells covering the embryo after neurulation, the formation of the central nervous system. 
+
+In most vertebrates, this original one-layered structure quickly transforms into a two-layered tissue; a temporary outer layer, the periderm, which is disposed once the inner basal layer or stratum germinativum has formed.This inner layer is a germinal epithelium that gives rise to all epidermal cells. 
+
+It divides to form the outer spinous layer (stratum spinosum). 
+
+The cells of these two layers, together called the Malpighian layer(s) after Marcello Malpighi, divide to form the superficial granular layer (Stratum granulosum) of the epidermis.The cells in the stratum granulosum do not divide, but instead form skin cells called keratinocytes from the granules of keratin. 
+
+These skin cells finally become the cornified layer (stratum corneum), the outermost epidermal layer, where the cells become flattened sacks with their nuclei located at one end of the cell. 
+
+After birth these outermost cells are replaced by new cells from the stratum granulosum and throughout life they are shed at a rate of 0.001 - 0.003 ounces of skin flakes every hour, or 0.024-0.072 ounces per day.Epidermal development is a product of several growth factors, two of which are:
+Transforming growth factor Alpha (TGFα) is an autocrine growth factor by which basal cells stimulate their own division.
+Keratinocyte growth factor (KGF or FGF7) is a paracrine growth factor produced by the underlying dermal fibroblasts in which the proliferation of basal cells is regulated.
+
+
+== Function ==
+
+Introduction
+Skin is the largest organ in the body and covers the body's entire external surface. 
+
+It is made up of three layers, the epidermis, dermis, and the hypodermis, all three of which vary significantly in their anatomy and function. 
+
+The skin's structure is made up of an intricate network which serves as the body’s initial barrier against pathogens, UV light, and chemicals, and mechanical injury. 
+
+It also regulates temperature and the amount of water released into the environment. 
+
+This article discusses the relevant anatomical structures of the skin’s epidermal layer, its structure, function, embryology, vascular supply, innervation, surgical considerations, and clinical relevance.
+Skin Thickness
+The thickness of each layer of the skin varies depending on body region and categorized based on the thickness of the epidermal and dermal layers. 
+
+Hairless skin found in the palms of the hands and soles of the feet is thickest because the epidermis contains an extra layer, the stratum lucidum. 
+
+The upper back is considered thickest based on the thickness of the dermis, but it is considered “thin skin” histologically because the epidermal thickness lacks the stratum lucidum layer and is thinner than hairless skin.
+Layers of Epidermis
+The layers of the epidermis include the stratum basale (the deepest portion of the epidermis), stratum spinosum, stratum granulosum, stratum lucidum, and stratum corneum (the most superficial portion of the epidermis).
+Stratum basale, also known as stratum germinativum, is the deepest layer, separated from the dermis by the basement membrane (basal lamina) and attached to the basement membrane by hemidesmosomes. 
+
+The cells found in this layer are cuboidal to columnar mitotically active stem cells that are constantly producing keratinocytes. 
+
+This layer also contains melanocytes.
+Stratum spinosum, 8-10 cell layers, also known as the prickle cell layer contains irregular, polyhedral cells with cytoplasmic processes, sometimes called “spines”, that extend outward and contact neighboring cells by desmosomes. 
+
+Dendritic cells can be found in this layer.
+Stratum granulosum, 3-5 cell layers, contains diamond shaped cells with keratohyalin granules and lamellar granules. 
+
+Keratohyalin granules contain keratin precursors that eventually aggregate, crosslink, and form bundles. 
+
+The lamellar granules contain the glycolipids that get secreted to the surface of the cells and function as a glue, keeping the cells stuck together.
+Stratum lucidum, 2-3 cell layers, present in thicker skin found in the palms and soles, is a thin clear layer consisting of eleidin which is a transformation product of keratohyalin.
+Stratum corneum, 20-30 cell layers, is the uppermost layer, made up of keratin and horny scales made up of dead keratinocytes, known as anucleate squamous cells. 
+
+This is the layer which varies most in thickness, especially in callused skin. 
+
+Within this layer, the dead keratinocytes secrete defensins which are part of our first immune defense.
+Cells of the Epidermis
+Keratinocytes
+Melanocytes
+Langerhans’ cells
+Merkel’s cell
+
+
+=== Skin hydration ===
+
+The ability of the skin to hold water is primarily due to the stratum corneum and is critical for maintaining healthy skin. 
+
+Skin hydration is quantified using corneometry. 
+
+Lipids arranged through a gradient and in an organized manner between the cells of the stratum corneum form a barrier to transepidermal water loss.
+
+
+=== Skin color ===
+
+The amount and distribution of melanin pigment in the epidermis is the main reason for variation in skin color in Homo sapiens. 
+
+Melanin is found in the small melanosomes, particles formed in melanocytes from where they are transferred to the surrounding keratinocytes. 
+
+The size, number, and arrangement of the melanosomes vary between racial groups, but while the number of melanocytes can vary between different body regions, their numbers remain the same in individual body regions in all human beings. 
+
+In white and Asian skin the melanosomes are packed in "aggregates", but in black skin they are larger and distributed more evenly. 
+
+The number of melanosomes in the keratinocytes increases with UV radiation exposure, while their distribution remain largely unaffected.
+
+
+== Clinical significance ==
+
+
+Laboratory culture of keratinocytes to form a 3D structure (artificial skin) recapitulating most of the properties of the epidermis is routinely used as a tool for drug development and testing.
+
+
+=== Hyperplasia ===
+
+Epidermal hyperplasia (thickening resulting from cell proliferation) has various forms:
+
+Acanthosis is diffuse epidermal hyperplasia (thickening of the skin, and not to be confused with acanthocytes). 
+
+It implies increased thickness of the Malpighian layer (stratum basale and stratum spinosum). 
+
+Acanthosis nigricans is a black, poorly defined, velvety hyperpigmented acanthosis, usually observed in the back of neck, axilla, and other folded regions of the skin.
+Focal epithelial hyperplasia (Heck's disease) is an asymptomatic, benign neoplastic condition characterized by multiple white to pinkish papules that occur diffusely in the oral cavity.: 411 
+Pseudoepitheliomatous hyperplasia (PEH) is a benign condition characterized by hyperplasia of the epidermis and epithelium of skin appendages, with irregular squamous strands extending down into the dermis, and closely simulating squamous cell carcinoma (SCC).
+		
+		
+		
+In contract, hyperkeratosis is a thickening of the stratum corneum, and is not necessarily due to hyperplasia.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Epidermis

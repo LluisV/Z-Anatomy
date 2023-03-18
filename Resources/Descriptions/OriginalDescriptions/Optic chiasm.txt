@@ -1,0 +1,97 @@
+
+
+OPTIC CHIASM
+
+
+The optic chiasm, or optic chiasma is the part of the brain where the optic nerves cross. 
+
+It is located at the bottom of the brain immediately inferior to the hypothalamus. 
+
+The optic chiasm is found in all vertebrates, although in cyclostomes (lampreys and hagfishes), it is located within the brain.
+
+This article is about the optic chiasm of vertebrates, which is the best known nerve chiasm, but not every chiasm denotes a crossing of the body midline (e.g., in some invertebrates, see Chiasm (anatomy)). 
+
+A midline crossing of nerves inside the brain is called a decussation (see Definition of types of crossings). 
+
+
+== Structure ==
+
+For the different types of optic chiasm, see
+
+In all vertebrates, the optic nerves of the left and the right eye meet in the body midline, ventral to the brain. 
+
+In many vertebrates the left optic nerve crosses over the right one without fusing with it.
+
+In vertebrates with a large overlap of the visual fields of the two eyes, i.e., most mammals and birds, but also amphibians, reptiles such as chameleons, the two optic nerves merge in the optic chiasm. 
+
+In such a merged optic chiasm, part of the nerve fibres do not cross the midline, but continue towards the optic tract of the ipsilateral side. 
+
+By this partial decussation, the part of the visual field that is covered by both eyes is fused so that the processing of binocular depth perception by stereopsis is enabled.
+
+In the case of such partial decussation, the optic nerve fibres on the medial sides of each retina (which correspond to the lateral side of each visual hemifield, because the image is inverted) cross over to the opposite side of the body midline. 
+
+The inferonasal retina are related to the anterior portion of the optic chiasm whereas superonasal retinal fibers are related to the posterior portion of the optic chiasm.
+
+The partial crossing over of optic nerve fibres at the optic chiasm allows the visual cortex to receive the same hemispheric visual field from both eyes. 
+
+Superimposing and processing these monocular visual signals allow the visual cortex to generate binocular and stereoscopic vision. 
+
+The net result is that the right cerebral hemisphere processes left visual hemifield, and the left cerebral hemisphere processes the right visual hemifield.
+
+Beyond the optic chiasm, with crossed and uncrossed fibers, the optic nerves are called optic tracts. 
+
+The optic tract inserts on the optic tectum (in mammals known as superior colliculus) of the midbrain. 
+
+In mammals they also branch off to the lateral geniculate body of the thalamus, in turn giving them to the occipital cortex of the cerebrum.
+
+
+== Development in mammals ==
+
+During development, the crossing of the optic nerves is guided primarily by cues such as netrin, slit, semaphorin and ephrin; and by morphogens such as sonic hedgehog (Shh) and Wnt. 
+
+This navigation is mediated by the neuronal growth cone, a structure that responds to the cues by ligand-receptor signalling systems that activate downstream pathways inducing changes in the cytoskeleton. 
+
+Retinal ganglion cell (RGC) axons leaving the eye through the optic nerve are blocked from exiting the developing pathway by Slit2 and Sema5A inhibition, expressed bordering the optic nerve pathway. 
+
+Ssh expressed at the central nervous system midline inhibits crossing prior to the chiasm, where it is downregulated. 
+
+The organization of RGC axons changes from retinotopic to a flat sheet-like orientation as they approach the chiasm site.
+
+Most RGC axons cross the midline at the ventral diencephalon and continue to the contralateral superior colliculus. 
+
+The number of axons that do not cross the midline and project ipsilaterally depends on the degree of binocular vision of the animal (3% in mice and 45% in humans do not cross). 
+
+Ephrin-B2 is expressed at the chiasm midline by radial glia and acts as a repulsive signal to axons originating from the ventrotemporal retina expressing EphB1 receptor protein, giving rise to the ipsilateral, or uncrossed, projection. 
+
+RGC axons that do cross at the optic chiasm are guided by the vascular endothelial growth factor, VEGF-A, expressed at the midline, which signals through the receptor Neuropilin-1 (NRP1) expressed on RGC axons. 
+
+Chiasm crossing is also promoted by Nr-CAM (Ng-CAM-related cell adhesion molecule) and Semaphorin6D (Sema6D) expressed at the midline, which form a complex that signals to Nr-CAM/Plexin-A1 receptors on crossing RGC axons. 
+
+
+== Other animals ==
+
+=== Mammals ===
+
+Since all vertebrates, even the earliest fossils and modern jawless ones, possess an optic chiasm, it is not known how it evolved. 
+
+A number of theories have been proposed for the function of the optic chiasm in vertebrates (see theories). 
+
+According to the axial twist hypothesis the optic chiasm develops as a consequence of a twist in the early embryo.
+
+In Siamese cats with certain genotypes of the albino gene, the wiring is disrupted, with more of the nerve-crossing than normal. 
+
+Since siamese cats, like albino tigers, also tend to cross their eyes (strabismus), it has been proposed that this behavior might compensate the abnormal amount of decussation.
+
+
+=== Cephalopods and insects ===
+
+In cephalopods and insects the optic tracts do not cross the body midline, so each side of the brain processes the ipsilateral eye.
+
+
+== History ==
+
+The crossing of nerve fibres, and the impact on vision that this had, was probably first identified by Persian physician "Esmail Jorjani", who appears to be Zayn al-Din Gorgani (1042–1137).
+
+
+
+https://en.wikipedia.org/wiki/Optic_chiasm

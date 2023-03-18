@@ -1,0 +1,54 @@
+
+
+ENDOLYMPH
+
+
+Endolymph is the fluid contained in the membranous labyrinth of the inner ear. 
+
+The major cation in endolymph is potassium, with the values of sodium and potassium concentration in the endolymph being 0.91 mM and 154 mM, respectively. 
+
+It is also called Scarpa's fluid, after Antonio Scarpa.
+
+
+== Structure ==
+
+The inner ear has two parts: the bony labyrinth and the membranous labyrinth. 
+
+The membranous labyrinth is contained within the bony labyrinth, and within the membranous labyrinth is a fluid called endolymph. 
+
+Between the outer wall of the membranous labyrinth and the wall of the bony labyrinth is the location of perilymph.
+
+
+=== Composition ===
+
+Perilymph and endolymph have unique ionic compositions suited to their functions in regulating electrochemical impulses of hair cells. 
+
+The electric potential of endolymph is ~80-90 mV more positive than perilymph due to a higher concentration of K compared to Na.The main component of this unique extracellular fluid is potassium, which is secreted from the stria vascularis. 
+
+The high potassium content of the endolymph means that potassium, not sodium, is carried as the de-polarizing electric current in the hair cells. 
+
+This is known as the mechano-electric transduction (MET) current.
+Endolymph has a high positive potential (80–120 mV in the cochlea), relative to other nearby fluids such as perilymph, due to its high concentration of positively charged ions. 
+
+It is mainly this electrical potential difference that allows potassium ions to flow into the hair cells during mechanical stimulation of the hair bundle. 
+
+Because the hair cells are at a negative potential of about -50 mV, the potential difference from endolymph to hair cell is on the order of 150 mV, which is the largest electrical potential difference found in the body.
+
+
+== Function ==
+
+Hearing: Cochlear duct: fluid waves in the endolymph of the cochlear duct stimulate the receptor cells, which in turn translate their movement into nerve impulses that the brain perceives as sound.
+Balance: Semicircular canals: angular acceleration of the endolymph in the semicircular canals stimulate the vestibular receptors of the endolymph. 
+
+The semicircular canals of both inner ears act in concert to coordinate balance.
+
+
+== Clinical significance ==
+
+Disruption of the endolymph due to jerky movements (like spinning around or driving over bumps while riding in a car) can cause motion sickness. 
+
+A condition where the volume of the endolymph is greatly enlarged is called endolymphatic hydrops and has been linked to Ménière's disease.
+
+
+
+https://en.wikipedia.org/wiki/Endolymph

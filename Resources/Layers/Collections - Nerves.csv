@@ -1,0 +1,147 @@
+Nerves-1,Nerves-2,Nerves-3,Nerves-4,Nerves-5,Nerves-6,Nerves-7,Nerves-8,Nerves-9,Nerves-10
+Aqueduct of midbrain,Cranial nerves.g,Fourth ventricle,Anterior commissure,Falx cerebri,Uncinate fasciculus of cerebrum.l,whole_brain.l,Tonsil of cerebellum.l,Proper palmar digital branches of ulnar nerve.r,Temporal plane.r
+Third ventricle,Corpus callosum,Central canal,Hippocampal commissure,Superior cerebellar peduncle.r,Superior longitudinal fasciculus.l,Uvula of vermis,Superior semilunar lobule.l,Superficial branch of ulnar nerve.r,Superior temporal gyrus (Lateral part).r
+Sense organs.g,Habenula,Spinal dura,Interpeduncular fossa.l,Dorsal scapular nerve.r,Lateral corticospinal tract.l,Tuber of vermis,Inferior semilunar lobule.l,Muscular branches of ulnar nerve.r,Lateral occipitotemporal gyrus.r
+Eye'.g,Mandibular nerve.g,Inferior colliculus.r,Interpeduncular fossa.r,Obturator nerve.r,Inferior fronto-occipital fasciculus.l,Pyramis of vermis,Gracile lobule.l,Proper palmar digital branches of median nerve.r,Medial occipitotemporal gyrus (Parahippocampal*).r
+Eyeball.g,Spinal cord,Medial geniculate body.r,Posterior commissure,Tibial nerve.r,Arcuate fasciculus.l,Peduncle of flocculus.l,Biventral lobule.l,Muscular branches of median nerve.r,Inferior temporal sulcus.r
+Accessory visual structures.g,Amygdaloid body.r,Optic chiasm.r,Septal nuclei,Lateral plantar nerve.r,Wing of central lobule.l,Nodule of vermis,Tonsil of cerebellum.r,Infrapatellar branch of saphenous nerve.r,Inferior temporal gyrus.r
+Ear.g,Hippocampus.r,Optic tract.r,Septum pellucidum,Medial plantar nerve.r,Lingula of cerebellum,Folium of vermis,Superior semilunar lobule.r,Sural communicating branch of common fibular nerve.r,Middle temporal gyrus.r
+Middle ear.g,Lateral geniculate body.r,Radial nerve.r,Caudate nucleus.r,Common fibular nerve.r,Central lobule,Flocculus.l,Inferior semilunar lobule.r,Medial sural cutaneous nerve.r,Superior temporal sulcus.r
+External ear.g,Lateral ventricle.r,Roots of brachial plexus.r,Choroid plexus.r,Tentorium cerebelli.r,Wing of central lobule.r,Declive,Gracile lobule.r,Inferior lateral brachial cutaneous nerve.r,Occipitotemporal sulcus (Lateral part*).r
+Internal ear.g,Stria terminalis.r,Anterior division of inferior trunk of brachial plexus.r,Fornix.r,Femoral branch of genitofemoral nerve.r,Auditory tube.r,Culmen,Biventral lobule.r,Proper palmar digital branches of ulnar nerve.l,Insula (Subcentral gyrus and ant. and post. sulci*).r
+Lacrimal apparatus.g,Superior colliculus.r,Superior trunk of brachial plexus.r,Globus pallidus.r,Genital branch of genitofemoral nerve.r,Auditory tube.l,Peduncle of flocculus.r,Posterior quadrangular lobule.l,Proper palmar digital branches of median nerve.l,Cingulate gyrus and sulcus (Middle anterior part).r
+Vestibular nuclei.r,Olfactory nerve (I).r,Middle trunk of brachial plexus.r,Lentiform nucleus.r,Inferior longitudinal fasciculus.r,Long thoracic nerve.r,Flocculus.r,Anterior quadrangular lobule.l,,Cingulate gyrus and sulcus (Middle posterior part).r
+Tympanic membrane.r,Optic nerve (II).r,Posterior division of superior trunk of brachial plexus.r,Midbrain.r,Corticonuclear fibers.r,Suprascapular nerve.r,Middle cerebellar peduncle.l,Posterior quadrangular lobule.r,,Cingulate gyrus and sulcus (Posterior dorsal part).r
+Vestibule.r,Oculomotor nerve (III).r,Posterior division of inferior trunk of brachial plexus.r,Putamen.r,Cingulum.r,Subclavian nerve.r,Middle cerebellar peduncle.r,Anterior quadrangular lobule.r,,Cingulate gyrus (Posteroventral part*).r
+Cochlea.r,Trigeminal nerve (V).r,Inferior trunk of brachial plexus.r,Thalamus.r,Precommissural fibres.r,Lateral pectoral nerve.r,whole_brain.r,Anterior branch of medial antebrachial cutaneous nerve.r,,Lat_Fis-ant-Horizont.r
+Lacrimal gland.r,Chorda tympani.r,Anterior division of middle trunk of brachial plexus.r,Musculocutaneous nerve.r,Superior cerebellar peduncle.l,Deep branch of radial nerve.r,Medulla oblongata.r,Posterior branch of medial antebrachial cutaneous nerve.r,,Lat_Fis-post.r
+Ampulla of lacrimal canaliculus.l,Facial nerve (VII).r,Posterior division of middle trunk of brachial plexus.r,Ulnar nerve.r,Dorsal scapular nerve.l,Posterior interosseous nerve of forearm.r,Pons.r,Dorsal branch of ulnar nerve.r,,Posterior transverse collateral sulcus.r
+Lacrimal canaliculus.r,Cochlear nerve.r,Anterior division of superior trunk of brachial plexus.r,Median nerve.r,Obturator nerve.l,Posterior antebrachial cutaneous nerve.r,Lateral antebrachial cutaneous nerve.r,Common palmar digital branches of ulnar nerve.r,,Sulcus interm_prim-Jensen.r
+Lacrimal sac.r,Vestibular nerve.r,Mamillary body.r,Femoral nerve.r,Femoral branch of genitofemoral nerve.l,Medial antebrachial cutaneous nerve.r,Superficial branch of radial nerve.r,Common palmar digital branches of median nerve.r,,Temporal pole.l
+Nasolacrimal duct.r,Glossopharyngeal nerve (IX).r,Red nucleus.r,Genitofemoral nerve.r,Genital branch of genitofemoral nerve.l,Anterior interosseous nerve of forearm.r,Palmar branch of ulnar nerve.r,Medial crural cutaneous branches of saphenous nerve.r,,Occipital pole.l
+Suspensory ligament of eyeball.r,Accessory nerve (XI).r,Optic tract.l,Sciatic nerve.r,Tibial nerve.l,Lateral femoral cutaneous nerve.r,Deep branch of ulnar nerve.r,Sural nerve.r,,Central sulcus.l
+Iris.r,Hypoglossal nerve (XII).r,Medial geniculate body.l,Axillary nerve.r,Lateral plantar nerve.l,Superficial fibular nerve.r,Medial brachial cutaneous nerve.r,Medial dorsal cutaneous nerve of foot.r,,Parieto-occipital sulcus.l
+Cornea.r,Abducens nerve (VI).r,Optic chiasm.l,Sympathetic nerves.r,Medial plantar nerve.l,Superior lateral brachial cutaneous nerve.r,(Communicating branch of median nerve with ulnar nerve).r,Common plantar digital branches of lateral plantar nerve.r,,Subparietal sulcus.l
+Sclera.r,Trochlear nerve (IV).r,Inferior colliculus.l,Ganglia of sympathetic trunk.r,Common fibular nerve.l,Muscular branches of axillary nerve.r,Palmar branch of median nerve.r,Common plantar digital branches of medial plantar nerve.r,,Cingulate sulcus (Marginal part*).l
+Retina.r,Posterior cord of brachial plexus.r,Superior trunk of brachial plexus.l,Iliohypogastric nerve.r,Tentorium cerebelli.l,Uncinate fasciculus of cerebrum.r,Saphenous nerve.r,White matter of telencephalon.r,,Circular sulcus of insula.l
+Anterior chamber of eyeball.r,Inferior alveolar nerve.r,Anterior division of superior trunk of brachial plexus.l,Ilio-inguinal nerve.r,Inferior longitudinal fasciculus.l,Superior longitudinal fasciculus.r,Anterior cutaneous branches of femoral nerve.r,White matter of telencephalon.l,,Collateral sulcus.l
+Zonular fibres.r,Mental nerve.r,Middle trunk of brachial plexus.l,Sympathetic trunk.r,Corticonuclear fibers.l,Lateral corticospinal tract.r,Posterior branch of obturator nerve.r,Anterior branch of medial antebrachial cutaneous nerve.l,,Anterior occipital sulcus*.l
+Zonular fibers-curve.r,Nerve to mylohyoid muscle.r,Anterior division of middle trunk of brachial plexus.l,Hypothalamus,Cingulum.l,Inferior fronto-occipital fasciculus.r,Anterior branch of obturator nerve.r,Posterior branch of medial antebrachial cutaneous nerve.l,,Opercular part of inferior frontal gyrus.l
+Lens.r,Buccal nerve.r,Inferior trunk of brachial plexus.l,Choroid plexus.l,Precommissural fibres.l,Arcuate fasciculus.r,Intermediate dorsal cutaneous nerve of foot.r,Dorsal branch of ulnar nerve.l,,Orbital part of  inferior frontal gyrus.l
+Vitreous body.r,Posterior division of mandibular nerve.r,Anterior division of inferior trunk of brachial plexus.l,Caudate nucleus.l,,Long thoracic nerve.l,Muscular branches of deep fibular nerve.r,Common palmar digital branches of ulnar nerve.l,,Triangular part of inferior frontal gyrus.l
+Equator of eyeball,Anterior division of mandibular nerve.r,Posterior division of inferior trunk of brachial plexus.l,Putamen.l,,Suprascapular nerve.l,Deep fibular nerve.r,Common palmar digital branches of median nerve.l,,Orbital gyri (Frontomarginal gyrus and sulcus*).l
+Meridians of eyeball,Lingual nerve.r,Roots of brachial plexus.l,Globus pallidus.l,,Subclavian nerve.l,Muscular branches of radial nerve.r,Medial crural cutaneous branches of saphenous nerve.l,,Paracentral gyrus and sulcus*.l
+External axis of eyeball,Maxillary nerve.r,Radial nerve.l,Lentiform nucleus.l,,Lateral pectoral nerve.l,Intercostal nerves.r,Sural nerve.l,,Transverse frontopolar gyrus and sulcus*.l
+Internal axis of eyeball,Ophthalmic nerve.r,Red nucleus.l,Fornix.l,,Deep branch of radial nerve.l,Pons.l,Medial dorsal cutaneous nerve of foot.l,,Straight gyrus (Gyrus rectus).l
+Olive.r,Meningeal branch of maxillary nerve.r,Mamillary body.l,Thalamus.l,,Posterior interosseous nerve of forearm.l,Medulla oblongata.l,Common plantar digital branches of lateral plantar nerve.l,,Lat_Fis-ant-Vertical.l
+Sensory root of trigeminal nerve.r,Vestibulocochlear nerve (VIII).r,Central canal',Midbrain.l,,Posterior antebrachial cutaneous nerve.l,Lateral antebrachial cutaneous nerve.l,Common plantar digital branches of medial plantar nerve.l,,Inferior frontal sulcus.l
+Anterior cochlear nucleus.r,Vagus nerve (X).r,,Axillary nerve.l,,Superior lateral brachial cutaneous nerve.l,Superficial branch of radial nerve.l,Base of peduncle.l,,Middle frontal gyrus.l
+Nucleus of oculomotor nerve.r,Motor root of trigeminal nerve.r,,Musculocutaneous nerve.l,,Muscular branches of axillary nerve.l,Muscular branches of radial nerve.l,Base of peduncle.r,,Orbital gyri.l
+Accessory nucleus of oculomotor nerve.r,Stria medullaris thalami.r,,Ulnar nerve.l,,Medial antebrachial cutaneous nerve.l,Palmar branch of ulnar nerve.l,Thoracodorsal nerve.l,,Precentral gyrus.l
+Nucleus of abducens nerve.r,Hippocampus.l,,Median nerve.l,,Anterior interosseous nerve of forearm.l,Deep branch of ulnar nerve.l,Thoracodorsal nerve.r,,Superior frontal gyrus.l
+Motor nucleus of facial nerve.r,Amygdaloid body.l,,Iliohypogastric nerve.l,,Lateral femoral cutaneous nerve.l,Medial brachial cutaneous nerve.l,Superior subscapular nerve.l,,Superior frontal sulcus.l
+Superior salivatory nucleus.r,Stria terminalis.l,,Ilio-inguinal nerve.l,,Superficial fibular nerve.l,(Communicating branch of median nerve with ulnar nerve).l,Superior subscapular nerve.r,,Paracentral sulcus.l
+Inferior salivatory nucleus.r,Lateral ventricle.l,,Femoral nerve.l,,,Palmar branch of median nerve.l,Inferior subscapular nerve.l,,Orbital sulci (H-shaped orbital sulci*).l
+Nucleus of trochlear nerve.r,Lateral geniculate body.l,,Genitofemoral nerve.l,,,Intercostal nerves.l,Inferior subscapular nerve.r,,Orbital sulci (Lateral Orbital sulcus*).l
+Pyramid of medulla oblongata.r,Superior colliculus.l,,Sciatic nerve.l,,,Saphenous nerve.l,Superior gluteal nerve.l,,Olfactory sulcus.l
+Ciliary body-curve.r,Olfactory nerve (I).l,,Sympathetic nerves.l,,,Anterior cutaneous branches of femoral nerve.l,Superior gluteal nerve.r,,Precentral sulcus (inferior part)*.l
+Posterior nucleus of vagus nerve.r,Optic nerve (II).l,,Ganglia of sympathetic trunk.l,,,Posterior branch of obturator nerve.l,Nerve to piriformis muscle.l,,Precentral sulcus (Superior part)*.l
+Nucleus of hypoglossal nerve.r,Oculomotor nerve (III).l,,Sympathetic trunk.l,,,Anterior branch of obturator nerve.l,Nerve to piriformis muscle.r,,Angular gyrus.l
+Nucleus of accessory nerve.r,Trigeminal nerve (V).l,,,,,Intermediate dorsal cutaneous nerve of foot.l,Nerve to quadratus femoris muscle.l,,Supramarginal gyrus.l
+Nucleus of solitary tract.r,Mental nerve.l,,,,,Muscular branches of deep fibular nerve.l,Nerve to quadratus femoris muscle.r,,Postcentral gyrus.l
+Nucleus ambiguus.r,Nerve to mylohyoid muscle.l,,,,,Deep fibular nerve.l,Pudendal nerve.l,,Postcentral sulcus.l
+Posterior cochlear nucleus.r,Buccal nerve.l,,,,,,Pudendal nerve.r,,Precuneus.l
+Anterior segment of eyeball.r,Posterior division of mandibular nerve.l,,,,,,Posterior femoral cutaneous nerve.l,,Superior parietal lobule.l
+Cornea.l,Anterior division of mandibular nerve.l,,,,,,Posterior femoral cutaneous nerve.r,,Intraparietal sulcus.l
+Sclera.l,Lingual nerve.l,,,,,,Posterior root of posterior femoral cutaneous nerve.l,,Inferior occipital gyrus and sulcus*.l
+Iris.l,Maxillary nerve.l,,,,,,Posterior root of posterior femoral cutaneous nerve.r,,Lingual gyrus.l
+Retina.l,Ophthalmic nerve.l,,,,,,Anterior root of posterior femoral cutaneous nerve.l,,Lateral occipital gyrus (Middle occipital gyrus*).l
+Anterior chamber of eyeball.l,Meningeal branch of maxillary nerve.l,,,,,,Anterior root of posterior femoral cutaneous nerve.r,,Calcarine sulcus.l
+Zonular fibres.l,Chorda tympani.l,,,,,,Medial pectoral nerve.l,,Cuneus.l
+Lens.l,Facial nerve (VII).l,,,,,,Medial pectoral nerve.r,,Superior occipital gyri.l
+Anterior segment of eyeball.l,Glossopharyngeal nerve (IX).l,,,,,,,,Lunate sulcus.l
+Vitreous body.l,Accessory nerve (XI).l,,,,,,,,Transverse occipital sulcus.l
+Posterior segment of eyeball.l,Hypoglossal nerve (XII).l,,,,,,,,Transverse temporal gyri.l
+Lacrimal gland.l,Abducens nerve (VI).l,,,,,,,,Temporal plane.l
+Ampulla of lacrimal canaliculus.r,Trochlear nerve (IV).l,,,,,,,,Superior temporal gyrus (Lateral part).l
+Lacrimal canaliculus.l,Posterior division of superior trunk of brachial plexus.l,,,,,,,,Lateral occipitotemporal gyrus.l
+Lacrimal sac.l,Posterior division of middle trunk of brachial plexus.l,,,,,,,,Medial occipitotemporal gyrus (Parahippocampal*).l
+Nasolacrimal duct.l,Posterior cord of brachial plexus.l,,,,,,,,Inferior temporal sulcus.l
+Suspensory ligament of eyeball.l,Inferior alveolar nerve.l,,,,,,,,Inferior temporal gyrus.l
+Tympanic membrane.l,Cochlear nerve.l,,,,,,,,Middle temporal gyrus.l
+Sensory root of trigeminal nerve.l,Vestibular nerve.l,,,,,,,,Superior temporal sulcus.l
+Nucleus of oculomotor nerve.l,Vestibulocochlear nerve (VIII).l,,,,,,,,Occipitotemporal sulcus (Lateral part*).l
+Nucleus of abducens nerve.l,Stria medullaris thalami.l,,,,,,,,Insula (Subcentral gyrus and ant. and post. sulci*).l
+Motor nucleus of facial nerve.l,Vagus nerve (X).l,,,,,,,,Cingulate gyrus and sulcus (Middle anterior part).l
+Superior salivatory nucleus.l,Motor root of trigeminal nerve.l,,,,,,,,Cingulate gyrus and sulcus (Middle posterior part).l
+Inferior salivatory nucleus.l,,,,,,,,,Cingulate gyrus and sulcus (Posterior dorsal part).l
+Nucleus of trochlear nerve.l,,,,,,,,,Cingulate gyrus (Posteroventral part*).l
+Nucleus of hypoglossal nerve.l,,,,,,,,,Dorsal digital branches of radial nerve.l
+Vestibular nuclei.l,,,,,,,,,Inferior lateral brachial cutaneous nerve.l
+Accessory nucleus of oculomotor nerve.l,,,,,,,,,Dorsal digital branches of ulnar nerve.l
+Pyramid of medulla oblongata.l,,,,,,,,,Muscular branches of ulnar nerve.l
+Olive.l,,,,,,,,,Muscular branches of median nerve.l
+Anterior cochlear nucleus.l,,,,,,,,,Infrapatellar branch of saphenous nerve.l
+Posterior cochlear nucleus.l,,,,,,,,,Sural communicating branch of common fibular nerve.l
+Posterior nucleus of vagus nerve.l,,,,,,,,,Medial sural cutaneous nerve.l
+Nucleus of solitary tract.l,,,,,,,,,Dorsal digital branches of superficial fibular nerve.l
+Nucleus of accessory nerve.l,,,,,,,,,Dorsal digital branches of deep fibular nerve.l
+Nucleus ambiguus.l,,,,,,,,,Proper plantar digital branches of medial plantar nerve.l
+Vestibule.l,,,,,,,,,Lat_Fis-ant-Horizont.l
+Cochlea.l,,,,,,,,,Lat_Fis-post.l
+Posterior segment of eyeball.r,,,,,,,,,Posterior transverse collateral sulcus.l
+Dilator pupillae.l,,,,,,,,,Sulcus interm_prim-Jensen.l
+Dilator pupillae.r,,,,,,,,,Proper plantar digital branches of lateral plantar nerve.l
+Cauda equina,,,,,,,,,Orbital part of inferior frontal gyrus.l
+Gracile fasciculus,,,,,,,,,Orbital part of inferior frontal gyrus.r
+Cuneate fasciculus,,,,,,,,,Temporal pole.r
+Medial vestibulospinal tract,,,,,,,,,Occipital pole.r
+Intermediomedial nucleus,,,,,,,,,Central sulcus.r
+Nucleus proprius,,,,,,,,,Parieto-occipital sulcus.r
+Intermediolateral nucleus,,,,,,,,,Subparietal sulcus.r
+Spinal reticular process,,,,,,,,,Cingulate sulcus (Marginal part*).r
+Lateral corticospinal tract,,,,,,,,,Circular sulcus of insula.r
+Rubrospinal tract,,,,,,,,,Collateral sulcus.r
+Lateral reticulospinal tract,,,,,,,,,Anterior occipital sulcus*.r
+Lateral vestibulospinal tract,,,,,,,,,Opercular part of inferior frontal gyrus.r
+Medial reticulospinal tract,,,,,,,,,Orbital part of  inferior frontal gyrus.r
+Anterior corticospinal tract,,,,,,,,,Triangular part of inferior frontal gyrus.r
+Anterior spinothalamic tract,,,,,,,,,Orbital gyri (Frontomarginal gyrus and sulcus*).r
+Lateral spinothalamic tract,,,,,,,,,Paracentral gyrus and sulcus*.r
+Posterolateral tract,,,,,,,,,Transverse frontopolar gyrus and sulcus*.r
+Posterior spinocerebellar tract,,,,,,,,,Straight gyrus (Gyrus rectus).r
+Anterior spinocerebellar tract,,,,,,,,,Lat_Fis-ant-Vertical.r
+Tectospinal tract,,,,,,,,,Inferior frontal sulcus.r
+Lateral intermediate substance,,,,,,,,,Middle frontal gyrus.r
+Posterior fasciculus proprius,,,,,,,,,Orbital gyri.r
+Lateral fasciculus proprius,,,,,,,,,Precentral gyrus.r
+Posterior horn of spinal cord,,,,,,,,,Superior frontal gyrus.r
+Anterior fasciculus proprius,,,,,,,,,Superior frontal sulcus.r
+Anterior horn of spinal cord,,,,,,,,,Paracentral sulcus.r
+Spinotectal tract,,,,,,,,,Orbital sulci (H-shaped orbital sulci*).r
+Spinal ganglion.r,,,,,,,,,Orbital sulci (Lateral Orbital sulcus*).r
+Spinal ganglion.l,,,,,,,,,Olfactory sulcus.r
+Posterior root of spinal nerve.l,,,,,,,,,Precentral sulcus (inferior part)*.r
+Posterior root of spinal nerve.r,,,,,,,,,Precentral sulcus (Superior part)*.r
+Anterior root of spinal nerve.l,,,,,,,,,Angular gyrus.r
+Anterior root of spinal nerve.r,,,,,,,,,Supramarginal gyrus.r
+White matter of spinal cord,,,,,,,,,Postcentral gyrus.r
+,,,,,,,,,Postcentral sulcus.r
+,,,,,,,,,Precuneus.r
+,,,,,,,,,Superior parietal lobule.r
+,,,,,,,,,Intraparietal sulcus.r
+,,,,,,,,,Inferior occipital gyrus and sulcus*.r
+,,,,,,,,,Lingual gyrus.r
+,,,,,,,,,Lateral occipital gyrus (Middle occipital gyrus*).r
+,,,,,,,,,Calcarine sulcus.r
+,,,,,,,,,Cuneus.r
+,,,,,,,,,Superior occipital gyri.r
+,,,,,,,,,Lunate sulcus.r
+,,,,,,,,,Transverse occipital sulcus.r
+,,,,,,,,,Transverse temporal gyri.r
+,,,,,,,,,Proper plantar digital branches of medial plantar nerve.r
+,,,,,,,,,Proper plantar digital branches of lateral plantar nerve.r
+,,,,,,,,,Dorsal digital branches of radial nerve.r
+,,,,,,,,,Dorsal digital branches of ulnar nerve.r
+,,,,,,,,,Dorsal digital branches of superficial fibular nerve.r
+,,,,,,,,,Dorsal digital branches of deep fibular nerve.r

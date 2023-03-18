@@ -1,0 +1,8 @@
+<map id="SelectedObjectsManagement.CheckLabelsVisibility" name="SelectedObjectsManagement.CheckLabelsVisibility">
+<area shape="rect" id="node1" title="Checks the visibility of labels for all the active objects, and hides them if there is more than one ..." alt="" coords="5,35,203,75"/>
+<area shape="rect" id="node2" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="251,5,448,45"/>
+<area shape="rect" id="node4" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="253,70,446,95"/>
+<area shape="rect" id="node3" href="$class_camera_controller.html#aaa7e8228113908116a25b1a69eea1c1b" title="Updates the bounds." alt="" coords="496,13,707,38"/>
+<area shape="rect" id="node5" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="508,70,695,95"/>
+<area shape="rect" id="node6" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="755,70,891,95"/>
+</map>

@@ -1,0 +1,107 @@
+ 
+ 
+ Z = Colors
+
+ ALT + Z = X-ray 
+
+ ALT + B = Clipping box
+
+ SHIFT + ALT + Z = Key colors
+ 
+ N = MENU with the Z-ANATOMY ADD-ON
+
+
+
+ SHIFT + % = Group labels on/off
+  
+     
+
+ Q > Set = Reset view
+ 
+ MMB = Orbit
+ or Numpad 4 / 6 / 2 / 8
+
+ SHIFT + MMB = Pan
+ or 
+ SHIFT + Numpad 4 / 6 / 2 / 8 = Pan
+
+ Numpad 1 = Frontal view
+
+ CTRL+ Numpad 1 = Dorsal view
+
+ Numpad  3 = Left view
+
+ CTRL+ Numpad 3 = Right view
+      
+ Numpad  7 = Cranial view
+
+ CTRL+ Numpad 7 = Caudal view
+      
+ Numpad 9 = Invert point of view
+
+ Numpad . = Frame selection
+
+
+ HOME = FRAME ALL
+
+
+ CTRL + SPACEBAR = Maximise window
+    
+
+
+ 1 / 2 / 3 / ... = Change layer
+
+ SHIFT + 1 / 2 / 3 / ...  = Combine layers
+
+
+
+ A = Select all
+
+ A A = Deselect all
+ or
+ ALT + A = Deselect all    
+
+ LMB = Select
+
+ SHIFT + LMB = Select multiple
+
+ LMB ( Click and drag ) = Box select
+   
+ C = Brush select
+
+ + MMB = Change radius  
+    
+ RMB with selection = Collections
+
+
+
+ H = Hide
+
+ SHIFT + H = Isolate
+
+ CTRL + SHIFT + H = Isolate on layer 
+    
+ CTRL + SHIFT + ALT + H = Reveal on layer
+ 
+ ALT + H = Show all
+
+
+
+ % = Language
+
+
+
+ G = Grab (Move)
+ 
+ ALT + G = Reset position
+ 
+ R = Rotate
+ 
+ ALT + R = Reset rotation
+ 
+ S = Scale
+ 
+ ALT + S = Reset scale
+ 
+ 
+PRESS 'CheatSheet' in the Header for the .png version.

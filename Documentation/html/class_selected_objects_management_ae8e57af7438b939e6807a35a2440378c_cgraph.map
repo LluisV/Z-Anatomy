@@ -1,0 +1,5 @@
+<map id="SelectedObjectsManagement.DeleteSelected" name="SelectedObjectsManagement.DeleteSelected">
+<area shape="rect" id="node1" title="Deletes the selected objects." alt="" coords="5,5,203,45"/>
+<area shape="rect" id="node2" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="251,13,437,38"/>
+<area shape="rect" id="node3" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="485,13,621,38"/>
+</map>

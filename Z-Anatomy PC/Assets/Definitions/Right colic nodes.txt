@@ -1,0 +1,48 @@
+
+
+LEFT/MIDDLE/RIGHT COLIC NODES
+
+
+The left colic nodes follow the path of the left colic artery.
+
+The middle colic nodes follow the path of the middle colic artery.
+
+The right colic nodes follow the path of the right colic artery.
+;;;ES;;;
+
+
+
+GANGLIOS CÓLICOS IZQUIERDO/MEDIO/DERECHO
+
+
+Los ganglios cólicos izquierdos siguen el camino de la arteria cólica izquierda.
+
+Los ganglios cólicos medios siguen el camino de la arteria cólica media.
+
+Los ganglios cólicos derechos siguen el camino de la arteria cólica derecha.
+
+;;;PT;;;
+
+
+
+NÓS CÓLICOS ESQUERDO/MÉDIO/DIREITO
+
+
+Os nódulos cólicos esquerdos seguem o trajeto da artéria cólica esquerda.
+
+Os nódulos cólicos médios seguem o trajeto da artéria cólica média.
+
+Os nódulos cólicos direitos seguem o trajeto da artéria cólica direita.
+
+;;;FR;;;
+
+
+
+NŒUDS COLIQUES GAUCHE/MOYEN/DROITE
+
+
+Les ganglions coliques gauches suivent le trajet de l'artère colique gauche.
+
+Les ganglions coliques moyens suivent le trajet de l'artère colique moyenne.
+
+Les ganglions coliques droits suivent le trajet de l'artère colique droite.

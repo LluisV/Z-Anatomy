@@ -1,0 +1,22 @@
+
+
+NERF VESTIBULAIRE
+
+
+Le nerf vestibulaire est l'une des deux branches du nerf vestibulo-cochléaire (VIII).
+
+C'est le nerf sensitif du système vestibulaire destiné au maintien de l'équilibre et à la coordination du regard. 
+
+Les informations transmises sont liées à la gravité, l'accélération et la position de la tête.
+
+Le nerf vestibulaire est constitué des fibres de cellules bipolaires situées dans le ganglion vestibulaire (de Scarpa) du méat auditif interne.
+
+Fonction:
+    
+    -transformer les informations vestibulaires (liées à l'équilibre) en un référentiel basé sur la position de la tête par rapport au corps. 
+
+Ces informations sont utilisées pour mettre à jour dynamiquement ce référentiel.
+
+
+
+https://fr.wikipedia.org/wiki/Nerf_vestibulaire

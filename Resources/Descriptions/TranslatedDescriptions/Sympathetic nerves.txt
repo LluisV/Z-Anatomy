@@ -1,0 +1,728 @@
+
+
+SYMPATHETIC NERVOUS SYSTEM
+/SYMPATHETIC NERVES
+
+
+The sympathetic nervous system (SNS) is one of two divisions of the autonomic nervous system, along with the parasympathetic nervous system. 
+
+The enteric nervous system is sometimes considered part of the autonomic nervous system, and sometimes considered an independent system.
+
+The autonomic nervous system functions to regulate the body's unconscious actions. 
+
+The sympathetic nervous system's primary process is to stimulate the body's fight or flight response. 
+
+It is, however, constantly active at a basic level to maintain homeostasis. 
+
+The sympathetic nervous system is described as being antagonistic to the parasympathetic nervous system which stimulates the body to "feed and breed" and to (then) "rest-and-digest".
+
+
+== Structure ==
+
+There are two kinds of neurons involved in the transmission of any signal through the sympathetic system: pre-ganglionic and post-ganglionic. 
+
+The shorter preganglionic neurons originate in the thoracolumbar division of the spinal cord specifically at T1 to L2~L3, and travel to a ganglion, often one of the paravertebral ganglia, where they synapse with a postganglionic neuron. 
+
+From there, the long postganglionic neurons extend across most of the body.
+
+At the synapses within the ganglia, preganglionic neurons release acetylcholine, a neurotransmitter that activates nicotinic acetylcholine receptors on postganglionic neurons. 
+
+In response to this stimulus, the postganglionic neurons release norepinephrine, which activates adrenergic receptors that are present on the peripheral target tissues. 
+
+The activation of target tissue receptors causes the effects associated with the sympathetic system. 
+
+However, there are three important exceptions:
+Postganglionic neurons of sweat glands release acetylcholine for the activation of muscarinic receptors, except for areas of thick skin, the palms and the plantar surfaces of the feet, where norepinephrine is released and acts on adrenergic receptors. 
+
+This leads to the activation of sudomotor function which is assessed by electrochemical skin conductance.
+
+Chromaffin cells of the adrenal medulla are analogous to post-ganglionic neurons; the adrenal medulla develops in tandem with the sympathetic nervous system and acts as a modified sympathetic ganglion. 
+
+Within this endocrine gland, pre-ganglionic neurons synapse with chromaffin cells, triggering the release of two transmitters: 
+    a small proportion of norepinephrine, and more substantially, epinephrine. 
+
+The synthesis and release of epinephrine as opposed to norepinephrine is another distinguishing feature of chromaffin cells compared to postganglionic sympathetic neurons.
+
+Postganglionic sympathetic nerves terminating in the kidney release dopamine, which acts on dopamine D1 receptors of blood vessels to control how much blood the kidney filters. 
+
+Dopamine is the immediate metabolic precursor to norepinephrine, but is nonetheless a distinct signaling molecule.
+
+
+=== Organization ===
+
+Sympathetic nerves arise from near the middle of the spinal cord in the intermediolateral nucleus of the lateral grey column, beginning at the first thoracic vertebra of the vertebral column and are thought to extend to the second or third lumbar vertebra. 
+
+Because its cells begin in the thoracolumbar division – the thoracic and lumbar regions of the spinal cord – the sympathetic nervous system is said to have a thoracolumbar outflow. 
+
+Axons of these nerves leave the spinal cord through the anterior root. 
+
+They pass near the spinal (sensory) ganglion, where they enter the anterior rami of the spinal nerves. 
+
+However, unlike somatic innervation, they quickly separate out through white rami connectors (so called from the shiny white sheaths of myelin around each axon) that connect to either the paravertebral (which lie near the vertebral column) or prevertebral (which lie near the aortic bifurcation) ganglia extending alongside the spinal column.
+
+To reach target organs and glands, the axons must travel long distances in the body, and, to accomplish this, many axons relay their message to a second cell through synaptic transmission. 
+
+The ends of the axons link across a space, the synapse, to the dendrites of the second cell. 
+
+The first cell (the presynaptic cell) sends a neurotransmitter across the synaptic cleft where it activates the second cell (the postsynaptic cell). 
+
+The message is then carried to the final destination.
+
+Presynaptic nerves' axons terminate in either the paravertebral ganglia or prevertebral ganglia. 
+
+There are four different paths an axon can take before reaching its terminal. 
+
+In all cases, the axon enters the paravertebral ganglion at the level of its originating spinal nerve. 
+
+After this, it can then either synapse in this ganglion, ascend to a more superior or descend to a more inferior paravertebral ganglion and synapse there, or it can descend to a prevertebral ganglion and synapse there with the postsynaptic cell.
+
+The postsynaptic cell then goes on to innervate the targeted end effector (i.e. gland, smooth muscle, etc.). 
+
+Because paravertebral and prevertebral ganglia are close to the spinal cord, presynaptic neurons are much shorter than their postsynaptic counterparts, which must extend throughout the body to reach their destinations.
+
+A notable exception to the routes mentioned above is the sympathetic innervation of the suprarenal (adrenal) medulla. 
+
+In this case, presynaptic neurons pass through paravertebral ganglia, on through prevertebral ganglia and then synapse directly with suprarenal tissue. 
+
+This tissue consists of cells that have pseudo-neuron like qualities in that when activated by the presynaptic neuron, they will release their neurotransmitter (epinephrine) directly into the bloodstream.
+
+In the sympathetic nervous system and other components of the peripheral nervous system, these synapses are made at sites called ganglia. 
+
+The cell that sends its fiber is called a preganglionic cell, while the cell whose fiber leaves the ganglion is called a postganglionic cell. 
+
+As mentioned previously, the preganglionic cells of the sympathetic nervous system are located between the first thoracic segment and the third lumbar segments of the spinal cord. 
+
+Postganglionic cells have their cell bodies in the ganglia and send their axons to target organs or glands.
+
+The ganglia include not just the sympathetic trunks but also the cervical ganglia (superior, middle and inferior), which send sympathetic nerve fibers to the head and thorax organs, and the celiac and mesenteric ganglia, which send sympathetic fibers to the gut.
+
+
+=== Information transmission ===
+
+Messages travel through the sympathetic nervous system in a bi-directional flow. 
+
+Efferent messages can trigger changes in different parts of the body simultaneously. 
+
+For example, the sympathetic nervous system can accelerate heart rate; widen bronchial passages; decrease motility (movement) of the large intestine; constrict blood vessels; increase peristalsis in the oesophagus; cause pupillary dilation, piloerection (goose bumps) and perspiration (sweating); and raise blood pressure. 
+
+One exception is with certain blood vessels such as those in the cerebral and coronary arteries, which dilate (rather than constrict) with an increase in sympathetic tone. 
+
+This is because of a proportional increase in the presence of β2 adrenergic receptors rather than α1 receptors. β2 receptors promote vessel dilation instead of constriction like α1 receptors. 
+
+An alternative explanation is that the primary (and direct) effect of sympathetic stimulation on coronary arteries is vasoconstriction followed by a secondary vasodilation caused by the release of vasodilatory metabolites due to the sympathetically increased cardiac inotropy and heart rate. 
+
+This secondary vasodilation caused by the primary vasoconstriction is termed functional sympatholysis, the overall effect of which on coronary arteries is dilation.
+
+The target synapse of the postganglionic neuron is mediated by adrenergic receptors and is activated by either norepinephrine (noradrenaline) or epinephrine (adrenaline).
+
+
+== Function ==
+
+The sympathetic nervous system is responsible for up- and down-regulating many homeostatic mechanisms in living organisms. 
+
+Fibers from the SNS innervate tissues in almost every organ system, providing at least some regulation of functions as diverse as pupil diameter, gut motility, and urinary system output and function. 
+
+It is perhaps best known for mediating the neuronal and hormonal stress response commonly known as the fight-or-flight response. 
+
+This response is also known as sympatho-adrenal response of the body, as the preganglionic sympathetic fibers that end in the adrenal medulla (but also all other sympathetic fibers) secrete acetylcholine, which activates the great secretion of adrenaline (epinephrine) and to a lesser extent noradrenaline (norepinephrine) from it. 
+
+Therefore, this response that acts primarily on the cardiovascular system is mediated directly via impulses transmitted through the sympathetic nervous system and indirectly via catecholamines secreted from the adrenal medulla.
+
+The sympathetic nervous system is responsible for priming the body for action, particularly in situations threatening survival. 
+
+One example of this priming is in the moments before waking, in which sympathetic outflow spontaneously increases in preparation for action.
+
+Sympathetic nervous system stimulation causes vasoconstriction of most blood vessels, including many of those in the skin, the digestive tract, and the kidneys. 
+
+This occurs as a result of activation of alpha-1 adrenergic receptors by norepinephrine released by post-ganglionic sympathetic neurons. 
+
+These receptors exist throughout the vasculature of the body but are inhibited and counterbalanced by beta-2 adrenergic receptors (stimulated by epinephrine release from the adrenal glands) in the skeletal muscles, the heart, the lungs, and the brain during a sympathoadrenal response. 
+
+The net effect of this is a shunting of blood away from the organs not necessary to the immediate survival of the organism and an increase in blood flow to those organs involved in intense physical activity.
+
+
+=== Sensation ===
+
+The afferent fibers of the autonomic nervous system, which transmit sensory information from the internal organs of the body back to the central nervous system (or CNS), are not divided into parasympathetic and sympathetic fibers as the efferent fibers are. 
+
+Instead, autonomic sensory information is conducted by general visceral afferent fibers.
+
+General visceral afferent sensations are mostly unconscious visceral motor reflex sensations from hollow organs and glands that are transmitted to the CNS. 
+
+While the unconscious reflex arcs normally are undetectable, in certain instances they may send pain sensations to the CNS masked as referred pain. 
+
+If the peritoneal cavity becomes inflamed or if the bowel is suddenly distended, the body will interpret the afferent pain stimulus as somatic in origin. 
+
+This pain is usually non-localized. 
+
+The pain is also usually referred to dermatomes that are at the same spinal nerve level as the visceral afferent synapse.
+
+
+=== Relationship with the parasympathetic nervous system ===
+
+Together with the other component of the autonomic nervous system, the parasympathetic nervous system, the sympathetic nervous system aids in the control of most of the body's internal organs. 
+
+Reaction to stress—as in the flight-or-fight response—is thought to be elicited by the sympathetic nervous system and to counteract the parasympathetic system, which works to promote maintenance of the body at rest. 
+
+The comprehensive functions of both the parasympathetic and sympathetic nervous systems are not so straightforward, but this is a useful rule of thumb.
+
+
+== Disorders ==
+
+In heart failure, the sympathetic nervous system increases its activity, leading to increased force of muscular contractions that in turn increases the stroke volume, as well as peripheral vasoconstriction to maintain blood pressure. 
+
+However, these effects accelerate disease progression, eventually increasing mortality in heart failure. 
+
+Sympathicotonia is a stimulated condition of the sympathetic nervous system, marked by vascular spasm, elevated blood pressure, and goose bumps.
+
+
+
+https://en.wikipedia.org/wiki/Sympathetic_nervous_system
+;;;ES;;;
+
+
+
+SISTEMA NERVIOSO SIMPÁTICO
+/NERVIOS SIMPATICOS
+
+
+El sistema nervioso simpático (SNS) es una de las dos divisiones del sistema nervioso autónomo, junto con el sistema nervioso parasimpático.
+
+El sistema nervioso entérico a veces se considera parte del sistema nervioso autónomo y, a veces, se considera un sistema independiente.
+
+El sistema nervioso autónomo funciona para regular las acciones inconscientes del cuerpo.
+
+El proceso principal del sistema nervioso simpático es estimular la respuesta de lucha o huida del cuerpo.
+
+Sin embargo, está constantemente activo en un nivel básico para mantener la homeostasis.
+
+El sistema nervioso simpático se describe como antagonista del sistema nervioso parasimpático que estimula al cuerpo a "alimentarse y reproducirse" y (luego) "descansar y digerir".
+
+
+== Estructura ==
+
+Hay dos tipos de neuronas involucradas en la transmisión de cualquier señal a través del sistema simpático: preganglionares y posganglionares.
+
+Las neuronas preganglionares más cortas se originan en la división toracolumbar de la médula espinal específicamente en T1 a L2~L3 y viajan a un ganglio, a menudo uno de los ganglios paravertebrales, donde hacen sinapsis con una neurona posganglionar.
+
+A partir de ahí, las largas neuronas posganglionares se extienden por la mayor parte del cuerpo.
+
+En las sinapsis dentro de los ganglios, las neuronas preganglionares liberan acetilcolina, un neurotransmisor que activa los receptores nicotínicos de acetilcolina en las neuronas posganglionares.
+
+En respuesta a este estímulo, las neuronas posganglionares liberan norepinefrina, que activa los receptores adrenérgicos que están presentes en los tejidos diana periféricos.
+
+La activación de los receptores de los tejidos diana provoca los efectos asociados con el sistema simpático.
+
+Sin embargo, hay tres excepciones importantes:
+Las neuronas posganglionares de las glándulas sudoríparas liberan acetilcolina para la activación de los receptores muscarínicos, excepto en las zonas de piel gruesa, las palmas de las manos y las superficies plantares de los pies, donde se libera norepinefrina y actúa sobre los receptores adrenérgicos.
+
+Esto conduce a la activación de la función sudomotora que se evalúa mediante la conductancia electroquímica de la piel.
+
+Las células cromafines de la médula suprarrenal son análogas a las neuronas posganglionares; la médula suprarrenal se desarrolla junto con el sistema nervioso simpático y actúa como un ganglio simpático modificado.
+
+Dentro de esta glándula endocrina, las neuronas preganglionares hacen sinapsis con las células cromafines, lo que desencadena la liberación de dos transmisores:
+una pequeña proporción de norepinefrina y, más sustancialmente, de epinefrina.
+
+La síntesis y liberación de epinefrina en oposición a la norepinefrina es otra característica distintiva de las células cromafines en comparación con las neuronas simpáticas posganglionares.
+
+Los nervios simpáticos posganglionares que terminan en el riñón liberan dopamina, que actúa sobre los receptores de dopamina D1 de los vasos sanguíneos para controlar la cantidad de sangre que filtra el riñón.
+
+La dopamina es el precursor metabólico inmediato de la norepinefrina, pero no obstante es una molécula de señalización distinta.
+
+
+=== Organización ===
+
+Los nervios simpáticos surgen cerca de la mitad de la médula espinal en el núcleo intermediolateral de la columna gris lateral, comenzando en la primera vértebra torácica de la columna vertebral y se cree que se extienden hasta la segunda o tercera vértebra lumbar.
+
+Debido a que sus células comienzan en la división toracolumbar, las regiones torácica y lumbar de la médula espinal, se dice que el sistema nervioso simpático tiene una salida toracolumbar.
+
+Los axones de estos nervios salen de la médula espinal a través de la raíz anterior.
+
+Pasan cerca del ganglio espinal (sensorial), donde ingresan a las ramas anteriores de los nervios espinales.
+
+Sin embargo, a diferencia de la inervación somática, se separan rápidamente a través de conectores de ramas blancas (llamadas así por las vainas blancas brillantes de mielina alrededor de cada axón) que se conectan con las paravertebrales (que se encuentran cerca de la columna vertebral) o las prevertebrales (que se encuentran cerca de la aorta). bifurcación) ganglios que se extienden a lo largo de la columna vertebral.
+
+Para llegar a los órganos y glándulas objetivo, los axones deben viajar largas distancias en el cuerpo y, para lograr esto, muchos axones transmiten su mensaje a una segunda célula a través de la transmisión sináptica.
+
+Los extremos de los axones se vinculan a través de un espacio, la sinapsis, con las dendritas de la segunda célula.
+
+La primera célula (la célula presináptica) envía un neurotransmisor a través de la hendidura sináptica donde activa la segunda célula (la célula postsináptica).
+
+Luego, el mensaje se lleva al destino final.
+
+Los axones de los nervios presinápticos terminan en los ganglios paravertebrales o en los ganglios prevertebrales.
+
+Hay cuatro caminos diferentes que puede tomar un axón antes de llegar a su terminal.
+
+En todos los casos, el axón entra en el ganglio paravertebral al nivel de su nervio espinal de origen.
+
+Después de esto, puede hacer sinapsis en este ganglio, ascender a un ganglio paravertebral más superior o descender a un ganglio paravertebral más inferior y hacer sinapsis allí, o puede descender a un ganglio prevertebral y hacer sinapsis allí con la célula postsináptica.
+
+Luego, la célula postsináptica pasa a inervar el efector final objetivo (es decir, glándula, músculo liso, etc.).
+
+Debido a que los ganglios paravertebrales y prevertebrales están cerca de la médula espinal, las neuronas presinápticas son mucho más cortas que sus contrapartes postsinápticas, que deben extenderse por todo el cuerpo para llegar a sus destinos.
+
+Una excepción notable a las rutas mencionadas anteriormente es la inervación simpática de la médula suprarrenal (adrenal).
+
+En este caso, las neuronas presinápticas pasan a través de los ganglios paravertebrales, a través de los ganglios prevertebrales y luego hacen sinapsis directamente con el tejido suprarrenal.
+
+Este tejido consta de células que tienen cualidades similares a las pseudoneuronas en el sentido de que, cuando son activadas por la neurona presináptica, liberan su neurotransmisor (epinefrina) directamente en el torrente sanguíneo.
+
+En el sistema nervioso simpático y otros componentes del sistema nervioso periférico, estas sinapsis se realizan en sitios llamados ganglios.
+
+La célula que envía su fibra se denomina célula preganglionar, mientras que la célula cuya fibra sale del ganglio se denomina célula posganglionar.
+
+Como se mencionó anteriormente, las células preganglionares del sistema nervioso simpático se ubican entre el primer segmento torácico y el tercer segmento lumbar de la médula espinal.
+
+Las células posganglionares tienen sus cuerpos celulares en los ganglios y envían sus axones a los órganos o glándulas diana.
+
+Los ganglios incluyen no solo los troncos simpáticos, sino también los ganglios cervicales (superior, medio e inferior), que envían fibras nerviosas simpáticas a los órganos de la cabeza y el tórax, y los ganglios celíaco y mesentérico, que envían fibras simpáticas al intestino.
+
+
+=== Transmisión de información ===
+
+Los mensajes viajan a través del sistema nervioso simpático en un flujo bidireccional.
+
+Los mensajes eferentes pueden desencadenar cambios en diferentes partes del cuerpo simultáneamente.
+
+Por ejemplo, el sistema nervioso simpático puede acelerar el ritmo cardíaco; ensanchar los conductos bronquiales; disminuir la motilidad (movimiento) del intestino grueso; contraer los vasos sanguíneos; aumentar el peristaltismo en el esófago; causar dilatación pupilar, piloerección (piel de gallina) y transpiración (sudoración); y elevar la presión arterial.
+
+Una excepción son ciertos vasos sanguíneos, como los de las arterias cerebrales y coronarias, que se dilatan (en lugar de contraerse) con un aumento del tono simpático.
+
+Esto se debe a un aumento proporcional en la presencia de receptores adrenérgicos β2 en lugar de receptores α1. Los receptores β2 promueven la dilatación de los vasos en lugar de la constricción como los receptores α1.
+
+Una explicación alternativa es que el efecto primario (y directo) de la estimulación simpática sobre las arterias coronarias es la vasoconstricción seguida de una vasodilatación secundaria causada por la liberación de metabolitos vasodilatadores debido al inotropismo cardíaco y la frecuencia cardíaca aumentados simpáticamente.
+
+Esta vasodilatación secundaria causada por la vasoconstricción primaria se denomina simpatolisis funcional, cuyo efecto general sobre las arterias coronarias es la dilatación.
+
+La sinapsis diana de la neurona posganglionar está mediada por receptores adrenérgicos y es activada por norepinefrina (noradrenalina) o epinefrina (adrenalina).
+
+
+== Función ==
+
+El sistema nervioso simpático es responsable de regular hacia arriba y hacia abajo muchos mecanismos homeostáticos en los organismos vivos.
+
+Las fibras del SNS inervan tejidos en casi todos los sistemas de órganos, proporcionando al menos alguna regulación de funciones tan diversas como el diámetro de la pupila, la motilidad intestinal y la producción y función del sistema urinario.
+
+Quizás sea mejor conocido por mediar en la respuesta de estrés neuronal y hormonal comúnmente conocida como respuesta de lucha o huida.
+
+Esta respuesta también se conoce como respuesta simpático-suprarrenal del organismo, ya que las fibras simpáticas preganglionares que terminan en la médula suprarrenal (pero también todas las demás fibras simpáticas) secretan acetilcolina, que activa la gran secreción de adrenalina (epinefrina) y en menor medida grado noradrenalina (norepinefrina) de ella.
+
+Por lo tanto, esta respuesta que actúa principalmente sobre el sistema cardiovascular está mediada directamente por impulsos transmitidos a través del sistema nervioso simpático e indirectamente por catecolaminas secretadas por la médula suprarrenal.
+
+El sistema nervioso simpático es responsable de preparar al cuerpo para la acción, particularmente en situaciones que amenazan la supervivencia.
+
+Un ejemplo de este cebado se encuentra en los momentos previos a la vigilia, en los que el flujo de salida simpático aumenta espontáneamente en preparación para la acción.
+
+La estimulación del sistema nervioso simpático provoca la vasoconstricción de la mayoría de los vasos sanguíneos, incluidos muchos de los de la piel, el tubo digestivo y los riñones.
+
+Esto ocurre como resultado de la activación de los receptores adrenérgicos alfa-1 por la norepinefrina liberada por las neuronas simpáticas posganglionares.
+
+Estos receptores existen en toda la vasculatura del cuerpo, pero son inhibidos y contrarrestados por los receptores adrenérgicos beta-2 (estimulados por la liberación de epinefrina de las glándulas suprarrenales) en los músculos esqueléticos, el corazón, los pulmones y el cerebro durante una respuesta simpaticoadrenal.
+
+El efecto neto de esto es una derivación de la sangre de los órganos que no son necesarios para la supervivencia inmediata del organismo y un aumento en el flujo de sangre a los órganos involucrados en una actividad física intensa.
+
+
+=== Sensación ===
+
+Las fibras aferentes del sistema nervioso autónomo, que transmiten información sensorial desde los órganos internos del cuerpo de vuelta al sistema nervioso central (o SNC), no se dividen en fibras parasimpáticas y simpáticas como lo están las fibras eferentes.
+
+En cambio, la información sensorial autonómica es conducida por fibras aferentes viscerales generales.
+
+Las sensaciones aferentes viscerales generales son en su mayoría sensaciones reflejas motoras viscerales inconscientes de órganos huecos y glándulas que se transmiten al SNC.
+
+Si bien los arcos reflejos inconscientes normalmente son indetectables, en ciertos casos pueden enviar sensaciones de dolor al SNC enmascaradas como dolor referido.
+
+Si la cavidad peritoneal se inflama o si el intestino se distiende repentinamente, el cuerpo interpretará el estímulo doloroso aferente como de origen somático.
+
+Este dolor suele ser no localizado.
+
+El dolor también suele referirse a los dermatomas que se encuentran al mismo nivel del nervio espinal que la sinapsis aferente visceral.
+
+
+=== Relación con el sistema nervioso parasimpático ===
+
+Junto con el otro componente del sistema nervioso autónomo, el sistema nervioso parasimpático, el sistema nervioso simpático ayuda a controlar la mayoría de los órganos internos del cuerpo.
+
+Se cree que la reacción al estrés, como en la respuesta de lucha o huida, es provocada por el sistema nervioso simpático y contrarresta el sistema parasimpático, que trabaja para promover el mantenimiento del cuerpo en reposo.
+
+Las funciones integrales de los sistemas nerviosos parasimpático y simpático no son tan sencillas, pero esta es una regla general útil.
+
+
+== Trastornos ==
+
+En la insuficiencia cardiaca, el sistema nervioso simpático aumenta su actividad, lo que provoca un aumento de la fuerza de las contracciones musculares que, a su vez, aumenta el volumen sistólico, así como la vasoconstricción periférica para mantener la presión arterial.
+
+Sin embargo, estos efectos aceleran la progresión de la enfermedad y eventualmente aumentan la mortalidad en la insuficiencia cardíaca.
+
+La simpaticotonía es una condición estimulada del sistema nervioso simpático, caracterizada por espasmo vascular, presión arterial elevada y piel de gallina.
+
+
+
+https://en.wikipedia.org/wiki/Sympathetic_nervous_system
+
+;;;PT;;;
+
+
+
+SISTEMA NERVOSO SIMPÁTICO
+/NERVOS SIMPÁTICOS
+
+
+O sistema nervoso simpático (SNS) é uma das duas divisões do sistema nervoso autônomo, juntamente com o sistema nervoso parassimpático.
+
+O sistema nervoso entérico às vezes é considerado parte do sistema nervoso autônomo e às vezes considerado um sistema independente.
+
+O sistema nervoso autônomo funciona para regular as ações inconscientes do corpo.
+
+O processo primário do sistema nervoso simpático é estimular a resposta de luta ou fuga do corpo.
+
+É, no entanto, constantemente ativo em um nível básico para manter a homeostase.
+
+O sistema nervoso simpático é descrito como sendo antagônico ao sistema nervoso parassimpático que estimula o corpo a "alimentar-se e procriar" e (então) "descansar e digerir".
+
+
+== Estrutura ==
+
+Existem dois tipos de neurônios envolvidos na transmissão de qualquer sinal através do sistema simpático: pré-ganglionares e pós-ganglionares.
+
+Os neurônios pré-ganglionares mais curtos originam-se na divisão toracolombar da medula espinhal especificamente em T1 a L2~L3 e viajam para um gânglio, geralmente um dos gânglios paravertebrais, onde fazem sinapse com um neurônio pós-ganglionar.
+
+A partir daí, os longos neurônios pós-ganglionares se estendem pela maior parte do corpo.
+
+Nas sinapses dentro dos gânglios, os neurônios pré-ganglionares liberam acetilcolina, um neurotransmissor que ativa os receptores nicotínicos de acetilcolina nos neurônios pós-ganglionares.
+
+Em resposta a esse estímulo, os neurônios pós-ganglionares liberam norepinefrina, que ativa os receptores adrenérgicos presentes nos tecidos-alvo periféricos.
+
+A ativação dos receptores do tecido-alvo causa os efeitos associados ao sistema simpático.
+
+No entanto, existem três exceções importantes:
+Neurônios pós-ganglionares das glândulas sudoríparas liberam acetilcolina para a ativação de receptores muscarínicos, exceto em áreas de pele grossa, palmas das mãos e superfícies plantares dos pés, onde a norepinefrina é liberada e atua nos receptores adrenérgicos.
+
+Isso leva à ativação da função sudomotora que é avaliada pela condutância eletroquímica da pele.
+
+As células cromafins da medula adrenal são análogas aos neurônios pós-ganglionares; a medula adrenal desenvolve-se em conjunto com o sistema nervoso simpático e atua como um gânglio simpático modificado.
+
+Dentro desta glândula endócrina, os neurônios pré-ganglionares fazem sinapse com as células cromafins, desencadeando a liberação de dois transmissores:
+uma pequena proporção de norepinefrina e, mais substancialmente, epinefrina.
+
+A síntese e liberação de epinefrina em oposição à norepinefrina é outra característica distintiva das células cromafins em comparação com os neurônios simpáticos pós-ganglionares.
+
+Os nervos simpáticos pós-ganglionares que terminam no rim liberam dopamina, que atua nos receptores de dopamina D1 dos vasos sanguíneos para controlar a quantidade de sangue que o rim filtra.
+
+A dopamina é o precursor metabólico imediato da norepinefrina, mas não deixa de ser uma molécula sinalizadora distinta.
+
+
+=== Organização ===
+
+Os nervos simpáticos surgem perto do meio da medula espinhal no núcleo intermediolateral da coluna cinzenta lateral, começando na primeira vértebra torácica da coluna vertebral e acredita-se que se estendam até a segunda ou terceira vértebra lombar.
+
+Como suas células começam na divisão toracolombar - as regiões torácica e lombar da medula espinhal -, diz-se que o sistema nervoso simpático tem uma saída toracolombar.
+
+Os axônios desses nervos deixam a medula espinhal através da raiz anterior.
+
+Eles passam perto do gânglio espinhal (sensitivo), onde entram nos ramos anteriores dos nervos espinhais.
+
+No entanto, ao contrário da inervação somática, eles rapidamente se separam através de conectores de ramos brancos (assim chamados pelas bainhas brancas brilhantes de mielina ao redor de cada axônio) que se conectam ao paravertebral (que fica próximo à coluna vertebral) ou pré-vertebral (que fica próximo à aorta). bifurcação) gânglios que se estendem ao longo da coluna vertebral.
+
+Para alcançar órgãos e glândulas-alvo, os axônios devem percorrer longas distâncias no corpo e, para isso, muitos axônios transmitem sua mensagem para uma segunda célula por meio de transmissão sináptica.
+
+As extremidades dos axônios ligam-se através de um espaço, a sinapse, aos dendritos da segunda célula.
+
+A primeira célula (a célula pré-sináptica) envia um neurotransmissor através da fenda sináptica, onde ativa a segunda célula (a célula pós-sináptica).
+
+A mensagem é então transportada para o destino final.
+
+Os axônios dos nervos pré-sinápticos terminam nos gânglios paravertebrais ou nos gânglios pré-vertebrais.
+
+Existem quatro caminhos diferentes que um axônio pode seguir antes de chegar ao seu terminal.
+
+Em todos os casos, o axônio entra no gânglio paravertebral ao nível de seu nervo espinhal de origem.
+
+Depois disso, ele pode fazer sinapse nesse gânglio, ascender para um gânglio paravertebral mais superior ou descer para um gânglio paravertebral mais inferior e fazer sinapse lá, ou pode descer para um gânglio pré-vertebral e fazer sinapse com a célula pós-sináptica.
+
+A célula pós-sináptica então passa a inervar o efetor final alvo (isto é, glândula, músculo liso, etc.).
+
+Como os gânglios paravertebrais e pré-vertebrais estão próximos à medula espinhal, os neurônios pré-sinápticos são muito mais curtos do que os pós-sinápticos, que devem se estender por todo o corpo para alcançar seus destinos.
+
+Uma notável exceção às vias mencionadas acima é a inervação simpática da medula suprarrenal (adrenal).
+
+Nesse caso, os neurônios pré-sinápticos passam pelos gânglios paravertebrais, pelos gânglios pré-vertebrais e então fazem sinapse diretamente com o tecido suprarrenal.
+
+Esse tecido consiste em células que têm qualidades semelhantes a pseudoneurônios, pois quando ativadas pelo neurônio pré-sináptico, elas liberam seu neurotransmissor (epinefrina) diretamente na corrente sanguínea.
+
+No sistema nervoso simpático e em outros componentes do sistema nervoso periférico, essas sinapses são feitas em locais chamados gânglios.
+
+A célula que envia sua fibra é chamada de célula pré-ganglionar, enquanto a célula cuja fibra sai do gânglio é chamada de célula pós-ganglionar.
+
+Como mencionado anteriormente, as células pré-ganglionares do sistema nervoso simpático estão localizadas entre o primeiro segmento torácico e o terceiro segmento lombar da medula espinhal.
+
+As células pós-ganglionares têm seus corpos celulares nos gânglios e enviam seus axônios para órgãos ou glândulas-alvo.
+
+Os gânglios incluem não apenas os troncos simpáticos, mas também os gânglios cervicais (superior, médio e inferior), que enviam fibras nervosas simpáticas para os órgãos da cabeça e do tórax, e os gânglios celíacos e mesentéricos, que enviam fibras simpáticas para o intestino.
+
+
+=== Transmissão de informações ===
+
+As mensagens viajam pelo sistema nervoso simpático em um fluxo bidirecional.
+
+Mensagens eferentes podem desencadear mudanças em diferentes partes do corpo simultaneamente.
+
+Por exemplo, o sistema nervoso simpático pode acelerar a frequência cardíaca; alargar as passagens brônquicas; diminuir a motilidade (movimento) do intestino grosso; contrair os vasos sanguíneos; aumentar o peristaltismo no esôfago; causar dilatação pupilar, piloereção (arrepios) e transpiração (sudorese); e aumentar a pressão arterial.
+
+Uma exceção é com certos vasos sanguíneos, como os das artérias cerebrais e coronárias, que se dilatam (em vez de se contrair) com o aumento do tônus ​​simpático.
+
+Isso ocorre devido a um aumento proporcional na presença de receptores β2 adrenérgicos em vez de receptores α1. Os receptores β2 promovem a dilatação dos vasos em vez da constrição, como os receptores α1.
+
+Uma explicação alternativa é que o efeito primário (e direto) da estimulação simpática nas artérias coronárias é a vasoconstrição seguida de uma vasodilatação secundária causada pela liberação de metabólitos vasodilatadores devido ao aumento da inotropia cardíaca e da frequência cardíaca simpaticamente.
+
+Essa vasodilatação secundária causada pela vasoconstrição primária é denominada simpatólise funcional, cujo efeito geral nas artérias coronárias é a dilatação.
+
+A sinapse alvo do neurônio pós-ganglionar é mediada por receptores adrenérgicos e é ativada por norepinefrina (noradrenalina) ou epinefrina (adrenalina).
+
+
+== Função ==
+
+O sistema nervoso simpático é responsável pela regulação para cima e para baixo de muitos mecanismos homeostáticos nos organismos vivos.
+
+As fibras do SNS inervam tecidos em quase todos os sistemas orgânicos, fornecendo pelo menos alguma regulação de funções tão diversas quanto o diâmetro da pupila, motilidade intestinal e saída e função do sistema urinário.
+
+Talvez seja mais conhecido por mediar a resposta ao estresse neuronal e hormonal, comumente conhecida como resposta de luta ou fuga.
+
+Essa resposta também é conhecida como resposta simpato-adrenal do corpo, pois as fibras simpáticas pré-ganglionares que terminam na medula adrenal (mas também todas as outras fibras simpáticas) secretam acetilcolina, que ativa a grande secreção de adrenalina (epinefrina) e em menor extensão noradrenalina (norepinefrina) a partir dele.
+
+Portanto, essa resposta que atua principalmente no sistema cardiovascular é mediada diretamente por meio de impulsos transmitidos pelo sistema nervoso simpático e indiretamente por catecolaminas secretadas pela medula adrenal.
+
+O sistema nervoso simpático é responsável por preparar o corpo para a ação, particularmente em situações que ameaçam a sobrevivência.
+
+Um exemplo desse priming ocorre nos momentos antes do despertar, nos quais o fluxo simpático aumenta espontaneamente em preparação para a ação.
+
+A estimulação do sistema nervoso simpático causa vasoconstrição da maioria dos vasos sanguíneos, incluindo muitos da pele, do trato digestivo e dos rins.
+
+Isso ocorre como resultado da ativação de receptores alfa-1 adrenérgicos pela norepinefrina liberada pelos neurônios simpáticos pós-ganglionares.
+
+Esses receptores existem em toda a vasculatura do corpo, mas são inibidos e contrabalançados pelos receptores beta-2 adrenérgicos (estimulados pela liberação de epinefrina das glândulas supra-renais) nos músculos esqueléticos, no coração, nos pulmões e no cérebro durante uma resposta simpatoadrenal.
+
+O efeito final disso é um desvio de sangue dos órgãos não necessário para a sobrevivência imediata do organismo e um aumento no fluxo sanguíneo para os órgãos envolvidos em atividade física intensa.
+
+
+=== Sensação ===
+
+As fibras aferentes do sistema nervoso autônomo, que transmitem informações sensoriais dos órgãos internos do corpo de volta ao sistema nervoso central (ou SNC), não são divididas em fibras parassimpáticas e simpáticas como as fibras eferentes.
+
+Em vez disso, a informação sensorial autonômica é conduzida por fibras aferentes viscerais gerais.
+
+As sensações aferentes viscerais gerais são principalmente sensações reflexas motoras viscerais inconscientes de órgãos ocos e glândulas que são transmitidas ao SNC.
+
+Embora os arcos reflexos inconscientes normalmente sejam indetectáveis, em certos casos eles podem enviar sensações de dor ao SNC mascaradas como dor referida.
+
+Se a cavidade peritoneal ficar inflamada ou se o intestino for subitamente distendido, o corpo interpretará o estímulo de dor aferente como de origem somática.
+
+Essa dor geralmente não é localizada.
+
+A dor também é geralmente referida a dermátomos que estão no mesmo nível do nervo espinhal que a sinapse aferente visceral.
+
+
+=== Relação com o sistema nervoso parassimpático ===
+
+Juntamente com o outro componente do sistema nervoso autônomo, o sistema nervoso parassimpático, o sistema nervoso simpático auxilia no controle da maioria dos órgãos internos do corpo.
+
+Acredita-se que a reação ao estresse – como na resposta de fuga ou luta – seja provocada pelo sistema nervoso simpático e para neutralizar o sistema parassimpático, que trabalha para promover a manutenção do corpo em repouso.
+
+As funções abrangentes dos sistemas nervosos parassimpático e simpático não são tão diretas, mas essa é uma regra prática útil.
+
+
+== Distúrbios ==
+
+Na insuficiência cardíaca, o sistema nervoso simpático aumenta sua atividade, levando ao aumento da força das contrações musculares que, por sua vez, aumenta o volume sistólico, bem como a vasoconstrição periférica para manter a pressão arterial.
+
+No entanto, esses efeitos aceleram a progressão da doença, eventualmente aumentando a mortalidade na insuficiência cardíaca.
+
+A simpaticotonia é uma condição estimulada do sistema nervoso simpático, marcada por espasmo vascular, pressão arterial elevada e arrepios.
+
+
+
+https://en.wikipedia.org/wiki/Sympathetic_nervous_system
+
+;;;FR;;;
+
+
+
+SYSTÈME NERVEUX SYMPATHIQUE
+/NERFS SYMPATHIQUES
+
+
+Le système nerveux sympathique (SNS) est l'une des deux divisions du système nerveux autonome, avec le système nerveux parasympathique.
+
+Le système nerveux entérique est parfois considéré comme faisant partie du système nerveux autonome, et parfois considéré comme un système indépendant.
+
+Le système nerveux autonome fonctionne pour réguler les actions inconscientes du corps.
+
+Le processus principal du système nerveux sympathique est de stimuler la réaction de combat ou de fuite du corps.
+
+Il est cependant constamment actif à un niveau de base pour maintenir l'homéostasie.
+
+Le système nerveux sympathique est décrit comme étant antagoniste du système nerveux parasympathique qui stimule le corps à "se nourrir et se reproduire" et à (ensuite) "se reposer et digérer".
+
+
+== Structure ==
+
+Il existe deux types de neurones impliqués dans la transmission de tout signal à travers le système sympathique : les pré-ganglionnaires et les post-ganglionnaires.
+
+Les neurones préganglionnaires plus courts proviennent de la division thoracolombaire de la moelle épinière spécifiquement à T1 à L2 ~ L3, et se déplacent vers un ganglion, souvent l'un des ganglions paravertébraux, où ils synapsent avec un neurone postganglionnaire.
+
+De là, les longs neurones postganglionnaires s'étendent sur la majeure partie du corps.
+
+Au niveau des synapses des ganglions, les neurones préganglionnaires libèrent de l'acétylcholine, un neurotransmetteur qui active les récepteurs nicotiniques de l'acétylcholine sur les neurones postganglionnaires.
+
+En réponse à ce stimulus, les neurones postganglionnaires libèrent de la noradrénaline, qui active les récepteurs adrénergiques présents sur les tissus cibles périphériques.
+
+L'activation des récepteurs tissulaires cibles provoque les effets associés au système sympathique.
+
+Cependant, il existe trois exceptions importantes :
+Les neurones postganglionnaires des glandes sudoripares libèrent de l'acétylcholine pour l'activation des récepteurs muscariniques, sauf pour les zones de peau épaisse, les paumes et les surfaces plantaires des pieds, où la noradrénaline est libérée et agit sur les récepteurs adrénergiques.
+
+Cela conduit à l'activation de la fonction sudomotrice qui est évaluée par la conductance électrochimique de la peau.
+
+Les cellules chromaffines de la médullosurrénale sont analogues aux neurones post-ganglionnaires ; la médullosurrénale se développe en tandem avec le système nerveux sympathique et agit comme un ganglion sympathique modifié.
+
+Au sein de cette glande endocrine, les neurones pré-ganglionnaires se synapsent avec les cellules chromaffines, déclenchant la libération de deux transmetteurs :
+une faible proportion de norépinéphrine, et plus substantiellement, d'épinéphrine.
+
+La synthèse et la libération d'épinéphrine par opposition à la norépinéphrine est une autre caractéristique distinctive des cellules chromaffines par rapport aux neurones sympathiques postganglionnaires.
+
+Les nerfs sympathiques postganglionnaires se terminant dans le rein libèrent de la dopamine, qui agit sur les récepteurs dopaminergiques D1 des vaisseaux sanguins pour contrôler la quantité de sang filtrée par le rein.
+
+La dopamine est le précurseur métabolique immédiat de la noradrénaline, mais est néanmoins une molécule de signalisation distincte.
+
+
+=== Organisation ===
+
+Les nerfs sympathiques naissent près du milieu de la moelle épinière dans le noyau intermédiolatéral de la colonne grise latérale, en commençant à la première vertèbre thoracique de la colonne vertébrale et on pense qu'ils s'étendent jusqu'à la deuxième ou la troisième vertèbre lombaire.
+
+Parce que ses cellules commencent dans la division thoraco-lombaire - les régions thoracique et lombaire de la moelle épinière - on dit que le système nerveux sympathique a un écoulement thoraco-lombaire.
+
+Les axones de ces nerfs quittent la moelle épinière par la racine antérieure.
+
+Ils passent près du ganglion spinal (sensoriel), où ils pénètrent dans les branches antérieures des nerfs spinaux.
+
+Cependant, contrairement à l'innervation somatique, ils se séparent rapidement par des connecteurs rami blancs (ainsi appelés à partir des gaines blanches brillantes de myéline autour de chaque axone) qui se connectent soit au paravertébral (qui se trouve près de la colonne vertébrale) soit au prévertébral (qui se trouve près de l'aorte). bifurcation) ganglions s'étendant le long de la colonne vertébrale.
+
+Pour atteindre les organes et les glandes cibles, les axones doivent parcourir de longues distances dans le corps et, pour ce faire, de nombreux axones relaient leur message à une seconde cellule par transmission synaptique.
+
+Les extrémités des axones se lient à travers un espace, la synapse, aux dendrites de la deuxième cellule.
+
+La première cellule (la cellule présynaptique) envoie un neurotransmetteur à travers la fente synaptique où il active la deuxième cellule (la cellule postsynaptique).
+
+Le message est ensuite acheminé vers la destination finale.
+
+Les axones des nerfs présynaptiques se terminent soit dans les ganglions paravertébraux, soit dans les ganglions prévertébraux.
+
+Il existe quatre chemins différents qu'un axone peut emprunter avant d'atteindre son terminal.
+
+Dans tous les cas, l'axone pénètre dans le ganglion paravertébral au niveau de son nerf spinal d'origine.
+
+Après cela, il peut alors soit se synapser dans ce ganglion, monter vers un ganglion paravertébral plus supérieur ou descendre vers un ganglion paravertébral plus inférieur et s'y synapser, soit descendre dans un ganglion prévertébral et s'y synapser avec la cellule postsynaptique.
+
+La cellule post-synaptique va ensuite innerver l'effecteur terminal ciblé (c'est-à-dire la glande, le muscle lisse, etc.).
+
+Parce que les ganglions paravertébraux et prévertébraux sont proches de la moelle épinière, les neurones présynaptiques sont beaucoup plus courts que leurs homologues postsynaptiques, qui doivent s'étendre dans tout le corps pour atteindre leurs destinations.
+
+Une exception notable aux voies mentionnées ci-dessus est l'innervation sympathique de la médullosurrénale (surrénalienne).
+
+Dans ce cas, les neurones présynaptiques traversent les ganglions paravertébraux, puis les ganglions prévertébraux, puis se synapsent directement avec le tissu suprarénal.
+
+Ce tissu est constitué de cellules qui ont des qualités pseudo-neuronales en ce sens que lorsqu'elles sont activées par le neurone présynaptique, elles libèrent leur neurotransmetteur (épinéphrine) directement dans la circulation sanguine.
+
+Dans le système nerveux sympathique et d'autres composants du système nerveux périphérique, ces synapses sont fabriquées sur des sites appelés ganglions.
+
+La cellule qui envoie sa fibre est appelée cellule préganglionnaire, tandis que la cellule dont la fibre quitte le ganglion est appelée cellule postganglionnaire.
+
+Comme mentionné précédemment, les cellules préganglionnaires du système nerveux sympathique sont situées entre le premier segment thoracique et les troisièmes segments lombaires de la moelle épinière.
+
+Les cellules postganglionnaires ont leurs corps cellulaires dans les ganglions et envoient leurs axones vers des organes cibles ou des glandes.
+
+Les ganglions comprennent non seulement les troncs sympathiques, mais aussi les ganglions cervicaux (supérieurs, moyens et inférieurs), qui envoient des fibres nerveuses sympathiques aux organes de la tête et du thorax, et les ganglions coeliaques et mésentériques, qui envoient des fibres sympathiques à l'intestin.
+
+
+=== Transmission d'informations ===
+
+Les messages voyagent à travers le système nerveux sympathique dans un flux bidirectionnel.
+
+Des messages efférents peuvent déclencher simultanément des changements dans différentes parties du corps.
+
+Par exemple, le système nerveux sympathique peut accélérer le rythme cardiaque ; élargir les passages bronchiques; diminuer la motilité (mouvement) du gros intestin; resserrer les vaisseaux sanguins; augmenter le péristaltisme dans l'œsophage; provoquer une dilatation pupillaire, une piloérection (chair de poule) et une transpiration (transpiration); et augmenter la tension artérielle.
+
+Une exception concerne certains vaisseaux sanguins tels que ceux des artères cérébrales et coronariennes, qui se dilatent (plutôt que de se contracter) avec une augmentation du tonus sympathique.
+
+Cela est dû à une augmentation proportionnelle de la présence de récepteurs β2 adrénergiques plutôt que de récepteurs α1. Les récepteurs β2 favorisent la dilatation des vaisseaux au lieu de la constriction comme les récepteurs α1.
+
+Une autre explication est que l'effet principal (et direct) de la stimulation sympathique sur les artères coronaires est la vasoconstriction suivie d'une vasodilatation secondaire causée par la libération de métabolites vasodilatateurs en raison de l'inotropie cardiaque et de la fréquence cardiaque sympathiquement accrues.
+
+Cette vasodilatation secondaire causée par la vasoconstriction primaire est appelée sympatholyse fonctionnelle, dont l'effet global sur les artères coronaires est la dilatation.
+
+La synapse cible du neurone postganglionnaire est médiée par des récepteurs adrénergiques et est activée soit par la noradrénaline (noradrénaline), soit par l'épinéphrine (adrénaline).
+
+
+== Fonction ==
+
+Le système nerveux sympathique est responsable de la régulation à la hausse et à la baisse de nombreux mécanismes homéostatiques dans les organismes vivants.
+
+Les fibres du SNS innervent les tissus de presque tous les systèmes organiques, fournissant au moins une certaine régulation de fonctions aussi diverses que le diamètre de la pupille, la motilité intestinale et la production et la fonction du système urinaire.
+
+Il est peut-être mieux connu pour médier la réponse au stress neuronal et hormonal communément appelée réponse de combat ou de fuite.
+
+Cette réponse est également connue sous le nom de réponse sympatho-surrénalienne du corps, car les fibres sympathiques préganglionnaires qui se terminent dans la médullosurrénale (mais aussi toutes les autres fibres sympathiques) sécrètent de l'acétylcholine, qui active la grande sécrétion d'adrénaline (épinéphrine) et à un moindre degré mesure noradrénaline (norépinéphrine) de celui-ci.
+
+Par conséquent, cette réponse qui agit principalement sur le système cardiovasculaire est médiée directement via des impulsions transmises par le système nerveux sympathique et indirectement via les catécholamines sécrétées par la médullosurrénale.
+
+Le système nerveux sympathique est responsable de la préparation du corps à l'action, en particulier dans les situations menaçant la survie.
+
+Un exemple de cet amorçage se trouve dans les instants précédant le réveil, au cours desquels l'écoulement sympathique augmente spontanément en préparation à l'action.
+
+La stimulation du système nerveux sympathique provoque une vasoconstriction de la plupart des vaisseaux sanguins, y compris un grand nombre de ceux de la peau, du tube digestif et des reins.
+
+Cela se produit à la suite de l'activation des récepteurs adrénergiques alpha-1 par la noradrénaline libérée par les neurones sympathiques post-ganglionnaires.
+
+Ces récepteurs existent dans tout le système vasculaire du corps mais sont inhibés et contrebalancés par les récepteurs bêta-2 adrénergiques (stimulés par la libération d'épinéphrine par les glandes surrénales) dans les muscles squelettiques, le cœur, les poumons et le cerveau lors d'une réponse sympatho-surrénalienne.
+
+L'effet net de ceci est un détournement du sang des organes non nécessaires à la survie immédiate de l'organisme et une augmentation du flux sanguin vers les organes impliqués dans une activité physique intense.
+
+
+=== Sensations ===
+
+Les fibres afférentes du système nerveux autonome, qui transmettent les informations sensorielles des organes internes du corps au système nerveux central (ou SNC), ne sont pas divisées en fibres parasympathiques et sympathiques comme le sont les fibres efférentes.
+
+Au lieu de cela, les informations sensorielles autonomes sont conduites par des fibres afférentes viscérales générales.
+
+Les sensations afférentes viscérales générales sont principalement des sensations réflexes motrices viscérales inconscientes provenant d'organes creux et de glandes qui sont transmises au SNC.
+
+Alors que les arcs réflexes inconscients sont normalement indétectables, dans certains cas, ils peuvent envoyer des sensations de douleur au SNC masquées comme une douleur projetée.
+
+Si la cavité péritonéale devient enflammée ou si l'intestin est soudainement distendu, le corps interprétera le stimulus de douleur afférent comme étant d'origine somatique.
+
+Cette douleur est généralement non localisée.
+
+La douleur est également généralement référée aux dermatomes qui sont au même niveau du nerf spinal que la synapse afférente viscérale.
+
+
+=== Relation avec le système nerveux parasympathique ===
+
+Avec l'autre composant du système nerveux autonome, le système nerveux parasympathique, le système nerveux sympathique aide au contrôle de la plupart des organes internes du corps.
+
+On pense que la réaction au stress - comme dans la réponse de fuite ou de combat - est déclenchée par le système nerveux sympathique et contrecarre le système parasympathique, qui favorise le maintien du corps au repos.
+
+Les fonctions complètes des systèmes nerveux parasympathique et sympathique ne sont pas si simples, mais c'est une règle empirique utile.
+
+
+== Troubles ==
+
+Dans l'insuffisance cardiaque, le système nerveux sympathique augmente son activité, entraînant une force accrue des contractions musculaires qui à son tour augmente le volume d'éjection systolique, ainsi qu'une vasoconstriction périphérique pour maintenir la pression artérielle.
+
+Cependant, ces effets accélèrent la progression de la maladie, augmentant éventuellement la mortalité dans l'insuffisance cardiaque.
+
+La sympathicotonie est une condition stimulée du système nerveux sympathique, caractérisée par des spasmes vasculaires, une pression artérielle élevée et la chair de poule.
+
+
+
+https://en.wikipedia.org/wiki/Sympathetic_nervous_system

@@ -1,0 +1,444 @@
+
+
+INFERIOR OLIVARY NUCLEUS
+
+
+The inferior olivary nucleus (ION), is a structure found in the medulla oblongata underneath the superior olivary nucleus. 
+
+In vertebrates, the ION is known to coordinate signals from the spinal cord to the cerebellum to regulate motor coordination and learning. 
+
+These connections have been shown to be tightly associated, as degeneration of either the cerebellum or the ION results in degeneration of the other.Neurons of the ION are glutamatergic and receive inhibitory input via GABA receptors. 
+
+There are two distinct GABAα receptor populations that are spatially organized within each neuron present in the ION. 
+
+The GABAα receptor make-up varies based on where the receptor localizes on the ION neuron. 
+
+The reason for this spatial distribution is unknown. 
+
+It has been proposed that the distinct populations of GABAα receptors allows for fine-tuned regulation within the ION.
+
+
+== Structure ==
+
+The inferior olivary nucleus (ION) has a distinct laminar structure. 
+
+These lamina house the cell bodies of the olivocerebellar fibers. 
+
+These neurons are the major input source for the cerebellum. 
+
+Their axons are referred to as climbing fibers. 
+
+These climbing fibers leave the ION medially through the hilum, cross the midline, and ascend into the cerebellum via the inferior cerebellar peduncle. 
+
+The target for each climbing fiber is a specific neuron in the cerebellum referred to as a Purkinje Cell. 
+
+During development, there are multiple climbing fibers on a purkinje cell, however these are pruned off during postnatal development, thus leaving a mature purkinje cell with a single climbing fiber.
+There are three major components of the IO.
+Primary olivary nucleus (PO) – This is the major laminar structure, and its distinct folds can be seen clearly. 
+The PO receives signals from other components of the brainstem, such as the red nucleus and the N. 
+
+Darkschewitsch. 
+
+The PO also receives signals from the cerebral cortex.
+The PO targets the intermediate cerebellum as well as the cerebellar hemispheres.
+Medial accessory olivary nucleus (MAO) – This nucleus is between the PO and the pyramids. 
+
+It is visualized as a curved lamina.The MAO receives signals from the tectum and the pretectum.
+Climbing fibers from the MAO synapse with the vermis, the flocculus, and the cerebellar hemispheres
+Dorsal accessory olivary nucleus (DAO) – This nucleus also is a curved lamina. 
+
+It is the smallest nucleus in the IO and is behind the PO. 
+The DAO receives signals from the spinal cord and the dorsal column nuclei.
+The DAO synapses with vermis.
+
+
+== Function ==
+
+
+
+=== Motor coordination and learning ===
+
+Patient studies revealed the connection between the inferior olivary nucleus (ION) and the cerebellum. 
+
+Lesions in the ION impair the ability to learn higher level motility, such as performing a perfect jumpshot. 
+
+Further investigation of the neuroanatomy confirmed the intimate connection between the IO and the cerebellum in motor coordination and learning. 
+The IO sends signals to the cerebellum based on information sent from the spino-olivary tract. 
+
+Regulation following this point is highly debated. 
+
+The original hypothesis as to how the IO influenced the cerebellum involved long term depression (LTD). 
+
+In this scenario, deep cerebellar nuclei send GABA projection to inhibit ION.
+More recent studies suggest that encoding the timing of sensory input is the key component of these connections. 
+
+The ION sends signals through different cell clusters. 
+
+These signals vary in location and in frequency bundles and appear inconsistent. 
+
+However, the temporal pattern of these signals is consistent. 
+
+Therefore, ongoing research on motor learning is investigating how these timed signals develop and their role in motor learning.
+
+
+=== Steroidogenesis ===
+
+The inferior olivary nucleus (ION) expresses key enzymes involved in steroidogenesis required for neuroprotection and maintenance. 
+
+The most crucial of these enzymes is aromatase, which is the enzyme that is necessary for the conversion of testosterone into estradiol. 
+
+Without aromatase, the ION is unable to make estradiol, and cannot recover from injury properly.
+
+
+== Clinical significance ==
+
+Because the inferior olivary nucleus (ION) is tightly associated with the cerebellum, lesions in either the IO or the cerebellum results in degeneration in the other. 
+
+There is little known about damage to the inferior olivary nucleus (IO) independent from the cerebellum. 
+
+To date, the only known disorder which specifically targets the ION is an extremely rare form of degeneration called hypertrophic olivary degeneration (HOD).Although the ION is not often investigated on its own, degeneration in the ION has been identified in disorders that are typically associated with the cerebellum. 
+
+These disorders include supranuclear palsy, Leigh disease, and SCA6, and there are several more. 
+
+These disorders all involve motor coordination. 
+
+Dysfunction of the ION is also been believed to play a central role in the etiology of essential tremor based, though that convention is not universally accepted.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_olivary_nucleus
+;;;ES;;;
+
+
+
+NÚCLEO OLIVARIO INFERIOR
+
+
+El núcleo olivar inferior (ION), es una estructura que se encuentra en el bulbo raquídeo debajo del núcleo olivar superior.
+
+En los vertebrados, se sabe que el ION coordina las señales de la médula espinal al cerebelo para regular la coordinación motora y el aprendizaje.
+
+Se ha demostrado que estas conexiones están estrechamente asociadas, ya que la degeneración del cerebelo o del ION da como resultado la degeneración del otro. Las neuronas del ION son glutamatérgicas y reciben impulsos inhibitorios a través de los receptores GABA.
+
+Hay dos poblaciones distintas de receptores GABAα que están espacialmente organizadas dentro de cada neurona presente en el ION.
+
+La composición del receptor GABAα varía en función de dónde se localiza el receptor en la neurona ION.
+
+Se desconoce el motivo de esta distribución espacial.
+
+Se ha propuesto que las distintas poblaciones de receptores GABAα permiten una regulación precisa dentro del ION.
+
+
+== Estructura ==
+
+El núcleo olivar inferior (ION) tiene una estructura laminar distinta.
+
+Estas láminas albergan los cuerpos celulares de las fibras olivocerebelosas.
+
+Estas neuronas son la principal fuente de entrada para el cerebelo.
+
+Sus axones se denominan fibras trepadoras.
+
+Estas fibras trepadoras salen del ION medialmente a través del hilio, cruzan la línea media y ascienden al cerebelo a través del pedúnculo cerebeloso inferior.
+
+El objetivo de cada fibra trepadora es una neurona específica en el cerebelo denominada célula de Purkinje.
+
+Durante el desarrollo, hay múltiples fibras trepadoras en una célula de Purkinje, sin embargo, estas se eliminan durante el desarrollo posnatal, dejando así una célula de Purkinje madura con una sola fibra trepadora.
+Hay tres componentes principales del IO.
+Núcleo olivar primario (PO): esta es la estructura laminar principal y sus distintos pliegues se pueden ver claramente.
+El PO recibe señales de otros componentes del tronco encefálico, como el núcleo rojo y el N.
+
+Darkschewitsch.
+
+El PO también recibe señales de la corteza cerebral.
+El PO apunta al cerebelo intermedio así como a los hemisferios cerebelosos.
+Núcleo olivar accesorio medial (MAO): este núcleo se encuentra entre el PO y las pirámides.
+
+Se visualiza como una lámina curva. La MAO recibe señales del tectum y del pretectum.
+Las fibras trepadoras de la MAO hacen sinapsis con el vermis, el flóculo y los hemisferios cerebelosos.
+Núcleo olivar accesorio dorsal (DAO): este núcleo también es una lámina curva.
+
+Es el núcleo más pequeño del IO y está detrás del PO.
+La DAO recibe señales de la médula espinal y de los núcleos de la columna dorsal.
+El DAO hace sinapsis con vermis.
+
+
+== Función ==
+
+
+
+=== Coordinación motora y aprendizaje ===
+
+Los estudios de pacientes revelaron la conexión entre el núcleo olivar inferior (ION) y el cerebelo.
+
+Las lesiones en el ION afectan la capacidad de aprender motilidad de nivel superior, como realizar un tiro en suspensión perfecto.
+
+La investigación adicional de la neuroanatomía confirmó la íntima conexión entre el IO y el cerebelo en la coordinación motora y el aprendizaje.
+El IO envía señales al cerebelo basándose en la información enviada desde el tracto espino-olivar.
+
+La regulación posterior a este punto es muy debatida.
+
+La hipótesis original de cómo la IO influía en el cerebelo involucraba la depresión a largo plazo (LTD).
+
+En este escenario, los núcleos cerebelosos profundos envían proyección de GABA para inhibir ION.
+Estudios más recientes sugieren que codificar el momento de la entrada sensorial es el componente clave de estas conexiones.
+
+El ION envía señales a través de diferentes grupos de células.
+
+Estas señales varían en ubicación y en paquetes de frecuencia y parecen inconsistentes.
+
+Sin embargo, el patrón temporal de estas señales es consistente.
+
+Por lo tanto, la investigación en curso sobre el aprendizaje motor está investigando cómo se desarrollan estas señales cronometradas y su papel en el aprendizaje motor.
+
+
+=== Esteroidogénesis ===
+
+El núcleo olivar inferior (ION) expresa enzimas clave implicadas en la esteroidogénesis necesarias para la neuroprotección y el mantenimiento.
+
+La más importante de estas enzimas es la aromatasa, que es la enzima necesaria para la conversión de testosterona en estradiol.
+
+Sin aromatasa, el ION no puede producir estradiol y no puede recuperarse adecuadamente de una lesión.
+
+
+== Importancia clínica ==
+
+Debido a que el núcleo olivar inferior (ION) está estrechamente asociado con el cerebelo, las lesiones en el IO o en el cerebelo dan como resultado la degeneración en el otro.
+
+Se sabe poco sobre el daño al núcleo olivar inferior (IO) independiente del cerebelo.
+
+Hasta la fecha, el único trastorno conocido que se dirige específicamente al ION es una forma extremadamente rara de degeneración llamada degeneración olivar hipertrófica (HOD). Aunque el ION no suele investigarse por sí solo, la degeneración en el ION se ha identificado en trastornos asociado con el cerebelo.
+
+Estos trastornos incluyen parálisis supranuclear, enfermedad de Leigh y SCA6, y hay varios más.
+
+Todos estos trastornos implican la coordinación motora.
+
+También se cree que la disfunción del ION desempeña un papel central en la etiología del temblor esencial, aunque esa convención no se acepta universalmente.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_olivary_nucleus
+
+;;;PT;;;
+
+
+
+NÚCLEO OLIVÁRIO INFERIOR
+
+
+O núcleo olivar inferior (ION), é uma estrutura encontrada na medula oblonga abaixo do núcleo olivar superior.
+
+Nos vertebrados, o ION é conhecido por coordenar os sinais da medula espinhal para o cerebelo para regular a coordenação motora e o aprendizado.
+
+Essas conexões têm se mostrado estreitamente associadas, pois a degeneração do cerebelo ou do ION resulta na degeneração do outro. Os neurônios do ION são glutamatérgicos e recebem estímulos inibitórios via receptores GABA.
+
+Existem duas populações distintas de receptores GABAα que são organizadas espacialmente dentro de cada neurônio presente no ION.
+
+A composição do receptor GABAα varia de acordo com a localização do receptor no neurônio ION.
+
+A razão para esta distribuição espacial é desconhecida.
+
+Foi proposto que as populações distintas de receptores GABAα permitem uma regulação precisa dentro do ION.
+
+
+== Estrutura ==
+
+O núcleo olivar inferior (ION) tem uma estrutura laminar distinta.
+
+Essas lâminas abrigam os corpos celulares das fibras olivocerebelares.
+
+Esses neurônios são a principal fonte de entrada para o cerebelo.
+
+Seus axônios são chamados de fibras trepadeiras.
+
+Essas fibras de escalada deixam o ION medialmente através do hilo, cruzam a linha média e ascendem para o cerebelo através do pedúnculo cerebelar inferior.
+
+O alvo para cada fibra de escalada é um neurônio específico no cerebelo conhecido como célula de Purkinje.
+
+Durante o desenvolvimento, existem múltiplas fibras trepadeiras em uma célula de Purkinje, no entanto, estas são podadas durante o desenvolvimento pós-natal, deixando assim uma célula de Purkinje madura com uma única fibra trepadeira.
+Existem três componentes principais do IO.
+Núcleo olivar primário (PO) – Esta é a estrutura laminar principal, e suas dobras distintas podem ser vistas claramente.
+O PO recebe sinais de outros componentes do tronco cerebral, como o núcleo vermelho e o N.
+
+Darkschewitsch.
+
+O PO também recebe sinais do córtex cerebral.
+O PO tem como alvo o cerebelo intermediário, bem como os hemisférios cerebelares.
+Núcleo olivar acessório medial (MAO) – Este núcleo está entre o PO e as pirâmides.
+
+É visualizado como uma lâmina curva. O MAO recebe sinais do tecto e do pretectum.
+As fibras de escalada da MAO fazem sinapse com o vermis, o flóculo e os hemisférios cerebelares
+Núcleo olivar acessório dorsal (DAO) – Este núcleo também é uma lâmina curva.
+
+É o menor núcleo do IO e está atrás do PO.
+O DAO recebe sinais da medula espinhal e dos núcleos da coluna dorsal.
+O DAO faz sinapse com o vermis.
+
+
+== Função ==
+
+
+
+=== Coordenação motora e aprendizagem ===
+
+Os estudos dos pacientes revelaram a conexão entre o núcleo olivar inferior (ION) e o cerebelo.
+
+Lesões no ION prejudicam a capacidade de aprender a motilidade de nível superior, como realizar um salto perfeito.
+
+Investigações adicionais da neuroanatomia confirmaram a íntima conexão entre o IO e o cerebelo na coordenação motora e no aprendizado.
+O IO envia sinais para o cerebelo com base nas informações enviadas do trato espino-olivar.
+
+A regulamentação após este ponto é altamente debatida.
+
+A hipótese original de como o IO influenciou o cerebelo envolvia depressão de longa duração (LTD).
+
+Nesse cenário, núcleos cerebelares profundos enviam projeção de GABA para inibir ION.
+Estudos mais recentes sugerem que codificar o tempo de entrada sensorial é o componente chave dessas conexões.
+
+O ION envia sinais através de diferentes aglomerados de células.
+
+Esses sinais variam em localização e em feixes de frequência e parecem inconsistentes.
+
+No entanto, o padrão temporal desses sinais é consistente.
+
+Portanto, pesquisas em andamento sobre aprendizagem motora estão investigando como esses sinais cronometrados se desenvolvem e seu papel na aprendizagem motora.
+
+
+=== Esteroidogênese ===
+
+O núcleo olivar inferior (ION) expressa enzimas-chave envolvidas na esteroidogênese necessárias para neuroproteção e manutenção.
+
+A mais crucial dessas enzimas é a aromatase, que é a enzima necessária para a conversão da testosterona em estradiol.
+
+Sem aromatase, o ION é incapaz de produzir estradiol e não pode se recuperar adequadamente de uma lesão.
+
+
+== Significado clínico ==
+
+Como o núcleo olivar inferior (ION) está fortemente associado ao cerebelo, lesões no IO ou no cerebelo resultam em degeneração do outro.
+
+Pouco se sabe sobre a lesão do núcleo olivar inferior (IO) independente do cerebelo.
+
+Até o momento, o único distúrbio conhecido que visa especificamente o ION é uma forma extremamente rara de degeneração chamada degeneração olivar hipertrófica (HOD). associados ao cerebelo.
+
+Esses distúrbios incluem paralisia supranuclear, doença de Leigh e SCA6, e há vários outros.
+
+Todos esses distúrbios envolvem coordenação motora.
+
+Acredita-se também que a disfunção do ION desempenhe um papel central na etiologia do tremor essencial baseado, embora essa convenção não seja universalmente aceita.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_olivary_nucleus
+
+;;;FR;;;
+
+
+
+NOYAU OLIVAIRE INFÉRIEUR
+
+
+Le noyau olivaire inférieur (ION) est une structure trouvée dans le bulbe rachidien sous le noyau olivaire supérieur.
+
+Chez les vertébrés, l'ION est connu pour coordonner les signaux de la moelle épinière au cervelet afin de réguler la coordination motrice et l'apprentissage.
+
+Il a été démontré que ces connexions sont étroitement associées, car la dégénérescence du cervelet ou de l'ION entraîne la dégénérescence de l'autre. Les neurones de l'ION sont glutamatergiques et reçoivent une entrée inhibitrice via les récepteurs GABA.
+
+Il existe deux populations distinctes de récepteurs GABAα qui sont spatialement organisées au sein de chaque neurone présent dans l'ION.
+
+La composition du récepteur GABAα varie en fonction de l'endroit où le récepteur se localise sur le neurone ION.
+
+La raison de cette distribution spatiale est inconnue.
+
+Il a été proposé que les populations distinctes de récepteurs GABAα permettent une régulation affinée au sein de l'ION.
+
+
+== Structure ==
+
+Le noyau olivaire inférieur (ION) a une structure laminaire distincte.
+
+Ces lamina abritent les corps cellulaires des fibres olivocérébelleuses.
+
+Ces neurones sont la principale source d'entrée pour le cervelet.
+
+Leurs axones sont appelés fibres grimpantes.
+
+Ces fibres grimpantes quittent l'ION médialement par le hile, traversent la ligne médiane et montent dans le cervelet via le pédoncule cérébelleux inférieur.
+
+La cible de chaque fibre grimpante est un neurone spécifique du cervelet appelé cellule de Purkinje.
+
+Au cours du développement, il existe plusieurs fibres grimpantes sur une cellule de purkinje, mais celles-ci sont élaguées pendant le développement postnatal, laissant ainsi une cellule de purkinje mature avec une seule fibre grimpante.
+Il y a trois composants principaux de l'OI.
+Noyau olivaire primaire (PO) - Il s'agit de la principale structure laminaire, et ses plis distincts sont clairement visibles.
+Le PO reçoit des signaux d'autres composants du tronc cérébral, tels que le noyau rouge et le N.
+
+Darkschewitsch.
+
+Le PO reçoit également des signaux du cortex cérébral.
+Le PO cible le cervelet intermédiaire ainsi que les hémisphères cérébelleux.
+Noyau olivaire accessoire médial (MAO) - Ce noyau se situe entre le PO et les pyramides.
+
+Il est visualisé comme une lame incurvée. Le MAO reçoit des signaux du tectum et du prétectum.
+Fibres grimpantes de la synapse MAO avec le vermis, le flocculus et les hémisphères cérébelleux
+Noyau olivaire accessoire dorsal (DAO) - Ce noyau est également une lame incurvée.
+
+C'est le plus petit noyau de l'IO et se trouve derrière le PO.
+Le DAO reçoit des signaux de la moelle épinière et des noyaux de la colonne dorsale.
+Le DAO synapse avec le vermis.
+
+
+== Fonction ==
+
+
+
+=== Coordination motrice et apprentissage ===
+
+Des études de patients ont révélé le lien entre le noyau olivaire inférieur (ION) et le cervelet.
+
+Les lésions dans l'ION altèrent la capacité d'apprendre une motilité de niveau supérieur, comme effectuer un saut parfait.
+
+Une enquête plus approfondie de la neuroanatomie a confirmé le lien intime entre l'IO et le cervelet dans la coordination motrice et l'apprentissage.
+L'IO envoie des signaux au cervelet en fonction des informations envoyées par le tractus spino-olivaire.
+
+La réglementation suivant ce point est très débattue.
+
+L'hypothèse originale quant à la façon dont l'IO a influencé le cervelet impliquait une dépression à long terme (LTD).
+
+Dans ce scénario, les noyaux cérébelleux profonds envoient une projection GABA pour inhiber ION.
+Des études plus récentes suggèrent que le codage du moment de l'entrée sensorielle est l'élément clé de ces connexions.
+
+L'ION envoie des signaux à travers différents groupes de cellules.
+
+Ces signaux varient en emplacement et en faisceaux de fréquences et semblent incohérents.
+
+Cependant, le schéma temporel de ces signaux est cohérent.
+
+Par conséquent, les recherches en cours sur l'apprentissage moteur étudient comment ces signaux chronométrés se développent et leur rôle dans l'apprentissage moteur.
+
+
+=== Stéroïdogenèse ===
+
+Le noyau olivaire inférieur (ION) exprime des enzymes clés impliquées dans la stéroïdogenèse nécessaire à la neuroprotection et au maintien.
+
+La plus cruciale de ces enzymes est l'aromatase, qui est l'enzyme nécessaire à la conversion de la testostérone en estradiol.
+
+Sans aromatase, l'ION est incapable de fabriquer de l'œstradiol et ne peut pas se remettre correctement d'une blessure.
+
+
+== Signification clinique ==
+
+Étant donné que le noyau olivaire inférieur (ION) est étroitement associé au cervelet, les lésions de l'IO ou du cervelet entraînent une dégénérescence de l'autre.
+
+On sait peu de choses sur les dommages au noyau olivaire inférieur (IO) indépendant du cervelet.
+
+À ce jour, le seul trouble connu qui cible spécifiquement l'ION est une forme extrêmement rare de dégénérescence appelée dégénérescence olivaire hypertrophique (HOD). Bien que l'ION ne soit pas souvent étudiée seule, la dégénérescence de l'ION a été identifiée dans des troubles qui sont généralement associé au cervelet.
+
+Ces troubles comprennent la paralysie supranucléaire, la maladie de Leigh et le SCA6, et il en existe plusieurs autres.
+
+Ces troubles impliquent tous la coordination motrice.
+
+On pense également que le dysfonctionnement de l'ION joue un rôle central dans l'étiologie du tremblement essentiel, bien que cette convention ne soit pas universellement acceptée.
+
+
+
+https://en.wikipedia.org/wiki/Inferior_olivary_nucleus

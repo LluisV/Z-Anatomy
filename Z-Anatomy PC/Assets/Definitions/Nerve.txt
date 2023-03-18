@@ -1,0 +1,848 @@
+
+
+NERVE
+
+
+A nerve is an enclosed, cable-like bundle of nerve fibers (called axons) in the peripheral nervous system. 
+A nerve transmits electrical impulses. 
+
+It is the basic unit of the peripheral nervous system. 
+
+A nerve provides a common pathway for the electrochemical nerve impulses called action potentials that are transmitted along each of the axons to peripheral organs or, in the case of sensory nerves, from the periphery back to the central nervous system. 
+
+Each axon, within the nerve, is an extension of an individual neuron, along with other supportive cells such as some Schwann cells that coat the axons in myelin. 
+Within a nerve, each axon is surrounded by a layer of connective tissue called the endoneurium. 
+
+The axons are bundled together into groups called fascicles, and each fascicle is wrapped in a layer of connective tissue called the perineurium. 
+
+Finally, the entire nerve is wrapped in a layer of connective tissue called the epineurium. 
+
+Nerve cells (often called neurons) are further classified as sensory, motor, or mixed nerves.
+In the central nervous system, the analogous structures are known as nerve tracts.
+
+
+== Structure ==
+
+
+Each nerve is covered on the outside by a dense sheath of connective tissue, the epineurium. 
+
+Beneath this is a layer of fat cells, the perineurium, which forms a complete sleeve around a bundle of axons. 
+
+Perineurial septae extend into the nerve and subdivide it into several bundles of fibres. 
+
+Surrounding each such fibre is the endoneurium. 
+
+This forms an unbroken tube from the surface of the spinal cord to the level where the axon synapses with its muscle fibres, or ends in sensory receptors. 
+
+The endoneurium consists of an inner sleeve of material called the glycocalyx and an outer, delicate, meshwork of collagen fibres. 
+
+Nerves are bundled and often travel along with blood vessels, since the neurons of a nerve have fairly high energy requirements.
+Within the endoneurium, the individual nerve fibres are surrounded by a low-protein liquid called endoneurial fluid. 
+
+This acts in a similar way to the cerebrospinal fluid in the central nervous system and constitutes a blood-nerve barrier similar to the blood-brain barrier. 
+
+Molecules are thereby prevented from crossing the blood into the endoneurial fluid. 
+
+During the development of nerve edema from nerve irritation (or injury), the amount of endoneurial fluid may increase at the site of irritation. 
+
+This increase in fluid can be visualized using magnetic resonance neurography, and thus MR neurography can identify nerve irritation and/or injury.
+
+
+=== Categories ===
+
+Nerves are categorized into three groups based on the direction that signals are conducted:
+
+Afferent nerves conduct signals from sensory neurons to the central nervous system, for example from the mechanoreceptors in skin.
+Efferent nerves conduct signals from the central nervous system along motor neurons to their target muscles and glands.
+Mixed nerves contain both afferent and efferent axons, and thus conduct both incoming sensory information and outgoing muscle commands in the same bundle. 
+
+All spinal nerves are mixed nerves, and some of the cranial nerves are also mixed nerves.Nerves can be categorized into two groups based on where they connect to the central nervous system:
+
+Spinal nerves innervate (distribute to/stimulate) much of the body, and connect through the vertebral column to the spinal cord and thus to the central nervous system. 
+
+They are given letter-number designations according to the vertebra through which they connect to the spinal column.
+Cranial nerves innervate parts of the head, and connect directly to the brain (especially to the brainstem). 
+
+They are typically assigned Roman numerals from 1 to 12, although cranial nerve zero is sometimes included. 
+
+In addition, cranial nerves have descriptive names.
+
+
+=== Terminology ===
+
+
+Specific terms are used to describe nerves and their actions. 
+
+A nerve that supplies information to the brain from an area of the body, or controls an action of the body is said to "innervate" that section of the body or organ. 
+
+Other terms relate to whether the nerve affects the same side ("ipsilateral") or opposite side ("contralateral") of the body, to the part of the brain that supplies it.
+
+
+== Development ==
+
+Nerve growth normally ends in adolescence, but can be re-stimulated with a molecular mechanism known as "Notch signaling".
+
+
+=== Regeneration ===
+
+If the axons of a neuron are damaged, as long as the cell body of the neuron is not damaged, the axons can regenerate and remake the synaptic connections with neurons with the help of guidepost cells. 
+
+This is also referred to as neuroregeneration.The nerve begins the process by destroying the nerve distal to the site of injury allowing Schwann cells, basal lamina, and the neurilemma near the injury to begin producing a regeneration tube. 
+
+Nerve growth factors are produced causing many nerve sprouts to bud. 
+
+When one of the growth processes finds the regeneration tube, it begins to grow rapidly towards its original destination guided the entire time by the regeneration tube. 
+
+Nerve regeneration is very slow and can take up to several months to complete. 
+
+While this process does repair some nerves, there will still be some functional deficit as the repairs are not perfect.
+
+
+== Function ==
+
+A nerve conveys information in the form of electrochemical impulses (as nerve impulses known as action potentials) carried by the individual neurons that make up the nerve. 
+
+These impulses are extremely fast, with some myelinated neurons conducting at speeds up to 120 m/s. 
+
+The impulses travel from one neuron to another by crossing a synapse, where the message is converted from electrical to chemical and then back to electrical.Nerves can be categorized into two groups based on function:
+
+An afferent nerve fiber conducts sensory information from a sensory neuron to the central nervous system, where the information is then processed. 
+
+Bundles of fibres or axons, in the peripheral nervous system are called nerves, and bundles of afferent fibers are known as sensory nerves.
+An efferent nerve fiber conducts signals from a motor neuron in the central nervous system to muscles. 
+
+Bundles of these fibres are known as efferent nerves.
+
+
+=== Nervous system ===
+
+
+The nervous system is the part of an animal that coordinates its actions by transmitting signals to and from different parts of its body. 
+
+In vertebrates it consists of two main parts, the central nervous system (CNS) and the peripheral nervous system (PNS). 
+
+The CNS consists of the brain, brainstem and spinal cord. 
+
+The PNS consists mainly of nerves, which are enclosed bundles of the long fibers or axons, that connect the CNS to all remaining body parts.
+Nerves that transmit signals from the CNS are called motor or efferent nerves, while those nerves that transmit information from the body to the CNS are called sensory or afferent. 
+
+Spinal nerves serve both functions and are called mixed nerves. 
+
+The PNS is divided into three separate subsystems, the somatic, autonomic, and enteric nervous systems. 
+
+Somatic nerves mediate voluntary movement.
+The autonomic nervous system is further subdivided into the sympathetic and the parasympathetic nervous systems. 
+
+The sympathetic nervous system is activated in cases of emergencies to mobilize energy, while the parasympathetic nervous system is activated when organisms are in a relaxed state. 
+
+The enteric nervous system functions to control the gastrointestinal system. 
+
+Both autonomic and enteric nervous systems function involuntarily. 
+
+Nerves that exit from the cranium are called cranial nerves while those exiting from the spinal cord are called spinal nerves.
+
+
+== Clinical significance ==
+
+
+Cancer can spread by invading the spaces around nerves. 
+
+This is particularly common in head and neck cancer, prostate cancer and colorectal cancer.
+Nerves can be damaged by physical injury as well conditions like carpal tunnel syndrome and repetitive strain injury. 
+
+Autoimmune diseases such as Guillain–Barré syndrome, neurodegenerative diseases, polyneuropathy, infection, neuritis, diabetes, or failure of the blood vessels surrounding the nerve all cause nerve damage, which can vary in severity.
+Multiple sclerosis is a disease associated with extensive nerve damage. 
+
+It occurs when the macrophages of an individual's own immune system damage the myelin sheaths that insulate the axon of the nerve.
+A pinched nerve occurs when pressure is placed on a nerve, usually from swelling due to an injury, or pregnancy and can result in pain, weakness, numbness or paralysis, an example being carpal tunnel syndrome. 
+
+Symptoms can be felt in areas far from the actual site of damage, a phenomenon called referred pain. 
+
+Referred pain can happen when the damage causes altered signalling to other areas.
+Neurologists usually diagnose disorders of the nerves by a physical examination, including the testing of reflexes, walking and other directed movements, muscle weakness, proprioception, and the sense of touch. 
+
+This initial exam can be followed with tests such as nerve conduction study, electromyography (EMG), and computed tomography (CT).
+
+
+== Other animals ==
+
+A neuron is called identified if it has properties that distinguish it from every other neuron in the same animal—properties such as location, neurotransmitter, gene expression pattern, and connectivity—and if every individual organism belonging to the same species has exactly one neuron with the same set of properties. 
+
+In vertebrate nervous systems, very few neurons are "identified" in this sense. 
+
+Researchers believe humans have none—but in simpler nervous systems, some or all neurons may be thus unique.In vertebrates, the best known identified neurons are the gigantic Mauthner cells of fish.: 38–44  Every fish has two Mauthner cells, located in the bottom part of the brainstem, one on the left side and one on the right. 
+
+Each Mauthner cell has an axon that crosses over, innervating (stimulating) neurons at the same brain level and then travelling down through the spinal cord, making numerous connections as it goes. 
+
+The synapses generated by a Mauthner cell are so powerful that a single action potential gives rise to a major behavioral response: within milliseconds the fish curves its body into a C-shape, then straightens, thereby propelling itself rapidly forward. 
+
+Functionally this is a fast escape response, triggered most easily by a strong sound wave or pressure wave impinging on the lateral line organ of the fish. 
+
+Mauthner cells are not the only identified neurons in fish—there are about 20 more types, including pairs of "Mauthner cell analogs" in each spinal segmental nucleus. 
+
+Although a Mauthner cell is capable of bringing about an escape response all by itself, in the context of ordinary behavior other types of cells usually contribute to shaping the amplitude and direction of the response.
+Mauthner cells have been described as command neurons. 
+
+A command neuron is a special type of identified neuron, defined as a neuron that is capable of driving a specific behavior all by itself.: 112  Such neurons appear most commonly in the fast escape systems of various species—the squid giant axon and squid giant synapse, used for pioneering experiments in neurophysiology because of their enormous size, both participate in the fast escape circuit of the squid. 
+
+The concept of a command neuron has, however, become controversial, because of studies showing that some neurons that initially appeared to fit the description were really only capable of evoking a response in a limited set of circumstances.In organisms of radial symmetry, nerve nets serve for the nervous system. 
+
+There is no brain or centralised head region, and instead there are interconnected neurons spread out in nerve nets. 
+
+These are found in Cnidaria, Ctenophora and Echinodermata.
+
+
+== History ==
+
+
+Herophilos 335–280 BC, described the optic nerve and the oculomotor nerve for sight and eye movement. 
+
+Analysis of the nerves in the cranium allowed him to differentiate between blood vessels and nerves i.e. 
+
+Ancient Greek: νεῦρον (neûron), “string (plant fiber), nerve”.
+
+
+== Further reading ==
+
+
+
+
+https://en.wikipedia.org/wiki/Nerve
+;;;ES;;;
+
+
+
+NERVIO
+
+
+Un nervio es un conjunto cerrado de fibras nerviosas (llamado axón) en forma de cable en el sistema nervioso periférico.
+Un nervio transmite impulsos eléctricos.
+
+Es la unidad básica del sistema nervioso periférico.
+
+Un nervio proporciona una vía común para los impulsos nerviosos electroquímicos llamados potenciales de acción que se transmiten a lo largo de cada uno de los axones a los órganos periféricos o, en el caso de los nervios sensoriales, desde la periferia de regreso al sistema nervioso central.
+
+Cada axón, dentro del nervio, es una extensión de una neurona individual, junto con otras células de apoyo, como algunas células de Schwann que recubren los axones con mielina.
+Dentro de un nervio, cada axón está rodeado por una capa de tejido conectivo llamada endoneuro.
+
+Los axones se agrupan en grupos llamados fascículos, y cada fascículo está envuelto en una capa de tejido conectivo llamada perineuro.
+
+Finalmente, todo el nervio está envuelto en una capa de tejido conectivo llamada epineuro.
+
+Las células nerviosas (a menudo llamadas neuronas) se clasifican además como nervios sensoriales, motores o mixtos.
+En el sistema nervioso central, las estructuras análogas se conocen como tractos nerviosos.
+
+
+== Estructura ==
+
+
+Cada nervio está cubierto por fuera por una densa vaina de tejido conjuntivo, el epineuro.
+
+Debajo hay una capa de células grasas, el perineuro, que forma una manga completa alrededor de un haz de axones.
+
+Los tabiques perineurales se extienden hacia el nervio y lo subdividen en varios haces de fibras.
+
+Rodeando a cada una de estas fibras se encuentra el endoneuro.
+
+Esto forma un tubo continuo desde la superficie de la médula espinal hasta el nivel donde el axón hace sinapsis con sus fibras musculares o termina en los receptores sensoriales.
+
+El endoneuro consta de una funda interior de material llamada glucocáliz y una red exterior delicada de fibras de colágeno.
+
+Los nervios están agrupados y, a menudo, viajan junto con los vasos sanguíneos, ya que las neuronas de un nervio tienen requisitos de energía bastante altos.
+Dentro del endoneuro, las fibras nerviosas individuales están rodeadas por un líquido bajo en proteínas llamado líquido endoneural.
+
+Este actúa de manera similar al líquido cefalorraquídeo en el sistema nervioso central y constituye una barrera hemato-nerviosa similar a la barrera hematoencefálica.
+
+De este modo se evita que las moléculas crucen la sangre al líquido endoneural.
+
+Durante el desarrollo del edema nervioso por irritación (o lesión) del nervio, la cantidad de líquido endoneural puede aumentar en el sitio de la irritación.
+
+Este aumento de líquido se puede visualizar mediante neurografía por resonancia magnética y, por lo tanto, la neurografía por RM puede identificar irritación y/o lesión nerviosa.
+
+
+=== Categorías ===
+
+Los nervios se clasifican en tres grupos según la dirección en que se conducen las señales:
+
+Los nervios aferentes conducen señales desde las neuronas sensoriales al sistema nervioso central, por ejemplo, desde los mecanorreceptores de la piel.
+Los nervios eferentes conducen señales desde el sistema nervioso central a lo largo de las neuronas motoras hasta sus músculos y glándulas objetivo.
+Los nervios mixtos contienen axones tanto aferentes como eferentes y, por lo tanto, conducen tanto la información sensorial entrante como los comandos musculares salientes en el mismo haz.
+
+Todos los nervios espinales son nervios mixtos, y algunos de los nervios craneales también son nervios mixtos. Los nervios se pueden clasificar en dos grupos en función de dónde se conectan con el sistema nervioso central:
+
+Los nervios espinales inervan (distribuyen/estimulan) gran parte del cuerpo y se conectan a través de la columna vertebral con la médula espinal y, por lo tanto, con el sistema nervioso central.
+
+Reciben designaciones de letras y números de acuerdo con la vértebra a través de la cual se conectan a la columna vertebral.
+Los nervios craneales inervan partes de la cabeza y se conectan directamente al cerebro (especialmente al tronco encefálico).
+
+Por lo general, se les asignan números romanos del 1 al 12, aunque a veces se incluye el nervio craneal cero.
+
+Además, los nervios craneales tienen nombres descriptivos.
+
+
+=== Terminología ===
+
+
+Se utilizan términos específicos para describir los nervios y sus acciones.
+
+Se dice que un nervio que suministra información al cerebro desde un área del cuerpo o controla una acción del cuerpo "inerva" esa sección del cuerpo u órgano.
+
+Otros términos se relacionan con si el nervio afecta el mismo lado ("ipsilateral") o el lado opuesto ("contralateral") del cuerpo, a la parte del cerebro que lo inerva.
+
+
+== Desarrollo ==
+
+El crecimiento nervioso normalmente termina en la adolescencia, pero puede volver a estimularse con un mecanismo molecular conocido como "señalización Notch".
+
+
+=== Regeneración ===
+
+Si los axones de una neurona están dañados, siempre que el cuerpo celular de la neurona no esté dañado, los axones pueden regenerarse y rehacer las conexiones sinápticas con las neuronas con la ayuda de las células guía.
+
+Esto también se conoce como neuroregeneración. El nervio comienza el proceso al destruir el nervio distal al sitio de la lesión, lo que permite que las células de Schwann, la lámina basal y el neurilema cerca de la lesión comiencen a producir un tubo de regeneración.
+
+Los factores de crecimiento nervioso se producen provocando que broten muchos nervios.
+
+Cuando uno de los procesos de crecimiento encuentra el tubo de regeneración, comienza a crecer rápidamente hacia su destino original guiado todo el tiempo por el tubo de regeneración.
+
+La regeneración nerviosa es muy lenta y puede tardar varios meses en completarse.
+
+Si bien este proceso repara algunos nervios, aún habrá algún déficit funcional ya que las reparaciones no son perfectas.
+
+
+== Función ==
+
+Un nervio transmite información en forma de impulsos electroquímicos (como impulsos nerviosos conocidos como potenciales de acción) transportados por las neuronas individuales que forman el nervio.
+
+Estos impulsos son extremadamente rápidos, con algunas neuronas mielinizadas conduciendo a velocidades de hasta 120 m/s.
+
+Los impulsos viajan de una neurona a otra cruzando una sinapsis, donde el mensaje se convierte de eléctrico a químico y luego nuevamente a eléctrico. Los nervios se pueden clasificar en dos grupos según su función:
+
+Una fibra nerviosa aferente conduce la información sensorial desde una neurona sensorial al sistema nervioso central, donde luego se procesa la información.
+
+Los haces de fibras o axones, en el sistema nervioso periférico se denominan nervios, y los haces de fibras aferentes se conocen como nervios sensoriales.
+Una fibra nerviosa eferente conduce señales desde una neurona motora en el sistema nervioso central hasta los músculos.
+
+Los haces de estas fibras se conocen como nervios eferentes.
+
+
+=== Sistema nervioso ===
+
+
+El sistema nervioso es la parte de un animal que coordina sus acciones mediante la transmisión de señales hacia y desde diferentes partes de su cuerpo.
+
+En los vertebrados consta de dos partes principales, el sistema nervioso central (SNC) y el sistema nervioso periférico (SNP).
+
+El SNC está formado por el encéfalo, el tronco encefálico y la médula espinal.
+
+El SNP consta principalmente de nervios, que son haces cerrados de fibras largas o axones, que conectan el SNC con todas las partes restantes del cuerpo.
+Los nervios que transmiten señales desde el SNC se denominan nervios motores o eferentes, mientras que los nervios que transmiten información del cuerpo al SNC se denominan sensoriales o aferentes.
+
+Los nervios espinales cumplen ambas funciones y se llaman nervios mixtos.
+
+El SNP se divide en tres subsistemas separados, los sistemas nerviosos somático, autónomo y entérico.
+
+Los nervios somáticos median el movimiento voluntario.
+El sistema nervioso autónomo se subdivide en los sistemas nerviosos simpático y parasimpático.
+
+El sistema nervioso simpático se activa en casos de emergencias para movilizar energía, mientras que el sistema nervioso parasimpático se activa cuando los organismos se encuentran en un estado relajado.
+
+El sistema nervioso entérico funciona para controlar el sistema gastrointestinal.
+
+Tanto el sistema nervioso autónomo como el entérico funcionan de manera involuntaria.
+
+Los nervios que salen del cráneo se llaman nervios craneales, mientras que los que salen de la médula espinal se llaman nervios espinales.
+
+
+== Importancia clínica ==
+
+
+El cáncer puede propagarse al invadir los espacios alrededor de los nervios.
+
+Esto es particularmente común en el cáncer de cabeza y cuello, cáncer de próstata y cáncer colorrectal.
+Los nervios pueden dañarse por lesiones físicas, así como por condiciones como el síndrome del túnel carpiano y lesiones por esfuerzo repetitivo.
+
+Las enfermedades autoinmunes como el síndrome de Guillain-Barré, las enfermedades neurodegenerativas, la polineuropatía, la infección, la neuritis, la diabetes o la falla de los vasos sanguíneos que rodean el nervio causan daño nervioso, que puede variar en gravedad.
+La esclerosis múltiple es una enfermedad asociada con daño nervioso extenso.
+
+Ocurre cuando los macrófagos del propio sistema inmunológico de un individuo dañan las vainas de mielina que aíslan el axón del nervio.
+Un nervio pellizcado ocurre cuando se ejerce presión sobre un nervio, generalmente debido a la hinchazón debido a una lesión o al embarazo, y puede provocar dolor, debilidad, entumecimiento o parálisis, por ejemplo, el síndrome del túnel carpiano.
+
+Los síntomas se pueden sentir en áreas alejadas del sitio real del daño, un fenómeno llamado dolor referido.
+
+El dolor referido puede ocurrir cuando el daño provoca señalización alterada a otras áreas.
+Los neurólogos suelen diagnosticar los trastornos de los nervios mediante un examen físico, incluida la prueba de los reflejos, la marcha y otros movimientos dirigidos, la debilidad muscular, la propiocepción y el sentido del tacto.
+
+Este examen inicial se puede seguir con pruebas como estudio de conducción nerviosa, electromiografía (EMG) y tomografía computarizada (TC).
+
+
+== Otros animales ==
+
+Se dice que una neurona está identificada si tiene propiedades que la distinguen de cualquier otra neurona en el mismo animal (propiedades como ubicación, neurotransmisor, patrón de expresión génica y conectividad) y si cada organismo individual que pertenece a la misma especie tiene exactamente una neurona con el mismo conjunto de propiedades.
+
+En los sistemas nerviosos de los vertebrados, muy pocas neuronas se "identifican" en este sentido.
+
+Los investigadores creen que los humanos no tienen ninguna, pero en los sistemas nerviosos más simples, algunas o todas las neuronas pueden ser únicas. En los vertebrados, las neuronas identificadas mejor conocidas son las gigantescas células de Mauthner de los peces. la parte inferior del tronco encefálico, uno en el lado izquierdo y otro en el derecho.
+
+Cada célula de Mauthner tiene un axón que se cruza, inerva (estimula) las neuronas al mismo nivel del cerebro y luego viaja a través de la médula espinal, haciendo numerosas conexiones a medida que avanza.
+
+Las sinapsis generadas por una célula de Mauthner son tan poderosas que un solo potencial de acción da lugar a una importante respuesta de comportamiento: en milisegundos, el pez curva su cuerpo en forma de C, luego se endereza, propulsándose rápidamente hacia adelante.
+
+Funcionalmente, esta es una respuesta de escape rápida, desencadenada más fácilmente por una onda de sonido fuerte o una onda de presión que incide en el órgano de la línea lateral del pez.
+
+Las células de Mauthner no son las únicas neuronas identificadas en los peces: hay alrededor de 20 tipos más, incluidos pares de "análogos de células de Mauthner" en cada núcleo segmentario espinal.
+
+Aunque una célula de Mauthner es capaz de provocar una respuesta de escape por sí misma, en el contexto del comportamiento normal, otros tipos de células suelen contribuir a dar forma a la amplitud y dirección de la respuesta.
+Las células de Mauthner se han descrito como neuronas de mando.
+
+Una neurona de comando es un tipo especial de neurona identificada, definida como una neurona que es capaz de impulsar un comportamiento específico por sí misma. sinapsis, utilizadas para experimentos pioneros en neurofisiología por su enorme tamaño, ambas participan en el circuito de escape rápido del calamar.
+
+Sin embargo, el concepto de neurona de comando se ha vuelto controvertido debido a estudios que muestran que algunas neuronas que inicialmente parecían encajar en la descripción en realidad solo eran capaces de provocar una respuesta en un conjunto limitado de circunstancias. En organismos de simetría radial, las redes nerviosas sirven para el sistema nervioso.
+
+No hay un cerebro o una región de la cabeza centralizada, y en su lugar hay neuronas interconectadas distribuidas en redes nerviosas.
+
+Estos se encuentran en Cnidaria, Ctenophora y Echinodermata.
+
+
+== Historia ==
+
+
+Herophilos 335-280 aC, describió el nervio óptico y el nervio oculomotor para la vista y el movimiento ocular.
+
+El análisis de los nervios en el cráneo le permitió diferenciar entre vasos sanguíneos y nervios, es decir
+
+Griego antiguo: νεῦρον (neûron), “cuerda (fibra vegetal), nervio”.
+
+
+== Lectura adicional ==
+
+
+
+
+https://en.wikipedia.org/wiki/Nervio
+
+;;;PT;;;
+
+
+
+NERVO
+
+
+Um nervo é um feixe fechado, semelhante a um cabo, de fibras nervosas (chamados axônios) no sistema nervoso periférico.
+Um nervo transmite impulsos elétricos.
+
+É a unidade básica do sistema nervoso periférico.
+
+Um nervo fornece uma via comum para os impulsos nervosos eletroquímicos chamados potenciais de ação que são transmitidos ao longo de cada um dos axônios para órgãos periféricos ou, no caso de nervos sensoriais, da periferia de volta para o sistema nervoso central.
+
+Cada axônio, dentro do nervo, é uma extensão de um neurônio individual, juntamente com outras células de suporte, como algumas células de Schwann que revestem os axônios em mielina.
+Dentro de um nervo, cada axônio é cercado por uma camada de tecido conjuntivo chamada endoneuro.
+
+Os axônios são agrupados em grupos chamados fascículos, e cada fascículo é envolvido por uma camada de tecido conjuntivo chamada perineuro.
+
+Finalmente, todo o nervo é envolvido por uma camada de tecido conjuntivo chamada epineuro.
+
+As células nervosas (muitas vezes chamadas de neurônios) são classificadas como nervos sensoriais, motores ou mistos.
+No sistema nervoso central, as estruturas análogas são conhecidas como tratos nervosos.
+
+
+== Estrutura ==
+
+
+Cada nervo é coberto externamente por uma bainha densa de tecido conjuntivo, o epineuro.
+
+Abaixo disso está uma camada de células de gordura, o perineuro, que forma uma manga completa em torno de um feixe de axônios.
+
+Os septos perineural estendem-se até o nervo e o subdividem em vários feixes de fibras.
+
+Ao redor de cada uma dessas fibras está o endoneuro.
+
+Isso forma um tubo ininterrupto da superfície da medula espinhal até o nível em que o axônio faz sinapse com suas fibras musculares ou termina em receptores sensoriais.
+
+O endoneuro consiste em uma manga interna de material chamado glicocálice e uma malha externa delicada de fibras de colágeno.
+
+Os nervos são agrupados e muitas vezes viajam junto com os vasos sanguíneos, uma vez que os neurônios de um nervo têm necessidades de energia bastante altas.
+Dentro do endoneuro, as fibras nervosas individuais são cercadas por um líquido de baixa proteína chamado fluido endoneural.
+
+Este atua de maneira semelhante ao líquido cefalorraquidiano no sistema nervoso central e constitui uma barreira hemato-nervosa semelhante à barreira hematoencefálica.
+
+As moléculas são assim impedidas de atravessar o sangue para o fluido endoneural.
+
+Durante o desenvolvimento de edema do nervo por irritação do nervo (ou lesão), a quantidade de fluido endoneural pode aumentar no local da irritação.
+
+Esse aumento de fluido pode ser visualizado usando a neurografia por ressonância magnética e, assim, a neurografia por RM pode identificar irritação e/ou lesão do nervo.
+
+
+=== Categorias ===
+
+Os nervos são categorizados em três grupos com base na direção em que os sinais são conduzidos:
+
+Os nervos aferentes conduzem sinais dos neurônios sensoriais para o sistema nervoso central, por exemplo, dos mecanorreceptores na pele.
+Os nervos eferentes conduzem sinais do sistema nervoso central ao longo dos neurônios motores para seus músculos e glândulas alvo.
+Os nervos mistos contêm axônios aferentes e eferentes e, portanto, conduzem tanto a informação sensorial de entrada quanto os comandos musculares de saída no mesmo feixe.
+
+Todos os nervos espinhais são nervos mistos, e alguns dos nervos cranianos também são nervos mistos. Os nervos podem ser categorizados em dois grupos com base em onde eles se conectam ao sistema nervoso central:
+
+Os nervos espinhais inervam (distribuem/estimulam) grande parte do corpo e conectam-se através da coluna vertebral à medula espinhal e, portanto, ao sistema nervoso central.
+
+Eles recebem designações de letras e números de acordo com a vértebra através da qual se conectam à coluna vertebral.
+Os nervos cranianos inervam partes da cabeça e se conectam diretamente ao cérebro (especialmente ao tronco cerebral).
+
+Eles são tipicamente atribuídos em algarismos romanos de 1 a 12, embora o zero do nervo craniano às vezes seja incluído.
+
+Além disso, os nervos cranianos têm nomes descritivos.
+
+
+=== Terminologia ===
+
+
+Termos específicos são usados ​​para descrever os nervos e suas ações.
+
+Diz-se que um nervo que fornece informações ao cérebro de uma área do corpo ou controla uma ação do corpo "inerva" essa seção do corpo ou órgão.
+
+Outros termos referem-se a se o nervo afeta o mesmo lado ("ipsilateral") ou o lado oposto ("contralateral") do corpo, à parte do cérebro que o fornece.
+
+
+== Desenvolvimento ==
+
+O crescimento do nervo normalmente termina na adolescência, mas pode ser re-estimulado com um mecanismo molecular conhecido como "Sinalização Notch".
+
+
+=== Regeneração ===
+
+Se os axônios de um neurônio estiverem danificados, desde que o corpo celular do neurônio não esteja danificado, os axônios podem se regenerar e refazer as conexões sinápticas com os neurônios com a ajuda de células-guia.
+
+Isso também é chamado de neuroregeneração. O nervo inicia o processo destruindo o nervo distal ao local da lesão, permitindo que as células de Schwann, a lâmina basal e o neurilema próximo à lesão comecem a produzir um tubo de regeneração.
+
+Os fatores de crescimento do nervo são produzidos fazendo com que muitos brotos do nervo brotem.
+
+Quando um dos processos de crescimento encontra o tubo de regeneração, ele começa a crescer rapidamente em direção ao seu destino original guiado o tempo todo pelo tubo de regeneração.
+
+A regeneração do nervo é muito lenta e pode levar vários meses para ser concluída.
+
+Embora esse processo repare alguns nervos, ainda haverá algum déficit funcional, pois os reparos não são perfeitos.
+
+
+== Função ==
+
+Um nervo transmite informações na forma de impulsos eletroquímicos (como impulsos nervosos conhecidos como potenciais de ação) transportados pelos neurônios individuais que compõem o nervo.
+
+Esses impulsos são extremamente rápidos, com alguns neurônios mielinizados conduzindo a velocidades de até 120 m/s.
+
+Os impulsos viajam de um neurônio para outro cruzando uma sinapse, onde a mensagem é convertida de elétrica para química e depois de volta para elétrica. Os nervos podem ser categorizados em dois grupos com base na função:
+
+Uma fibra nervosa aferente conduz a informação sensorial de um neurônio sensorial para o sistema nervoso central, onde a informação é então processada.
+
+Feixes de fibras ou axônios, no sistema nervoso periférico são chamados de nervos, e feixes de fibras aferentes são conhecidos como nervos sensoriais.
+Uma fibra nervosa eferente conduz sinais de um neurônio motor no sistema nervoso central para os músculos.
+
+Feixes dessas fibras são conhecidos como nervos eferentes.
+
+
+=== Sistema nervoso ===
+
+
+O sistema nervoso é a parte de um animal que coordena suas ações transmitindo sinais de e para diferentes partes de seu corpo.
+
+Nos vertebrados, consiste em duas partes principais, o sistema nervoso central (SNC) e o sistema nervoso periférico (SNP).
+
+O SNC é constituído pelo encéfalo, tronco encefálico e medula espinhal.
+
+O SNP consiste principalmente de nervos, que são feixes fechados de fibras longas ou axônios, que conectam o SNC a todas as partes restantes do corpo.
+Os nervos que transmitem sinais do SNC são chamados de nervos motores ou eferentes, enquanto os nervos que transmitem informações do corpo para o SNC são chamados de sensitivos ou aferentes.
+
+Os nervos espinhais servem a ambas as funções e são chamados de nervos mistos.
+
+O SNP é dividido em três subsistemas separados, os sistemas nervoso somático, autônomo e entérico.
+
+Os nervos somáticos medeiam o movimento voluntário.
+O sistema nervoso autônomo é subdividido em sistema nervoso simpático e parassimpático.
+
+O sistema nervoso simpático é ativado em casos de emergência para mobilizar energia, enquanto o sistema nervoso parassimpático é ativado quando os organismos estão em estado de relaxamento.
+
+O sistema nervoso entérico funciona para controlar o sistema gastrointestinal.
+
+Tanto o sistema nervoso autônomo quanto o entérico funcionam involuntariamente.
+
+Os nervos que saem do crânio são chamados de nervos cranianos, enquanto aqueles que saem da medula espinhal são chamados de nervos espinhais.
+
+
+== Significado clínico ==
+
+
+O câncer pode se espalhar invadindo os espaços ao redor dos nervos.
+
+Isso é particularmente comum no câncer de cabeça e pescoço, câncer de próstata e câncer colorretal.
+Os nervos podem ser danificados por lesões físicas, bem como condições como síndrome do túnel do carpo e lesão por esforço repetitivo.
+
+Doenças autoimunes, como síndrome de Guillain-Barré, doenças neurodegenerativas, polineuropatia, infecção, neurite, diabetes ou insuficiência dos vasos sanguíneos ao redor do nervo causam danos nos nervos, que podem variar em gravidade.
+A esclerose múltipla é uma doença associada a danos extensos nos nervos.
+
+Ocorre quando os macrófagos do próprio sistema imunológico de um indivíduo danificam as bainhas de mielina que isolam o axônio do nervo.
+Um nervo comprimido ocorre quando a pressão é colocada em um nervo, geralmente devido ao inchaço devido a uma lesão ou gravidez e pode resultar em dor, fraqueza, dormência ou paralisia, um exemplo é a síndrome do túnel do carpo.
+
+Os sintomas podem ser sentidos em áreas distantes do local real do dano, um fenômeno chamado dor referida.
+
+A dor referida pode ocorrer quando o dano causa alteração na sinalização para outras áreas.
+Os neurologistas geralmente diagnosticam distúrbios dos nervos por meio de um exame físico, incluindo o teste de reflexos, caminhada e outros movimentos direcionados, fraqueza muscular, propriocepção e sentido do tato.
+
+Esse exame inicial pode ser seguido por exames como estudo de condução nervosa, eletromiografia (EMG) e tomografia computadorizada (TC).
+
+
+== Outros animais ==
+
+Um neurônio é chamado identificado se possuir propriedades que o distinguem de todos os outros neurônios do mesmo animal – propriedades como localização, neurotransmissor, padrão de expressão gênica e conectividade – e se cada organismo individual pertencente à mesma espécie possui exatamente um neurônio com o mesmo conjunto de propriedades.
+
+Nos sistemas nervosos dos vertebrados, muito poucos neurônios são "identificados" nesse sentido.
+
+Os pesquisadores acreditam que os humanos não têm nenhum – mas em sistemas nervosos mais simples, alguns ou todos os neurônios podem ser assim únicos. a parte inferior do tronco encefálico, um do lado esquerdo e outro do lado direito.
+
+Cada célula de Mauthner tem um axônio que cruza, inervando (estimulando) neurônios no mesmo nível do cérebro e depois descendo pela medula espinhal, fazendo inúmeras conexões à medida que avança.
+
+As sinapses geradas por uma célula de Mauthner são tão poderosas que um único potencial de ação dá origem a uma resposta comportamental importante: em milissegundos, o peixe curva seu corpo em forma de C, depois se endireita, impulsionando-se rapidamente para a frente.
+
+Funcionalmente, esta é uma resposta de fuga rápida, desencadeada mais facilmente por uma forte onda de som ou onda de pressão que atinge o órgão da linha lateral do peixe.
+
+As células de Mauthner não são os únicos neurônios identificados em peixes - existem cerca de 20 tipos mais, incluindo pares de "análogos de células de Mauthner" em cada núcleo segmentar espinhal.
+
+Embora uma célula de Mauthner seja capaz de produzir uma resposta de fuga por si só, no contexto do comportamento comum, outros tipos de células geralmente contribuem para moldar a amplitude e a direção da resposta.
+As células de Mauthner foram descritas como neurônios de comando.
+
+Um neurônio de comando é um tipo especial de neurônio identificado, definido como um neurônio capaz de conduzir um comportamento específico por si só. sinapse, usada para experimentos pioneiros em neurofisiologia por causa de seu enorme tamanho, ambas participam do circuito de escape rápido da lula.
+
+O conceito de um neurônio de comando, no entanto, tornou-se controverso, por causa de estudos mostrando que alguns neurônios que inicialmente pareciam se encaixar na descrição eram realmente capazes de evocar uma resposta em um conjunto limitado de circunstâncias. servem para o sistema nervoso.
+
+Não há cérebro ou região centralizada da cabeça e, em vez disso, há neurônios interconectados espalhados em redes nervosas.
+
+Estes são encontrados em Cnidaria, Ctenophora e Echinodermata.
+
+
+== História ==
+
+
+Herophilos 335-280 aC, descreveu o nervo óptico e o nervo oculomotor para visão e movimento dos olhos.
+
+A análise dos nervos no crânio permitiu-lhe diferenciar entre vasos sanguíneos e nervos, ou seja,
+
+Grego antigo: νεῦρον (neûron), “corda (fibra vegetal), nervo”.
+
+
+== Leitura adicional ==
+
+
+
+
+https://en.wikipedia.org/wiki/Nerve
+
+;;;FR;;;
+
+
+
+NERF
+
+
+Un nerf est un faisceau fermé, semblable à un câble, de fibres nerveuses (appelées axones) dans le système nerveux périphérique.
+Un nerf transmet des impulsions électriques.
+
+C'est l'unité de base du système nerveux périphérique.
+
+Un nerf fournit une voie commune pour les impulsions nerveuses électrochimiques appelées potentiels d'action qui sont transmises le long de chacun des axones aux organes périphériques ou, dans le cas des nerfs sensoriels, de la périphérie vers le système nerveux central.
+
+Chaque axone, dans le nerf, est une extension d'un neurone individuel, ainsi que d'autres cellules de soutien telles que certaines cellules de Schwann qui recouvrent les axones de myéline.
+Dans un nerf, chaque axone est entouré d'une couche de tissu conjonctif appelée endonèvre.
+
+Les axones sont regroupés en groupes appelés fascicules, et chaque fascicule est enveloppé dans une couche de tissu conjonctif appelée périnèvre.
+
+Enfin, le nerf entier est enveloppé dans une couche de tissu conjonctif appelée épinèvre.
+
+Les cellules nerveuses (souvent appelées neurones) sont en outre classées en nerfs sensoriels, moteurs ou mixtes.
+Dans le système nerveux central, les structures analogues sont appelées voies nerveuses.
+
+
+== Structure ==
+
+
+Chaque nerf est recouvert à l'extérieur d'une gaine dense de tissu conjonctif, l'épinèvre.
+
+En dessous se trouve une couche de cellules graisseuses, le périnèvre, qui forme un manchon complet autour d'un faisceau d'axones.
+
+Les cloisons périneurales s'étendent dans le nerf et le subdivisent en plusieurs faisceaux de fibres.
+
+Autour de chacune de ces fibres se trouve l'endonèvre.
+
+Cela forme un tube ininterrompu depuis la surface de la moelle épinière jusqu'au niveau où l'axone se synapse avec ses fibres musculaires ou se termine par des récepteurs sensoriels.
+
+L'endoneurium se compose d'un manchon interne de matériau appelé glycocalyx et d'un réseau externe délicat de fibres de collagène.
+
+Les nerfs sont regroupés et voyagent souvent avec les vaisseaux sanguins, car les neurones d'un nerf ont des besoins énergétiques assez élevés.
+Dans l'endoneurium, les fibres nerveuses individuelles sont entourées d'un liquide pauvre en protéines appelé liquide endoneurial.
+
+Celui-ci agit de manière similaire au liquide céphalo-rachidien dans le système nerveux central et constitue une barrière hémato-nerveuse similaire à la barrière hémato-encéphalique.
+
+Les molécules sont ainsi empêchées de traverser le sang dans le liquide endoneural.
+
+Au cours du développement d'un œdème nerveux dû à une irritation (ou à une blessure) nerveuse, la quantité de liquide endoneural peut augmenter au site d'irritation.
+
+Cette augmentation de liquide peut être visualisée à l'aide de la neurographie par résonance magnétique, et ainsi la neurographie par résonance magnétique peut identifier une irritation et/ou une blessure nerveuse.
+
+
+=== Catégories ===
+
+Les nerfs sont classés en trois groupes en fonction de la direction dans laquelle les signaux sont conduits :
+
+Les nerfs afférents transmettent les signaux des neurones sensoriels au système nerveux central, par exemple à partir des mécanorécepteurs de la peau.
+Les nerfs efférents transmettent les signaux du système nerveux central le long des motoneurones à leurs muscles et glandes cibles.
+Les nerfs mixtes contiennent à la fois des axones afférents et efférents, et conduisent ainsi à la fois les informations sensorielles entrantes et les commandes musculaires sortantes dans le même faisceau.
+
+Tous les nerfs rachidiens sont des nerfs mixtes, et certains des nerfs crâniens sont également des nerfs mixtes. Les nerfs peuvent être classés en deux groupes en fonction de leur connexion au système nerveux central :
+
+Les nerfs spinaux innervent (distribuent/stimulent) une grande partie du corps et se connectent à travers la colonne vertébrale à la moelle épinière et donc au système nerveux central.
+
+Ils reçoivent des désignations de lettres et de chiffres en fonction de la vertèbre par laquelle ils se connectent à la colonne vertébrale.
+Les nerfs crâniens innervent certaines parties de la tête et se connectent directement au cerveau (en particulier au tronc cérébral).
+
+On leur attribue généralement des chiffres romains de 1 à 12, bien que le nerf crânien zéro soit parfois inclus.
+
+De plus, les nerfs crâniens ont des noms descriptifs.
+
+
+=== Terminologie ===
+
+
+Des termes spécifiques sont utilisés pour décrire les nerfs et leurs actions.
+
+On dit qu'un nerf qui fournit des informations au cerveau à partir d'une zone du corps ou contrôle une action du corps "innerve" cette partie du corps ou de l'organe.
+
+D'autres termes se rapportent au fait que le nerf affecte le même côté ("ipsilatéral") ou le côté opposé ("contralatéral") du corps, à la partie du cerveau qui l'alimente.
+
+
+== Développement ==
+
+La croissance nerveuse se termine normalement à l'adolescence, mais peut être restimulée par un mécanisme moléculaire connu sous le nom de "signalisation Notch".
+
+
+=== Régénération ===
+
+Si les axones d'un neurone sont endommagés, tant que le corps cellulaire du neurone n'est pas endommagé, les axones peuvent se régénérer et refaire les connexions synaptiques avec les neurones à l'aide de cellules guides.
+
+Ceci est également appelé neurorégénération. Le nerf commence le processus en détruisant le nerf distal du site de la blessure, permettant aux cellules de Schwann, à la lame basale et au neurilemme près de la blessure de commencer à produire un tube de régénération.
+
+Des facteurs de croissance nerveuse sont produits, provoquant le bourgeonnement de nombreux germes nerveux.
+
+Lorsque l'un des processus de croissance trouve le tube de régénération, il commence à se développer rapidement vers sa destination d'origine guidé tout le temps par le tube de régénération.
+
+La régénération nerveuse est très lente et peut prendre jusqu'à plusieurs mois.
+
+Bien que ce processus répare certains nerfs, il y aura toujours un déficit fonctionnel car les réparations ne sont pas parfaites.
+
+
+== Fonction ==
+
+Un nerf transmet des informations sous la forme d'impulsions électrochimiques (sous forme d'impulsions nerveuses appelées potentiels d'action) portées par les neurones individuels qui composent le nerf.
+
+Ces impulsions sont extrêmement rapides, certains neurones myélinisés conduisant à des vitesses allant jusqu'à 120 m/s.
+
+Les impulsions voyagent d'un neurone à l'autre en traversant une synapse, où le message est converti d'électrique en chimique, puis de nouveau électrique. Les nerfs peuvent être classés en deux groupes en fonction de leur fonction :
+
+Une fibre nerveuse afférente conduit les informations sensorielles d'un neurone sensoriel au système nerveux central, où les informations sont ensuite traitées.
+
+Les faisceaux de fibres ou d'axones du système nerveux périphérique sont appelés nerfs et les faisceaux de fibres afférentes sont appelés nerfs sensoriels.
+Une fibre nerveuse efférente transmet les signaux d'un motoneurone du système nerveux central aux muscles.
+
+Les faisceaux de ces fibres sont appelés nerfs efférents.
+
+
+=== Système nerveux ===
+
+
+Le système nerveux est la partie d'un animal qui coordonne ses actions en transmettant des signaux vers et depuis différentes parties de son corps.
+
+Chez les vertébrés, il se compose de deux parties principales, le système nerveux central (SNC) et le système nerveux périphérique (SNP).
+
+Le SNC comprend le cerveau, le tronc cérébral et la moelle épinière.
+
+Le SNP se compose principalement de nerfs, qui sont des faisceaux fermés de fibres longues ou d'axones, qui relient le SNC à toutes les parties restantes du corps.
+Les nerfs qui transmettent les signaux du SNC sont appelés nerfs moteurs ou efférents, tandis que les nerfs qui transmettent les informations du corps au SNC sont appelés sensitifs ou afférents.
+
+Les nerfs rachidiens remplissent les deux fonctions et sont appelés nerfs mixtes.
+
+Le SNP est divisé en trois sous-systèmes distincts, les systèmes nerveux somatique, autonome et entérique.
+
+Les nerfs somatiques assurent la médiation des mouvements volontaires.
+Le système nerveux autonome est subdivisé en systèmes nerveux sympathique et parasympathique.
+
+Le système nerveux sympathique est activé en cas d'urgence pour mobiliser l'énergie, tandis que le système nerveux parasympathique est activé lorsque les organismes sont dans un état détendu.
+
+Le système nerveux entérique fonctionne pour contrôler le système gastro-intestinal.
+
+Les systèmes nerveux autonome et entérique fonctionnent involontairement.
+
+Les nerfs qui sortent du crâne sont appelés nerfs crâniens tandis que ceux qui sortent de la moelle épinière sont appelés nerfs rachidiens.
+
+
+== Signification clinique ==
+
+
+Le cancer peut se propager en envahissant les espaces autour des nerfs.
+
+Ceci est particulièrement fréquent dans le cancer de la tête et du cou, le cancer de la prostate et le cancer colorectal.
+Les nerfs peuvent être endommagés par des blessures physiques ainsi que par des conditions telles que le syndrome du canal carpien et les microtraumatismes répétés.
+
+Les maladies auto-immunes telles que le syndrome de Guillain-Barré, les maladies neurodégénératives, la polyneuropathie, l'infection, la névrite, le diabète ou la défaillance des vaisseaux sanguins entourant le nerf provoquent toutes des lésions nerveuses, qui peuvent varier en gravité.
+La sclérose en plaques est une maladie associée à des lésions nerveuses étendues.
+
+Cela se produit lorsque les macrophages du système immunitaire d'un individu endommagent les gaines de myéline qui isolent l'axone du nerf.
+Un nerf pincé se produit lorsqu'une pression est exercée sur un nerf, généralement à cause d'un gonflement dû à une blessure ou à une grossesse et peut entraîner des douleurs, une faiblesse, un engourdissement ou une paralysie, un exemple étant le syndrome du canal carpien.
+
+Les symptômes peuvent être ressentis dans des zones éloignées du site réel des dommages, un phénomène appelé douleur projetée.
+
+La douleur référée peut survenir lorsque les dommages provoquent une altération de la signalisation vers d'autres zones.
+Les neurologues diagnostiquent généralement les troubles des nerfs par un examen physique, y compris le test des réflexes, la marche et d'autres mouvements dirigés, la faiblesse musculaire, la proprioception et le sens du toucher.
+
+Cet examen initial peut être suivi de tests tels que l'étude de la conduction nerveuse, l'électromyographie (EMG) et la tomodensitométrie (CT).
+
+
+== Autres animaux ==
+
+Un neurone est dit identifié s'il a des propriétés qui le distinguent de tous les autres neurones du même animal - des propriétés telles que l'emplacement, le neurotransmetteur, le modèle d'expression génique et la connectivité - et si chaque organisme individuel appartenant à la même espèce a exactement un neurone avec le même ensemble de propriétés.
+
+Dans les systèmes nerveux des vertébrés, très peu de neurones sont "identifiés" dans ce sens.
+
+Les chercheurs pensent que les humains n'en ont pas, mais dans les systèmes nerveux plus simples, certains ou tous les neurones peuvent être uniques. Chez les vertébrés, les neurones identifiés les plus connus sont les gigantesques cellules de Mauthner des poissons. la partie inférieure du tronc cérébral, une à gauche et une à droite.
+
+Chaque cellule de Mauthner a un axone qui se croise, innervant (stimulant) les neurones au même niveau cérébral, puis voyageant à travers la moelle épinière, établissant de nombreuses connexions au fur et à mesure.
+
+Les synapses générées par une cellule de Mauthner sont si puissantes qu'un seul potentiel d'action donne lieu à une réponse comportementale majeure : en quelques millisecondes, le poisson courbe son corps en forme de C, puis se redresse, se propulsant ainsi rapidement vers l'avant.
+
+Fonctionnellement, il s'agit d'une réponse d'échappement rapide, déclenchée plus facilement par une forte onde sonore ou une onde de pression frappant l'organe de la ligne latérale du poisson.
+
+Les cellules de Mauthner ne sont pas les seuls neurones identifiés chez les poissons - il existe environ 20 autres types, y compris des paires d '«analogues de cellules de Mauthner» dans chaque noyau segmentaire de la colonne vertébrale.
+
+Bien qu'une cellule de Mauthner soit capable de provoquer une réponse d'échappement par elle-même, dans le contexte d'un comportement ordinaire, d'autres types de cellules contribuent généralement à façonner l'amplitude et la direction de la réponse.
+Les cellules de Mauthner ont été décrites comme des neurones de commande.
+
+Un neurone de commande est un type particulier de neurone identifié, défini comme un neurone capable de piloter un comportement spécifique par lui-même. : 112 Ces neurones apparaissent le plus souvent dans les systèmes d'échappement rapide de diverses espèces - l'axone géant du calmar et le géant du calmar. synapse, utilisée pour des expériences pionnières en neurophysiologie en raison de leur taille énorme, participent toutes deux au circuit d'échappement rapide du calmar.
+
+Le concept de neurone de commande est cependant devenu controversé, en raison d'études montrant que certains neurones qui semblaient initialement correspondre à la description n'étaient en réalité capables d'évoquer une réponse que dans un ensemble limité de circonstances. Dans les organismes à symétrie radiale, les réseaux nerveux servir au système nerveux.
+
+Il n'y a pas de cerveau ou de région centrale de la tête, et à la place il y a des neurones interconnectés répartis dans des réseaux nerveux.
+
+Ceux-ci se trouvent dans Cnidaria, Ctenophora et Echinodermata.
+
+
+== Historique ==
+
+
+Herophilos 335–280 avant JC, a décrit le nerf optique et le nerf oculomoteur pour la vue et le mouvement des yeux.
+
+L'analyse des nerfs du crâne lui a permis de différencier les vaisseaux sanguins des nerfs, c'est-à-dire
+
+Grec ancien : νεῦρον (neûron), « fil (fibre végétale), nerf ».
+
+
+== Lectures complémentaires ==
+
+
+
+
+https://en.wikipedia.org/wiki/Nerf

@@ -1,0 +1,1084 @@
+
+
+CAUDATE NUCLEUS
+
+
+The caudate nucleus is one of the structures that make up the corpus striatum, which is a component of the basal ganglia. 
+
+While the caudate nucleus has long been associated with motor processes due to its role in Parkinson's disease, it plays important roles in various other nonmotor functions as well, including procedural learning, associative learning and inhibitory control of action, among other functions. 
+
+The caudate is also one of the brain structures which compose the reward system and functions as part of the cortico–basal ganglia–thalamic loop.
+
+
+== Structure ==
+
+
+Together with the putamen, the caudate forms the dorsal striatum, which is considered a single functional structure; anatomically, it is separated by a large white matter tract, the internal capsule, so it is sometimes also referred to as two structures: the medial dorsal striatum (the caudate) and the lateral dorsal striatum (the putamen). 
+
+In this vein, the two are functionally distinct not as a result of structural differences, but merely due to the topographical distribution of function.
+The caudate nuclei are located near the center of the brain, sitting astride the thalamus. 
+
+There is a caudate nucleus within each hemisphere of the brain. 
+
+Individually, they resemble a C-shape structure with a wider "head" (caput in Latin) at the front, tapering to a "body" (corpus) and a "tail" (cauda). 
+
+Sometimes a part of the caudate nucleus is referred to as the "knee" (genu). 
+
+The caudate head receives its blood supply from the lenticulostriate artery while the tail of the caudate receives its blood supply from the anterior choroidal artery.
+
+The head and body of the caudate nucleus form part of the floor of the anterior horn of the lateral ventricle. 
+
+After the body travels briefly towards the back of the head, the tail curves back toward the anterior, forming the roof of the inferior horn of the lateral ventricle. 
+
+This means that a coronal (on a plane parallel to the face) section that cuts through the tail will also cross the body and head of the caudate nucleus.
+
+
+=== Neurochemistry ===
+
+The caudate is highly innervated by dopaminergic neurons that originate from the substantia nigra pars compacta (SNc). 
+
+The SNc is located in the midbrain and contains cell projections to the caudate and putamen, utilizing the neurotransmitter dopamine. 
+
+There are also additional inputs from various association cortices.
+
+
+== Motor functions ==
+
+
+
+=== Spatial mnemonic processing ===
+
+The caudate nucleus integrates spatial information with motor behavior formulation. 
+
+Selective impairment of spatial working memory in subjects with Parkinson's disease and the knowledge of the disease's impact on the amount of dopamine supplied to the striatum have linked the caudate nucleus to spatial and nonspatial mnemonic processing. 
+
+Spatially dependent motor preparation has been linked to the caudate nucleus through event-related fMRI analysis techniques. 
+
+Activity in the caudate nucleus was demonstrated to be greater during tasks featuring spatial and motoric memory demands than those that involved nonspatial tasks.
+Specifically, spatial working memory activity has been observed, via fMRI studies of delayed recognition, to be greater in the caudate nucleus when the activity immediately preceded a motor response. 
+
+These results indicate that the caudate nucleus could be involved in coding a motor response. 
+
+With this in mind, the caudate nucleus could be involved in the recruitment of the motor system to support working memory performance by the mediation of sensory-motor transformations.
+
+
+=== Directed movements ===
+
+The caudate nucleus contributes importantly to body and limbs posture and the speed and accuracy of directed movements. 
+
+Deficits in posture and accuracy during paw usage tasks were observed following the removal of caudate nuclei in felines. 
+
+A delay in initiating performance and the need to constantly shift body position were both observed in cats following partial removal of the nuclei.Following the application of cocaine to the caudate nucleus and the resulting lesions produced, a "leaping or forward movement" was observed in monkeys. 
+
+Due to its association with damage to the caudate, this movement demonstrates the inhibitory nature of the caudate nucleus. 
+
+The "motor release" observed as a result of this procedure indicates that the caudate nucleus inhibits the tendency for an animal to move forward without resistance.
+
+
+== Cognitive functions ==
+
+
+
+=== Goal-directed action ===
+
+A review of neuroimaging studies, anatomical studies of caudate connectivity, and behavioral studies reveals a role for the caudate in executive functioning. 
+
+A study of Parkinson's patients (see below) may also contribute to a growing body of evidence.
+A two-pronged approach of neuroimaging (including PET and fMRI) and anatomical studies expose a strong relationship between the caudate and cortical areas associated with executive functioning: "non-invasive measures of anatomical and functional connectivity in humans demonstrate a clear link between the caudate and executive frontal areas."Meanwhile, behavioral studies provide another layer to the argument: recent studies suggest that the caudate is fundamental to goal-directed action, that is, "the selection of behavior based on the changing values of goals and a knowledge of which actions lead to what outcomes." One such study presented rats with levers that triggered the release of a cinnamon flavored solution. 
+
+After the rats learned to press the lever, the researchers changed the value of the outcome (the rats were taught to dislike the flavor either by being given too much of the flavor, or by making the rats ill after drinking the solution) and the effects were observed. 
+
+Normal rats pressed the lever less frequently, while rats with lesions in the caudate did not suppress the behavior as effectively. 
+
+In this way, the study demonstrates the link between the caudate and goal-directed behavior; rats with damaged caudate nuclei had difficulty assessing the changing value of the outcome. 
+
+In a 2003-human behavioral study, a similar process was repeated, but the decision this time was whether or not to trust another person when money was at stake. 
+
+While here the choice was far more complex––the subjects were not simply asked to press a lever, but had to weigh a host of different factors––at the crux of the study was still behavioral selection based on changing values of outcomes.
+In short, neuroimagery and anatomical studies support the assertion that the caudate plays a role in executive functioning, while behavioral studies deepen our understanding of the ways in which the caudate guides some of our decision-making processes.
+
+
+=== Memory ===
+
+The dorsal-prefrontal cortex subcortical loop involving the caudate nucleus has been linked to deficits in working memory, specifically in schizophrenic patients. 
+
+Functional imaging has shown activation of this subcortical loop during working memory tasks in primates and healthy human subjects. 
+
+The caudate may be affiliated with deficits involving working memory from before illness onset as well. 
+
+Caudate nucleus volume has been found to be inversely associated with perseverative errors on spatial working memory tasks.The amygdala sends direct projections to the caudate nucleus. 
+
+Both the amygdala and the caudate nucleus have direct and indirect projections to the hippocampus. 
+
+The influence of the amygdala on memory processing in the caudate nucleus has been demonstrated with the finding that lesions involving the connections between these two structures "block the memory-enhancing effects of oxotremorine infused into the caudate nucleus". 
+
+In a study involving rats given water-maze training, the caudate nucleus was discovered to enhance memory of visually cued training after amphetamine was infused post-training into the caudate.
+
+
+=== Learning ===
+
+In a 2005 study, subjects were asked to learn to categorize visual stimuli by classifying images and receiving feedback on their responses. 
+
+Activity associated with successful classification learning (correct categorization) was concentrated to the body and tail of the caudate, while activity associated with feedback processing (the result of incorrect categorization) was concentrated to the head of the caudate.
+
+
+=== Sleep ===
+
+Bilateral lesions in the head of the caudate nucleus in cats were correlated with a decrease in the duration of deep slow wave sleep during the sleep-wakefulness cycle. 
+
+With a decrease in total volume of deep slow wave sleep, the transition of short-term memory to long-term memory may also be affected negatively.
+However, the effects of caudate nuclei removal on the sleep-wakefulness pattern of cats have not been permanent. 
+
+Normalization has been discovered after a period of three months following caudate nuclei ablation. 
+
+This discovery could be due to the inter-related nature of the roles of the caudate nucleus and the frontal cortex in controlling levels of central nervous system activation. 
+
+The cats with caudate removal, although permanently hyperactive, had a significant decrease in rapid eye movement sleep (REMS) time that only lasted for about two months. 
+
+However, afrontal cats had a permanent decrease in REMS time and only a temporary period of hyperactivity.Contrasting with associations between "deep", REM sleep and the caudate nucleus, a study involving EEG and fMRI measures during human sleep cycles has indicated that the caudate nucleus demonstrates reduced activity during non-REM sleep across all sleep stages. 
+
+Additionally, studies of human caudate nuclei volume in congenital central hypoventilation syndrome (CCHS) subjects established a correlation between CCHS and a significant reduction in left and right caudate volume. 
+
+CCHS is a genetic disorder that affects the sleep cycle due to a reduced drive to breathe. 
+
+Therefore, the caudate nucleus has been suggested to play a role in human sleep cycles.
+
+
+=== Emotion ===
+
+The caudate nucleus has been implicated in responses to visual beauty, and has been suggested as one of the "neural correlates of romantic love".Approach-attachment behavior and affect are also controlled by the caudate nucleus. 
+
+Cats with bilateral removal of the caudate nuclei persistently approached and followed objects, attempting to contact the target, while exhibiting a friendly disposition by the elicitation of treading of the forelimbs and purring. 
+
+The magnitude of the behavioral responses was correlated to the extent of the removal of the nuclei. 
+
+Reports of human patients with selective damage to the caudate nucleus show unilateral caudate damage resulting in loss of drive, obsessive-compulsive disorder, stimulus-bound perseverative behavior, and hyperactivity. 
+
+Most of these deficits can be classified as relating to approach-attachment behaviors, from approaching a target to romantic love.
+
+
+=== Language ===
+
+Neuroimaging studies reveal that people who can communicate in multiple languages activate exactly the same brain regions regardless of the language. 
+
+A 2006 publication studies this phenomenon and identifies the caudate as a center for language control. 
+
+In perhaps the most illustrative case, a trilingual subject with a lesion to the caudate was observed. 
+
+The patient maintained language comprehension in her three languages, but when asked to produce language, she involuntarily switched between the three languages. 
+
+In short, "these and other findings with bilingual patients suggest that the left caudate is required to monitor and control lexical and language alternatives in production tasks."Local shape deformations of the medial surface of the caudate have been correlated with verbal learning capacity for females and the number of perseverance errors on spatial and verbal fluency working memory tasks for males. 
+
+Specifically, a larger caudate nucleus volume has been linked with better verbal fluency performance.A neurological study of glossolalia showed a significant reduction in activity in the left caudate nucleus during glossolalia compared to singing in English.
+
+
+=== Threshold control ===
+
+The brain contains large collections of neurons reciprocally connected by excitatory synapses, thus forming large network of elements with positive feedback. 
+
+It is difficult to see how such a system can operate without some mechanism to prevent explosive activation. 
+
+There is some indirect evidence that the caudate may perform this regulatory role by measuring the general activity of cerebral cortex and controlling the threshold potential.
+
+
+== Clinical significance ==
+
+
+
+=== Alzheimer's disease ===
+
+A 2013 study has suggested a link between Alzheimer's patients and the caudate nucleus. 
+
+MRI images were used to estimate the volume of caudate nuclei in patients with Alzheimer's and normal volunteers. 
+
+The study found a "significant reduction in the caudate volume" in Alzheimer's patients when compared to the normal volunteers. 
+
+While the correlation does not indicate causation, the finding may have implications for early diagnosis.
+
+
+=== Parkinson's disease ===
+
+Parkinson's disease is likely the most studied basal ganglia disorder. 
+
+Patients with this progressive neurodegenerative disorder often first experience movement related symptoms (the three most common being tremors at rest, muscular rigidity, and akathisia) which are later combined with various cognitive deficiencies, including dementia. 
+
+Parkinson's disease depletes dopaminergic neurons in the nigrostriatal tract, a dopamine pathway that is connected to the head of the caudate. 
+
+As such, many studies have correlated the loss of dopaminergic neurons that send axons to the caudate nucleus and the degree of dementia in Parkinson's patients. 
+
+And while a relationship has been drawn between the caudate and Parkinson's motor deficiencies, the caudate has also been associated with Parkinson's concomitant cognitive impairments. 
+
+One review contrasts the performance of patients with Parkinson's and patients that strictly suffered from frontal-lobe damage in the Tower of London test. 
+
+The differences in performance between the two types of patients (in a test that, in short, requires subjects to select appropriate intermediate goals with a larger goal in mind) draws a link between the caudate and goal-directed action. 
+
+However, the studies are not conclusive. 
+
+While the caudate has been associated with executive function (see "Goal-Directed Action"), it remains "entirely unclear whether executive deficits in [Parkinson's patients] reflect pre-dominantly their cortical or subcortical damage."
+
+
+=== Huntington's disease ===
+
+In Huntington's disease, a genetic mutation occurs in the HTT gene which encodes for Htt protein. 
+
+The Htt protein interacts with over 100 other proteins, and appears to have multiple biological functions. 
+
+The behavior of this mutated protein is not completely understood, but it is toxic to certain cell types, particularly in the brain. 
+
+Early damage is most evident in the striatum, but as the disease progresses, other areas of the brain are also more conspicuously affected. 
+
+Early symptoms are attributable to functions of the striatum and its cortical connections—namely control over movement, mood and higher cognitive function.
+
+
+=== Attention-deficit hyperactivity disorder ===
+
+A 2002 study draws a relationship between caudate asymmetry and symptoms related to ADHD. 
+
+The authors used MR images to compare the relative volumes of the caudate nuclei (as the caudate is a bilateral structure), and drew a connection between any asymmetries and symptoms of ADHD: "The degree of caudate asymmetry significantly predicted cumulative severity ratings of inattentive behaviors." This correlation is congruent with previous associations of the caudate with attentional functioning. 
+
+A more recent 2018 study replicated these findings, and demonstrated that the caudate asymmetries related to ADHD were more pronounced in the dorsal medial regions of the caudate.
+
+
+=== Schizophrenia ===
+
+The volume of white matter in the caudate nucleus has been linked with patients diagnosed with Schizophrenia. 
+
+A 2004 study uses magnetic resonance imaging to compare the relative volume of white matter in the caudate among Schizophrenia patients. 
+
+Those patients who suffer from the disorder have "smaller absolute and relative volumes of white matter in the caudate nucleus than healthy subjects."
+
+
+=== Bipolar type I ===
+
+A 2014 study found Type I Bipolar patients had relatively higher volume of gray and white matter in the caudate nucleus and other areas associated with reward processing and decision making, compared to controls and Bipolar II subjects. 
+
+Overall the amount of gray and white matter in Bipolar patients was lower than controls.
+
+
+=== Obsessive-compulsive disorder ===
+
+It has been theorized that the caudate nucleus may be dysfunctional in persons with obsessive compulsive disorder (OCD), in that it may perhaps be unable to properly regulate the transmission of information regarding worrying events or ideas between the thalamus and the orbitofrontal cortex.
+A neuroimaging study with positron emission tomography found that the right caudate nucleus had the largest change in glucose metabolism after patients had been treated with paroxetine. 
+
+Recent SDM meta-analyses of voxel-based morphometry studies comparing people with OCD and healthy controls have found people with OCD to have increased grey matter volumes in bilateral lenticular nuclei, extending to the caudate nuclei, while decreased grey matter volumes in bilateral dorsal medial frontal/anterior cingulate gyri. 
+
+These findings contrast with those in people with other anxiety disorders, who evince decreased (rather than increased) grey matter volumes in bilateral lenticular / caudate nuclei, while also decreased grey matter volumes in bilateral dorsal medial frontal/anterior cingulate gyri.
+
+
+
+https://en.wikipedia.org/wiki/Caudate_nucleus
+;;;ES;;;
+
+
+
+NÚCLEO CAUDADO
+
+
+El núcleo caudado es una de las estructuras que forman el cuerpo estriado, que es un componente de los ganglios basales.
+
+Si bien el núcleo caudado se ha asociado durante mucho tiempo con los procesos motores debido a su papel en la enfermedad de Parkinson, también desempeña funciones importantes en otras funciones no motoras, incluido el aprendizaje procedimental, el aprendizaje asociativo y el control inhibitorio de la acción, entre otras funciones.
+
+El caudado es también una de las estructuras cerebrales que componen el sistema de recompensa y funciona como parte del bucle cortico-ganglios basales-talámico.
+
+
+== Estructura ==
+
+
+Junto con el putamen, el caudado forma el cuerpo estriado dorsal, que se considera una estructura funcional única; anatómicamente, está separado por un gran tracto de sustancia blanca, la cápsula interna, por lo que a veces también se le conoce como dos estructuras: el cuerpo estriado dorsal medial (el caudado) y el cuerpo estriado dorsal lateral (el putamen).
+
+En este sentido, los dos son funcionalmente distintos no como resultado de diferencias estructurales, sino simplemente debido a la distribución topográfica de la función.
+Los núcleos caudados están ubicados cerca del centro del cerebro, sentados a horcajadas sobre el tálamo.
+
+Hay un núcleo caudado dentro de cada hemisferio del cerebro.
+
+Individualmente, se asemejan a una estructura en forma de C con una "cabeza" más ancha (caput en latín) en la parte delantera, que se estrecha en un "cuerpo" (corpus) y una "cola" (cauda).
+
+A veces, una parte del núcleo caudado se denomina "rodilla" (genu).
+
+La cabeza del caudado recibe su irrigación de la arteria lenticuloestriada mientras que la cola del caudado recibe su irrigación de la arteria coroidea anterior.
+
+La cabeza y el cuerpo del núcleo caudado forman parte del suelo del asta anterior del ventrículo lateral.
+
+Después de que el cuerpo viaja brevemente hacia la parte posterior de la cabeza, la cola se curva hacia atrás, formando el techo del asta inferior del ventrículo lateral.
+
+Esto significa que una sección coronal (en un plano paralelo a la cara) que atraviesa la cola también cruzará el cuerpo y la cabeza del núcleo caudado.
+
+
+=== Neuroquímica ===
+
+El caudado está altamente inervado por neuronas dopaminérgicas que se originan en la sustancia negra pars compacta (SNc).
+
+El SNc está ubicado en el mesencéfalo y contiene proyecciones celulares hacia el caudado y el putamen, utilizando el neurotransmisor dopamina.
+
+También hay entradas adicionales de varias cortezas de asociación.
+
+
+== Funciones motoras ==
+
+
+
+=== Procesamiento mnemotécnico espacial ===
+
+El núcleo caudado integra la información espacial con la formulación del comportamiento motor.
+
+El deterioro selectivo de la memoria de trabajo espacial en sujetos con enfermedad de Parkinson y el conocimiento del impacto de la enfermedad en la cantidad de dopamina suministrada al cuerpo estriado han relacionado el núcleo caudado con el procesamiento mnemotécnico espacial y no espacial.
+
+La preparación motora espacialmente dependiente se ha relacionado con el núcleo caudado a través de técnicas de análisis de IRMf relacionadas con eventos.
+
+Se demostró que la actividad en el núcleo caudado es mayor durante las tareas que presentan demandas de memoria motora y espacial que aquellas que involucran tareas no espaciales.
+Específicamente, se ha observado que la actividad de la memoria de trabajo espacial, a través de estudios de resonancia magnética funcional de reconocimiento retardado, es mayor en el núcleo caudado cuando la actividad precedió inmediatamente a una respuesta motora.
+
+Estos resultados indican que el núcleo caudado podría estar involucrado en la codificación de una respuesta motora.
+
+Con esto en mente, el núcleo caudado podría estar involucrado en el reclutamiento del sistema motor para apoyar el rendimiento de la memoria de trabajo mediante la mediación de transformaciones sensoriomotoras.
+
+
+=== Movimientos dirigidos ===
+
+El núcleo caudado contribuye de manera importante a la postura del cuerpo y las extremidades y a la velocidad y precisión de los movimientos dirigidos.
+
+Se observaron deficiencias en la postura y la precisión durante las tareas de uso de la pata después de la eliminación de los núcleos caudados en felinos.
+
+En los gatos se observó un retraso en el inicio de la actuación y la necesidad de cambiar constantemente la posición del cuerpo después de la extracción parcial de los núcleos. Tras la aplicación de cocaína en el núcleo caudado y las lesiones resultantes, se observó un "movimiento de salto o hacia adelante" en los gatos. monos
+
+Debido a su asociación con daño al caudado, este movimiento demuestra la naturaleza inhibitoria del núcleo caudado.
+
+La "liberación motora" observada como resultado de este procedimiento indica que el núcleo caudado inhibe la tendencia de un animal a avanzar sin resistencia.
+
+
+== Funciones cognitivas ==
+
+
+
+=== Acción dirigida a objetivos ===
+
+Una revisión de los estudios de neuroimagen, los estudios anatómicos de la conectividad del caudado y los estudios de comportamiento revela un papel para el caudado en el funcionamiento ejecutivo.
+
+Un estudio de pacientes con Parkinson (ver más abajo) también puede contribuir a un creciente cuerpo de evidencia.
+Un enfoque doble de neuroimagen (incluyendo PET y fMRI) y estudios anatómicos exponen una fuerte relación entre el caudado y las áreas corticales asociadas con el funcionamiento ejecutivo: "medidas no invasivas de conectividad anatómica y funcional en humanos demuestran un vínculo claro entre el caudado y las áreas frontales ejecutivas". Mientras tanto, los estudios conductuales proporcionan otra capa al argumento: estudios recientes sugieren que el caudado es fundamental para la acción dirigida a un objetivo, es decir, "la selección de comportamiento basada en los valores cambiantes de los objetivos y el conocimiento de qué acciones conducen a qué resultados". Uno de esos estudios presentó ratas con palancas que activaron la liberación de una solución con sabor a canela.
+
+Después de que las ratas aprendieron a presionar la palanca, los investigadores cambiaron el valor del resultado (se les enseñó a las ratas a que no les gustara el sabor, ya sea dándoles demasiado sabor o haciendo que las ratas se enfermaran después de beber la solución) y los efectos fueron observados.
+
+Las ratas normales presionaron la palanca con menos frecuencia, mientras que las ratas con lesiones en el caudado no suprimieron el comportamiento con tanta eficacia.
+
+De esta forma, el estudio demuestra el vínculo entre el caudado y la conducta dirigida a un objetivo; las ratas con núcleos caudados dañados tuvieron dificultades para evaluar el valor cambiante del resultado.
+
+En un estudio de comportamiento humano de 2003, se repitió un proceso similar, pero la decisión esta vez fue si confiar o no en otra persona cuando había dinero en juego.
+
+Si bien aquí la elección fue mucho más compleja, no se les pidió simplemente a los sujetos que presionaran una palanca, sino que tuvieron que sopesar una serie de factores diferentes, en el quid del estudio todavía estaba la selección de comportamiento basada en los valores cambiantes de los resultados.
+En resumen, los estudios anatómicos y de neuroimágenes respaldan la afirmación de que el caudado desempeña un papel en el funcionamiento ejecutivo, mientras que los estudios conductuales profundizan nuestra comprensión de las formas en que el caudado guía algunos de nuestros procesos de toma de decisiones.
+
+
+=== Memoria ===
+
+El bucle subcortical de la corteza prefrontal dorsal que involucra al núcleo caudado se ha relacionado con déficits en la memoria de trabajo, específicamente en pacientes esquizofrénicos.
+
+Las imágenes funcionales han mostrado la activación de este bucle subcortical durante las tareas de memoria de trabajo en primates y sujetos humanos sanos.
+
+El caudado también puede estar relacionado con déficits relacionados con la memoria de trabajo antes del inicio de la enfermedad.
+
+Se ha encontrado que el volumen del núcleo caudado está inversamente asociado con errores perseverantes en tareas de memoria de trabajo espacial. La amígdala envía proyecciones directas al núcleo caudado.
+
+Tanto la amígdala como el núcleo caudado tienen proyecciones directas e indirectas hacia el hipocampo.
+
+La influencia de la amígdala en el procesamiento de la memoria en el núcleo caudado se ha demostrado con el hallazgo de que las lesiones que involucran las conexiones entre estas dos estructuras "bloquean los efectos de mejora de la memoria de la oxotremorina infundida en el núcleo caudado".
+
+En un estudio con ratas que recibieron entrenamiento en un laberinto de agua, se descubrió que el núcleo caudado mejora la memoria del entrenamiento visualmente indicado después de que se infundiera anfetamina después del entrenamiento en el caudado.
+
+
+=== Aprendiendo ===
+
+En un estudio de 2005, se pidió a los sujetos que aprendieran a categorizar estímulos visuales clasificando imágenes y recibiendo comentarios sobre sus respuestas.
+
+La actividad asociada con el aprendizaje de clasificación exitoso (categorización correcta) se concentró en el cuerpo y la cola del caudado, mientras que la actividad asociada con el procesamiento de retroalimentación (resultado de la categorización incorrecta) se concentró en la cabeza del caudado.
+
+
+=== Sueño ===
+
+Las lesiones bilaterales en la cabeza del núcleo caudado en gatos se correlacionaron con una disminución en la duración del sueño profundo de ondas lentas durante el ciclo sueño-vigilia.
+
+Con una disminución en el volumen total del sueño profundo de ondas lentas, la transición de la memoria a corto plazo a la memoria a largo plazo también puede verse afectada negativamente.
+Sin embargo, los efectos de la eliminación del núcleo caudado en el patrón de sueño y vigilia de los gatos no han sido permanentes.
+
+La normalización se ha descubierto después de un período de tres meses después de la ablación de los núcleos caudados.
+
+Este descubrimiento podría deberse a la naturaleza interrelacionada de las funciones del núcleo caudado y la corteza frontal en el control de los niveles de activación del sistema nervioso central.
+
+Los gatos con eliminación del caudado, aunque permanentemente hiperactivos, tuvieron una disminución significativa en el tiempo de sueño de movimiento ocular rápido (REMS, por sus siglas en inglés) que solo duró alrededor de dos meses.
+
+Sin embargo, los gatos afrontales tuvieron una disminución permanente en el tiempo REMS y solo un período temporal de hiperactividad. En contraste con las asociaciones entre el sueño REM "profundo" y el núcleo caudado, un estudio que involucró medidas de EEG y fMRI durante los ciclos de sueño humano indicó que el sueño caudado El núcleo demuestra una actividad reducida durante el sueño no REM en todas las etapas del sueño.
+
+Además, los estudios del volumen del núcleo caudado humano en sujetos con síndrome de hipoventilación central congénita (CCHS) establecieron una correlación entre CCHS y una reducción significativa en el volumen caudado izquierdo y derecho.
+
+CCHS es un trastorno genético que afecta el ciclo del sueño debido a un impulso reducido para respirar.
+
+Por lo tanto, se ha sugerido que el núcleo caudado desempeña un papel en los ciclos del sueño humano.
+
+
+=== Emoción ===
+
+El núcleo caudado se ha implicado en las respuestas a la belleza visual y se ha sugerido como uno de los "correlatos neuronales del amor romántico". El comportamiento de acercamiento-apego y el afecto también están controlados por el núcleo caudado.
+
+Los gatos con extirpación bilateral de los núcleos caudados se acercaron y siguieron objetos persistentemente, intentando contactar con el objetivo, mientras mostraban una disposición amistosa al provocar pisadas con las extremidades anteriores y ronroneo.
+
+La magnitud de las respuestas conductuales se correlacionó con el grado de eliminación de los núcleos.
+
+Informes de pacientes humanos con daño selectivo al núcleo caudado muestran daño caudado unilateral que resulta en pérdida de impulso, trastorno obsesivo-compulsivo, conducta perseverante ligada al estímulo e hiperactividad.
+
+La mayoría de estos déficits pueden clasificarse como relacionados con comportamientos de acercamiento-apego, desde acercarse a un objetivo hasta el amor romántico.
+
+
+=== Idioma ===
+
+Los estudios de neuroimagen revelan que las personas que pueden comunicarse en varios idiomas activan exactamente las mismas regiones del cerebro independientemente del idioma.
+
+Una publicación de 2006 estudia este fenómeno e identifica al caudado como un centro de control del lenguaje.
+
+En quizás el caso más ilustrativo, se observó un sujeto trilingüe con una lesión en el caudado.
+
+La paciente mantuvo la comprensión del lenguaje en sus tres idiomas, pero cuando se le pidió que produjera el lenguaje, involuntariamente cambió entre los tres idiomas.
+
+En resumen, "estos y otros hallazgos con pacientes bilingües sugieren que el caudado izquierdo es necesario para monitorear y controlar las alternativas léxicas y lingüísticas en las tareas de producción". Las deformaciones de forma local de la superficie medial del caudado se han correlacionado con la capacidad de aprendizaje verbal de las mujeres. y el número de errores de perseverancia en las tareas de memoria de trabajo de fluidez espacial y verbal para los hombres.
+
+Específicamente, un mayor volumen del núcleo caudado se ha relacionado con un mejor desempeño en fluidez verbal. Un estudio neurológico de glosolalia mostró una reducción significativa en la actividad en el núcleo caudado izquierdo durante la glosolalia en comparación con cantar en inglés.
+
+
+=== Control de umbral ===
+
+El cerebro contiene grandes colecciones de neuronas conectadas recíprocamente por sinapsis excitatorias, formando así una gran red de elementos con retroalimentación positiva.
+
+Es difícil ver cómo un sistema de este tipo puede funcionar sin algún mecanismo para evitar la activación explosiva.
+
+Hay algunas pruebas indirectas de que el caudado puede desempeñar esta función reguladora midiendo la actividad general de la corteza cerebral y controlando el potencial umbral.
+
+
+== Importancia clínica ==
+
+
+
+=== Enfermedad de Alzheimer ===
+
+Un estudio de 2013 ha sugerido un vínculo entre los pacientes de Alzheimer y el núcleo caudado.
+
+Las imágenes de resonancia magnética se utilizaron para estimar el volumen de los núcleos caudados en pacientes con Alzheimer y voluntarios normales.
+
+El estudio encontró una "reducción significativa en el volumen caudado" en los pacientes de Alzheimer en comparación con los voluntarios normales.
+
+Si bien la correlación no indica causalidad, el hallazgo puede tener implicaciones para el diagnóstico temprano.
+
+
+=== Enfermedad de Parkinson ===
+
+La enfermedad de Parkinson es probablemente el trastorno de los ganglios basales más estudiado.
+
+Los pacientes con este trastorno neurodegenerativo progresivo a menudo experimentan primero síntomas relacionados con el movimiento (los tres más comunes son temblores en reposo, rigidez muscular y acatisia) que luego se combinan con varias deficiencias cognitivas, incluida la demencia.
+
+La enfermedad de Parkinson agota las neuronas dopaminérgicas en el tracto nigroestriatal, una vía de dopamina que está conectada a la cabeza del caudado.
+
+Como tal, muchos estudios han correlacionado la pérdida de neuronas dopaminérgicas que envían axones al núcleo caudado y el grado de demencia en pacientes con Parkinson.
+
+Y aunque se ha establecido una relación entre el caudado y las deficiencias motoras de Parkinson, el caudado también se ha asociado con los deterioros cognitivos concomitantes de Parkinson.
+
+Una revisión contrasta el desempeño de pacientes con Parkinson y pacientes que sufrieron estrictamente daño en el lóbulo frontal en la prueba de la Torre de Londres.
+
+Las diferencias de desempeño entre los dos tipos de pacientes (en una prueba que, en resumen, requiere que los sujetos seleccionen objetivos intermedios apropiados con un objetivo más amplio en mente) establece un vínculo entre el caudado y la acción dirigida al objetivo.
+
+Sin embargo, los estudios no son concluyentes.
+
+Si bien el caudado se ha asociado con la función ejecutiva (ver "Acción dirigida a objetivos"), sigue "totalmente poco claro si los déficits ejecutivos en [los pacientes de Parkinson] reflejan predominantemente su daño cortical o subcortical".
+
+
+=== Enfermedad de Huntington ===
+
+En la enfermedad de Huntington, se produce una mutación genética en el gen HTT que codifica la proteína Htt.
+
+La proteína Htt interactúa con más de 100 otras proteínas y parece tener múltiples funciones biológicas.
+
+El comportamiento de esta proteína mutada no se comprende completamente, pero es tóxico para ciertos tipos de células, particularmente en el cerebro.
+
+El daño temprano es más evidente en el cuerpo estriado, pero a medida que la enfermedad avanza, otras áreas del cerebro también se ven afectadas de manera más notoria.
+
+Los primeros síntomas son atribuibles a las funciones del cuerpo estriado y sus conexiones corticales, es decir, el control sobre el movimiento, el estado de ánimo y la función cognitiva superior.
+
+
+=== Trastorno por déficit de atención con hiperactividad ===
+
+Un estudio de 2002 establece una relación entre la asimetría del caudado y los síntomas relacionados con el TDAH.
+
+Los autores utilizaron imágenes de RM para comparar los volúmenes relativos de los núcleos caudados (ya que el caudado es una estructura bilateral) y establecieron una conexión entre las asimetrías y los síntomas del TDAH: "El grado de asimetría del caudado predijo significativamente las calificaciones de gravedad acumulada de los comportamientos de falta de atención ." Esta correlación es congruente con asociaciones previas del caudado con el funcionamiento atencional.
+
+Un estudio más reciente de 2018 replicó estos hallazgos y demostró que las asimetrías del caudado relacionadas con el TDAH eran más pronunciadas en las regiones mediales dorsales del caudado.
+
+
+=== Esquizofrenia ===
+
+El volumen de sustancia blanca en el núcleo caudado se ha relacionado con pacientes diagnosticados de esquizofrenia.
+
+Un estudio de 2004 utiliza imágenes de resonancia magnética para comparar el volumen relativo de materia blanca en el caudado entre pacientes con esquizofrenia.
+
+Aquellos pacientes que padecen el trastorno tienen "volúmenes absolutos y relativos más pequeños de sustancia blanca en el núcleo caudado que los sujetos sanos".
+
+
+=== Bipolar tipo I ===
+
+Un estudio de 2014 encontró que los pacientes bipolares tipo I tenían un volumen relativamente mayor de materia gris y blanca en el núcleo caudado y otras áreas asociadas con el procesamiento de recompensas y la toma de decisiones, en comparación con los controles y los sujetos bipolares II.
+
+En general, la cantidad de materia gris y blanca en pacientes bipolares fue menor que en los controles.
+
+
+=== Trastorno obsesivo-compulsivo ===
+
+Se ha teorizado que el núcleo caudado puede ser disfuncional en personas con trastorno obsesivo compulsivo (TOC), en el sentido de que quizás no pueda regular adecuadamente la transmisión de información sobre eventos o ideas preocupantes entre el tálamo y la corteza orbitofrontal.
+Un estudio de neuroimagen con tomografía por emisión de positrones encontró que el núcleo caudado derecho tenía el mayor cambio en el metabolismo de la glucosa después de que los pacientes habían sido tratados con paroxetina.
+
+Metanálisis recientes de SDM de estudios de morfometría basados ​​en vóxeles que comparan personas con TOC y controles sanos han encontrado que las personas con TOC tienen volúmenes de materia gris aumentados en los núcleos lenticulares bilaterales, que se extienden hasta los núcleos caudados, mientras que los volúmenes de materia gris disminuyen en los núcleos frontales mediales dorsales bilaterales. /circunvoluciones cinguladas anteriores.
+
+Estos hallazgos contrastan con los de las personas con otros trastornos de ansiedad, que muestran una disminución (en lugar de un aumento) de los volúmenes de materia gris en los núcleos caudados/lenticulares bilaterales, mientras que también disminuyen los volúmenes de materia gris en las circunvoluciones cinguladas anterior/frontal medial dorsal bilateral.
+
+
+
+https://en.wikipedia.org/wiki/Caudate_nucleus
+
+;;;PT;;;
+
+
+
+NÚCLEO CAUDADO
+
+
+O núcleo caudado é uma das estruturas que compõem o corpo estriado, que é um componente dos gânglios da base.
+
+Embora o núcleo caudado tenha sido associado a processos motores devido ao seu papel na doença de Parkinson, ele também desempenha papéis importantes em várias outras funções não motoras, incluindo aprendizado processual, aprendizado associativo e controle inibitório da ação, entre outras funções.
+
+O caudado também é uma das estruturas cerebrais que compõem o sistema de recompensa e funciona como parte da alça cortico-basal gânglio-talâmico.
+
+
+== Estrutura ==
+
+
+Juntamente com o putâmen, o caudado forma o estriado dorsal, que é considerado uma estrutura funcional única; anatomicamente, é separado por um grande trato de substância branca, a cápsula interna, por isso às vezes também é referido como duas estruturas: o estriado dorsal medial (o caudado) e o estriado dorsal lateral (o putâmen).
+
+Nesse sentido, os dois são funcionalmente distintos não como resultado de diferenças estruturais, mas apenas devido à distribuição topográfica da função.
+Os núcleos caudados estão localizados perto do centro do cérebro, montados no tálamo.
+
+Há um núcleo caudado dentro de cada hemisfério do cérebro.
+
+Individualmente, eles se assemelham a uma estrutura em forma de C com uma "cabeça" mais larga (caput em latim) na frente, afinando para um "corpo" (corpus) e uma "cauda" (cauda).
+
+Às vezes, uma parte do núcleo caudado é chamada de "joelho" (genu).
+
+A cabeça caudado recebe seu suprimento sanguíneo da artéria lenticuloestriada, enquanto a cauda do caudado recebe seu suprimento sanguíneo da artéria coróide anterior.
+
+A cabeça e o corpo do núcleo caudado formam parte do assoalho do corno anterior do ventrículo lateral.
+
+Depois que o corpo percorre brevemente a parte de trás da cabeça, a cauda se curva para trás em direção à anterior, formando o teto do corno inferior do ventrículo lateral.
+
+Isso significa que uma seção coronal (em um plano paralelo à face) que corta a cauda também cruzará o corpo e a cabeça do núcleo caudado.
+
+
+=== Neuroquímica ===
+
+O caudado é altamente inervado por neurônios dopaminérgicos que se originam da substância negra pars compacta (SNc).
+
+O SNc está localizado no mesencéfalo e contém projeções celulares para o caudado e putâmen, utilizando o neurotransmissor dopamina.
+
+Há também entradas adicionais de vários córtices de associação.
+
+
+== Funções do motor ==
+
+
+
+=== Processamento mnemônico espacial ===
+
+O núcleo caudado integra a informação espacial com a formulação do comportamento motor.
+
+O comprometimento seletivo da memória de trabalho espacial em indivíduos com doença de Parkinson e o conhecimento do impacto da doença na quantidade de dopamina fornecida ao corpo estriado ligaram o núcleo caudado ao processamento mnemônico espacial e não espacial.
+
+A preparação motora espacialmente dependente tem sido associada ao núcleo caudado por meio de técnicas de análise de fMRI relacionadas a eventos.
+
+A atividade no núcleo caudado mostrou-se maior durante tarefas com demandas de memória espacial e motora do que aquelas que envolveram tarefas não espaciais.
+Especificamente, a atividade da memória de trabalho espacial foi observada, através de estudos de fMRI de reconhecimento tardio, sendo maior no núcleo caudado quando a atividade precedeu imediatamente uma resposta motora.
+
+Esses resultados indicam que o núcleo caudado pode estar envolvido na codificação de uma resposta motora.
+
+Com isso em mente, o núcleo caudado poderia estar envolvido no recrutamento do sistema motor para apoiar o desempenho da memória de trabalho pela mediação de transformações sensório-motoras.
+
+
+=== Movimentos direcionados ===
+
+O núcleo caudado contribui de forma importante para a postura do corpo e dos membros e para a velocidade e precisão dos movimentos direcionados.
+
+Déficits na postura e precisão durante as tarefas de uso da pata foram observados após a remoção dos núcleos caudados em felinos.
+
+Um atraso no início do desempenho e a necessidade de mudar constantemente a posição do corpo foram observados em gatos após a remoção parcial dos núcleos. macacos.
+
+Devido à sua associação com danos ao caudado, esse movimento demonstra a natureza inibitória do núcleo caudado.
+
+A "liberação motora" observada como resultado desse procedimento indica que o núcleo caudado inibe a tendência de um animal avançar sem resistência.
+
+
+== Funções cognitivas ==
+
+
+
+=== Ação direcionada a objetivos ===
+
+Uma revisão de estudos de neuroimagem, estudos anatômicos de conectividade do caudado e estudos comportamentais revela um papel do caudado no funcionamento executivo.
+
+Um estudo de pacientes com Parkinson (veja abaixo) também pode contribuir para um crescente corpo de evidências.
+Uma abordagem em duas frentes de neuroimagem (incluindo PET e fMRI) e estudos anatômicos expõem uma forte relação entre as áreas caudado e cortical associadas ao funcionamento executivo: "medidas não invasivas de conectividade anatômica e funcional em humanos demonstram uma ligação clara entre o núcleo caudado Enquanto isso, estudos comportamentais fornecem outra camada para o argumento: estudos recentes sugerem que o caudado é fundamental para a ação direcionada a objetivos, ou seja, “a seleção de comportamento baseada na mudança de valores de objetivos e um conhecimento de quais ações levam a quais resultados." Um desses estudos apresentou ratos com alavancas que desencadearam a liberação de uma solução com sabor de canela.
+
+Depois que os ratos aprenderam a pressionar a alavanca, os pesquisadores alteraram o valor do resultado (os ratos foram ensinados a não gostar do sabor por receberem muito do sabor ou por deixarem os ratos doentes depois de beberem a solução) e os efeitos foram observados.
+
+Ratos normais pressionaram a alavanca com menos frequência, enquanto ratos com lesões no caudado não suprimiram o comportamento de forma tão eficaz.
+
+Dessa forma, o estudo demonstra a ligação entre o comportamento caudado e o direcionado a objetivos; ratos com núcleos caudados danificados tiveram dificuldade em avaliar o valor de mudança do resultado.
+
+Em um estudo comportamental humano de 2003, um processo semelhante foi repetido, mas a decisão desta vez foi confiar ou não em outra pessoa quando o dinheiro estava em jogo.
+
+Embora aqui a escolha fosse muito mais complexa – os sujeitos não foram simplesmente solicitados a pressionar uma alavanca, mas tiveram que pesar uma série de fatores diferentes – no cerne do estudo ainda estava a seleção comportamental baseada na mudança de valores dos resultados.
+Em suma, neuroimagens e estudos anatômicos apoiam a afirmação de que o caudado desempenha um papel no funcionamento executivo, enquanto os estudos comportamentais aprofundam nossa compreensão das maneiras pelas quais o caudado orienta alguns de nossos processos de tomada de decisão.
+
+
+=== Memória ===
+
+A alça subcortical do córtex pré-frontal dorsal envolvendo o núcleo caudado tem sido associada a déficits na memória de trabalho, especificamente em pacientes esquizofrênicos.
+
+A imagem funcional mostrou a ativação desse loop subcortical durante as tarefas de memória de trabalho em primatas e seres humanos saudáveis.
+
+O caudado também pode estar associado a déficits envolvendo memória de trabalho antes do início da doença.
+
+Verificou-se que o volume do núcleo caudado está inversamente associado a erros perseverativos em tarefas de memória de trabalho espacial. A amígdala envia projeções diretas para o núcleo caudado.
+
+Tanto a amígdala quanto o núcleo caudado têm projeções diretas e indiretas para o hipocampo.
+
+A influência da amígdala no processamento da memória no núcleo caudado foi demonstrada com a descoberta de que lesões envolvendo as conexões entre essas duas estruturas "bloqueiam os efeitos de aprimoramento da memória da oxotremorina infundida no núcleo caudado".
+
+Em um estudo envolvendo ratos que receberam treinamento de labirinto aquático, descobriu-se que o núcleo caudado aumenta a memória do treinamento visualmente indicado após a infusão de anfetaminas após o treinamento no caudado.
+
+
+=== Aprendendo ===
+
+Em um estudo de 2005, os sujeitos foram solicitados a aprender a categorizar estímulos visuais classificando imagens e recebendo feedback sobre suas respostas.
+
+A atividade associada ao aprendizado de classificação bem-sucedida (categorização correta) foi concentrada no corpo e na cauda do caudado, enquanto a atividade associada ao processamento de feedback (o resultado da categorização incorreta) foi concentrada na cabeça do caudado.
+
+
+=== Dormir ===
+
+Lesões bilaterais na cabeça do núcleo caudado em gatos foram correlacionadas com uma diminuição na duração do sono profundo de ondas lentas durante o ciclo sono-vigília.
+
+Com uma diminuição no volume total do sono profundo de ondas lentas, a transição da memória de curto prazo para a memória de longo prazo também pode ser afetada negativamente.
+No entanto, os efeitos da remoção dos núcleos caudados no padrão sono-vigília de gatos não foram permanentes.
+
+A normalização foi descoberta após um período de três meses após a ablação dos núcleos caudados.
+
+Esta descoberta pode ser devido à natureza inter-relacionada dos papéis do núcleo caudado e do córtex frontal no controle dos níveis de ativação do sistema nervoso central.
+
+Os gatos com remoção do caudado, embora permanentemente hiperativos, tiveram uma diminuição significativa no tempo de sono de movimento rápido dos olhos (REMS) que durou apenas cerca de dois meses.
+
+No entanto, os gatos afrontais tiveram uma diminuição permanente no tempo REMS e apenas um período temporário de hiperatividade. Contrastando com as associações entre o sono REM "profundo" e o núcleo caudado, um estudo envolvendo medidas de EEG e fMRI durante os ciclos de sono humano indicou que o caudado núcleo demonstra atividade reduzida durante o sono não REM em todos os estágios do sono.
+
+Além disso, estudos de volume de núcleos caudados humanos em indivíduos com síndrome de hipoventilação central congênita (CCHS) estabeleceram uma correlação entre CCHS e uma redução significativa no volume caudado esquerdo e direito.
+
+CCHS é um distúrbio genético que afeta o ciclo do sono devido a um impulso reduzido para respirar.
+
+Portanto, o núcleo caudado tem sido sugerido para desempenhar um papel nos ciclos do sono humano.
+
+
+=== Emoção ===
+
+O núcleo caudado tem sido implicado em respostas à beleza visual e tem sido sugerido como um dos "correlatos neurais do amor romântico". O comportamento de aproximação e apego e o afeto também são controlados pelo núcleo caudado.
+
+Gatos com remoção bilateral dos núcleos caudados aproximaram-se persistentemente e seguiram objetos, tentando contatar o alvo, enquanto exibiam uma disposição amigável pela eliciação de pisar nos membros anteriores e ronronar.
+
+A magnitude das respostas comportamentais foi correlacionada com a extensão da remoção dos núcleos.
+
+Relatos de pacientes humanos com dano seletivo ao núcleo caudado mostram dano caudado unilateral resultando em perda de impulso, transtorno obsessivo-compulsivo, comportamento perseverativo ligado a estímulos e hiperatividade.
+
+A maioria desses déficits pode ser classificada como relacionada a comportamentos de aproximação e apego, desde a aproximação de um alvo até o amor romântico.
+
+
+=== Idioma ===
+
+Estudos de neuroimagem revelam que pessoas que podem se comunicar em vários idiomas ativam exatamente as mesmas regiões do cérebro, independentemente do idioma.
+
+Uma publicação de 2006 estuda esse fenômeno e identifica o caudado como centro de controle da linguagem.
+
+No caso talvez mais ilustrativo, observou-se um sujeito trilíngue com lesão no caudado.
+
+A paciente manteve a compreensão da linguagem em seus três idiomas, mas quando solicitada a produzir linguagem, ela involuntariamente alternou entre os três idiomas.
+
+Em suma, "esses e outros achados com pacientes bilíngues sugerem que o caudado esquerdo é necessário para monitorar e controlar alternativas lexicais e de linguagem em tarefas de produção". e o número de erros de perseverança em tarefas de memória de trabalho de fluência espacial e verbal para homens.
+
+Especificamente, um volume maior do núcleo caudado tem sido associado a um melhor desempenho da fluência verbal. Um estudo neurológico da glossolalia mostrou uma redução significativa na atividade no núcleo caudado esquerdo durante a glossolalia em comparação com o canto em inglês.
+
+
+=== Controle de limite ===
+
+O cérebro contém grandes coleções de neurônios conectados reciprocamente por sinapses excitatórias, formando assim uma grande rede de elementos com feedback positivo.
+
+É difícil ver como tal sistema pode operar sem algum mecanismo para evitar a ativação explosiva.
+
+Há alguma evidência indireta de que o caudado pode desempenhar esse papel regulador medindo a atividade geral do córtex cerebral e controlando o potencial limiar.
+
+
+== Significado clínico ==
+
+
+
+=== doença de Alzheimer ===
+
+Um estudo de 2013 sugeriu uma ligação entre os pacientes de Alzheimer e o núcleo caudado.
+
+Imagens de ressonância magnética foram usadas para estimar o volume dos núcleos caudados em pacientes com Alzheimer e voluntários normais.
+
+O estudo encontrou uma "redução significativa no volume caudado" em pacientes com Alzheimer quando comparados aos voluntários normais.
+
+Embora a correlação não indique causalidade, a descoberta pode ter implicações para o diagnóstico precoce.
+
+
+=== Doença de Parkinson ===
+
+A doença de Parkinson é provavelmente o distúrbio dos gânglios da base mais estudado.
+
+Os pacientes com esse distúrbio neurodegenerativo progressivo geralmente experimentam primeiro sintomas relacionados ao movimento (os três mais comuns são tremores em repouso, rigidez muscular e acatisia) que são posteriormente combinados com várias deficiências cognitivas, incluindo demência.
+
+A doença de Parkinson esgota os neurônios dopaminérgicos no trato nigroestriatal, uma via da dopamina que está conectada à cabeça do caudado.
+
+Assim, muitos estudos correlacionaram a perda de neurônios dopaminérgicos que enviam axônios para o núcleo caudado e o grau de demência em pacientes com Parkinson.
+
+E embora uma relação tenha sido traçada entre as deficiências motoras do caudado e de Parkinson, o caudado também foi associado às deficiências cognitivas concomitantes de Parkinson.
+
+Uma revisão contrasta o desempenho de pacientes com Parkinson e pacientes que sofreram rigorosamente danos no lobo frontal no teste da Torre de Londres.
+
+As diferenças de desempenho entre os dois tipos de pacientes (em um teste que, em suma, exige que os sujeitos selecionem objetivos intermediários apropriados com um objetivo maior em mente) estabelece uma ligação entre a ação caudada e a ação direcionada a um objetivo.
+
+No entanto, os estudos não são conclusivos.
+
+Embora o caudado tenha sido associado à função executiva (consulte "Ação direcionada a objetivos"), permanece "totalmente incerto se os déficits executivos em [pacientes de Parkinson] refletem predominantemente seu dano cortical ou subcortical".
+
+
+=== Doença de Huntington ===
+
+Na doença de Huntington, ocorre uma mutação genética no gene HTT que codifica a proteína Htt.
+
+A proteína Htt interage com mais de 100 outras proteínas e parece ter múltiplas funções biológicas.
+
+O comportamento dessa proteína mutante não é completamente compreendido, mas é tóxico para certos tipos de células, principalmente no cérebro.
+
+Os danos iniciais são mais evidentes no corpo estriado, mas à medida que a doença progride, outras áreas do cérebro também são afetadas de forma mais visível.
+
+Os primeiros sintomas são atribuíveis às funções do corpo estriado e suas conexões corticais – ou seja, controle sobre o movimento, humor e função cognitiva superior.
+
+
+=== Transtorno de déficit de atenção e hiperatividade ===
+
+Um estudo de 2002 traça uma relação entre assimetria caudado e sintomas relacionados ao TDAH.
+
+Os autores usaram imagens de RM para comparar os volumes relativos dos núcleos caudados (já que o caudado é uma estrutura bilateral) e estabeleceram uma conexão entre quaisquer assimetrias e sintomas de TDAH: "O grau de assimetria caudado previu significativamente as classificações de gravidade cumulativa de comportamentos desatentos ." Essa correlação é congruente com associações anteriores do caudado com o funcionamento atencional.
+
+Um estudo mais recente de 2018 replicou esses achados e demonstrou que as assimetrias do caudado relacionadas ao TDAH foram mais pronunciadas nas regiões mediais dorsais do caudado.
+
+
+=== Esquizofrenia ===
+
+O volume de substância branca no núcleo caudado tem sido associado a pacientes diagnosticados com esquizofrenia.
+
+Um estudo de 2004 usa ressonância magnética para comparar o volume relativo de substância branca no caudado entre pacientes com esquizofrenia.
+
+Aqueles pacientes que sofrem do distúrbio têm "volumes absolutos e relativos menores de substância branca no núcleo caudado do que indivíduos saudáveis".
+
+
+=== Bipolar tipo I ===
+
+Um estudo de 2014 descobriu que pacientes bipolares tipo I tinham um volume relativamente maior de substância cinzenta e branca no núcleo caudado e outras áreas associadas ao processamento de recompensa e tomada de decisão, em comparação com controles e indivíduos bipolares II.
+
+Em geral, a quantidade de substância cinzenta e branca em pacientes bipolares foi menor do que os controles.
+
+
+=== Transtorno obsessivo-compulsivo ===
+
+Tem sido teorizado que o núcleo caudado pode ser disfuncional em pessoas com transtorno obsessivo compulsivo (TOC), na medida em que talvez seja incapaz de regular adequadamente a transmissão de informações sobre eventos ou ideias preocupantes entre o tálamo e o córtex orbitofrontal.
+Um estudo de neuroimagem com tomografia por emissão de pósitrons descobriu que o núcleo caudado direito teve a maior alteração no metabolismo da glicose após os pacientes terem sido tratados com paroxetina.
+
+Recentes meta-análises SDM de estudos de morfometria baseados em voxel comparando pessoas com TOC e controles saudáveis ​​descobriram que pessoas com TOC têm volumes aumentados de substância cinzenta em núcleos lenticulares bilaterais, estendendo-se para os núcleos caudados, enquanto volumes diminuídos de substância cinzenta no frontal medial dorsal bilateral /giros cingulados anteriores.
+
+Esses achados contrastam com aqueles em pessoas com outros transtornos de ansiedade, que evidenciam volumes de substância cinzenta diminuídos (em vez de aumentados) em núcleos lenticulares/caudados bilaterais, enquanto também volumes de substância cinzenta diminuídos em giros cingulados frontais mediais dorsais/anteriores bilaterais.
+
+
+
+https://en.wikipedia.org/wiki/Caudate_nucleus
+
+;;;FR;;;
+
+
+
+LE NOYAU CAUDÉ
+
+
+Le noyau caudé est l'une des structures qui composent le corps strié, qui est un composant des ganglions de la base.
+
+Alors que le noyau caudé est depuis longtemps associé aux processus moteurs en raison de son rôle dans la maladie de Parkinson, il joue également un rôle important dans diverses autres fonctions non motrices, notamment l'apprentissage procédural, l'apprentissage associatif et le contrôle inhibiteur de l'action, entre autres fonctions.
+
+Le caudé est également l'une des structures cérébrales qui composent le système de récompense et fonctionne dans le cadre de la boucle cortico-ganglions de la base-thalamique.
+
+
+== Structure ==
+
+
+Avec le putamen, le caudé forme le striatum dorsal, qui est considéré comme une structure fonctionnelle unique ; anatomiquement, il est séparé par un grand tractus de substance blanche, la capsule interne, de sorte qu'il est parfois aussi appelé deux structures : le striatum dorsal médial (le caudé) et le striatum dorsal latéral (le putamen).
+
+Dans cette veine, les deux sont fonctionnellement distincts non pas en raison de différences structurelles, mais simplement en raison de la répartition topographique de la fonction.
+Les noyaux caudés sont situés près du centre du cerveau, à cheval sur le thalamus.
+
+Il existe un noyau caudé dans chaque hémisphère du cerveau.
+
+Individuellement, ils ressemblent à une structure en forme de C avec une "tête" plus large (caput en latin) à l'avant, se rétrécissant en un "corps" (corpus) et une "queue" (cauda).
+
+Parfois, une partie du noyau caudé est appelée « genou » (genu).
+
+La tête caudale reçoit son apport sanguin de l'artère lenticulostriée tandis que la queue du caudé reçoit son apport sanguin de l'artère choroïdienne antérieure.
+
+La tête et le corps du noyau caudé font partie du plancher de la corne antérieure du ventricule latéral.
+
+Après que le corps se soit brièvement déplacé vers l'arrière de la tête, la queue se recourbe vers l'avant, formant le toit de la corne inférieure du ventricule latéral.
+
+Cela signifie qu'une section coronale (sur un plan parallèle au visage) qui traverse la queue traversera également le corps et la tête du noyau caudé.
+
+
+=== Neurochimie ===
+
+Le caudé est fortement innervé par des neurones dopaminergiques issus de la substantia nigra pars compacta (SNc).
+
+Le SNc est situé dans le mésencéphale et contient des projections cellulaires vers le caudé et le putamen, en utilisant le neurotransmetteur dopamine.
+
+Il existe également des entrées supplémentaires provenant de divers cortex d'association.
+
+
+== Fonctions moteur ==
+
+
+
+=== Traitement mnémotechnique spatial ===
+
+Le noyau caudé intègre les informations spatiales avec la formulation du comportement moteur.
+
+L'altération sélective de la mémoire de travail spatiale chez les sujets atteints de la maladie de Parkinson et la connaissance de l'impact de la maladie sur la quantité de dopamine fournie au striatum ont lié le noyau caudé au traitement mnémonique spatial et non spatial.
+
+La préparation motrice spatialement dépendante a été liée au noyau caudé par des techniques d'analyse IRMf liées aux événements.
+
+Il a été démontré que l'activité dans le noyau caudé était plus importante pendant les tâches comportant des demandes de mémoire spatiale et motrice que celles qui impliquaient des tâches non spatiales.
+Plus précisément, il a été observé, via des études IRMf de reconnaissance retardée, que l'activité de la mémoire de travail spatiale était plus élevée dans le noyau caudé lorsque l'activité précédait immédiatement une réponse motrice.
+
+Ces résultats indiquent que le noyau caudé pourrait être impliqué dans le codage d'une réponse motrice.
+
+Dans cette optique, le noyau caudé pourrait être impliqué dans le recrutement du système moteur pour soutenir les performances de la mémoire de travail par la médiation de transformations sensori-motrices.
+
+
+=== Mouvements dirigés ===
+
+Le noyau caudé contribue de manière importante à la posture du corps et des membres ainsi qu'à la vitesse et à la précision des mouvements dirigés.
+
+Des déficits de posture et de précision lors des tâches d'utilisation des pattes ont été observés suite à l'élimination des noyaux caudés chez les félins.
+
+Un retard dans le démarrage de la performance et la nécessité de changer constamment de position corporelle ont été observés chez les chats après l'ablation partielle des noyaux. Suite à l'application de cocaïne sur le noyau caudé et aux lésions résultantes produites, un "mouvement de saut ou d'avant" a été observé chez les chats. singes.
+
+En raison de son association avec des dommages au caudé, ce mouvement démontre la nature inhibitrice du noyau caudé.
+
+La "libération motrice" observée à la suite de cette procédure indique que le noyau caudé inhibe la tendance d'un animal à avancer sans résistance.
+
+
+== Fonctions cognitives ==
+
+
+
+=== Action dirigée vers un objectif ===
+
+Un examen des études de neuroimagerie, des études anatomiques de la connectivité caudée et des études comportementales révèle un rôle pour le caudé dans le fonctionnement exécutif.
+
+Une étude sur des patients atteints de la maladie de Parkinson (voir ci-dessous) peut également contribuer à un nombre croissant de preuves.
+Une approche à deux volets de la neuroimagerie (y compris la TEP et l'IRMf) et des études anatomiques exposent une forte relation entre les zones caudées et corticales associées au fonctionnement exécutif : "des mesures non invasives de la connectivité anatomique et fonctionnelle chez l'homme démontrent un lien clair entre les zones caudées et corticales et les zones frontales exécutives." Pendant ce temps, les études comportementales fournissent une autre couche à l'argument : des études récentes suggèrent que le caudé est fondamental pour l'action dirigée vers un objectif, c'est-à-dire "la sélection d'un comportement basé sur les valeurs changeantes des objectifs et une connaissance de quelles actions mènent à quels résultats." Une de ces études a présenté des rats avec des leviers qui déclenchaient la libération d'une solution aromatisée à la cannelle.
+
+Après que les rats aient appris à appuyer sur le levier, les chercheurs ont changé la valeur du résultat (on a appris aux rats à ne pas aimer la saveur soit en leur donnant trop de saveur, soit en les rendant malades après avoir bu la solution) et les effets ont été observés.
+
+Les rats normaux ont appuyé moins fréquemment sur le levier, tandis que les rats avec des lésions dans le caudé n'ont pas supprimé le comportement aussi efficacement.
+
+De cette façon, l'étude démontre le lien entre le comportement caudé et orienté vers un but ; les rats dont le noyau caudé était endommagé avaient de la difficulté à évaluer la valeur changeante du résultat.
+
+Dans une étude comportementale humaine de 2003, un processus similaire a été répété, mais la décision cette fois était de faire ou non confiance à une autre personne lorsque de l'argent était en jeu.
+
+Alors qu'ici le choix était beaucoup plus complexe - les sujets n'étaient pas simplement invités à appuyer sur un levier, mais devaient peser une multitude de facteurs différents - au cœur de l'étude se trouvait toujours la sélection comportementale basée sur l'évolution des valeurs des résultats.
+En bref, la neuroimagerie et les études anatomiques soutiennent l'affirmation selon laquelle le caudé joue un rôle dans le fonctionnement exécutif, tandis que les études comportementales approfondissent notre compréhension de la manière dont le caudé guide certains de nos processus décisionnels.
+
+
+=== Mémoire ===
+
+La boucle sous-corticale du cortex dorsal-préfrontal impliquant le noyau caudé a été associée à des déficits de la mémoire de travail, en particulier chez les patients schizophrènes.
+
+L'imagerie fonctionnelle a montré l'activation de cette boucle sous-corticale lors de tâches de mémoire de travail chez des primates et des sujets humains sains.
+
+Le caudé peut également être associé à des déficits impliquant la mémoire de travail avant le début de la maladie.
+
+Le volume du noyau caudé s'est avéré inversement associé à des erreurs de persévérance sur les tâches de mémoire de travail spatiale. L'amygdale envoie des projections directes au noyau caudé.
+
+L'amygdale et le noyau caudé ont des projections directes et indirectes sur l'hippocampe.
+
+L'influence de l'amygdale sur le traitement de la mémoire dans le noyau caudé a été démontrée avec la découverte que les lésions impliquant les connexions entre ces deux structures "bloquent les effets d'amélioration de la mémoire de l'oxotrémorine infusée dans le noyau caudé".
+
+Dans une étude impliquant des rats entraînés au labyrinthe aquatique, il a été découvert que le noyau caudé améliore la mémoire de l'entraînement visuel après que l'amphétamine ait été infusée après l'entraînement dans le caudé.
+
+
+=== Apprentissage ===
+
+Dans une étude de 2005, on a demandé aux sujets d'apprendre à catégoriser les stimuli visuels en classant les images et en recevant des commentaires sur leurs réponses.
+
+L'activité associée à un apprentissage de classification réussi (catégorisation correcte) était concentrée sur le corps et la queue du caudé, tandis que l'activité associée au traitement de la rétroaction (résultat d'une catégorisation incorrecte) était concentrée sur la tête du caudé.
+
+
+=== Dormir ===
+
+Les lésions bilatérales de la tête du noyau caudé chez le chat ont été corrélées à une diminution de la durée du sommeil lent profond au cours du cycle veille-sommeil.
+
+Avec une diminution du volume total de sommeil lent profond, la transition de la mémoire à court terme vers la mémoire à long terme peut également être affectée négativement.
+Cependant, les effets de l'élimination des noyaux caudés sur le schéma veille-sommeil des chats n'ont pas été permanents.
+
+La normalisation a été découverte après une période de trois mois suivant l'ablation des noyaux caudés.
+
+Cette découverte pourrait être due à la nature interdépendante des rôles du noyau caudé et du cortex frontal dans le contrôle des niveaux d'activation du système nerveux central.
+
+Les chats avec retrait caudé, bien qu'hyperactifs en permanence, avaient une diminution significative du temps de sommeil à mouvements oculaires rapides (REMS) qui n'a duré qu'environ deux mois.
+
+Cependant, les chats afrontaux présentaient une diminution permanente du temps REMS et seulement une période temporaire d'hyperactivité. Contrairement aux associations entre le sommeil REM "profond" et le noyau caudé, une étude impliquant des mesures EEG et IRMf pendant les cycles de sommeil humain a indiqué que le sommeil caudé nucleus démontre une activité réduite pendant le sommeil non-REM à tous les stades du sommeil.
+
+De plus, des études sur le volume des noyaux caudés humains chez des sujets atteints du syndrome d'hypoventilation centrale congénitale (CCHS) ont établi une corrélation entre l'ESCC et une réduction significative du volume caudé gauche et droit.
+
+L'ESCC est une maladie génétique qui affecte le cycle du sommeil en raison d'une diminution de la capacité à respirer.
+
+Par conséquent, il a été suggéré que le noyau caudé joue un rôle dans les cycles du sommeil humain.
+
+
+=== Émotion ===
+
+Le noyau caudé a été impliqué dans les réponses à la beauté visuelle et a été suggéré comme l'un des «corrélats neuronaux de l'amour romantique». Le comportement et l'affect d'approche-attachement sont également contrôlés par le noyau caudé.
+
+Les chats avec une élimination bilatérale des noyaux caudés se sont constamment approchés et ont suivi des objets, essayant de contacter la cible, tout en montrant une disposition amicale en provoquant le piétinement des membres antérieurs et le ronronnement.
+
+L'ampleur des réponses comportementales était corrélée à l'étendue de l'élimination des noyaux.
+
+Les rapports de patients humains présentant des dommages sélectifs au noyau caudé montrent des dommages caudés unilatéraux entraînant une perte de motivation, un trouble obsessionnel-compulsif, un comportement persévérant lié au stimulus et une hyperactivité.
+
+La plupart de ces déficits peuvent être classés comme liés à des comportements d'approche-attachement, de l'approche d'une cible à l'amour romantique.
+
+
+=== Langue ===
+
+Les études de neuroimagerie révèlent que les personnes capables de communiquer dans plusieurs langues activent exactement les mêmes régions cérébrales, quelle que soit la langue.
+
+Une publication de 2006 étudie ce phénomène et identifie le caudé comme un centre de contrôle du langage.
+
+Dans le cas peut-être le plus illustratif, un sujet trilingue avec une lésion du caudé a été observé.
+
+La patiente a maintenu la compréhension du langage dans ses trois langues, mais lorsqu'on lui a demandé de produire du langage, elle a involontairement basculé entre les trois langues.
+
+En bref, "ces résultats et d'autres avec des patients bilingues suggèrent que le caudé gauche est nécessaire pour surveiller et contrôler les alternatives lexicales et linguistiques dans les tâches de production." et le nombre d'erreurs de persévérance sur les tâches de mémoire de travail de fluence spatiale et verbale pour les hommes.
+
+Plus précisément, un volume de noyau caudé plus important a été associé à de meilleures performances de fluidité verbale. Une étude neurologique de la glossolalie a montré une réduction significative de l'activité dans le noyau caudé gauche pendant la glossolalie par rapport au chant en anglais.
+
+
+=== Contrôle du seuil ===
+
+Le cerveau contient de grandes collections de neurones réciproquement connectés par des synapses excitatrices, formant ainsi un vaste réseau d'éléments à rétroaction positive.
+
+Il est difficile de voir comment un tel système peut fonctionner sans un mécanisme pour empêcher l'activation explosive.
+
+Il existe des preuves indirectes que le caudé peut jouer ce rôle régulateur en mesurant l'activité générale du cortex cérébral et en contrôlant le potentiel de seuil.
+
+
+== Signification clinique ==
+
+
+
+=== La maladie d'Alzheimer ===
+
+Une étude de 2013 a suggéré un lien entre les patients atteints d'Alzheimer et le noyau caudé.
+
+Des images IRM ont été utilisées pour estimer le volume des noyaux caudés chez des patients atteints de la maladie d'Alzheimer et des volontaires normaux.
+
+L'étude a révélé une "réduction significative du volume caudé" chez les patients atteints de la maladie d'Alzheimer par rapport aux volontaires normaux.
+
+Bien que la corrélation n'indique pas de lien de causalité, la découverte peut avoir des implications pour le diagnostic précoce.
+
+
+=== Maladie de Parkinson ===
+
+La maladie de Parkinson est probablement le trouble des ganglions de la base le plus étudié.
+
+Les patients atteints de cette maladie neurodégénérative progressive présentent souvent d'abord des symptômes liés au mouvement (les trois plus courants étant les tremblements au repos, la rigidité musculaire et l'akathisie) qui sont ensuite associés à diverses déficiences cognitives, y compris la démence.
+
+La maladie de Parkinson épuise les neurones dopaminergiques du tractus nigro-strié, une voie dopaminergique connectée à la tête du caudé.
+
+Ainsi, de nombreuses études ont corrélé la perte des neurones dopaminergiques qui envoient des axones vers le noyau caudé et le degré de démence chez les patients parkinsoniens.
+
+Et bien qu'une relation ait été établie entre le caudé et les déficiences motrices de Parkinson, le caudé a également été associé aux troubles cognitifs concomitants de Parkinson.
+
+Une revue compare les performances des patients atteints de la maladie de Parkinson et des patients qui souffraient strictement de lésions du lobe frontal dans le test de la Tour de Londres.
+
+Les différences de performance entre les deux types de patients (dans un test qui, en bref, oblige les sujets à sélectionner des objectifs intermédiaires appropriés avec un objectif plus large en tête) établit un lien entre l'action caudée et l'action dirigée vers un objectif.
+
+Cependant, les études ne sont pas concluantes.
+
+Bien que le caudé ait été associé à la fonction exécutive (voir "Action dirigée vers un objectif"), il reste "totalement incertain si les déficits exécutifs chez [les patients atteints de Parkinson] reflètent principalement leurs dommages corticaux ou sous-corticaux".
+
+
+=== La maladie de Huntington ===
+
+Dans la maladie de Huntington, une mutation génétique se produit dans le gène HTT qui code pour la protéine Htt.
+
+La protéine Htt interagit avec plus de 100 autres protéines et semble avoir de multiples fonctions biologiques.
+
+Le comportement de cette protéine mutée n'est pas complètement élucidé, mais elle est toxique pour certains types de cellules, notamment dans le cerveau.
+
+Les dommages précoces sont les plus évidents dans le striatum, mais à mesure que la maladie progresse, d'autres zones du cerveau sont également plus visiblement touchées.
+
+Les premiers symptômes sont attribuables aux fonctions du striatum et de ses connexions corticales, à savoir le contrôle des mouvements, de l'humeur et des fonctions cognitives supérieures.
+
+
+=== Trouble d'hyperactivité avec déficit de l'attention ===
+
+Une étude de 2002 établit une relation entre l'asymétrie caudée et les symptômes liés au TDAH.
+
+Les auteurs ont utilisé des images IRM pour comparer les volumes relatifs des noyaux caudés (car le caudé est une structure bilatérale) et ont établi un lien entre les asymétries et les symptômes du TDAH : "Le degré d'asymétrie caudée a prédit de manière significative les cotes de gravité cumulées des comportements inattentifs. ." Cette corrélation est congruente avec les associations précédentes du caudé avec le fonctionnement attentionnel.
+
+Une étude plus récente de 2018 a reproduit ces résultats et a démontré que les asymétries caudées liées au TDAH étaient plus prononcées dans les régions médiales dorsales du caudé.
+
+
+=== Schizophrénie ===
+
+Le volume de matière blanche dans le noyau caudé a été lié aux patients diagnostiqués avec la schizophrénie.
+
+Une étude de 2004 utilise l'imagerie par résonance magnétique pour comparer le volume relatif de matière blanche dans le caudé chez les patients schizophrènes.
+
+Les patients qui souffrent de la maladie ont "des volumes absolus et relatifs de substance blanche dans le noyau caudé inférieurs à ceux des sujets sains".
+
+
+=== Type bipolaire I ===
+
+Une étude de 2014 a révélé que les patients bipolaires de type I avaient un volume relativement plus élevé de matière grise et blanche dans le noyau caudé et d'autres zones associées au traitement des récompenses et à la prise de décision, par rapport aux témoins et aux sujets bipolaires II.
+
+Dans l'ensemble, la quantité de matière grise et blanche chez les patients bipolaires était inférieure à celle des témoins.
+
+
+=== Trouble obsessionnel-compulsif ===
+
+Il a été théorisé que le noyau caudé peut être dysfonctionnel chez les personnes atteintes de trouble obsessionnel compulsif (TOC), en ce sens qu'il peut être incapable de réguler correctement la transmission d'informations concernant des événements ou des idées inquiétants entre le thalamus et le cortex orbitofrontal.
+Une étude de neuroimagerie avec tomographie par émission de positrons a révélé que le noyau caudé droit présentait le plus grand changement dans le métabolisme du glucose après que les patients avaient été traités avec de la paroxétine.
+
+De récentes méta-analyses SDM d'études de morphométrie à base de voxel comparant des personnes atteintes de TOC et des témoins en bonne santé ont montré que les personnes atteintes de TOC avaient des volumes de matière grise accrus dans les noyaux lenticulaires bilatéraux, s'étendant jusqu'aux noyaux caudés, tandis qu'une diminution des volumes de matière grise dans le frontal médial dorsal bilatéral /gyri cingulaire antérieur.
+
+Ces résultats contrastent avec ceux des personnes souffrant d'autres troubles anxieux, qui présentent une diminution (plutôt qu'une augmentation) des volumes de matière grise dans les noyaux lenticulaires / caudés bilatéraux, tout en diminuant également les volumes de matière grise dans les gyri cingulaires frontaux/antérieurs médiaux dorsaux bilatéraux.
+
+
+
+https://en.wikipedia.org/wiki/Caudate_nucleus

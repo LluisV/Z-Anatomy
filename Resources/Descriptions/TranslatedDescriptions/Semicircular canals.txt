@@ -1,0 +1,580 @@
+
+
+SEMICIRCULAR CANALS
+
+
+The semicircular canals or semicircular ducts are three semicircular, interconnected tubes located in the innermost part of each ear, the inner ear. 
+
+The three canals are the horizontal, superior and posterior semicircular canals.
+
+
+== Structure ==
+
+The semicircular canals are a component of the bony labyrinth that are at right angles from each other. 
+
+At one end of each of the semicircular canals is a dilated sac called an osseous ampulla which is more than twice the diameter of the canal. 
+
+Each ampulla contains an ampullary crest, the crista ampullaris which consists of a thick gelatinous cap called a cupula and many hair cells. 
+
+The superior and posterior semicircular canals are oriented vertically at right angles to each other. 
+
+The lateral semicircular canal is about a 30-degree angle from the horizontal plane. 
+
+The orientations of the canals cause a different canal to be stimulated by movement of the head in different planes, and more than one canal is stimulated at once if the movement is off those planes. 
+
+The lateral canal detects angular acceleration of the head when the head is turned and the superior and posterior canals detect vertical head movements when the head is moved up or down. 
+
+When the head changes position, the endolymph in the canals lags behind due to inertia and this acts on the cupula which bends the cilia of the hair cells. 
+
+The stimulation of the hair cells sends the message to the brain that acceleration is taking place. 
+
+The ampullae open into the vestibule by five orifices, one of the apertures being common to two of the canals.
+Among species of mammals, the size of the semicircular canals is correlated with their type of locomotion. 
+
+Specifically, species that are agile and have fast, jerky locomotion have larger canals relative to their body size than those that move more cautiously.
+
+
+=== Horizontal semicircular canal ===
+
+The lateral or horizontal canal (external semicircular canal) is the shortest of the three canals. 
+
+Movement of fluid within this canal corresponds to rotation of the head around a vertical axis (i.e. the neck), or in other words rotation in the transverse plane. 
+
+This occurs, for example, when one turns the head from side to side.
+It measures from 12 to 15 mm (0.47 to 0.59 in), and its arch is directed horizontally backward and laterally; thus each semicircular canal stands at right angles to the other two. 
+
+Its ampullated end corresponds to the upper and lateral angle of the vestibule, just above the oval window, where it opens close to the ampullated end of the superior canal; its opposite end opens at the upper and back part of the vestibule. 
+
+The lateral canal of one ear is very nearly in the same plane as that of the other.
+
+
+=== Superior semicircular canal ===
+
+The superior or anterior semicircular canal is a part of the vestibular system and detects rotations of the head in around the lateral axis, that is, rotation in the sagittal plane. 
+
+This occurs, for example, when nodding one's head.
+It is 15 to 20 mm (0.59 to 0.79 in) in length, is vertical in direction, and is placed transversely to the long axis of the petrous part of the temporal bone, on the anterior surface of which its arch forms a round projection. 
+
+It describes about two-thirds of a circle. 
+
+Its lateral extremity is ampullated, and opens into the upper part of the vestibule; the opposite end joins with the upper part of the posterior canal to form the crus commune, which opens into the upper and medial part of the vestibule.
+
+
+=== Posterior semicircular canal ===
+
+The posterior semicircular canal is a part of the vestibular system that detects rotation of the head around the antero-posterior (sagittal) axis, or in other words rotation in the coronal plane. 
+
+This occurs, for example, when one moves the head to touch the shoulders, or when doing a cartwheel.
+It is directed superiorly, as per its nomenclature, and posteriorly, nearly parallel to the posterior surface of the petrous bone. 
+
+The vestibular aqueduct is immediately medial to it. 
+
+The posterior canal is part of the bony labyrinth and is used by the vestibular system to detect rotations of the head in the coronal plane. 
+
+It is the longest of the three canals, measuring from 18 to 22 mm (0.71 to 0.87 in). 
+
+Its lower or ampullated end opens into the lower and back part of the vestibule, its upper into the crus commune.
+
+
+=== Development ===
+
+Findings from a 2009 study demonstrated a critical late role for BMP 2b in the morphogenesis of semicircular canals in the zebrafish inner ear. 
+
+It is suspected that the role of bmp2 in semicircular canal duct outgrowth is likely to be conserved between different vertebrate species.Additionally, it has been found that the two semicircular canals found in the lamprey inner ear are developmentally similar to the superior and posterior canals found in humans, as the canals of both organisms arise from two depressions in the otic vesicle during early development. 
+
+These depressions first form in lampreys between the 11 and 42 millimeter larval stages and form in zebrafish 57 hours post-fertilization 
+
+
+== Function ==
+
+
+The semicircular ducts provide sensory input for experiences of rotary movements. 
+
+They are oriented along the pitch, roll, and yaw axes.
+Each canal is filled with a fluid called endolymph and contains motion sensors within the fluids. 
+
+At the base of each canal, the bony region of the canal is enlarged which opens into the utricle and has a dilated sac at one end called the osseous ampullae. 
+
+Within the ampulla is a mound of hair cells and supporting cells called crista ampullaris. 
+
+These hair cells have many cytoplasmic projections on the apical surface called stereocilia which are embedded in a gelatinous structure called the cupula. 
+
+As the head rotates the duct moves but the endolymph lags behind owing to inertia. 
+
+This deflects the cupula and bends the stereocilia within. 
+
+The bending of these stereocilia alters an electric signal that is transmitted to the brain. 
+
+Within approximately 10 seconds of achieving constant motion, the endolymph catches up with the movement of the duct and the cupula is no longer affected, stopping the sensation of acceleration. 
+
+The specific gravity of the cupula is comparable to that of the surrounding endolymph. 
+
+Consequently, the cupula is not displaced by gravity, unlike the otolithic membranes of the utricle and saccule. 
+
+As with macular hair cells, hair cells of the crista ampullaris will depolarise when the stereocilia deflect towards the kinocilium. 
+
+Deflection in the opposite direction results in hyperpolarisation and inhibition. 
+
+In the horizontal canal, ampullopetal flow is necessary for hair-cell stimulation, whereas ampullofugal flow is necessary for the anterior and posterior canals.This adjustment period is in part the cause of an illusion known as "the leans" often experienced by pilots. 
+
+As a pilot enters a turn, hair cells in the semicircular canals are stimulated, telling the brain that the aircraft, and the pilot, are no longer moving in a straight line but rather making a banked turn. 
+
+If the pilot were to sustain a constant rate turn, the endolymph would eventually catch up with the ducts and cease to deflect the cupula. 
+
+The pilot would no longer feel as if the aircraft was in a turn. 
+
+As the pilot exits the turn, the semicircular canals are stimulated to make the pilot think that they are now turning in the opposite direction rather than flying straight and level. 
+
+In response to this, the pilot will often lean in the direction of the original turn in an attempt to compensate for this illusion. 
+
+A more serious form of this is called a graveyard spiral. 
+
+Rather than the pilot leaning in the direction of the original turn, they may actually reenter the turn. 
+
+As the endolymph stabilizes, the semicircular canals stop registering the gradual turn and the aircraft slowly loses altitude until impact with the ground.
+
+
+== History ==
+
+Jean Pierre Flourens, by destroying the horizontal semicircular canal of pigeons, noted that they continue to fly in a circle, showing the purpose of the semicircular canals.
+
+
+
+https://en.wikipedia.org/wiki/Semicircular_canals
+;;;ES;;;
+
+
+
+CANALES SEMICIRCULARES
+
+
+Los canales semicirculares o conductos semicirculares son tres tubos semicirculares interconectados ubicados en la parte más interna de cada oído, el oído interno.
+
+Los tres canales son los canales semicirculares horizontal, superior y posterior.
+
+
+== Estructura ==
+
+Los canales semicirculares son un componente del laberinto óseo que forman ángulos rectos entre sí.
+
+En un extremo de cada uno de los canales semicirculares hay un saco dilatado llamado ampolla ósea que tiene más del doble del diámetro del canal.
+
+Cada ampolla contiene una cresta ampular, la crista ampullaris, que consiste en una capa gelatinosa gruesa llamada cúpula y muchas células ciliadas.
+
+Los canales semicirculares superior y posterior están orientados verticalmente en ángulo recto entre sí.
+
+El canal semicircular lateral forma un ángulo de unos 30 grados con respecto al plano horizontal.
+
+Las orientaciones de los canales hacen que un canal diferente sea estimulado por el movimiento de la cabeza en diferentes planos, y más de un canal es estimulado a la vez si el movimiento se sale de esos planos.
+
+El canal lateral detecta la aceleración angular de la cabeza cuando se gira la cabeza y los canales superior y posterior detectan los movimientos verticales de la cabeza cuando la cabeza se mueve hacia arriba o hacia abajo.
+
+Cuando la cabeza cambia de posición, la endolinfa en los canales se retrasa debido a la inercia y esto actúa sobre la cúpula que dobla los cilios de las células ciliadas.
+
+La estimulación de las células ciliadas envía el mensaje al cerebro de que se está produciendo una aceleración.
+
+Las ampollas desembocan en el vestíbulo por cinco orificios, siendo uno de los orificios común a dos de los canales.
+Entre las especies de mamíferos, el tamaño de los canales semicirculares se correlaciona con su tipo de locomoción.
+
+Específicamente, las especies que son ágiles y tienen una locomoción rápida y entrecortada tienen canales más grandes en relación con el tamaño de su cuerpo que aquellas que se mueven con más cautela.
+
+
+=== Canal semicircular horizontal ===
+
+El canal lateral u horizontal (canal semicircular externo) es el más corto de los tres canales.
+
+El movimiento del fluido dentro de este canal corresponde a la rotación de la cabeza alrededor de un eje vertical (es decir, el cuello), o en otras palabras, la rotación en el plano transversal.
+
+Esto ocurre, por ejemplo, cuando uno gira la cabeza de lado a lado.
+Mide de 12 a 15 mm (0,47 a 0,59 pulgadas) y su arco se dirige horizontalmente hacia atrás y lateralmente; así, cada canal semicircular se encuentra en ángulo recto con los otros dos.
+
+Su extremo ampulado corresponde al ángulo superior y lateral del vestíbulo, justo encima de la ventana oval, donde se abre cerca del extremo ampulado del canal superior; su extremo opuesto se abre en la parte superior y posterior del vestíbulo.
+
+El canal lateral de un oído está casi en el mismo plano que el del otro.
+
+
+=== Canal semicircular superior ===
+
+El canal semicircular superior o anterior forma parte del sistema vestibular y detecta rotaciones de la cabeza alrededor del eje lateral, es decir, rotaciones en el plano sagital.
+
+Esto ocurre, por ejemplo, al asentir con la cabeza.
+Tiene una longitud de 15 a 20 mm (0,59 a 0,79 pulgadas), tiene una dirección vertical y se coloca transversalmente al eje longitudinal de la parte petrosa del hueso temporal, en cuya superficie anterior su arco forma una proyección redonda.
+
+Describe alrededor de dos tercios de un círculo.
+
+Su extremidad lateral está ampulada y se abre hacia la parte superior del vestíbulo; el extremo opuesto se une con la parte superior del canal posterior para formar la crus commune, que desemboca en la parte superior y medial del vestíbulo.
+
+
+=== Canal semicircular posterior ===
+
+El canal semicircular posterior es una parte del sistema vestibular que detecta la rotación de la cabeza alrededor del eje anteroposterior (sagital), o en otras palabras, la rotación en el plano coronal.
+
+Esto ocurre, por ejemplo, cuando se mueve la cabeza para tocar los hombros, o al hacer una voltereta.
+Se dirige superiormente, según su nomenclatura, y posteriormente, casi paralelo a la superficie posterior del peñasco.
+
+El acueducto vestibular está inmediatamente medial a él.
+
+El canal posterior forma parte del laberinto óseo y es utilizado por el sistema vestibular para detectar rotaciones de la cabeza en el plano coronal.
+
+Es el más largo de los tres canales y mide de 18 a 22 mm (0,71 a 0,87 pulgadas).
+
+Su extremo inferior o ampulado desemboca en la parte inferior y trasera del vestíbulo, su superior en la crus commune.
+
+
+=== Desarrollo ===
+
+Los hallazgos de un estudio de 2009 demostraron un papel crítico tardío de BMP 2b en la morfogénesis de los canales semicirculares en el oído interno del pez cebra.
+
+Se sospecha que el papel de bmp2 en el crecimiento del conducto del canal semicircular probablemente se conserve entre diferentes especies de vertebrados. Además, se ha encontrado que los dos canales semicirculares que se encuentran en el oído interno de la lamprea tienen un desarrollo similar a los canales superiores y posteriores encontrados. en humanos, ya que los canales de ambos organismos surgen de dos depresiones en la vesícula ótica durante el desarrollo temprano.
+
+Estas depresiones se forman primero en las lampreas entre los estadios larvarios de 11 y 42 milímetros y se forman en el pez cebra 57 horas después de la fecundación.
+
+
+== Función ==
+
+
+Los conductos semicirculares proporcionan información sensorial para experiencias de movimientos rotatorios.
+
+Están orientados a lo largo de los ejes de cabeceo, balanceo y guiñada.
+Cada canal está lleno de un fluido llamado endolinfa y contiene sensores de movimiento dentro de los fluidos.
+
+En la base de cada canal, la región ósea del canal está agrandada y se abre hacia el utrículo y tiene un saco dilatado en un extremo llamado ampollas óseas.
+
+Dentro de la ampolla hay un montículo de células ciliadas y células de soporte llamadas crista ampullaris.
+
+Estas células ciliadas tienen muchas proyecciones citoplasmáticas en la superficie apical llamadas estereocilios que están incrustadas en una estructura gelatinosa llamada cúpula.
+
+A medida que la cabeza gira, el conducto se mueve, pero la endolinfa se retrasa debido a la inercia.
+
+Esto desvía la cúpula y dobla los estereocilios internos.
+
+La flexión de estos estereocilios altera una señal eléctrica que se transmite al cerebro.
+
+Aproximadamente a los 10 segundos de lograr un movimiento constante, la endolinfa se pone al día con el movimiento del conducto y la cúpula ya no se ve afectada, deteniendo la sensación de aceleración.
+
+La gravedad específica de la cúpula es comparable a la de la endolinfa circundante.
+
+En consecuencia, la cúpula no se desplaza por la gravedad, a diferencia de las membranas otolíticas del utrículo y el sáculo.
+
+Al igual que con las células ciliadas maculares, las células ciliadas de la cresta ampullaris se despolarizarán cuando los estereocilios se desvíen hacia el cinocilio.
+
+La desviación en la dirección opuesta da como resultado hiperpolarización e inhibición.
+
+En el canal horizontal, el flujo ampulópeto es necesario para la estimulación de las células ciliadas, mientras que el flujo ampulófugo es necesario para los canales anterior y posterior. Este período de ajuste es en parte la causa de una ilusión conocida como "inclinación" que a menudo experimentan los pilotos.
+
+Cuando un piloto entra en un giro, se estimulan las células ciliadas en los canales semicirculares, lo que le dice al cerebro que el avión y el piloto ya no se mueven en línea recta, sino que hacen un giro inclinado.
+
+Si el piloto mantuviera un giro de velocidad constante, la endolinfa finalmente alcanzaría los conductos y dejaría de desviar la cúpula.
+
+El piloto ya no sentiría como si la aeronave estuviera girando.
+
+Cuando el piloto sale del giro, los canales semicirculares se estimulan para que el piloto piense que ahora está girando en la dirección opuesta en lugar de volar en línea recta y nivelada.
+
+En respuesta a esto, el piloto a menudo se inclinará en la dirección del giro original en un intento de compensar esta ilusión.
+
+Una forma más seria de esto se llama espiral de cementerio.
+
+En lugar de que el piloto se incline en la dirección del giro original, en realidad puede volver a entrar en el giro.
+
+A medida que la endolinfa se estabiliza, los canales semicirculares dejan de registrar el giro gradual y la aeronave pierde altitud lentamente hasta impactar contra el suelo.
+
+
+== Historia ==
+
+Jean Pierre Flourens, al destruir el canal semicircular horizontal de las palomas, notó que continúan volando en círculo, mostrando el propósito de los canales semicirculares.
+
+
+
+https://en.wikipedia.org/wiki/Semicircular_canals
+
+;;;PT;;;
+
+
+
+CANAIS SEMICIRCULARES
+
+
+Os canais semicirculares ou ductos semicirculares são três tubos semicirculares e interconectados localizados na parte mais interna de cada ouvido, o ouvido interno.
+
+Os três canais são os canais semicirculares horizontal, superior e posterior.
+
+
+== Estrutura ==
+
+Os canais semicirculares são um componente do labirinto ósseo que estão em ângulos retos entre si.
+
+Em uma extremidade de cada um dos canais semicirculares há um saco dilatado chamado ampola óssea que tem mais de duas vezes o diâmetro do canal.
+
+Cada ampola contém uma crista ampular, a crista ampullaris, que consiste em uma capa gelatinosa espessa chamada cúpula e muitas células ciliadas.
+
+Os canais semicirculares superior e posterior são orientados verticalmente em ângulos retos entre si.
+
+O canal semicircular lateral forma um ângulo de cerca de 30 graus em relação ao plano horizontal.
+
+As orientações dos canais fazem com que um canal diferente seja estimulado pelo movimento da cabeça em diferentes planos, e mais de um canal é estimulado ao mesmo tempo se o movimento estiver fora desses planos.
+
+O canal lateral detecta a aceleração angular da cabeça quando a cabeça é girada e os canais superior e posterior detectam movimentos verticais da cabeça quando a cabeça é movida para cima ou para baixo.
+
+Quando a cabeça muda de posição, a endolinfa nos canais fica para trás devido à inércia e isso age na cúpula que dobra os cílios das células ciliadas.
+
+A estimulação das células ciliadas envia a mensagem ao cérebro de que a aceleração está ocorrendo.
+
+As ampolas se abrem no vestíbulo por cinco orifícios, sendo uma das aberturas comum a dois dos canais.
+Entre as espécies de mamíferos, o tamanho dos canais semicirculares está correlacionado com seu tipo de locomoção.
+
+Especificamente, as espécies que são ágeis e têm locomoção rápida e irregular têm canais maiores em relação ao tamanho do corpo do que aquelas que se movem com mais cautela.
+
+
+=== Canal semicircular horizontal ===
+
+O canal lateral ou horizontal (canal semicircular externo) é o mais curto dos três canais.
+
+O movimento do fluido dentro deste canal corresponde à rotação da cabeça em torno de um eixo vertical (ou seja, o pescoço), ou em outras palavras, rotação no plano transversal.
+
+Isso ocorre, por exemplo, quando se vira a cabeça de um lado para o outro.
+Mede de 12 a 15 mm (0,47 a 0,59 in), e seu arco é direcionado horizontalmente para trás e lateralmente; assim, cada canal semicircular fica em ângulo reto com os outros dois.
+
+Sua extremidade ampulada corresponde ao ângulo superior e lateral do vestíbulo, logo acima da janela oval, onde se abre próximo à extremidade ampulada do canal superior; sua extremidade oposta se abre na parte superior e posterior do vestíbulo.
+
+O canal lateral de uma orelha está quase no mesmo plano que o da outra.
+
+
+=== Canal semicircular superior ===
+
+O canal semicircular superior ou anterior faz parte do sistema vestibular e detecta rotações da cabeça em torno do eixo lateral, ou seja, rotação no plano sagital.
+
+Isso ocorre, por exemplo, ao acenar com a cabeça.
+Tem 15 a 20 mm (0,59 a 0,79 in) de comprimento, é vertical em direção e é colocado transversalmente ao longo eixo da parte petrosa do osso temporal, na superfície anterior da qual seu arco forma uma projeção redonda.
+
+Ele descreve cerca de dois terços de um círculo.
+
+Sua extremidade lateral é ampulada e se abre na parte superior do vestíbulo; a extremidade oposta se une à parte superior do canal posterior para formar o crus commune, que se abre na parte superior e medial do vestíbulo.
+
+
+=== Canal semicircular posterior ===
+
+O canal semicircular posterior é uma parte do sistema vestibular que detecta a rotação da cabeça em torno do eixo ântero-posterior (sagital), ou seja, rotação no plano coronal.
+
+Isso ocorre, por exemplo, quando se move a cabeça para tocar os ombros, ou quando se faz uma cambalhota.
+Ele é direcionado superiormente, conforme sua nomenclatura, e posteriormente, quase paralelo à superfície posterior do osso petroso.
+
+O aqueduto vestibular é imediatamente medial a ele.
+
+O canal posterior faz parte do labirinto ósseo e é utilizado pelo sistema vestibular para detectar rotações da cabeça no plano coronal.
+
+É o mais longo dos três canais, medindo de 18 a 22 mm (0,71 a 0,87 pol).
+
+Sua extremidade inferior ou ampulada abre-se na parte inferior e posterior do vestíbulo, sua superior na comuna crus.
+
+
+=== Desenvolvimento ===
+
+Os resultados de um estudo de 2009 demonstraram um papel crítico tardio para BMP 2b na morfogênese dos canais semicirculares no ouvido interno do peixe-zebra.
+
+Suspeita-se que o papel do bmp2 no crescimento do ducto do canal semicircular seja provavelmente conservado entre diferentes espécies de vertebrados. em humanos, pois os canais de ambos os organismos surgem de duas depressões na vesícula ótica durante o desenvolvimento inicial.
+
+Essas depressões se formam primeiro em lampreias entre os estágios larvais de 11 e 42 milímetros e se formam no peixe-zebra 57 horas após a fertilização
+
+
+== Função ==
+
+
+Os ductos semicirculares fornecem informações sensoriais para experiências de movimentos rotatórios.
+
+Eles são orientados ao longo dos eixos de inclinação, rotação e guinada.
+Cada canal é preenchido com um fluido chamado endolinfa e contém sensores de movimento dentro dos fluidos.
+
+Na base de cada canal, a região óssea do canal é alargada que se abre no utrículo e tem um saco dilatado em uma extremidade chamado ampolas ósseas.
+
+Dentro da ampola há um monte de células ciliadas e células de suporte chamadas crista ampullaris.
+
+Essas células ciliadas têm muitas projeções citoplasmáticas na superfície apical chamadas estereocílios que estão embutidos em uma estrutura gelatinosa chamada cúpula.
+
+À medida que a cabeça gira, o ducto se move, mas a endolinfa fica para trás devido à inércia.
+
+Isso desvia a cúpula e dobra os estereocílios para dentro.
+
+A flexão desses estereocílios altera um sinal elétrico que é transmitido ao cérebro.
+
+Dentro de aproximadamente 10 segundos após atingir o movimento constante, a endolinfa alcança o movimento do ducto e a cúpula não é mais afetada, interrompendo a sensação de aceleração.
+
+A gravidade específica da cúpula é comparável à da endolinfa circundante.
+
+Consequentemente, a cúpula não é deslocada pela gravidade, ao contrário das membranas otolíticas do utrículo e do sáculo.
+
+Assim como as células ciliadas maculares, as células ciliadas da crista ampular se despolarizam quando os estereocílios se desviam em direção ao cinocílio.
+
+A deflexão na direção oposta resulta em hiperpolarização e inibição.
+
+No canal horizontal, o fluxo ampullopetal é necessário para a estimulação das células ciliadas, enquanto o fluxo ampullofugal é necessário para os canais anterior e posterior. Esse período de ajuste é em parte a causa de uma ilusão conhecida como "a inclinação" frequentemente experimentada pelos pilotos.
+
+Quando um piloto entra em uma curva, as células ciliadas nos canais semicirculares são estimuladas, informando ao cérebro que a aeronave e o piloto não estão mais se movendo em linha reta, mas sim fazendo uma curva inclinada.
+
+Se o piloto mantivesse uma curva de taxa constante, a endolinfa eventualmente alcançaria os dutos e deixaria de desviar a cúpula.
+
+O piloto não sentiria mais como se a aeronave estivesse em uma curva.
+
+À medida que o piloto sai da curva, os canais semicirculares são estimulados para fazer o piloto pensar que agora estão virando na direção oposta, em vez de voar reto e nivelado.
+
+Em resposta a isso, o piloto geralmente se inclina na direção da curva original na tentativa de compensar essa ilusão.
+
+Uma forma mais séria disso é chamada de espiral do cemitério.
+
+Em vez de o piloto se inclinar na direção da curva original, eles podem realmente entrar novamente na curva.
+
+À medida que a endolinfa se estabiliza, os canais semicirculares param de registrar o giro gradual e a aeronave perde altitude lentamente até o impacto com o solo.
+
+
+== História ==
+
+Jean Pierre Flourens, ao destruir o canal semicircular horizontal dos pombos, observou que eles continuam a voar em círculo, mostrando a finalidade dos canais semicirculares.
+
+
+
+https://en.wikipedia.org/wiki/Semicircular_canals
+
+;;;FR;;;
+
+
+
+CANAUX SEMI-CIRCULAIRES
+
+
+Les canaux semi-circulaires ou conduits semi-circulaires sont trois tubes semi-circulaires interconnectés situés dans la partie la plus interne de chaque oreille, l'oreille interne.
+
+Les trois canaux sont les canaux semi-circulaires horizontaux, supérieurs et postérieurs.
+
+
+== Structure ==
+
+Les canaux semi-circulaires font partie du labyrinthe osseux et sont perpendiculaires les uns aux autres.
+
+À une extrémité de chacun des canaux semi-circulaires se trouve un sac dilaté appelé ampoule osseuse qui fait plus de deux fois le diamètre du canal.
+
+Chaque ampoule contient une crête ampullaire, la crista ampullaris qui consiste en une épaisse calotte gélatineuse appelée cupule et de nombreuses cellules ciliées.
+
+Les canaux semi-circulaires supérieur et postérieur sont orientés verticalement à angle droit l'un par rapport à l'autre.
+
+Le canal semi-circulaire latéral est à un angle d'environ 30 degrés par rapport au plan horizontal.
+
+Les orientations des canaux provoquent la stimulation d'un canal différent par le mouvement de la tête dans différents plans, et plus d'un canal est stimulé à la fois si le mouvement est hors de ces plans.
+
+Le canal latéral détecte l'accélération angulaire de la tête lorsque la tête est tournée et les canaux supérieur et postérieur détectent les mouvements verticaux de la tête lorsque la tête est déplacée vers le haut ou vers le bas.
+
+Lorsque la tête change de position, l'endolymphe des canaux est en retard par inertie et cela agit sur la cupule qui courbe les cils des cellules ciliées.
+
+La stimulation des cellules ciliées envoie le message au cerveau qu'une accélération est en cours.
+
+Les ampoules s'ouvrent dans le vestibule par cinq orifices, l'un des orifices étant commun à deux des canaux.
+Chez les espèces de mammifères, la taille des canaux semi-circulaires est corrélée à leur type de locomotion.
+
+Plus précisément, les espèces agiles et ayant une locomotion rapide et saccadée ont des canaux plus grands par rapport à leur taille corporelle que celles qui se déplacent avec plus de prudence.
+
+
+=== Canal semi-circulaire horizontal ===
+
+Le canal latéral ou horizontal (canal semi-circulaire externe) est le plus court des trois canaux.
+
+Le mouvement du fluide à l'intérieur de ce canal correspond à une rotation de la tête autour d'un axe vertical (c'est-à-dire le cou), c'est-à-dire à une rotation dans le plan transversal.
+
+Cela se produit, par exemple, lorsqu'on tourne la tête d'un côté à l'autre.
+Il mesure de 12 à 15 mm (0,47 à 0,59 po) et son arc est dirigé horizontalement vers l'arrière et latéralement; ainsi chaque canal semi-circulaire est perpendiculaire aux deux autres.
+
+Son extrémité ampullée correspond à l'angle supérieur et latéral du vestibule, juste au-dessus de la fenêtre ovale, où elle débouche près de l'extrémité ampulée du canal supérieur ; son extrémité opposée s'ouvre à la partie supérieure et postérieure du vestibule.
+
+Le canal latéral d'une oreille est à peu près dans le même plan que celui de l'autre.
+
+
+=== Canal semi-circulaire supérieur ===
+
+Le canal semi-circulaire supérieur ou antérieur fait partie du système vestibulaire et détecte les rotations de la tête autour de l'axe latéral, c'est-à-dire la rotation dans le plan sagittal.
+
+Cela se produit, par exemple, en hochant la tête.
+Il mesure 15 à 20 mm (0,59 à 0,79 po) de longueur, est de direction verticale et est placé transversalement au grand axe de la partie pétreuse de l'os temporal, sur la face antérieure de laquelle son arc forme une projection ronde.
+
+Il décrit environ les deux tiers d'un cercle.
+
+Son extrémité latérale est ampullée et débouche dans la partie supérieure du vestibule ; l'extrémité opposée rejoint la partie supérieure du canal postérieur pour former le crus commun, qui débouche dans la partie supérieure et médiale du vestibule.
+
+
+=== Canal semi-circulaire postérieur ===
+
+Le canal semi-circulaire postérieur est une partie du système vestibulaire qui détecte la rotation de la tête autour de l'axe antéro-postérieur (sagittal), ou en d'autres termes la rotation dans le plan coronal.
+
+Cela se produit, par exemple, quand on bouge la tête pour toucher les épaules, ou quand on fait la roue.
+Il est dirigé vers le haut, selon sa nomenclature, et vers l'arrière, presque parallèlement à la face postérieure de l'os pétreux.
+
+L'aqueduc vestibulaire lui est immédiatement médial.
+
+Le canal postérieur fait partie du labyrinthe osseux et est utilisé par le système vestibulaire pour détecter les rotations de la tête dans le plan coronal.
+
+C'est le plus long des trois canaux, mesurant de 18 à 22 mm (0,71 à 0,87 po).
+
+Son extrémité inférieure ou ampullée débouche dans la partie inférieure et postérieure du vestibule, sa partie supérieure dans les crus communaux.
+
+
+=== Développement ===
+
+Les résultats d'une étude de 2009 ont démontré un rôle tardif critique pour la BMP 2b dans la morphogenèse des canaux semi-circulaires de l'oreille interne du poisson zèbre.
+
+On soupçonne que le rôle de bmp2 dans l'excroissance du canal semi-circulaire est susceptible d'être conservé entre différentes espèces de vertébrés. chez l'homme, car les canaux des deux organismes proviennent de deux dépressions de la vésicule otique au début du développement.
+
+Ces dépressions se forment d'abord chez les lamproies entre les stades larvaires de 11 et 42 millimètres et se forment chez le poisson zèbre 57 heures après la fécondation.
+
+
+== Fonction ==
+
+
+Les conduits semi-circulaires fournissent une entrée sensorielle pour les expériences de mouvements rotatifs.
+
+Ils sont orientés selon les axes de tangage, de roulis et de lacet.
+Chaque canal est rempli d'un fluide appelé endolymphe et contient des capteurs de mouvement dans les fluides.
+
+À la base de chaque canal, la région osseuse du canal est agrandie, s'ouvre dans l'utricule et possède un sac dilaté à une extrémité appelé les ampoules osseuses.
+
+Dans l'ampoule se trouve un monticule de cellules ciliées et de cellules de soutien appelée crista ampullaris.
+
+Ces cellules ciliées ont de nombreuses projections cytoplasmiques sur la surface apicale appelées stéréocils qui sont noyées dans une structure gélatineuse appelée cupule.
+
+Lorsque la tête tourne, le conduit se déplace mais l'endolymphe est en retard en raison de l'inertie.
+
+Cela dévie la cupule et plie les stéréocils à l'intérieur.
+
+La courbure de ces stéréocils modifie un signal électrique qui est transmis au cerveau.
+
+Dans environ 10 secondes après avoir atteint un mouvement constant, l'endolymphe rattrape le mouvement du conduit et la cupule n'est plus affectée, ce qui arrête la sensation d'accélération.
+
+La gravité spécifique de la cupule est comparable à celle de l'endolymphe environnante.
+
+Par conséquent, la cupule n'est pas déplacée par la gravité, contrairement aux membranes otolithiques de l'utricule et du saccule.
+
+Comme pour les cellules ciliées maculaires, les cellules ciliées de la crista ampullaris se dépolarisent lorsque les stéréocils se dévient vers le kinocilium.
+
+Une déviation dans la direction opposée entraîne une hyperpolarisation et une inhibition.
+
+Dans le canal horizontal, le flux ampullopetal est nécessaire pour la stimulation des cellules ciliées, alors que le flux ampullofuge est nécessaire pour les canaux antérieur et postérieur.
+
+Lorsqu'un pilote entre dans un virage, les cellules ciliées des canaux semi-circulaires sont stimulées, indiquant au cerveau que l'avion et le pilote ne se déplacent plus en ligne droite mais effectuent plutôt un virage incliné.
+
+Si le pilote devait maintenir un virage à vitesse constante, l'endolymphe finirait par rattraper les conduits et cesserait de dévier la cupule.
+
+Le pilote n'aurait plus l'impression que l'avion était en virage.
+
+Lorsque le pilote sort du virage, les canaux semi-circulaires sont stimulés pour faire croire au pilote qu'ils tournent maintenant dans la direction opposée plutôt que de voler droit et de niveau.
+
+En réponse à cela, le pilote se penchera souvent dans la direction du virage d'origine pour tenter de compenser cette illusion.
+
+Une forme plus grave de ceci s'appelle une spirale de cimetière.
+
+Plutôt que le pilote se penche dans la direction du virage initial, il peut en fait réintégrer le virage.
+
+Au fur et à mesure que l'endolymphe se stabilise, les canaux semi-circulaires cessent d'enregistrer le virage progressif et l'avion perd lentement de l'altitude jusqu'à l'impact avec le sol.
+
+
+== Historique ==
+
+Jean Pierre Flourens, en détruisant le canal semi-circulaire horizontal des pigeons, a noté qu'ils continuent à voler en cercle, montrant le but des canaux semi-circulaires.
+
+
+
+https://en.wikipedia.org/wiki/Semicircular_canals

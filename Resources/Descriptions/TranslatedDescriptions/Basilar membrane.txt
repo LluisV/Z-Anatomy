@@ -1,0 +1,448 @@
+
+
+BASILAR MEMBRANE
+
+
+The basilar membrane is a stiff structural element within the cochlea of the inner ear which separates two liquid-filled tubes that run along the coil of the cochlea, the scala media and the scala tympani. 
+
+The basilar membrane moves up and down in response to incoming sound waves, which are converted to traveling waves on the basilar membrane. 
+
+
+== Structure ==
+
+The basilar membrane is a pseudo-resonant structure that, like the strings on an instrument, varies in width and stiffness. 
+
+But unlike the parallel strings of a guitar, the basilar membrane is a single structure with different width, stiffness, mass, damping, and duct dimensions at different points along its length. 
+
+The motion of the basilar membrane is generally described as a traveling wave. 
+
+The properties of the membrane at a given point along its length determine its characteristic frequency (CF), the frequency at which it is most sensitive to sound vibrations. 
+
+The basilar membrane is widest (0.42–0.65 mm) and least stiff at the apex of the cochlea, and narrowest (0.08–0.16 mm) and stiffest at the base (near the round and oval windows). 
+
+High-frequency sounds localize near the base of the cochlea, while low-frequency sounds localize near the apex.
+
+
+== Function ==
+
+
+
+=== Endolymph/perilymph separation ===
+
+Along with the vestibular membrane, several tissues held by the basilar membrane segregate the fluids of the endolymph and perilymph, such as the inner and outer sulcus cells (shown in yellow) and the reticular lamina of the organ of Corti (shown in magenta). 
+
+For the organ of Corti, the basilar membrane is permeable to perilymph. 
+
+Here the border between endolymph and perilymph occurs at the reticular lamina, the endolymph side of the organ of Corti.
+
+
+=== A base for the sensory cells ===
+
+The basilar membrane is also the base for the hair cells. 
+
+This function is present in all land vertebrates. 
+
+Due to its location, the basilar membrane places the hair cells adjacent to both the endolymph and the perilymph, which is a precondition of hair cell function.
+
+
+=== Frequency dispersion ===
+
+A third, evolutionarily younger, function of the basilar membrane is strongly developed in the cochlea of most mammalian species and weakly developed in some bird species: the dispersion of incoming sound waves to separate frequencies spatially. 
+
+In brief, the membrane is tapered and it is stiffer at one end than at the other. 
+
+Furthermore, sound waves travelling to the "floppier" end of the basilar membrane have to travel through a longer fluid column than sound waves travelling to the nearer, stiffer end. 
+
+Each part of the basilar membrane, together with the surrounding fluid, can therefore be thought of as a "mass-spring" system with different resonant properties: high stiffness and low mass, hence high resonant frequencies at the near (base) end, and low stiffness and high mass, hence low resonant frequencies, at the far (apex) end. 
+
+This causes sound input of a certain frequency to vibrate some locations of the membrane more than other locations. 
+
+The distribution of frequencies to places is called the tonotopic organization of cochlea. 
+Sound-driven vibrations travel as waves along this membrane, along which, in humans, lie about 3,500 inner hair cells spaced in a single row. 
+
+Each cell is attached to a tiny triangular frame. 
+
+The 'hairs' are minute processes on the end of the cell, which are very sensitive to movement. 
+
+When the vibration of the membrane rocks the triangular frames, the hairs on the cells are repeatedly displaced, and that produces streams of corresponding pulses in the nerve fibers, which are transmitted to the auditory pathway. 
+
+The outer hair cells feed back energy to amplify the traveling wave, by up to 65 dB at some locations. 
+
+In the membrane of the outer hair cells there are motor proteins associated with the membrane. 
+
+Those proteins are activated by sound-induced receptor potentials as the basilar membrane moves up and down. 
+
+These motor proteins can amplify the movement, causing the basilar membrane to move a little bit more, amplifying the traveling wave. 
+
+Consequently, the inner hair cells get more displacement of their cilia and move a little bit more and get more information than they would in a passive cochlea.
+
+
+=== Generating receptor potential ===
+
+The movement of the basilar membrane causes hair cell stereocilia movement. 
+
+The hair cells are attached to the basilar membrane, and with the moving of the basilar membrane, the tectorial membrane and the hair cells are also moving, with the stereocilia bending with the relative motion of the tectorial membrane. 
+
+This can cause opening and closing of the mechanically gated potassium channels on the cilia of the hair cell. 
+
+The cilia of the hair cell are in the endolymph. 
+
+Unlike the normal cellular solution, low concentration of potassium and high of sodium, the endolymph is high concentration of potassium and low of sodium. 
+
+And it is isolated, which means it does not have a resting potential of −70mV comparing with other normal cells, but rather maintains a potential about +80mV. 
+
+However, the base of the hair cell is in the perilymph, with a 0 mV potential. 
+
+This leads to the hair cell have a resting potential of -45 mV. 
+
+As the basilar membrane moves upward, the cilia move in the direction causing opening of the mechanically gated potassium channel. 
+
+The influx of potassium ions leads to depolarization. 
+
+On the contrary, the cilia move the other way as the basilar membrane moves down, closing more mechanically gated potassium channels and leading to hyperpolarization. 
+
+Depolarization will open the voltage gated calcium channel, releasing neurotransmitter (glutamate) at the nerve ending, acting on the spiral ganglion cell, the primary auditory neurons, making them more likely to spike. 
+
+Hyperpolarization causes less calcium influx, thus less neurotransmitter release, and a reduced probability of spiral ganglion cell spiking.
+
+
+
+https://en.wikipedia.org/wiki/Basilar_membrane
+;;;ES;;;
+
+
+
+MEMBRANA BASILAR
+
+
+La membrana basilar es un elemento estructural rígido dentro de la cóclea del oído interno que separa dos tubos llenos de líquido que corren a lo largo de la espiral de la cóclea, la rampa media y la rampa timpánica.
+
+La membrana basilar se mueve hacia arriba y hacia abajo en respuesta a las ondas de sonido entrantes, que se convierten en ondas viajeras en la membrana basilar.
+
+
+== Estructura ==
+
+La membrana basilar es una estructura pseudo-resonante que, como las cuerdas de un instrumento, varía en anchura y rigidez.
+
+Pero a diferencia de las cuerdas paralelas de una guitarra, la membrana basilar es una estructura única con diferentes dimensiones de ancho, rigidez, masa, amortiguamiento y conducto en diferentes puntos a lo largo de su longitud.
+
+El movimiento de la membrana basilar generalmente se describe como una onda viajera.
+
+Las propiedades de la membrana en un punto dado a lo largo de su longitud determinan su frecuencia característica (FC), la frecuencia en la que es más sensible a las vibraciones del sonido.
+
+La membrana basilar es más ancha (0,42 a 0,65 mm) y menos rígida en el vértice de la cóclea, y más estrecha (0,08 a 0,16 mm) y más rígida en la base (cerca de las ventanas redonda y oval).
+
+Los sonidos de alta frecuencia se localizan cerca de la base de la cóclea, mientras que los sonidos de baja frecuencia se localizan cerca del vértice.
+
+
+== Función ==
+
+
+
+=== Separación de endolinfa/perilinfa ===
+
+Junto con la membrana vestibular, varios tejidos sostenidos por la membrana basilar segregan los fluidos de la endolinfa y la perilinfa, como las células internas y externas del surco (en amarillo) y la lámina reticular del órgano de Corti (en magenta).
+
+Para el órgano de Corti, la membrana basilar es permeable a la perilinfa.
+
+Aquí, el límite entre la endolinfa y la perilinfa se produce en la lámina reticular, el lado de la endolinfa del órgano de Corti.
+
+
+=== Una base para las células sensoriales ===
+
+La membrana basilar es también la base de las células ciliadas.
+
+Esta función está presente en todos los vertebrados terrestres.
+
+Debido a su ubicación, la membrana basilar coloca las células ciliadas adyacentes tanto a la endolinfa como a la perilinfa, lo cual es una condición previa para la función de las células ciliadas.
+
+
+=== Dispersión de frecuencia ===
+
+Una tercera función de la membrana basilar, evolutivamente más joven, está fuertemente desarrollada en la cóclea de la mayoría de las especies de mamíferos y débilmente desarrollada en algunas especies de aves: la dispersión de las ondas sonoras entrantes en frecuencias separadas espacialmente.
+
+En resumen, la membrana se estrecha y es más rígida en un extremo que en el otro.
+
+Además, las ondas de sonido que viajan al extremo "más flexible" de la membrana basilar tienen que viajar a través de una columna de fluido más larga que las ondas de sonido que viajan al extremo más rígido y más cercano.
+
+Por lo tanto, cada parte de la membrana basilar, junto con el líquido circundante, puede considerarse como un sistema de "masa-resorte" con diferentes propiedades de resonancia: alta rigidez y baja masa, por lo tanto, altas frecuencias de resonancia en el extremo cercano (base), y baja rigidez y alta masa, por lo tanto, bajas frecuencias resonantes, en el extremo lejano (ápice).
+
+Esto hace que la entrada de sonido de una determinada frecuencia haga vibrar algunos lugares de la membrana más que otros.
+
+La distribución de frecuencias a los lugares se denomina organización tonotópica de la cóclea.
+Las vibraciones impulsadas por el sonido viajan como ondas a lo largo de esta membrana, a lo largo de la cual, en los humanos, se encuentran unas 3.500 células ciliadas internas espaciadas en una sola fila.
+
+Cada celda está unida a un diminuto marco triangular.
+
+Los 'pelos' son procesos diminutos en el extremo de la célula, que son muy sensibles al movimiento.
+
+Cuando la vibración de la membrana sacude los marcos triangulares, los pelos de las células se desplazan repetidamente y eso produce corrientes de pulsos correspondientes en las fibras nerviosas, que se transmiten a la vía auditiva.
+
+Las células ciliadas externas retroalimentan energía para amplificar la onda viajera, hasta 65 dB en algunos lugares.
+
+En la membrana de las células ciliadas externas hay proteínas motoras asociadas a la membrana.
+
+Esas proteínas son activadas por potenciales receptores inducidos por el sonido a medida que la membrana basilar se mueve hacia arriba y hacia abajo.
+
+Estas proteínas motoras pueden amplificar el movimiento, haciendo que la membrana basilar se mueva un poco más, amplificando la onda viajera.
+
+En consecuencia, las células ciliadas internas obtienen más desplazamiento de sus cilios y se mueven un poco más y obtienen más información que en una cóclea pasiva.
+
+
+=== Generando potencial receptor ===
+
+El movimiento de la membrana basilar provoca el movimiento de los estereocilios de las células ciliadas.
+
+Las células ciliadas están unidas a la membrana basilar, y con el movimiento de la membrana basilar, la membrana tectoria y las células ciliadas también se mueven, con los estereocilios doblándose con el movimiento relativo de la membrana tectoria.
+
+Esto puede provocar la apertura y el cierre de los canales de potasio activados mecánicamente en los cilios de la célula ciliada.
+
+Los cilios de la célula pilosa están en la endolinfa.
+
+A diferencia de la solución celular normal, de baja concentración de potasio y alta de sodio, la endolinfa es de alta concentración de potasio y baja de sodio.
+
+Y está aislado, lo que significa que no tiene un potencial de reposo de −70 mV en comparación con otras células normales, sino que mantiene un potencial de alrededor de +80 mV.
+
+Sin embargo, la base de la célula ciliada está en la perilinfa, con un potencial de 0 mV.
+
+Esto lleva a que la célula ciliada tenga un potencial de reposo de -45 mV.
+
+A medida que la membrana basilar se mueve hacia arriba, los cilios se mueven en la dirección que provoca la apertura del canal de potasio activado mecánicamente.
+
+La entrada de iones de potasio conduce a la despolarización.
+
+Por el contrario, los cilios se mueven hacia el otro lado a medida que la membrana basilar se mueve hacia abajo, cerrando más canales de potasio activados mecánicamente y provocando una hiperpolarización.
+
+La despolarización abrirá el canal de calcio dependiente de voltaje, liberando neurotransmisor (glutamato) en la terminación nerviosa, actuando sobre la célula del ganglio espiral, las neuronas auditivas primarias, haciéndolas más propensas a aumentar.
+
+La hiperpolarización provoca una menor entrada de calcio, por lo tanto, una menor liberación de neurotransmisores y una menor probabilidad de que se produzcan picos de células ganglionares espirales.
+
+
+
+https://en.wikipedia.org/wiki/Basilar_membrane
+
+;;;PT;;;
+
+
+
+MEMBRANA BASILAR
+
+
+A membrana basilar é um elemento estrutural rígido dentro da cóclea do ouvido interno que separa dois tubos cheios de líquido que correm ao longo da espiral da cóclea, a rampa média e a rampa timpânica.
+
+A membrana basilar move-se para cima e para baixo em resposta às ondas sonoras de entrada, que são convertidas em ondas viajantes na membrana basilar.
+
+
+== Estrutura ==
+
+A membrana basilar é uma estrutura pseudo-ressonante que, como as cordas de um instrumento, varia em largura e rigidez.
+
+Mas, ao contrário das cordas paralelas de um violão, a membrana basilar é uma estrutura única com diferentes dimensões de largura, rigidez, massa, amortecimento e duto em diferentes pontos ao longo de seu comprimento.
+
+O movimento da membrana basilar é geralmente descrito como uma onda viajante.
+
+As propriedades da membrana em um determinado ponto ao longo de seu comprimento determinam sua frequência característica (CF), a frequência na qual ela é mais sensível às vibrações sonoras.
+
+A membrana basilar é mais larga (0,42–0,65 mm) e menos rígida no ápice da cóclea, e mais estreita (0,08–0,16 mm) e mais rígida na base (perto das janelas redonda e oval).
+
+Os sons de alta frequência localizam-se perto da base da cóclea, enquanto os sons de baixa frequência localizam-se perto do ápice.
+
+
+== Função ==
+
+
+
+=== Separação endolinfa/perilinfa ===
+
+Junto com a membrana vestibular, vários tecidos mantidos pela membrana basilar segregam os fluidos da endolinfa e da perilinfa, como as células do sulco interno e externo (mostradas em amarelo) e a lâmina reticular do órgão de Corti (mostrada em magenta).
+
+Para o órgão de Corti, a membrana basilar é permeável à perilinfa.
+
+Aqui, a fronteira entre a endolinfa e a perilinfa ocorre na lâmina reticular, o lado da endolinfa do órgão de Corti.
+
+
+=== Uma base para as células sensoriais ===
+
+A membrana basilar também é a base das células ciliadas.
+
+Esta função está presente em todos os vertebrados terrestres.
+
+Devido à sua localização, a membrana basilar coloca as células ciliadas adjacentes à endolinfa e à perilinfa, o que é uma pré-condição da função das células ciliadas.
+
+
+=== Dispersão de frequência ===
+
+Uma terceira função da membrana basilar, evolutivamente mais jovem, é fortemente desenvolvida na cóclea da maioria das espécies de mamíferos e fracamente desenvolvida em algumas espécies de aves: a dispersão das ondas sonoras que chegam para separar as frequências espacialmente.
+
+Em resumo, a membrana é afunilada e é mais rígida em uma extremidade do que na outra.
+
+Além disso, as ondas sonoras que viajam para a extremidade "mais flexível" da membrana basilar têm que viajar através de uma coluna de fluido mais longa do que as ondas sonoras que viajam para a extremidade mais próxima e mais rígida.
+
+Cada parte da membrana basilar, juntamente com o fluido circundante, pode, portanto, ser pensada como um sistema "massa-mola" com diferentes propriedades ressonantes: alta rigidez e baixa massa, portanto, altas frequências ressonantes na extremidade próxima (base) e baixa rigidez e alta massa, portanto, baixas frequências de ressonância, na extremidade distante (ápice).
+
+Isso faz com que a entrada de som de uma certa frequência vibre alguns locais da membrana mais do que outros locais.
+
+A distribuição das frequências aos locais é chamada de organização tonotópica da cóclea.
+As vibrações impulsionadas pelo som viajam como ondas ao longo dessa membrana, ao longo da qual, em humanos, ficam cerca de 3.500 células ciliadas internas espaçadas em uma única linha.
+
+Cada célula é anexada a uma pequena moldura triangular.
+
+Os 'cabelos' são processos diminutos na extremidade da célula, que são muito sensíveis ao movimento.
+
+Quando a vibração da membrana balança os quadros triangulares, os pêlos das células são repetidamente deslocados, e isso produz fluxos de pulsos correspondentes nas fibras nervosas, que são transmitidos para a via auditiva.
+
+As células ciliadas externas realimentam a energia para amplificar a onda viajante, em até 65 dB em alguns locais.
+
+Na membrana das células ciliadas externas existem proteínas motoras associadas à membrana.
+
+Essas proteínas são ativadas por potenciais receptores induzidos pelo som à medida que a membrana basilar se move para cima e para baixo.
+
+Essas proteínas motoras podem amplificar o movimento, fazendo com que a membrana basilar se mova um pouco mais, amplificando a onda viajante.
+
+Consequentemente, as células ciliadas internas obtêm mais deslocamento de seus cílios e se movem um pouco mais e obtêm mais informações do que em uma cóclea passiva.
+
+
+=== Gerando potencial receptor ===
+
+O movimento da membrana basilar causa o movimento dos estereocílios das células ciliadas.
+
+As células ciliadas estão presas à membrana basilar e, com o movimento da membrana basilar, a membrana tectorial e as células ciliadas também se movem, com os estereocílios dobrando-se com o movimento relativo da membrana tectorial.
+
+Isso pode causar abertura e fechamento dos canais de potássio controlados mecanicamente nos cílios da célula ciliada.
+
+Os cílios da célula ciliada estão na endolinfa.
+
+Ao contrário da solução celular normal, baixa concentração de potássio e alta de sódio, a endolinfa é alta concentração de potássio e baixa de sódio.
+
+E é isolado, o que significa que não tem um potencial de repouso de -70mV em comparação com outras células normais, mas mantém um potencial de cerca de +80mV.
+
+No entanto, a base da célula ciliada está na perilinfa, com potencial de 0 mV.
+
+Isso faz com que a célula ciliada tenha um potencial de repouso de -45 mV.
+
+À medida que a membrana basilar se move para cima, os cílios se movem na direção que causa a abertura do canal de potássio fechado mecanicamente.
+
+O influxo de íons potássio leva à despolarização.
+
+Ao contrário, os cílios movem-se para o outro lado à medida que a membrana basilar desce, fechando mais canais de potássio mecanicamente controlados e levando à hiperpolarização.
+
+A despolarização abrirá o canal de cálcio dependente de voltagem, liberando neurotransmissor (glutamato) na terminação nervosa, agindo na célula ganglionar espiral, os neurônios auditivos primários, tornando-os mais propensos a picos.
+
+A hiperpolarização causa menos influxo de cálcio, portanto, menos liberação de neurotransmissores e uma probabilidade reduzida de picos de células ganglionares espirais.
+
+
+
+https://en.wikipedia.org/wiki/Basilar_membrane
+
+;;;FR;;;
+
+
+
+MEMBRANE BASILAIRE
+
+
+La membrane basilaire est un élément structurel rigide dans la cochlée de l'oreille interne qui sépare deux tubes remplis de liquide qui courent le long de la spirale de la cochlée, la rampe médiane et la rampe tympanique.
+
+La membrane basilaire monte et descend en réponse aux ondes sonores entrantes, qui sont converties en ondes progressives sur la membrane basilaire.
+
+
+== Structure ==
+
+La membrane basilaire est une structure pseudo-résonnante qui, comme les cordes d'un instrument, varie en largeur et en rigidité.
+
+Mais contrairement aux cordes parallèles d'une guitare, la membrane basilaire est une structure unique avec différentes largeur, rigidité, masse, amortissement et dimensions de conduit à différents points sur sa longueur.
+
+Le mouvement de la membrane basilaire est généralement décrit comme une onde progressive.
+
+Les propriétés de la membrane en un point donné de sa longueur déterminent sa fréquence caractéristique (CF), fréquence à laquelle elle est la plus sensible aux vibrations sonores.
+
+La membrane basilaire est la plus large (0,42–0,65 mm) et la moins rigide au sommet de la cochlée, et la plus étroite (0,08–0,16 mm) et la plus rigide à la base (près des fenêtres rondes et ovales).
+
+Les sons à haute fréquence se localisent près de la base de la cochlée, tandis que les sons à basse fréquence se localisent près de l'apex.
+
+
+== Fonction ==
+
+
+
+=== Séparation endolymphe/périlymphe ===
+
+Parallèlement à la membrane vestibulaire, plusieurs tissus retenus par la membrane basilaire séparent les fluides de l'endolymphe et de la périlymphe, tels que les cellules sulcus internes et externes (représentées en jaune) et la lame réticulaire de l'organe de Corti (représentée en magenta).
+
+Pour l'organe de Corti, la membrane basilaire est perméable à la périlymphe.
+
+Ici, la frontière entre l'endolymphe et la périlymphe se produit au niveau de la lame réticulaire, le côté endolymphe de l'organe de Corti.
+
+
+=== Une base pour les cellules sensorielles ===
+
+La membrane basilaire est également la base des cellules ciliées.
+
+Cette fonction est présente chez tous les vertébrés terrestres.
+
+En raison de son emplacement, la membrane basilaire place les cellules ciliées adjacentes à la fois à l'endolymphe et à la périlymphe, ce qui est une condition préalable au fonctionnement des cellules ciliées.
+
+
+=== Dispersion de fréquence ===
+
+Une troisième fonction, évolutivement plus jeune, de la membrane basilaire est fortement développée dans la cochlée de la plupart des espèces de mammifères et faiblement développée chez certaines espèces d'oiseaux : la dispersion des ondes sonores entrantes pour séparer les fréquences dans l'espace.
+
+En bref, la membrane est effilée et elle est plus rigide à une extrémité qu'à l'autre.
+
+De plus, les ondes sonores se déplaçant vers l'extrémité "plus souple" de la membrane basilaire doivent traverser une colonne de fluide plus longue que les ondes sonores se déplaçant vers l'extrémité la plus proche et la plus rigide.
+
+Chaque partie de la membrane basilaire, avec le fluide environnant, peut donc être considérée comme un système "masse-ressort" avec des propriétés de résonance différentes : rigidité élevée et faible masse, d'où des fréquences de résonance élevées à l'extrémité proche (base), et faible rigidité et masse élevée, donc basses fréquences de résonance, à l'extrémité éloignée (apex).
+
+Cela provoque une entrée sonore d'une certaine fréquence pour faire vibrer certains endroits de la membrane plus que d'autres endroits.
+
+La distribution des fréquences aux endroits s'appelle l'organisation tonotopique de la cochlée.
+Les vibrations sonores se propagent sous forme d'ondes le long de cette membrane, le long de laquelle, chez l'homme, se trouvent environ 3 500 cellules ciliées internes espacées sur une seule rangée.
+
+Chaque cellule est attachée à un minuscule cadre triangulaire.
+
+Les « poils » sont des processus minuscules à l'extrémité de la cellule, qui sont très sensibles au mouvement.
+
+Lorsque la vibration de la membrane fait basculer les cadres triangulaires, les poils des cellules sont déplacés à plusieurs reprises, ce qui produit des flux d'impulsions correspondantes dans les fibres nerveuses, qui sont transmises à la voie auditive.
+
+Les cellules ciliées externes renvoient de l'énergie pour amplifier l'onde progressive, jusqu'à 65 dB à certains endroits.
+
+Dans la membrane des cellules ciliées externes, des protéines motrices sont associées à la membrane.
+
+Ces protéines sont activées par des potentiels de récepteurs induits par le son lorsque la membrane basilaire monte et descend.
+
+Ces protéines motrices peuvent amplifier le mouvement, faisant bouger un peu plus la membrane basilaire, amplifiant l'onde progressive.
+
+Par conséquent, les cellules ciliées internes obtiennent plus de déplacement de leurs cils et bougent un peu plus et obtiennent plus d'informations qu'elles ne le feraient dans une cochlée passive.
+
+
+=== Génération de potentiel récepteur ===
+
+Le mouvement de la membrane basilaire provoque le mouvement des stéréocils des cellules ciliées.
+
+Les cellules ciliées sont attachées à la membrane basilaire, et avec le déplacement de la membrane basilaire, la membrane tectoriale et les cellules ciliées se déplacent également, les stéréocils se pliant avec le mouvement relatif de la membrane tectoriale.
+
+Cela peut provoquer l'ouverture et la fermeture des canaux potassiques à déclenchement mécanique sur les cils de la cellule ciliée.
+
+Les cils de la cellule ciliée sont dans l'endolymphe.
+
+Contrairement à la solution cellulaire normale, à faible concentration de potassium et à forte teneur en sodium, l'endolymphe est à forte concentration de potassium et à faible teneur en sodium.
+
+Et il est isolé, ce qui signifie qu'il n'a pas un potentiel de repos de -70 mV par rapport aux autres cellules normales, mais maintient plutôt un potentiel d'environ + 80 mV.
+
+Cependant, la base de la cellule ciliée se trouve dans la périlymphe, avec un potentiel de 0 mV.
+
+Cela conduit les cellules ciliées à avoir un potentiel de repos de -45 mV.
+
+Au fur et à mesure que la membrane basilaire se déplace vers le haut, les cils se déplacent dans la direction provoquant l'ouverture du canal potassique à déclenchement mécanique.
+
+L'afflux d'ions potassium entraîne une dépolarisation.
+
+Au contraire, les cils se déplacent dans l'autre sens lorsque la membrane basilaire descend, fermant plus de canaux potassiques à fermeture mécanique et conduisant à une hyperpolarisation.
+
+La dépolarisation ouvrira le canal calcique voltage-dépendant, libérant un neurotransmetteur (glutamate) à la terminaison nerveuse, agissant sur la cellule ganglionnaire en spirale, les neurones auditifs primaires, les rendant plus susceptibles de monter en flèche.
+
+L'hyperpolarisation provoque moins d'influx de calcium, donc moins de libération de neurotransmetteurs et une probabilité réduite de dopage des cellules ganglionnaires spirales.
+
+
+
+https://en.wikipedia.org/wiki/Basilar_membrane

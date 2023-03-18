@@ -1,0 +1,42 @@
+<map id="ContextualMenu.IsolateClick" name="ContextualMenu.IsolateClick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,374,192,399"/>
+<area shape="rect" id="node2" href="$class_selected_objects_management.html#ac596a7dcaa8802ec6bef09f6c1c8e34f" title="Recursively deselects all child objects of a given parent object." alt="" coords="240,152,437,192"/>
+<area shape="rect" id="node3" href="$class_selected_objects_management.html#a494c9715c282ac39a6abccad66ce424b" title="Deselects a GameObject from the currently selected objects." alt="" coords="492,36,689,76"/>
+<area shape="rect" id="node16" href="$class_selected_objects_management.html#a1574aa0b6e3e1f742354dcb3e04b606a" title="Deselects all selected objects." alt="" coords="240,261,437,301"/>
+<area shape="rect" id="node22" href="$class_action_control.html#a8be02d2a690999101a2534530d37c03d" title=" " alt="" coords="495,431,686,457"/>
+<area shape="rect" id="node27" href="$class_mesh_management.html#addd6f09f580bdbd626817795c6fd59d8" title=" " alt="" coords="248,577,429,617"/>
+<area shape="rect" id="node31" href="$class_selected_objects_management.html#a53480cd3be7a8d0db9027d8c8a575f19" title="Selects a GameObject." alt="" coords="492,481,689,521"/>
+<area shape="rect" id="node40" href="$class_selected_objects_management.html#abf7f0e5eb34739c90a91977ac61e1228" title="Recursively selects all the children of a parent Transform, excluding objects with Line or Label comp..." alt="" coords="240,367,437,407"/>
+<area shape="rect" id="node4" href="$class_hierarchy_bar.html#ad72351240ca9b401b5f967796fcb0cc1" title=" " alt="" coords="797,62,928,87"/>
+<area shape="rect" id="node5" href="$class_tangible_body_part.html#addb5812e6152141b29f47d4881f89441" title="Deselects the object by changing its selection state and hiding its labels and notes." alt="" coords="773,221,952,246"/>
+<area shape="rect" id="node10" href="$class_names_management.html#a187bea184db6fba1986089b5f2740806" title=" " alt="" coords="767,13,959,38"/>
+<area shape="rect" id="node13" href="$class_lexicon.html#ac7c65494b584322aa61f8adb4fdb8607" title=" " alt="" coords="781,279,944,305"/>
+<area shape="rect" id="node6" href="$class_body_part_visibility.html#a84a58bded4bbe6724634b22695772057" title="Hides all labels and their connecting lines." alt="" coords="1058,218,1251,243"/>
+<area shape="rect" id="node9" href="$class_tangible_body_part.html#a7d60a43e53d3c31f706ba46d6633aff6" title="Sets the selection state of the object." alt="" coords="1053,396,1256,436"/>
+<area shape="rect" id="node7" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="1328,449,1515,474"/>
+<area shape="rect" id="node8" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="1563,449,1699,474"/>
+<area shape="rect" id="node11" href="$class_names_management.html#aefcfe541cea7196d510da01b57769586" title=" " alt="" coords="1029,5,1280,45"/>
+<area shape="rect" id="node12" href="$class_highlight_text.html#ad3eb806f90582a81e06d0399850b79d0" title=" " alt="" coords="1344,13,1499,38"/>
+<area shape="rect" id="node14" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="1061,268,1248,308"/>
+<area shape="rect" id="node15" href="$class_lexicon_element.html#a401b942dc784d0f5c9ff8091cbcdefe8" title=" " alt="" coords="1061,332,1248,372"/>
+<area shape="rect" id="node17" href="$class_selected_objects_management.html#abb63425398d079474bc325e2da84cfba" title="Removes the outline to all the selected objects." alt="" coords="485,164,696,204"/>
+<area shape="rect" id="node18" href="$class_selected_objects_management.html#aba9fca213971af752081841f5c6a3cc8" title="Clear the hierarchy bar and highlighted item in the lexicon." alt="" coords="492,100,689,140"/>
+<area shape="rect" id="node19" href="$class_lexicon.html#a6662f6aa9307756230d7acfdbced337d" title=" " alt="" coords="785,111,940,137"/>
+<area shape="rect" id="node20" href="$class_lexicon_element.html#a9c75fb525833258e2e9285103687c319" title=" " alt="" coords="1065,76,1244,116"/>
+<area shape="rect" id="node21" href="$class_lexicon_element.html#a530b05be33f9939fda5be0a9518c0c80" title=" " alt="" coords="1061,140,1248,180"/>
+<area shape="rect" id="node23" href="$class_panels_management.html#ade3e9398bcde7caf1a6cd8cdb4891db7" title=" " alt="" coords="767,424,958,464"/>
+<area shape="rect" id="node25" href="$class_panels_management.html#ab497371db20d7a22b2a3d040756139bb" title=" " alt="" coords="747,552,978,592"/>
+<area shape="rect" id="node26" href="$class_action_control.html#ad86242abe7e098854c6928368a5b2b15" title=" " alt="" coords="763,488,962,528"/>
+<area shape="rect" id="node24" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="1067,507,1243,533"/>
+<area shape="rect" id="node28" href="$class_selected_objects_management.html#ac38e0db5858da81a3b023ea710870f3a" title="Removes the outline to all the active objects." alt="" coords="492,545,689,585"/>
+<area shape="rect" id="node29" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="492,609,689,649"/>
+<area shape="rect" id="node33" href="$class_action_control.html#ae37bec2cb675ad45de80c9e035545bef" title=" " alt="" coords="523,733,658,758"/>
+<area shape="rect" id="node34" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="744,806,981,831"/>
+<area shape="rect" id="node30" href="$class_camera_controller.html#aaa7e8228113908116a25b1a69eea1c1b" title="Updates the bounds." alt="" coords="757,617,968,642"/>
+<area shape="rect" id="node32" href="$class_tangible_body_part.html#adb5f699d5b8ba8e366f6edcd5cbd70cb" title="Sets the selected outline to the object." alt="" coords="780,374,945,399"/>
+<area shape="rect" id="node35" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="1338,954,1505,979"/>
+<area shape="rect" id="node36" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="1062,988,1247,1028"/>
+<area shape="rect" id="node37" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="1062,799,1247,839"/>
+<area shape="rect" id="node38" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="1331,766,1512,791"/>
+<area shape="rect" id="node39" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="1087,863,1222,889"/>
+</map>

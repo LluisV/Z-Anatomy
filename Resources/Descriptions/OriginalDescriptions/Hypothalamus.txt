@@ -1,0 +1,308 @@
+
+
+HYPOTHALAMUS
+
+
+The hypothalamus (from Ancient Greek ὑπό (hupó) 'under', and θάλαμος (thálamos) 'chamber') is a portion of the brain that contains a number of small nuclei with a variety of functions. 
+
+One of the most important functions of the hypothalamus is to link the nervous system to the endocrine system via the pituitary gland. 
+
+The hypothalamus is located below the thalamus and is part of the limbic system. 
+
+In the terminology of neuroanatomy, it forms the ventral part of the diencephalon. 
+
+All vertebrate brains contain a hypothalamus. 
+
+In humans, it is the size of an almond.
+The hypothalamus is responsible for the regulation of certain metabolic processes and other activities of the autonomic nervous system. 
+
+It synthesizes and secretes certain neurohormones, called releasing hormones or hypothalamic hormones, and these in turn stimulate or inhibit the secretion of hormones from the pituitary gland. 
+
+The hypothalamus controls body temperature, hunger, important aspects of parenting and attachment behaviours, thirst, fatigue, sleep, and circadian rhythms.
+
+
+== Structure ==
+
+The hypothalamus is divided into 3 regions (supraoptic, tuberal, mammillary) in a parasagittal plane, indicating location anterior-posterior; and 3 areas (periventricular, medial, lateral) in the coronal plane, indicating location medial-lateral. 
+
+Hypothalamic nuclei are located within these specific regions and areas. 
+
+It is found in all vertebrate nervous systems. 
+
+In mammals, magnocellular neurosecretory cells in the paraventricular nucleus and the supraoptic nucleus of the hypothalamus produce neurohypophysial hormones, oxytocin and vasopressin. 
+
+These hormones are released into the blood in the posterior pituitary. 
+
+Much smaller parvocellular neurosecretory cells, neurons of the paraventricular nucleus, release corticotropin-releasing hormone and other hormones into the hypophyseal portal system, where these hormones diffuse to the anterior pituitary.
+
+
+=== Nuclei ===
+
+The hypothalamic nuclei include the following:
+See alsoventrolateral preoptic nucleus
+periventricular nucleus
+		
+		
+
+
+=== Connections ===
+
+
+The hypothalamus is highly interconnected with other parts of the central nervous system, in particular the brainstem and its reticular formation. 
+
+As part of the limbic system, it has connections to other limbic structures including the amygdala and septum, and is also connected with areas of the autonomous nervous system.
+The hypothalamus receives many inputs from the brainstem, the most notable from the nucleus of the solitary tract, the locus coeruleus, and the ventrolateral medulla.
+Most nerve fibres within the hypothalamus run in two ways (bidirectional).
+
+Projections to areas caudal to the hypothalamus go through the medial forebrain bundle, the mammillotegmental tract and the dorsal longitudinal fasciculus.
+Projections to areas rostral to the hypothalamus are carried by the mammillothalamic tract, the fornix and terminal stria.
+Projections to areas of the sympathetic motor system (lateral horn spinal segments T1-L2/L3) are carried by the hypothalamospinal tract and they activate the sympathetic motor pathway.
+
+
+=== Sexual dimorphism ===
+
+Several hypothalamic nuclei are sexually dimorphic; i.e., there are clear differences in both structure and function between males and females. 
+
+Some differences are apparent even in gross neuroanatomy: most notable is the sexually dimorphic nucleus within the preoptic area, in which the differences are subtle changes in the connectivity and chemical sensitivity of particular sets of neurons. 
+
+The importance of these changes can be recognized by functional differences between males and females. 
+
+For instance, males of most species prefer the odor and appearance of females over males, which is instrumental in stimulating male sexual behavior. 
+
+If the sexually dimorphic nucleus is lesioned, this preference for females by males diminishes. 
+
+Also, the pattern of secretion of growth hormone is sexually dimorphic; this is why in many species, adult males are visibly distinct sizes from females.
+
+
+==== Responsiveness to ovarian steroids ====
+Other striking functional dimorphisms are in the behavioral responses to ovarian steroids of the adult. 
+
+Males and females respond to ovarian steroids in different ways, partly because the expression of estrogen-sensitive neurons in the hypothalamus is sexually dimorphic; i.e., estrogen receptors are expressed in different sets of neurons.
+Estrogen and progesterone can influence gene expression in particular neurons or induce changes in cell membrane potential and kinase activation, leading to diverse non-genomic cellular functions. 
+
+Estrogen and progesterone bind to their cognate nuclear hormone receptors, which translocate to the cell nucleus and interact with regions of DNA known as hormone response elements (HREs) or get tethered to another transcription factor's binding site. 
+
+Estrogen receptor (ER) has been shown to transactivate other transcription factors in this manner, despite the absence of an estrogen response element (ERE) in the proximal promoter region of the gene. 
+
+In general, ERs and progesterone receptors (PRs) are gene activators, with increased mRNA and subsequent protein synthesis following hormone exposure.Male and female brains differ in the distribution of estrogen receptors, and this difference is an irreversible consequence of neonatal steroid exposure. 
+
+Estrogen receptors (and progesterone receptors) are found mainly in neurons in the anterior and mediobasal hypothalamus, notably:
+
+the preoptic area (where LHRH neurons are located, regulating dopamine responses and maternal behavior;
+the periventricular nucleus where somatostatin neurons are located, regulating stress levels;
+the ventromedial hypothalamus which regulates hunger and sexual arousal.
+
+
+=== Development ===
+
+
+In neonatal life, gonadal steroids influence the development of the neuroendocrine hypothalamus. 
+
+For instance, they determine the ability of females to exhibit a normal reproductive cycle, and of males and females to display appropriate reproductive behaviors in adult life.
+
+If a female rat is injected once with testosterone in the first few days of postnatal life (during the "critical period" of sex-steroid influence), the hypothalamus is irreversibly masculinized; the adult rat will be incapable of generating an LH surge in response to estrogen (a characteristic of females), but will be capable of exhibiting male sexual behaviors (mounting a sexually receptive female).
+By contrast, a male rat castrated just after birth will be feminized, and the adult will show female sexual behavior in response to estrogen (sexual receptivity, lordosis behavior).In primates, the developmental influence of androgens is less clear, and the consequences are less understood. 
+
+Within the brain, testosterone is aromatized (to estradiol), which is the principal active hormone for developmental influences. 
+
+The human testis secretes high levels of testosterone from about week 8 of fetal life until 5–6 months after birth (a similar perinatal surge in testosterone is observed in many species), a process that appears to underlie the male phenotype. 
+
+Estrogen from the maternal circulation is relatively ineffective, partly because of the high circulating levels of steroid-binding proteins in pregnancy.Sex steroids are not the only important influences upon hypothalamic development; in particular, pre-pubertal stress in early life (of rats) determines the capacity of the adult hypothalamus to respond to an acute stressor. 
+
+Unlike gonadal steroid receptors, glucocorticoid receptors are very widespread throughout the brain; in the paraventricular nucleus, they mediate negative feedback control of CRF synthesis and secretion, but elsewhere their role is not well understood.
+
+
+== Function ==
+
+
+
+=== Hormone release ===
+
+
+The hypothalamus has a central neuroendocrine function, most notably by its control of the anterior pituitary, which in turn regulates various endocrine glands and organs. 
+
+Releasing hormones (also called releasing factors) are produced in hypothalamic nuclei then transported along axons to either the median eminence or the posterior pituitary, where they are stored and released as needed.
+Anterior pituitaryIn the hypothalamic–adenohypophyseal axis, releasing hormones, also known as hypophysiotropic or hypothalamic hormones, are released from the median eminence, a prolongation of the hypothalamus, into the hypophyseal portal system, which carries them to the anterior pituitary where they exert their regulatory functions on the secretion of adenohypophyseal hormones. 
+
+These hypophysiotropic hormones are stimulated by parvocellular neurosecretory cells located in the periventricular area of the hypothalamus. 
+
+After their release into the capillaries of the third ventricle, the hypophysiotropic hormones travel through what is known as the hypothalamo-pituitary portal circulation. 
+
+Once they reach their destination in the anterior pituitary, these hormones bind to specific receptors located on the surface of pituitary cells. 
+
+Depending on which cells are activated through this binding, the pituitary will either begin secreting or stop secreting hormones into the rest of the bloodstream.
+Other hormones secreted from the median eminence include vasopressin, oxytocin, and neurotensin.
+Posterior pituitaryIn the hypothalamic-neurohypophyseal axis, neurohypophysial hormones are released from the posterior pituitary, which is actually a prolongation of the hypothalamus, into the circulation.
+
+It is also known that hypothalamic-pituitary-adrenal axis (HPA) hormones are related to certain skin diseases and skin homeostasis. 
+
+There is evidence linking hyperactivity of HPA hormones to stress-related skin diseases and skin tumors.
+
+
+=== Stimulation ===
+
+The hypothalamus coordinates many hormonal and behavioural circadian rhythms, complex patterns of neuroendocrine outputs, complex homeostatic mechanisms, and important behaviours. 
+
+The hypothalamus must, therefore, respond to many different signals, some of which are generated externally and some internally. 
+
+Delta wave signalling arising either in the thalamus or in the cortex influences the secretion of releasing hormones; GHRH and prolactin are stimulated whilst TRH is inhibited.
+The hypothalamus is responsive to:
+
+Light: daylength and photoperiod for regulating circadian and seasonal rhythms
+Olfactory stimuli, including pheromones
+Steroids, including gonadal steroids and corticosteroids
+Neurally transmitted information arising in particular from the heart, enteric nervous system (of the gastrointestinal tract), and the reproductive tract.
+Autonomic inputs
+Blood-borne stimuli, including leptin, ghrelin, angiotensin, insulin, pituitary hormones, cytokines, plasma concentrations of glucose and osmolarity etc.
+Stress
+Invading microorganisms by increasing body temperature, resetting the body's thermostat upward.
+
+
+==== Olfactory stimuli ====
+Olfactory stimuli are important for sexual reproduction and neuroendocrine function in many species. 
+
+For instance if a pregnant mouse is exposed to the urine of a 'strange' male during a critical period after coitus then the pregnancy fails (the Bruce effect). 
+
+Thus, during coitus, a female mouse forms a precise 'olfactory memory' of her partner that persists for several days. 
+
+Pheromonal cues aid synchronization of oestrus in many species; in women, synchronized menstruation may also arise from pheromonal cues, although the role of pheromones in humans is disputed.
+
+
+==== Blood-borne stimuli ====
+Peptide hormones have important influences upon the hypothalamus, and to do so they must pass through the blood–brain barrier. 
+
+The hypothalamus is bounded in part by specialized brain regions that lack an effective blood–brain barrier; the capillary endothelium at these sites is fenestrated to allow free passage of even large proteins and other molecules. 
+
+Some of these sites are the sites of neurosecretion - the neurohypophysis and the median eminence. 
+
+However, others are sites at which the brain samples the composition of the blood. 
+
+Two of these sites, the SFO (subfornical organ) and the OVLT (organum vasculosum of the lamina terminalis) are so-called circumventricular organs, where neurons are in intimate contact with both blood and CSF. 
+
+These structures are densely vascularized, and contain osmoreceptive and sodium-receptive neurons that control drinking, vasopressin release, sodium excretion, and sodium appetite. 
+
+They also contain neurons with receptors for angiotensin, atrial natriuretic factor, endothelin and relaxin, each of which important in the regulation of fluid and electrolyte balance. 
+
+Neurons in the OVLT and SFO project to the supraoptic nucleus and paraventricular nucleus, and also to preoptic hypothalamic areas. 
+
+The circumventricular organs may also be the site of action of interleukins to elicit both fever and ACTH secretion, via effects on paraventricular neurons.It is not clear how all peptides that influence hypothalamic activity gain the necessary access. 
+
+In the case of prolactin and leptin, there is evidence of active uptake at the choroid plexus from the blood into the cerebrospinal fluid (CSF). 
+
+Some pituitary hormones have a negative feedback influence upon hypothalamic secretion; for example, growth hormone feeds back on the hypothalamus, but how it enters the brain is not clear. 
+
+There is also evidence for central actions of prolactin.Findings have suggested that thyroid hormone (T4) is taken up by the hypothalamic glial cells in the infundibular nucleus/ median eminence, and that it is here converted into T3 by the type 2 deiodinase (D2). 
+
+Subsequent to this, T3 is transported into the thyrotropin-releasing hormone (TRH)-producing neurons in the paraventricular nucleus. 
+
+Thyroid hormone receptors have been found in these neurons, indicating that they are indeed sensitive to T3 stimuli. 
+
+In addition, these neurons expressed MCT8, a thyroid hormone transporter, supporting the theory that T3 is transported into them. 
+
+T3 could then bind to the thyroid hormone receptor in these neurons and affect the production of thyrotropin-releasing hormone, thereby regulating thyroid hormone production.The hypothalamus functions as a type of thermostat for the body. 
+
+It sets a desired body temperature, and stimulates either heat production and retention to raise the blood temperature to a higher setting or sweating and vasodilation to cool the blood to a lower temperature. 
+
+All fevers result from a raised setting in the hypothalamus; elevated body temperatures due to any other cause are classified as hyperthermia. 
+
+Rarely, direct damage to the hypothalamus, such as from a stroke, will cause a fever; this is sometimes called a hypothalamic fever. 
+
+However, it is more common for such damage to cause abnormally low body temperatures.
+
+
+==== Steroids ====
+The hypothalamus contains neurons that react strongly to steroids and glucocorticoids – (the steroid hormones of the adrenal gland, released in response to ACTH). 
+
+It also contains specialized glucose-sensitive neurons (in the arcuate nucleus and ventromedial hypothalamus), which are important for appetite. 
+
+The preoptic area contains thermosensitive neurons; these are important for TRH secretion.
+
+
+==== Neural ====
+Oxytocin secretion in response to suckling or vagino-cervical stimulation is mediated by some of these pathways; vasopressin secretion in response to cardiovascular stimuli arising from chemoreceptors in the carotid body and aortic arch, and from low-pressure atrial volume receptors, is mediated by others. 
+
+In the rat, stimulation of the vagina also causes prolactin secretion, and this results in pseudo-pregnancy following an infertile mating. 
+
+In the rabbit, coitus elicits reflex ovulation. 
+
+In the sheep, cervical stimulation in the presence of high levels of estrogen can induce maternal behavior in a virgin ewe. 
+
+These effects are all mediated by the hypothalamus, and the information is carried mainly by spinal pathways that relay in the brainstem. 
+
+Stimulation of the nipples stimulates release of oxytocin and prolactin and suppresses the release of LH and FSH.
+Cardiovascular stimuli are carried by the vagus nerve. 
+
+The vagus also conveys a variety of visceral information, including for instance signals arising from gastric distension or emptying, to suppress or promote feeding, by signalling the release of leptin or gastrin, respectively. 
+
+Again this information reaches the hypothalamus via relays in the brainstem.
+In addition hypothalamic function is responsive to—and regulated by—levels of all three classical monoamine neurotransmitters, noradrenaline, dopamine, and serotonin (5-hydroxytryptamine), in those tracts from which it receives innervation. 
+
+For example, noradrenergic inputs arising from the locus coeruleus have important regulatory effects upon corticotropin-releasing hormone (CRH) levels.
+
+
+=== Control of food intake ===
+
+The extreme lateral part of the ventromedial nucleus of the hypothalamus is responsible for the control of food intake. 
+
+Stimulation of this area causes increased food intake. 
+
+Bilateral lesion of this area causes complete cessation of food intake. 
+
+Medial parts of the nucleus have a controlling effect on the lateral part. 
+
+Bilateral lesion of the medial part of the ventromedial nucleus causes hyperphagia and obesity of the animal. 
+
+Further lesion of the lateral part of the ventromedial nucleus in the same animal produces complete cessation of food intake.
+There are different hypotheses related to this regulation:
+Lipostatic hypothesis: This hypothesis holds that adipose tissue produces a humoral signal that is proportionate to the amount of fat and acts on the hypothalamus to decrease food intake and increase energy output. 
+
+It has been evident that a hormone leptin acts on the hypothalamus to decrease food intake and increase energy output.
+Gutpeptide hypothesis: gastrointestinal hormones like Grp, glucagons, CCK and others claimed to inhibit food intake. 
+
+The food entering the gastrointestinal tract triggers the release of these hormones, which act on the brain to produce satiety. 
+
+The brain contains both CCK-A and CCK-B receptors.
+Glucostatic hypothesis: The activity of the satiety center in the ventromedial nuclei is probably governed by the glucose utilization in the neurons. 
+
+It has been postulated that when their glucose utilization is low and consequently when the arteriovenous blood glucose difference across them is low, the activity across the neurons decrease. 
+
+Under these conditions, the activity of the feeding center is unchecked and the individual feels hungry. 
+
+Food intake is rapidly increased by intraventricular administration of 2-deoxyglucose therefore decreasing glucose utilization in cells.
+Thermostatic hypothesis: According to this hypothesis, a decrease in body temperature below a given set-point stimulates appetite, whereas an increase above the set-point inhibits appetite.
+
+
+=== Fear processing ===
+
+The medial zone of hypothalamus is part of a circuitry that controls motivated behaviors, like defensive behaviors. 
+
+Analyses of Fos-labeling showed that a series of nuclei in the "behavioral control column" is important in regulating the expression of innate and conditioned defensive behaviors.
+Antipredatory defensive behaviorExposure to a predator (such as a cat) elicits defensive behaviors in laboratory rodents, even when the animal has never been exposed to a cat. 
+
+In the hypothalamus, this exposure causes an increase in Fos-labeled cells in the anterior hypothalamic nucleus, the dorsomedial part of the ventromedial nucleus, and in the ventrolateral part of the premammillary nucleus (PMDvl). 
+
+The premammillary nucleus has an important role in expression of defensive behaviors towards a predator, since lesions in this nucleus abolish defensive behaviors, like freezing and flight. 
+
+The PMD does not modulate defensive behavior in other situations, as lesions of this nucleus had minimal effects on post-shock freezing scores. 
+
+The PMD has important connections to the dorsal periaqueductal gray, an important structure in fear expression. 
+
+In addition, animals display risk assessment behaviors to the environment previously associated with the cat. 
+
+Fos-labeled cell analysis showed that the PMDvl is the most activated structure in the hypothalamus, and inactivation with muscimol prior to exposure to the context abolishes the defensive behavior. 
+
+Therefore, the hypothalamus, mainly the PMDvl, has an important role in expression of innate and conditioned defensive behaviors to a predator.
+
+Social defeatLikewise, the hypothalamus has a role in social defeat: Nuclei in medial zone are also mobilized during an encounter with an aggressive conspecific. 
+
+The defeated animal has an increase in Fos levels in sexually dimorphic structures, such as the medial pre-optic nucleus, the ventrolateral part of ventromedial nucleus, and the ventral premammilary nucleus. 
+
+Such structures are important in other social behaviors, such as sexual and aggressive behaviors. 
+
+Moreover, the premammillary nucleus also is mobilized, the dorsomedial part but not the ventrolateral part. 
+
+Lesions in this nucleus abolish passive defensive behavior, like freezing and the "on-the-back" posture.
+
+
+
+https://en.wikipedia.org/wiki/Hypothalamus

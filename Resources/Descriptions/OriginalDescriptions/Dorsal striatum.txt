@@ -1,0 +1,251 @@
+
+
+STRIATUM
+
+
+The striatum, or corpus striatum (also called the striate nucleus), is a nucleus (a cluster of neurons) in the subcortical basal ganglia of the forebrain. 
+
+The striatum is a critical component of the motor and reward systems; receives glutamatergic and dopaminergic inputs from different sources; and serves as the primary input to the rest of the basal ganglia.
+
+Functionally, the striatum coordinates multiple aspects of cognition, including both motor and action planning, decision-making, motivation, reinforcement, and reward perception. 
+
+The striatum is made up of the caudate nucleus and the lentiform nucleus. 
+
+The lentiform nucleus is made up of the larger putamen, and the smaller globus pallidus. 
+
+Strictly speaking the globus pallidus is part of the striatum. 
+
+It is common practice, however, to implicitly exclude the globus pallidus when referring to striatal structures.
+
+In primates, the striatum is divided into a ventral striatum, and a dorsal striatum, subdivisions that are based upon function and connections. 
+
+The ventral striatum consists of the nucleus accumbens and the olfactory tubercle. 
+
+The dorsal striatum consists of the caudate nucleus and the putamen. 
+
+A white matter, nerve tract (the internal capsule) in the dorsal striatum separates the caudate nucleus and the putamen. 
+
+Anatomically, the term striatum describes its striped (striated) appearance of grey-and-white matter.
+
+
+== Structure ==
+
+The striatum is the largest structure of the basal ganglia. 
+
+The striatum is divided into a ventral and a dorsal subdivision, based upon function and connections.
+
+The ventral striatum is composed of the nucleus accumbens and the olfactory tubercle. 
+
+The nucleus accumbens is made up of the nucleus accumbens core and the nucleus accumbens shell, which differ by neural populations. 
+
+The olfactory tubercle receives input from the olfactory bulb but has not been shown to play a role in processing smell. 
+
+In non-primate species, the islands of Calleja are included. 
+
+The ventral striatum is associated with the limbic system and has been implicated as a vital part of the circuitry for decision making and reward-related behavior.
+
+The dorsal striatum is composed of the caudate nucleus and the putamen.
+
+Staining can differentiate the striatum into two distinct compartments of striosomes or patches, and a surrounding matrix; this is particularly evident on the components of acetylcholinesterase and calbindin. 
+
+More studies have been carried out on the dorsal striatum but the compartments have also been identified in the ventral striatum. 
+
+In the dorsal striatum striosomes make up 10-15 per cent of the striatal volume.
+
+
+=== Cell types ===
+
+Types of cells in the striatum include:
+
+Medium spiny neurons (MSNs), which are the principal neurons of the striatum. 
+
+They are GABAergic and, thus, are classified as inhibitory neurons. 
+
+Medium spiny projection neurons comprise 95% of the total neuronal population of the human striatum. 
+
+Medium spiny neurons have two characteristic types: D1-type MSNs and D2-type MSNs. 
+
+A subpopulation of MSNs contain both D1-type and D2-type receptors, with approximately 40% of striatal MSNs expressing both DRD1 and DRD2 mRNA.
+
+Cholinergic interneurons release acetylcholine, which has a variety of important effects in the striatum. 
+
+In humans, other primates, and rodents, these interneurons respond to salient environmental stimuli with stereotyped responses that are temporally aligned with the responses of dopaminergic neurons of the substantia nigra. 
+
+The large aspiny cholinergic interneurons themselves are affected by dopamine through D5 dopamine receptors. 
+
+Dopamine also directly controls communication between cholinergic interneurons.
+There are many types of GABAergic interneurons. 
+
+The best known are parvalbumin expressing interneurons, also known as fast-spiking interneurons, which participate in powerful feedforward inhibition of principal neurons. 
+
+Also, there are GABAergic interneurons that express tyrosine hydroxylase, somatostatin, nitric oxide synthase and neuropeptide-y. 
+
+Recently, two types of neuropeptide-y expressing GABAergic interneurons have been described in detail, one of which translates synchronous activity of cholinergic interneurons into inhibition of principal neurons. 
+
+These neurons of the striatum are not distributed evenly.There are two regions of neurogenesis in the brain – the subventricular zone in the lateral ventricles, and the dentate gyrus in the hippocampal formation. 
+
+Neuroblasts that form in the lateral ventricle adjacent to the striatum, integrate in the striatum. 
+
+This has been noted in the human striatum following an ischemic stroke. 
+
+Injury caused to the striatum stimulates the migration of neuroblasts from the subventricular zone, to the striatum, where they differentiate into adult neurons. 
+
+The normal passage of SVZ neuroblasts is to the olfactory bulb but this traffic is diverted to the striatum after an ischemic stroke. 
+
+However, few of the new developed neurons survive.
+
+
+=== Inputs ===
+
+ The largest connection is from the cortex, in terms of cell axons. 
+
+Many parts of the neocortex innervate the dorsal striatum. 
+
+The cortical pyramidal neurons projecting to the striatum are located in layers II-VI, with the most dense projections come from layer V. 
+
+They end mainly on the dendritic spines of the spiny neurons. 
+
+They are glutamatergic, exciting striatal neurons.
+The striatum is seen as having its own internal microcircuitry. 
+
+The ventral striatum receives direct input from multiple regions in the cerebral cortex and limbic structures such as the amygdala, thalamus, and hippocampus, as well as the entorhinal cortex and the inferior temporal gyrus. 
+
+Its primary input is to the basal ganglia system. 
+
+Additionally, the mesolimbic pathway projects from the ventral tegmental area to the nucleus accumbens of the ventral striatum.
+
+Another well-known afferent is the nigrostriatal connection arising from the neurons of the substantia nigra pars compacta. 
+
+While cortical axons synapse mainly on spine heads of spiny neurons, nigral axons synapse mainly on spine shafts.
+
+In primates, the thalamostriatal afferent comes from the central median-parafascicular complex of the thalamus (see primate basal ganglia system). 
+
+This afferent is glutamatergic. 
+
+The participation of truly intralaminar neurons is much more limited.
+
+The striatum also receives afferents from other elements of the basal ganglia such as the subthalamic nucleus (glutamatergic) or the external globus pallidus (GABAergic).
+
+
+=== Targets ===
+
+The primary outputs of the ventral striatum project to the ventral pallidum, then the medial dorsal nucleus of the thalamus, which is part of the frontostriatal circuit. 
+
+Additionally, the ventral striatum projects to the globus pallidus, and substantia nigra pars reticulata. 
+
+Some of its other outputs include projections to the extended amygdala, lateral hypothalamus, and pedunculopontine nucleus.
+
+Striatal outputs from both the dorsal and ventral components are primarily composed of medium spiny neurons (MSNs), a type of projection neuron, which have two primary phenotypes: 
+    
+    "indirect" MSNs that express D2-like receptors and "direct" MSNs that express D1-like receptors.
+    
+    The main nucleus of the basal ganglia is the striatum which projects directly to the globus pallidus via a pathway of striatopallidal fibers. 
+
+The striato-pallidal pathway has a whitish appearance due to the myelinated fibers. 
+
+This projection comprises successively the external globus pallidus (GPe), the internal globus pallidus (GPi), the pars compacta of the substantia nigra (SNc), and the pars reticulata of substantia nigra (SNr). 
+
+The neurons of this projection are inhibited by GABAergic synapses from the dorsal striatum. 
+
+Among these targets, the GPe does not send axons outside the system. 
+
+Others send axons to the superior colliculus. 
+
+Two others comprise the output to the thalamus, forming two separate channels: one through the internal segment of the globus pallidus to the ventral oralis nuclei of the thalamus and from there to the cortical supplementary motor area and another through the substantia nigra to the ventral anterior nuclei of the thalamus and from there to the frontal cortex and the occulomotor cortex.
+
+
+=== Blood supply ===
+
+Deep penetrating striate arteries supply blood to the striatum. 
+
+These arteries include the recurrent artery of Heubner arising from the anterior cerebral artery, and the lenticulostriate arteries arising from the middle cerebral artery.
+
+
+== Function ==
+
+The ventral striatum, and the nucleus accumbens in particular, primarily mediates reward, cognition, reinforcement, and motivational salience, whereas the dorsal striatum primarily mediates cognition involving motor function, certain executive functions (e.g., inhibitory control and impulsivity), and stimulus-response learning; there is a small degree of overlap, as the dorsal striatum is also a component of the reward system that, along with the nucleus accumbens core, mediates the encoding of new motor programs associated with future reward acquisition (e.g., the conditioned motor response to a reward cue).Metabotropic dopamine receptors are present both on spiny neurons and on cortical axon terminals. 
+
+Second messenger cascades triggered by activation of these dopamine receptors can modulate pre- and postsynaptic function, both in the short term and in the long term. 
+
+In humans, the striatum is activated by stimuli associated with reward, but also by aversive, novel, unexpected, or intense stimuli, and cues associated with such events. 
+
+fMRI evidence suggests that the common property linking these stimuli, to which the striatum is reacting, is salience under the conditions of presentation. 
+
+A number of other brain areas and circuits are also related to reward, such as frontal areas. 
+
+Functional maps of the striatum reveal interactions with widely distributed regions of the cerebral cortex important to a diverse range of functions.
+
+The interplay between the striatum and the prefrontal cortex is relevant for behavior, particularly adolescent development as proposed by the dual systems model.
+
+
+== Clinical significance ==
+
+
+
+=== Parkinson's disease and other movement disorders ===
+
+Parkinson's disease results in loss of dopaminergic innervation to the dorsal striatum (and other basal ganglia) and a cascade of consequences. 
+
+Atrophy of the striatum is also involved in Huntington's disease, and movement disorders such as chorea, choreoathetosis, and dyskinesias. 
+
+These have also been described as circuit disorders of the basal ganglia.
+
+
+=== Addiction ===
+
+Addiction, a disorder of the brain's reward system, arises through the overexpression of DeltaFosB (ΔFosB), a transcription factor, in the D1-type medium spiny neurons of the ventral striatum. 
+
+ΔFosB is an inducible gene which is increasingly expressed in the nucleus accumbens as a result of repeatedly overdosing on an addictive drug or overexposure to other addictive stimuli.
+
+
+=== Bipolar disorder ===
+
+An association has been observed between striatal expression of variants of the PDE10A gene and some bipolar I disorder patients. 
+
+Variants of other genes, DISC1 and GNAS, have been associated with bipolar II disorder.
+
+
+=== Autism spectrum disorder ===
+
+Autism spectrum disorder (ASD) is characterized by cognitive inflexibility and poor understanding of social systems. 
+
+This inflexible behavior originates in defects in the pre-frontal cortex as well as the striatal circuits. 
+
+The defects in the striatum seem to specifically contribute to the motor, social and communication impairments seen in ASD patients. 
+
+In mice which have an ASD-like phenotype induced via the overexpression of the eukaryotic initiation of translation factor 4E, it has been shown that these defects seem to stem from the reduced ability to store and process information in the striatum, which leads to the difficulty seen in forming new motor patterns, as well as disengaging from existing ones.
+
+
+=== Dysfunction ===
+
+Dysfunction in the ventral striatum can lead to a variety of disorders, most notably, depression and obsessive-compulsive disorder. 
+
+Because of its involvement in reward pathways, the ventral striatum has also been implicated in playing a critical role in addiction. 
+
+It has been well established that the ventral striatum is strongly involved in mediating the reinforcing effects of drugs, especially stimulants, through dopaminergic stimulation.
+
+
+== History ==
+
+In the seventeenth and eighteenth centuries, the term "corpus striatum" was used to designate many distinct, deep, infracortical elements of the hemisphere. 
+
+Etymologically it is derived from (Latin) "striatus" = "grooved, striated" and the English "striated" = having parallel lines or grooves on the surface. 
+
+In 1941, Cécile and Oskar Vogt simplified the nomenclature by proposing the term striatum for all elements in the basal ganglia built with striatal elements: 
+    
+    the caudate nucleus, the putamen, and the fundus striati, which is the ventral part linking the two preceding together ventrally to the inferior part of the internal capsule.
+
+The term neostriatum was forged by comparative anatomists comparing the subcortical structures between vertebrates, because it was thought to be a phylogenetically newer section of the corpus striatum. 
+
+The term is still used by some sources, including Medical Subject Headings.
+
+
+== Other animals ==
+
+In birds the term used was the paleostriatum augmentatum, and in the new avian terminology listing (as of 2002) for neostriatum this has been changed to the nidopallium.
+
+In non-primate species, the islands of Calleja are included in the ventral striatum.
+
+
+
+https://en.wikipedia.org/wiki/Striatum

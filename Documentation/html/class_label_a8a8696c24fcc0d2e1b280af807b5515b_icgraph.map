@@ -1,0 +1,4 @@
+<map id="Label.SetText" name="Label.SetText">
+<area shape="rect" id="node1" title="Sets the text of the label." alt="" coords="157,5,260,31"/>
+<area shape="rect" id="node2" href="$class_label.html#a05a06d161ed313fa2c159b218870a9ab" title="Initializes the Label component, setting its properties and text value." alt="" coords="5,5,109,31"/>
+</map>

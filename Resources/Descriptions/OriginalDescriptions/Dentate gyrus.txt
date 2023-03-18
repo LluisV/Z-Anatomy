@@ -1,0 +1,163 @@
+
+
+DENTATE GYRUS
+
+
+The dentate gyrus (DG) is part of the hippocampal formation in the temporal lobe of the brain, which also includes the hippocampus and the subiculum. 
+
+The dentate gyrus is part of the hippocampal trisynaptic circuit and is thought to contribute to the formation of new episodic memories, the spontaneous exploration of novel environments and other functions.It is notable as being one of a select few brain structures known to have significant rates of adult neurogenesis in many species of mammals, from rodents to primates. 
+
+Other sites of adult neurogenesis include the subventricular zone, the striatum and the cerebellum. 
+
+However, whether significant neurogenesis exists in the adult human dentate gyrus has been a matter of debate. 2019 evidence has shown that adult neurogenesis does take place in the subventricular zone and in the subgranular zone of the dentate gyrus.
+
+
+== Structure ==
+
+
+The dentate gyrus, like the hippocampus, consists of three distinct layers: an outer molecular layer, a middle granule cell layer, and an inner polymorphic layer. (In the hippocampus the outer layer is the molecular layer, the middle layer is the pyramidal layer, and the inner layer the stratum oriens). 
+
+The polymorphic layer is also the hilus of the dentate gyrus, (CA4, the junction of the hippocampus and dentate gyrus).The granule layer is between the overlying molecular layer and the underlying hilus (polymorphic layer).
+The granule cells of the granule layer project their axons known as mossy fibers to make excitatory synapses on the dendrites of CA3 pyramidal neurons. 
+
+The granule cells are tightly packed together in a laminated manner that dampens the excitability of neurons.Some of the basal dendrites of the granule cells curve up into the molecular layer. 
+
+Most basal dendrites enter the hilus. 
+
+These hilar dendrites are shorter and thinner, and have fewer side branches.A second excitatory cell type in the hilus is the mossy cell, that projects its axons widely along the septotemporal axis, (running from the septal area to the temporal lobe) with the ipsilateral projection skipping the first 1–2 mm near the cell bodies, an unusual configuration, hypothesized to prepare a set of cell assemblies in CA3 for a data retrieval role, by randomizing their cell distribution.Between the hilus and the granule cell layer is a region called the subgranular zone which is a site of adult neurogenesis.The anteromedial continuation of the dentate gyrus is called the tail of the dentate gyrus, or the band of Giacomini. 
+
+Most of the dentate gyrus is not exposed on the surface of the brain but the band of Giacomini is visible, and makes an important landmark of the inferior surface of the uncus.
+
+
+=== Trisynaptic circuit ===
+
+The trisynaptic circuit consists of excitatory cells (mostly stellate cells) in layer II of the entorhinal cortex, projecting to the granule cell layer of the dentate gyrus via the perforant path. 
+
+The dentate gyrus receives no direct inputs from other cortical structures. 
+
+The perforant path is divided into the medial and lateral perforant paths, generated, respectively, at the medial and lateral portions of the entorhinal cortex. 
+
+The medial perforant path synapses onto the proximal dendritic area of the granule cells, whereas the lateral perforant path does so onto their distal dendrites. 
+
+Most lateral views of the dentate gyrus may appear to suggest a structure consisting of just one entity, but medial movement may provide evidence of the ventral and dorsal parts of the dentate gyrus. 
+
+The axons of the granule cells called mossy fibres, make excitatory synaptic connections with the pyramidal cells of CA3 and CA1.
+
+
+== Development ==
+
+The granule cells in the dentate gyrus are distinguished by their late time of formation during brain development. 
+
+In rats, approximately 85% of the granule cells are generated after birth. 
+
+In humans, it is estimated that granule cells begin to be generated during gestation weeks 10.5 to 11, and continue being generated during the second and third trimesters, after birth and all the way into adulthood. 
+
+The germinal sources of granule cells and their migration pathways have been studied during rat brain development. 
+
+The oldest granule cells are generated in a specific region of the hippocampal neuroepithelium and migrate into the primordial dentate gyrus around embryonic days (E) 17/18, and then settle as the outermost cells in the forming granular layer. 
+
+Next, dentate precursor cells move out of this same area of the hippocampal neuroepithelium and, retaining their mitotic capacity, invade the hilus (core) of the forming dentate gyrus. 
+
+This dispersed germinal matrix is the source of granule cells from that point on. 
+
+The newly generated granule cells accumulate under the older cells that began to settle in the granular layer. 
+
+As more granule cells are produced, the layer thickens and the cells are stacked up according to age - the oldest being the most superficial and the youngest being deeper. 
+
+The granule cell precursors remain in a subgranular zone that becomes progressively thinner as the dentate gyrus grows, but these precursor cells are retained in adult rats. 
+
+These sparsely scattered cells constantly generate granule cell neurons, which add to the total population. 
+
+There are a variety of other differences in the rat, monkey and human dentate gyrus. 
+
+The granule cells only have apical dendrites in the rat. 
+
+But in the monkey and human, many granule cells also have basal dendrites.
+
+
+== Function ==
+
+
+The dentate gyrus is thought to contribute to the formation of memories, and to play a role in depression.
+The role of the hippocampus in learning and memory has been studied for many decades particularly since the late 1950s, following the results of surgery, in an American male, to remove most of the hippocampus. 
+
+It remains unclear how the hippocampus enables new memory formation, but one process, called long term potentiation (LTP), occurs in this brain region. 
+
+LTP involves long-lasting strengthening of synaptic connections after repeated stimulation. 
+
+While the dentate gyrus shows LTP, it is also one of the few regions of the mammalian brain where adult neurogenesis (the formation of new neurons) takes place. 
+
+Some studies hypothesize that new memories could preferentially use newly formed granule cells of the dentate gyrus, providing a potential mechanism for distinguishing multiple instances of similar events or multiple visits to the same location. 
+
+Correspondingly, it has been proposed that the immature, newborn granule cells are receptive to form new synaptic connections with the axons arriving from the layer II of the entorhinal cortex, this way a particular new constellation of events is remembered as an episodic memory by first associating the events in the young granule cells that have the appropriate, permissive age. 
+
+This concept is reinforced by the fact that increased neurogenesis is associated with improved spatial memory in rodents, as seen through performance in a maze.The dentate gyrus is known to serve as a pre-processing unit. 
+
+While the CA3 subfield is involved in encoding, storage, and retrieval of memory, the dentate gyrus is important in pattern separation. 
+
+When information enters via the perforant path, the dentate gyrus separates very similar information into distinct and unique details. 
+
+This ensures that new memories are encoded separately without input from previously stored memories of similar feature, and prepares the relevant data for storage in the CA3 region. 
+
+Pattern separation gives the ability to differentiate one memory from other stored memories. 
+
+Pattern separation begins in the dentate gyrus. 
+
+Granule cells in the dentate gyrus process sensory information using competitive learning, and relay a preliminary representation to form place fields. 
+
+Place fields are extremely specific, as they are capable of remapping and adjusting firing rates in response to subtle sensory signal changes. 
+
+This specificity is critical for pattern separation, as it distinguishes memories from one another.The dentate gyrus shows a specific form of neural plasticity resulting from the ongoing integration of newly formed excitatory granule cells.
+
+
+== Clinical significance ==
+
+
+
+=== Memory ===
+
+One of the most prominent early cases of anterograde amnesia (inability to form new memories) linking the hippocampus to memory formation was the case of Henry Molaison (anonymously known as Patient H.M. until his death in 2008). 
+
+His epilepsy was treated with surgical removal of his hippocampi (left and right hemispheres each have their own hippocampus) as well as some surrounding tissue. 
+
+This targeted brain tissue removal left Mr. 
+
+Molaison with an inability to form new memories, and the hippocampus has been thought critical to memory formation since that time, though the processes involved are unclear.
+
+
+=== Stress and depression ===
+
+The dentate gyrus may also have a functional role in stress and depression. 
+
+For instance, in the rat, neurogenesis has been found to increase in response to chronic treatment with antidepressants. 
+
+The physiological effects of stress, often characterized by release of glucocorticoids such as cortisol, as well as activation of the sympathetic nervous system (a division of the autonomic nervous system), have been shown to inhibit the process of neurogenesis in primates. 
+
+Both endogenous and exogenous glucocorticoids are known to cause psychosis and depression, implying that neurogenesis in the dentate gyrus may play an important role in modulating symptoms of stress and depression.
+
+
+=== Blood sugar ===
+
+Studies by researchers at Columbia University Medical Center indicate that poor glucose control can lead to deleterious effects on the dentate gyrus, resulting in memory decline.
+
+
+=== Other ===
+
+Some evidence seen in the mouse suggests that neurogenesis in the dentate gyrus increases in response to aerobic exercise. 
+
+Several experiments have shown neurogenesis (the development of nerve tissues) often increases in the dentate gyrus of adult rodents when they are exposed to an enriched environment.Mutations in a synapse-associated protein SAP97, a scaffold protein in the dentate gyrus might play a role in the susceptibility for schizophrenia.
+
+
+=== Spatial behavior ===
+
+Studies have shown that after having about 90% of their dentate gyrus cells destroyed, rats had extreme difficulty in maneuvering through a maze they had previously negotiated. 
+
+When being tested a number of times to see whether they could learn a maze, the results showed that the rats did not improve at all, indicating that their working memories were severely impaired. 
+
+Rats had trouble with place strategies because they could not consolidate learned information about a maze into their working memory, and, thus, could not remember it when maneuvering through the same maze in a later trial. 
+
+Every time a rat entered the maze, the rat behaved as if it was seeing the maze for the first time.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_gyrus

@@ -1,0 +1,660 @@
+
+
+DENTATE GYRUS
+
+
+The dentate gyrus (DG) is part of the hippocampal formation in the temporal lobe of the brain, which also includes the hippocampus and the subiculum. 
+
+The dentate gyrus is part of the hippocampal trisynaptic circuit and is thought to contribute to the formation of new episodic memories, the spontaneous exploration of novel environments and other functions.It is notable as being one of a select few brain structures known to have significant rates of adult neurogenesis in many species of mammals, from rodents to primates. 
+
+Other sites of adult neurogenesis include the subventricular zone, the striatum and the cerebellum. 
+
+However, whether significant neurogenesis exists in the adult human dentate gyrus has been a matter of debate. 2019 evidence has shown that adult neurogenesis does take place in the subventricular zone and in the subgranular zone of the dentate gyrus.
+
+
+== Structure ==
+
+
+The dentate gyrus, like the hippocampus, consists of three distinct layers: an outer molecular layer, a middle granule cell layer, and an inner polymorphic layer. (In the hippocampus the outer layer is the molecular layer, the middle layer is the pyramidal layer, and the inner layer the stratum oriens). 
+
+The polymorphic layer is also the hilus of the dentate gyrus, (CA4, the junction of the hippocampus and dentate gyrus).The granule layer is between the overlying molecular layer and the underlying hilus (polymorphic layer).
+The granule cells of the granule layer project their axons known as mossy fibers to make excitatory synapses on the dendrites of CA3 pyramidal neurons. 
+
+The granule cells are tightly packed together in a laminated manner that dampens the excitability of neurons.Some of the basal dendrites of the granule cells curve up into the molecular layer. 
+
+Most basal dendrites enter the hilus. 
+
+These hilar dendrites are shorter and thinner, and have fewer side branches.A second excitatory cell type in the hilus is the mossy cell, that projects its axons widely along the septotemporal axis, (running from the septal area to the temporal lobe) with the ipsilateral projection skipping the first 1–2 mm near the cell bodies, an unusual configuration, hypothesized to prepare a set of cell assemblies in CA3 for a data retrieval role, by randomizing their cell distribution.Between the hilus and the granule cell layer is a region called the subgranular zone which is a site of adult neurogenesis.The anteromedial continuation of the dentate gyrus is called the tail of the dentate gyrus, or the band of Giacomini. 
+
+Most of the dentate gyrus is not exposed on the surface of the brain but the band of Giacomini is visible, and makes an important landmark of the inferior surface of the uncus.
+
+
+=== Trisynaptic circuit ===
+
+The trisynaptic circuit consists of excitatory cells (mostly stellate cells) in layer II of the entorhinal cortex, projecting to the granule cell layer of the dentate gyrus via the perforant path. 
+
+The dentate gyrus receives no direct inputs from other cortical structures. 
+
+The perforant path is divided into the medial and lateral perforant paths, generated, respectively, at the medial and lateral portions of the entorhinal cortex. 
+
+The medial perforant path synapses onto the proximal dendritic area of the granule cells, whereas the lateral perforant path does so onto their distal dendrites. 
+
+Most lateral views of the dentate gyrus may appear to suggest a structure consisting of just one entity, but medial movement may provide evidence of the ventral and dorsal parts of the dentate gyrus. 
+
+The axons of the granule cells called mossy fibres, make excitatory synaptic connections with the pyramidal cells of CA3 and CA1.
+
+
+== Development ==
+
+The granule cells in the dentate gyrus are distinguished by their late time of formation during brain development. 
+
+In rats, approximately 85% of the granule cells are generated after birth. 
+
+In humans, it is estimated that granule cells begin to be generated during gestation weeks 10.5 to 11, and continue being generated during the second and third trimesters, after birth and all the way into adulthood. 
+
+The germinal sources of granule cells and their migration pathways have been studied during rat brain development. 
+
+The oldest granule cells are generated in a specific region of the hippocampal neuroepithelium and migrate into the primordial dentate gyrus around embryonic days (E) 17/18, and then settle as the outermost cells in the forming granular layer. 
+
+Next, dentate precursor cells move out of this same area of the hippocampal neuroepithelium and, retaining their mitotic capacity, invade the hilus (core) of the forming dentate gyrus. 
+
+This dispersed germinal matrix is the source of granule cells from that point on. 
+
+The newly generated granule cells accumulate under the older cells that began to settle in the granular layer. 
+
+As more granule cells are produced, the layer thickens and the cells are stacked up according to age - the oldest being the most superficial and the youngest being deeper. 
+
+The granule cell precursors remain in a subgranular zone that becomes progressively thinner as the dentate gyrus grows, but these precursor cells are retained in adult rats. 
+
+These sparsely scattered cells constantly generate granule cell neurons, which add to the total population. 
+
+There are a variety of other differences in the rat, monkey and human dentate gyrus. 
+
+The granule cells only have apical dendrites in the rat. 
+
+But in the monkey and human, many granule cells also have basal dendrites.
+
+
+== Function ==
+
+
+The dentate gyrus is thought to contribute to the formation of memories, and to play a role in depression.
+The role of the hippocampus in learning and memory has been studied for many decades particularly since the late 1950s, following the results of surgery, in an American male, to remove most of the hippocampus. 
+
+It remains unclear how the hippocampus enables new memory formation, but one process, called long term potentiation (LTP), occurs in this brain region. 
+
+LTP involves long-lasting strengthening of synaptic connections after repeated stimulation. 
+
+While the dentate gyrus shows LTP, it is also one of the few regions of the mammalian brain where adult neurogenesis (the formation of new neurons) takes place. 
+
+Some studies hypothesize that new memories could preferentially use newly formed granule cells of the dentate gyrus, providing a potential mechanism for distinguishing multiple instances of similar events or multiple visits to the same location. 
+
+Correspondingly, it has been proposed that the immature, newborn granule cells are receptive to form new synaptic connections with the axons arriving from the layer II of the entorhinal cortex, this way a particular new constellation of events is remembered as an episodic memory by first associating the events in the young granule cells that have the appropriate, permissive age. 
+
+This concept is reinforced by the fact that increased neurogenesis is associated with improved spatial memory in rodents, as seen through performance in a maze.The dentate gyrus is known to serve as a pre-processing unit. 
+
+While the CA3 subfield is involved in encoding, storage, and retrieval of memory, the dentate gyrus is important in pattern separation. 
+
+When information enters via the perforant path, the dentate gyrus separates very similar information into distinct and unique details. 
+
+This ensures that new memories are encoded separately without input from previously stored memories of similar feature, and prepares the relevant data for storage in the CA3 region. 
+
+Pattern separation gives the ability to differentiate one memory from other stored memories. 
+
+Pattern separation begins in the dentate gyrus. 
+
+Granule cells in the dentate gyrus process sensory information using competitive learning, and relay a preliminary representation to form place fields. 
+
+Place fields are extremely specific, as they are capable of remapping and adjusting firing rates in response to subtle sensory signal changes. 
+
+This specificity is critical for pattern separation, as it distinguishes memories from one another.The dentate gyrus shows a specific form of neural plasticity resulting from the ongoing integration of newly formed excitatory granule cells.
+
+
+== Clinical significance ==
+
+
+
+=== Memory ===
+
+One of the most prominent early cases of anterograde amnesia (inability to form new memories) linking the hippocampus to memory formation was the case of Henry Molaison (anonymously known as Patient H.M. until his death in 2008). 
+
+His epilepsy was treated with surgical removal of his hippocampi (left and right hemispheres each have their own hippocampus) as well as some surrounding tissue. 
+
+This targeted brain tissue removal left Mr. 
+
+Molaison with an inability to form new memories, and the hippocampus has been thought critical to memory formation since that time, though the processes involved are unclear.
+
+
+=== Stress and depression ===
+
+The dentate gyrus may also have a functional role in stress and depression. 
+
+For instance, in the rat, neurogenesis has been found to increase in response to chronic treatment with antidepressants. 
+
+The physiological effects of stress, often characterized by release of glucocorticoids such as cortisol, as well as activation of the sympathetic nervous system (a division of the autonomic nervous system), have been shown to inhibit the process of neurogenesis in primates. 
+
+Both endogenous and exogenous glucocorticoids are known to cause psychosis and depression, implying that neurogenesis in the dentate gyrus may play an important role in modulating symptoms of stress and depression.
+
+
+=== Blood sugar ===
+
+Studies by researchers at Columbia University Medical Center indicate that poor glucose control can lead to deleterious effects on the dentate gyrus, resulting in memory decline.
+
+
+=== Other ===
+
+Some evidence seen in the mouse suggests that neurogenesis in the dentate gyrus increases in response to aerobic exercise. 
+
+Several experiments have shown neurogenesis (the development of nerve tissues) often increases in the dentate gyrus of adult rodents when they are exposed to an enriched environment.Mutations in a synapse-associated protein SAP97, a scaffold protein in the dentate gyrus might play a role in the susceptibility for schizophrenia.
+
+
+=== Spatial behavior ===
+
+Studies have shown that after having about 90% of their dentate gyrus cells destroyed, rats had extreme difficulty in maneuvering through a maze they had previously negotiated. 
+
+When being tested a number of times to see whether they could learn a maze, the results showed that the rats did not improve at all, indicating that their working memories were severely impaired. 
+
+Rats had trouble with place strategies because they could not consolidate learned information about a maze into their working memory, and, thus, could not remember it when maneuvering through the same maze in a later trial. 
+
+Every time a rat entered the maze, the rat behaved as if it was seeing the maze for the first time.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_gyrus
+;;;ES;;;
+
+
+
+GIRO DENTADO
+
+
+El giro dentado (DG) es parte de la formación del hipocampo en el lóbulo temporal del cerebro, que también incluye el hipocampo y el subículo.
+
+El giro dentado es parte del circuito trisináptico del hipocampo y se cree que contribuye a la formación de nuevos recuerdos episódicos, la exploración espontánea de nuevos entornos y otras funciones. Se destaca por ser una de las pocas estructuras cerebrales seleccionadas que se sabe que tienen tasas significativas. de la neurogénesis adulta en muchas especies de mamíferos, desde roedores hasta primates.
+
+Otros sitios de neurogénesis adulta incluyen la zona subventricular, el cuerpo estriado y el cerebelo.
+
+Sin embargo, si existe una neurogénesis significativa en la circunvolución dentada humana adulta ha sido un tema de debate. La evidencia de 2019 ha demostrado que la neurogénesis adulta tiene lugar en la zona subventricular y en la zona subgranular de la circunvolución dentada.
+
+
+== Estructura ==
+
+
+La circunvolución dentada, como el hipocampo, consta de tres capas distintas: una capa molecular externa, una capa de células granulares intermedias y una capa polimórfica interna. (En el hipocampo, la capa externa es la capa molecular, la capa intermedia es la capa piramidal y la capa interna es el estrato oriens).
+
+La capa polimórfica es también el hilio de la circunvolución dentada (CA4, la unión del hipocampo y la circunvolución dentada). La capa de gránulos se encuentra entre la capa molecular suprayacente y el hilio subyacente (capa polimórfica).
+Las células granulares de la capa granular proyectan sus axones conocidos como fibras musgosas para hacer sinapsis excitatorias en las dendritas de las neuronas piramidales CA3.
+
+Las células granulares están apretadamente juntas de una manera laminada que amortigua la excitabilidad de las neuronas. Algunas de las dendritas basales de las células granulares se curvan hacia arriba en la capa molecular.
+
+La mayoría de las dendritas basales entran en el hilio.
+
+Estas dendritas hiliares son más cortas y delgadas, y tienen menos ramas laterales. Un segundo tipo de célula excitadora en el hilio es la célula musgosa, que proyecta sus axones ampliamente a lo largo del eje septotemporal (desde el área septal hasta el lóbulo temporal) con el proyección ipsolateral saltando los primeros 1–2 mm cerca de los cuerpos celulares, una configuración inusual, hipotéticamente para preparar un conjunto de ensamblajes celulares en CA3 para una función de recuperación de datos, al aleatorizar su distribución celular. Entre el hilio y la capa de células granulares hay un región denominada zona subgranular, que es un sitio de neurogénesis adulta. La continuación anteromedial de la circunvolución dentada se denomina cola de la circunvolución dentada o banda de Giacomini.
+
+La mayor parte de la circunvolución dentada no está expuesta en la superficie del cerebro, pero la banda de Giacomini es visible y constituye una marca importante de la superficie inferior del uncus.
+
+
+=== circuito trisináptico ===
+
+El circuito trisináptico consta de células excitatorias (principalmente células estrelladas) en la capa II de la corteza entorrinal, que se proyectan hacia la capa de células granulares de la circunvolución dentada a través de la vía perforante.
+
+La circunvolución dentada no recibe información directa de otras estructuras corticales.
+
+La vía perforante se divide en vías perforantes medial y lateral, generadas, respectivamente, en las porciones medial y lateral de la corteza entorrinal.
+
+La vía perforante medial hace sinapsis con el área dendrítica proximal de las células granulares, mientras que la vía perforante lateral lo hace con sus dendritas distales.
+
+La mayoría de las vistas laterales de la circunvolución dentada pueden parecer que sugieren una estructura que consta de una sola entidad, pero el movimiento medial puede proporcionar evidencia de las partes ventral y dorsal de la circunvolución dentada.
+
+Los axones de las células granulares, llamadas fibras musgosas, establecen conexiones sinápticas excitatorias con las células piramidales de CA3 y CA1.
+
+
+== Desarrollo ==
+
+Las células granulares de la circunvolución dentada se distinguen por su formación tardía durante el desarrollo del cerebro.
+
+En ratas, aproximadamente el 85 % de las células granulares se generan después del nacimiento.
+
+En humanos, se estima que las células granulares comienzan a generarse durante las semanas 10,5 a 11 de gestación, y continúan generándose durante el segundo y tercer trimestre, después del nacimiento y hasta la edad adulta.
+
+Las fuentes germinales de las células granulares y sus vías de migración se han estudiado durante el desarrollo del cerebro de rata.
+
+Las células granulares más antiguas se generan en una región específica del neuroepitelio del hipocampo y migran hacia la circunvolución dentada primordial alrededor de los días embrionarios (E) 17/18, y luego se asientan como las células más externas en la capa granular en formación.
+
+A continuación, las células precursoras dentadas salen de esta misma área del neuroepitelio del hipocampo y, conservando su capacidad mitótica, invaden el hilio (núcleo) de la circunvolución dentada en formación.
+
+Esta matriz germinal dispersa es la fuente de células granulares a partir de ese momento.
+
+Las células granulares recién generadas se acumulan debajo de las células más viejas que comenzaron a asentarse en la capa granular.
+
+A medida que se producen más células granulares, la capa se espesa y las células se apilan según la edad, siendo las más antiguas las más superficiales y las más jóvenes las más profundas.
+
+Los precursores de células granulares permanecen en una zona subgranular que se adelgaza progresivamente a medida que crece la circunvolución dentada, pero estas células precursoras se conservan en ratas adultas.
+
+Estas células escasamente dispersas generan constantemente neuronas de células granulares, que se suman a la población total.
+
+Hay una variedad de otras diferencias en la circunvolución dentada de rata, mono y humano.
+
+Las células granulares solo tienen dendritas apicales en la rata.
+
+Pero en el mono y el ser humano, muchas células granulares también tienen dendritas basales.
+
+
+== Función ==
+
+
+Se cree que la circunvolución dentada contribuye a la formación de recuerdos y desempeña un papel en la depresión.
+El papel del hipocampo en el aprendizaje y la memoria se ha estudiado durante muchas décadas, en particular desde finales de la década de 1950, tras los resultados de la cirugía, en un hombre estadounidense, para extirpar la mayor parte del hipocampo.
+
+No está claro cómo el hipocampo permite la formación de nuevos recuerdos, pero un proceso, llamado potenciación a largo plazo (LTP, por sus siglas en inglés), ocurre en esta región del cerebro.
+
+LTP implica el fortalecimiento duradero de las conexiones sinápticas después de una estimulación repetida.
+
+Si bien la circunvolución dentada muestra LTP, también es una de las pocas regiones del cerebro de los mamíferos donde tiene lugar la neurogénesis adulta (la formación de nuevas neuronas).
+
+Algunos estudios plantean la hipótesis de que los nuevos recuerdos podrían usar preferentemente células granulares recién formadas del giro dentado, proporcionando un mecanismo potencial para distinguir múltiples instancias de eventos similares o múltiples visitas al mismo lugar.
+
+En consecuencia, se ha propuesto que las células granulares inmaduras del recién nacido son receptivas para formar nuevas conexiones sinápticas con los axones que llegan de la capa II de la corteza entorrinal, de esta manera una nueva constelación particular de eventos es recordada como una memoria episódica asociando primero los eventos en las células granulares jóvenes que tienen la edad apropiada y permisiva.
+
+Este concepto se ve reforzado por el hecho de que el aumento de la neurogénesis se asocia con una memoria espacial mejorada en roedores, como se ve a través del desempeño en un laberinto. Se sabe que la circunvolución dentada sirve como una unidad de preprocesamiento.
+
+Mientras que el subcampo CA3 está involucrado en la codificación, el almacenamiento y la recuperación de la memoria, el giro dentado es importante en la separación de patrones.
+
+Cuando la información ingresa a través de la vía perforante, la circunvolución dentada separa información muy similar en detalles distintos y únicos.
+
+Esto asegura que las nuevas memorias se codifiquen por separado sin la entrada de memorias previamente almacenadas de características similares, y prepara los datos relevantes para el almacenamiento en la región CA3.
+
+La separación de patrones brinda la capacidad de diferenciar una memoria de otras memorias almacenadas.
+
+La separación del patrón comienza en la circunvolución dentada.
+
+Las células granulares en el giro dentado procesan la información sensorial mediante el aprendizaje competitivo y transmiten una representación preliminar para formar campos de lugar.
+
+Los campos de lugar son extremadamente específicos, ya que son capaces de reasignar y ajustar las tasas de disparo en respuesta a cambios sutiles en las señales sensoriales.
+
+Esta especificidad es fundamental para la separación de patrones, ya que distingue los recuerdos entre sí. La circunvolución dentada muestra una forma específica de plasticidad neural que resulta de la integración continua de células granulares excitatorias recién formadas.
+
+
+== Importancia clínica ==
+
+
+
+=== Memoria ===
+
+Uno de los primeros casos más prominentes de amnesia anterógrada (incapacidad para formar nuevos recuerdos) que relaciona el hipocampo con la formación de recuerdos fue el caso de Henry Molaison (conocido anónimamente como Paciente HM hasta su muerte en 2008).
+
+Su epilepsia se trató con la extirpación quirúrgica de su hipocampo (los hemisferios izquierdo y derecho tienen cada uno su propio hipocampo), así como parte del tejido circundante.
+
+Esta eliminación selectiva de tejido cerebral dejó al Sr.
+
+Molaison con la incapacidad de formar nuevos recuerdos, y el hipocampo se ha considerado crítico para la formación de la memoria desde ese momento, aunque los procesos involucrados no están claros.
+
+
+=== Estrés y depresión ===
+
+La circunvolución dentada también puede tener un papel funcional en el estrés y la depresión.
+
+Por ejemplo, en la rata, se ha encontrado que la neurogénesis aumenta en respuesta al tratamiento crónico con antidepresivos.
+
+Se ha demostrado que los efectos fisiológicos del estrés, a menudo caracterizados por la liberación de glucocorticoides como el cortisol, así como por la activación del sistema nervioso simpático (una división del sistema nervioso autónomo), inhiben el proceso de neurogénesis en primates.
+
+Se sabe que tanto los glucocorticoides endógenos como los exógenos causan psicosis y depresión, lo que implica que la neurogénesis en la circunvolución dentada puede desempeñar un papel importante en la modulación de los síntomas de estrés y depresión.
+
+
+=== Azúcar en la sangre ===
+
+Los estudios realizados por investigadores del Centro Médico de la Universidad de Columbia indican que un control deficiente de la glucosa puede provocar efectos nocivos en la circunvolución dentada, lo que resulta en una disminución de la memoria.
+
+
+=== Otro ===
+
+Cierta evidencia observada en el ratón sugiere que la neurogénesis en la circunvolución dentada aumenta en respuesta al ejercicio aeróbico.
+
+Varios experimentos han demostrado que la neurogénesis (el desarrollo de los tejidos nerviosos) a menudo aumenta en la circunvolución dentada de roedores adultos cuando se exponen a un entorno enriquecido. en la susceptibilidad a la esquizofrenia.
+
+
+=== Comportamiento espacial ===
+
+Los estudios han demostrado que después de que se destruyera aproximadamente el 90% de sus células de la circunvolución dentada, las ratas tenían una dificultad extrema para maniobrar a través de un laberinto que habían sorteado previamente.
+
+Cuando se probaron varias veces para ver si podían aprender un laberinto, los resultados mostraron que las ratas no mejoraron en absoluto, lo que indica que su memoria de trabajo estaba gravemente afectada.
+
+Las ratas tenían problemas con las estrategias de lugar porque no podían consolidar la información aprendida sobre un laberinto en su memoria de trabajo y, por lo tanto, no podían recordarla cuando maniobraban a través del mismo laberinto en una prueba posterior.
+
+Cada vez que una rata entraba en el laberinto, la rata se comportaba como si estuviera viendo el laberinto por primera vez.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_gyrus
+
+;;;PT;;;
+
+
+
+GIRO DENTEADO
+
+
+O giro denteado (DG) faz parte da formação hipocampal no lobo temporal do cérebro, que também inclui o hipocampo e o subículo.
+
+O giro denteado faz parte do circuito trissináptico do hipocampo e acredita-se que contribua para a formação de novas memórias episódicas, a exploração espontânea de novos ambientes e outras funções. da neurogênese adulta em muitas espécies de mamíferos, de roedores a primatas.
+
+Outros locais de neurogênese adulta incluem a zona subventricular, o corpo estriado e o cerebelo.
+
+No entanto, se existe neurogênese significativa no giro denteado humano adulto tem sido uma questão de debate. As evidências de 2019 mostraram que a neurogênese adulta ocorre na zona subventricular e na zona subgranular do giro denteado.
+
+
+== Estrutura ==
+
+
+O giro denteado, como o hipocampo, consiste em três camadas distintas: uma camada molecular externa, uma camada de células granulares médias e uma camada polimórfica interna. (No hipocampo, a camada externa é a camada molecular, a camada intermediária é a camada piramidal e a camada interna é o estrato oriental).
+
+A camada polimórfica é também o hilo do giro denteado, (CA4, a junção do hipocampo e giro denteado). A camada de grânulos está entre a camada molecular sobrejacente e o hilo subjacente (camada polimórfica).
+As células granulares da camada granular projetam seus axônios conhecidos como fibras musgosas para fazer sinapses excitatórias nos dendritos dos neurônios piramidais CA3.
+
+As células granulares são compactadas de forma laminada que amortece a excitabilidade dos neurônios. Alguns dos dendritos basais das células granulares curvam-se para a camada molecular.
+
+A maioria dos dendritos basais entra no hilo.
+
+Esses dendritos hilares são mais curtos e finos e têm menos ramificações laterais. projeção ipsilateral pulando os primeiros 1-2 mm perto dos corpos celulares, uma configuração incomum, hipotetizada para preparar um conjunto de conjuntos celulares em CA3 para um papel de recuperação de dados, randomizando sua distribuição celular. região chamada de zona subgranular que é um local de neurogênese adulta. A continuação anteromedial do giro denteado é chamada de cauda do giro denteado, ou banda de Giacomini.
+
+A maior parte do giro denteado não está exposta na superfície do cérebro, mas a faixa de Giacomini é visível e faz um importante marco da superfície inferior do uncus.
+
+
+=== Circuito trissináptico ===
+
+O circuito trissináptico consiste em células excitatórias (principalmente células estreladas) na camada II do córtex entorrinal, projetando-se para a camada de células granulares do giro denteado através da via perfurante.
+
+O giro denteado não recebe entradas diretas de outras estruturas corticais.
+
+O trajeto perfurante é dividido em trajetos perfurantes medial e lateral, gerados, respectivamente, nas porções medial e lateral do córtex entorrinal.
+
+A via perfurante medial faz sinapse com a área dendrítica proximal das células granulares, enquanto a via perfurante lateral faz sinapse com seus dendritos distais.
+
+A maioria das vistas laterais do giro denteado pode parecer sugerir uma estrutura que consiste em apenas uma entidade, mas o movimento medial pode fornecer evidências das partes ventral e dorsal do giro denteado.
+
+Os axônios das células granulares chamadas fibras musgosas, fazem conexões sinápticas excitatórias com as células piramidais de CA3 e CA1.
+
+
+== Desenvolvimento ==
+
+As células granulares no giro denteado são distinguidas por seu tempo tardio de formação durante o desenvolvimento do cérebro.
+
+Em ratos, aproximadamente 85% das células granulares são geradas após o nascimento.
+
+Em humanos, estima-se que as células granulares comecem a ser geradas durante as semanas de gestação de 10,5 a 11, e continuem sendo geradas durante o segundo e terceiro trimestres, após o nascimento e até a idade adulta.
+
+As fontes germinativas de células granulares e suas vias de migração foram estudadas durante o desenvolvimento do cérebro de ratos.
+
+As células granulares mais antigas são geradas em uma região específica do neuroepitélio hipocampal e migram para o giro denteado primordial por volta dos dias embrionários (E) 17/18, e então se estabelecem como as células mais externas na camada granular em formação.
+
+Em seguida, as células precursoras dentadas saem dessa mesma área do neuroepitélio hipocampal e, mantendo sua capacidade mitótica, invadem o hilo (núcleo) do giro denteado em formação.
+
+Essa matriz germinativa dispersa é a fonte de células granulares a partir desse ponto.
+
+As células granulares recém-geradas se acumulam sob as células mais velhas que começaram a se estabelecer na camada granular.
+
+À medida que mais células granulares são produzidas, a camada engrossa e as células são empilhadas de acordo com a idade - sendo as mais velhas as mais superficiais e as mais novas as mais profundas.
+
+Os precursores das células granulares permanecem em uma zona subgranular que se torna progressivamente mais fina à medida que o giro denteado cresce, mas essas células precursoras são retidas em ratos adultos.
+
+Essas células esparsamente espalhadas geram constantemente neurônios de células granulares, que se somam à população total.
+
+Há uma variedade de outras diferenças no giro denteado de rato, macaco e humano.
+
+As células granulares têm apenas dendritos apicais no rato.
+
+Mas no macaco e no humano, muitas células granulares também têm dendritos basais.
+
+
+== Função ==
+
+
+Acredita-se que o giro denteado contribua para a formação de memórias e desempenhe um papel na depressão.
+O papel do hipocampo na aprendizagem e na memória tem sido estudado por muitas décadas, particularmente desde o final da década de 1950, após os resultados da cirurgia, em um homem americano, para remover a maior parte do hipocampo.
+
+Ainda não está claro como o hipocampo permite a formação de novas memórias, mas um processo, chamado de potenciação de longo prazo (LTP), ocorre nesta região do cérebro.
+
+LTP envolve o fortalecimento duradouro das conexões sinápticas após estimulação repetida.
+
+Enquanto o giro denteado mostra LTP, é também uma das poucas regiões do cérebro de mamíferos onde ocorre a neurogênese adulta (a formação de novos neurônios).
+
+Alguns estudos levantam a hipótese de que novas memórias poderiam usar preferencialmente células granulares recém-formadas do giro denteado, fornecendo um mecanismo potencial para distinguir várias instâncias de eventos semelhantes ou várias visitas ao mesmo local.
+
+Correspondentemente, foi proposto que as células granulares imaturas recém-nascidas são receptivas para formar novas conexões sinápticas com os axônios que chegam da camada II do córtex entorrinal, desta forma uma nova constelação particular de eventos é lembrada como uma memória episódica pela primeira associação os eventos nas células granulares jovens que têm a idade apropriada e permissiva.
+
+Este conceito é reforçado pelo fato de que o aumento da neurogênese está associado a uma melhor memória espacial em roedores, como visto através do desempenho em um labirinto. O giro denteado é conhecido por servir como uma unidade de pré-processamento.
+
+Enquanto o subcampo CA3 está envolvido na codificação, armazenamento e recuperação de memória, o giro denteado é importante na separação de padrões.
+
+Quando a informação entra pelo caminho perfurante, o giro denteado separa informações muito semelhantes em detalhes distintos e únicos.
+
+Isso garante que as novas memórias sejam codificadas separadamente sem entrada de memórias armazenadas anteriormente de características semelhantes e prepara os dados relevantes para armazenamento na região CA3.
+
+A separação de padrões permite diferenciar uma memória de outras memórias armazenadas.
+
+A separação de padrões começa no giro denteado.
+
+As células granulares no giro denteado processam informações sensoriais usando aprendizado competitivo e retransmitem uma representação preliminar para formar campos de lugar.
+
+Os campos de lugar são extremamente específicos, pois são capazes de remapear e ajustar as taxas de disparo em resposta a mudanças sutis de sinal sensorial.
+
+Essa especificidade é crítica para a separação de padrões, pois distingue as memórias umas das outras. O giro denteado mostra uma forma específica de plasticidade neural resultante da integração contínua de células granulares excitatórias recém-formadas.
+
+
+== Significado clínico ==
+
+
+
+=== Memória ===
+
+Um dos primeiros casos mais proeminentes de amnésia anterógrada (incapacidade de formar novas memórias) ligando o hipocampo à formação da memória foi o caso de Henry Molaison (anonimamente conhecido como Paciente HM até sua morte em 2008).
+
+Sua epilepsia foi tratada com a remoção cirúrgica de seu hipocampo (os hemisférios esquerdo e direito têm cada um seu próprio hipocampo), bem como alguns tecidos circundantes.
+
+Essa remoção direcionada do tecido cerebral deixou o Sr.
+
+Molaison com incapacidade de formar novas memórias, e o hipocampo tem sido considerado crítico para a formação da memória desde aquela época, embora os processos envolvidos não sejam claros.
+
+
+=== Estresse e depressão ===
+
+O giro denteado também pode ter um papel funcional no estresse e na depressão.
+
+Por exemplo, no rato, descobriu-se que a neurogênese aumenta em resposta ao tratamento crônico com antidepressivos.
+
+Os efeitos fisiológicos do estresse, muitas vezes caracterizados pela liberação de glicocorticóides como o cortisol, bem como a ativação do sistema nervoso simpático (uma divisão do sistema nervoso autônomo), demonstraram inibir o processo de neurogênese em primatas.
+
+Ambos os glicocorticóides endógenos e exógenos são conhecidos por causar psicose e depressão, o que implica que a neurogênese no giro denteado pode desempenhar um papel importante na modulação dos sintomas de estresse e depressão.
+
+
+=== Açúcar no sangue ===
+
+Estudos realizados por pesquisadores do Centro Médico da Universidade de Columbia indicam que o controle inadequado da glicose pode levar a efeitos deletérios no giro denteado, resultando em declínio da memória.
+
+
+=== Outro ===
+
+Algumas evidências observadas no camundongo sugerem que a neurogênese no giro denteado aumenta em resposta ao exercício aeróbico.
+
+Vários experimentos mostraram que a neurogênese (o desenvolvimento de tecidos nervosos) geralmente aumenta no giro denteado de roedores adultos quando eles são expostos a um ambiente enriquecido. na suscetibilidade à esquizofrenia.
+
+
+=== Comportamento espacial ===
+
+Estudos mostraram que, depois de ter cerca de 90% de suas células do giro denteado destruídas, os ratos tinham extrema dificuldade em manobrar através de um labirinto que haviam negociado anteriormente.
+
+Ao serem testados várias vezes para ver se conseguiam aprender um labirinto, os resultados mostraram que os ratos não melhoraram, indicando que suas memórias de trabalho foram severamente prejudicadas.
+
+Os ratos tinham problemas com estratégias de localização porque não conseguiam consolidar informações aprendidas sobre um labirinto em sua memória de trabalho e, portanto, não conseguiam se lembrar delas ao manobrar pelo mesmo labirinto em uma tentativa posterior.
+
+Toda vez que um rato entrava no labirinto, o rato se comportava como se estivesse vendo o labirinto pela primeira vez.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_gyrus
+
+;;;FR;;;
+
+
+
+Gyrus denté
+
+
+Le gyrus denté (DG) fait partie de la formation hippocampique dans le lobe temporal du cerveau, qui comprend également l'hippocampe et le subiculum.
+
+Le gyrus denté fait partie du circuit trisynaptique hippocampique et on pense qu'il contribue à la formation de nouveaux souvenirs épisodiques, à l'exploration spontanée de nouveaux environnements et à d'autres fonctions. Il est remarquable comme étant l'une des rares structures cérébrales connues pour avoir des taux significatifs. de la neurogenèse adulte chez de nombreuses espèces de mammifères, des rongeurs aux primates.
+
+D'autres sites de neurogenèse adulte comprennent la zone sous-ventriculaire, le striatum et le cervelet.
+
+Cependant, la question de savoir si une neurogenèse significative existe dans le gyrus denté humain adulte a fait l'objet d'un débat. Les preuves de 2019 ont montré que la neurogenèse adulte a lieu dans la zone sous-ventriculaire et dans la zone sous-granulaire du gyrus denté.
+
+
+== Structure ==
+
+
+Le gyrus denté, comme l'hippocampe, se compose de trois couches distinctes : une couche moléculaire externe, une couche de cellules granulaires moyennes et une couche polymorphe interne. (Dans l'hippocampe, la couche externe est la couche moléculaire, la couche intermédiaire est la couche pyramidale et la couche interne la couche oriens).
+
+La couche polymorphe est également le hile du gyrus denté (CA4, la jonction de l'hippocampe et du gyrus denté). La couche de granules se situe entre la couche moléculaire sus-jacente et le hile sous-jacent (couche polymorphe).
+Les cellules granulaires de la couche granulaire projettent leurs axones appelés fibres moussues pour former des synapses excitatrices sur les dendrites des neurones pyramidaux CA3.
+
+Les cellules granulaires sont étroitement regroupées d'une manière laminée qui atténue l'excitabilité des neurones. Certaines des dendrites basales des cellules granulaires se courbent dans la couche moléculaire.
+
+La plupart des dendrites basales pénètrent dans le hile.
+
+Ces dendrites hilaires sont plus courtes et plus fines et ont moins de branches latérales. Un deuxième type de cellule excitatrice dans le hile est la cellule moussue, qui projette largement ses axones le long de l'axe septotemporal (allant de la zone septale au lobe temporal) avec le projection ipsilatérale sautant les premiers 1 à 2 mm près des corps cellulaires, une configuration inhabituelle, supposée préparer un ensemble d'assemblages cellulaires dans CA3 pour un rôle de récupération de données, en randomisant leur distribution cellulaire. Entre le hile et la couche de cellules granulaires se trouve un région appelée la zone sous-granulaire qui est un site de neurogenèse adulte. Le prolongement antéromédial du gyrus denté est appelé la queue du gyrus denté, ou la bande de Giacomini.
+
+La majeure partie du gyrus denté n'est pas exposée à la surface du cerveau mais la bande de Giacomini est visible et constitue un repère important de la surface inférieure de l'uncus.
+
+
+=== Circuit trisynaptique ===
+
+Le circuit trisynaptique est constitué de cellules excitatrices (principalement des cellules étoilées) dans la couche II du cortex entorhinal, se projetant vers la couche de cellules granulaires du gyrus denté via la voie perforante.
+
+Le gyrus denté ne reçoit aucune entrée directe d'autres structures corticales.
+
+La voie perforante est divisée en voies perforantes médiale et latérale, générées respectivement au niveau des parties médiale et latérale du cortex entorhinal.
+
+Le chemin perforant médial synapse sur la zone dendritique proximale des cellules granulaires, tandis que le chemin perforant latéral le fait sur leurs dendrites distales.
+
+La plupart des vues latérales du gyrus denté peuvent sembler suggérer une structure constituée d'une seule entité, mais le mouvement médial peut fournir des preuves des parties ventrale et dorsale du gyrus denté.
+
+Les axones des cellules granulaires, appelées fibres moussues, établissent des connexions synaptiques excitatrices avec les cellules pyramidales de CA3 et CA1.
+
+
+== Développement ==
+
+Les cellules granulaires du gyrus denté se distinguent par leur temps de formation tardif au cours du développement cérébral.
+
+Chez le rat, environ 85 % des cellules granulaires sont générées après la naissance.
+
+Chez l'homme, on estime que les cellules granulaires commencent à être générées au cours des semaines de gestation 10,5 à 11 et continuent d'être générées au cours des deuxième et troisième trimestres, après la naissance et jusqu'à l'âge adulte.
+
+Les sources germinales des cellules granulaires et leurs voies de migration ont été étudiées au cours du développement du cerveau du rat.
+
+Les cellules granulaires les plus anciennes sont générées dans une région spécifique du neuroépithélium hippocampique et migrent dans le gyrus denté primordial vers les jours embryonnaires (E) 17/18, puis s'installent en tant que cellules les plus externes dans la couche granulaire en formation.
+
+Ensuite, les cellules précurseurs dentées sortent de cette même zone du neuroépithélium hippocampique et, conservant leur capacité mitotique, envahissent le hile (noyau) du gyrus denté en formation.
+
+Cette matrice germinale dispersée est désormais la source des cellules granulaires.
+
+Les cellules granulaires nouvellement générées s'accumulent sous les cellules plus anciennes qui ont commencé à se déposer dans la couche granulaire.
+
+Au fur et à mesure que davantage de cellules granulaires sont produites, la couche s'épaissit et les cellules s'empilent en fonction de l'âge - les plus anciennes étant les plus superficielles et les plus jeunes étant plus profondes.
+
+Les précurseurs des cellules granulaires restent dans une zone sous-granulaire qui s'amincit progressivement à mesure que le gyrus denté se développe, mais ces cellules précurseurs sont conservées chez les rats adultes.
+
+Ces cellules peu dispersées génèrent constamment des neurones à cellules granulaires, qui s'ajoutent à la population totale.
+
+Il existe une variété d'autres différences dans le gyrus denté du rat, du singe et de l'homme.
+
+Les cellules granulaires n'ont de dendrites apicales que chez le rat.
+
+Mais chez le singe et l'homme, de nombreuses cellules granulaires ont également des dendrites basales.
+
+
+== Fonction ==
+
+
+On pense que le gyrus denté contribue à la formation des souvenirs et joue un rôle dans la dépression.
+Le rôle de l'hippocampe dans l'apprentissage et la mémoire a été étudié pendant de nombreuses décennies, en particulier depuis la fin des années 1950, suite aux résultats d'une intervention chirurgicale, chez un homme américain, pour enlever la majeure partie de l'hippocampe.
+
+On ne sait toujours pas comment l'hippocampe permet la formation de nouvelles mémoires, mais un processus, appelé potentialisation à long terme (LTP), se produit dans cette région du cerveau.
+
+La LTP implique un renforcement durable des connexions synaptiques après une stimulation répétée.
+
+Alors que le gyrus denté montre LTP, c'est aussi l'une des rares régions du cerveau des mammifères où la neurogenèse adulte (la formation de nouveaux neurones) a lieu.
+
+Certaines études émettent l'hypothèse que les nouveaux souvenirs pourraient utiliser préférentiellement les cellules granulaires nouvellement formées du gyrus denté, fournissant un mécanisme potentiel pour distinguer plusieurs instances d'événements similaires ou plusieurs visites au même endroit.
+
+En conséquence, il a été proposé que les cellules granulaires immatures du nouveau-né soient réceptives pour former de nouvelles connexions synaptiques avec les axones provenant de la couche II du cortex entorhinal, de cette façon une nouvelle constellation particulière d'événements est mémorisée comme une mémoire épisodique en associant d'abord les événements dans les jeunes cellules granulaires qui ont l'âge permissif approprié.
+
+Ce concept est renforcé par le fait qu'une neurogenèse accrue est associée à une mémoire spatiale améliorée chez les rongeurs, comme le montrent les performances dans un labyrinthe. Le gyrus denté est connu pour servir d'unité de prétraitement.
+
+Alors que le sous-champ CA3 est impliqué dans le codage, le stockage et la récupération de la mémoire, le gyrus denté est important dans la séparation des motifs.
+
+Lorsque des informations entrent par le chemin perforant, le gyrus denté sépare des informations très similaires en détails distincts et uniques.
+
+Cela garantit que les nouvelles mémoires sont codées séparément sans entrée à partir de mémoires précédemment stockées de caractéristique similaire, et prépare les données pertinentes pour le stockage dans la région CA3.
+
+La séparation des motifs permet de différencier une mémoire des autres mémoires stockées.
+
+La séparation des motifs commence dans le gyrus denté.
+
+Les cellules granulaires du gyrus denté traitent les informations sensorielles à l'aide d'un apprentissage compétitif et relaient une représentation préliminaire pour former des champs de lieu.
+
+Les champs de lieu sont extrêmement spécifiques, car ils sont capables de remapper et d'ajuster les cadences de tir en réponse à de subtils changements de signaux sensoriels.
+
+Cette spécificité est essentielle pour la séparation des motifs, car elle distingue les souvenirs les uns des autres. Le gyrus denté présente une forme spécifique de plasticité neurale résultant de l'intégration continue de cellules granulaires excitatrices nouvellement formées.
+
+
+== Signification clinique ==
+
+
+
+=== Mémoire ===
+
+L'un des premiers cas les plus importants d'amnésie antérograde (incapacité à former de nouveaux souvenirs) reliant l'hippocampe à la formation de la mémoire a été le cas d'Henry Molaison (anonymement connu sous le nom de Patient HM jusqu'à sa mort en 2008).
+
+Son épilepsie a été traitée par l'ablation chirurgicale de ses hippocampes (les hémisphères gauche et droit ont chacun leur propre hippocampe) ainsi que certains tissus environnants.
+
+Cette ablation ciblée des tissus cérébraux a laissé M.
+
+Molaison avec une incapacité à former de nouveaux souvenirs, et l'hippocampe est considéré comme essentiel à la formation de la mémoire depuis lors, bien que les processus impliqués ne soient pas clairs.
+
+
+=== Stress et dépression ===
+
+Le gyrus denté peut également avoir un rôle fonctionnel dans le stress et la dépression.
+
+Par exemple, chez le rat, on a constaté que la neurogenèse augmentait en réponse à un traitement chronique avec des antidépresseurs.
+
+Il a été démontré que les effets physiologiques du stress, souvent caractérisés par la libération de glucocorticoïdes tels que le cortisol, ainsi que l'activation du système nerveux sympathique (une division du système nerveux autonome), inhibent le processus de neurogenèse chez les primates.
+
+Les glucocorticoïdes endogènes et exogènes sont connus pour provoquer la psychose et la dépression, ce qui implique que la neurogenèse dans le gyrus denté peut jouer un rôle important dans la modulation des symptômes de stress et de dépression.
+
+
+=== Glycémie ===
+
+Des études menées par des chercheurs du Columbia University Medical Center indiquent qu'un mauvais contrôle de la glycémie peut avoir des effets délétères sur le gyrus denté, entraînant un déclin de la mémoire.
+
+
+=== Autre ===
+
+Certaines preuves observées chez la souris suggèrent que la neurogenèse dans le gyrus denté augmente en réponse à l'exercice aérobie.
+
+Plusieurs expériences ont montré que la neurogenèse (le développement des tissus nerveux) augmente souvent dans le gyrus denté des rongeurs adultes lorsqu'ils sont exposés à un environnement enrichi. Des mutations dans une protéine associée aux synapses SAP97, une protéine d'échafaudage dans le gyrus denté pourraient jouer un rôle dans la susceptibilité à la schizophrénie.
+
+
+=== Comportement spatial ===
+
+Des études ont montré qu'après avoir détruit environ 90% de leurs cellules de gyrus denté, les rats avaient des difficultés extrêmes à manœuvrer dans un labyrinthe qu'ils avaient précédemment négocié.
+
+Lorsqu'ils ont été testés plusieurs fois pour voir s'ils pouvaient apprendre un labyrinthe, les résultats ont montré que les rats ne s'amélioraient pas du tout, indiquant que leur mémoire de travail était gravement altérée.
+
+Les rats avaient des problèmes avec les stratégies de lieu parce qu'ils ne pouvaient pas consolider les informations apprises sur un labyrinthe dans leur mémoire de travail et, par conséquent, ne pouvaient pas s'en souvenir lorsqu'ils manœuvraient dans le même labyrinthe lors d'un essai ultérieur.
+
+Chaque fois qu'un rat entrait dans le labyrinthe, le rat se comportait comme s'il voyait le labyrinthe pour la première fois.
+
+
+
+https://en.wikipedia.org/wiki/Dentate_gyrus

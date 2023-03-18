@@ -1,0 +1,688 @@
+
+
+ZONA INCERTA
+
+
+The zona incerta (ZI) is a horizontally elongated region of gray matter in the subthalamus below the thalamus. 
+
+Its connections project extensively over the brain from the cerebral cortex down into the spinal cord.
+Its function is unknown, though several potential functions related to "limbic–motor integration" have been proposed, such as controlling visceral activity and pain; gating sensory input and synchronizing cortical and subcortical brain rhythms. 
+
+Its dysfunction may play a role in central pain syndrome. 
+
+It has also been identified as a promising deep brain stimulation therapy target for treating Parkinson's disease.
+Its existence was first described by Auguste Forel in 1877 as a "region of which nothing certain can be said". 
+
+A hundred and thirty years later in 2007, Nadia Urbain and Martin Deschênes of Université Laval noted that the "zona incerta is among the least studied regions of the brain; its name does not even appear in the index of many textbooks."
+
+
+== Structure ==
+
+This nucleus is located medially to the internal capsule, ventral to the thalamus, and is contiguous with the thalamic reticular nucleus. 
+
+The nucleus separates the lenticular fasciculus from the thalamic fasciculus (also known as the "field H1 of Forel") .
+Its cells are very heterogeneous differing widely in their shape and size. 
+
+Its chemoarchitecture is also diverse containing up to 20 different types of neurochemically defined cells. 
+
+It has been noted that "There are few diencephalic regions that have as much cellular and neurochemical diversity".In the rat four areas are usually identified.
+a rostral sector that has densely packed spindle-shaped cells and scattered larger oval shaped cells.
+a dorsal sector that has medium-sized oval-shaped cells.
+a ventral sector made up of medium-sized multipolar or fusiform shaped cells that are more densely packed than the cells in the dorsal sector
+a caudal sector made up of small and medium-sized somata that are either multipolar, fusiform or rounded in shape, together with a group of very large multipolar-shaped cells located medially. 
+
+This is sometimes called the motor part of the zona incerta nucleus. 
+
+This is the area targeted by deep brain stimulation area when the zona incerta is targeted in the treatment of Parkinson Disease.These areas lack clear cell-free borders and merge into each other.Zona incerta neurons have dendrites with a wide span 0.8 mm and their axons give off collaterals that arborized locally within the zona incerta providing a means for lateral inhibition. 
+
+The ventral area of the zona incerta has been described as having "a network of GABAergic cells with widespread interconnections, so that cells in one subsector may influence the activity of cells in a different subsector".The zona incerta together with the hypothalamus is one of the two areas of the brain that produces the neuropeptide melanin concentrating hormone. 
+
+Dopaminergic ones are also more prevalent. 
+
+There are in addition populations of cells producing somatostatin, angiotensin II and melanocyte stimulating hormone.
+
+
+=== Connections ===
+
+The zona incerta has connections to the cerebral cortex, diencephalon, basal ganglia, brainstem and spinal cord.
+
+Cerebral cortexProjections to the zona incerta arise across the cortical mantel from the frontal to the occipital lobes. 
+
+The heaviest projections are from cingulate cortex, frontal and parietal areas, but also projections from the medial prefrontal cortex have been reported. 
+
+The head area of the body seems from these areas to have the largest representation in the zona incerta. 
+
+These projections preferentially go to cortical layer I neurons. 
+
+There are projections from the zona incerta back to the cerebral cortex.
+DiencephalonProjections with the diencephalon are reciprocal and mainly to the thalamus such as the intralaminar nucleus (parafascicular nucleus and central lateral nucleus) and higher-order nuclei such as the lateral posterior nucleus. 
+
+The zona incerta avoids the thalamus nuclei of the primary sensory areas such as the ventral posterior nucleus of the somatosensory system and the lateral geniculate of the visual system. 
+
+Rostral zona incerta also sends inhibitory projections to paraventricular thalamus with GABAergic neurotransmission.
+HypothalamusProjections to the hypothalamus through incertohypothalamic pathway go mainly to the paraventricular nucleus areas in the anterior hypothalamus, lateral hypothalamus, lateral preoptic area, horizontal diagonal band of Broca, and the parvocellular region of the paraventricular nucleus.
+Basal gangliaZona incerta is connected in the basal ganglia to the substantia nigra (both pars compacta and pars reticulata) and pedunculopontine tegmental nucleus (but only its pars dissipata area). 
+
+It also has less important connections to the entopeduncular nucleus and globus pallidus. 
+
+These projections are glutamatergic and excitatory rather than GABAergic and inhibitory. 
+
+The zona incerta also receives input from these areas.
+
+CerebellumThe cerebellum sends a significant number of fibers to the zona incerta.
+ These projections originate from various cerebellar nuclei and are glutamatergic. 
+
+Given the cerebellar contributions to motor learning, timing and coordination, the interactions between the cerebellum with the zona incerta are likely to have profound influence on motor functions.
+
+BrainstemZona incerta receives input from many parts of the brainstem nuclei including the periaqueductal gray, raphe nuclei, thalamic reticular nucleus, and the deep layers of the superior colliculus. 
+
+It is regulated by inputs from brainstem cholinergic nuclei such as the Laterodorsal tegmental nucleus and pedunculopontine nucleus upon its neuron’s muscarinic receptors. 
+
+The rostral zona incerta also innervates the dorsolateral and ventrolateral compartments of the periaqueductal gray.
+Spinal cordZona incerta afferents terminate within the spinal cord gray matter, particularly the anterior horn, while spinal projections back to the zona incerta arise from cells located across the posterior horn and intermediate gray.
+
+OtherZona incerta also has connections to the amygdala, basal forebrain, the osmoreceptors in the subfornical organ, olfactory bulb, posterior pituitary and habenula.
+Some of these projections appear in register; the representation of the same body part in cortex and spinal cord connect to the same areas in the zona incerta. 
+
+This is possibly so with the superior colliculus.
+
+
+== Function ==
+
+Visceral survival activities.Zona incerta controls such activities as water and food intake, sexuality and cardiovascular activity. 
+
+This control is related to its effects upon the nearby posterior hypothalamus with which it shares similar connections and neurochemically defined cell types. 
+
+Besides, activation of GABA neurons in rostral zona incerta evokes binge eating behavior with a preference to sweet and high-fat food. 
+
+The inhibitory projection from zona incerta to paraventricular thalamus contributes to binge-like eating produced by zona incerta GABA neuron activation.Zona incerta has also been found to modulate both innate and learned defensive behaviors through its projections to the excitatory neurons of the dorsolateral and ventrolateral compartments of the periaqueductal gray. 
+
+Activation of the GABAergic neurons in the rostral zona incerta reduces sound-induced innate flight response and conditioned freezing response. 
+
+The zona incerta receives pain input through the spinothalamic tract and this has been shown to control the activity of the pain transmission pathway in the posterior thalamus.Electrical or chemical stimulation of the zona incerta creates limbic-related movements, such as those associated with defense orientation and copulation.
+Sensory-motor activities.At rest sensory input to the higher sensory areas of the cerebral cortex is gated through the thalamus. 
+
+It has moreover been proposed that the zona incerta provides a top-down disinhibitory mechanism of this gating when there is sensory-motor activity such as the tactile use of whiskers.
+This has also been linked to sensory gating changes between sleep and waking. 
+
+In this occurs a zona incerta mediated inhibition of thalamic nuclei such the somatosensory posterior medial thalamus. 
+
+This is most strong when cholinergic input to the zona incerta is reduced as during slow-wave sleep and during anesthesia. 
+
+The consequence of this has been explained upon information processing: As a result, posterior medial thalamus neurons fail to respond to ascending sensory inputs, and function primarily in "higher-order" mode, concerned with relaying trans-cortical information. 
+
+By contrast, increased cholinergic activity during wakefulness and enhanced vigilance suppresses zona incerta -mediated inhibition, thereby ungating posterior thalamus responses to ascending inputs.
+The zona incerta projects to the superior colliculus and these link to the initiation of orientating eye and head movements. 
+
+In monkeys for example neuronal activity in the zona incerta "pauses" before the start of a saccade and resumes at the end of a saccade.
+Synchronizing cortical and subcortical brain rhythms and integration.The GABAergic input received from the cerebral cortex has been suggested to synchronize thalamocortical and brainstem rhythms by providing a link between basal ganglia output and the cerebello-thalamo cortical loop. 
+
+This allows it to synchronize oscillations generate by the basal ganglia during the preparation and execution of intended movements. 
+
+One function of the loop is to carry movement instructions to the motor cortex through zona incerta output to the ventral lateral nucleus neurons in the cerebello-thalamocortical loop and to brainstem motor neurons in the medial reticular formation and midbrain extrapyramidal area. 
+
+This acts to synchronize the basal ganglia areas involved in planning and execution of the movement with those in the brainstem controlling axial and proximal limb
+muscles with those areas in the motor cortex that control distal limb movements.
+SynthesisJohn Mitrofanis at the University of Sydney has proposed a general theory that might underlie some of the above.
+
+ The zona incerta is in a position to form a primal synaptic interface of the diencephalon, linking diverse sensory channels to appropriate visceral, arousal, attention and posture-locomotion responses. 
+
+The different sensory inputs, whether exteroreceptive (somatic) or interoreceptive (visceral), influence these activities by driving zona incerta cells with different projection patterns and functions; each of these cells may be located in different sectors of the zone… In essence, it is suggested that the zona incerta has the pathways to integrate both exteroreceptive (e.g. somatosensory) and interoreceptive (e.g. thirst) sensory challenges, so that visceral activity, arousal, attention and/or posture locomotion are altered and/or generated. 
+
+The zona incerta could form a neural niche in the thalamus from where these responses are "recruited" immediately, as to give an instant response. 
+
+
+== Clinical significance ==
+
+
+
+=== Parkinson's disease ===
+
+Parkinson's disease might disrupt the zona incerta as it is hyperactive in parkinsonian experimental animals. 
+
+In humans with Parkinson's disease, surgical lesion of the zona incerta alleviates their parkinsonian motor symptoms.
+Deep brain stimulation of the subthalamic nucleus in those with Parkinson's disease has identified the zona incerta as a promising target area for effective therapy. 
+
+Unlike deep bilateral stimulation of the ventral lateral nucleus such stimulation of the zona incerta improves all aspects of tremor including both the distal and proximal parts of limbs and the body more generally. 
+
+This also occurs without dysarthria and disequilibrium as this stimulation does not interrupt proprioceptive sensation and the processing of the fine motor skill movements of vocal cords.
+Researchers observed that "The ventral lateral nucleus has long been established as an effective surgical target for controlling distal limb tremor, including Parkinson Disease tremor. 
+
+However, because it receives predominantly cerebellar afferents and no direct basal ganglia afferents, the reason why it is effective in controlling Parkinson Disease tremor has remained a paradox. 
+
+The conduction of abnormal oscillations generated in the basal ganglia in Parkinson Disease to the ventral lateral nucleus via zona incerta would therefore explain this paradox and also explain why we observed such a potent anti-tremor effect from stimulating zona incerta in our patients with Parkinson Disease"The study further noted that deep brain stimulation upon the zona incerta "is effective in suppressing all components of tremor affecting both the distal and proximal part of the body. 
+
+These results, if replicated in larger randomised controlled studies, have important implications for our current surgical management of patients with tremor and point to a more promising target area than the ventral lateral nucleus of the thalamus."
+
+
+=== Central pain syndrome ===
+
+Central pain syndrome is pain initiated or caused by injury or dysfunction in the central nervous system. 
+
+Recent research suggests that the development and maintenance of such pain could link to abnormal inhibitory regulation by the zona incerta of the posterior thalamus. 
+
+It has been suggested that there exists a significant suppression of both spontaneous and evoked activity in inhibitory neurons in zona incerta and abnormally high spontaneous and evoked activity of neurons in posterior thalamus in animals with central pain syndrome. 
+
+The positive association between behavioral and neurophysiological thresholds in rats with central pain syndrome is consistent with a causal role for suppressed incerto-thalamic inputs in central pain syndrome.
+
+
+
+https://en.wikipedia.org/wiki/Zona_incerta
+;;;ES;;;
+
+
+
+ZONA INCERTA
+
+
+La zona incerta (ZI) es una región alargada horizontalmente de materia gris en el subtálamo debajo del tálamo.
+
+Sus conexiones se proyectan extensamente sobre el cerebro desde la corteza cerebral hasta la médula espinal.
+Se desconoce su función, aunque se han propuesto varias funciones potenciales relacionadas con la "integración límbico-motora", como controlar la actividad visceral y el dolor; controlar la entrada sensorial y sincronizar los ritmos cerebrales corticales y subcorticales.
+
+Su disfunción puede desempeñar un papel en el síndrome de dolor central.
+
+También se ha identificado como un objetivo de terapia de estimulación cerebral profunda prometedor para el tratamiento de la enfermedad de Parkinson.
+Su existencia fue descrita por primera vez por Auguste Forel en 1877 como una "región de la que no se puede decir nada seguro".
+
+Ciento treinta años después, en 2007, Nadia Urbain y Martin Deschênes de la Université Laval señalaron que "la zona incerta se encuentra entre las regiones del cerebro menos estudiadas; su nombre ni siquiera aparece en el índice de muchos libros de texto".
+
+
+== Estructura ==
+
+Este núcleo está situado medialmente a la cápsula interna, ventral al tálamo, y es contiguo al núcleo reticular talámico.
+
+El núcleo separa el fascículo lenticular del fascículo talámico (también conocido como el "campo H1 de Forel").
+Sus células son muy heterogéneas y difieren ampliamente en su forma y tamaño.
+
+Su quimioarquitectura también es diversa y contiene hasta 20 tipos diferentes de células definidas neuroquímicamente.
+
+Se ha señalado que "Hay pocas regiones diencefálicas que tengan tanta diversidad celular y neuroquímica". En la rata se suelen identificar cuatro áreas.
+un sector rostral que tiene células fusiformes densamente empaquetadas y células ovaladas más grandes dispersas.
+un sector dorsal que presenta células de tamaño mediano y forma ovalada.
+un sector ventral formado por células multipolares o de forma fusiforme de tamaño mediano que están más densamente empaquetadas que las células del sector dorsal
+un sector caudal formado por somas de pequeño y mediano tamaño que pueden ser multipolares, fusiformes o de forma redondeada, junto con un grupo de células muy grandes de forma multipolar ubicadas medialmente.
+
+Esto a veces se llama la parte motora del núcleo de la zona incerta.
+
+Esta es el área a la que se dirige el área de estimulación cerebral profunda cuando la zona incerta es el objetivo del tratamiento de la enfermedad de Parkinson. Estas áreas carecen de bordes libres de células claros y se fusionan entre sí. los axones emiten colaterales que se ramifican localmente dentro de la zona incerta proporcionando un medio para la inhibición lateral.
+
+Se ha descrito que el área ventral de la zona incerta tiene "una red de células GABAérgicas con interconexiones generalizadas, de modo que las células de un subsector pueden influir en la actividad de las células de un subsector diferente". La zona incerta, junto con el hipotálamo, es una de las las dos áreas del cerebro que producen la hormona concentradora de melanina neuropéptido.
+
+Los dopaminérgicos también son más frecuentes.
+
+Hay además poblaciones de células productoras de somatostatina, angiotensina II y hormona estimulante de melanocitos.
+
+
+=== Conexiones ===
+
+La zona incerta tiene conexiones con la corteza cerebral, el diencéfalo, los ganglios basales, el tronco encefálico y la médula espinal.
+
+Corteza cerebral Las proyecciones a la zona incerta surgen a través del manto cortical desde el lóbulo frontal hasta el occipital.
+
+Las proyecciones más intensas provienen de la corteza cingulada, las áreas frontal y parietal, pero también se han informado proyecciones de la corteza prefrontal medial.
+
+A partir de estas áreas, el área de la cabeza del cuerpo parece tener la mayor representación en la zona incerta.
+
+Estas proyecciones se dirigen preferentemente a las neuronas de la capa cortical I.
+
+Hay proyecciones desde la zona incerta hacia la corteza cerebral.
+Diencéfalo Las proyecciones con el diencéfalo son recíprocas y principalmente al tálamo como el núcleo intralaminar (núcleo parafascicular y núcleo lateral central) y núcleos de orden superior como el núcleo posterior lateral.
+
+La zona incerta evita los núcleos del tálamo de las áreas sensoriales primarias, como el núcleo posterior ventral del sistema somatosensorial y el geniculado lateral del sistema visual.
+
+La zona incerta rostral también envía proyecciones inhibidoras al tálamo paraventricular con neurotransmisión GABAérgica.
+Hipotálamo Las proyecciones al hipotálamo a través de la vía incertohipotalámica van principalmente a las áreas del núcleo paraventricular en el hipotálamo anterior, el hipotálamo lateral, el área preóptica lateral, la banda diagonal horizontal de Broca y la región parvocelular del núcleo paraventricular.
+Basal gangliaZona incerta está conectada en los ganglios basales con la sustancia negra (tanto la pars compacta como con la pars reticulata) y el núcleo tegmental pedunculopontino (pero solo con su área de pars dissipata).
+
+También tiene conexiones menos importantes con el núcleo entopeduncular y el globo pálido.
+
+Estas proyecciones son glutamatérgicas y excitatorias en lugar de GABAérgicas e inhibidoras.
+
+La zona incerta también recibe aportes de estas áreas.
+
+Cerebelo El cerebelo envía un número significativo de fibras a la zona incerta.
+Estas proyecciones se originan en varios núcleos cerebelosos y son glutamatérgicas.
+
+Dadas las contribuciones del cerebelo al aprendizaje motor, la sincronización y la coordinación, es probable que las interacciones entre el cerebelo y la zona incerta tengan una profunda influencia en las funciones motoras.
+
+BrainstemZona incerta recibe información de muchas partes de los núcleos del tronco encefálico, incluida la sustancia gris periacueductal, los núcleos del rafe, el núcleo reticular talámico y las capas profundas del colículo superior.
+
+Está regulado por entradas de los núcleos colinérgicos del tronco encefálico, como el núcleo tegmental laterodorsal y el núcleo pedunculopontino sobre los receptores muscarínicos de sus neuronas.
+
+La zona incerta rostral también inerva los compartimentos dorsolateral y ventrolateral de la sustancia gris periacueductal.
+Médula espinal Los aferentes de la zona incerta terminan dentro de la materia gris de la médula espinal, particularmente en el asta anterior, mientras que las proyecciones espinales hacia la zona incerta surgen de las células ubicadas a través del asta posterior y la sustancia gris intermedia.
+
+OtherZona incerta también tiene conexiones con la amígdala, el prosencéfalo basal, los osmorreceptores en el órgano subfornical, el bulbo olfatorio, la hipófisis posterior y la habénula.
+Algunas de estas proyecciones aparecen en el registro; la representación de la misma parte del cuerpo en la corteza y la médula espinal se conectan a las mismas áreas en la zona incerta.
+
+Posiblemente esto sea así con el colículo superior.
+
+
+== Función ==
+
+Actividades de supervivencia visceral. La zona incerta controla actividades como la ingesta de agua y alimentos, la sexualidad y la actividad cardiovascular.
+
+Este control está relacionado con sus efectos sobre el hipotálamo posterior cercano con el que comparte conexiones similares y tipos de células definidas neuroquímicamente.
+
+Además, la activación de las neuronas GABA en la zona incerta rostral evoca un comportamiento de atracones con preferencia por los alimentos dulces y ricos en grasas.
+
+La proyección inhibidora de la zona incerta al tálamo paraventricular contribuye a los atracones producidos por la activación de las neuronas GABA de la zona incerta. También se ha encontrado que la zona incerta modula los comportamientos defensivos tanto innatos como aprendidos a través de sus proyecciones a las neuronas excitatorias de los compartimentos dorsolateral y ventrolateral. de la gris periacueductal.
+
+La activación de las neuronas GABAérgicas en la zona incerta rostral reduce la respuesta de vuelo innata inducida por el sonido y la respuesta de congelación condicionada.
+
+La zona incerta recibe información de dolor a través del tracto espinotalámico y se ha demostrado que esto controla la actividad de la vía de transmisión del dolor en el tálamo posterior. La estimulación eléctrica o química de la zona incerta crea movimientos relacionados con el limbo, como los asociados con la orientación de defensa y cópula.
+Actividades sensorio-motoras. En reposo, la entrada sensorial a las áreas sensoriales superiores de la corteza cerebral se activa a través del tálamo.
+
+Además, se ha propuesto que la zona incerta proporciona un mecanismo de desinhibición de arriba hacia abajo de esta activación cuando hay actividad sensoriomotora, como el uso táctil de los bigotes.
+Esto también se ha relacionado con cambios de activación sensorial entre el sueño y la vigilia.
+
+En esto se produce una inhibición mediada por la zona incerta de los núcleos talámicos, como el tálamo medial posterior somatosensorial.
+
+Esto es más fuerte cuando se reduce la entrada colinérgica a la zona incerta, como durante el sueño de ondas lentas y durante la anestesia.
+
+La consecuencia de esto se ha explicado sobre el procesamiento de la información: como resultado, las neuronas del tálamo medial posterior no responden a las entradas sensoriales ascendentes y funcionan principalmente en un modo de "orden superior", relacionado con la transmisión de información transcortical.
+
+Por el contrario, el aumento de la actividad colinérgica durante la vigilia y el aumento de la vigilancia suprimen la inhibición mediada por la zona incerta, lo que desvía las respuestas del tálamo posterior a las entradas ascendentes.
+La zona incerta se proyecta hacia el colículo superior y estos se vinculan con el inicio de los movimientos de orientación de los ojos y la cabeza.
+
+En los monos, por ejemplo, la actividad neuronal en la zona incerta "se detiene" antes del comienzo de un movimiento sacádico y se reanuda al final de un movimiento sacádico.
+Sincronización de ritmos cerebrales corticales y subcorticales e integración. Se ha sugerido que la entrada GABAérgica recibida de la corteza cerebral sincroniza los ritmos talamocorticales y del tronco encefálico al proporcionar un vínculo entre la salida de los ganglios basales y el bucle cortical cerebelo-tálamo.
+
+Esto le permite sincronizar las oscilaciones generadas por los ganglios basales durante la preparación y ejecución de los movimientos previstos.
+
+Una función del asa es llevar instrucciones de movimiento a la corteza motora a través de la salida de la zona incerta a las neuronas del núcleo lateral ventral en el asa cerebelo-tálamocortical y a las neuronas motoras del tronco encefálico en la formación reticular medial y el área extrapiramidal del mesencéfalo.
+
+Esto actúa para sincronizar las áreas de los ganglios basales involucradas en la planificación y ejecución del movimiento con las del tronco encefálico que controlan las extremidades axiales y proximales.
+músculos con esas áreas en la corteza motora que controlan los movimientos distales de las extremidades.
+Síntesis John Mitrofanis de la Universidad de Sydney ha propuesto una teoría general que podría ser la base de algunas de las anteriores.
+
+La zona incerta está en posición de formar una interfaz sináptica primaria del diencéfalo, vinculando diversos canales sensoriales a respuestas viscerales, de excitación, atención y postura-locomoción apropiadas.
+
+Las diferentes entradas sensoriales, ya sean exteroreceptivas (somáticas) o interoreceptivas (viscerales), influyen en estas actividades al impulsar células de la zona incerta con diferentes patrones y funciones de proyección; cada una de estas células puede estar ubicada en diferentes sectores de la zona... En esencia, se sugiere que la zona incerta tiene las vías para integrar los desafíos sensoriales tanto exteroreceptivos (p. ej., somatosensoriales) como interoreceptivos (p. ej., sed), de modo que la actividad visceral, la excitación , se altera y/o genera la locomoción de la atención y/o postura.
+
+La zona incerta podría formar un nicho neuronal en el tálamo desde donde estas respuestas son "reclutadas" inmediatamente, para dar una respuesta instantánea.
+
+
+== Importancia clínica ==
+
+
+
+=== Enfermedad de Parkinson ===
+
+La enfermedad de Parkinson podría alterar la zona incerta, ya que es hiperactiva en animales de experimentación parkinsonianos.
+
+En humanos con enfermedad de Parkinson, la lesión quirúrgica de la zona incerta alivia sus síntomas motores parkinsonianos.
+La estimulación cerebral profunda del núcleo subtalámico en personas con enfermedad de Parkinson ha identificado la zona incerta como un área objetivo prometedora para una terapia eficaz.
+
+A diferencia de la estimulación bilateral profunda del núcleo lateral ventral, dicha estimulación de la zona incerta mejora todos los aspectos del temblor, incluidas las partes distal y proximal de las extremidades y el cuerpo en general.
+
+Esto también ocurre sin disartria ni desequilibrio, ya que esta estimulación no interrumpe la sensación propioceptiva y el procesamiento de los movimientos de habilidades motoras finas de las cuerdas vocales.
+Los investigadores observaron que "el núcleo lateral ventral se ha establecido durante mucho tiempo como un objetivo quirúrgico eficaz para controlar el temblor de las extremidades distales, incluido el temblor de la enfermedad de Parkinson.
+
+Sin embargo, debido a que recibe predominantemente aferentes cerebelosos y no aferentes directos de los ganglios basales, la razón por la que es eficaz para controlar el temblor de la enfermedad de Parkinson sigue siendo una paradoja.
+
+La conducción de oscilaciones anormales generadas en los ganglios basales en la enfermedad de Parkinson al núcleo lateral ventral a través de la zona incerta explicaría esta paradoja y también explicaría por qué observamos un efecto antitemblor tan potente al estimular la zona incerta en nuestros pacientes con enfermedad de Parkinson". El estudio señaló además que la estimulación cerebral profunda sobre la zona incerta "es eficaz para suprimir todos los componentes del temblor que afectan tanto a la parte distal como a la proximal del cuerpo.
+
+Estos resultados, si se replican en estudios controlados aleatorios más grandes, tienen implicaciones importantes para nuestro tratamiento quirúrgico actual de pacientes con temblor y apuntan a un área objetivo más prometedora que el núcleo lateral ventral del tálamo".
+
+
+=== Síndrome de dolor central ===
+
+El síndrome de dolor central es un dolor iniciado o causado por una lesión o disfunción en el sistema nervioso central.
+
+Investigaciones recientes sugieren que el desarrollo y mantenimiento de dicho dolor podría vincularse a una regulación inhibitoria anormal por parte de la zona incerta del tálamo posterior.
+
+Se ha sugerido que existe una supresión significativa de la actividad espontánea y evocada en las neuronas inhibitorias en la zona incerta y una actividad espontánea y evocada anormalmente alta de las neuronas en el tálamo posterior en animales con síndrome de dolor central.
+
+La asociación positiva entre los umbrales conductuales y neurofisiológicos en ratas con síndrome de dolor central es consistente con un papel causal para las entradas incerto-talámicas suprimidas en el síndrome de dolor central.
+
+
+
+https://en.wikipedia.org/wiki/Zona_incerta
+
+;;;PT;;;
+
+
+
+ZONA INCERTA
+
+
+A zona incerta (ZI) é uma região alongada horizontalmente de substância cinzenta no subtálamo abaixo do tálamo.
+
+Suas conexões projetam-se extensivamente sobre o cérebro, do córtex cerebral até a medula espinhal.
+Sua função é desconhecida, embora várias funções potenciais relacionadas à "integração límbico-motora" tenham sido propostas, como o controle da atividade visceral e da dor; controlando a entrada sensorial e sincronizando os ritmos cerebrais corticais e subcorticais.
+
+Sua disfunção pode desempenhar um papel na síndrome da dor central.
+
+Também foi identificado como um alvo promissor de terapia de estimulação cerebral profunda para o tratamento da doença de Parkinson.
+Sua existência foi descrita pela primeira vez por Auguste Forel em 1877 como uma "região da qual nada certo pode ser dito".
+
+Cento e trinta anos depois, em 2007, Nadia Urbain e Martin Deschênes, da Université Laval, notaram que a "zona incerta está entre as regiões menos estudadas do cérebro; seu nome nem aparece no índice de muitos livros didáticos".
+
+
+== Estrutura ==
+
+Este núcleo está localizado medialmente à cápsula interna, ventral ao tálamo, e é contíguo ao núcleo reticular talâmico.
+
+O núcleo separa o fascículo lenticular do fascículo talâmico (também conhecido como "campo H1 de Forel").
+Suas células são muito heterogêneas, diferindo amplamente em sua forma e tamanho.
+
+Sua quimioarquitetura também é diversificada, contendo até 20 tipos diferentes de células neuroquimicamente definidas.
+
+Observou-se que "Existem poucas regiões diencefálicas que apresentam tanta diversidade celular e neuroquímica". No rato, geralmente são identificadas quatro áreas.
+um setor rostral que possui células fusiformes densamente compactadas e células ovais maiores espalhadas.
+um setor dorsal que possui células ovais de tamanho médio.
+um setor ventral composto de células multipolares ou fusiformes de tamanho médio que são mais densamente compactadas do que as células do setor dorsal
+um setor caudal formado por somatas de tamanho pequeno e médio que são multipolares, fusiformes ou de forma arredondada, juntamente com um grupo de células de formato multipolar muito grandes localizadas medialmente.
+
+Isso às vezes é chamado de parte motora do núcleo da zona incerta.
+
+Esta é a área visada pela área de estimulação cerebral profunda quando a zona incerta é visada no tratamento da doença de Parkinson. Essas áreas não possuem bordas livres de células claras e se fundem. Os neurônios da zona incerta têm dendritos com uma ampla extensão de 0,8 mm e os axônios emitem colaterais que se arborizam localmente dentro da zona incerta, fornecendo um meio de inibição lateral.
+
+A área ventral da zona incerta tem sido descrita como tendo "uma rede de células GABAérgicas com amplas interconexões, de modo que as células de um subsetor podem influenciar a atividade das células de um subsetor diferente". as duas áreas do cérebro que produzem o hormônio de concentração de melanina neuropeptídeo.
+
+Os dopaminérgicos também são mais prevalentes.
+
+Além disso, existem populações de células produtoras de somatostatina, angiotensina II e hormônio estimulador de melanócitos.
+
+
+=== Conexões ===
+
+A zona incerta tem conexões com o córtex cerebral, diencéfalo, gânglios da base, tronco encefálico e medula espinhal.
+
+Córtex cerebral As projeções para a zona incerta surgem através do manto cortical dos lobos frontal para o occipital.
+
+As projeções mais pesadas são do córtex cingulado, áreas frontal e parietal, mas também foram relatadas projeções do córtex pré-frontal medial.
+
+A área da cabeça do corpo parece a partir dessas áreas ter a maior representação na zona incerta.
+
+Essas projeções vão preferencialmente para os neurônios da camada cortical I.
+
+Há projeções da zona incerta de volta ao córtex cerebral.
+Diencéfalo As projeções com o diencéfalo são recíprocas e principalmente para o tálamo, como o núcleo intralaminar (núcleo parafascicular e núcleo lateral central) e núcleos de ordem superior, como o núcleo posterior lateral.
+
+A zona incerta evita os núcleos do tálamo das áreas sensoriais primárias, como o núcleo ventral posterior do sistema somatossensorial e o geniculado lateral do sistema visual.
+
+A zona incerta rostral também envia projeções inibitórias para o tálamo paraventricular com neurotransmissão GABAérgica.
+Hipotálamo As projeções para o hipotálamo pela via incerto-hipotalâmica vão principalmente para as áreas dos núcleos paraventriculares no hipotálamo anterior, hipotálamo lateral, área pré-óptica lateral, banda diagonal horizontal de Broca e região parvocelular do núcleo paraventricular.
+Gânglios basais A zona incerta está conectada nos gânglios basais à substância negra (tanto a pars compacta quanto a pars reticulata) e o núcleo tegmental pedunculopontino (mas apenas sua área de pars dissipata).
+
+Também possui conexões menos importantes com o núcleo entopeduncular e globo pálido.
+
+Essas projeções são glutamatérgicas e excitatórias em vez de GABAérgicas e inibitórias.
+
+A zona incerta também recebe insumos dessas áreas.
+
+CerebeloO cerebelo envia um número significativo de fibras para a zona incerta.
+Essas projeções se originam de vários núcleos cerebelares e são glutamatérgicas.
+
+Dadas as contribuições do cerebelo para o aprendizado motor, tempo e coordenação, as interações entre o cerebelo com a zona incerta provavelmente terão profunda influência nas funções motoras.
+
+A zona incerta do tronco encefálico recebe informações de muitas partes dos núcleos do tronco encefálico, incluindo a substância cinzenta periaquedutal, os núcleos da rafe, o núcleo reticular talâmico e as camadas profundas do colículo superior.
+
+É regulado por estímulos de núcleos colinérgicos do tronco cerebral, como o núcleo tegmental látero-dorsal e o núcleo pedunculopontino, sobre os receptores muscarínicos de seu neurônio.
+
+A zona incerta rostral também inerva os compartimentos dorsolateral e ventrolateral da substância cinzenta periaquedutal.
+Medula espinhal Os aferentes da zona incerta terminam na substância cinzenta da medula espinhal, particularmente no corno anterior, enquanto as projeções espinhais de volta à zona incerta surgem de células localizadas através do corno posterior e cinza intermediário.
+
+OutrosZona incerta também tem conexões com a amígdala, prosencéfalo basal, os osmorreceptores no órgão subfornical, bulbo olfatório, hipófise posterior e habênula.
+Algumas dessas projeções aparecem registradas; a representação da mesma parte do corpo no córtex e na medula espinhal conecta-se às mesmas áreas na zona incerta.
+
+Isto é possivelmente assim com o colículo superior.
+
+
+== Função ==
+
+Atividades de sobrevivência visceral.Zona incerta controla atividades como ingestão de água e alimentos, sexualidade e atividade cardiovascular.
+
+Esse controle está relacionado aos seus efeitos sobre o hipotálamo posterior próximo, com o qual compartilha conexões semelhantes e tipos de células neuroquimicamente definidos.
+
+Além disso, a ativação de neurônios GABA na zona rostral incerta evoca o comportamento de compulsão alimentar com preferência a alimentos doces e ricos em gordura.
+
+A projeção inibitória da zona incerta para o tálamo paraventricular contribui para a compulsão alimentar produzida pela ativação do neurônio GABA da zona incerta. A zona incerta também modula comportamentos defensivos inatos e aprendidos por meio de suas projeções para os neurônios excitatórios dos compartimentos dorsolateral e ventrolateral do cinza periaquedutal.
+
+A ativação dos neurônios GABAérgicos na zona rostral incerta reduz a resposta inata de voo induzida pelo som e a resposta de congelamento condicionado.
+
+A zona incerta recebe a entrada de dor através do trato espinotalâmico e isso demonstrou controlar a atividade da via de transmissão da dor no tálamo posterior. A estimulação elétrica ou química da zona incerta cria movimentos relacionados ao límbico, como aqueles associados à orientação de defesa e cópula.
+Atividades sensório-motoras. Em repouso, a entrada sensorial para as áreas sensoriais superiores do córtex cerebral é controlada pelo tálamo.
+
+Além disso, foi proposto que a zona incerta fornece um mecanismo de desinibição de cima para baixo desse portão quando há atividade sensório-motora, como o uso tátil de bigodes.
+Isso também tem sido associado a mudanças sensoriais entre o sono e a vigília.
+
+Neste ocorre uma inibição mediada pela zona incerta dos núcleos talâmicos como o tálamo medial posterior somatossensorial.
+
+Isso é mais forte quando a entrada colinérgica para a zona incerta é reduzida, como durante o sono de ondas lentas e durante a anestesia.
+
+A consequência disso foi explicada no processamento de informações: como resultado, os neurônios do tálamo medial posterior não respondem às entradas sensoriais ascendentes e funcionam principalmente no modo de "ordem superior", preocupado com a transmissão de informações transcorticais.
+
+Em contraste, o aumento da atividade colinérgica durante a vigília e o aumento da vigilância suprimem a inibição mediada pela zona incerta, desencadeando assim as respostas do tálamo posterior às entradas ascendentes.
+A zona incerta projeta-se para o colículo superior e estes se ligam ao início dos movimentos orientadores dos olhos e da cabeça.
+
+Em macacos, por exemplo, a atividade neuronal na zona incerta "pausa" antes do início de uma sacada e recomeça no final de uma sacada.
+Sincronizando ritmos cerebrais corticais e subcorticais e integração. A entrada GABAérgica recebida do córtex cerebral foi sugerida para sincronizar os ritmos talamocorticais e do tronco cerebral, fornecendo uma ligação entre a saída dos gânglios basais e a alça cortical cerebelo-tálamo.
+
+Isso permite sincronizar as oscilações geradas pelos gânglios da base durante a preparação e execução dos movimentos pretendidos.
+
+Uma função da alça é transportar instruções de movimento para o córtex motor através da saída da zona incerta para os neurônios do núcleo lateral ventral na alça cerebelo-tálamocortical e para os neurônios motores do tronco encefálico na formação reticular medial e na área extrapiramidal do mesencéfalo.
+
+Isso atua para sincronizar as áreas dos gânglios basais envolvidas no planejamento e execução do movimento com aquelas no tronco encefálico que controlam o membro axial e proximal
+músculos com as áreas do córtex motor que controlam os movimentos distais dos membros.
+Síntese John Mitrofanis, da Universidade de Sydney, propôs uma teoria geral que pode fundamentar algumas das anteriores.
+
+A zona incerta está em posição de formar uma interface sináptica primária do diencéfalo, ligando diversos canais sensoriais a respostas viscerais, de excitação, atenção e postura-locomoção apropriadas.
+
+As diferentes entradas sensoriais, sejam exteroreceptivas (somáticas) ou interorreceptivas (viscerais), influenciam essas atividades ao conduzir células da zona incerta com diferentes padrões e funções de projeção; cada uma dessas células pode estar localizada em diferentes setores da zona… Em essência, sugere-se que a zona incerta tenha os caminhos para integrar os desafios sensoriais tanto exterorreceptivos (por exemplo, somatossensoriais) quanto interorreceptivos (por exemplo, sede), de modo que a atividade visceral, a excitação , a atenção e/ou postura de locomoção são alteradas e/ou geradas.
+
+A zona incerta pode formar um nicho neural no tálamo de onde essas respostas são "recrutadas" imediatamente, para dar uma resposta instantânea.
+
+
+== Significado clínico ==
+
+
+
+=== Doença de Parkinson ===
+
+A doença de Parkinson pode perturbar a zona incerta, pois é hiperativa em animais experimentais parkinsonianos.
+
+Em humanos com doença de Parkinson, a lesão cirúrgica da zona incerta alivia os sintomas motores parkinsonianos.
+A estimulação cerebral profunda do núcleo subtalâmico em pacientes com doença de Parkinson identificou a zona incerta como uma área alvo promissora para uma terapia eficaz.
+
+Ao contrário da estimulação bilateral profunda do núcleo ventral lateral, tal estimulação da zona incerta melhora todos os aspectos do tremor, incluindo as partes distal e proximal dos membros e do corpo em geral.
+
+Isso também ocorre sem disartria e desequilíbrio, pois essa estimulação não interrompe a sensação proprioceptiva e o processamento dos movimentos da habilidade motora fina das cordas vocais.
+Os pesquisadores observaram que "o núcleo lateral ventral tem sido estabelecido há muito tempo como um alvo cirúrgico eficaz para controlar o tremor distal dos membros, incluindo o tremor da doença de Parkinson.
+
+No entanto, por receber predominantemente aferentes cerebelares e não aferentes diretos dos gânglios da base, a razão pela qual é eficaz no controle do tremor da Doença de Parkinson permanece um paradoxo.
+
+A condução de oscilações anormais geradas nos gânglios da base na doença de Parkinson para o núcleo lateral ventral via zona incerta explicaria, portanto, esse paradoxo e também explicaria por que observamos um efeito anti-tremor tão potente ao estimular a zona incerta em nossos pacientes com doença de Parkinson " O estudo observou ainda que a estimulação cerebral profunda na zona incerta “é eficaz na supressão de todos os componentes do tremor que afeta a parte distal e proximal do corpo.
+
+Esses resultados, se replicados em estudos controlados randomizados maiores, têm implicações importantes para o nosso tratamento cirúrgico atual de pacientes com tremor e apontam para uma área-alvo mais promissora do que o núcleo lateral ventral do tálamo".
+
+
+=== Síndrome da dor central ===
+
+A síndrome da dor central é a dor iniciada ou causada por lesão ou disfunção no sistema nervoso central.
+
+Pesquisas recentes sugerem que o desenvolvimento e a manutenção dessa dor podem estar ligados à regulação inibitória anormal pela zona incerta do tálamo posterior.
+
+Foi sugerido que existe uma supressão significativa da atividade espontânea e evocada em neurônios inibitórios na zona incerta e atividade espontânea e evocada anormalmente alta de neurônios no tálamo posterior em animais com síndrome da dor central.
+
+A associação positiva entre os limiares comportamentais e neurofisiológicos em ratos com síndrome de dor central é consistente com um papel causal para entradas incerto-talâmicas suprimidas na síndrome de dor central.
+
+
+
+https://en.wikipedia.org/wiki/Zona_incerta
+
+;;;FR;;;
+
+
+
+ZONE INCERTA
+
+
+La zona incerta (ZI) est une région allongée horizontalement de matière grise dans le sous-thalamus sous le thalamus.
+
+Ses connexions se projettent largement sur le cerveau depuis le cortex cérébral jusqu'à la moelle épinière.
+Sa fonction est inconnue, bien que plusieurs fonctions potentielles liées à «l'intégration limbique-motrice» aient été proposées, telles que le contrôle de l'activité viscérale et de la douleur; déclencher les entrées sensorielles et synchroniser les rythmes cérébraux corticaux et sous-corticaux.
+
+Son dysfonctionnement peut jouer un rôle dans le syndrome de la douleur centrale.
+
+Il a également été identifié comme une cible thérapeutique prometteuse de stimulation cérébrale profonde pour le traitement de la maladie de Parkinson.
+Son existence a été décrite pour la première fois par Auguste Forel en 1877 comme une "région dont on ne peut rien dire de certain".
+
+Cent trente ans plus tard, en 2007, Nadia Urbain et Martin Deschênes de l'Université Laval notaient que « la zona incerta fait partie des régions du cerveau les moins étudiées ; son nom n'apparaît même pas dans l'index de nombreux manuels ».
+
+
+== Structure ==
+
+Ce noyau est situé médialement à la capsule interne, ventral au thalamus, et est contigu au noyau réticulaire thalamique.
+
+Le noyau sépare le faisceau lenticulaire du faisceau thalamique (appelé aussi "champ H1 de Forel").
+Ses cellules sont très hétérogènes et diffèrent largement par leur forme et leur taille.
+
+Sa chimioarchitecture est également diversifiée et contient jusqu'à 20 types différents de cellules définies neurochimiquement.
+
+Il a été noté qu'« il y a peu de régions diencéphaliques qui ont autant de diversité cellulaire et neurochimique ». Chez le rat quatre régions sont habituellement identifiées.
+un secteur rostral qui a des cellules fusiformes densément emballées et des cellules ovales plus grandes dispersées.
+un secteur dorsal qui a des cellules ovales de taille moyenne.
+un secteur ventral composé de cellules multipolaires ou fusiformes de taille moyenne plus denses que les cellules du secteur dorsal
+un secteur caudal composé de somates de petite et moyenne taille, de forme multipolaire, fusiforme ou arrondie, ainsi que d'un groupe de très grandes cellules de forme multipolaire situées médialement.
+
+Ceci est parfois appelé la partie motrice du noyau zona incerta.
+
+Il s'agit de la zone ciblée par la zone de stimulation cérébrale profonde lorsque la zone incerta est ciblée dans le traitement de la maladie de Parkinson. Ces zones manquent de frontières claires sans cellules et se confondent les unes avec les autres. les axones dégagent des collatéraux qui s'arborisent localement dans la zona incerta, fournissant un moyen d'inhibition latérale.
+
+La zone ventrale de la zona incerta a été décrite comme ayant "un réseau de cellules GABAergiques avec des interconnexions étendues, de sorte que les cellules d'un sous-secteur peuvent influencer l'activité des cellules d'un sous-secteur différent". La zona incerta avec l'hypothalamus est l'un des les deux zones du cerveau qui produisent l'hormone de concentration de mélanine neuropeptide.
+
+Les dopaminergiques sont également plus répandus.
+
+Il existe en outre des populations de cellules productrices de somatostatine, d'angiotensine II et d'hormone de stimulation des mélanocytes.
+
+
+=== Connexions ===
+
+La zona incerta est reliée au cortex cérébral, au diencéphale, aux ganglions de la base, au tronc cérébral et à la moelle épinière.
+
+Cortex cérébral Les projections vers la zona incerta surviennent à travers le manteau cortical du frontal aux lobes occipitaux.
+
+Les projections les plus lourdes proviennent du cortex cingulaire, des zones frontales et pariétales, mais des projections du cortex préfrontal médian ont également été rapportées.
+
+La zone de la tête du corps semble, à partir de ces zones, avoir la plus grande représentation dans la zona incerta.
+
+Ces projections vont préférentiellement aux neurones de la couche corticale I.
+
+Il y a des projections de la zona incerta vers le cortex cérébral.
+Diencéphale Les projections avec le diencéphale sont réciproques et principalement vers le thalamus comme le noyau intralaminaire (noyau parafasciculaire et noyau latéral central) et les noyaux d'ordre supérieur comme le noyau postérieur latéral.
+
+La zona incerta évite les noyaux du thalamus des aires sensorielles primaires telles que le noyau postérieur ventral du système somatosensoriel et le genou latéral du système visuel.
+
+La zone incertée rostrale envoie également des projections inhibitrices au thalamus paraventriculaire avec la neurotransmission GABAergique.
+HypothalamusLes projections vers l'hypothalamus par voie incertohypothalamique vont principalement aux zones du noyau paraventriculaire dans l'hypothalamus antérieur, l'hypothalamus latéral, la zone préoptique latérale, la bande diagonale horizontale de Broca et la région parvocellulaire du noyau paraventriculaire.
+Ganglions de la baseZona incerta est connectée dans les ganglions de la base à la substantia nigra (à la fois pars compacta et pars reticulata) et au noyau tegmental pédonculopontin (mais uniquement à sa zone de pars dissipata).
+
+Il a également des connexions moins importantes avec le noyau entopédonculaire et le globus pallidus.
+
+Ces projections sont glutamatergiques et excitatrices plutôt que GABAergiques et inhibitrices.
+
+La zona incerta reçoit également des contributions de ces zones.
+
+CerveletLe cervelet envoie un nombre important de fibres vers la zona incerta.
+Ces projections proviennent de divers noyaux cérébelleux et sont glutamatergiques.
+
+Compte tenu des contributions cérébelleuses à l'apprentissage moteur, au timing et à la coordination, les interactions entre le cervelet et la zona incerta sont susceptibles d'avoir une profonde influence sur les fonctions motrices.
+
+BrainstemZona incerta reçoit des informations de nombreuses parties des noyaux du tronc cérébral, notamment le gris périaqueducal, les noyaux du raphé, le noyau réticulaire thalamique et les couches profondes du colliculus supérieur.
+
+Il est régulé par les entrées des noyaux cholinergiques du tronc cérébral tels que le noyau tegmental latérodorsal et le noyau pédonculopontin sur les récepteurs muscariniques de ses neurones.
+
+La zone incertée rostrale innerve également les compartiments dorsolatéral et ventrolatéral du gris périaqueducal.
+Moelle épinièreLes afférences de la zone incerta se terminent dans la matière grise de la moelle épinière, en particulier la corne antérieure, tandis que les projections vertébrales vers la zone incerta proviennent de cellules situées à travers la corne postérieure et le gris intermédiaire.
+
+OtherZona incerta a également des liens avec l'amygdale, le cerveau antérieur basal, les osmorécepteurs de l'organe sous-fornique, le bulbe olfactif, l'hypophyse postérieure et l'habenula.
+Certaines de ces projections apparaissent en registre ; la représentation de la même partie du corps dans le cortex et la moelle épinière se connecte aux mêmes zones de la zona incerta.
+
+C'est peut-être le cas avec le colliculus supérieur.
+
+
+== Fonction ==
+
+Activités de survie viscérale.Zona incerta contrôle des activités telles que la consommation d'eau et de nourriture, la sexualité et l'activité cardiovasculaire.
+
+Ce contrôle est lié à ses effets sur l'hypothalamus postérieur voisin avec lequel il partage des connexions similaires et des types de cellules définis neurochimiquement.
+
+En outre, l'activation des neurones GABA dans la zone incertée rostrale évoque un comportement de frénésie alimentaire avec une préférence pour les aliments sucrés et riches en graisses.
+
+La projection inhibitrice de la zone incerta au thalamus paraventriculaire contribue à l'hyperphagie boulimique produite par l'activation des neurones GABA de la zone incerta. Il a également été constaté que la zone incerta module les comportements défensifs innés et appris grâce à ses projections sur les neurones excitateurs des compartiments dorsolatéral et ventrolatéral. du gris périaqueducal.
+
+L'activation des neurones GABAergiques dans la zone incertée rostrale réduit la réponse de vol innée induite par le son et la réponse de congélation conditionnée.
+
+La zona incerta reçoit un apport de douleur par le tractus spinothalamique et il a été démontré qu'il contrôle l'activité de la voie de transmission de la douleur dans le thalamus postérieur. La stimulation électrique ou chimique de la zona incerta crée des mouvements liés aux limbes, tels que ceux associés à l'orientation de défense et l'accouplement.
+Activités sensori-motrices. Au repos, l'influx sensoriel vers les zones sensorielles supérieures du cortex cérébral passe par le thalamus.
+
+Il a par ailleurs été proposé que la zona incerta fournisse un mécanisme de désinhibition descendante de ce déclenchement lorsqu'il y a une activité sensori-motrice telle que l'utilisation tactile des moustaches.
+Cela a également été lié aux changements de déclenchement sensoriel entre le sommeil et le réveil.
+
+Dans cela se produit une inhibition médiée par la zone incerta des noyaux thalamiques tels que le thalamus médian postérieur somatosensoriel.
+
+Ceci est le plus fort lorsque l'apport cholinergique à la zone incertée est réduit, comme pendant le sommeil à ondes lentes et pendant l'anesthésie.
+
+La conséquence de cela a été expliquée sur le traitement de l'information : en conséquence, les neurones du thalamus médial postérieur ne répondent pas aux entrées sensorielles ascendantes et fonctionnent principalement en mode "d'ordre supérieur", concerné par le relais des informations trans-corticales.
+
+En revanche, une activité cholinergique accrue pendant l'éveil et une vigilance accrue suppriment l'inhibition médiée par la zona incerta, annulant ainsi les réponses postérieures du thalamus aux entrées ascendantes.
+La zona incerta se projette sur le colliculus supérieur et ceux-ci sont liés à l'initiation des mouvements d'orientation des yeux et de la tête.
+
+Chez le singe par exemple l'activité neuronale dans la zona incerta "s'arrête" avant le début d'une saccade et reprend à la fin d'une saccade.
+Synchronisation des rythmes cérébraux corticaux et sous-corticaux et intégration. L'entrée GABAergique reçue du cortex cérébral a été suggérée pour synchroniser les rythmes thalamocorticaux et du tronc cérébral en fournissant un lien entre la sortie des ganglions de la base et la boucle corticale cérébello-thalamo.
+
+Cela lui permet de synchroniser les oscillations générées par les ganglions de la base lors de la préparation et de l'exécution des mouvements prévus.
+
+L'une des fonctions de la boucle est de transmettre les instructions de mouvement au cortex moteur via la sortie de la zone incerta vers les neurones du noyau latéral ventral dans la boucle cérébello-thalamocorticale et vers les motoneurones du tronc cérébral dans la formation réticulaire médiale et la zone extrapyramidale du mésencéphale.
+
+Cela agit pour synchroniser les zones des ganglions de la base impliquées dans la planification et l'exécution du mouvement avec celles du tronc cérébral contrôlant les membres axiaux et proximaux.
+muscles avec les zones du cortex moteur qui contrôlent les mouvements des membres distaux.
+SynthèseJohn Mitrofanis de l'Université de Sydney a proposé une théorie générale qui pourrait sous-tendre certains des éléments ci-dessus.
+
+La zona incerta est en mesure de former une interface synaptique primale du diencéphale, reliant divers canaux sensoriels aux réponses viscérales, d'éveil, d'attention et de posture-locomotion appropriées.
+
+Les différentes entrées sensorielles, qu'elles soient extéroréceptives (somatiques) ou interréceptives (viscérales), influencent ces activités en pilotant les cellules de la zona incerta avec différents modèles et fonctions de projection; chacune de ces cellules peut être située dans différents secteurs de la zone… En substance, il est suggéré que la zona incerta a les voies pour intégrer à la fois les défis sensoriels extéroréceptifs (par exemple somatosensoriels) et interoréceptifs (par exemple la soif), de sorte que l'activité viscérale, l'excitation , l'attention et/ou la locomotion posturale sont altérées et/ou générées.
+
+La zona incerta pourrait former une niche neurale dans le thalamus d'où ces réponses sont "recrutées" immédiatement, comme pour donner une réponse instantanée.
+
+
+== Signification clinique ==
+
+
+
+=== Maladie de Parkinson ===
+
+La maladie de Parkinson pourrait perturber la zona incerta car elle est hyperactive chez les animaux de laboratoire parkinsoniens.
+
+Chez les humains atteints de la maladie de Parkinson, la lésion chirurgicale de la zona incerta atténue leurs symptômes moteurs parkinsoniens.
+La stimulation cérébrale profonde du noyau sous-thalamique chez les personnes atteintes de la maladie de Parkinson a identifié la zona incerta comme une zone cible prometteuse pour une thérapie efficace.
+
+Contrairement à la stimulation bilatérale profonde du noyau latéral ventral, une telle stimulation de la zona incerta améliore tous les aspects du tremblement, y compris les parties distale et proximale des membres et le corps plus généralement.
+
+Cela se produit également sans dysarthrie ni déséquilibre car cette stimulation n'interrompt pas la sensation proprioceptive et le traitement des mouvements de motricité fine des cordes vocales.
+Les chercheurs ont observé que "le noyau latéral ventral est depuis longtemps établi comme une cible chirurgicale efficace pour contrôler les tremblements distaux des membres, y compris les tremblements de la maladie de Parkinson.
+
+Cependant, comme il reçoit principalement des afférences cérébelleuses et pas d'afférences directes des ganglions de la base, la raison pour laquelle il est efficace pour contrôler les tremblements de la maladie de Parkinson est restée un paradoxe.
+
+La conduction d'oscillations anormales générées dans les ganglions de la base dans la maladie de Parkinson vers le noyau latéral ventral via la zona incerta expliquerait donc ce paradoxe et expliquerait également pourquoi nous avons observé un effet anti-tremblement aussi puissant en stimulant la zona incerta chez nos patients atteints de la maladie de Parkinson " L'étude a en outre noté que la stimulation cérébrale profonde sur la zona incerta "est efficace pour supprimer tous les composants du tremblement affectant à la fois la partie distale et proximale du corps.
+
+Ces résultats, s'ils sont reproduits dans de plus grandes études contrôlées randomisées, ont des implications importantes pour notre gestion chirurgicale actuelle des patients souffrant de tremblements et indiquent une zone cible plus prometteuse que le noyau latéral ventral du thalamus.
+
+
+=== Syndrome douloureux central ===
+
+Le syndrome de la douleur centrale est une douleur initiée ou causée par une blessure ou un dysfonctionnement du système nerveux central.
+
+Des recherches récentes suggèrent que le développement et le maintien d'une telle douleur pourraient être liés à une régulation inhibitrice anormale par la zone incerta du thalamus postérieur.
+
+Il a été suggéré qu'il existe une suppression significative de l'activité spontanée et évoquée dans les neurones inhibiteurs de la zone incerta et une activité spontanée et évoquée anormalement élevée des neurones du thalamus postérieur chez les animaux atteints du syndrome de la douleur centrale.
+
+L'association positive entre les seuils comportementaux et neurophysiologiques chez les rats atteints du syndrome de la douleur centrale est compatible avec un rôle causal pour les entrées incerto-thalamiques supprimées dans le syndrome de la douleur centrale.
+
+
+
+https://en.wikipedia.org/wiki/Zona_incerta

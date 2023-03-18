@@ -1,0 +1,1048 @@
+
+
+SUPERIOR COLLICULUS
+
+
+The superior colliculus (Latin for upper hill) is a structure lying on the roof of the mammalian midbrain. 
+
+In non-mammalian vertebrates, the homologous structure is known as the optic tectum, or optic lobe. 
+
+The adjective form tectal is commonly used for both structures.
+
+In mammals, the superior colliculus forms a major component of the midbrain. 
+
+It is a paired structure and together with the paired inferior colliculi forms the lamina quadrigemina. 
+
+The superior colliculus is a layered structure, with a pattern that is similar to all mammals. 
+
+The layers can be grouped into the superficial layers (stratum opticum and above) and the deeper remaining layers. 
+
+Neurons in the superficial layers receive direct input from the retina and respond almost exclusively to visual stimuli. 
+
+Many neurons in the deeper layers also respond to other modalities, and some respond to stimuli in multiple modalities. 
+
+The deeper layers also contain a population of motor-related neurons, capable of activating eye movements as well as other responses. 
+
+In other vertebrates the number of layers in the homologous optic tectum varies.
+
+The general function of the tectal system is to direct behavioral responses toward specific points in body-centered space. 
+
+Each layer contains a topographic map of the surrounding world in retinotopic coordinates, and activation of neurons at a particular point in the map evokes a response directed toward the corresponding point in space. 
+
+In primates, the superior colliculus has been studied mainly with respect to its role in directing eye movements. 
+
+Visual input from the retina, or "command" input from the cerebral cortex, create a "bump" of activity in the tectal map, which, if strong enough, induces a saccadic eye movement. 
+
+Even in primates, however, the superior colliculus is also involved in generating spatially directed head turns, arm-reaching movements, and shifts in attention that do not involve any overt movements. 
+
+In other species, the superior colliculus is involved in a wide range of responses, including whole-body turns in walking rats. 
+
+In mammals, and especially primates, the massive expansion of the cerebral cortex reduces the superior colliculus to a much smaller fraction of the whole brain. 
+
+It remains nonetheless important in terms of function as the primary integrating center for eye movements.
+
+In non-mammalian species the optic tectum is involved in many responses including swimming in fish, flying in birds, tongue-strikes toward prey in frogs, and fang-strikes in snakes. 
+
+In some species, including fish and birds, the optic tectum, also known as the optic lobe, is one of the largest components of the brain.
+
+Note on terminology: 
+    
+    This article follows terminology established in the literature, using the term "superior colliculus" when discussing mammals and "optic tectum" when discussing either specific non-mammalian species or vertebrates in general.
+
+
+== Structure ==
+
+The superior colliculus is a synaptic layered structure. 
+
+The two superior colliculi sit below the thalamus and surround the pineal gland in the mammalian midbrain. 
+
+It comprises the dorsal aspect of the midbrain, posterior to the periaqueductal gray and immediately superior to the inferior colliculus. 
+
+The inferior and superior colliculi are known collectively as the corpora quadrigemina (Latin for quadruplet bodies). 
+
+The superior colliculi are larger than the inferior colliculi, though the inferior colliculi are more prominent. 
+
+The brachium of superior colliculus (or superior brachium) is a branch that extends laterally from the superior colliculus, and, passing to the thalamus between the pulvinar and the medial geniculate nuclei, is partly continued into an eminence called the lateral geniculate nucleus, and partly into the optic tract.
+
+The superior colliculus is associated with a nearby structure called the parabigeminal nucleus, often referred to as its satellite. 
+
+In the optic tectum this nearby structure is known as the nucleus isthmi.
+
+
+=== Neural circuitry ===
+
+The microstructure of the superior colliculus and of the optic tectum, varies across species. 
+
+As a general rule, there is always a clear distinction between superficial layers, which receive input primarily from the visual system and show primarily visual responses, and deeper layers, which receive many types of input and project to numerous motor-related brain areas. 
+
+The distinction between these two zones is so clear and consistent that some anatomists have suggested that they should be considered separate brain structures.
+
+In mammals, neuroanatomists conventionally identify seven layers The top three layers are called superficial:
+
+Lamina I or SZ, the stratum zonale, is a thin layer consisting of small myelinated axons together with marginal and horizontal cells.
+
+Lamina II or SGS, the stratum griseum superficiale ("superficial gray layer"), contains many neurons of various shapes and sizes.
+
+Lamina III or SO, the stratum opticum ("optic layer"), consists mainly of axons coming from the optic tract.Next come two intermediate layers:
+
+Lamina IV or SGI, the stratum griseum intermedium ("intermediate gray layer"), is the thickest layer, and is filled with many neurons of many sizes. 
+
+This layer is often as thick as all the other layers together. 
+
+It is often subdivided into "upper" and "lower" parts.
+Lamina V or SAI, the stratum album intermedium ("intermediate white layer"), consists mainly of fibers from various sources.Finally come the two deep layers:
+
+Lamina VI or SGP, the stratum griseum profundum ("deep gray layer"), consists of loosely packed neurons and myelinated fibers.
+
+Lamina VII or SAP, the stratum album profundum ("deep white layer"), lying directly above the periaqueductal gray, consists entirely of fibers.
+
+The superficial layers receive input mainly from the retina, vision-related areas of the cerebral cortex, and two tectal-related structures called the pretectum and parabigeminal nucleus. 
+
+The retinal input encompasses the entire superficial zone, and is bilateral, although the contralateral portion is more extensive. 
+
+The cortical input comes most heavily from the primary visual cortex (area 17, V1), the secondary visual cortex (areas 18 and 19), and the frontal eye fields. 
+
+The parabigeminal nucleus plays a very important role in tectal function that is described below.
+
+In contrast to the vision-dominated inputs to the superficial layers, the intermediate and deep layers receive inputs from a very diverse set of sensory and motor structures. 
+
+Most areas of the cerebral cortex project to these layers, although the input from "association" areas tends to be heavier than the input from primary sensory or motor areas. 
+
+However, the cortical areas involved, and the strength of their relative projections differs across species. 
+
+Another important input comes from the substantia nigra, pars reticulata, a component of the basal ganglia. 
+
+This projection uses the inhibitory neurotransmitter GABA, and is thought to exert a "gating" effect on the superior colliculus. 
+
+The intermediate and deep layers also receive input from the spinal trigeminal nucleus, which conveys somatosensory information from the face, as well as the hypothalamus, zona incerta, thalamus, and inferior colliculus.
+
+In addition to their distinctive inputs, the superficial and deep zones of the superior colliculus also have distinctive outputs. 
+
+One of the most important outputs goes to the pulvinar and lateral intermediate areas of the thalamus, which in turn project to areas of the cerebral cortex that are involved in controlling eye movements. 
+
+There are also projections from the superficial zone to the pretectal nuclei, lateral geniculate nucleus of the thalamus, and the parabigeminal nucleus. 
+
+The projections from the deeper layers are more extensive. 
+
+There are two large descending pathways, traveling to the brainstem and spinal cord, and numerous ascending projections to a variety of sensory and motor centers, including several that are involved in generating eye movements.
+
+Both colliculi also have descending projections to the paramedian pontine reticular formation and spinal cord, and thus can be involved in responses to stimuli faster than cortical processing would allow.
+
+
+=== Mosaic structure ===
+
+On detailed examination the collicular layers are actually not smooth sheets, but divided into a honeycomb arrangement of discrete columns. 
+
+The clearest indication of columnar structure comes from the cholinergic inputs arising from the parabigeminal nucleus, whose terminals form evenly spaced clusters that extend from top to bottom of the tectum. 
+
+Several other neurochemical markers including calretinin, parvalbumin, GAP-43, and NMDA receptors, and connections with numerous other brain structures in the brainstem and diencephalon, also show a corresponding inhomogeneity. 
+
+The total number of columns has been estimated at around 100. 
+
+The functional significance of this columnar architecture is not clear, but it is interesting that recent evidence has implicated the cholinergic inputs as part of a recurrent circuit producing winner-take-all dynamics within the tectum, as described in more detail below.
+
+All species that have been examined — including mammals and non-mammals — show compartmentalization, but there are some systematic differences in the details of the arrangement. 
+
+In species with a streak-type retina (mainly species with laterally placed eyes, such as rabbits and deer), the compartments cover the full extent of the SC. 
+
+In species with a centrally placed fovea, however, the compartmentalization breaks down in the front (rostral) part of the SC. 
+
+This portion of the SC contains many "fixation" neurons that fire continually while the eyes remain fixed in a constant position.
+
+
+== Function ==
+
+The history of investigation of the optic tectum has been marked by several large shifts in opinion. 
+
+Before about 1970, most studies involved non-mammals — fish, frogs, birds - that is, species in which the optic tectum is the dominant structure that receives input from the eyes. 
+
+The general view then was that the optic tectum, in these species, is the main visual center in the non-mammalian brain, and, as a consequence, is involved in a wide variety of behaviors. 
+
+From the 1970s to 1990s, however, neural recordings from mammals, mostly monkeys, focused primarily on the role of the superior colliculus in controlling eye movements. 
+
+This line of investigation came to dominate the literature to such a degree that the majority opinion was that eye-movement control is the only important function in mammals, a view still reflected in many current textbooks.
+
+In the late 1990s, however, experiments using animals whose heads were free to move showed clearly that the SC actually produces gaze shifts, usually composed of combined head and eye movements, rather than eye movements per se. 
+
+This discovery reawakened interest in the full breadth of functions of the superior colliculus, and led to studies of multisensory integration in a variety of species and situations. 
+
+Nevertheless, the role of the SC in controlling eye movements is understood in much greater depth than any other function.
+
+Behavioral studies have shown that the SC is not needed for object recognition, but plays a critical role in the ability to direct behaviors toward specific objects, and can support this ability even in the absence of the cerebral cortex. 
+
+Thus, cats with major damage to the visual cortex cannot recognize objects, but may still be able to follow and orient toward moving stimuli, although more slowly than usual. 
+
+If one half of the SC is removed, however, the cats will circle constantly toward the side of the lesion, and orient compulsively toward objects located there, but fail to orient at all toward objects located in the opposite hemifield. 
+
+These deficits diminish over time but never disappear.
+
+
+=== Eye movements ===
+
+
+In primates, eye movements can be divided into several types: fixation, in which the eyes are directed toward a motionless object, with eye movements only to compensate for movements of the head; smooth pursuit, in which the eyes move steadily to track a moving object; saccades, in which the eyes move very rapidly from one location to another; and vergence, in which the eyes move simultaneously in opposite directions to obtain or maintain single binocular vision. 
+
+The superior colliculus is involved in all of these, but its role in saccades has been studied most intensively.
+
+Each of the two colliculi — one on each side of the brain — contains a two-dimensional map representing half of the visual field. 
+
+The fovea — the region of maximum sensitivity — is represented at the front edge of the map, and the periphery at the back edge. 
+
+Eye movements are evoked by activity in the deep layers of the SC. 
+
+During fixation, neurons near the front edge — the foveal zone — are tonically active. 
+
+During smooth pursuit, neurons a small distance from the front edge are activated, leading to small eye movements. 
+
+For saccades, neurons are activated in a region that represents the point to which the saccade will be directed. 
+
+Just prior to a saccade, activity rapidly builds up at the target location and decreases in other parts of the SC. 
+
+The coding is rather broad, so that for any given saccade the activity profile forms a "hill" that encompasses a substantial fraction of the collicular map: 
+
+    The location of the peak of this "hill" represents the saccade target.
+
+The SC encodes the target of a gaze shift, but it does not seem to specify the precise movements needed to get there. 
+
+The decomposition of a gaze shift into head and eye movements and the precise trajectory of the eye during a saccade depend on integration of collicular and non-collicular signals by downstream motor areas, in ways that are not yet well understood. 
+
+Regardless of how the movement is evoked or performed, the SC encodes it in "retinotopic" coordinates: that is, the location of the SC 'hill" corresponds to a fixed location on the retina. 
+
+This seems to contradict the observation that stimulation of a single point on the SC can result in different gaze shift directions, depending on initial eye orientation. 
+
+However, it has been shown that this is because the retinal location of a stimulus is a non-linear function of target location, eye orientation, and the spherical geometry of the eye.
+
+There has been some controversy about whether the SC merely commands eye movements, and leaves the execution to other structures, or whether it actively participates in the performance of a saccade. 
+
+In 1991, Munoz et al., on the basis of data they collected, argued that, during a saccade, the "hill" of activity in the SC moves gradually, to reflect the changing offset of the eye from the target location while the saccade is progressing. 
+
+At present, the predominant view is that, although the "hill" does shift slightly during a saccade, it does not shift in the steady and proportionate way that the "moving hill" hypothesis predicts. 
+
+However, moving hills may play another role in the superior colliculus; more recent experiments have demonstrated a continuously moving hill of visual memory activity when the eyes move slowly while a separate saccade target is retained.
+
+The output from the motor sector of the SC goes to a set of midbrain and brainstem nuclei, which transform the "place" code used by the SC into the "rate" code used by oculomotor neurons. 
+
+Eye movements are generated by six muscles, arranged in three orthogonally-aligned pairs. 
+
+Thus, at the level of the final common path, eye movements are encoded in essentially a Cartesian coordinate system.
+
+Although the SC receives a strong input directly from the retina, in primates it is largely under the control of the cerebral cortex, which contains several areas that are involved in determining eye movements. 
+
+The frontal eye fields, a portion of the motor cortex, are involved in triggering intentional saccades, and an adjoining area, the supplementary eye fields, are involved in organizing groups of saccades into sequences. 
+
+The parietal eye fields, farther back in the brain, are involved mainly in reflexive saccades, made in response to changes in the view. 
+
+Recent evidence suggests that the primary visual cortex (V1) guides reflexive eye movements, according to V1 Saliency Hypothesis, using a bottom-up saliency map of the visual field generated in V1 from external visual inputs.
+
+The SC only receives visual inputs in its superficial layers, whereas the deeper layers of the colliculus receive also auditory and somatosensory inputs and are connected to many sensorimotor areas of the brain. 
+
+The colliculus as a whole is thought to help orient the head and eyes toward something seen and heard.
+
+The superior colliculus also receives auditory information from the inferior colliculus. 
+
+This auditory information is integrated with the visual information already present to produce the ventriloquism effect.
+
+
+=== Distractibility ===
+
+As well as being related to eye movements, the SC appears to have an important role to play in the circuitry underpinning distractibility. 
+
+Heightened distractibility occurs in normal aging and is also a central feature in a number of medical conditions, including attention deficit hyperactivity disorder (ADHD). 
+
+Research has shown that lesions to the SC in a number of species can result in heightened distractibility and, in humans, removing the inhibitory control on the SC from the pre-frontal cortex, therefore increasing activity in the area, also increases distractibility. 
+
+Research in an animal model of ADHD, the spontaneously hypertensive rat, also shows altered collicular-dependent behaviours and physiology. 
+
+Furthermore, amphetamine (a mainstay treatment for ADHD) also suppresses activity in the colliculus in healthy animals.
+
+
+
+https://en.wikipedia.org/wiki/Superior_colliculus
+;;;ES;;;
+
+
+
+COLÍCULO SUPERIOR
+
+
+El colículo superior (en latín, colina superior) es una estructura que se encuentra en el techo del mesencéfalo de los mamíferos.
+
+En los vertebrados no mamíferos, la estructura homóloga se conoce como techo óptico o lóbulo óptico.
+
+La forma adjetiva tectal se usa comúnmente para ambas estructuras.
+
+En los mamíferos, el colículo superior forma un componente importante del mesencéfalo.
+
+Es una estructura emparejada y junto con los colículos inferiores emparejados forma la lámina cuadrigémina.
+
+El colículo superior es una estructura en capas, con un patrón similar al de todos los mamíferos.
+
+Las capas se pueden agrupar en capas superficiales (estrato óptico y superior) y las capas restantes más profundas.
+
+Las neuronas de las capas superficiales reciben información directa de la retina y responden casi exclusivamente a los estímulos visuales.
+
+Muchas neuronas en las capas más profundas también responden a otras modalidades y algunas responden a estímulos en múltiples modalidades.
+
+Las capas más profundas también contienen una población de neuronas motoras, capaces de activar los movimientos oculares y otras respuestas.
+
+En otros vertebrados, el número de capas en el techo óptico homólogo varía.
+
+La función general del sistema tectal es dirigir respuestas conductuales hacia puntos específicos en el espacio centrado en el cuerpo.
+
+Cada capa contiene un mapa topográfico del mundo circundante en coordenadas retinotópicas, y la activación de las neuronas en un punto particular del mapa provoca una respuesta dirigida hacia el punto correspondiente en el espacio.
+
+En primates, el colículo superior se ha estudiado principalmente con respecto a su papel en la dirección de los movimientos oculares.
+
+La entrada visual de la retina, o entrada de "comando" de la corteza cerebral, crea un "golpe" de actividad en el mapa tectal que, si es lo suficientemente fuerte, induce un movimiento ocular sacádico.
+
+Sin embargo, incluso en los primates, el colículo superior también participa en la generación de giros de la cabeza dirigidos espacialmente, movimientos de alcance de los brazos y cambios en la atención que no implican ningún movimiento manifiesto.
+
+En otras especies, el colículo superior está involucrado en una amplia gama de respuestas, incluidos los giros de todo el cuerpo en ratas que caminan.
+
+En los mamíferos, y especialmente en los primates, la expansión masiva de la corteza cerebral reduce el colículo superior a una fracción mucho menor de todo el cerebro.
+
+No obstante, sigue siendo importante en términos de función como centro integrador primario para los movimientos oculares.
+
+En las especies que no son mamíferos, el techo óptico está involucrado en muchas respuestas, como nadar en los peces, volar en las aves, los ataques con la lengua hacia las presas en las ranas y los colmillos en las serpientes.
+
+En algunas especies, incluidos los peces y las aves, el techo óptico, también conocido como lóbulo óptico, es uno de los componentes más grandes del cerebro.
+
+Nota sobre la terminología:
+ 
+Este artículo sigue la terminología establecida en la literatura, utilizando el término "colliculus superior" cuando se habla de mamíferos y "tectum óptico" cuando se habla de especies no mamíferas específicas o vertebrados en general.
+
+
+== Estructura ==
+
+El colículo superior es una estructura en capas sinápticas.
+
+Los dos colículos superiores se encuentran debajo del tálamo y rodean la glándula pineal en el mesencéfalo de los mamíferos.
+
+Comprende la cara dorsal del mesencéfalo, posterior a la sustancia gris periacueductal e inmediatamente superior al colículo inferior.
+
+Los colículos inferior y superior se conocen colectivamente como corpora quadrigemina (en latín, cuerpos cuádruples).
+
+Los colículos superiores son más grandes que los colículos inferiores, aunque los colículos inferiores son más prominentes.
+
+El braquio del colículo superior (o braquio superior) es una rama que se extiende lateralmente desde el colículo superior y, pasando al tálamo entre los núcleos pulvinar y geniculado medial, se continúa en parte en una eminencia llamada núcleo geniculado lateral y en parte en el tracto óptico.
+
+El colículo superior está asociado con una estructura cercana llamada núcleo parabigeminal, a menudo denominado su satélite.
+
+En el techo óptico, esta estructura cercana se conoce como núcleo istmo.
+
+
+=== Circuito neuronal ===
+
+La microestructura del colículo superior y del techo óptico varía según la especie.
+
+Como regla general, siempre hay una clara distinción entre las capas superficiales, que reciben información principalmente del sistema visual y muestran principalmente respuestas visuales, y las capas más profundas, que reciben muchos tipos de información y se proyectan a numerosas áreas cerebrales relacionadas con el motor.
+
+La distinción entre estas dos zonas es tan clara y consistente que algunos anatomistas han sugerido que deberían considerarse estructuras cerebrales separadas.
+
+En los mamíferos, los neuroanatomistas identifican convencionalmente siete capas. Las tres capas superiores se denominan superficiales:
+
+La lámina I o SZ, el estrato zonal, es una capa delgada que consta de pequeños axones mielinizados junto con células marginales y horizontales.
+
+La lámina II o SGS, el estrato griseum superficiale ("capa gris superficial"), contiene muchas neuronas de varias formas y tamaños.
+
+La lámina III o SO, el estrato óptico ("capa óptica"), se compone principalmente de axones provenientes del tracto óptico. Luego vienen dos capas intermedias:
+
+La lámina IV o SGI, el stratum griseum intermedium ("capa gris intermedia"), es la capa más gruesa y está llena de muchas neuronas de muchos tamaños.
+
+Esta capa suele ser tan gruesa como todas las demás capas juntas.
+
+A menudo se subdivide en partes "superior" e "inferior".
+La lámina V o SAI, el estrato album intermedio ("capa blanca intermedia"), se compone principalmente de fibras de diversas procedencias. Por último vienen las dos capas profundas:
+
+La lámina VI o SGP, el stratum griseum profundum ("capa gris profunda"), consta de neuronas empaquetadas de forma suelta y fibras mielinizadas.
+
+La lámina VII o SAP, el estrato album profundum ("capa blanca profunda"), que se encuentra directamente encima de la sustancia gris periacueductal, se compone enteramente de fibras.
+
+Las capas superficiales reciben información principalmente de la retina, áreas relacionadas con la visión de la corteza cerebral y dos estructuras relacionadas con el tectal llamadas pretectum y núcleo parabigeminal.
+
+La entrada retiniana abarca toda la zona superficial y es bilateral, aunque la porción contralateral es más extensa.
+
+La información cortical proviene principalmente de la corteza visual primaria (área 17, V1), la corteza visual secundaria (áreas 18 y 19) y los campos oculares frontales.
+
+El núcleo parabigeminal juega un papel muy importante en la función tectal que se describe a continuación.
+
+En contraste con las entradas dominadas por la visión de las capas superficiales, las capas intermedia y profunda reciben entradas de un conjunto muy diverso de estructuras sensoriales y motoras.
+
+La mayoría de las áreas de la corteza cerebral se proyectan a estas capas, aunque la entrada de las áreas de "asociación" tiende a ser más intensa que la entrada de las áreas sensoriales o motoras primarias.
+
+Sin embargo, las áreas corticales involucradas y la fuerza de sus proyecciones relativas difieren entre especies.
+
+Otro aporte importante proviene de la sustancia negra, pars reticulata, un componente de los ganglios basales.
+
+Esta proyección utiliza el neurotransmisor inhibidor GABA y se cree que ejerce un efecto de "activación" en el colículo superior.
+
+Las capas intermedia y profunda también reciben información del núcleo espinal del trigémino, que transmite información somatosensorial de la cara, así como del hipotálamo, la zona incerta, el tálamo y el colículo inferior.
+
+Además de sus entradas distintivas, las zonas superficial y profunda del colículo superior también tienen salidas distintivas.
+
+Una de las salidas más importantes se dirige a las áreas intermedias pulvinar y lateral del tálamo, que a su vez se proyectan a áreas de la corteza cerebral que están involucradas en el control de los movimientos oculares.
+
+También hay proyecciones desde la zona superficial a los núcleos pretectales, núcleo geniculado lateral del tálamo y núcleo parabigeminal.
+
+Las proyecciones de las capas más profundas son más extensas.
+
+Hay dos grandes vías descendentes, que viajan al tronco del encéfalo y la médula espinal, y numerosas proyecciones ascendentes a una variedad de centros sensoriales y motores, incluidos varios que están involucrados en la generación de movimientos oculares.
+
+Ambos colículos también tienen proyecciones descendentes hacia la formación reticular pontina paramediana y la médula espinal y, por lo tanto, pueden participar en las respuestas a los estímulos más rápido de lo que permitiría el procesamiento cortical.
+
+
+=== Estructura de mosaico ===
+
+En un examen detallado, las capas coliculares en realidad no son láminas lisas, sino que están divididas en un arreglo de panal de columnas discretas.
+
+La indicación más clara de la estructura columnar proviene de las entradas colinérgicas que surgen del núcleo parabigeminal, cuyas terminales forman grupos espaciados uniformemente que se extienden desde la parte superior hasta la inferior del tectum.
+
+Varios otros marcadores neuroquímicos, incluidos los receptores de calretinina, parvalbúmina, GAP-43 y NMDA, y las conexiones con muchas otras estructuras cerebrales en el tronco encefálico y el diencéfalo, también muestran una falta de homogeneidad correspondiente.
+
+El número total de columnas se ha estimado en alrededor de 100.
+
+El significado funcional de esta arquitectura columnar no está claro, pero es interesante que la evidencia reciente ha implicado las entradas colinérgicas como parte de un circuito recurrente que produce dinámicas en las que el ganador se lo lleva todo dentro del tectum, como se describe con más detalle a continuación.
+
+Todas las especies que se han examinado, incluidos mamíferos y no mamíferos, muestran compartimentación, pero existen algunas diferencias sistemáticas en los detalles de la disposición.
+
+En especies con retina tipo raya (principalmente especies con ojos colocados lateralmente, como conejos y ciervos), los compartimentos cubren toda la extensión del SC.
+
+Sin embargo, en especies con una fóvea ubicada en el centro, la compartimentación se rompe en la parte frontal (rostral) del SC.
+
+Esta porción del SC contiene muchas neuronas de "fijación" que disparan continuamente mientras los ojos permanecen fijos en una posición constante.
+
+
+== Función ==
+
+La historia de la investigación del techo óptico ha estado marcada por varios grandes cambios de opinión.
+
+Antes de 1970, la mayoría de los estudios involucraban animales no mamíferos (peces, ranas, pájaros), es decir, especies en las que el techo óptico es la estructura dominante que recibe información de los ojos.
+
+Entonces, la opinión general era que el techo óptico, en estas especies, es el principal centro visual en el cerebro de los no mamíferos y, como consecuencia, está involucrado en una amplia variedad de comportamientos.
+
+Sin embargo, desde la década de 1970 hasta la de 1990, los registros neuronales de mamíferos, en su mayoría monos, se centraron principalmente en el papel del colículo superior en el control de los movimientos oculares.
+
+Esta línea de investigación llegó a dominar la literatura hasta tal punto que la opinión mayoritaria era que el control del movimiento ocular es la única función importante en los mamíferos, una opinión que todavía se refleja en muchos libros de texto actuales.
+
+Sin embargo, a fines de la década de 1990, los experimentos con animales cuyas cabezas podían moverse libremente mostraron claramente que el SC en realidad produce cambios de mirada, generalmente compuestos por movimientos combinados de cabeza y ojos, en lugar de movimientos oculares per se.
+
+Este descubrimiento despertó de nuevo el interés por la amplitud completa de las funciones del colículo superior y condujo a estudios de integración multisensorial en una variedad de especies y situaciones.
+
+Sin embargo, el papel del SC en el control de los movimientos oculares se comprende mucho más que cualquier otra función.
+
+Los estudios de comportamiento han demostrado que el SC no es necesario para el reconocimiento de objetos, pero juega un papel fundamental en la capacidad de dirigir comportamientos hacia objetos específicos y puede respaldar esta capacidad incluso en ausencia de la corteza cerebral.
+
+Por lo tanto, los gatos con daño importante en la corteza visual no pueden reconocer objetos, pero aún pueden seguir y orientarse hacia estímulos en movimiento, aunque más lentamente de lo habitual.
+
+Sin embargo, si se elimina la mitad del SC, los gatos girarán constantemente hacia el lado de la lesión y se orientarán compulsivamente hacia los objetos ubicados allí, pero no se orientarán en absoluto hacia los objetos ubicados en el hemicampo opuesto.
+
+Estos déficits disminuyen con el tiempo pero nunca desaparecen.
+
+
+=== Movimientos de los ojos ===
+
+
+En los primates, los movimientos oculares se pueden dividir en varios tipos: fijación, en la que los ojos se dirigen hacia un objeto inmóvil, con movimientos oculares solo para compensar los movimientos de la cabeza; persecución suave, en la que los ojos se mueven constantemente para seguir un objeto en movimiento; sacadas, en las que los ojos se mueven muy rápidamente de un lugar a otro; y vergencia, en la que los ojos se mueven simultáneamente en direcciones opuestas para obtener o mantener una visión binocular única.
+
+El colículo superior está involucrado en todos estos, pero su papel en los movimientos sacádicos se ha estudiado más intensamente.
+
+Cada uno de los dos colículos, uno a cada lado del cerebro, contiene un mapa bidimensional que representa la mitad del campo visual.
+
+La fóvea, la región de máxima sensibilidad, se representa en el borde frontal del mapa y la periferia en el borde posterior.
+
+Los movimientos oculares son provocados por la actividad en las capas profundas del SC.
+
+Durante la fijación, las neuronas cercanas al borde frontal, la zona foveal, están tónicamente activas.
+
+Durante la búsqueda suave, se activan las neuronas a una pequeña distancia del borde frontal, lo que provoca pequeños movimientos oculares.
+
+Para los movimientos sacádicos, las neuronas se activan en una región que representa el punto al que se dirigirá el movimiento sacádico.
+
+Justo antes de un movimiento sacádico, la actividad aumenta rápidamente en la ubicación objetivo y disminuye en otras partes del SC.
+
+La codificación es bastante amplia, de modo que para cualquier movimiento sacádico dado, el perfil de actividad forma una "colina" que abarca una fracción sustancial del mapa colicular:
+
+La ubicación del pico de esta "colina" representa el objetivo sacádico.
+
+El SC codifica el objetivo de un cambio de mirada, pero no parece especificar los movimientos precisos necesarios para llegar allí.
+
+La descomposición de un cambio de mirada en los movimientos de la cabeza y los ojos y la trayectoria precisa del ojo durante un movimiento sacádico dependen de la integración de las señales coliculares y no coliculares de las áreas motoras aguas abajo, de maneras que aún no se conocen bien.
+
+Independientemente de cómo se evoque o realice el movimiento, el SC lo codifica en coordenadas "retinotópicas": es decir, la ubicación de la "colina" del SC corresponde a una ubicación fija en la retina.
+
+Esto parece contradecir la observación de que la estimulación de un solo punto en el SC puede resultar en diferentes direcciones de cambio de mirada, dependiendo de la orientación inicial del ojo.
+
+Sin embargo, se ha demostrado que esto se debe a que la ubicación de un estímulo en la retina es una función no lineal de la ubicación del objetivo, la orientación del ojo y la geometría esférica del ojo.
+
+Ha habido cierta controversia sobre si el SC simplemente ordena los movimientos oculares y deja la ejecución a otras estructuras, o si participa activamente en la realización de un movimiento sacádico.
+
+En 1991, Muñoz et al., sobre la base de los datos que recopilaron, argumentaron que, durante un movimiento sacádico, la "colina" de actividad en el SC se mueve gradualmente para reflejar el desplazamiento cambiante del ojo desde la ubicación objetivo mientras el movimiento sacádico está progresando
+
+En la actualidad, la opinión predominante es que, aunque la "colina" se desplaza ligeramente durante un movimiento sacádico, no se desplaza de la manera constante y proporcionada que predice la hipótesis de la "colina en movimiento".
+
+Sin embargo, las colinas en movimiento pueden desempeñar otro papel en el colículo superior; experimentos más recientes han demostrado una colina en movimiento continuo de la actividad de la memoria visual cuando los ojos se mueven lentamente mientras se retiene un objetivo sacádico separado.
+
+La salida del sector motor del SC va a un conjunto de núcleos del mesencéfalo y del tronco del encéfalo, que transforman el código de "lugar" utilizado por el SC en el código de "tasa" utilizado por las neuronas oculomotoras.
+
+Los movimientos oculares son generados por seis músculos, dispuestos en tres pares alineados ortogonalmente.
+
+Por lo tanto, al nivel de la ruta común final, los movimientos oculares están codificados esencialmente en un sistema de coordenadas cartesianas.
+
+Aunque el SC recibe una fuerte entrada directamente de la retina, en los primates está en gran parte bajo el control de la corteza cerebral, que contiene varias áreas que están involucradas en la determinación de los movimientos oculares.
+
+Los campos oculares frontales, una porción de la corteza motora, participan en el desencadenamiento de movimientos sacádicos intencionales, y un área contigua, los campos oculares complementarios, participan en la organización de grupos de movimientos sacádicos en secuencias.
+
+Los campos oculares parietales, más atrás en el cerebro, están involucrados principalmente en movimientos sacádicos reflejos, realizados en respuesta a cambios en la vista.
+
+La evidencia reciente sugiere que la corteza visual primaria (V1) guía los movimientos oculares reflejos, de acuerdo con la hipótesis de prominencia de V1, utilizando un mapa de prominencia de abajo hacia arriba del campo visual generado en V1 a partir de entradas visuales externas.
+
+El SC solo recibe entradas visuales en sus capas superficiales, mientras que las capas más profundas del colículo también reciben entradas auditivas y somatosensoriales y están conectadas a muchas áreas sensoriomotoras del cerebro.
+
+Se cree que el colículo como un todo ayuda a orientar la cabeza y los ojos hacia algo que se ve y se escucha.
+
+El colículo superior también recibe información auditiva del colículo inferior.
+
+Esta información auditiva se integra con la información visual ya presente para producir el efecto de ventriloquia.
+
+
+=== Distracción ===
+
+Además de estar relacionado con los movimientos oculares, el SC parece tener un papel importante que desempeñar en el circuito que sustenta la distracción.
+
+El aumento de la distracción ocurre en el envejecimiento normal y también es una característica central en una serie de condiciones médicas, incluido el trastorno por déficit de atención con hiperactividad (TDAH).
+
+La investigación ha demostrado que las lesiones en el SC en varias especies pueden resultar en una mayor distracción y, en los humanos, eliminar el control inhibitorio sobre el SC de la corteza prefrontal y, por lo tanto, aumentar la actividad en el área también aumenta la distracción.
+
+La investigación en un modelo animal de TDAH, la rata espontáneamente hipertensa, también muestra comportamientos y fisiología dependientes del colículo alterados.
+
+Además, la anfetamina (un tratamiento principal para el TDAH) también suprime la actividad en el colículo en animales sanos.
+
+
+
+https://en.wikipedia.org/wiki/Superior_colliculus
+
+;;;PT;;;
+
+
+
+COLÍCULO SUPERIOR
+
+
+O colículo superior (latim para colina superior) é uma estrutura situada no teto do mesencéfalo dos mamíferos.
+
+Em vertebrados não mamíferos, a estrutura homóloga é conhecida como tecto óptico, ou lobo óptico.
+
+A forma adjetiva tectal é comumente usada para ambas as estruturas.
+
+Nos mamíferos, o colículo superior forma um componente importante do mesencéfalo.
+
+É uma estrutura pareada e junto com os colículos inferiores pareados forma a lâmina quadrigêmea.
+
+O colículo superior é uma estrutura em camadas, com um padrão semelhante a todos os mamíferos.
+
+As camadas podem ser agrupadas nas camadas superficiais (stratum opticum e acima) e nas camadas restantes mais profundas.
+
+Neurônios nas camadas superficiais recebem estímulos diretos da retina e respondem quase exclusivamente a estímulos visuais.
+
+Muitos neurônios nas camadas mais profundas também respondem a outras modalidades, e alguns respondem a estímulos em múltiplas modalidades.
+
+As camadas mais profundas também contêm uma população de neurônios relacionados ao motor, capazes de ativar os movimentos oculares, bem como outras respostas.
+
+Em outros vertebrados, o número de camadas no tecto óptico homólogo varia.
+
+A função geral do sistema tectal é direcionar as respostas comportamentais para pontos específicos no espaço centrado no corpo.
+
+Cada camada contém um mapa topográfico do mundo circundante em coordenadas retinotópicas, e a ativação de neurônios em um ponto específico do mapa evoca uma resposta direcionada ao ponto correspondente no espaço.
+
+Em primatas, o colículo superior tem sido estudado principalmente em relação ao seu papel na direção dos movimentos oculares.
+
+A entrada visual da retina, ou entrada de "comando" do córtex cerebral, cria um "saliência" de atividade no mapa tectal, que, se forte o suficiente, induz um movimento sacádico dos olhos.
+
+Mesmo em primatas, no entanto, o colículo superior também está envolvido na geração de giros da cabeça espacialmente direcionados, movimentos de alcance do braço e mudanças na atenção que não envolvem movimentos abertos.
+
+Em outras espécies, o colículo superior está envolvido em uma ampla gama de respostas, incluindo giros de corpo inteiro em ratos que andam.
+
+Nos mamíferos, e especialmente nos primatas, a expansão maciça do córtex cerebral reduz o colículo superior a uma fração muito menor de todo o cérebro.
+
+No entanto, permanece importante em termos de função como o principal centro integrador dos movimentos oculares.
+
+Em espécies não-mamíferas, o tecto óptico está envolvido em muitas respostas, incluindo nadar em peixes, voar em pássaros, golpes de língua em presas em sapos e golpes de presas em cobras.
+
+Em algumas espécies, incluindo peixes e pássaros, o tecto óptico, também conhecido como lobo óptico, é um dos maiores componentes do cérebro.
+
+Nota sobre a terminologia:
+ 
+Este artigo segue a terminologia estabelecida na literatura, usando o termo "colliculus superior" ao discutir mamíferos e "optic tectum" ao discutir espécies específicas de não mamíferos ou vertebrados em geral.
+
+
+== Estrutura ==
+
+O colículo superior é uma estrutura sináptica em camadas.
+
+Os dois colículos superiores ficam abaixo do tálamo e circundam a glândula pineal no mesencéfalo dos mamíferos.
+
+Compreende a face dorsal do mesencéfalo, posterior à substância cinzenta periaquedutal e imediatamente superior ao colículo inferior.
+
+Os colículos inferior e superior são conhecidos coletivamente como corpos quadrigêmeos (latim para corpos quádruplos).
+
+Os colículos superiores são maiores que os colículos inferiores, embora os colículos inferiores sejam mais proeminentes.
+
+O braquio do colículo superior (ou braquio superior) é um ramo que se estende lateralmente do colículo superior e, passando para o tálamo entre os núcleos pulvinar e geniculado medial, é parcialmente continuado em uma eminência chamada núcleo geniculado lateral e parcialmente no trato óptico.
+
+O colículo superior está associado a uma estrutura próxima chamada núcleo parabigeminal, muitas vezes referido como seu satélite.
+
+No tecto óptico, esta estrutura próxima é conhecida como núcleo istmo.
+
+
+=== Circuito neural ===
+
+A microestrutura do colículo superior e do tecto óptico varia entre as espécies.
+
+Como regra geral, sempre há uma distinção clara entre as camadas superficiais, que recebem informações principalmente do sistema visual e mostram principalmente respostas visuais, e as camadas mais profundas, que recebem muitos tipos de entrada e se projetam para várias áreas cerebrais relacionadas ao motor.
+
+A distinção entre essas duas zonas é tão clara e consistente que alguns anatomistas sugeriram que elas deveriam ser consideradas estruturas cerebrais separadas.
+
+Nos mamíferos, os neuroanatomistas identificam convencionalmente sete camadas As três camadas superiores são chamadas de superficiais:
+
+A lâmina I ou SZ, o estrato zonal, é uma camada fina que consiste em pequenos axônios mielinizados juntamente com células marginais e horizontais.
+
+A lâmina II ou SGS, o stratum griseum superficiale ("camada cinzenta superficial"), contém muitos neurônios de várias formas e tamanhos.
+
+A lâmina III ou SO, o stratum opticum ("camada óptica"), consiste principalmente de axônios provenientes do trato óptico. Em seguida vêm duas camadas intermediárias:
+
+A lâmina IV ou SGI, o stratum griseum intermedium ("camada cinza intermediária"), é a camada mais espessa e é preenchida com muitos neurônios de vários tamanhos.
+
+Essa camada geralmente é tão espessa quanto todas as outras camadas juntas.
+
+Muitas vezes é subdividido em partes "superiores" e "inferiores".
+A lâmina V ou SAI, o stratum album intermedium ("camada branca intermediária"), consiste principalmente de fibras de várias fontes. Por fim, vêm as duas camadas profundas:
+
+A lâmina VI ou SGP, o stratum griseum profundum ("camada cinza profunda"), consiste em neurônios frouxamente compactados e fibras mielinizadas.
+
+A lâmina VII ou SAP, o stratum album profundum ("camada branca profunda"), situada diretamente acima da substância cinzenta periaquedutal, consiste inteiramente de fibras.
+
+As camadas superficiais recebem informações principalmente da retina, áreas relacionadas à visão do córtex cerebral e duas estruturas relacionadas ao tecto chamadas pretectum e núcleo parabigeminal.
+
+A entrada retiniana abrange toda a zona superficial e é bilateral, embora a porção contralateral seja mais extensa.
+
+A entrada cortical vem mais fortemente do córtex visual primário (área 17, V1), do córtex visual secundário (áreas 18 e 19) e dos campos oculares frontais.
+
+O núcleo parabigeminal desempenha um papel muito importante na função tectal que é descrita abaixo.
+
+Em contraste com as entradas dominadas pela visão para as camadas superficiais, as camadas intermediárias e profundas recebem entradas de um conjunto muito diversificado de estruturas sensoriais e motoras.
+
+A maioria das áreas do córtex cerebral se projeta para essas camadas, embora a entrada das áreas de "associação" tenda a ser mais pesada do que a entrada das áreas sensoriais ou motoras primárias.
+
+No entanto, as áreas corticais envolvidas e a força de suas projeções relativas diferem entre as espécies.
+
+Outra entrada importante vem da substância negra, pars reticulata, um componente dos gânglios da base.
+
+Essa projeção usa o neurotransmissor inibitório GABA, e acredita-se que exerça um efeito de "gatilho" no colículo superior.
+
+As camadas intermediária e profunda também recebem informações do núcleo trigeminal espinhal, que transmite informações somatossensoriais da face, bem como do hipotálamo, zona incerta, tálamo e colículo inferior.
+
+Além de suas entradas distintas, as zonas superficial e profunda do colículo superior também têm saídas distintas.
+
+Uma das saídas mais importantes vai para as áreas pulvinar e intermediária lateral do tálamo, que por sua vez se projetam para áreas do córtex cerebral envolvidas no controle dos movimentos oculares.
+
+Há também projeções da zona superficial para os núcleos pré-tectais, núcleo geniculado lateral do tálamo e núcleo parabigeminal.
+
+As projeções das camadas mais profundas são mais extensas.
+
+Existem duas grandes vias descendentes, viajando para o tronco encefálico e medula espinhal, e numerosas projeções ascendentes para uma variedade de centros sensoriais e motores, incluindo vários envolvidos na geração de movimentos oculares.
+
+Ambos os colículos também têm projeções descendentes para a formação reticular pontina paramediana e medula espinhal e, portanto, podem estar envolvidos em respostas a estímulos mais rapidamente do que o processamento cortical permitiria.
+
+
+=== Estrutura do mosaico ===
+
+No exame detalhado, as camadas coliculares na verdade não são folhas lisas, mas divididas em um arranjo em favo de mel de colunas discretas.
+
+A indicação mais clara da estrutura colunar vem das entradas colinérgicas provenientes do núcleo parabigeminal, cujos terminais formam aglomerados uniformemente espaçados que se estendem de cima para baixo do tecto.
+
+Vários outros marcadores neuroquímicos, incluindo calretinina, parvalbumina, GAP-43 e receptores NMDA, e conexões com várias outras estruturas cerebrais no tronco cerebral e no diencéfalo, também mostram uma heterogeneidade correspondente.
+
+O número total de colunas foi estimado em cerca de 100.
+
+O significado funcional dessa arquitetura colunar não é claro, mas é interessante que evidências recentes tenham implicado as entradas colinérgicas como parte de um circuito recorrente que produz uma dinâmica de vencedor leva tudo dentro do tecto, conforme descrito em mais detalhes abaixo.
+
+Todas as espécies que foram examinadas – incluindo mamíferos e não mamíferos – mostram compartimentalização, mas existem algumas diferenças sistemáticas nos detalhes do arranjo.
+
+Em espécies com retina tipo raia (principalmente espécies com olhos posicionados lateralmente, como coelhos e veados), os compartimentos cobrem toda a extensão do SC.
+
+Em espécies com uma fóvea centralizada, no entanto, a compartimentalização se rompe na parte frontal (rostral) do SC.
+
+Esta porção do SC contém muitos neurônios de "fixação" que disparam continuamente enquanto os olhos permanecem fixos em uma posição constante.
+
+
+== Função ==
+
+A história da investigação do tecto óptico foi marcada por várias grandes mudanças de opinião.
+
+Antes de cerca de 1970, a maioria dos estudos envolvia não mamíferos – peixes, sapos, pássaros – ou seja, espécies nas quais o tecto óptico é a estrutura dominante que recebe informações dos olhos.
+
+A visão geral então era que o tecto óptico, nessas espécies, é o principal centro visual no cérebro não mamífero e, como consequência, está envolvido em uma ampla variedade de comportamentos.
+
+Entre os anos 1970 e 1990, no entanto, registros neurais de mamíferos, principalmente macacos, concentraram-se principalmente no papel do colículo superior no controle dos movimentos oculares.
+
+Esta linha de investigação veio a dominar a literatura a tal ponto que a opinião da maioria era que o controle do movimento dos olhos é a única função importante em mamíferos, uma visão ainda refletida em muitos livros didáticos atuais.
+
+No final da década de 1990, no entanto, experimentos com animais cujas cabeças estavam livres para se mover mostraram claramente que o SC realmente produz mudanças de olhar, geralmente compostas de movimentos combinados de cabeça e olhos, em vez de movimentos oculares em si.
+
+Essa descoberta despertou o interesse em toda a amplitude das funções do colículo superior e levou a estudos de integração multissensorial em uma variedade de espécies e situações.
+
+No entanto, o papel do SC no controle dos movimentos oculares é compreendido com muito mais profundidade do que qualquer outra função.
+
+Estudos comportamentais mostraram que o SC não é necessário para o reconhecimento de objetos, mas desempenha um papel crítico na capacidade de direcionar comportamentos para objetos específicos e pode apoiar essa capacidade mesmo na ausência do córtex cerebral.
+
+Assim, gatos com grandes danos ao córtex visual não podem reconhecer objetos, mas ainda podem seguir e orientar em direção a estímulos em movimento, embora mais lentamente do que o normal.
+
+Se uma metade do SC for removida, no entanto, os gatos circularão constantemente em direção ao lado da lesão e se orientarão compulsivamente em direção a objetos localizados lá, mas não conseguirão se orientar em direção a objetos localizados no hemicampo oposto.
+
+Esses déficits diminuem com o tempo, mas nunca desaparecem.
+
+
+=== Movimentos oculares ===
+
+
+Nos primatas, os movimentos oculares podem ser divididos em vários tipos: fixação, em que os olhos são direcionados para um objeto imóvel, com movimentos oculares apenas para compensar os movimentos da cabeça; perseguição suave, na qual os olhos se movem constantemente para rastrear um objeto em movimento; sacadas, nas quais os olhos se movem muito rapidamente de um local para outro; e vergência, em que os olhos se movem simultaneamente em direções opostas para obter ou manter uma visão binocular única.
+
+O colículo superior está envolvido em todos eles, mas seu papel nas sacadas tem sido estudado mais intensamente.
+
+Cada um dos dois colículos – um em cada lado do cérebro – contém um mapa bidimensional que representa metade do campo visual.
+
+A fóvea - a região de máxima sensibilidade - é representada na borda frontal do mapa e a periferia na borda traseira.
+
+Os movimentos oculares são evocados pela atividade nas camadas profundas do SC.
+
+Durante a fixação, os neurônios próximos à borda frontal – a zona foveal – são tonicamente ativos.
+
+Durante a perseguição suave, os neurônios a uma pequena distância da borda frontal são ativados, levando a pequenos movimentos oculares.
+
+Para sacadas, os neurônios são ativados em uma região que representa o ponto para o qual a sacada será direcionada.
+
+Imediatamente antes de uma sacada, a atividade aumenta rapidamente no local alvo e diminui em outras partes do SC.
+
+A codificação é bastante ampla, de modo que, para qualquer sacada, o perfil de atividade forma uma "colina" que engloba uma fração substancial do mapa colicular:
+
+A localização do pico desta "colina" representa o alvo da sacada.
+
+O SC codifica o alvo de uma mudança de olhar, mas não parece especificar os movimentos precisos necessários para chegar lá.
+
+A decomposição de um deslocamento do olhar em movimentos da cabeça e dos olhos e a trajetória precisa do olho durante uma sacada dependem da integração de sinais coliculares e não coliculares por áreas motoras a jusante, de maneiras que ainda não são bem compreendidas.
+
+Independentemente de como o movimento é evocado ou realizado, o SC o codifica em coordenadas "retinotópicas": ou seja, a localização do 'colina' do SC corresponde a uma localização fixa na retina.
+
+Isso parece contradizer a observação de que a estimulação de um único ponto no SC pode resultar em diferentes direções de deslocamento do olhar, dependendo da orientação inicial do olho.
+
+No entanto, foi demonstrado que isso ocorre porque a localização retiniana de um estímulo é uma função não linear da localização do alvo, orientação do olho e geometria esférica do olho.
+
+Tem havido alguma controvérsia sobre se o SC apenas comanda os movimentos oculares e deixa a execução para outras estruturas, ou se participa ativamente na execução de uma sacada.
+
+Em 1991, Munoz et al., com base nos dados coletados, argumentaram que, durante uma sacada, o "monte" de atividade no SC se move gradualmente, para refletir a mudança de deslocamento do olho do local alvo enquanto a sacada está progredindo.
+
+Atualmente, a visão predominante é que, embora a "colina" se desloque levemente durante uma sacada, ela não se desloca da maneira constante e proporcional que a hipótese da "colina em movimento" prevê.
+
+No entanto, o movimento de colinas pode desempenhar outro papel no colículo superior; experimentos mais recentes demonstraram um monte de atividade de memória visual em movimento contínuo quando os olhos se movem lentamente enquanto um alvo sacádico separado é retido.
+
+A saída do setor motor do SC vai para um conjunto de núcleos do mesencéfalo e do tronco cerebral, que transformam o código de "lugar" usado pelo SC no código de "taxa" usado pelos neurônios oculomotores.
+
+Os movimentos oculares são gerados por seis músculos, dispostos em três pares alinhados ortogonalmente.
+
+Assim, ao nível do caminho comum final, os movimentos oculares são codificados essencialmente num sistema de coordenadas cartesianas.
+
+Embora o SC receba uma forte entrada diretamente da retina, em primatas está em grande parte sob o controle do córtex cerebral, que contém várias áreas que estão envolvidas na determinação dos movimentos oculares.
+
+Os campos oculares frontais, uma porção do córtex motor, estão envolvidos no desencadeamento de sacadas intencionais, e uma área adjacente, os campos oculares suplementares, estão envolvidos na organização de grupos de sacadas em sequências.
+
+Os campos oculares parietais, mais atrás no cérebro, estão envolvidos principalmente em sacadas reflexivas, feitas em resposta a mudanças na visão.
+
+Evidências recentes sugerem que o córtex visual primário (V1) orienta os movimentos oculares reflexivos, de acordo com a hipótese de saliência V1, usando um mapa de saliência de baixo para cima do campo visual gerado em V1 a partir de entradas visuais externas.
+
+O SC recebe apenas informações visuais em suas camadas superficiais, enquanto as camadas mais profundas do colículo recebem também informações auditivas e somatossensoriais e estão conectadas a muitas áreas sensório-motoras do cérebro.
+
+Pensa-se que o colículo como um todo ajuda a orientar a cabeça e os olhos em direção a algo visto e ouvido.
+
+O colículo superior também recebe informações auditivas do colículo inferior.
+
+Esta informação auditiva é integrada com a informação visual já presente para produzir o efeito ventriloquismo.
+
+
+=== Distração ===
+
+Além de estar relacionado aos movimentos oculares, o SC parece ter um papel importante a desempenhar no circuito que sustenta a distração.
+
+O aumento da distração ocorre no envelhecimento normal e também é uma característica central em várias condições médicas, incluindo o transtorno de déficit de atenção e hiperatividade (TDAH).
+
+A pesquisa mostrou que lesões no CS em várias espécies podem resultar em maior distração e, em humanos, remover o controle inibitório do CS do córtex pré-frontal, aumentando a atividade na área, também aumenta a distração.
+
+A pesquisa em um modelo animal de TDAH, o rato espontaneamente hipertenso, também mostra comportamentos e fisiologia colicular-dependentes alterados.
+
+Além disso, a anfetamina (um tratamento básico para o TDAH) também suprime a atividade no colículo em animais saudáveis.
+
+
+
+https://en.wikipedia.org/wiki/Superior_colliculus
+
+;;;FR;;;
+
+
+
+COLLICULUS SUPÉRIEUR
+
+
+Le colliculus supérieur (latin pour la colline supérieure) est une structure située sur le toit du mésencéphale des mammifères.
+
+Chez les vertébrés non mammifères, la structure homologue est connue sous le nom de tectum optique ou lobe optique.
+
+L'adjectif tectal est couramment utilisé pour les deux structures.
+
+Chez les mammifères, le colliculus supérieur forme un composant majeur du mésencéphale.
+
+C'est une structure appariée et, avec les colliculi inférieurs appariés, forme la lamina quadrigemina.
+
+Le colliculus supérieur est une structure en couches, avec un motif similaire à tous les mammifères.
+
+Les couches peuvent être regroupées en couches superficielles (stratum opticum et au-dessus) et les couches restantes plus profondes.
+
+Les neurones des couches superficielles reçoivent une entrée directe de la rétine et répondent presque exclusivement aux stimuli visuels.
+
+De nombreux neurones dans les couches plus profondes répondent également à d'autres modalités, et certains répondent à des stimuli dans plusieurs modalités.
+
+Les couches plus profondes contiennent également une population de neurones liés au moteur, capables d'activer les mouvements oculaires ainsi que d'autres réponses.
+
+Chez d'autres vertébrés, le nombre de couches dans le tectum optique homologue varie.
+
+La fonction générale du système tectal est de diriger les réponses comportementales vers des points spécifiques dans l'espace centré sur le corps.
+
+Chaque couche contient une carte topographique du monde environnant en coordonnées rétinotopiques, et l'activation des neurones à un point particulier de la carte évoque une réponse dirigée vers le point correspondant dans l'espace.
+
+Chez les primates, le colliculus supérieur a été étudié principalement en ce qui concerne son rôle dans la direction des mouvements oculaires.
+
+L'entrée visuelle de la rétine, ou l'entrée de "commande" du cortex cérébral, crée une "bosse" d'activité dans la carte tectale, qui, si elle est suffisamment forte, induit un mouvement oculaire saccadé.
+
+Même chez les primates, cependant, le colliculus supérieur est également impliqué dans la génération de rotations de tête dirigées dans l'espace, de mouvements d'extension des bras et de changements d'attention qui n'impliquent aucun mouvement manifeste.
+
+Chez d'autres espèces, le colliculus supérieur est impliqué dans un large éventail de réponses, y compris les virages du corps entier chez les rats qui marchent.
+
+Chez les mammifères, et en particulier les primates, l'expansion massive du cortex cérébral réduit le colliculus supérieur à une fraction beaucoup plus petite de l'ensemble du cerveau.
+
+Il reste néanmoins important en termes de fonction en tant que principal centre d'intégration des mouvements oculaires.
+
+Chez les espèces non mammifères, le tectum optique est impliqué dans de nombreuses réponses, notamment la nage chez les poissons, le vol chez les oiseaux, les coups de langue vers les proies chez les grenouilles et les coups de crocs chez les serpents.
+
+Chez certaines espèces, y compris les poissons et les oiseaux, le tectum optique, également connu sous le nom de lobe optique, est l'un des plus grands composants du cerveau.
+
+Remarque sur la terminologie :
+ 
+Cet article suit la terminologie établie dans la littérature, en utilisant le terme «colliculus supérieur» lorsqu'il est question de mammifères et de «tectum optique» lorsqu'il s'agit d'espèces non mammifères spécifiques ou de vertébrés en général.
+
+
+== Structure ==
+
+Le colliculus supérieur est une structure synaptique en couches.
+
+Les deux colliculi supérieurs se trouvent sous le thalamus et entourent la glande pinéale dans le mésencéphale des mammifères.
+
+Il comprend la face dorsale du mésencéphale, postérieure au gris périaqueducal et immédiatement supérieure au colliculus inférieur.
+
+Les colliculi inférieur et supérieur sont connus collectivement sous le nom de corpora quadrigemina (latin pour les corps quadruplés).
+
+Les colliculi supérieurs sont plus gros que les colliculi inférieurs, bien que les colliculi inférieurs soient plus proéminents.
+
+Le brachium du colliculus supérieur (ou brachium supérieur) est une branche qui s'étend latéralement à partir du colliculus supérieur et, passant au thalamus entre le pulvinar et le noyau géniculé médial, se poursuit en partie dans une éminence appelée noyau géniculé latéral, et en partie dans le tractus optique.
+
+Le colliculus supérieur est associé à une structure voisine appelée le noyau parabigéminal, souvent appelé son satellite.
+
+Dans le tectum optique, cette structure voisine est connue sous le nom d'isthme du noyau.
+
+
+=== Circuit neuronal ===
+
+La microstructure du colliculus supérieur et du tectum optique varie selon les espèces.
+
+En règle générale, il y a toujours une distinction claire entre les couches superficielles, qui reçoivent principalement des informations du système visuel et montrent principalement des réponses visuelles, et les couches plus profondes, qui reçoivent de nombreux types d'informations et se projettent sur de nombreuses zones cérébrales liées au moteur.
+
+La distinction entre ces deux zones est si claire et cohérente que certains anatomistes ont suggéré qu'elles devraient être considérées comme des structures cérébrales distinctes.
+
+Chez les mammifères, les neuroanatomistes identifient classiquement sept couches Les trois couches supérieures sont dites superficielles :
+
+Lamina I ou SZ, la couche zonale, est une fine couche constituée de petits axones myélinisés ainsi que de cellules marginales et horizontales.
+
+Lamina II ou SGS, la stratum griseum superficiale ("couche grise superficielle"), contient de nombreux neurones de formes et de tailles variées.
+
+Lamina III ou SO, la stratum opticum ("couche optique"), est constituée principalement d'axones provenant du tractus optique. Viennent ensuite deux couches intermédiaires :
+
+Lamina IV ou SGI, le stratum griseum intermedium ("couche grise intermédiaire"), est la couche la plus épaisse et est remplie de nombreux neurones de différentes tailles.
+
+Cette couche est souvent aussi épaisse que toutes les autres couches réunies.
+
+Il est souvent subdivisé en parties "supérieures" et "inférieures".
+Lamina V ou SAI, la stratum album intermedium (« couche blanche intermédiaire »), est constituée principalement de fibres d'origines diverses. Enfin viennent les deux couches profondes :
+
+Lamina VI ou SGP, le stratum griseum profundum ("couche grise profonde"), se compose de neurones lâchement emballés et de fibres myélinisées.
+
+Lamina VII ou SAP, le stratum album profundum ("couche blanche profonde"), située directement au-dessus du gris périaqueducal, est entièrement constituée de fibres.
+
+Les couches superficielles reçoivent principalement des informations de la rétine, des zones liées à la vision du cortex cérébral et de deux structures liées au tectal appelées le prétectum et le noyau parabigéminal.
+
+L'entrée rétinienne englobe toute la zone superficielle et est bilatérale, bien que la partie controlatérale soit plus étendue.
+
+L'entrée corticale provient principalement du cortex visuel primaire (zone 17, V1), du cortex visuel secondaire (zones 18 et 19) et des champs oculaires frontaux.
+
+Le noyau parabigéminal joue un rôle très important dans la fonction tectale décrite ci-dessous.
+
+Contrairement aux entrées dominées par la vision dans les couches superficielles, les couches intermédiaires et profondes reçoivent des entrées d'un ensemble très diversifié de structures sensorielles et motrices.
+
+La plupart des zones du cortex cérébral se projettent sur ces couches, bien que l'apport des zones "d'association" ait tendance à être plus lourd que l'apport des zones sensorielles ou motrices primaires.
+
+Cependant, les zones corticales impliquées et la force de leurs projections relatives diffèrent selon les espèces.
+
+Un autre apport important provient de la substantia nigra, pars reticulata, un composant des ganglions de la base.
+
+Cette projection utilise le neurotransmetteur inhibiteur GABA, et on pense qu'elle exerce un effet de "gating" sur le colliculus supérieur.
+
+Les couches intermédiaires et profondes reçoivent également des informations du noyau trigéminal spinal, qui transmet des informations somatosensorielles du visage, ainsi que de l'hypothalamus, de la zone incerta, du thalamus et du colliculus inférieur.
+
+En plus de leurs entrées distinctes, les zones superficielles et profondes du colliculus supérieur ont également des sorties distinctes.
+
+L'une des sorties les plus importantes va aux zones intermédiaires pulvinaires et latérales du thalamus, qui à leur tour se projettent vers les zones du cortex cérébral impliquées dans le contrôle des mouvements oculaires.
+
+Il existe également des projections de la zone superficielle vers les noyaux prétectaux, le noyau géniculé latéral du thalamus et le noyau parabigéminal.
+
+Les projections des couches plus profondes sont plus étendues.
+
+Il existe deux grandes voies descendantes, voyageant vers le tronc cérébral et la moelle épinière, et de nombreuses projections ascendantes vers une variété de centres sensoriels et moteurs, dont plusieurs sont impliqués dans la génération des mouvements oculaires.
+
+Les deux colliculi ont également des projections descendantes vers la formation réticulaire pontique paramédiane et la moelle épinière, et peuvent donc être impliqués dans les réponses aux stimuli plus rapidement que le traitement cortical ne le permettrait.
+
+
+=== Structure mosaïque ===
+
+Lors d'un examen détaillé, les couches colliculaires ne sont en fait pas des feuilles lisses, mais divisées en un arrangement en nid d'abeille de colonnes discrètes.
+
+L'indication la plus claire de la structure colonnaire provient des apports cholinergiques provenant du noyau parabigéminal, dont les terminaux forment des amas régulièrement espacés qui s'étendent de haut en bas du tectum.
+
+Plusieurs autres marqueurs neurochimiques, notamment la calrétinine, la parvalbumine, les récepteurs GAP-43 et NMDA, ainsi que des connexions avec de nombreuses autres structures cérébrales dans le tronc cérébral et le diencéphale, montrent également une inhomogénéité correspondante.
+
+Le nombre total de colonnes a été estimé à environ 100.
+
+La signification fonctionnelle de cette architecture colonnaire n'est pas claire, mais il est intéressant de noter que des preuves récentes ont impliqué les entrées cholinergiques dans le cadre d'un circuit récurrent produisant une dynamique gagnant-gagnant dans le tectum, comme décrit plus en détail ci-dessous.
+
+Toutes les espèces qui ont été examinées - y compris les mammifères et les non-mammifères - montrent une compartimentation, mais il existe des différences systématiques dans les détails de l'arrangement.
+
+Chez les espèces avec une rétine de type striée (principalement les espèces avec des yeux placés latéralement, comme les lapins et les cerfs), les compartiments couvrent toute l'étendue du SC.
+
+Chez les espèces avec une fovéa placée au centre, cependant, la compartimentation se décompose dans la partie avant (rostrale) du SC.
+
+Cette partie du SC contient de nombreux neurones de "fixation" qui se déclenchent continuellement tandis que les yeux restent fixes dans une position constante.
+
+
+== Fonction ==
+
+L'histoire de l'investigation du tectum optique a été marquée par plusieurs grands changements d'opinion.
+
+Avant 1970 environ, la plupart des études impliquaient des non-mammifères - poissons, grenouilles, oiseaux - c'est-à-dire des espèces dans lesquelles le tectum optique est la structure dominante qui reçoit l'apport des yeux.
+
+L'opinion générale était alors que le tectum optique, chez ces espèces, est le principal centre visuel du cerveau des non-mammifères et, par conséquent, est impliqué dans une grande variété de comportements.
+
+Des années 1970 aux années 1990, cependant, les enregistrements neuronaux de mammifères, principalement des singes, se sont concentrés principalement sur le rôle du colliculus supérieur dans le contrôle des mouvements oculaires.
+
+Cette ligne d'investigation en est venue à dominer la littérature à un tel degré que l'opinion majoritaire était que le contrôle des mouvements oculaires est la seule fonction importante chez les mammifères, un point de vue encore reflété dans de nombreux manuels actuels.
+
+À la fin des années 1990, cependant, des expériences utilisant des animaux dont la tête était libre de bouger ont clairement montré que le SC produit en fait des changements de regard, généralement composés de mouvements combinés de la tête et des yeux, plutôt que des mouvements oculaires en soi.
+
+Cette découverte a réveillé l'intérêt pour toute l'étendue des fonctions du colliculus supérieur et a conduit à des études d'intégration multisensorielle dans une variété d'espèces et de situations.
+
+Néanmoins, le rôle du SC dans le contrôle des mouvements oculaires est compris de manière beaucoup plus approfondie que toute autre fonction.
+
+Des études comportementales ont montré que le SC n'est pas nécessaire pour la reconnaissance d'objets, mais joue un rôle essentiel dans la capacité à diriger des comportements vers des objets spécifiques, et peut soutenir cette capacité même en l'absence du cortex cérébral.
+
+Ainsi, les chats présentant des dommages majeurs au cortex visuel ne peuvent pas reconnaître les objets, mais peuvent toujours être capables de suivre et de s'orienter vers des stimuli en mouvement, bien que plus lentement que d'habitude.
+
+Si une moitié du SC est retirée, cependant, les chats tourneront constamment vers le côté de la lésion et s'orienteront compulsivement vers les objets qui s'y trouvent, mais ne s'orienteront pas du tout vers les objets situés dans l'hémichamp opposé.
+
+Ces déficits diminuent avec le temps mais ne disparaissent jamais.
+
+
+=== Mouvements des yeux ===
+
+
+Chez les primates, les mouvements oculaires peuvent être divisés en plusieurs types : la fixation, dans laquelle les yeux sont dirigés vers un objet immobile, avec des mouvements oculaires uniquement pour compenser les mouvements de la tête ; poursuite en douceur, dans laquelle les yeux bougent régulièrement pour suivre un objet en mouvement; les saccades, dans lesquelles les yeux se déplacent très rapidement d'un endroit à un autre ; et la vergence, dans laquelle les yeux se déplacent simultanément dans des directions opposées pour obtenir ou maintenir une vision binoculaire unique.
+
+Le colliculus supérieur est impliqué dans tout cela, mais son rôle dans les saccades a été étudié de manière plus intensive.
+
+Chacun des deux colliculi — un de chaque côté du cerveau — contient une carte bidimensionnelle représentant la moitié du champ visuel.
+
+La fovéa - la région de sensibilité maximale - est représentée sur le bord avant de la carte et la périphérie sur le bord arrière.
+
+Les mouvements oculaires sont évoqués par l'activité dans les couches profondes du SC.
+
+Pendant la fixation, les neurones près du bord avant - la zone fovéale - sont toniquement actifs.
+
+Pendant la poursuite en douceur, les neurones à une petite distance du bord avant sont activés, entraînant de petits mouvements oculaires.
+
+Pour les saccades, les neurones sont activés dans une région qui représente le point vers lequel la saccade sera dirigée.
+
+Juste avant une saccade, l'activité s'accumule rapidement à l'emplacement cible et diminue dans d'autres parties du SC.
+
+Le codage est assez large, de sorte que pour une saccade donnée, le profil d'activité forme une "colline" qui englobe une fraction substantielle de la carte colliculaire :
+
+L'emplacement du sommet de cette "colline" représente la cible de la saccade.
+
+Le SC encode la cible d'un changement de regard, mais il ne semble pas préciser les mouvements précis nécessaires pour y arriver.
+
+La décomposition d'un déplacement du regard en mouvements de la tête et des yeux et la trajectoire précise de l'œil lors d'une saccade dépendent de l'intégration des signaux colliculaires et non colliculaires par les aires motrices en aval, de manière encore mal comprise.
+
+Quelle que soit la façon dont le mouvement est évoqué ou exécuté, le SC l'encode en coordonnées "rétinotopiques": c'est-à-dire que l'emplacement de la "colline" du SC correspond à un emplacement fixe sur la rétine.
+
+Cela semble contredire l'observation selon laquelle la stimulation d'un seul point sur le SC peut entraîner différentes directions de décalage du regard, en fonction de l'orientation initiale de l'œil.
+
+Cependant, il a été démontré que cela est dû au fait que l'emplacement rétinien d'un stimulus est une fonction non linéaire de l'emplacement de la cible, de l'orientation de l'œil et de la géométrie sphérique de l'œil.
+
+Il y a eu une certaine controverse quant à savoir si le SC commande simplement les mouvements oculaires et laisse l'exécution à d'autres structures, ou s'il participe activement à l'exécution d'une saccade.
+
+En 1991, Munoz et al., sur la base des données qu'ils ont recueillies, ont fait valoir que, lors d'une saccade, la "colline" d'activité dans le SC se déplace progressivement, pour refléter le décalage changeant de l'œil par rapport à l'emplacement cible tandis que la saccade progresse.
+
+À l'heure actuelle, l'opinion prédominante est que, bien que la «colline» se déplace légèrement pendant une saccade, elle ne se déplace pas de la manière régulière et proportionnée que prédit l'hypothèse de la «colline mobile».
+
+Cependant, les collines en mouvement peuvent jouer un autre rôle dans le colliculus supérieur; des expériences plus récentes ont démontré une colline en mouvement continu de l'activité de la mémoire visuelle lorsque les yeux se déplacent lentement tandis qu'une cible de saccade séparée est conservée.
+
+La sortie du secteur moteur du SC va à un ensemble de noyaux du mésencéphale et du tronc cérébral, qui transforment le code "lieu" utilisé par le SC en code "taux" utilisé par les neurones oculomoteurs.
+
+Les mouvements oculaires sont générés par six muscles, disposés en trois paires alignées orthogonalement.
+
+Ainsi, au niveau du chemin commun final, les mouvements oculaires sont codés dans un système de coordonnées essentiellement cartésien.
+
+Bien que le SC reçoive une forte contribution directement de la rétine, chez les primates, il est largement sous le contrôle du cortex cérébral, qui contient plusieurs zones impliquées dans la détermination des mouvements oculaires.
+
+Les champs oculaires frontaux, une partie du cortex moteur, sont impliqués dans le déclenchement des saccades intentionnelles, et une zone attenante, les champs oculaires supplémentaires, sont impliquées dans l'organisation des groupes de saccades en séquences.
+
+Les champs oculaires pariétaux, plus en arrière dans le cerveau, sont principalement impliqués dans des saccades réflexives, réalisées en réponse à des changements de vue.
+
+Des preuves récentes suggèrent que le cortex visuel primaire (V1) guide les mouvements oculaires réflexifs, selon l'hypothèse de saillance V1, en utilisant une carte de saillance ascendante du champ visuel générée en V1 à partir d'entrées visuelles externes.
+
+Le SC ne reçoit que des entrées visuelles dans ses couches superficielles, tandis que les couches plus profondes du colliculus reçoivent également des entrées auditives et somatosensorielles et sont connectées à de nombreuses zones sensorimotrices du cerveau.
+
+On pense que le colliculus dans son ensemble aide à orienter la tête et les yeux vers quelque chose de vu et d'entendu.
+
+Le colliculus supérieur reçoit également des informations auditives du colliculus inférieur.
+
+Ces informations auditives sont intégrées aux informations visuelles déjà présentes pour produire l'effet de ventriloquie.
+
+
+=== Distractibilité ===
+
+En plus d'être lié aux mouvements oculaires, le SC semble avoir un rôle important à jouer dans les circuits qui sous-tendent la distractibilité.
+
+Une distractibilité accrue se produit dans le vieillissement normal et est également une caractéristique centrale dans un certain nombre de conditions médicales, y compris le trouble déficitaire de l'attention avec hyperactivité (TDAH).
+
+La recherche a montré que les lésions du SC chez un certain nombre d'espèces peuvent entraîner une distractibilité accrue et, chez l'homme, la suppression du contrôle inhibiteur sur le SC du cortex préfrontal, augmentant ainsi l'activité dans la région, augmente également la distractibilité.
+
+La recherche sur un modèle animal de TDAH, le rat spontanément hypertendu, montre également des comportements et une physiologie dépendants de la collicule altérés.
+
+De plus, l'amphétamine (un traitement de base du TDAH) supprime également l'activité du colliculus chez les animaux sains.
+
+
+
+https://en.wikipedia.org/wiki/Superior_colliculus

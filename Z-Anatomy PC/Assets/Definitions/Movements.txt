@@ -1,0 +1,140 @@
+
+
+MOVEMENTS (List)
+
+
+-abduction
+-adduction
+
+-lateral rotation
+-medial rotation
+
+-circumduction
+
+-flexion
+-extension
+
+-pronation
+-supination
+
+-opposition
+-reposition
+
+-plantar flexion
+-dorsiflexion
+
+-elevation
+-depression
+
+-eversion
+-inversion
+
+-protraction
+-retraction
+;;;ES;;;
+
+
+
+MOVIMIENTOS (Lista)
+
+
+-secuestro
+-aducción
+
+-rotación lateral
+-rotación medial
+
+-circunducción
+
+-flexión
+-extensión
+
+-pronación
+-supinación
+
+-oposición
+-reposicionar
+
+-flexión plantar
+-dorsiflexión
+
+-elevación
+-depresión
+
+-eversión
+-inversión
+
+-prolongación
+-retracción
+
+;;;PT;;;
+
+
+
+MOVIMENTOS (Lista)
+
+
+-abdução
+-adução
+
+-rotação lateral
+-rotação medial
+
+-circundução
+
+-flexão
+-extensão
+
+-pronação
+-supinação
+
+-oposição
+-Reposição
+
+-flexão plantar
+-dorsiflexão
+
+-elevação
+-depressão
+
+-eversão
+-inversão
+
+-protração
+-retração
+
+;;;FR;;;
+
+
+
+MOUVEMENTS (Liste)
+
+
+-enlèvement
+-adduction
+
+-rotation latérale
+- rotation médiale
+
+-circumduction
+
+-flexion
+-extension
+
+-pronation
+-supination
+
+-opposition
+-repositionner
+
+-flexion plantaire
+-flexion dorsale
+
+-élévation
+-la dépression
+
+-éversion
+-inversion
+
+-prolongation
+-rétraction

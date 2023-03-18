@@ -1,0 +1,904 @@
+
+
+ELECTRICAL CONDUCTION SYSTEM OF THE HEART
+
+
+The electrical conduction system of the heart transmits signals generated usually by the sinoatrial node to cause contraction of the heart muscle. 
+
+The pacemaking signal generated in the sinoatrial node travels through the right atrium to the atrioventricular node, along the Bundle of His and through bundle branches to cause contraction of the heart muscle. 
+
+This signal stimulates contraction first of the right and left atrium, and then the right and left ventricles. 
+
+This process allows blood to be pumped throughout the body.
+The conduction system consists of specialised heart muscle cells, and is situated within the myocardium. 
+
+There is a skeleton of fibrous tissue that surrounds the conduction system which can be seen on an ECG. 
+
+Dysfunction of the conduction system can cause irregular, fast, or slow heart rhythms.
+
+
+== Structure ==
+
+
+Electrical signals arising in the SA node (located in the right atrium) stimulate the atria to contract. 
+
+Then the signals travel to the atrioventricular node (AV node), which is located in the interatrial septum. 
+
+After a delay, the electrical signal diverges and is conducted through the left and right bundle of His to the respective Purkinje fibers for each side of the heart, as well as to the endocardium at the apex of the heart, then finally to the ventricular epicardium; causing its contraction. 
+
+These signals are generated rhythmically, which in turn results in the coordinated rhythmic contraction and relaxation of the heart.
+On the microscopic level, the wave of depolarization propagates to adjacent cells via gap junctions located on the intercalated disc. 
+
+The heart is a functional syncytium (not to be confused with a true "syncytium" in which all the cells are fused together, sharing the same plasma membrane as in skeletal muscle). 
+
+In a functional syncytium, electrical impulses propagate freely between cells in every direction, so that the myocardium functions as a single contractile unit. 
+
+This property allows rapid, synchronous depolarization of the myocardium. 
+
+While advantageous under normal circumstances, this property can be detrimental, as it has potential to allow the propagation of incorrect electrical signals. 
+
+These gap junctions can close to isolate damaged or dying tissue, as in a myocardial infarction (heart attack).
+
+
+=== Development ===
+
+Embryologic evidence of generation of the cardiac conduction system illuminates the respective roles of this specialized set of cells. 
+
+Innervation of the heart begins with a brain only centered parasympathetic cholinergic first order. 
+
+It is then followed by rapid growth of a second order sympathetic adrenergic system arising from the formation of the thoracic spinal ganglia. 
+
+The third order of electrical influence of the heart is derived from the vagus nerve as the other peripheral organs form.
+
+
+== Function ==
+
+
+
+=== Action potential generation ===
+
+
+Cardiac muscle has some similarities to neurons and skeletal muscle, as well as important unique properties. 
+
+Like a neuron, a given myocardial cell has a negative membrane potential when at rest. 
+
+Stimulation above a threshold value induces the opening of voltage-gated ion channels and a flood of cations into the cell. 
+
+The positively charged ions entering the cell cause the depolarization characteristic of an action potential. 
+
+Like skeletal muscle, depolarization causes the opening of voltage-gated calcium channels and release of Ca2+ from the t-tubules. 
+
+This influx of calcium causes calcium-induced calcium release from the sarcoplasmic reticulum, and free Ca2+ causes muscle contraction. 
+
+After a delay, potassium channels reopen, and the resulting flow of K+ out of the cell causes repolarization to the resting state.There are important physiological differences between nodal cells and ventricular cells; the specific differences in ion channels and mechanisms of polarization give rise to unique properties of SA node cells, most importantly the spontaneous depolarizations necessary for the SA node's pacemaker activity.
+
+
+=== Requirements for effective pumping ===
+
+In order to maximize efficiency of contractions and cardiac output, the conduction system of the heart has:
+
+Substantial atrial to ventricular delay. 
+
+This will allow the atria to completely empty their contents into the ventricles; simultaneous contraction would cause inefficient filling and backflow. 
+
+The atria are electrically isolated from the ventricles, connected only via the AV node which briefly delays the signal.
+Coordinated contraction of ventricular cells. 
+
+The ventricles must maximize systolic pressure to force blood through the circulation, so all the ventricular cells must work together.
+Ventricular contraction begins at the apex of the heart, progressing upwards to eject blood into the great arteries. 
+
+Contraction that squeezes blood towards the exit is more efficient than a simple squeeze from all directions. 
+
+Although the ventricular stimulus originates from the AV node in the wall separating the atria and ventricles, the Bundle of His conducts the signal to the apex.
+Depolarization propagates through cardiac muscle very rapidly. 
+
+Cells of the ventricles contract nearly simultaneously.
+The action potentials of cardiac muscle are unusually sustained. 
+
+This prevents premature relaxation, maintaining initial contraction until the entire myocardium has had time to depolarize and contract.
+Absence of tetany. 
+
+After contracting, the heart must relax to fill up again. 
+
+Sustained contraction of the heart without relaxation would be fatal, and this is prevented by a temporary inactivation of certain ion channels.
+
+
+== ECG ==
+
+
+An electrocardiogram is a recording of the electrical activity of the heart.
+
+
+=== SA node: P wave ===
+
+Under normal conditions, electrical activity is spontaneously generated by the SA node, the cardiac pacemaker. 
+
+This electrical impulse is propagated throughout the right atrium, and through Bachmann's bundle to the left atrium, stimulating the myocardium of the atria to contract. 
+
+The conduction of the electrical impulses throughout the atria is seen on the ECG as the P wave.As the electrical activity is spreading throughout the atria, it travels via specialized pathways, known as internodal tracts, from the SA node to the AV node.
+
+
+=== AV node and bundles: PR interval ===
+
+The AV node functions as a critical delay in the conduction system. 
+
+Without this delay, the atria and ventricles would contract at the same time, and blood wouldn't flow effectively from the atria to the ventricles. 
+
+The delay in the AV node forms much of the PR segment on the ECG, and part of atrial repolarization can be represented by the PR segment.
+The distal portion of the AV node is known as the bundle of His. 
+
+The bundle of His splits into two branches in the interventricular septum: the left bundle branch and the right bundle branch. 
+
+The left bundle branch activates the left ventricle, while the right bundle branch activates the right ventricle.
+The left bundle branch is short, splitting into the left anterior fascicle and the left posterior fascicle. 
+
+The left posterior fascicle is relatively short and broad, with dual blood supply, making it particularly resistant to ischemic damage. 
+
+The left posterior fascicle transmits impulses to the papillary muscles, leading to mitral valve closure. 
+
+As the left posterior fascicle is shorter and broader than the right, impulses reach the papillary muscles just prior to depolarization, and therefore contraction, of the left ventricle myocardium. 
+
+This allows pre-tensioning of the chordae tendinae, increasing the resistance to flow through the mitral valve during left ventricular contraction. 
+
+This mechanism works in the same manner as pre-tensioning of car seatbelts.
+
+
+=== Purkinje fibers/ventricular myocardium: QRS complex ===
+
+The two bundle branches taper out to produce numerous Purkinje fibers, which stimulate individual groups of myocardial cells to contract.The spread of electrical activity through the ventricular myocardium produces the QRS complex on the ECG.
+Atrial repolarization occurs and is masked during the QRS complex by ventricular depolarization on the ECG.
+
+
+=== Ventricular repolarization ===
+
+The last event of the cycle is the repolarization of the ventricles. 
+
+It is the restoring of the resting state. 
+
+In the ECG, repolarization includes the J point, ST segment, and T and U waves.The transthoracically measured PQRS portion of an electrocardiogram is chiefly influenced by the sympathetic nervous system. 
+
+The T (and occasionally U) waves are chiefly influenced by the parasympathetic nervous system guided by integrated brainstem control from the vagus nerve and the thoracic spinal accessory ganglia.
+An impulse (action potential) that originates from the SA node at a relative rate of 60-100 bpm is known as normal sinus rhythm. 
+
+If SA nodal impulses occur at a rate less than 60 bpm, the heart rhythm is known as sinus bradycardia. 
+
+If SA nodal impulses occur at a rate exceeding 100bpm, the consequent rapid heart rate is sinus tachycardia. 
+
+These conditions are not necessarily bad symptoms, however. 
+
+Trained athletes, for example, usually show heart rates slower than 60bpm when not exercising. 
+
+If the SA node fails to initialize, the AV junction can take over as the main pacemaker of the heart. 
+
+The AV junction consists of the AV node, the bundle of His, and the surrounding area; it has a regular rate of 40 to 60bpm. 
+
+These "junctional" rhythms are characterized by a missing or inverted P wave. 
+
+If both the SA node and the AV junction fail to initialize the electrical impulse, the ventricles can fire the electrical impulses themselves at a rate of 20 to 40 bpm and will have a QRS complex of greater than 120 ms. 
+
+This is necessary for the heart to be in good function.
+
+
+== Clinical significance ==
+
+
+
+=== Arrhythmia ===
+
+
+An "arrhythmia" refers to an abnormal rhythm or speed of rhythm of the heartbeat. 
+
+An abnormal rhythm or speed is defined as one that is not physiological.
+
+
+==== Speed ====
+
+A resting heart that beats slower than 60 beats per minute, or faster than 100 beats per minute, is regarded as having an arrhythmia. 
+
+A heartbeat slower than 60 beats per minute is known as bradycardia, and a heartbeat faster than 100 is known as a tachycardia.
+
+
+==== Physiological ====
+Some individuals, for example trained athletes, may have heart beats slower than 60 beats per minute when not exercising. 
+
+If the SA node fails to initialize, the AV junction can take over as the main pacemaker of the heart. 
+
+The AV junction "surrounds" the AV node (the AV node is not able to initialize its own impulses) and has a regular rate of 40 to 60 bpm. 
+
+These "junctional" rhythms are characterized by a missing or inverted P wave. 
+
+If both the SA node and the AV junction fail to initialize the electrical impulse, the ventricles can fire the electrical impulses themselves at a rate of 20 to 40 bpm and will have a QRS complex of greater than 120 ms.
+
+
+=== Pacemakers ===
+
+
+In the event of arrhythmia, a pacemaker may be surgically inserted into the conduction system.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Electrical_conduction_system_of_the_heart
+;;;ES;;;
+
+
+
+SISTEMA DE CONDUCCIÓN ELÉCTRICA DEL CORAZÓN
+
+
+El sistema de conducción eléctrica del corazón transmite señales generadas generalmente por el nódulo sinoauricular para provocar la contracción del músculo cardíaco.
+
+La señal de marcapasos generada en el nódulo sinoauricular viaja a través de la aurícula derecha hasta el nódulo auriculoventricular, a lo largo del haz de His ya través de las ramas del haz para provocar la contracción del músculo cardíaco.
+
+Esta señal estimula la contracción primero de las aurículas derecha e izquierda, y luego de los ventrículos derecho e izquierdo.
+
+Este proceso permite que la sangre sea bombeada por todo el cuerpo.
+El sistema de conducción consta de células especializadas del músculo cardíaco y está situado dentro del miocardio.
+
+Hay un esqueleto de tejido fibroso que rodea el sistema de conducción que se puede ver en un ECG.
+
+La disfunción del sistema de conducción puede causar ritmos cardíacos irregulares, rápidos o lentos.
+
+
+== Estructura ==
+
+
+Las señales eléctricas que surgen en el nódulo SA (ubicado en la aurícula derecha) estimulan la contracción de las aurículas.
+
+Luego, las señales viajan al nódulo auriculoventricular (nódulo AV), que se encuentra en el tabique interauricular.
+
+Después de un retraso, la señal eléctrica diverge y se conduce a través del haz de His izquierdo y derecho a las fibras de Purkinje respectivas de cada lado del corazón, así como al endocardio en el vértice del corazón y finalmente al epicardio ventricular. ; provocando su contracción.
+
+Estas señales se generan rítmicamente, lo que a su vez da como resultado la contracción y relajación rítmica coordinada del corazón.
+A nivel microscópico, la onda de despolarización se propaga a las células adyacentes a través de uniones comunicantes ubicadas en el disco intercalado.
+
+El corazón es un sincitio funcional (que no debe confundirse con un verdadero "sincitio" en el que todas las células están fusionadas, compartiendo la misma membrana plasmática que en el músculo esquelético).
+
+En un sincitio funcional, los impulsos eléctricos se propagan libremente entre las células en todas las direcciones, de modo que el miocardio funciona como una sola unidad contráctil.
+
+Esta propiedad permite una despolarización rápida y sincrónica del miocardio.
+
+Si bien es ventajoso en circunstancias normales, esta propiedad puede ser perjudicial, ya que tiene el potencial de permitir la propagación de señales eléctricas incorrectas.
+
+Estas uniones comunicantes pueden cerrarse para aislar el tejido dañado o moribundo, como en un infarto de miocardio (ataque cardíaco).
+
+
+=== Desarrollo ===
+
+La evidencia embriológica de la generación del sistema de conducción cardiaco ilumina las funciones respectivas de este conjunto especializado de células.
+
+La inervación del corazón comienza con un cerebro únicamente parasimpático colinérgico de primer orden.
+
+Luego le sigue un rápido crecimiento de un sistema adrenérgico simpático de segundo orden que surge de la formación de los ganglios espinales torácicos.
+
+El tercer orden de influencia eléctrica del corazón se deriva del nervio vago a medida que se forman los demás órganos periféricos.
+
+
+== Función ==
+
+
+
+=== Generación de potencial de acción ===
+
+
+El músculo cardíaco tiene algunas similitudes con las neuronas y el músculo esquelético, así como importantes propiedades únicas.
+
+Al igual que una neurona, una determinada célula miocárdica tiene un potencial de membrana negativo cuando está en reposo.
+
+La estimulación por encima de un valor umbral induce la apertura de canales iónicos activados por voltaje y una inundación de cationes en la célula.
+
+Los iones cargados positivamente que ingresan a la célula provocan la despolarización característica de un potencial de acción.
+
+Al igual que el músculo esquelético, la despolarización provoca la apertura de canales de calcio dependientes de voltaje y la liberación de Ca2+ de los túbulos t.
+
+Esta entrada de calcio provoca la liberación de calcio inducida por calcio desde el retículo sarcoplásmico, y el Ca2+ libre provoca la contracción muscular.
+
+Después de un retraso, los canales de potasio se vuelven a abrir y el flujo resultante de K+ fuera de la célula provoca la repolarización al estado de reposo. Existen importantes diferencias fisiológicas entre las células nodales y las ventriculares; las diferencias específicas en los canales iónicos y los mecanismos de polarización dan lugar a propiedades únicas de las células del nódulo SA, sobre todo las despolarizaciones espontáneas necesarias para la actividad de marcapasos del nódulo SA.
+
+
+=== Requisitos para un bombeo efectivo ===
+
+Para maximizar la eficiencia de las contracciones y el gasto cardíaco, el sistema de conducción del corazón tiene:
+
+Retraso importante de aurícula a ventrículo.
+
+Esto permitirá que las aurículas vacíen completamente su contenido en los ventrículos; la contracción simultánea provocaría un llenado ineficaz y un reflujo.
+
+Las aurículas están eléctricamente aisladas de los ventrículos, conectadas solo a través del nodo AV, que retrasa brevemente la señal.
+Contracción coordinada de las células ventriculares.
+
+Los ventrículos deben maximizar la presión sistólica para impulsar la sangre a través de la circulación, por lo que todas las células ventriculares deben trabajar juntas.
+La contracción ventricular comienza en el vértice del corazón y avanza hacia arriba para expulsar sangre a las grandes arterias.
+
+La contracción que empuja la sangre hacia la salida es más eficiente que un simple apretón desde todas las direcciones.
+
+Aunque el estímulo ventricular se origina en el nódulo AV en la pared que separa las aurículas y los ventrículos, el Haz de His conduce la señal al vértice.
+La despolarización se propaga a través del músculo cardíaco muy rápidamente.
+
+Las células de los ventrículos se contraen casi simultáneamente.
+Los potenciales de acción del músculo cardíaco se mantienen inusualmente.
+
+Esto evita la relajación prematura, manteniendo la contracción inicial hasta que todo el miocardio haya tenido tiempo de despolarizarse y contraerse.
+Ausencia de tetania.
+
+Después de contraerse, el corazón debe relajarse para volver a llenarse.
+
+La contracción sostenida del corazón sin relajación sería fatal, y esto se evita mediante la inactivación temporal de ciertos canales iónicos.
+
+
+== electrocardiograma ==
+
+
+Un electrocardiograma es un registro de la actividad eléctrica del corazón.
+
+
+=== Nodo SA: onda P ===
+
+En condiciones normales, el nódulo SA, el marcapasos cardíaco, genera espontáneamente actividad eléctrica.
+
+Este impulso eléctrico se propaga por toda la aurícula derecha, ya través del haz de Bachmann hasta la aurícula izquierda, estimulando la contracción del miocardio de las aurículas.
+
+La conducción de los impulsos eléctricos a través de las aurículas se ve en el ECG como la onda P. A medida que la actividad eléctrica se propaga por las aurículas, viaja a través de vías especializadas, conocidas como tractos internodales, desde el nódulo SA hasta el nódulo AV.
+
+
+=== Nodo AV y haces: intervalo PR ===
+
+El nodo AV funciona como un retraso crítico en el sistema de conducción.
+
+Sin este retraso, las aurículas y los ventrículos se contraerían al mismo tiempo y la sangre no fluiría con eficacia desde las aurículas a los ventrículos.
+
+El retraso en el nódulo AV forma gran parte del segmento PR en el ECG, y parte de la repolarización auricular puede representarse mediante el segmento PR.
+La porción distal del nódulo AV se conoce como haz de His.
+
+El haz de His se divide en dos ramas en el tabique interventricular: la rama izquierda y la rama derecha.
+
+La rama izquierda del haz activa el ventrículo izquierdo, mientras que la rama derecha del haz activa el ventrículo derecho.
+La rama izquierda del haz es corta y se divide en el fascículo anterior izquierdo y el fascículo posterior izquierdo.
+
+El fascículo posterior izquierdo es relativamente corto y ancho, con riego sanguíneo dual, lo que lo hace particularmente resistente al daño isquémico.
+
+El fascículo posterior izquierdo transmite impulsos a los músculos papilares, lo que lleva al cierre de la válvula mitral.
+
+Como el fascículo posterior izquierdo es más corto y más ancho que el derecho, los impulsos llegan a los músculos papilares justo antes de la despolarización y, por lo tanto, de la contracción del miocardio del ventrículo izquierdo.
+
+Esto permite pretensar las cuerdas tendinosas, aumentando la resistencia al flujo a través de la válvula mitral durante la contracción del ventrículo izquierdo.
+
+Este mecanismo funciona de la misma manera que el pretensado de los cinturones de seguridad de los automóviles.
+
+
+=== Fibras de Purkinje/miocardio ventricular: complejo QRS ===
+
+Las dos ramas del haz se estrechan para producir numerosas fibras de Purkinje, que estimulan la contracción de grupos individuales de células miocárdicas. La propagación de la actividad eléctrica a través del miocardio ventricular produce el complejo QRS en el ECG.
+Se produce repolarización auricular y queda enmascarada durante el complejo QRS por la despolarización ventricular en el ECG.
+
+
+=== Repolarización ventricular ===
+
+El último evento del ciclo es la repolarización de los ventrículos.
+
+Es la restauración del estado de reposo.
+
+En el ECG, la repolarización incluye el punto J, el segmento ST y las ondas T y U. La porción PQRS de un electrocardiograma medida transtorácica está influenciada principalmente por el sistema nervioso simpático.
+
+Las ondas T (y en ocasiones U) están influenciadas principalmente por el sistema nervioso parasimpático guiado por el control integrado del tronco encefálico del nervio vago y los ganglios accesorios de la columna torácica.
+Un impulso (potencial de acción) que se origina en el nódulo SA a una frecuencia relativa de 60 a 100 lpm se conoce como ritmo sinusal normal.
+
+Si los impulsos del nódulo SA ocurren a una frecuencia inferior a 60 lpm, el ritmo cardíaco se conoce como bradicardia sinusal.
+
+Si los impulsos del nódulo SA ocurren a una frecuencia superior a 100 lpm, la frecuencia cardíaca rápida consiguiente es taquicardia sinusal.
+
+Sin embargo, estas condiciones no son necesariamente malos síntomas.
+
+Los atletas entrenados, por ejemplo, suelen mostrar frecuencias cardíacas inferiores a 60 lpm cuando no hacen ejercicio.
+
+Si el nódulo SA no se inicializa, la unión AV puede convertirse en el marcapasos principal del corazón.
+
+La unión AV consta del nódulo AV, el haz de His y el área circundante; tiene un ritmo regular de 40 a 60bpm.
+
+Estos ritmos de "unión" se caracterizan por una onda P faltante o invertida.
+
+Si tanto el nódulo SA como la unión AV no logran inicializar el impulso eléctrico, los ventrículos pueden disparar los impulsos eléctricos por sí mismos a una frecuencia de 20 a 40 lpm y tendrán un complejo QRS de más de 120 ms.
+
+Esto es necesario para que el corazón funcione bien.
+
+
+== Importancia clínica ==
+
+
+
+=== Arritmia ===
+
+
+Una "arritmia" se refiere a un ritmo anormal oa la velocidad del ritmo de los latidos del corazón.
+
+Un ritmo o velocidad anormal se define como uno que no es fisiológico.
+
+
+==== Velocidad ====
+
+Se considera que un corazón en reposo que late a menos de 60 latidos por minuto o más de 100 latidos por minuto tiene arritmia.
+
+Un latido cardíaco inferior a 60 latidos por minuto se conoce como bradicardia, y un latido cardíaco superior a 100 se conoce como taquicardia.
+
+
+==== Fisiológico ====
+Algunas personas, por ejemplo atletas entrenados, pueden tener latidos cardíacos más lentos que 60 latidos por minuto cuando no están haciendo ejercicio.
+
+Si el nódulo SA no se inicializa, la unión AV puede convertirse en el marcapasos principal del corazón.
+
+La unión AV "rodea" el nódulo AV (el nódulo AV no puede inicializar sus propios impulsos) y tiene una frecuencia regular de 40 a 60 lpm.
+
+Estos ritmos de "unión" se caracterizan por una onda P faltante o invertida.
+
+Si tanto el nódulo SA como la unión AV no logran inicializar el impulso eléctrico, los ventrículos pueden disparar los impulsos eléctricos por sí mismos a una frecuencia de 20 a 40 lpm y tendrán un complejo QRS de más de 120 ms.
+
+
+=== Marcapasos ===
+
+
+En caso de arritmia, se puede insertar quirúrgicamente un marcapasos en el sistema de conducción.
+
+
+== Referencias ==
+
+
+
+
+https://en.wikipedia.org/wiki/Electrical_conduction_system_of_the_heart
+
+;;;PT;;;
+
+
+
+SISTEMA DE CONDUÇÃO ELÉTRICA DO CORAÇÃO
+
+
+O sistema de condução elétrica do coração transmite sinais gerados geralmente pelo nó sinoatrial para causar a contração do músculo cardíaco.
+
+O sinal de marcapasso gerado no nodo sinoatrial viaja através do átrio direito até o nodo atrioventricular, ao longo do Feixe de His e através dos ramos do feixe para causar a contração do músculo cardíaco.
+
+Esse sinal estimula a contração primeiro do átrio direito e esquerdo e, em seguida, dos ventrículos direito e esquerdo.
+
+Este processo permite que o sangue seja bombeado por todo o corpo.
+O sistema de condução consiste em células especializadas do músculo cardíaco e está situado no miocárdio.
+
+Há um esqueleto de tecido fibroso que circunda o sistema de condução que pode ser visto em um ECG.
+
+A disfunção do sistema de condução pode causar ritmos cardíacos irregulares, rápidos ou lentos.
+
+
+== Estrutura ==
+
+
+Os sinais elétricos que surgem no nodo SA (localizado no átrio direito) estimulam a contração dos átrios.
+
+Em seguida, os sinais viajam para o nó atrioventricular (nó AV), que está localizado no septo interatrial.
+
+Após um atraso, o sinal elétrico diverge e é conduzido através do feixe de His esquerdo e direito para as respectivas fibras de Purkinje de cada lado do coração, bem como para o endocárdio no ápice do coração e, finalmente, para o epicárdio ventricular ; causando sua contração.
+
+Esses sinais são gerados ritmicamente, o que, por sua vez, resulta na contração rítmica coordenada e no relaxamento do coração.
+No nível microscópico, a onda de despolarização se propaga para células adjacentes através de junções comunicantes localizadas no disco intercalar.
+
+O coração é um sincício funcional (não deve ser confundido com um verdadeiro "sincício" no qual todas as células estão fundidas, compartilhando a mesma membrana plasmática do músculo esquelético).
+
+Em um sincício funcional, os impulsos elétricos se propagam livremente entre as células em todas as direções, de modo que o miocárdio funciona como uma única unidade contrátil.
+
+Essa propriedade permite a despolarização rápida e síncrona do miocárdio.
+
+Embora vantajosa em circunstâncias normais, essa propriedade pode ser prejudicial, pois tem potencial para permitir a propagação de sinais elétricos incorretos.
+
+Essas junções comunicantes podem se fechar para isolar tecidos danificados ou moribundos, como em um infarto do miocárdio (ataque cardíaco).
+
+
+=== Desenvolvimento ===
+
+Evidências embriológicas da geração do sistema de condução cardíaco iluminam os respectivos papéis desse conjunto especializado de células.
+
+A inervação do coração começa com um cérebro apenas centrado parassimpático colinérgico de primeira ordem.
+
+Segue-se então o rápido crescimento de um sistema adrenérgico simpático de segunda ordem, originado da formação dos gânglios espinais torácicos.
+
+A terceira ordem de influência elétrica do coração é derivada do nervo vago à medida que os outros órgãos periféricos se formam.
+
+
+== Função ==
+
+
+
+=== Geração de potencial de ação ===
+
+
+O músculo cardíaco tem algumas semelhanças com os neurônios e o músculo esquelético, além de importantes propriedades únicas.
+
+Como um neurônio, uma determinada célula miocárdica tem um potencial de membrana negativo quando em repouso.
+
+A estimulação acima de um valor limite induz a abertura de canais iônicos dependentes de voltagem e um fluxo de cátions para dentro da célula.
+
+Os íons carregados positivamente que entram na célula causam a despolarização característica de um potencial de ação.
+
+Como o músculo esquelético, a despolarização causa a abertura de canais de cálcio dependentes de voltagem e liberação de Ca2+ dos túbulos t.
+
+Esse influxo de cálcio causa liberação de cálcio induzida pelo retículo sarcoplasmático, e o Ca2+ livre causa contração muscular.
+
+Após um atraso, os canais de potássio reabrem e o fluxo resultante de K+ para fora da célula causa repolarização para o estado de repouso. Existem diferenças fisiológicas importantes entre as células nodais e as células ventriculares; as diferenças específicas nos canais iônicos e nos mecanismos de polarização dão origem a propriedades únicas das células do nodo SA, principalmente as despolarizações espontâneas necessárias para a atividade do marcapasso do nodo SA.
+
+
+=== Requisitos para bombeamento eficaz ===
+
+Para maximizar a eficiência das contrações e do débito cardíaco, o sistema de condução do coração possui:
+
+Atraso substancial atrial para ventricular.
+
+Isso permitirá que os átrios esvaziem completamente seu conteúdo nos ventrículos; a contração simultânea causaria enchimento ineficiente e refluxo.
+
+Os átrios são eletricamente isolados dos ventrículos, conectados apenas através do nó AV que atrasa brevemente o sinal.
+Contração coordenada das células ventriculares.
+
+Os ventrículos devem maximizar a pressão sistólica para forçar o sangue através da circulação, de modo que todas as células ventriculares devem trabalhar juntas.
+A contração ventricular começa no ápice do coração, progredindo para cima para ejetar o sangue nas grandes artérias.
+
+A contração que espreme o sangue em direção à saída é mais eficiente do que um simples aperto de todas as direções.
+
+Embora o estímulo ventricular tenha origem no nó AV na parede que separa os átrios dos ventrículos, o Feixe de His conduz o sinal para o ápice.
+A despolarização se propaga através do músculo cardíaco muito rapidamente.
+
+As células dos ventrículos se contraem quase simultaneamente.
+Os potenciais de ação do músculo cardíaco são anormalmente sustentados.
+
+Isso evita o relaxamento prematuro, mantendo a contração inicial até que todo o miocárdio tenha tempo de despolarizar e contrair.
+Ausência de tetania.
+
+Após a contração, o coração deve relaxar para se encher novamente.
+
+A contração sustentada do coração sem relaxamento seria fatal, e isso é evitado por uma inativação temporária de certos canais iônicos.
+
+
+== ECG ==
+
+
+Um eletrocardiograma é um registro da atividade elétrica do coração.
+
+
+=== nó SA: onda P ===
+
+Em condições normais, a atividade elétrica é gerada espontaneamente pelo nodo SA, o marcapasso cardíaco.
+
+Esse impulso elétrico é propagado por todo o átrio direito e, através do feixe de Bachmann, até o átrio esquerdo, estimulando a contração do miocárdio dos átrios.
+
+A condução dos impulsos elétricos pelos átrios é vista no ECG como onda P. À medida que a atividade elétrica se espalha pelos átrios, ela viaja por vias especializadas, conhecidas como tratos internodais, do nodo SA ao nodo AV.
+
+
+=== Nó AV e feixes: intervalo PR ===
+
+O nó AV funciona como um atraso crítico no sistema de condução.
+
+Sem esse atraso, os átrios e os ventrículos se contrairiam ao mesmo tempo, e o sangue não fluiria efetivamente dos átrios para os ventrículos.
+
+O atraso no nó AV forma grande parte do segmento PR no ECG, e parte da repolarização atrial pode ser representada pelo segmento PR.
+A porção distal do nó AV é conhecida como feixe de His.
+
+O feixe de His se divide em dois ramos no septo interventricular: o ramo esquerdo e o ramo direito.
+
+O ramo esquerdo ativa o ventrículo esquerdo, enquanto o ramo direito ativa o ventrículo direito.
+O ramo esquerdo é curto, dividindo-se em fascículo anterior esquerdo e fascículo posterior esquerdo.
+
+O fascículo posterior esquerdo é relativamente curto e largo, com duplo suprimento sanguíneo, tornando-o particularmente resistente ao dano isquêmico.
+
+O fascículo posterior esquerdo transmite impulsos aos músculos papilares, levando ao fechamento da válvula mitral.
+
+Como o fascículo posterior esquerdo é mais curto e largo que o direito, os impulsos atingem os músculos papilares imediatamente antes da despolarização e, portanto, da contração do miocárdio do ventrículo esquerdo.
+
+Isso permite o pré-tensionamento das cordas tendíneas, aumentando a resistência ao fluxo através da válvula mitral durante a contração ventricular esquerda.
+
+Este mecanismo funciona da mesma forma que o pré-tensionamento dos cintos de segurança dos automóveis.
+
+
+=== Fibras de Purkinje/miocárdio ventricular: complexo QRS ===
+
+Os dois ramos do feixe afunilam para produzir numerosas fibras de Purkinje, que estimulam a contração de grupos individuais de células miocárdicas. A propagação da atividade elétrica através do miocárdio ventricular produz o complexo QRS no ECG.
+A repolarização atrial ocorre e é mascarada durante o complexo QRS pela despolarização ventricular no ECG.
+
+
+=== Repolarização ventricular ===
+
+O último evento do ciclo é a repolarização dos ventrículos.
+
+É a restauração do estado de repouso.
+
+No ECG, a repolarização inclui o ponto J, segmento ST e ondas T e U. A porção PQRS medida transtorácica de um eletrocardiograma é influenciada principalmente pelo sistema nervoso simpático.
+
+As ondas T (e ocasionalmente U) são influenciadas principalmente pelo sistema nervoso parassimpático guiado pelo controle integrado do tronco encefálico do nervo vago e dos gânglios acessórios espinais torácicos.
+Um impulso (potencial de ação) que se origina do nodo SA a uma frequência relativa de 60-100 bpm é conhecido como ritmo sinusal normal.
+
+Se os impulsos nodais SA ocorrerem a uma frequência inferior a 60 bpm, o ritmo cardíaco é conhecido como bradicardia sinusal.
+
+Se os impulsos nodais SA ocorrerem a uma frequência superior a 100 bpm, a frequência cardíaca rápida consequente é a taquicardia sinusal.
+
+Essas condições não são necessariamente sintomas ruins, no entanto.
+
+Atletas treinados, por exemplo, geralmente apresentam batimentos cardíacos mais lentos que 60bpm quando não estão se exercitando.
+
+Se o nó SA não inicializar, a junção AV pode assumir o papel de marca-passo principal do coração.
+
+A junção AV consiste no nó AV, o feixe de His e a área circundante; tem uma taxa regular de 40 a 60bpm.
+
+Esses ritmos "juncionais" são caracterizados por uma onda P ausente ou invertida.
+
+Se tanto o nodo SA quanto a junção AV não inicializarem o impulso elétrico, os ventrículos podem disparar os próprios impulsos elétricos a uma frequência de 20 a 40 bpm e terão um complexo QRS maior que 120 ms.
+
+Isso é necessário para que o coração esteja em bom funcionamento.
+
+
+== Significado clínico ==
+
+
+
+=== Arritmia ===
+
+
+Uma "arritmia" refere-se a um ritmo anormal ou velocidade do ritmo do batimento cardíaco.
+
+Um ritmo ou velocidade anormal é definido como aquele que não é fisiológico.
+
+
+==== Velocidade ====
+
+Um coração em repouso que bate mais devagar que 60 batimentos por minuto, ou mais rápido que 100 batimentos por minuto, é considerado como tendo uma arritmia.
+
+Um batimento cardíaco mais lento que 60 batimentos por minuto é conhecido como bradicardia, e um batimento cardíaco mais rápido que 100 é conhecido como taquicardia.
+
+
+==== Fisiológico ====
+Alguns indivíduos, por exemplo, atletas treinados, podem ter batimentos cardíacos mais lentos que 60 batimentos por minuto quando não estão se exercitando.
+
+Se o nó SA não inicializar, a junção AV pode assumir o papel de marca-passo principal do coração.
+
+A junção AV "envolve" o nó AV (o nó AV não é capaz de inicializar seus próprios impulsos) e tem uma frequência regular de 40 a 60 bpm.
+
+Esses ritmos "juncionais" são caracterizados por uma onda P ausente ou invertida.
+
+Se tanto o nodo SA quanto a junção AV não inicializarem o impulso elétrico, os ventrículos podem disparar os próprios impulsos elétricos a uma frequência de 20 a 40 bpm e terão um complexo QRS maior que 120 ms.
+
+
+=== Marcapassos ===
+
+
+Em caso de arritmia, um marcapasso pode ser inserido cirurgicamente no sistema de condução.
+
+
+== Referências ==
+
+
+
+
+https://en.wikipedia.org/wiki/Electrical_conduction_system_of_the_heart
+
+;;;FR;;;
+
+
+
+SYSTÈME DE CONDUCTION ÉLECTRIQUE DU CŒUR
+
+
+Le système de conduction électrique du cœur transmet des signaux générés généralement par le nœud sino-auriculaire pour provoquer la contraction du muscle cardiaque.
+
+Le signal de stimulation généré dans le nœud sino-auriculaire se déplace à travers l'oreillette droite jusqu'au nœud auriculo-ventriculaire, le long du faisceau de His et à travers les branches du faisceau pour provoquer la contraction du muscle cardiaque.
+
+Ce signal stimule d'abord la contraction des oreillettes droite et gauche, puis des ventricules droit et gauche.
+
+Ce processus permet au sang d'être pompé dans tout le corps.
+Le système de conduction est constitué de cellules spécialisées du muscle cardiaque et est situé dans le myocarde.
+
+Il y a un squelette de tissu fibreux qui entoure le système de conduction qui peut être vu sur un ECG.
+
+Un dysfonctionnement du système de conduction peut provoquer des rythmes cardiaques irréguliers, rapides ou lents.
+
+
+== Structure ==
+
+
+Les signaux électriques provenant du nœud SA (situé dans l'oreillette droite) stimulent la contraction des oreillettes.
+
+Ensuite, les signaux se rendent au nœud auriculo-ventriculaire (nœud AV), qui est situé dans le septum interauriculaire.
+
+Après un certain délai, le signal électrique diverge et est conduit à travers les faisceaux gauche et droit de His vers les fibres de Purkinje respectives pour chaque côté du cœur, ainsi que vers l'endocarde au sommet du cœur, puis enfin vers l'épicarde ventriculaire. ; provoquant sa contraction.
+
+Ces signaux sont générés de manière rythmique, ce qui entraîne à son tour la contraction et la relaxation rythmiques coordonnées du cœur.
+Au niveau microscopique, l'onde de dépolarisation se propage aux cellules adjacentes via des jonctions lacunaires situées sur le disque intercalé.
+
+Le cœur est un syncytium fonctionnel (à ne pas confondre avec un véritable "syncytium" dans lequel toutes les cellules sont fusionnées, partageant la même membrane plasmique que dans le muscle squelettique).
+
+Dans un syncytium fonctionnel, les impulsions électriques se propagent librement entre les cellules dans toutes les directions, de sorte que le myocarde fonctionne comme une seule unité contractile.
+
+Cette propriété permet une dépolarisation rapide et synchrone du myocarde.
+
+Bien qu'avantageuse dans des circonstances normales, cette propriété peut être préjudiciable, car elle a le potentiel de permettre la propagation de signaux électriques incorrects.
+
+Ces jonctions lacunaires peuvent se fermer pour isoler les tissus endommagés ou mourants, comme dans un infarctus du myocarde (crise cardiaque).
+
+
+=== Développement ===
+
+Les preuves embryologiques de la génération du système de conduction cardiaque éclairent les rôles respectifs de cet ensemble spécialisé de cellules.
+
+L'innervation du cœur commence par un cerveau uniquement centré parasympathique cholinergique de premier ordre.
+
+Il est ensuite suivi d'une croissance rapide d'un système adrénergique sympathique de second ordre résultant de la formation des ganglions spinaux thoraciques.
+
+Le troisième ordre d'influence électrique du cœur provient du nerf vague lors de la formation des autres organes périphériques.
+
+
+== Fonction ==
+
+
+
+=== Génération de potentiel d'action ===
+
+
+Le muscle cardiaque présente certaines similitudes avec les neurones et le muscle squelettique, ainsi que des propriétés uniques importantes.
+
+Comme un neurone, une cellule myocardique donnée a un potentiel de membrane négatif au repos.
+
+Une stimulation au-dessus d'une valeur seuil induit l'ouverture de canaux ioniques voltage-dépendants et un flot de cations dans la cellule.
+
+Les ions chargés positivement entrant dans la cellule provoquent la dépolarisation caractéristique d'un potentiel d'action.
+
+Comme le muscle squelettique, la dépolarisation provoque l'ouverture des canaux calciques voltage-dépendants et la libération de Ca2+ par les tubules t.
+
+Cet afflux de calcium provoque la libération de calcium induite par le calcium à partir du réticulum sarcoplasmique, et le Ca2+ libre provoque la contraction musculaire.
+
+Après un certain délai, les canaux potassiques rouvrent et le flux résultant de K + hors de la cellule provoque une repolarisation vers l'état de repos. Il existe d'importantes différences physiologiques entre les cellules nodales et les cellules ventriculaires; les différences spécifiques dans les canaux ioniques et les mécanismes de polarisation donnent lieu à des propriétés uniques des cellules du nœud SA, surtout les dépolarisations spontanées nécessaires à l'activité du stimulateur cardiaque du nœud SA.
+
+
+=== Exigences pour un pompage efficace ===
+
+Afin de maximiser l'efficacité des contractions et du débit cardiaque, le système de conduction du cœur a :
+
+Retard substantiel auriculaire-ventriculaire.
+
+Cela permettra aux oreillettes de vider complètement leur contenu dans les ventricules ; une contraction simultanée entraînerait un remplissage et un reflux inefficaces.
+
+Les oreillettes sont électriquement isolées des ventricules, connectées uniquement via le nœud AV qui retarde brièvement le signal.
+Contraction coordonnée des cellules ventriculaires.
+
+Les ventricules doivent maximiser la pression systolique pour forcer le sang à travers la circulation, de sorte que toutes les cellules ventriculaires doivent travailler ensemble.
+La contraction ventriculaire commence au sommet du cœur, progressant vers le haut pour éjecter le sang dans les grandes artères.
+
+La contraction qui presse le sang vers la sortie est plus efficace qu'une simple pression dans toutes les directions.
+
+Bien que le stimulus ventriculaire provienne du nœud AV dans la paroi séparant les oreillettes et les ventricules, le faisceau de His conduit le signal vers l'apex.
+La dépolarisation se propage très rapidement dans le muscle cardiaque.
+
+Les cellules des ventricules se contractent presque simultanément.
+Les potentiels d'action du muscle cardiaque sont exceptionnellement soutenus.
+
+Cela empêche la relaxation prématurée, en maintenant la contraction initiale jusqu'à ce que tout le myocarde ait eu le temps de se dépolariser et de se contracter.
+Absence de tétanie.
+
+Après s'être contracté, le cœur doit se détendre pour se remplir à nouveau.
+
+Une contraction soutenue du cœur sans relaxation serait fatale, et cela est empêché par une inactivation temporaire de certains canaux ioniques.
+
+
+== ECG ==
+
+
+Un électrocardiogramme est un enregistrement de l'activité électrique du cœur.
+
+
+=== Nœud SA : onde P ===
+
+Dans des conditions normales, l'activité électrique est générée spontanément par le nœud SA, le stimulateur cardiaque.
+
+Cette impulsion électrique se propage dans l'oreillette droite et à travers le faisceau de Bachmann jusqu'à l'oreillette gauche, stimulant la contraction du myocarde des oreillettes.
+
+La conduction des impulsions électriques dans les oreillettes est vue sur l'ECG comme l'onde P. Lorsque l'activité électrique se propage dans les oreillettes, elle se déplace via des voies spécialisées, appelées voies internodales, du nœud SA au nœud AV.
+
+
+=== Nœud AV et bundles : intervalle PR ===
+
+Le nœud AV fonctionne comme un retard critique dans le système de conduction.
+
+Sans ce délai, les oreillettes et les ventricules se contracteraient en même temps et le sang ne circulerait pas efficacement des oreillettes aux ventricules.
+
+Le retard dans le nœud AV forme une grande partie du segment PR sur l'ECG, et une partie de la repolarisation auriculaire peut être représentée par le segment PR.
+La partie distale du nœud AV est connue sous le nom de faisceau de His.
+
+Le faisceau de His se divise en deux branches dans le septum interventriculaire : la branche gauche du faisceau et la branche droite du faisceau.
+
+La branche gauche du faisceau active le ventricule gauche, tandis que la branche droite du faisceau active le ventricule droit.
+La branche gauche du faisceau est courte, se divisant en faisceau antérieur gauche et faisceau postérieur gauche.
+
+Le faisceau postérieur gauche est relativement court et large, avec une double circulation sanguine, ce qui le rend particulièrement résistant aux lésions ischémiques.
+
+Le faisceau postérieur gauche transmet des impulsions aux muscles papillaires, entraînant la fermeture de la valve mitrale.
+
+Comme le faisceau postérieur gauche est plus court et plus large que le droit, les impulsions atteignent les muscles papillaires juste avant la dépolarisation, et donc la contraction, du myocarde du ventricule gauche.
+
+Cela permet une pré-tension des cordes tendineuses, augmentant la résistance à l'écoulement à travers la valve mitrale lors de la contraction ventriculaire gauche.
+
+Ce mécanisme fonctionne de la même manière que la prétension des ceintures de sécurité des voitures.
+
+
+=== Fibres de Purkinje/myocarde ventriculaire : Complexe QRS ===
+
+Les deux branches du faisceau se rétrécissent pour produire de nombreuses fibres de Purkinje, qui stimulent la contraction de groupes individuels de cellules myocardiques. La propagation de l'activité électrique à travers le myocarde ventriculaire produit le complexe QRS sur l'ECG.
+La repolarisation auriculaire se produit et est masquée pendant le complexe QRS par la dépolarisation ventriculaire sur l'ECG.
+
+
+=== Repolarisation ventriculaire ===
+
+Le dernier événement du cycle est la repolarisation des ventricules.
+
+C'est la restauration de l'état de repos.
+
+Dans l'ECG, la repolarisation comprend le point J, le segment ST et les ondes T et U. La partie PQRS mesurée par voie transthoracique d'un électrocardiogramme est principalement influencée par le système nerveux sympathique.
+
+Les ondes T (et occasionnellement U) sont principalement influencées par le système nerveux parasympathique guidé par le contrôle intégré du tronc cérébral à partir du nerf vague et des ganglions accessoires spinaux thoraciques.
+Une impulsion (potentiel d'action) qui provient du nœud SA à un rythme relatif de 60 à 100 bpm est connue sous le nom de rythme sinusal normal.
+
+Si les impulsions nodales SA se produisent à une fréquence inférieure à 60 bpm, le rythme cardiaque est appelé bradycardie sinusale.
+
+Si les impulsions nodales SA se produisent à une fréquence supérieure à 100 bpm, la fréquence cardiaque rapide qui en résulte est une tachycardie sinusale.
+
+Ces conditions ne sont pas nécessairement de mauvais symptômes, cependant.
+
+Les athlètes entraînés, par exemple, affichent généralement des fréquences cardiaques inférieures à 60 bpm lorsqu'ils ne font pas d'exercice.
+
+Si le nœud SA ne parvient pas à s'initialiser, la jonction AV peut prendre le relais en tant que stimulateur cardiaque principal.
+
+La jonction AV se compose du nœud AV, du faisceau de His et de la zone environnante ; il a un rythme régulier de 40 à 60 bpm.
+
+Ces rythmes « jonctionnels » se caractérisent par une onde P manquante ou inversée.
+
+Si le nœud SA et la jonction AV ne parviennent pas à initialiser l'impulsion électrique, les ventricules peuvent déclencher eux-mêmes les impulsions électriques à une fréquence de 20 à 40 bpm et auront un complexe QRS supérieur à 120 ms.
+
+Cela est nécessaire pour que le cœur fonctionne bien.
+
+
+== Signification clinique ==
+
+
+
+=== Arythmie ===
+
+
+Une "arythmie" fait référence à un rythme anormal ou à une vitesse anormale du rythme cardiaque.
+
+Un rythme ou une vitesse anormaux sont définis comme ceux qui ne sont pas physiologiques.
+
+
+==== Vitesse ====
+
+Un cœur au repos qui bat plus lentement que 60 battements par minute, ou plus vite que 100 battements par minute, est considéré comme ayant une arythmie.
+
+Un rythme cardiaque plus lent que 60 battements par minute est appelé bradycardie, et un rythme cardiaque plus rapide que 100 est appelé tachycardie.
+
+
+==== Physiologique ====
+Certaines personnes, par exemple des athlètes entraînés, peuvent avoir des battements cardiaques inférieurs à 60 battements par minute lorsqu'ils ne font pas d'exercice.
+
+Si le nœud SA ne parvient pas à s'initialiser, la jonction AV peut prendre le relais en tant que stimulateur cardiaque principal.
+
+La jonction AV "entoure" le nœud AV (le nœud AV n'est pas capable d'initialiser ses propres impulsions) et a un rythme régulier de 40 à 60 bpm.
+
+Ces rythmes « jonctionnels » se caractérisent par une onde P manquante ou inversée.
+
+Si le nœud SA et la jonction AV ne parviennent pas à initialiser l'impulsion électrique, les ventricules peuvent déclencher eux-mêmes les impulsions électriques à une fréquence de 20 à 40 bpm et auront un complexe QRS supérieur à 120 ms.
+
+
+=== Stimulateurs cardiaques ===
+
+
+En cas d'arythmie, un stimulateur cardiaque peut être inséré chirurgicalement dans le système de conduction.
+
+
+== Références ==
+
+
+
+
+https://en.wikipedia.org/wiki/Electrical_conduction_system_of_the_heart

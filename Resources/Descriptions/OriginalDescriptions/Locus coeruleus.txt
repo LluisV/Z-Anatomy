@@ -1,0 +1,213 @@
+
+
+LOCUS COERULEUS
+
+
+The locus coeruleus () (LC), also spelled locus caeruleus or locus ceruleus, is a nucleus in the pons of the brainstem involved with physiological responses to stress and panic. 
+
+It is a part of the reticular activating system.
+The locus coeruleus, which in Latin means "blue spot", is the principal site for brain synthesis of norepinephrine (noradrenaline). 
+
+The locus coeruleus and the areas of the body affected by the norepinephrine it produces are described collectively as the locus coeruleus-noradrenergic system or LC-NA system. 
+
+Norepinephrine may also be released directly into the blood from the adrenal medulla.
+
+
+== Anatomy ==
+
+
+The locus coeruleus (LC) is located in the posterior area of the rostral pons in the lateral floor of the fourth ventricle. 
+
+It is composed of mostly medium-size neurons. 
+
+Melanin granules inside the neurons of the LC contribute to its blue colour. 
+
+Thus, it is also known as the nucleus pigmentosus pontis, meaning "heavily pigmented nucleus of the pons." The neuromelanin is formed by the polymerization of norepinephrine and is analogous to the black dopamine-based neuromelanin in the substantia nigra.
+In adult humans (19-78) the locus coeruleus has 22,000 to 51,000 total pigmented neurons that range in size between 31,000 and 60,000 μm3.
+
+
+== Connections ==
+
+The projections of this nucleus reach far and wide. 
+
+For example, they innervate the spinal cord, the brain stem, cerebellum, hypothalamus, the thalamic relay nuclei, the amygdala, the basal telencephalon, and the cortex. 
+
+The norepinephrine from the LC has an excitatory effect on most of the brain, mediating arousal and priming the brain's neurons to be activated by stimuli.
+As an important homeostatic control center of the body, the locus coeruleus receives afferents from the hypothalamus. 
+
+The cingulate gyrus and the amygdala also innervate the LC, allowing emotional pain and stressors to trigger noradrenergic responses. 
+
+The cerebellum and afferents from the raphe nuclei also project to the LC, in particular the pontine raphe nucleus and dorsal raphe nucleus.
+
+
+=== Inputs ===
+
+The locus coeruleus receives inputs from a number of other brain regions, primarily:
+
+The Medial prefrontal cortex, whose connection is constant, excitatory, and increases in strength with raised activity levels in the subject
+The Nucleus paragigantocellularis, which integrates autonomic and environmental stimuli
+The Nucleus prepositus, which is involved in gaze
+The Lateral hypothalamus, which releases orexin, which, as well as its other functions, is excitatory in the locus coeruleus.
+
+
+=== Outputs ===
+
+The projections from the locus coeruleus consist of neurons that utilize norepinephrine as their primary neurotransmitter. 
+
+These projections include the following connections:
+LC → Amygdala and Hippocampus
+LC → Brain stem and Spinal cord
+LC → Cerebellum
+LC → Cerebral cortex
+LC → Hypothalamus
+LC → Tectum
+LC → Thalamus
+LC → Ventral tegmental area
+
+
+== Function ==
+
+It is related to many functions via its widespread projections. 
+
+The LC-NA system modulates cortical, subcortical, cerebellar, brainstem, and spinal cord circuits. 
+
+Some of the most important functions influenced by this system are:
+Arousal and sleep-wake cycle
+Attention and memory
+Behavioral and cognitive flexibility, creativity, behavioral inhibition and stress (psychological)
+Cognitive control
+Decision making and utility maximization
+Emotions
+Neuroplasticity
+Posture and balanceThe locus coeruleus is a part of the reticular activating system, and is almost completely inactivated in rapid eye movement sleep.
+
+
+== Pathophysiology ==
+
+The locus coeruleus may figure in clinical depression, panic disorder, Parkinson's disease, Alzheimer's disease and anxiety. 
+
+Some medications including norepinephrine reuptake inhibitors (reboxetine, atomoxetine), serotonin-norepinephrine reuptake inhibitors (venlafaxine, duloxetine), and norepinephrine-dopamine reuptake inhibitors (bupropion) are believed to show efficacy by acting upon neurons in this area.
+Research continues to reveal that norepinephrine (NE) is a critical regulator of numerous activities from stress response, the formation of memory to attention and arousal. 
+
+Many neuropsychiatric disorders precipitate from alterations to NE modulated neurocircuitry: disorders of affect, anxiety disorders, PTSD, ADHD and Alzheimer's disease. 
+
+Alterations in the locus coeruleus (LC) accompany dysregulation of NE function and likely play a key role in the pathophysiology of these neuropsychiatric disorders.
+
+
+=== In stress ===
+
+The locus coeruleus is responsible for mediating many of the sympathetic effects during stress. 
+
+The locus coeruleus is activated by stress, and will respond by increasing norepinephrine secretion, which in turn will alter cognitive function (through the prefrontal cortex), increase motivation (through nucleus accumbens), activate the hypothalamic-pituitary-adrenal axis, and increase the sympathetic discharge/inhibit parasympathetic tone (through the brainstem). 
+
+Specific to the activation of the hypothalamic-pituitary adrenal axis, norepinephrine will stimulate the secretion of corticotropin-releasing factor from the hypothalamus, that induces adrenocorticotropic hormone release from the anterior pituitary and subsequent cortisol synthesis in the adrenal glands. 
+
+Norepinephrine released from locus coeruleus will feedback to inhibit its production, and corticotropin-releasing factor will feedback to inhibit its production, while positively feeding to the locus coeruleus to increase norepinephrine production.The LC's role in cognitive function in relation to stress is complex and multi-modal. 
+
+Norepinephrine released from the LC can act on α2 receptors to increase working memory, or an excess of NE may decrease working memory by binding to the lower-affinity α1 receptors.Psychiatric research has documented that enhanced noradrenergic postsynaptic responsiveness in the neuronal pathway (brain circuit) that originates in the locus coeruleus and ends in the basolateral nucleus of the amygdala is a major factor in the pathophysiology of most stress-induced fear-circuitry disorders and especially in posttraumatic stress disorder (PTSD). 
+
+The LC neurons are probably the origin of the first or second "leg" of the "PTSD circuit." An important 2005 study of deceased American army veterans from World War II has shown combat-related PTSD to be associated with a postmortem-diminished number of neurons in the locus coeruleus (LC) on the right side of the brain.
+
+
+=== In opiate withdrawal ===
+
+Opioids inhibit the firing of neurons in the locus coeruleus. 
+
+When opioid consumption is stopped, the increased activity of the locus coeruleus contributes to the symptoms of opiate withdrawal. 
+
+The α2 adrenergic receptor agonist clonidine is used to counteract this withdrawal effect by decreasing adrenergic neurotransmission from the locus coeruleus.
+
+
+=== Rett syndrome ===
+
+The genetic defect of the transcriptional regulator MECP2 is responsible for Rett syndrome. 
+
+A MECP2 deficiency has been associated to catecholaminergic dysfunctions related to autonomic and sympathoadrenergic system in mouse models of Rett Syndrome (RTT). 
+
+The locus coeruleus is the major source of noradrenergic innervation in the brain and sends widespread connections to rostral (cerebral cortex, hippocampus, hypothalamus) and caudal (cerebellum, brainstem nuclei) brain areas and. 
+
+Indeed, an alteration of this structure could contribute to several symptoms observed in MECP2-deficient mice. 
+
+Changes in the electrophysiological properties of cells in the locus ceruleus were shown. 
+
+These Locus Coeruleus cell changes include hyperexcitability and decreased functioning of its noradrenergic innervation. 
+
+A reduction of the tyrosine hydroxylase (TH) mRNA level, the rate-limiting enzyme in catecholamine synthesis, was detected in the whole pons of MECP2-null male as well as in adult heterozygous female mice. 
+
+Using immunoquantification techniques, a decrease of TH protein staining level, number of locus coeruleus TH-expressing neurons and density of dendritic arborization surrounding the structure was shown in symptomatic MECP2-deficient mice. 
+
+However, locus coeruleus cells are not dying but are more likely losing their fully mature phenotype, since no apoptotic neurons in the pons were detected. 
+
+Researchers have concluded that, "Because these neurons are a pivotal source of norepinephrine throughout the brainstem and forebrain and are involved in the regulation of diverse functions disrupted in Rett Syndrome, such as respiration and cognition, we hypothesize that the locus ceruleus is a critical site at which loss of MECP2 results in CNS dysfunction. 
+
+Restoration of normal locus ceruleus function may therefore be of potential therapeutic value in the treatment of Rett Syndrome." This could explain why a norepinephrine reuptake inhibitor (desipramine, DMI), which enhances the extracellular NE levels at all noradrenergic synapses, ameliorated some Rett syndrome symptoms in a mouse model of Rett syndrome.
+
+
+=== Neurodegenerative diseases ===
+
+The locus ceruleus is affected in many forms of neurodegenerative diseases: genetic and idiopathic Parkinson's disease, progressive supranuclear palsy, Pick's disease or Alzheimer's disease. 
+
+It is also affected in Down syndrome. 
+
+For example, there is up to 80% loss of locus ceruleus neurons in Alzheimer's disease, Mouse models of Alzheimer's disease show accelerated progression after chemical destruction of the locus ceruleus, and neurofibrillary tangles, a primary biomarker of Alzheimer's disease, may be found in the locus ceruleus decades before any clinical symptoms. 
+
+The norepinephrine from locus ceruleus cells in addition to its neurotransmitter role locally diffuses from "varicosities". 
+
+As such it provides an endogenous anti-inflammatory agent in the microenvironment around the neurons, glial cells, and blood vessels in the neocortex and hippocampus. 
+
+It has been shown that norepinephrine stimulates mouse microglia to suppress Aβ-induced production of cytokines and promotes phagocytosis of Aβ. 
+
+This suggests that degeneration of the locus ceruleus might be responsible for increased Aβ deposition in AD brains. 
+
+Degeneration of pigmented neurons in this region in Alzheimer's and Parkinson's disease can be visualized in vivo with Neuromelanin MRI.
+
+
+== History ==
+
+It was discovered in 1784 by Félix Vicq-d'Azyr, redescribed later by Johann Christian Reil in 1809 and named by Joseph Wenzel and Karl Wenzel brothers in 1812. 
+
+High monoamine oxidase activity in the rodent LC was found in 1959, monoamines were found in 1964 and noradrenergic ubiquitous projections in the 1970s.
+
+
+=== Etymology ===
+
+
+
+==== Coeruleus or caeruleus ====
+The 'English' name locus coeruleus is actually a Latin expression consisting of the noun, locus, place or spot and the adjective coeruleus, dark blue or sky-blue. 
+
+This was aptly translated into English as blue place in 1907 in the English translation of the official Latin anatomic nomenclature of 1895, Nomina Anatomica. 
+
+The name of the locus coeruleus is derived from its azure appearance in unstained brain tissue. 
+
+The color is due to light scattering from neuromelanin in noradrenergic (producing or activated by norepinephrine) nerve cell bodies. 
+
+The phenomenon is magnified by the Falck-Hillarp technique, which combines freeze-dried tissue and formaldehyde to fluoresce the catecholamines and serotonin contained in the tissue.The spelling coeruleus is actually considered incorrect with dictionaries of classical Latin preferring caeruleus instead. 
+
+Caeruleus is derived from caelum, hence the spelling with -ae, like caeluleus → caeruleus. 
+
+Caelum in classical Latin could refer to the sky, the heaven or the vault of heaven.In mediaeval Latin, orthographic variants like coelum for classical Latin caelum and cerulans for classical Latin caerulans can be spotted.
+In English, the color adjective cerulean is derived from Latin caeruleus. 
+
+In addition, ceiling is ultimately derived from Latin caelum as well.
+
+
+==== Official Latin nomenclature ====
+The official Latin nomenclature, Nomina Anatomica as ratified in Basel in 1895 and in Jena in 1935 contained the orthographic correct form locus caeruleus. 
+
+The Nomina Anatomica published in 1955 inadvertently introduced the incorrect spelling locus coeruleus, without any further explanation. 
+
+The subsequent edition monophthongized the diphthong, resulting in locus ceruleus, as they proclaimed that: "All diphthongs should be eliminated". 
+
+This form was retained in the subsequent edition. 
+
+The following two editions from 1977
+and 1983 reverted the orthography back to the incorrect spelling locus coeruleus, while the subsequent edition from 1989 eventually returned to the correct spelling locus caeruleus. 
+
+The current edition of the Nomina Anatomica, rebaptized as Terminologia Anatomica, dictates locus caeruleus in its list of Latin expressions and correspondingly mentions locus caeruleus in its list of English equivalents. 
+
+This is in line with the statement made by the chairman of the Terminologia Anatomica that "the committee decided that Latin terms when used in English should be in correct Latin".
+
+
+
+https://en.wikipedia.org/wiki/Locus_coeruleus

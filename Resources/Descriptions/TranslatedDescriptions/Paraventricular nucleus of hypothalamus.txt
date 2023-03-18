@@ -1,0 +1,324 @@
+
+
+PARAVENTRICULAR NUCLEUS OF HYPOTHALAMUS
+
+
+The paraventricular nucleus (PVN, PVA, or PVH) is a nucleus in the hypothalamus. 
+
+Anatomically, it is adjacent to the third ventricle and many of its neurons project to the posterior pituitary. 
+
+These projecting neurons secrete oxytocin and a smaller amount of vasopressin, otherwise the nucleus also secretes corticotropin-releasing hormone (CRH) and thyrotropin-releasing hormone (TRH). 
+
+CRH and TRH are secreted into the hypophyseal portal system and act on different targets neurons in the anterior pituitary. 
+
+PVN is thought to mediate many diverse functions through these different hormones, including osmoregulation, appetite, and the response of the body to stress.
+
+
+== Location ==
+
+The paraventricular nucleus lies adjacent to the third ventricle. 
+
+It lies within the periventricular zone and is not to be confused with the periventricular nucleus, which occupies a more medial position, beneath the third ventricle. 
+
+The PVN is highly vascularised and is protected by the blood–brain barrier, although its neuroendocrine cells extend to sites (in the median eminence and in the posterior pituitary) beyond the blood–brain barrier.
+
+
+== Neurons ==
+
+The PVN contains magnocellular neurosecretory cells whose axons extend into the posterior pituitary, parvocellular neurosecretory cells that project to the median eminence, ultimately signalling to the anterior pituitary, and several populations of other cells that project to many different brain regions including parvocellular preautonomic cells that project to the brainstem and spinal cord.
+
+
+=== Magnocellular neurosecretory neurons ===
+
+
+The magnocellular cells in the PVN elaborate and secrete two peptide hormones: oxytocin and vasopressin.
+These hormones are packaged into large vesicles, which are then transported down the unmyelinated axons of the cells and released from neurosecretory nerve terminals residing in the posterior pituitary gland.
+Similar magnocellular neurons are found in the supraoptic nucleus which also secrete vasopressin and a smaller amount of oxytocin.
+
+
+=== Parvocellular neurosecretory neurons ===
+
+The axons of the parvocellular neurosecretory neurons of the PVN project to the median eminence, a neurohemal organ at the base of the brain, where their neurosecretory nerve terminals release their hormones at the primary capillary plexus of the hypophyseal portal system. 
+
+The median eminence contains fiber terminals from many hypothalamic neuroendocrine neurons, secreting different neurotransmitters or neuropeptides, including vasopressin, corticotropin-releasing hormone (CRH), thyrotropin-releasing hormone (TRH), gonadotropin-releasing hormone (GnRH), growth hormone-releasing hormone (GHRH), dopamine (DA) and somatostatin (growth hormone release inhibiting hormone, GIH) into blood vessels in the hypophyseal portal system. 
+
+The blood vessels carry the peptides to the anterior pituitary gland, where they regulate the secretion of hormones into the systemic circulation. 
+
+The parvocellular neurosecretory cells include those that make:
+
+Corticotropin-releasing hormone (CRH), which regulates ACTH secretion from the anterior pituitary gland
+Vasopressin, which also regulates ACTH secretion (vasopressin and CRH act synergistically to stimulate ACTH secretion)
+Thyrotropin-releasing hormone (TRH), which regulates TSH and prolactin secretion
+
+
+=== Centrally-projecting neurons ===
+
+As well as neuroendocrine neurons, the PVN contains interneurons and populations of neurons that project centrally (i.e., to other brain regions). 
+
+The centrally-projecting neurons include
+
+Parvocellular oxytocin cells, which project mainly to the brainstem and spinal cord. 
+
+These neurons are thought to have a role in gastric reflexes and penile erection,
+Parvocellular vasopressin cells, which project to many points in the hypothalamus and limbic system, as well as to the brainstem and spinal cord (these are involved in blood pressure and temperature regulation), and brown fat thermogenesis.
+Parvocellular CRH neurons, which are thought to be involved in stress-related behaviors.
+
+
+== Afferent inputs ==
+
+The PVN receives afferent inputs from many brain regions and different parts of the body, by hormonal control.Among these, inputs from neurons in structures adjacent to the anterior wall of the third ventricle (the "AV3V region") carry information about the electrolyte composition of the blood, and about circulating concentrations of such hormones as angiotensin and relaxin, to regulate the magnocellular neurons.Inputs from the brainstem (the nucleus of the solitary tract) and the ventrolateral medulla carry information from the heart and stomach. 
+
+Inputs from the hippocampus to the CRH neurones are important regulators of stress responses.
+Inputs from neuropeptide Y-containing neurons in the arcuate nucleus coordinate metabolic regulation (via TRH secretion) with regulation of energy intake. 
+
+Specifically, the projections from the arcuate nucleus seem to exert their effect on appetite via MC4R-expressing oxytocinergic cells of the PVN.Inputs from suprachiasmatic nucleus about levels of lighting (circadian rhythms).
+Inputs from glucose sensors within the brain stimulate release of vasopressin and corticotropin-releasing hormone from parvocellular neurosecretory cells.
+
+
+
+https://en.wikipedia.org/wiki/Paraventricular_nucleus_of_hypothalamus
+;;;ES;;;
+
+
+
+NÚCLEO PARAVENTRICULAR DEL HIPOTÁLAMO
+
+
+El núcleo paraventricular (PVN, PVA o PVH) es un núcleo en el hipotálamo.
+
+Anatómicamente, se encuentra junto al tercer ventrículo y muchas de sus neuronas se proyectan hacia la hipófisis posterior.
+
+Estas neuronas que se proyectan secretan oxitocina y una cantidad menor de vasopresina; de lo contrario, el núcleo también secreta hormona liberadora de corticotropina (CRH) y hormona liberadora de tirotropina (TRH).
+
+La CRH y la TRH se secretan en el sistema portal hipofisario y actúan sobre diferentes neuronas diana en la hipófisis anterior.
+
+Se cree que PVN media muchas funciones diversas a través de estas diferentes hormonas, incluida la osmorregulación, el apetito y la respuesta del cuerpo al estrés.
+
+
+== Ubicación ==
+
+El núcleo paraventricular se encuentra adyacente al tercer ventrículo.
+
+Se encuentra dentro de la zona periventricular y no debe confundirse con el núcleo periventricular, que ocupa una posición más medial, debajo del tercer ventrículo.
+
+El PVN está muy vascularizado y está protegido por la barrera hematoencefálica, aunque sus células neuroendocrinas se extienden a sitios (en la eminencia media y en la hipófisis posterior) más allá de la barrera hematoencefálica.
+
+
+== Neuronas ==
+
+El PVN contiene células neurosecretoras magnocelulares cuyos axones se extienden hacia la hipófisis posterior, células neurosecretoras parvocelulares que se proyectan hacia la eminencia media, que en última instancia envían señales a la hipófisis anterior, y varias poblaciones de otras células que se proyectan hacia muchas regiones cerebrales diferentes, incluidas las células preautonómicas parvocelulares que proyectan al tronco encefálico y la médula espinal.
+
+
+=== Neuronas neurosecretoras magnocelulares ===
+
+
+Las células magnocelulares del PVN elaboran y secretan dos hormonas peptídicas: oxitocina y vasopresina.
+Estas hormonas se empaquetan en grandes vesículas, que luego se transportan por los axones no mielinizados de las células y se liberan de las terminales nerviosas neurosecretoras que residen en la glándula pituitaria posterior.
+Se encuentran neuronas magnocelulares similares en el núcleo supraóptico que también secretan vasopresina y una cantidad menor de oxitocina.
+
+
+=== Neuronas neurosecretoras parvocelulares ===
+
+Los axones de las neuronas neurosecretoras parvocelulares del PVN se proyectan hacia la eminencia media, un órgano neurohemal en la base del cerebro, donde sus terminales nerviosas neurosecretoras liberan sus hormonas en el plexo capilar primario del sistema portal hipofisario.
+
+La eminencia mediana contiene terminales de fibra de muchas neuronas neuroendocrinas hipotalámicas, que secretan diferentes neurotransmisores o neuropéptidos, que incluyen vasopresina, hormona liberadora de corticotropina (CRH), hormona liberadora de tirotropina (TRH), hormona liberadora de gonadotropina (GnRH), hormona liberadora de hormona del crecimiento (GHRH), dopamina (DA) y somatostatina (hormona inhibidora de la liberación de la hormona del crecimiento, GIH) en los vasos sanguíneos del sistema portal hipofisario.
+
+Los vasos sanguíneos llevan los péptidos a la glándula pituitaria anterior, donde regulan la secreción de hormonas en la circulación sistémica.
+
+Las células neurosecretoras parvocelulares incluyen aquellas que producen:
+
+Hormona liberadora de corticotropina (CRH), que regula la secreción de ACTH de la glándula pituitaria anterior
+Vasopresina, que también regula la secreción de ACTH (la vasopresina y la CRH actúan sinérgicamente para estimular la secreción de ACTH)
+Hormona liberadora de tirotropina (TRH), que regula la secreción de TSH y prolactina
+
+
+=== Neuronas de proyección central ===
+
+Además de las neuronas neuroendocrinas, el PVN contiene interneuronas y poblaciones de neuronas que se proyectan centralmente (es decir, a otras regiones del cerebro).
+
+Las neuronas de proyección central incluyen
+
+Células parvocelulares de oxitocina, que se proyectan principalmente al tronco encefálico y la médula espinal.
+
+Se cree que estas neuronas tienen un papel en los reflejos gástricos y la erección del pene,
+Células parvocelulares de vasopresina, que se proyectan a muchos puntos del hipotálamo y el sistema límbico, así como al tronco encefálico y la médula espinal (estos están involucrados en la regulación de la presión arterial y la temperatura), y la termogénesis de la grasa parda.
+Neuronas parvocelulares CRH, que se cree que están involucradas en comportamientos relacionados con el estrés.
+
+
+== Entradas aferentes ==
+
+El PVN recibe entradas aferentes de muchas regiones del cerebro y diferentes partes del cuerpo, por control hormonal. Entre estas, entradas de neuronas en estructuras adyacentes a la pared anterior del tercer ventrículo (la "región AV3V") llevan información sobre la composición de electrolitos. de la sangre, y sobre las concentraciones circulantes de hormonas como la angiotensina y la relaxina, para regular las neuronas magnocelulares. Las entradas del tronco encefálico (el núcleo del tracto solitario) y la médula ventrolateral llevan información del corazón y el estómago.
+
+Las entradas del hipocampo a las neuronas CRH son reguladores importantes de las respuestas al estrés.
+Las entradas de las neuronas que contienen neuropéptido Y en el núcleo arqueado coordinan la regulación metabólica (a través de la secreción de TRH) con la regulación de la ingesta de energía.
+
+Específicamente, las proyecciones del núcleo arqueado parecen ejercer su efecto sobre el apetito a través de las células oxitocinérgicas del PVN que expresan MC4R. Entradas del núcleo supraquiasmático sobre los niveles de iluminación (ritmos circadianos).
+Las entradas de los sensores de glucosa dentro del cerebro estimulan la liberación de vasopresina y hormona liberadora de corticotropina de las células neurosecretoras parvocelulares.
+
+
+
+https://en.wikipedia.org/wiki/Paraventricular_nucleus_of_hypothalamus
+
+;;;PT;;;
+
+
+
+NÚCLEO PARAVENTRICULAR DO HIPOTÁLAMO
+
+
+O núcleo paraventricular (PVN, PVA ou PVH) é um núcleo no hipotálamo.
+
+Anatomicamente, é adjacente ao terceiro ventrículo e muitos de seus neurônios se projetam para a hipófise posterior.
+
+Esses neurônios de projeção secretam oxitocina e uma quantidade menor de vasopressina, caso contrário, o núcleo também secreta hormônio liberador de corticotropina (CRH) e hormônio liberador de tireotropina (TRH).
+
+O CRH e o TRH são secretados no sistema portal hipofisário e atuam em diferentes neurônios alvos na hipófise anterior.
+
+Acredita-se que o PVN media muitas funções diversas por meio desses diferentes hormônios, incluindo a osmorregulação, o apetite e a resposta do corpo ao estresse.
+
+
+== Localização ==
+
+O núcleo paraventricular situa-se adjacente ao terceiro ventrículo.
+
+Encontra-se dentro da zona periventricular e não deve ser confundido com o núcleo periventricular, que ocupa uma posição mais medial, abaixo do terceiro ventrículo.
+
+O PVN é altamente vascularizado e protegido pela barreira hematoencefálica, embora suas células neuroendócrinas se estendam para locais (na eminência mediana e na hipófise posterior) além da barreira hematoencefálica.
+
+
+== Neurônios ==
+
+O PVN contém células neurossecretoras magnocelulares cujos axônios se estendem para a hipófise posterior, células neurossecretoras parvocelulares que se projetam para a eminência mediana, em última análise, sinalizando para a hipófise anterior e várias populações de outras células que se projetam para muitas regiões cerebrais diferentes, incluindo células pré-autonômicas parvocelulares que se projetam ao tronco cerebral e medula espinhal.
+
+
+=== Neurônios neurossecretores magnocelulares ===
+
+
+As células magnocelulares do PVN elaboram e secretam dois hormônios peptídicos: ocitocina e vasopressina.
+Esses hormônios são empacotados em grandes vesículas, que são então transportadas pelos axônios não mielinizados das células e liberadas dos terminais nervosos neurossecretores que residem na glândula pituitária posterior.
+Neurônios magnocelulares semelhantes são encontrados no núcleo supraóptico que também secreta vasopressina e uma quantidade menor de ocitocina.
+
+
+=== Neurônios neurossecretores parvocelulares ===
+
+Os axônios dos neurônios neurossecretores parvocelulares do PVN projetam-se para a eminência mediana, um órgão neurohemal na base do cérebro, onde seus terminais nervosos neurossecretores liberam seus hormônios no plexo capilar primário do sistema porta hipofisário.
+
+A eminência mediana contém terminais de fibra de muitos neurônios neuroendócrinos hipotalâmicos, secretando diferentes neurotransmissores ou neuropeptídeos, incluindo vasopressina, hormônio liberador de corticotropina (CRH), hormônio liberador de tireotropina (TRH), hormônio liberador de gonadotrofina (GnRH), hormônio liberador de hormônio do crescimento (GHRH), dopamina (DA) e somatostatina (hormônio inibidor da liberação do hormônio do crescimento, GIH) nos vasos sanguíneos no sistema portal hipofisário.
+
+Os vasos sanguíneos transportam os peptídeos para a hipófise anterior, onde regulam a secreção de hormônios na circulação sistêmica.
+
+As células neurossecretoras parvocelulares incluem aquelas que fazem:
+
+Hormônio liberador de corticotropina (CRH), que regula a secreção de ACTH da glândula pituitária anterior
+Vasopressina, que também regula a secreção de ACTH (vasopressina e CRH atuam sinergicamente para estimular a secreção de ACTH)
+Hormônio liberador de tireotropina (TRH), que regula a secreção de TSH e prolactina
+
+
+=== Neurônios de projeção central ===
+
+Assim como os neurônios neuroendócrinos, o PVN contém interneurônios e populações de neurônios que se projetam centralmente (ou seja, para outras regiões do cérebro).
+
+Os neurônios de projeção central incluem
+
+Células parvocelulares de ocitocina, que se projetam principalmente para o tronco encefálico e medula espinhal.
+
+Acredita-se que esses neurônios tenham um papel nos reflexos gástricos e na ereção peniana,
+Células de vasopressina parvocelulares, que se projetam para muitos pontos no hipotálamo e no sistema límbico, bem como no tronco cerebral e na medula espinhal (estes estão envolvidos na regulação da pressão arterial e da temperatura) e na termogênese da gordura marrom.
+Neurônios CRH parvocelulares, que se acredita estarem envolvidos em comportamentos relacionados ao estresse.
+
+
+== Entradas aferentes ==
+
+O PVN recebe aferências de várias regiões cerebrais e diferentes partes do corpo, por controle hormonal. do sangue e sobre as concentrações circulantes de hormônios como angiotensina e relaxina, para regular os neurônios magnocelulares. As entradas do tronco cerebral (o núcleo do trato solitário) e da medula ventrolateral carregam informações do coração e do estômago.
+
+As entradas do hipocampo para os neurônios CRH são importantes reguladores das respostas ao estresse.
+As entradas dos neurônios contendo o neuropeptídeo Y no núcleo arqueado coordenam a regulação metabólica (via secreção de TRH) com a regulação da ingestão de energia.
+
+Especificamente, as projeções do núcleo arqueado parecem exercer seu efeito sobre o apetite através das células ocitocinérgicas do PVN que expressam MC4R. Informações do núcleo supraquiasmático sobre os níveis de iluminação (ritmos circadianos).
+As entradas dos sensores de glicose dentro do cérebro estimulam a liberação de vasopressina e hormônio liberador de corticotropina das células neurossecretoras parvocelulares.
+
+
+
+https://en.wikipedia.org/wiki/Paraventricular_nucleus_of_hypothalamus
+
+;;;FR;;;
+
+
+
+NOYAU PARAVENTRICULAIRE DE L'HYPOTHALAMUS
+
+
+Le noyau paraventriculaire (PVN, PVA ou PVH) est un noyau de l'hypothalamus.
+
+Anatomiquement, il est adjacent au troisième ventricule et nombre de ses neurones se projettent vers l'hypophyse postérieure.
+
+Ces neurones en saillie sécrètent de l'ocytocine et une plus petite quantité de vasopressine, sinon le noyau sécrète également l'hormone de libération de la corticotropine (CRH) et l'hormone de libération de la thyrotropine (TRH).
+
+La CRH et la TRH sont sécrétées dans le système porte hypophysaire et agissent sur différents neurones cibles de l'hypophyse antérieure.
+
+On pense que le PVN assure la médiation de nombreuses fonctions diverses par le biais de ces différentes hormones, y compris l'osmorégulation, l'appétit et la réponse du corps au stress.
+
+
+== Emplacement ==
+
+Le noyau paraventriculaire est adjacent au troisième ventricule.
+
+Il se situe dans la zone périventriculaire et ne doit pas être confondu avec le noyau périventriculaire, qui occupe une position plus médiale, sous le troisième ventricule.
+
+Le PVN est hautement vascularisé et protégé par la barrière hémato-encéphalique, bien que ses cellules neuroendocrines s'étendent à des sites (dans l'éminence médiane et dans l'hypophyse postérieure) au-delà de la barrière hémato-encéphalique.
+
+
+== Neurones ==
+
+Le PVN contient des cellules neurosécrétoires magnocellulaires dont les axones s'étendent dans l'hypophyse postérieure, des cellules neurosécrétoires parvocellulaires qui se projettent vers l'éminence médiane, signalant finalement à l'hypophyse antérieure, et plusieurs populations d'autres cellules qui se projettent vers de nombreuses régions cérébrales différentes, y compris des cellules préautonomiques parvocellulaires qui projettent au tronc cérébral et à la moelle épinière.
+
+
+=== Neurones neurosécréteurs magnocellulaires ===
+
+
+Les cellules magnocellulaires du PVN élaborent et sécrètent deux hormones peptidiques : l'ocytocine et la vasopressine.
+Ces hormones sont conditionnées dans de grandes vésicules, qui sont ensuite transportées vers les axones non myélinisés des cellules et libérées des terminaisons nerveuses neurosécrétoires résidant dans l'hypophyse postérieure.
+Des neurones magnocellulaires similaires se trouvent dans le noyau supraoptique qui sécrètent également de la vasopressine et une plus petite quantité d'ocytocine.
+
+
+=== Neurones neurosécréteurs parvocellulaires ===
+
+Les axones des neurones neurosécrétoires parvocellulaires du PVN se projettent sur l'éminence médiane, un organe neurohémal à la base du cerveau, où leurs terminaisons nerveuses neurosécrétoires libèrent leurs hormones au niveau du plexus capillaire primaire du système porte hypophysaire.
+
+L'éminence médiane contient des fibres terminales de nombreux neurones neuroendocriniens hypothalamiques, sécrétant différents neurotransmetteurs ou neuropeptides, notamment la vasopressine, l'hormone de libération de la corticotropine (CRH), l'hormone de libération de la thyrotropine (TRH), l'hormone de libération des gonadotrophines (GnRH), l'hormone de libération de l'hormone de croissance. (GHRH), la dopamine (DA) et la somatostatine (hormone inhibant la libération de l'hormone de croissance, GIH) dans les vaisseaux sanguins du système porte hypophysaire.
+
+Les vaisseaux sanguins transportent les peptides vers l'hypophyse antérieure, où ils régulent la sécrétion d'hormones dans la circulation systémique.
+
+Les cellules neurosécrétoires parvocellulaires comprennent celles qui fabriquent :
+
+L'hormone de libération de la corticotropine (CRH), qui régule la sécrétion d'ACTH par l'hypophyse antérieure
+La vasopressine, qui régule également la sécrétion d'ACTH (la vasopressine et la CRH agissent en synergie pour stimuler la sécrétion d'ACTH)
+Hormone de libération de la thyrotropine (TRH), qui régule la sécrétion de TSH et de prolactine
+
+
+=== Neurones à projection centrale ===
+
+En plus des neurones neuroendocriniens, le PVN contient des interneurones et des populations de neurones qui se projettent de manière centrale (c'est-à-dire vers d'autres régions du cerveau).
+
+Les neurones à projection centrale comprennent
+
+Cellules parvocellulaires d'ocytocine, qui se projettent principalement vers le tronc cérébral et la moelle épinière.
+
+On pense que ces neurones ont un rôle dans les réflexes gastriques et l'érection du pénis,
+Cellules parvocellulaires de vasopressine, qui se projettent en de nombreux points de l'hypothalamus et du système limbique, ainsi que sur le tronc cérébral et la moelle épinière (elles sont impliquées dans la régulation de la pression artérielle et de la température), et la thermogenèse de la graisse brune.
+Les neurones CRH parvocellulaires, qui seraient impliqués dans les comportements liés au stress.
+
+
+== Entrées afférentes ==
+
+Le PVN reçoit des entrées afférentes de nombreuses régions du cerveau et de différentes parties du corps, par contrôle hormonal. du sang, et sur les concentrations circulantes d'hormones telles que l'angiotensine et la relaxine, pour réguler les neurones magnocellulaires.
+
+Les entrées de l'hippocampe vers les neurones CRH sont des régulateurs importants des réponses au stress.
+Les entrées des neurones contenant le neuropeptide Y dans le noyau arqué coordonnent la régulation métabolique (via la sécrétion de TRH) avec la régulation de l'apport énergétique.
+
+Plus précisément, les projections du noyau arqué semblent exercer leur effet sur l'appétit via les cellules ocytocinergiques exprimant MC4R du PVN.Inputs du noyau suprachiasmatique sur les niveaux d'éclairage (rythmes circadiens).
+Les entrées des capteurs de glucose dans le cerveau stimulent la libération de vasopressine et d'hormone de libération de la corticotropine par les cellules neurosécrétoires parvocellulaires.
+
+
+
+https://en.wikipedia.org/wiki/Noyau_paraventriculaire_de_l'hypothalamus

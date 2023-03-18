@@ -1,0 +1,184 @@
+! Confusion between the latest definitions (TA2-2019) of brain, cerebrum and telencephalon !
+
+
+CEREBRUM
+
+
+The cerebrum, telencephalon or endbrain, is the largest part of the brain containing the cerebral cortex (of the two cerebral hemispheres), as well as several subcortical structures, including the hippocampus, basal ganglia, and olfactory bulb. 
+
+In the human brain, the cerebrum is the uppermost region of the central nervous system. 
+
+The cerebrum develops prenatally from the forebrain (prosencephalon). 
+
+In mammals, the dorsal telencephalon, or pallium, develops into the cerebral cortex, and the ventral telencephalon, or subpallium, becomes the basal ganglia. 
+
+The cerebrum is also divided into approximately symmetric left and right cerebral hemispheres.
+
+With the assistance of the cerebellum, the cerebrum controls all voluntary actions in the human body.
+
+
+== Structure ==
+
+
+The cerebrum is the largest part of the brain. 
+
+Depending upon the position of the animal it lies either in front or on top of the brainstem. 
+
+In humans, the cerebrum is the largest and best-developed of the five major divisions of the brain.
+
+The cerebrum is made up of the two cerebral hemispheres and their cerebral cortex cortices (the outer layers of grey matter), and the underlying regions of white matter. 
+
+Its subcortical structures include the hippocampus, basal ganglia and olfactory bulb. 
+
+The cerebrum consists of two C-shaped cerebral hemispheres, separated from each other by a deep fissure called the longitudinal fissure.
+
+
+=== Cerebral cortex ===
+
+
+The cerebral cortex, the outer layer of grey matter of the cerebrum, is found only in mammals. 
+
+In larger mammals, including humans, the surface of the cerebral cortex folds to create gyrus gyri (ridges) and sulci (furrows) which increase the surface area.
+
+The cerebral cortex is generally classified into four lobes: the frontal, parietal, occipital and temporal lobes. 
+
+The lobes are classified based on their overlying neurocranial bones.
+
+
+=== Cerebral hemispheres ===
+
+The cerebrum is divided by the medial longitudinal fissure into two cerebral hemispheres, the right and the left. 
+
+The cerebrum is contralaterally organized, i.e., the right hemisphere controls and processes signals from the left side of the body, while the left hemisphere controls and processes signals from the right side of the body. 
+
+There is a strong but not complete bilateral symmetry between the hemispheres. 
+
+The lateralization of brain function looks at the known and possible differences between the two.
+
+
+== Development ==
+
+In the developing vertebrate embryo, the neural tube is subdivided into four unseparated sections which then develop further into distinct regions of the central nervous system; these are the prosencephalon (forebrain), the mesencephalon (midbrain) the rhombencephalon (hindbrain) and the spinal cord. 
+
+The prosencephalon develops further into the telencephalon and the diencephalon. 
+
+The dorsal telencephalon gives rise to the pallium (cerebral cortex in mammals and reptiles) and the ventral telencephalon generates the basal ganglia. 
+
+The diencephalon develops into the thalamus and hypothalamus, including the optic vesicles (future retina). 
+
+The dorsal telencephalon then forms two lateral telencephalic vesicles, separated by the midline, which develop into the left and right cerebral hemispheres. 
+
+Birds and fish have a dorsal telencephalon, like all vertebrates, but it is generally unlayered and therefore not considered a cerebral cortex. 
+
+Only a layered cytoarchitecture can be considered a cortex.
+
+
+== Functions ==
+
+Note: As the cerebrum is a gross division with many subdivisions and sub-regions, it is important to state that this section lists the functions that the cerebrum as a whole serves. 
+
+See main articles on cerebral cortex and basal ganglia for more information. 
+
+The cerebrum is a major part of the brain, controlling emotions, hearing, vision, personality and much more. 
+
+It controls all precision of voluntary actions.
+
+Upper motor neurons in the primary motor cortex send their axons to the brainstem and spinal cord to synapse on the lower motor neurons, which innervate the muscles. 
+
+Damage to motor areas by chance of cortex can lead to certain types of motor neuron disease. 
+
+This kind of damage results in loss of muscular power and precision rather than total paralysis.
+
+It functions as the center of sensory perception, memory, thoughts and judgement; the cerebrum also functions as the center of voluntary motor activities.
+
+
+=== Sensory processing ===
+
+The primary sensory areas of the cerebral cortex receive and process visual, auditory, somatosensory, gustatory, and olfactory information. 
+
+Together with association cortical areas, these brain regions synthesize sensory information into our perceptions of the world.
+
+
+=== Olfaction ===
+
+
+The olfactory bulb, responsible for the sense of smell, takes up a large area of the cerebrum in most vertebrates. 
+
+However, in humans, this part of the brain is much smaller and lies underneath the frontal lobe. 
+
+The olfactory sensory system is unique since the neurons in the olfactory bulb send their axons directly to the olfactory cortex, rather than to the thalamus first. 
+
+Damage to the olfactory bulb results in a loss of olfaction (the sense of smell).
+
+
+=== Language and communication ===
+
+
+Speech and language are mainly attributed to the parts of the cerebral cortex. 
+
+Motor portions of language are attributed to Broca's area within the frontal lobe. 
+
+Speech comprehension is attributed to Wernicke's area, at the temporal-parietal lobe junction. 
+
+These two regions are interconnected by a large white matter tract, the arcuate fasciculus. 
+
+Damage to the Broca's area results in expressive aphasia (non-fluent aphasia) while damage to Wernicke's area results in receptive aphasia (also called fluent aphasia).
+
+
+=== Learning and memory ===
+
+
+Explicit or declarative (factual) memory formation is attributed to the hippocampus and associated regions of the medial temporal lobe. 
+
+This association was originally described after a patient known as HM had both his left and right hippocampus surgically removed to treat chronic temporal lobe epilepsy. 
+
+After surgery, HM had anterograde amnesia, or the inability to form new memories.
+
+Implicit or procedural memory, such as complex motor behaviors, involves the basal ganglia.
+
+Short-term or working memory involves association areas of the cortex, especially the dorsolateral prefrontal cortex, as well as the hippocampus.
+
+
+== Other animals ==
+
+In the most primitive vertebrates, the hagfishes and lampreys, the cerebrum is a relatively simple structure receiving nerve impulses from the olfactory bulb. 
+
+In cartilaginous and lobe-finned fishes and also in amphibians, a more complex structure is present, with the cerebrum being divided into three distinct regions. 
+
+The lowermost (or ventral) region forms the basal nuclei, and contains fibres connecting the rest of the cerebrum to the thalamus. 
+
+Above this, and forming the lateral part of the cerebrum, is the paleopallium, while the uppermost (or dorsal) part is referred to as the archipallium. 
+
+The cerebrum remains largely devoted to olfactory sensation in these animals, in contrast to its much wider range of functions in amniotes.
+
+In ray-finned fishes the structure is somewhat different. 
+
+The inner surfaces of the lateral and ventral regions of the cerebrum bulge up into the ventricles; these include both the basal nuclei and the various parts of the pallium and may be complex in structure, especially in teleosts. 
+
+The dorsal surface of the cerebrum is membranous, and does not contain any nervous tissue.
+
+In the amniotes, the cerebrum becomes increasingly large and complex. 
+
+In reptiles, the paleopallium is much larger than in amphibians and its growth has pushed the basal nuclei into the central regions of the cerebrum. 
+
+As in the lower vertebrates, the grey matter is generally located beneath the white matter, but in some reptiles, it spreads out to the surface to form a primitive cortex, especially in the anterior part of the brain.
+
+In mammals, this development proceeds further, so that the cortex covers almost the whole of the cerebral hemispheres, especially in more developed species, such as the primates. 
+
+The paleopallium is pushed to the ventral surface of the brain, where it becomes the olfactory lobes, while the archipallium becomes rolled over at the medial dorsal edge to form the hippocampus. 
+
+In placental mammals, a corpus callosum also develops, further connecting the two hemispheres. 
+
+The complex convolutions of the cerebral surface (see gyrus, gyrification) are also found only in higher mammals. 
+
+Although some large mammals (such as elephants) have particularly large cerebra, dolphins are the only species (other than humans) to have cerebra accounting for as much as 2 percent of their body weight.
+
+The cerebra of birds are similarly enlarged to those of mammals, by comparison with reptiles. 
+
+The increased size of bird brains was classically attributed to enlarged basal ganglia, with the other areas remaining primitive, but this view has been largely abandoned. 
+
+Birds appear to have undergone an alternate process of encephalization, as they diverged from the other archosaurs, with few clear parallels to that experienced by mammals and their therapsid ancestors.
+
+
+
+https://en.wikipedia.org/wiki/Cerebrum

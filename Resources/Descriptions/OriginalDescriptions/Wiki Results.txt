@@ -1,0 +1,59 @@
+===== Wiki download report =====
+ ## Partial matches (check manualy) ##
+Sciatic bursa of obturator internus
+Subcutaneous prepatellar bursa
+Deep infrapatellar bursa
+Anserine bursa
+
+
+
+
+ ## Not matched ##
+Subtendinous bursa of trapezius muscle
+Subcutaneous acromial bursa
+Subdeltoid bursa
+Coracobrachial bursa
+Subtendinous bursa of infraspinatus muscle
+Subtendinous bursa of teres major muscle
+Subtendinous bursa of triceps brachii muscle
+Subcutaneous trochanteric bursa
+Trochanteric bursa of gluteus maximus muscle
+Trochanteric bursa of gluteus medius muscle
+Trochanteric bursa of gluteus minimus muscle
+Bursa of piriformis muscle
+Subtendinous bursa of obturator internus
+Sciatic bursa of gluteus maximus muscle
+Intermuscular gluteal bursae
+Subtendinous bursa of iliacus muscle
+Superior bursa of biceps femoris muscle
+Subtendinous prepatellar bursa
+Subfacial prepatellar bursa
+Subcutaneous infrapatellar bursa
+Suprapatellar bursa
+Subcutaneous bursa of tuberosity of tibia
+Subtendinous bursa of sartorius muscle
+Inferior subtendinous bursa of biceps femoris muscle
+Medial subtendinous bursa of gastrocnemius muscle
+Lateral subtendinous bursa of gastrocnemius muscle
+Semimembranosus bursa
+Subcutaneous bursa of lateral malleolus
+Subcutaneous bursa of medial malleolus
+Subtendinous bursa of tibialis anterior
+Subcutaneous calcaneal bursa
+Subtendinous calcaneal bursa
+
+
+
+
+ ## Fully matched ##
+Subacromial bursa
+Bicipitoradial bursa
+Sciatic bursa of obturator internus
+Iliopectineal bursa
+Subcutaneous prepatellar bursa
+Deep infrapatellar bursa
+Anserine bursa
+
+
+
+

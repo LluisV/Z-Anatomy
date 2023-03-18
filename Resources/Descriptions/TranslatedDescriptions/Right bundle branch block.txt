@@ -1,0 +1,340 @@
+
+
+RIGHT BUNDLE BRANCH BLOCK
+
+
+A right bundle branch block (RBBB) is a heart block in the right bundle branch of the electrical conduction system.During a right bundle branch block, the right ventricle is not directly activated by impulses travelling through the right bundle branch. 
+
+The left ventricle, however, is still normally activated by the left bundle branch. 
+
+These impulses are then able to travel through the myocardium of the left ventricle to the right ventricle and depolarize the right ventricle this way. 
+
+As conduction through the myocardium is slower than conduction through the Bundle of His-Purkinje fibres, the QRS complex is seen to be widened. 
+
+The QRS complex often shows an extra deflection that reflects the rapid depolarisation of the left ventricle followed by the slower depolarisation of the right ventricle.
+
+
+== Incomplete right bundle branch block ==
+
+Incomplete right bundle branch block (IRBBB) is an conduction abnormality in the right bundle branch block. 
+
+While a complete RBBB has a QRS duration of 120 ms or more, an incomplete block has a wave duration between 110 and 120 ms. 
+
+It has a relatively high prevalence, a study conducted on young Swiss military conscripts with a mean age of 19 years found a prevalence of 13.5%. 
+
+It affects patients of all ages, more commonly males and athletes, however is not always a benign finding. 
+
+Therefore, if abnormalities are detected on the physical exam, further testing should be done to exclude heart disease.There is no consensus in the literature regarding criteria for diagnosis. 
+
+However, according to the American Heart Association/American College of Cardiology Foundation/Heart Rhythm Foundation (AHA/ACCF/HRS) it is defined by the following finding in adults:
+
+QRS wave duration between 110 and 120 ms.
+rsr, rsR, or rSR in leads V1 or V2.
+S wave of longer duration than R wave or greater than 40 ms in leads I and V6.
+Normal R wave peak time in both V5 and V6, but greater than 50 ms in V1.The first three criteria are needed for diagnosis. 
+
+The fourth is needed when a pure dominant R waver is present on V1.
+
+
+== Causes ==
+
+Common causes include: normal variation, changes in bundle branch structure - such as stretching, chest trauma, right ventricular hypertrophy or strain, congenital heart disease such as atrial septal defect, and ischemic heart disease. 
+
+In addition, a right bundle branch block may also result from Brugada syndrome, pulmonary embolism, rheumatic heart disease, myocarditis, cardiomyopathy, or hypertension.Causes for incomplete right bundle branch block are exercise-induced right ventricular remodeling, increased RV free wall thickness, especially in athletes due to prolonged endurance exercise.
+
+
+== Diagnosis ==
+
+
+The criteria to diagnose a right bundle branch block on the electrocardiogram:
+
+The heart rhythm must originate above the ventricles (i.e., sinoatrial node, atria or atrioventricular node) to activate the conduction system at the correct point.
+The QRS duration must be more than 100 ms (incomplete block) or more than 120 ms (complete block).
+There should be a terminal R wave in lead V1 (often called "R prime," and denoted by R, rR', rsR', rSR', or qR).
+There must be a prolonged S wave in leads I and V6 (sometimes referred to as a "slurred" S wave).The T wave should be deflected opposite the terminal deflection of the QRS complex. 
+
+This is known as appropriate T wave discordance with bundle branch block. 
+
+A concordant T wave may suggest ischemia or myocardial infarction.
+
+
+== Treatment ==
+
+The underlying condition may be treated by medications to control hypertension or diabetes, if they are the primary underlying cause. 
+
+If coronary arteries are blocked, an invasive coronary angioplasty may relieve the impending RBBB.
+
+
+== Epidemiology ==
+
+Prevalence of RBBB increases with age due to changes in the heart's conduction system. 
+
+It's estimated up to 11.3% of the population by the age of 80 have RBBB.
+
+
+== Gallery ==
+
+
+		
+		
+
+
+
+https://en.wikipedia.org/wiki/Right_bundle_branch_block
+;;;ES;;;
+
+
+
+BLOQUEO DE RAMA DERECHA
+
+
+Un bloqueo de rama derecha (BRD) es un bloqueo cardíaco en la rama derecha del haz de His del sistema de conducción eléctrica. Durante un bloqueo de rama derecha del haz de His, el ventrículo derecho no se activa directamente por los impulsos que viajan a través de la rama derecha del haz de His.
+
+El ventrículo izquierdo, sin embargo, todavía es normalmente activado por la rama izquierda del haz.
+
+Estos impulsos pueden entonces viajar a través del miocardio del ventrículo izquierdo al ventrículo derecho y despolarizar el ventrículo derecho de esta manera.
+
+Como la conducción a través del miocardio es más lenta que la conducción a través del haz de fibras de Purkinje de His, se observa que el complejo QRS se ensancha.
+
+El complejo QRS a menudo muestra una desviación adicional que refleja la rápida despolarización del ventrículo izquierdo seguida de la despolarización más lenta del ventrículo derecho.
+
+
+== Bloqueo de rama derecha incompleto ==
+
+El bloqueo de rama derecha incompleto (IRBBB, por sus siglas en inglés) es una anomalía de conducción en el bloqueo de rama derecha.
+
+Mientras que un RBBB completo tiene una duración de QRS de 120 ms o más, un bloqueo incompleto tiene una duración de onda entre 110 y 120 ms.
+
+Tiene una prevalencia relativamente alta, un estudio realizado en jóvenes reclutas militares suizos con una edad media de 19 años encontró una prevalencia del 13,5%.
+
+Afecta a pacientes de todas las edades, más comúnmente hombres y deportistas, sin embargo no siempre es un hallazgo benigno.
+
+Por lo tanto, si se detectan anomalías en el examen físico, se deben realizar más pruebas para descartar una enfermedad cardíaca. No hay consenso en la literatura con respecto a los criterios para el diagnóstico.
+
+Sin embargo, según la American Heart Association/American College of Cardiology Foundation/Heart Rhythm Foundation (AHA/ACCF/HRS), se define por los siguientes hallazgos en adultos:
+
+Duración de la onda QRS entre 110 y 120 ms.
+rsr, rsR o rSR en las derivaciones V1 o V2.
+Onda S de mayor duración que la onda R o mayor de 40 ms en las derivaciones I y V6.
+Tiempo pico de onda R normal tanto en V5 como en V6, pero superior a 50 ms en V1. Los tres primeros criterios son necesarios para el diagnóstico.
+
+El cuarto es necesario cuando una onda R dominante pura está presente en V1.
+
+
+== Causas ==
+
+Las causas comunes incluyen: variación normal, cambios en la estructura de la rama del haz, como estiramiento, traumatismo torácico, hipertrofia o distensión del ventrículo derecho, cardiopatía congénita como comunicación interauricular y cardiopatía isquémica.
+
+Además, un bloqueo de rama derecha del haz de His también puede deberse al síndrome de Brugada, embolia pulmonar, cardiopatía reumática, miocarditis, miocardiopatía o hipertensión. especialmente en atletas debido al ejercicio prolongado de resistencia.
+
+
+== Diagnóstico ==
+
+
+Los criterios para diagnosticar un bloqueo de rama derecha del haz de His en el electrocardiograma:
+
+El ritmo cardíaco debe originarse por encima de los ventrículos (es decir, el nódulo sinoauricular, las aurículas o el nódulo auriculoventricular) para activar el sistema de conducción en el punto correcto.
+La duración del QRS debe ser superior a 100 ms (bloqueo incompleto) o superior a 120 ms (bloqueo completo).
+Debe haber una onda R terminal en la derivación V1 (a menudo denominada "R prima" y denotada por R, rR', rsR', rSR' o qR).
+Debe haber una onda S prolongada en las derivaciones I y V6 (a veces denominada onda S "arrancada"). La onda T debe desviarse frente a la desviación terminal del complejo QRS.
+
+Esto se conoce como discordancia de onda T apropiada con bloqueo de rama.
+
+Una onda T concordante puede sugerir isquemia o infarto de miocardio.
+
+
+== Tratamiento ==
+
+La afección subyacente puede tratarse con medicamentos para controlar la hipertensión o la diabetes, si son la causa subyacente principal.
+
+Si las arterias coronarias están bloqueadas, una angioplastia coronaria invasiva puede aliviar el RBBB inminente.
+
+
+== Epidemiología ==
+
+La prevalencia de RBBB aumenta con la edad debido a cambios en el sistema de conducción del corazón.
+
+Se estima que hasta el 11,3% de la población a la edad de 80 años tiene BRBB.
+
+
+== Galería ==
+
+
+ 
+ 
+
+
+
+https://en.wikipedia.org/wiki/Right_bundle_branch_block
+
+;;;PT;;;
+
+
+
+BLOCO DE FILIAL DIREITA DO PACOTE
+
+
+Um bloqueio de ramo direito (BRD) é um bloqueio cardíaco no ramo direito do sistema de condução elétrica. Durante um bloqueio de ramo direito, o ventrículo direito não é ativado diretamente por impulsos que viajam através do ramo direito.
+
+O ventrículo esquerdo, no entanto, ainda é normalmente ativado pelo ramo esquerdo.
+
+Esses impulsos são então capazes de viajar através do miocárdio do ventrículo esquerdo para o ventrículo direito e despolarizar o ventrículo direito dessa maneira.
+
+Como a condução através do miocárdio é mais lenta do que a condução através do feixe de fibras de His-Purkinje, o complexo QRS é visto alargado.
+
+O complexo QRS frequentemente mostra uma deflexão extra que reflete a despolarização rápida do ventrículo esquerdo seguida pela despolarização mais lenta do ventrículo direito.
+
+
+== Bloqueio incompleto do ramo direito ==
+
+O bloqueio incompleto do ramo direito (IRBBB) é uma anormalidade de condução no bloqueio do ramo direito.
+
+Enquanto um BRD completo tem uma duração de QRS de 120 ms ou mais, um bloqueio incompleto tem uma duração de onda entre 110 e 120 ms.
+
+Tem uma prevalência relativamente alta, um estudo realizado em jovens recrutas militares suíços com idade média de 19 anos encontrou uma prevalência de 13,5%.
+
+Acomete pacientes de todas as idades, mais comumente do sexo masculino e atletas, porém nem sempre é um achado benigno.
+
+Portanto, se forem detectadas alterações no exame físico, novos exames devem ser feitos para excluir cardiopatia. Não há consenso na literatura quanto aos critérios para o diagnóstico.
+
+No entanto, de acordo com a American Heart Association/American College of Cardiology Foundation/Heart Rhythm Foundation (AHA/ACCF/HRS) é definido pelo seguinte achado em adultos:
+
+Duração da onda QRS entre 110 e 120 ms.
+rsr, rsR ou rSR nas derivações V1 ou V2.
+Onda S de duração maior que a onda R ou maior que 40 ms nas derivações I e V6.
+Tempo de pico da onda R normal em V5 e V6, mas maior que 50 ms em V1. Os três primeiros critérios são necessários para o diagnóstico.
+
+O quarto é necessário quando uma onda R dominante pura está presente em V1.
+
+
+== Causas ==
+
+As causas comuns incluem: variação normal, alterações na estrutura do ramo - como estiramento, trauma torácico, hipertrofia ou tensão do ventrículo direito, cardiopatia congênita, como defeito do septo atrial, e cardiopatia isquêmica.
+
+Além disso, um bloqueio de ramo direito também pode resultar de síndrome de Brugada, embolia pulmonar, cardiopatia reumática, miocardite, cardiomiopatia ou hipertensão. especialmente em atletas devido ao exercício prolongado de resistência.
+
+
+== Diagnóstico ==
+
+
+Os critérios para diagnosticar um bloqueio de ramo direito no eletrocardiograma:
+
+O ritmo cardíaco deve se originar acima dos ventrículos (isto é, nó sinoatrial, átrio ou nó atrioventricular) para ativar o sistema de condução no ponto correto.
+A duração do QRS deve ser superior a 100 ms (bloqueio incompleto) ou superior a 120 ms (bloqueio completo).
+Deve haver uma onda R terminal na derivação V1 (muitas vezes chamada de "R prime" e denotada por R, rR', rsR', rSR' ou qR).
+Deve haver uma onda S prolongada nas derivações I e V6 (às vezes chamada de onda S "empastada"). A onda T deve ser desviada oposta à deflexão terminal do complexo QRS.
+
+Isso é conhecido como discordância apropriada da onda T com bloqueio de ramo.
+
+Uma onda T concordante pode sugerir isquemia ou infarto do miocárdio.
+
+
+== Tratamento ==
+
+A condição subjacente pode ser tratada com medicamentos para controlar a hipertensão ou o diabetes, se forem a causa subjacente primária.
+
+Se as artérias coronárias estiverem bloqueadas, uma angioplastia coronária invasiva pode aliviar o BRD iminente.
+
+
+== Epidemiologia ==
+
+A prevalência de BRD aumenta com a idade devido a alterações no sistema de condução do coração.
+
+Estima-se que até 11,3% da população aos 80 anos tenha BRD.
+
+
+== Galeria ==
+
+
+ 
+ 
+
+
+
+https://en.wikipedia.org/wiki/Right_bundle_branch_block
+
+;;;FR;;;
+
+
+
+BLOC DE BRANCHEMENT DU FAISCEAU DROIT
+
+
+Un bloc de branche droit (RBBB) est un bloc cardiaque dans la branche droite du faisceau du système de conduction électrique. Au cours d'un bloc de branche droit, le ventricule droit n'est pas directement activé par les impulsions traversant la branche droite du faisceau.
+
+Le ventricule gauche, cependant, est toujours normalement activé par la branche gauche du faisceau.
+
+Ces impulsions sont alors capables de voyager à travers le myocarde du ventricule gauche vers le ventricule droit et de dépolariser ainsi le ventricule droit.
+
+Comme la conduction à travers le myocarde est plus lente que la conduction à travers le faisceau de fibres His-Purkinje, on voit que le complexe QRS est élargi.
+
+Le complexe QRS montre souvent une déviation supplémentaire qui reflète la dépolarisation rapide du ventricule gauche suivie de la dépolarisation plus lente du ventricule droit.
+
+
+== Bloc de branche droit incomplet ==
+
+Le bloc de branche droit incomplet (IRBBB) est une anomalie de conduction dans le bloc de branche droit.
+
+Alors qu'un RBBB complet a une durée QRS de 120 ms ou plus, un bloc incomplet a une durée d'onde comprise entre 110 et 120 ms.
+
+Elle a une prévalence relativement élevée, une étude menée sur de jeunes conscrits militaires suisses d'un âge moyen de 19 ans a trouvé une prévalence de 13,5%.
+
+Elle touche des patients de tous âges, plus souvent des hommes et des athlètes, mais n'est pas toujours bénigne.
+
+Par conséquent, si des anomalies sont détectées à l'examen physique, des tests supplémentaires doivent être effectués pour exclure une maladie cardiaque. Il n'y a pas de consensus dans la littérature concernant les critères de diagnostic.
+
+Cependant, selon l'American Heart Association/American College of Cardiology Foundation/Heart Rhythm Foundation (AHA/ACCF/HRS), il est défini par la constatation suivante chez les adultes :
+
+Durée de l'onde QRS entre 110 et 120 ms.
+rsr, rsR ou rSR dans les dérivations V1 ou V2.
+Onde S de plus longue durée que l'onde R ou supérieure à 40 ms dans les dérivations I et V6.
+Temps de crête normal de l'onde R en V5 et V6, mais supérieur à 50 ms en V1. Les trois premiers critères sont nécessaires au diagnostic.
+
+Le quatrième est nécessaire lorsqu'un ondeur R dominant pur est présent sur V1.
+
+
+== causes ==
+
+Les causes courantes comprennent : la variation normale, les modifications de la structure des branches du faisceau - telles que les étirements, les traumatismes thoraciques, l'hypertrophie ou la tension ventriculaire droite, les cardiopathies congénitales telles que les communications interauriculaires et les cardiopathies ischémiques.
+
+En outre, un bloc de branche droit peut également résulter du syndrome de Brugada, d'une embolie pulmonaire, d'une cardiopathie rhumatismale, d'une myocardite, d'une cardiomyopathie ou d'une hypertension. surtout chez les athlètes en raison d'exercices d'endurance prolongés.
+
+
+== Diagnostic ==
+
+
+Les critères pour diagnostiquer un bloc de branche droit sur l'électrocardiogramme :
+
+Le rythme cardiaque doit prendre naissance au-dessus des ventricules (c'est-à-dire, nœud sino-auriculaire, oreillettes ou nœud auriculo-ventriculaire) pour activer le système de conduction au bon endroit.
+La durée du QRS doit être supérieure à 100 ms (bloc incomplet) ou supérieure à 120 ms (bloc complet).
+Il devrait y avoir une onde R terminale dans la dérivation V1 (souvent appelée « R prime » et désignée par R, rR', rsR', rSR' ou qR).
+Il doit y avoir une onde S prolongée dans les dérivations I et V6 (parfois appelée onde S « brouillée »). L'onde T doit être déviée à l'opposé de la déviation terminale du complexe QRS.
+
+Ceci est connu sous le nom de discordance appropriée de l'onde T avec bloc de branche.
+
+Une onde T concordante peut évoquer une ischémie ou un infarctus du myocarde.
+
+
+== Traitement ==
+
+La condition sous-jacente peut être traitée par des médicaments pour contrôler l'hypertension ou le diabète, s'ils sont la principale cause sous-jacente.
+
+Si les artères coronaires sont bloquées, une angioplastie coronarienne invasive peut soulager la RBBB imminente.
+
+
+== Épidémiologie ==
+
+La prévalence de la RBBB augmente avec l'âge en raison de changements dans le système de conduction cardiaque.
+
+On estime que jusqu'à 11,3% de la population à l'âge de 80 ans ont RBBB.
+
+
+== Galerie ==
+
+
+ 
+ 
+
+
+
+https://en.wikipedia.org/wiki/Right_bundle_branch_block

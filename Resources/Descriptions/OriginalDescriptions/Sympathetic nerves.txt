@@ -1,0 +1,180 @@
+
+
+SYMPATHETIC NERVOUS SYSTEM
+/SYMPATHETIC NERVES
+
+
+The sympathetic nervous system (SNS) is one of two divisions of the autonomic nervous system, along with the parasympathetic nervous system. 
+
+The enteric nervous system is sometimes considered part of the autonomic nervous system, and sometimes considered an independent system.
+
+The autonomic nervous system functions to regulate the body's unconscious actions. 
+
+The sympathetic nervous system's primary process is to stimulate the body's fight or flight response. 
+
+It is, however, constantly active at a basic level to maintain homeostasis. 
+
+The sympathetic nervous system is described as being antagonistic to the parasympathetic nervous system which stimulates the body to "feed and breed" and to (then) "rest-and-digest".
+
+
+== Structure ==
+
+There are two kinds of neurons involved in the transmission of any signal through the sympathetic system: pre-ganglionic and post-ganglionic. 
+
+The shorter preganglionic neurons originate in the thoracolumbar division of the spinal cord specifically at T1 to L2~L3, and travel to a ganglion, often one of the paravertebral ganglia, where they synapse with a postganglionic neuron. 
+
+From there, the long postganglionic neurons extend across most of the body.
+
+At the synapses within the ganglia, preganglionic neurons release acetylcholine, a neurotransmitter that activates nicotinic acetylcholine receptors on postganglionic neurons. 
+
+In response to this stimulus, the postganglionic neurons release norepinephrine, which activates adrenergic receptors that are present on the peripheral target tissues. 
+
+The activation of target tissue receptors causes the effects associated with the sympathetic system. 
+
+However, there are three important exceptions:
+Postganglionic neurons of sweat glands release acetylcholine for the activation of muscarinic receptors, except for areas of thick skin, the palms and the plantar surfaces of the feet, where norepinephrine is released and acts on adrenergic receptors. 
+
+This leads to the activation of sudomotor function which is assessed by electrochemical skin conductance.
+
+Chromaffin cells of the adrenal medulla are analogous to post-ganglionic neurons; the adrenal medulla develops in tandem with the sympathetic nervous system and acts as a modified sympathetic ganglion. 
+
+Within this endocrine gland, pre-ganglionic neurons synapse with chromaffin cells, triggering the release of two transmitters: 
+    a small proportion of norepinephrine, and more substantially, epinephrine. 
+
+The synthesis and release of epinephrine as opposed to norepinephrine is another distinguishing feature of chromaffin cells compared to postganglionic sympathetic neurons.
+
+Postganglionic sympathetic nerves terminating in the kidney release dopamine, which acts on dopamine D1 receptors of blood vessels to control how much blood the kidney filters. 
+
+Dopamine is the immediate metabolic precursor to norepinephrine, but is nonetheless a distinct signaling molecule.
+
+
+=== Organization ===
+
+Sympathetic nerves arise from near the middle of the spinal cord in the intermediolateral nucleus of the lateral grey column, beginning at the first thoracic vertebra of the vertebral column and are thought to extend to the second or third lumbar vertebra. 
+
+Because its cells begin in the thoracolumbar division – the thoracic and lumbar regions of the spinal cord – the sympathetic nervous system is said to have a thoracolumbar outflow. 
+
+Axons of these nerves leave the spinal cord through the anterior root. 
+
+They pass near the spinal (sensory) ganglion, where they enter the anterior rami of the spinal nerves. 
+
+However, unlike somatic innervation, they quickly separate out through white rami connectors (so called from the shiny white sheaths of myelin around each axon) that connect to either the paravertebral (which lie near the vertebral column) or prevertebral (which lie near the aortic bifurcation) ganglia extending alongside the spinal column.
+
+To reach target organs and glands, the axons must travel long distances in the body, and, to accomplish this, many axons relay their message to a second cell through synaptic transmission. 
+
+The ends of the axons link across a space, the synapse, to the dendrites of the second cell. 
+
+The first cell (the presynaptic cell) sends a neurotransmitter across the synaptic cleft where it activates the second cell (the postsynaptic cell). 
+
+The message is then carried to the final destination.
+
+Presynaptic nerves' axons terminate in either the paravertebral ganglia or prevertebral ganglia. 
+
+There are four different paths an axon can take before reaching its terminal. 
+
+In all cases, the axon enters the paravertebral ganglion at the level of its originating spinal nerve. 
+
+After this, it can then either synapse in this ganglion, ascend to a more superior or descend to a more inferior paravertebral ganglion and synapse there, or it can descend to a prevertebral ganglion and synapse there with the postsynaptic cell.
+
+The postsynaptic cell then goes on to innervate the targeted end effector (i.e. gland, smooth muscle, etc.). 
+
+Because paravertebral and prevertebral ganglia are close to the spinal cord, presynaptic neurons are much shorter than their postsynaptic counterparts, which must extend throughout the body to reach their destinations.
+
+A notable exception to the routes mentioned above is the sympathetic innervation of the suprarenal (adrenal) medulla. 
+
+In this case, presynaptic neurons pass through paravertebral ganglia, on through prevertebral ganglia and then synapse directly with suprarenal tissue. 
+
+This tissue consists of cells that have pseudo-neuron like qualities in that when activated by the presynaptic neuron, they will release their neurotransmitter (epinephrine) directly into the bloodstream.
+
+In the sympathetic nervous system and other components of the peripheral nervous system, these synapses are made at sites called ganglia. 
+
+The cell that sends its fiber is called a preganglionic cell, while the cell whose fiber leaves the ganglion is called a postganglionic cell. 
+
+As mentioned previously, the preganglionic cells of the sympathetic nervous system are located between the first thoracic segment and the third lumbar segments of the spinal cord. 
+
+Postganglionic cells have their cell bodies in the ganglia and send their axons to target organs or glands.
+
+The ganglia include not just the sympathetic trunks but also the cervical ganglia (superior, middle and inferior), which send sympathetic nerve fibers to the head and thorax organs, and the celiac and mesenteric ganglia, which send sympathetic fibers to the gut.
+
+
+=== Information transmission ===
+
+Messages travel through the sympathetic nervous system in a bi-directional flow. 
+
+Efferent messages can trigger changes in different parts of the body simultaneously. 
+
+For example, the sympathetic nervous system can accelerate heart rate; widen bronchial passages; decrease motility (movement) of the large intestine; constrict blood vessels; increase peristalsis in the oesophagus; cause pupillary dilation, piloerection (goose bumps) and perspiration (sweating); and raise blood pressure. 
+
+One exception is with certain blood vessels such as those in the cerebral and coronary arteries, which dilate (rather than constrict) with an increase in sympathetic tone. 
+
+This is because of a proportional increase in the presence of β2 adrenergic receptors rather than α1 receptors. β2 receptors promote vessel dilation instead of constriction like α1 receptors. 
+
+An alternative explanation is that the primary (and direct) effect of sympathetic stimulation on coronary arteries is vasoconstriction followed by a secondary vasodilation caused by the release of vasodilatory metabolites due to the sympathetically increased cardiac inotropy and heart rate. 
+
+This secondary vasodilation caused by the primary vasoconstriction is termed functional sympatholysis, the overall effect of which on coronary arteries is dilation.
+
+The target synapse of the postganglionic neuron is mediated by adrenergic receptors and is activated by either norepinephrine (noradrenaline) or epinephrine (adrenaline).
+
+
+== Function ==
+
+The sympathetic nervous system is responsible for up- and down-regulating many homeostatic mechanisms in living organisms. 
+
+Fibers from the SNS innervate tissues in almost every organ system, providing at least some regulation of functions as diverse as pupil diameter, gut motility, and urinary system output and function. 
+
+It is perhaps best known for mediating the neuronal and hormonal stress response commonly known as the fight-or-flight response. 
+
+This response is also known as sympatho-adrenal response of the body, as the preganglionic sympathetic fibers that end in the adrenal medulla (but also all other sympathetic fibers) secrete acetylcholine, which activates the great secretion of adrenaline (epinephrine) and to a lesser extent noradrenaline (norepinephrine) from it. 
+
+Therefore, this response that acts primarily on the cardiovascular system is mediated directly via impulses transmitted through the sympathetic nervous system and indirectly via catecholamines secreted from the adrenal medulla.
+
+The sympathetic nervous system is responsible for priming the body for action, particularly in situations threatening survival. 
+
+One example of this priming is in the moments before waking, in which sympathetic outflow spontaneously increases in preparation for action.
+
+Sympathetic nervous system stimulation causes vasoconstriction of most blood vessels, including many of those in the skin, the digestive tract, and the kidneys. 
+
+This occurs as a result of activation of alpha-1 adrenergic receptors by norepinephrine released by post-ganglionic sympathetic neurons. 
+
+These receptors exist throughout the vasculature of the body but are inhibited and counterbalanced by beta-2 adrenergic receptors (stimulated by epinephrine release from the adrenal glands) in the skeletal muscles, the heart, the lungs, and the brain during a sympathoadrenal response. 
+
+The net effect of this is a shunting of blood away from the organs not necessary to the immediate survival of the organism and an increase in blood flow to those organs involved in intense physical activity.
+
+
+=== Sensation ===
+
+The afferent fibers of the autonomic nervous system, which transmit sensory information from the internal organs of the body back to the central nervous system (or CNS), are not divided into parasympathetic and sympathetic fibers as the efferent fibers are. 
+
+Instead, autonomic sensory information is conducted by general visceral afferent fibers.
+
+General visceral afferent sensations are mostly unconscious visceral motor reflex sensations from hollow organs and glands that are transmitted to the CNS. 
+
+While the unconscious reflex arcs normally are undetectable, in certain instances they may send pain sensations to the CNS masked as referred pain. 
+
+If the peritoneal cavity becomes inflamed or if the bowel is suddenly distended, the body will interpret the afferent pain stimulus as somatic in origin. 
+
+This pain is usually non-localized. 
+
+The pain is also usually referred to dermatomes that are at the same spinal nerve level as the visceral afferent synapse.
+
+
+=== Relationship with the parasympathetic nervous system ===
+
+Together with the other component of the autonomic nervous system, the parasympathetic nervous system, the sympathetic nervous system aids in the control of most of the body's internal organs. 
+
+Reaction to stress—as in the flight-or-fight response—is thought to be elicited by the sympathetic nervous system and to counteract the parasympathetic system, which works to promote maintenance of the body at rest. 
+
+The comprehensive functions of both the parasympathetic and sympathetic nervous systems are not so straightforward, but this is a useful rule of thumb.
+
+
+== Disorders ==
+
+In heart failure, the sympathetic nervous system increases its activity, leading to increased force of muscular contractions that in turn increases the stroke volume, as well as peripheral vasoconstriction to maintain blood pressure. 
+
+However, these effects accelerate disease progression, eventually increasing mortality in heart failure. 
+
+Sympathicotonia is a stimulated condition of the sympathetic nervous system, marked by vascular spasm, elevated blood pressure, and goose bumps.
+
+
+
+https://en.wikipedia.org/wiki/Sympathetic_nervous_system

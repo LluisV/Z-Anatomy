@@ -1,0 +1,83 @@
+
+
+RIGHT BUNDLE BRANCH BLOCK
+
+
+A right bundle branch block (RBBB) is a heart block in the right bundle branch of the electrical conduction system.During a right bundle branch block, the right ventricle is not directly activated by impulses travelling through the right bundle branch. 
+
+The left ventricle, however, is still normally activated by the left bundle branch. 
+
+These impulses are then able to travel through the myocardium of the left ventricle to the right ventricle and depolarize the right ventricle this way. 
+
+As conduction through the myocardium is slower than conduction through the Bundle of His-Purkinje fibres, the QRS complex is seen to be widened. 
+
+The QRS complex often shows an extra deflection that reflects the rapid depolarisation of the left ventricle followed by the slower depolarisation of the right ventricle.
+
+
+== Incomplete right bundle branch block ==
+
+Incomplete right bundle branch block (IRBBB) is an conduction abnormality in the right bundle branch block. 
+
+While a complete RBBB has a QRS duration of 120 ms or more, an incomplete block has a wave duration between 110 and 120 ms. 
+
+It has a relatively high prevalence, a study conducted on young Swiss military conscripts with a mean age of 19 years found a prevalence of 13.5%. 
+
+It affects patients of all ages, more commonly males and athletes, however is not always a benign finding. 
+
+Therefore, if abnormalities are detected on the physical exam, further testing should be done to exclude heart disease.There is no consensus in the literature regarding criteria for diagnosis. 
+
+However, according to the American Heart Association/American College of Cardiology Foundation/Heart Rhythm Foundation (AHA/ACCF/HRS) it is defined by the following finding in adults:
+
+QRS wave duration between 110 and 120 ms.
+rsr, rsR, or rSR in leads V1 or V2.
+S wave of longer duration than R wave or greater than 40 ms in leads I and V6.
+Normal R wave peak time in both V5 and V6, but greater than 50 ms in V1.The first three criteria are needed for diagnosis. 
+
+The fourth is needed when a pure dominant R waver is present on V1.
+
+
+== Causes ==
+
+Common causes include: normal variation, changes in bundle branch structure - such as stretching, chest trauma, right ventricular hypertrophy or strain, congenital heart disease such as atrial septal defect, and ischemic heart disease. 
+
+In addition, a right bundle branch block may also result from Brugada syndrome, pulmonary embolism, rheumatic heart disease, myocarditis, cardiomyopathy, or hypertension.Causes for incomplete right bundle branch block are exercise-induced right ventricular remodeling, increased RV free wall thickness, especially in athletes due to prolonged endurance exercise.
+
+
+== Diagnosis ==
+
+
+The criteria to diagnose a right bundle branch block on the electrocardiogram:
+
+The heart rhythm must originate above the ventricles (i.e., sinoatrial node, atria or atrioventricular node) to activate the conduction system at the correct point.
+The QRS duration must be more than 100 ms (incomplete block) or more than 120 ms (complete block).
+There should be a terminal R wave in lead V1 (often called "R prime," and denoted by R, rR', rsR', rSR', or qR).
+There must be a prolonged S wave in leads I and V6 (sometimes referred to as a "slurred" S wave).The T wave should be deflected opposite the terminal deflection of the QRS complex. 
+
+This is known as appropriate T wave discordance with bundle branch block. 
+
+A concordant T wave may suggest ischemia or myocardial infarction.
+
+
+== Treatment ==
+
+The underlying condition may be treated by medications to control hypertension or diabetes, if they are the primary underlying cause. 
+
+If coronary arteries are blocked, an invasive coronary angioplasty may relieve the impending RBBB.
+
+
+== Epidemiology ==
+
+Prevalence of RBBB increases with age due to changes in the heart's conduction system. 
+
+It's estimated up to 11.3% of the population by the age of 80 have RBBB.
+
+
+== Gallery ==
+
+
+		
+		
+
+
+
+https://en.wikipedia.org/wiki/Right_bundle_branch_block

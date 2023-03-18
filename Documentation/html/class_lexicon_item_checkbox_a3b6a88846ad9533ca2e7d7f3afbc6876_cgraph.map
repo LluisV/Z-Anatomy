@@ -1,0 +1,12 @@
+<map id="LexiconItemCheckbox.OnPointerEnter" name="LexiconItemCheckbox.OnPointerEnter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,90,217,130"/>
+<area shape="rect" id="node2" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="285,15,483,55"/>
+<area shape="rect" id="node4" href="$class_button_sprite_swap.html#aa8dc0d4fe4c4ce1988e2615a0e113fbb" title=" " alt="" coords="285,97,483,123"/>
+<area shape="rect" id="node5" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="265,181,503,207"/>
+<area shape="rect" id="node3" href="$class_camera_controller.html#aaa7e8228113908116a25b1a69eea1c1b" title="Updates the bounds." alt="" coords="551,5,761,31"/>
+<area shape="rect" id="node6" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="817,97,983,123"/>
+<area shape="rect" id="node7" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="563,130,749,170"/>
+<area shape="rect" id="node8" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="563,218,749,258"/>
+<area shape="rect" id="node9" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="809,253,991,279"/>
+<area shape="rect" id="node10" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="589,333,723,359"/>
+</map>

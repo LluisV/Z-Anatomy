@@ -1,0 +1,19 @@
+
+
+DISPLAY
+                    
+                    
+Press 'H' 
+    to hide the selected objects
+    
+Press 'SHIFT+H'
+    to isolate the selected objects
+    
+Press 'Alt+H'
+    to show everything inside the active layer(s)
+    
+Press '%'
+    to change the language
+    
+Press 'Shift+%'
+    to toggle the group-labels visibility

@@ -1,0 +1,39 @@
+<map id="NamesManagement.SetDesc" name="NamesManagement.SetDesc">
+<area shape="rect" id="node1" title=" " alt="" coords="1325,717,1517,742"/>
+<area shape="rect" id="node2" href="$class_selected_objects_management.html#a494c9715c282ac39a6abccad66ce424b" title="Deselects a GameObject from the currently selected objects." alt="" coords="1080,737,1277,777"/>
+<area shape="rect" id="node27" href="$class_read_d_b.html#a46129f2273a3bfd9b55d6908eaffe227" title=" " alt="" coords="1099,478,1259,503"/>
+<area shape="rect" id="node3" href="$class_label.html#a0c137d7d8248ae87ad1fa717c9c4c1bf" title="Handles the click event of the label and updates the UI." alt="" coords="599,599,686,625"/>
+<area shape="rect" id="node4" href="$class_selected_objects_management.html#ab3649edf540d48db694947de16c53143" title="Deletes a list of GameObjects from the scene, setting their visibility to false and removing them fro..." alt="" coords="817,433,1014,473"/>
+<area shape="rect" id="node9" href="$class_contextual_menu.html#acd4c1000ed1e4a27c603c872ef44b445" title=" " alt="" coords="29,541,196,581"/>
+<area shape="rect" id="node10" href="$class_lexicon_element.html#ade6110168b807cc5da5476f7aa1cacff" title=" " alt="" coords="557,649,728,674"/>
+<area shape="rect" id="node13" href="$class_selected_objects_management.html#ac596a7dcaa8802ec6bef09f6c1c8e34f" title="Recursively deselects all child objects of a given parent object." alt="" coords="817,777,1014,817"/>
+<area shape="rect" id="node14" href="$class_contextual_menu.html#ae952072e6aebdc34154809d257b87cee" title=" " alt="" coords="555,850,730,875"/>
+<area shape="rect" id="node17" href="$class_contextual_menu.html#a6153bad2bb7f98bc1367544870f1d3d1" title=" " alt="" coords="549,899,736,925"/>
+<area shape="rect" id="node18" href="$class_contextual_menu.html#aa4e81544ee1a9e9754b699f2360809ed" title=" " alt="" coords="542,949,743,989"/>
+<area shape="rect" id="node19" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="273,447,482,473"/>
+<area shape="rect" id="node20" href="$class_body_part_visibility.html#ae811c5538ac2234f83514443aee702f0" title="Shows the muscles connected to the insertion points of this game object." alt="" coords="810,1003,1021,1043"/>
+<area shape="rect" id="node22" href="$class_body_part_visibility.html#ae45bade0298f12853186ad345c5b2296" title="Shows the nerves for the muscle" alt="" coords="814,1069,1017,1109"/>
+<area shape="rect" id="node24" href="$class_body_part_visibility.html#a8ca9a55baaf7df931f8ff3f51285b8d2" title=" " alt="" coords="819,1140,1012,1180"/>
+<area shape="rect" id="node26" href="$class_select_command.html#a1446fb857bd69ba575e0fa6a101be8b5" title=" " alt="" coords="839,653,991,678"/>
+<area shape="rect" id="node5" href="$class_delete_command.html#a10f4d4a22c829b3c2114ef7a4986550d" title=" " alt="" coords="557,447,728,473"/>
+<area shape="rect" id="node6" href="$class_mesh_management.html#a58abe3252b603c681bd44a7404fe6529" title=" " alt="" coords="553,332,733,372"/>
+<area shape="rect" id="node7" href="$class_mesh_management.html#af6ff2aea511ccd0dd659dfa1d7147f88" title=" " alt="" coords="268,357,487,397"/>
+<area shape="rect" id="node8" href="$class_action_control.html#a5dc879ecd8c2d4f69a4d85315a9bb6e8" title=" " alt="" coords="18,365,207,390"/>
+<area shape="rect" id="node11" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="279,649,475,674"/>
+<area shape="rect" id="node12" href="$class_lexicon_element_button.html#a41dc70b684895c694867c73606cf67fb" title=" " alt="" coords="5,641,220,681"/>
+<area shape="rect" id="node15" href="$class_lexicon_element.html#ac73d01f442fa8caeb9404a7dd8b86f5b" title=" " alt="" coords="546,801,739,826"/>
+<area shape="rect" id="node16" href="$class_lexicon_element.html#a1f6f700e15c792206e70e93365decbf0" title=" " alt="" coords="272,801,483,826"/>
+<area shape="rect" id="node21" href="$class_contextual_menu.html#a2752890c76b0104a8239d2f4ba6f3cf2" title=" " alt="" coords="545,1013,740,1053"/>
+<area shape="rect" id="node23" href="$class_contextual_menu.html#a9330773b1e5da15e117dd95dd4edb1ad" title=" " alt="" coords="545,1077,740,1117"/>
+<area shape="rect" id="node25" href="$class_contextual_menu.html#af20c891399c71d8955d7275a73ec1b5d" title=" " alt="" coords="551,1141,735,1181"/>
+<area shape="rect" id="node28" href="$class_name_and_description.html#a999397d5520c935a76d1ad93fe05d956" title="Sets the description of the game object by fetching it from the database." alt="" coords="799,247,1032,273"/>
+<area shape="rect" id="node29" href="$class_hierarchy_button.html#a0906c341355a0461c23265da273e6e80" title=" " alt="" coords="560,70,725,95"/>
+<area shape="rect" id="node31" href="$class_settings.html#a3c6ed152e34ea07ee6d5a8da2adcfba6" title=" " alt="" coords="567,119,718,145"/>
+<area shape="rect" id="node33" href="$class_selected_objects_management.html#a423bd57503484c3f543e088d06ec6048" title="Shows the body part information of a given game object. Sets the description of the object using its ..." alt="" coords="544,268,741,308"/>
+<area shape="rect" id="node35" href="$class_bonus_collections.html#ad0ba7fe4c7574fdb4970bf29eb0bca76" title=" " alt="" coords="535,169,751,194"/>
+<area shape="rect" id="node36" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="537,218,748,243"/>
+<area shape="rect" id="node37" href="$class_selected_objects_management.html#a91bae1160eb4529889e6477e3ea029ba" title=" " alt="" coords="544,5,741,45"/>
+<area shape="rect" id="node30" href="$class_hierarchy_button.html#a1120572edd81dea744858740db7b707f" title=" " alt="" coords="289,56,466,96"/>
+<area shape="rect" id="node32" href="$class_names_management.html#a89db0804cba014432a680da157a2d414" title=" " alt="" coords="275,120,479,160"/>
+<area shape="rect" id="node34" href="$class_select_command.html#a4adfba5781cb1795ec4cdb9cd5a03c3a" title=" " alt="" coords="292,275,463,301"/>
+</map>

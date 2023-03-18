@@ -1,0 +1,18 @@
+
+
+OPTIC AXIS
+
+
+An optical axis is a line along which there is some degree of rotational symmetry in an optical system such as a camera lens, microscope or telescopic sight.
+
+The optical axis is an imaginary line that defines the path along which light propagates through the system, up to first approximation. 
+
+For a system composed of simple lenses and mirrors, the axis passes through the center of curvature of each surface, and coincides with the axis of rotational symmetry. 
+
+The optical axis is often coincident with the system's mechanical axis, but not always, as in the case of off-axis optical systems.
+
+For an optical fiber, the optical axis is along the center of the fiber core, and is also known as the fiber axis. 
+
+
+
+https://en.wikipedia.org/wiki/Optical_axis

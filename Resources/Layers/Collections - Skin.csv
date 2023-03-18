@@ -1,0 +1,43 @@
+Skin-1,Skin-2,Skin-3,Skin-4,Skin-5,Skin-6,Skin-7,Skin-8,Skin-9,Skin-10
+Eyebrow.r,Lesser supraclavicular fossa.r,Lateral border of forearm.r,Lateral part of longitudinal arch of foot.r,Occipital region.r,Sacral region.r,Parietal region.r,Frontal region.r,Concha of auricle.l,Posterior region of arm.r
+Eyebrow.l,Lesser supraclavicular fossa.l,Medial border of forearm.r,Medial part of longitudinal arch of foot.r,Temporal region.r,Sacral region.l,Parietal region.l,Frontal region.l,Concha of auricle.r,Posterior region of arm.l
+Mastoid region.r,Umbilicus.r,Lateral border of forearm.l,Lateral part of longitudinal arch of foot.l,Occipital region.l,Interscapular region.r,Antitragus.r,Anterior notch of auricle.r,Auricular region.r,Pubic hairs
+Mastoid region.l,Umbilicus.l,Medial border of forearm.l,Medial part of longitudinal arch of foot.l,Temporal region.l,Interscapular region.l,Scapha.r,Crura of antihelix.r,Eminentia fossae triangularis.r,Infraclavicular fossa.r
+Cavity of concha.l,Triangle of auscultation.r,Anterior region of wrist.r,Distal transverse arch of foot.r,Antihelix.r,Anterior region of elbow.r,Tragus.r,Eminentia scaphae.r,Lobule of auricle.r,Infraclavicular fossa.l
+Cavity of concha.r,Vertebral region.r,Radial foveola.r,Distal transverse arch of foot.l,Fossa antihelica.r,Anterior region of elbow.l,Antitragus.l,Posterior auricular groove.r,Auricular region.l,Hairs of head
+Cymba conchae.l,Triangle of auscultation.l,Anterior region of wrist.l,Heel region.r,Helix.r,Palmar surfaces of digits of hand.r,Scapha.l,Anterior notch of auricle.l,Eminentia fossae triangularis.l,Nail plate.l
+Cymba conchae.r,Vertebral region.l,Radial foveola.l,Heel region.l,Intertragic incisure.r,Palmar surfaces of digits of hand.l,Tragus.l,Crura of antihelix.l,Lobule of auricle.l,Nail plate.r
+Apex of auricle.r,Anal region.r,Gluteal fold.r,Hip region.r,Antihelix.l,Dorsum of hand.r,Oral region.r,Eminentia scaphae.l,Nasal region.r,Nail plate (foot).l
+Auricular tubercle.r,Anal region.l,Gluteal fold.l,Hip region.l,Fossa antihelica.l,Dorsum of hand.l,Oral region.l,Posterior auricular groove.l,Nasal region.l,Nail plate (foot).r
+Eminentia conchae.r,Urogenital region.r,Femoral triangle.r,Mammary region.r,Helix.l,Deltoid region.r,Zygomatic region.r,Buccal region.r,Submandibular triangle.r,
+Triangular fossa.r,Urogenital region.l,Femoral triangle.l,Mammary region.l,Intertragic incisure.l,Deltoid region.l,Zygomatic region.l,Buccal region.l,Submandibular triangle.l,
+Apex of auricle.l,Lateral bicipital groove.r,Popliteal fossa.r,Presternal region.r,Orbital region.r,Posterior region of knee.r,Submental triangle.r,Sternocleidomastoid region.r,Posterior region of neck.r,
+Auricular tubercle.l,Medial bicipital groove.r,Popliteal fossa.l,Deltopectoral triangle.r,Orbital region.l,Posterior region of knee.l,Submental triangle.l,Sternocleidomastoid region.l,Posterior region of neck.l,
+Eminentia conchae.l,Lateral bicipital groove.l,Lateral malleolus.l,Presternal region.l,Labial commissure.r,Anterior region of leg.r,Lateral region of neck.r,Hypogastric region.r,Lateral region of abdomen.r,
+Triangular fossa.l,Medial bicipital groove.l,Medial malleolus.l,Deltopectoral triangle.l,Labial commissure.l,Anterior region of leg.l,Lateral region of neck.l,Hypogastric region.l,Lateral region of abdomen.l,
+Angle of mouth.r,Cubital fossa.r,Lateral malleolus.r,,Mental region.r,Lateral retromalleolar region.r,Epigastric region.r,Lumbar region.r,Medial border of foot.l,
+Philtrum.r,Cubital fossa.l,Medial malleolus.r,,Parotideomasseteric region.r,Lateral retromalleolar region.l,Epigastric region.l,Lumbar region.l,Medial border of foot.r,
+Tubercle of upper lip.r,,,,Mental region.l,Sole.r,Infrascapular region.r,Scapular region.r,Hairs of eyebrow.l,
+Angle of mouth.l,,,,Parotideomasseteric region.l,Sole.l,Infrascapular region.l,Scapular region.l,Hairs of eyebrow.r,
+Philtrum.l,,,,Muscular triangle.r,Hallucial eminence.r,Anterior region of arm.r,Posterior region of forearm.r,Lateral region of thorax.r,
+Tubercle of upper lip.l,,,,Muscular triangle.l,Hallucial eminence.l,Anterior region of arm.l,Posterior region of forearm.l,Lateral region of thorax.l,
+Infra-orbital region.r,,,,Greater supraclavicular fossa.l,Dorsal surfaces of digits of foot.l,Posterior region of elbow.r,Dorsal surfaces of digits of hand.r,,
+Mentolabial sulcus.r,,,,Greater supraclavicular fossa.r,Dorsal surfaces of digits of foot.r,Posterior region of elbow.l,Dorsal surfaces of digits of hand.l,,
+Nasolabial sulcus.r,,,,Umbilical region.r,Dorsum of foot.r,Anterior region of forearm.r,Posterior region of thigh.r,,
+Infra-orbital region.l,,,,Umbilical region.l,Dorsum of foot.l,Anterior region of forearm.l,Posterior region of thigh.l,,
+Mentolabial sulcus.l,,,,Hypochondriac region.r,Pectoral region.r,Posterior region of wrist.r,Anterior region of knee.r,,
+Nasolabial sulcus.l,,,,Inguinal region.r,Pectoral region.l,Posterior region of wrist.l,Anterior region of knee.l,,
+Carotid triangle.r,,,,Hypochondriac region.l,,Palm.r,Posterior region of leg.r,,
+Carotid triangle.l,,,,Inguinal region.l,,Palm.l,Posterior region of leg.l,,
+,,,,,,Gluteal region.r,Anterior region of ankle.r,,
+,,,,,,Gluteal region.l,Anterior region of ankle.l,,
+,,,,,,Anterior region of thigh.r,Proximal transverse arch of foot.r,,
+,,,,,,Anterior region of thigh.l,Proximal transverse arch of foot.l,,
+,,,,,,Medial retromalleolar region.r,Metatarsal region.r,,
+,,,,,,Medial retromalleolar region.l,Metatarsal region.l,,
+,,,,,,Plantar surfaces of digits of foot.l,Inframammary region.r,,
+,,,,,,Plantar surfaces of digits of foot.r,Inframammary region.l,,
+,,,,,,Lateral border of foot.l,,,
+,,,,,,Lateral border of foot.r,,,
+,,,,,,Eyelashes.l,,,
+,,,,,,Eyelashes.r,,,

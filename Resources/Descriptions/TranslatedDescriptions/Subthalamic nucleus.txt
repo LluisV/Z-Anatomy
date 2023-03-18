@@ -1,0 +1,624 @@
+
+
+SUBTHALAMIC NUCLEUS
+
+
+The subthalamic nucleus is a small lens-shaped nucleus in the brain where it is, from a functional point of view, part of the basal ganglia system. 
+
+In terms of anatomy, it is the major part of the subthalamus. 
+
+As suggested by its name, the subthalamic nucleus is located ventral to the thalamus. 
+
+It is also dorsal to the substantia nigra and medial to the internal capsule. 
+
+It was first described by Jules Bernard Luys in 1865, and the term corpus Luysi or Luys' body is still sometimes used.
+
+
+== Anatomy ==
+
+
+
+=== Structure ===
+
+The principal type of neuron found in the subthalamic nucleus has rather long, sparsely spiny dendrites. 
+
+In the more centrally located neurons, the dendritic arbors have a more ellipsoidal shape. 
+
+The dimensions of these arbors (1200 μm, 600 μm, and 300 μm) are similar across many species—including rat, cat, monkey and human—which is unusual. 
+
+However, the number of neurons increases with brain size as well as the external dimensions of the nucleus. 
+
+The principal neurons are glutamatergic, which give them a particular functional position in the basal ganglia system. 
+
+In humans there are also a small number (about 7.5%) of GABAergic interneurons that participate in the local circuitry; however, the dendritic arbors of subthalamic neurons shy away from the border and primarily interact with one another.The structure of the subthalamic nucleus has not been fully elucidate yet, but it is likely composed of several internal domains. 
+
+The primate subthalamic nucleus is often divided in three internal anatomical-functional domains. 
+
+However, this so called tripartite model has been debated because it does not fully explain the complexity of the subthalamic nucleus in brain function.
+
+
+=== Afferent axons ===
+
+The subthalamic nucleus receives its main input from the external globus pallidus (GPe), not so much through the ansa lenticularis as often said but by radiating fibers crossing the medial pallidum first and the internal capsule (see figure). 
+
+These afferents are GABAergic, inhibiting neurons in the subthalamic nucleus. 
+
+Excitatory, glutamatergic inputs come from the cerebral cortex (particularly the motor cortex), and from the pars parafascicularis of the central complex. 
+
+The subthalamic nucleus also receives neuromodulatory inputs, notably dopaminergic axons from the substantia nigra pars compacta.
+It also receives inputs from the pedunculopontine nucleus.
+
+
+=== Efferent targets ===
+
+The axons of subthalamic nucleus neurons leave the nucleus dorsally. 
+
+The efferent axons are glutamatergic (excitatory). 
+
+Except for the connection to the striatum (17.3% in macaques), most of the subthalamic principal neurons are multitargets and directed to the other elements of the core of the basal ganglia. 
+
+Some send axons to the substantia nigra medially and to the medial and lateral nuclei of the pallidum laterally (3-target, 21.3%). 
+
+Some are 2-target with the lateral pallidum and the substantia nigra (2.7%) or the lateral pallidum and the medial (48%). 
+
+Less are single target for the lateral pallidum. 
+
+In the pallidum, subthalamic terminals end in bands parallel to the pallidal border. 
+
+When all axons reaching this target are added, the main efference of the subthalamic nucleus is, in 82.7% of the cases, clearly the internal globus pallidus (GPi).
+Some researchers have reported internal axon collaterals. 
+
+However, there is little functional evidence for this.
+
+
+== Physiology ==
+
+
+
+=== Subthalamic nucleus ===
+
+The first intracellular electrical recordings of subthalamic neurons were performed using sharp electrodes in a rat slice preparation. 
+
+In these recordings three key observations were made, all three of which have dominated subsequent reports of subthalamic firing properties. 
+
+The first observation was that, in the absence of current injection or synaptic stimulation, the majority of cells were spontaneously firing. 
+
+The second observation is that these cells are capable of transiently firing at very high frequencies.  The third observation concerns non-linear behaviors when cells are transiently depolarized after being hyperpolarized below –65mV. 
+
+They are then able to engage voltage-gated calcium and sodium currents to fire bursts of action potentials.
+Several recent studies have focused on the autonomous pacemaking ability of subthalamic neurons. 
+
+These cells are often referred to as "fast-spiking pacemakers", since they can generate spontaneous action potentials at rates of 80 to 90 Hz in primates.
+Oscillatory and synchronous activity is likely to be a typical pattern of discharge in subthalamic neurons recorded from patients and animal models characterized by the loss of dopaminergic cells in the substantia nigra pars compacta, which is the principal pathology that underlies Parkinson's disease.
+
+
+=== Lateropallido-subthalamic system ===
+
+Strong reciprocal connections link the subthalamic nucleus and the external segment of the globus pallidus. 
+
+Both are fast-spiking pacemakers. 
+
+Together, they are thought to constitute the "central pacemaker of the basal ganglia" with synchronous bursts.
+The connection of the lateral pallidum with the subthalamic nucleus is also the one in the basal ganglia system where the reduction between emitter/receiving elements is likely the strongest. 
+
+In terms of volume, in humans, the lateral pallidum measures 808 mm³, the subthalamic nucleus only 158 mm³. 
+
+This translated in numbers of neurons represents a strong compression with loss of map precision.
+Some axons from the lateral pallidum go to the striatum. 
+
+The activity of the medial pallidum is influenced by afferences from the lateral pallidum and from the subthalamic nucleus. 
+
+The same for the substantia nigra pars reticulata. 
+
+The subthalamic nucleus sends axons to another regulator: the pedunculo-pontine complex (id).
+The lateropallido-subthalamic system is thought to play a key role in the generation of the patterns of activity seen in Parkinson's disease.
+
+
+== Pathophysiology ==
+
+Chronic stimulation of the STN, called deep brain stimulation (DBS), is used to treat patients with Parkinson disease. 
+
+The first to be stimulated are the terminal arborisations of afferent axons, which modify the activity of subthalamic neurons. 
+
+However, it has been shown in thalamic slices from mice, that the stimulus also causes nearby astrocytes to release adenosine triphosphate (ATP), a precursor to adenosine (through a catabolic process). 
+
+In turn, adenosine A1 receptor activation depresses excitatory transmission in the thalamus, thus mimicking ablation of the subthalamic nucleus.
+Unilateral destruction or disruption of the subthalamic nucleus — which can commonly occur via a small vessel stroke in patients with diabetes, hypertension, or a history of smoking – produces hemiballismus.
+As one of the STN's suspected functions is in impulse control, dysfunction in this region has been implicated in obsessive–compulsive disorder. 
+
+Artificially stimulating the STN has shown some promise in correcting severe impulsive behavior and may later be used as an alternative treatment for the disorder.
+
+
+== Function ==
+
+The function of the STN is unknown, but current theories place it as a component of the basal ganglia control system that may perform action selection. 
+
+It is thought to implement the so-called "hyperdirect pathway" of motor control, contrasting with the direct and indirect pathways implemented elsewhere in the basal ganglia. 
+
+STN dysfunction has also been shown to increase impulsivity in individuals presented with two equally rewarding stimuli.Research has suggested that the subthalamus is an extrapyramidal center. 
+
+It holds muscular responses in check, and damage may result in hemiballism (a violent flinging of the arm and leg on one side of the body).The physiological role of the STN has been for long hidden by its pathological role. 
+
+But lately, the research on the physiology of the STN lead to the discovery that the STN is required to achieve intended movement, including locomotion, balance and motor coordination. 
+
+It is indeed involved in stopping or interrupting on-going motor tasks. 
+
+Moreover, STN excitation was generally correlated with significant reduction in locomotor activity, while in contrast, STN inhibition enhanced locomotion.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Subthalamic_nucleus
+;;;ES;;;
+
+
+
+NÚCLEO SUBTALÁMICO
+
+
+El núcleo subtalámico es un pequeño núcleo en forma de lente en el cerebro donde es, desde un punto de vista funcional, parte del sistema de ganglios basales.
+
+En términos de anatomía, es la parte principal del subtálamo.
+
+Como sugiere su nombre, el núcleo subtalámico se encuentra ventral al tálamo.
+
+También es dorsal a la sustancia negra y medial a la cápsula interna.
+
+Fue descrito por primera vez por Jules Bernard Luys en 1865, y todavía se usa a veces el término corpus Luysi o cuerpo de Luys.
+
+
+== Anatomía ==
+
+
+
+=== Estructura ===
+
+El principal tipo de neurona que se encuentra en el núcleo subtalámico tiene dendritas bastante largas y escasamente espinosas.
+
+En las neuronas ubicadas más centralmente, los árboles dendríticos tienen una forma más elipsoidal.
+
+Las dimensiones de estos cenadores (1200 μm, 600 μm y 300 μm) son similares en muchas especies, incluidas ratas, gatos, monos y humanos, lo cual es inusual.
+
+Sin embargo, el número de neuronas aumenta con el tamaño del cerebro, así como con las dimensiones externas del núcleo.
+
+Las principales neuronas son glutamatérgicas, lo que les otorga una posición funcional particular en el sistema de ganglios basales.
+
+En los seres humanos también hay un pequeño número (alrededor del 7,5 %) de interneuronas GABAérgicas que participan en el circuito local; sin embargo, los árboles dendríticos de las neuronas subtalámicas se alejan del borde y principalmente interactúan entre sí. La estructura del núcleo subtalámico aún no se ha dilucidado por completo, pero es probable que esté compuesto por varios dominios internos.
+
+El núcleo subtalámico de los primates a menudo se divide en tres dominios anatómico-funcionales internos.
+
+Sin embargo, este llamado modelo tripartito ha sido debatido porque no explica completamente la complejidad del núcleo subtalámico en la función cerebral.
+
+
+=== Axones aferentes ===
+
+El núcleo subtalámico recibe su entrada principal del globo pálido externo (GPe), no tanto a través del asa lenticular como se dice a menudo, sino mediante fibras radiantes que cruzan primero el pálido medial y la cápsula interna (ver figura).
+
+Estos aferentes son GABAérgicos, inhibiendo las neuronas en el núcleo subtalámico.
+
+Las entradas glutamatérgicas excitatorias provienen de la corteza cerebral (particularmente de la corteza motora) y de la pars parafascicularis del complejo central.
+
+El núcleo subtalámico también recibe entradas neuromoduladoras, en particular axones dopaminérgicos de la sustancia negra pars compacta.
+También recibe entradas del núcleo pedunculopontino.
+
+
+=== Objetivos eferentes ===
+
+Los axones de las neuronas del núcleo subtalámico salen del núcleo dorsalmente.
+
+Los axones eferentes son glutamatérgicos (excitadores).
+
+Excepto por la conexión con el cuerpo estriado (17,3% en macacos), la mayoría de las neuronas subtalámicas principales son multidiana y se dirigen a los demás elementos del núcleo de los ganglios basales.
+
+Algunos envían axones a la sustancia negra medialmente y a los núcleos medial y lateral del pallidum lateralmente (3-diana, 21,3%).
+
+Algunos son de 2 dianas con el pallidum lateral y la sustancia negra (2,7%) o el pallidum lateral y el medial (48%).
+
+Menos son un solo objetivo para el pallidum lateral.
+
+En el pálido, las terminales subtalámicas terminan en bandas paralelas al borde pálido.
+
+Cuando se suman todos los axones que llegan a esta diana, la principal eferencia del núcleo subtalámico es, en el 82,7% de los casos, claramente el globo pálido interno (GPi).
+Algunos investigadores han informado colaterales de axones internos.
+
+Sin embargo, hay poca evidencia funcional para esto.
+
+
+== Fisiología ==
+
+
+
+=== Núcleo subtalámico ===
+
+Los primeros registros eléctricos intracelulares de las neuronas subtalámicas se realizaron utilizando electrodos afilados en una preparación de rebanadas de rata.
+
+En estas grabaciones se hicieron tres observaciones clave, las cuales han dominado los informes posteriores de las propiedades de activación subtalámica.
+
+La primera observación fue que, en ausencia de inyección de corriente o estimulación sináptica, la mayoría de las células disparaban espontáneamente.
+
+La segunda observación es que estas células son capaces de disparar transitoriamente a frecuencias muy altas. La tercera observación se refiere a los comportamientos no lineales cuando las células se despolarizan transitoriamente después de hiperpolarizarse por debajo de –65 mV.
+
+Luego pueden activar corrientes de calcio y sodio dependientes de voltaje para disparar ráfagas de potenciales de acción.
+Varios estudios recientes se han centrado en la capacidad autónoma de marcapasos de las neuronas subtalámicas.
+
+Estas células a menudo se denominan "marcapasos rápidos", ya que pueden generar potenciales de acción espontáneos a velocidades de 80 a 90 Hz en primates.
+Es probable que la actividad oscilatoria y sincrónica sea un patrón típico de descarga en las neuronas subtalámicas registradas en pacientes y modelos animales caracterizados por la pérdida de células dopaminérgicas en la sustancia negra pars compacta, que es la patología principal que subyace a la enfermedad de Parkinson.
+
+
+=== Sistema lateropalido-subtalámico ===
+
+Fuertes conexiones recíprocas unen el núcleo subtalámico y el segmento externo del globo pálido.
+
+Ambos son marcapasos rápidos.
+
+Juntos, se cree que constituyen el "marcapasos central de los ganglios basales" con ráfagas sincrónicas.
+La conexión del pallidum lateral con el núcleo subtalámico es también la del sistema de ganglios basales donde la reducción entre elementos emisores/receptores es probablemente la más fuerte.
+
+En términos de volumen, en humanos, el pallidum lateral mide 808 mm³, el núcleo subtalámico solo 158 mm³.
+
+Esto traducido en número de neuronas representa una fuerte compresión con pérdida de precisión del mapa.
+Algunos axones del pallidum lateral van al cuerpo estriado.
+
+La actividad del pallidum medial está influida por las aferencias del pallidum lateral y del núcleo subtalámico.
+
+Lo mismo para la sustancia negra pars reticulata.
+
+El núcleo subtalámico envía axones a otro regulador: el complejo pedúnculo-pontino (id).
+Se cree que el sistema lateropalido-subtalámico desempeña un papel clave en la generación de los patrones de actividad observados en la enfermedad de Parkinson.
+
+
+== Fisiopatología ==
+
+La estimulación crónica del STN, llamada estimulación cerebral profunda (DBS, por sus siglas en inglés), se usa para tratar a pacientes con enfermedad de Parkinson.
+
+Las primeras en ser estimuladas son las arborizaciones terminales de los axones aferentes, que modifican la actividad de las neuronas subtalámicas.
+
+Sin embargo, se ha demostrado en cortes talámicos de ratones que el estímulo también hace que los astrocitos cercanos liberen trifosfato de adenosina (ATP), un precursor de la adenosina (a través de un proceso catabólico).
+
+A su vez, la activación del receptor de adenosina A1 deprime la transmisión excitatoria en el tálamo, imitando así la ablación del núcleo subtalámico.
+La destrucción o ruptura unilateral del núcleo subtalámico, que comúnmente puede ocurrir a través de un accidente cerebrovascular de vaso pequeño en pacientes con diabetes, hipertensión o antecedentes de tabaquismo, produce hemibalismo.
+Como una de las funciones sospechosas del STN es el control de los impulsos, la disfunción en esta región se ha implicado en el trastorno obsesivo-compulsivo.
+
+La estimulación artificial del STN se ha mostrado prometedora en la corrección del comportamiento impulsivo grave y puede usarse más tarde como un tratamiento alternativo para el trastorno.
+
+
+== Función ==
+
+Se desconoce la función del STN, pero las teorías actuales lo ubican como un componente del sistema de control de los ganglios basales que puede realizar la selección de acciones.
+
+Se cree que implementa la llamada "vía hiperdirecta" de control motor, en contraste con las vías directas e indirectas implementadas en otras partes de los ganglios basales.
+
+También se ha demostrado que la disfunción del STN aumenta la impulsividad en individuos a los que se les presentan dos estímulos igualmente gratificantes. Las investigaciones han sugerido que el subtálamo es un centro extrapiramidal.
+
+Controla las respuestas musculares, y el daño puede resultar en hemibalismo (un movimiento violento del brazo y la pierna hacia un lado del cuerpo). El papel fisiológico del STN ha estado oculto durante mucho tiempo por su papel patológico.
+
+Pero últimamente, la investigación sobre la fisiología del STN condujo al descubrimiento de que el STN es necesario para lograr el movimiento deseado, incluida la locomoción, el equilibrio y la coordinación motora.
+
+De hecho, está involucrado en detener o interrumpir las tareas motoras en curso.
+
+Además, la excitación de STN generalmente se correlacionó con una reducción significativa en la actividad locomotora, mientras que, por el contrario, la inhibición de STN mejoró la locomoción.
+
+
+== Referencias ==
+
+
+
+
+https://en.wikipedia.org/wiki/Subthalamic_nucleus
+
+;;;PT;;;
+
+
+
+NÚCLEO SUBTALÂMICO
+
+
+O núcleo subtalâmico é um pequeno núcleo em forma de lente no cérebro onde é, do ponto de vista funcional, parte do sistema dos gânglios da base.
+
+Em termos de anatomia, é a maior parte do subtálamo.
+
+Como o próprio nome sugere, o núcleo subtalâmico está localizado ventralmente ao tálamo.
+
+Também é dorsal à substância negra e medial à cápsula interna.
+
+Foi descrito pela primeira vez por Jules Bernard Luys em 1865, e o termo corpus Luysi ou corpo de Luys ainda é usado às vezes.
+
+
+== Anatomia ==
+
+
+
+=== Estrutura ===
+
+O principal tipo de neurônio encontrado no núcleo subtalâmico tem dendritos bastante longos e esparsamente espinhosos.
+
+Nos neurônios localizados mais centralmente, os mandris dendríticos têm uma forma mais elipsoidal.
+
+As dimensões desses mandris (1200 μm, 600 μm e 300 μm) são semelhantes em muitas espécies - incluindo rato, gato, macaco e humano - o que é incomum.
+
+No entanto, o número de neurônios aumenta com o tamanho do cérebro, bem como as dimensões externas do núcleo.
+
+Os principais neurônios são glutamatérgicos, o que lhes confere uma posição funcional particular no sistema dos gânglios da base.
+
+Em humanos há também um pequeno número (cerca de 7,5%) de interneurônios GABAérgicos que participam do circuito local; no entanto, os eixos dendríticos dos neurônios subtalâmicos se afastam da fronteira e interagem principalmente uns com os outros. A estrutura do núcleo subtalâmico ainda não foi totalmente elucidada, mas provavelmente é composta de vários domínios internos.
+
+O núcleo subtalâmico primata é frequentemente dividido em três domínios anatômico-funcionais internos.
+
+No entanto, este chamado modelo tripartido tem sido debatido porque não explica totalmente a complexidade do núcleo subtalâmico na função cerebral.
+
+
+=== Axônios aferentes ===
+
+O núcleo subtalâmico recebe sua entrada principal do globo pálido externo (GPe), não tanto através da alça lenticular como muitas vezes dito, mas por fibras radiantes que cruzam primeiro o pálido medial e a cápsula interna (veja a figura).
+
+Esses aferentes são GABAérgicos, inibindo neurônios no núcleo subtalâmico.
+
+As entradas excitatórias e glutamatérgicas provêm do córtex cerebral (particularmente do córtex motor) e da pars parafascicularis do complexo central.
+
+O núcleo subtalâmico também recebe estímulos neuromodulatórios, notadamente axônios dopaminérgicos da substância negra pars compacta.
+Também recebe entradas do núcleo pedunculopontino.
+
+
+=== Alvos eferentes ===
+
+Os axônios dos neurônios do núcleo subtalâmico deixam o núcleo dorsalmente.
+
+Os axônios eferentes são glutamatérgicos (excitatórios).
+
+Com exceção da conexão com o estriado (17,3% em macacos), a maioria dos neurônios principais subtalâmicos são multialvos e direcionados para os demais elementos do núcleo dos gânglios da base.
+
+Alguns enviam axônios para a substância negra medialmente e para os núcleos medial e lateral do pálido lateralmente (3-alvo, 21,3%).
+
+Alguns são de 2 alvos com o pálido lateral e a substância negra (2,7%) ou o pálido lateral e o medial (48%).
+
+Menos são alvo único para o pálido lateral.
+
+No pálido, os terminais subtalâmicos terminam em faixas paralelas à borda pálida.
+
+Quando somados todos os axônios que atingem esse alvo, a principal eferência do núcleo subtalâmico é, em 82,7% dos casos, claramente o globo pálido interno (GPi).
+Alguns pesquisadores relataram colaterais de axônios internos.
+
+No entanto, há pouca evidência funcional para isso.
+
+
+== Fisiologia ==
+
+
+
+=== Núcleo subtalâmico ===
+
+As primeiras gravações elétricas intracelulares de neurônios subtalâmicos foram realizadas usando eletrodos afiados em uma preparação de fatia de rato.
+
+Nestas gravações foram feitas três observações-chave, todas as três que dominaram os relatórios subsequentes de propriedades de disparo subtalâmico.
+
+A primeira observação foi que, na ausência de injeção de corrente ou estimulação sináptica, a maioria das células estava disparando espontaneamente.
+
+A segunda observação é que essas células são capazes de disparar transientemente em frequências muito altas. A terceira observação diz respeito a comportamentos não lineares quando as células são transitoriamente despolarizadas após serem hiperpolarizadas abaixo de –65mV.
+
+Eles são então capazes de acionar correntes de cálcio e sódio dependentes de voltagem para disparar rajadas de potenciais de ação.
+Vários estudos recentes se concentraram na capacidade autônoma de marcapasso dos neurônios subtalâmicos.
+
+Estas células são muitas vezes referidas como "marcapassos rápidos", uma vez que podem gerar potenciais de ação espontâneos a taxas de 80 a 90 Hz em primatas.
+A atividade oscilatória e síncrona provavelmente é um padrão típico de descarga em neurônios subtalâmicos registrados em pacientes e modelos animais caracterizados pela perda de células dopaminérgicas na substância negra pars compacta, que é a principal patologia subjacente à doença de Parkinson.
+
+
+=== Sistema láteropalido-subtalâmico ===
+
+Fortes conexões recíprocas ligam o núcleo subtalâmico e o segmento externo do globo pálido.
+
+Ambos são marcapassos rápidos.
+
+Juntos, eles são pensados ​​para constituir o "marcapasso central dos gânglios da base" com rajadas síncronas.
+A conexão do pálido lateral com o núcleo subtalâmico também é aquela no sistema dos gânglios da base, onde a redução entre os elementos emissor/receptor é provavelmente a mais forte.
+
+Em termos de volume, em humanos, o pálido lateral mede 808 mm³, o núcleo subtalâmico apenas 158 mm³.
+
+Isso traduzido em números de neurônios representa uma forte compressão com perda de precisão do mapa.
+Alguns axônios do pálido lateral vão para o corpo estriado.
+
+A atividade do pálido medial é influenciada por aferências do pálido lateral e do núcleo subtalâmico.
+
+O mesmo para a substância negra pars reticulata.
+
+O núcleo subtalâmico envia axônios para outro regulador: o complexo pedúnculo-pontino (id).
+Acredita-se que o sistema lateropalido-subtalâmico desempenhe um papel fundamental na geração dos padrões de atividade observados na doença de Parkinson.
+
+
+== Fisiopatologia ==
+
+A estimulação crônica do STN, chamada estimulação cerebral profunda (DBS), é usada para tratar pacientes com doença de Parkinson.
+
+As primeiras a serem estimuladas são as arborizações terminais dos axônios aferentes, que modificam a atividade dos neurônios subtalâmicos.
+
+No entanto, foi demonstrado em fatias talâmicas de camundongos que o estímulo também faz com que os astrócitos próximos liberem trifosfato de adenosina (ATP), um precursor da adenosina (através de um processo catabólico).
+
+Por sua vez, a ativação do receptor de adenosina A1 deprime a transmissão excitatória no tálamo, mimetizando assim a ablação do núcleo subtalâmico.
+Destruição unilateral ou ruptura do núcleo subtalâmico – que comumente pode ocorrer através de um acidente vascular cerebral de pequenos vasos em pacientes com diabetes, hipertensão ou histórico de tabagismo – produz hemibalismo.
+Como uma das funções suspeitas do STN está no controle dos impulsos, a disfunção nessa região tem sido implicada no transtorno obsessivo-compulsivo.
+
+A estimulação artificial do STN tem se mostrado promissora na correção de comportamentos impulsivos graves e pode mais tarde ser usada como tratamento alternativo para o transtorno.
+
+
+== Função ==
+
+A função do STN é desconhecida, mas as teorias atuais o colocam como um componente do sistema de controle dos gânglios da base que pode realizar a seleção de ações.
+
+Acredita-se que implemente a chamada "via hiperdireta" de controle motor, contrastando com as vias diretas e indiretas implementadas em outras partes dos gânglios da base.
+
+A disfunção do NST também demonstrou aumentar a impulsividade em indivíduos apresentados com dois estímulos igualmente recompensadores. Pesquisas sugeriram que o subtálamo é um centro extrapiramidal.
+
+Ele mantém as respostas musculares sob controle, e o dano pode resultar em hemibalismo (um arremesso violento do braço e da perna de um lado do corpo). O papel fisiológico do STN foi por muito tempo oculto por seu papel patológico.
+
+Mas ultimamente, a pesquisa sobre a fisiologia do STN levou à descoberta de que o STN é necessário para alcançar o movimento pretendido, incluindo locomoção, equilíbrio e coordenação motora.
+
+De fato, está envolvido em parar ou interromper tarefas motoras em andamento.
+
+Além disso, a excitação do STN foi geralmente correlacionada com uma redução significativa na atividade locomotora, enquanto, em contraste, a inibição do STN aumentou a locomoção.
+
+
+== Referências ==
+
+
+
+
+https://en.wikipedia.org/wiki/Subthalamic_nucleus
+
+;;;FR;;;
+
+
+
+NOYAU SOUS-THALAMIQUE
+
+
+Le noyau sous-thalamique est un petit noyau en forme de lentille dans le cerveau où il fait, d'un point de vue fonctionnel, partie du système des ganglions de la base.
+
+En termes d'anatomie, c'est la majeure partie du sous-thalamus.
+
+Comme son nom l'indique, le noyau sous-thalamique est situé ventral par rapport au thalamus.
+
+Il est également dorsal à la substantia nigra et médial à la capsule interne.
+
+Il a été décrit pour la première fois par Jules Bernard Luys en 1865, et le terme corpus Luysi ou corps de Luys est encore parfois utilisé.
+
+
+== Anatomie ==
+
+
+
+=== Structure ===
+
+Le principal type de neurone trouvé dans le noyau sous-thalamique a des dendrites plutôt longues et peu épineuses.
+
+Dans les neurones situés plus au centre, les tonnelles dendritiques ont une forme plus ellipsoïdale.
+
+Les dimensions de ces tonnelles (1200 μm, 600 μm et 300 μm) sont similaires pour de nombreuses espèces, notamment le rat, le chat, le singe et l'homme, ce qui est inhabituel.
+
+Cependant, le nombre de neurones augmente avec la taille du cerveau ainsi que les dimensions externes du noyau.
+
+Les principaux neurones sont glutamatergiques, ce qui leur confère une position fonctionnelle particulière dans le système des ganglions de la base.
+
+Chez l'homme, il existe également un petit nombre (environ 7,5%) d'interneurones GABAergiques qui participent aux circuits locaux; cependant, les tonnelles dendritiques des neurones sous-thalamiques s'éloignent de la frontière et interagissent principalement les unes avec les autres. La structure du noyau sous-thalamique n'a pas encore été entièrement élucidée, mais elle est probablement composée de plusieurs domaines internes.
+
+Le noyau sous-thalamique des primates est souvent divisé en trois domaines anatomo-fonctionnels internes.
+
+Cependant, ce modèle dit tripartite a été débattu car il n'explique pas entièrement la complexité du noyau sous-thalamique dans le fonctionnement cérébral.
+
+
+=== Axones afférents ===
+
+Le noyau sous-thalamique reçoit son apport principal du globus pallidus externe (GPe), non pas tant par l'ansa lenticularis comme on le dit souvent, mais par des fibres rayonnantes traversant d'abord le pallidum médial et la capsule interne (voir figure).
+
+Ces afférences sont GABAergiques, inhibant les neurones du noyau sous-thalamique.
+
+Les entrées excitatrices et glutamatergiques proviennent du cortex cérébral (en particulier du cortex moteur) et de la pars parafascicularis du complexe central.
+
+Le noyau sous-thalamique reçoit également des apports neuromodulateurs, notamment des axones dopaminergiques de la substantia nigra pars compacta.
+Il reçoit également des entrées du noyau pédonculopontin.
+
+
+=== Cibles efférentes ===
+
+Les axones des neurones du noyau sous-thalamique quittent le noyau dorsalement.
+
+Les axones efférents sont glutamatergiques (excitateurs).
+
+Hormis la connexion au striatum (17,3 % chez le macaque), la plupart des neurones principaux sous-thalamiques sont multicibles et dirigés vers les autres éléments du noyau des ganglions de la base.
+
+Certains envoient des axones vers la substantia nigra médialement et vers les noyaux médial et latéral du pallidum latéralement (3 cibles, 21,3 %).
+
+Certains sont à 2 cibles avec le pallidum latéral et la substantia nigra (2,7 %) ou le pallidum latéral et le médial (48 %).
+
+Moins sont une seule cible pour le pallidum latéral.
+
+Dans le pallidum, les terminaux sous-thalamiques se terminent par des bandes parallèles au bord pallidal.
+
+Lorsque tous les axones atteignant cette cible sont additionnés, l'efférence principale du noyau sous-thalamique est, dans 82,7 % des cas, clairement le globus pallidus interne (GPi).
+Certains chercheurs ont signalé des collatéraux axonaux internes.
+
+Cependant, il y a peu de preuves fonctionnelles pour cela.
+
+
+== Physiologie ==
+
+
+
+=== Noyau sous-thalamique ===
+
+Les premiers enregistrements électriques intracellulaires de neurones sous-thalamiques ont été réalisés à l'aide d'électrodes pointues dans une préparation de tranche de rat.
+
+Dans ces enregistrements, trois observations clés ont été faites, toutes trois ayant dominé les rapports ultérieurs sur les propriétés de tir sous-thalamiques.
+
+La première observation était qu'en l'absence d'injection de courant ou de stimulation synaptique, la majorité des cellules s'activaient spontanément.
+
+La deuxième observation est que ces cellules sont capables de s'allumer de manière transitoire à de très hautes fréquences. La troisième observation concerne les comportements non linéaires lorsque les cellules sont transitoirement dépolarisées après avoir été hyperpolarisées en dessous de -65 mV.
+
+Ils sont alors capables d'engager des courants de calcium et de sodium voltage-dépendants pour déclencher des rafales de potentiels d'action.
+Plusieurs études récentes se sont concentrées sur la capacité de stimulation autonome des neurones sous-thalamiques.
+
+Ces cellules sont souvent appelées "pacemakers à pointes rapides", car elles peuvent générer des potentiels d'action spontanés à des fréquences de 80 à 90 Hz chez les primates.
+L'activité oscillatoire et synchrone est susceptible d'être un modèle typique de décharge dans les neurones sous-thalamiques enregistrés chez des patients et des modèles animaux caractérisés par la perte de cellules dopaminergiques dans la substantia nigra pars compacta, qui est la principale pathologie sous-jacente à la maladie de Parkinson.
+
+
+=== Système latéro-paldo-sous-thalamique ===
+
+De fortes connexions réciproques relient le noyau sous-thalamique et le segment externe du globus pallidus.
+
+Les deux sont des stimulateurs cardiaques rapides.
+
+Ensemble, on pense qu'ils constituent le "pacemaker central des ganglions de la base" avec des bouffées synchrones.
+La connexion du pallidum latéral avec le noyau sous-thalamique est également celle du système des ganglions de la base où la réduction entre les éléments émetteurs/récepteurs est probablement la plus forte.
+
+En volume, chez l'homme, le pallidum latéral mesure 808 mm³, le noyau sous-thalamique seulement 158 ​​mm³.
+
+Ceci traduit en nombre de neurones représente une forte compression avec perte de précision de la carte.
+Certains axones du pallidum latéral vont au striatum.
+
+L'activité du pallidum médial est influencée par les afférences du pallidum latéral et du noyau sous-thalamique.
+
+Idem pour la substantia nigra pars reticulata.
+
+Le noyau sous-thalamique envoie des axones vers un autre régulateur : le complexe pédonculo-pontin (id).
+On pense que le système latéro-allido-sous-thalamique joue un rôle clé dans la génération des schémas d'activité observés dans la maladie de Parkinson.
+
+
+== Physiopathologie ==
+
+La stimulation chronique du STN, appelée stimulation cérébrale profonde (DBS), est utilisée pour traiter les patients atteints de la maladie de Parkinson.
+
+Les premières stimulées sont les arborisations terminales des axones afférents, qui modifient l'activité des neurones sous-thalamiques.
+
+Cependant, il a été démontré dans des tranches thalamiques de souris que le stimulus provoque également la libération d'adénosine triphosphate (ATP) par les astrocytes voisins, un précurseur de l'adénosine (par un processus catabolique).
+
+À son tour, l'activation des récepteurs de l'adénosine A1 déprime la transmission excitatrice dans le thalamus, imitant ainsi l'ablation du noyau sous-thalamique.
+La destruction ou la perturbation unilatérale du noyau sous-thalamique - qui peut généralement se produire par un petit accident vasculaire cérébral chez les patients atteints de diabète, d'hypertension ou d'antécédents de tabagisme - produit un hémiballisme.
+Comme l'une des fonctions suspectées du STN est le contrôle des impulsions, un dysfonctionnement de cette région a été impliqué dans le trouble obsessionnel-compulsif.
+
+La stimulation artificielle du STN s'est révélée prometteuse pour corriger un comportement impulsif sévère et pourrait ultérieurement être utilisée comme traitement alternatif du trouble.
+
+
+== Fonction ==
+
+La fonction du STN est inconnue, mais les théories actuelles le placent comme un composant du système de contrôle des ganglions de la base qui peut effectuer une sélection d'action.
+
+On pense qu'il met en œuvre la soi-disant «voie hyperdirecte» du contrôle moteur, contrastant avec les voies directes et indirectes mises en œuvre ailleurs dans les ganglions de la base.
+
+Il a également été démontré que le dysfonctionnement du STN augmente l'impulsivité chez les individus présentés avec deux stimuli également gratifiants. La recherche a suggéré que le sous-thalamus est un centre extrapyramidal.
+
+Il contrôle les réponses musculaires et les lésions peuvent entraîner un hémiballisme (balayage violent du bras et de la jambe d'un côté du corps). Le rôle physiologique du NST a longtemps été masqué par son rôle pathologique.
+
+Mais dernièrement, la recherche sur la physiologie du STN a conduit à la découverte que le STN est nécessaire pour réaliser le mouvement prévu, y compris la locomotion, l'équilibre et la coordination motrice.
+
+Il intervient en effet dans l'arrêt ou l'interruption des tâches motrices en cours.
+
+De plus, l'excitation du STN était généralement corrélée à une réduction significative de l'activité locomotrice, alors qu'en revanche, l'inhibition du STN augmentait la locomotion.
+
+
+== Références ==
+
+
+
+
+https://en.wikipedia.org/wiki/Subthalamic_nucleus

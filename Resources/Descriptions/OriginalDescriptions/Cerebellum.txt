@@ -1,0 +1,658 @@
+
+
+CEREBELLUM
+
+
+The cerebellum (Latin for "little brain") is a major feature of the hindbrain of all vertebrates. 
+
+Although usually smaller than the cerebrum, in some animals such as the mormyrid fishes it may be as large as or even larger. 
+
+In humans, the cerebellum plays an important role in motor control. 
+
+It may also be involved in some cognitive functions such as attention and language as well as emotional control such as regulating fear and pleasure responses, but its movement-related functions are the most solidly established. 
+
+The human cerebellum does not initiate movement, but contributes to coordination, precision, and accurate timing: it receives input from sensory systems of the spinal cord and from other parts of the brain, and integrates these inputs to fine-tune motor activity. 
+
+Cerebellar damage produces disorders in fine movement, equilibrium, posture, and motor learning in humans.Anatomically, the human cerebellum has the appearance of a separate structure attached to the bottom of the brain, tucked underneath the cerebral hemispheres. 
+
+Its cortical surface is covered with finely spaced parallel grooves, in striking contrast to the broad irregular convolutions of the cerebral cortex. 
+
+These parallel grooves conceal the fact that the cerebellar cortex is actually a continuous thin layer of tissue tightly folded in the style of an accordion. 
+
+Within this thin layer are several types of neurons with a highly regular arrangement, the most important being Purkinje cells and granule cells. 
+
+This complex neural organization gives rise to a massive signal-processing capability, but almost all of the output from the cerebellar cortex passes through a set of small deep nuclei lying in the white matter interior of the cerebellum.In addition to its direct role in motor control, the cerebellum is necessary for several types of motor learning, most notably learning to adjust to changes in sensorimotor relationships. 
+
+Several theoretical models have been developed to explain sensorimotor calibration in terms of synaptic plasticity within the cerebellum. 
+
+These models derive from those formulated by David Marr and James Albus, based on the observation that each cerebellar Purkinje cell receives two dramatically different types of input: one comprises thousands of weak inputs from the parallel fibers of the granule cells; the other is an extremely strong input from a single climbing fiber. 
+
+The basic concept of the Marr–Albus theory is that the climbing fiber serves as a "teaching signal", which induces a long-lasting change in the strength of parallel fiber inputs. 
+
+Observations of long-term depression in parallel fiber inputs have provided some support for theories of this type, but their validity remains controversial.
+
+
+== Structure ==
+
+
+At the level of gross anatomy, the cerebellum consists of a tightly folded layer of cortex, with white matter underneath and a fluid-filled ventricle at the base. 
+
+Four deep cerebellar nuclei are embedded in the white matter. 
+
+Each part of the cortex consists of the same small set of neuronal elements, laid out in a highly stereotyped geometry. 
+
+At an intermediate level, the cerebellum and its auxiliary structures can be separated into several hundred or thousand independently functioning modules called "microzones" or "microcompartments".
+
+
+=== Gross anatomy ===
+
+
+The cerebellum is located in the posterior cranial fossa. 
+
+The fourth ventricle, pons and medulla are in front of the cerebellum. 
+
+It is separated from the overlying cerebrum by a layer of leathery dura mater, the tentorium cerebelli; all of its connections with other parts of the brain travel through the pons. 
+
+Anatomists classify the cerebellum as part of the metencephalon, which also includes the pons; the metencephalon is the upper part of the rhombencephalon or "hindbrain". 
+
+Like the cerebral cortex, the cerebellum is divided into two cerebellar hemispheres; it also contains a narrow midline zone (the vermis). 
+
+A set of large folds is, by convention, used to divide the overall structure into 10 smaller "lobules". 
+
+Because of its large number of tiny granule cells, the cerebellum contains more neurons than the total from the rest of the brain, but takes up only 10% of the total brain volume. 
+
+The number of neurons in the cerebellum is related to the number of neurons in the neocortex. 
+
+There are about 3.6 times as many neurons in the cerebellum as in the neocortex, a ratio that is conserved across many different mammalian species.The unusual surface appearance of the cerebellum conceals the fact that most of its volume is made up of a very tightly folded layer of gray matter: the cerebellar cortex. 
+
+Each ridge or gyrus in this layer is called a folium. 
+
+It is estimated that, if the human cerebellar cortex were completely unfolded, it would give rise to a layer of neural tissue about 1 meter long and averaging 5 centimeters wide—a total surface area of about 500 square cm, packed within a volume of dimensions 6 cm × 5 cm × 10 cm. 
+
+Underneath the gray matter of the cortex lies white matter, made up largely of myelinated nerve fibers running to and from the cortex. 
+
+Embedded within the white matter—which is sometimes called the arbor vitae (tree of life) because of its branched, tree-like appearance in cross-section—are four deep cerebellar nuclei, composed of gray matter.Connecting the cerebellum to different parts of the nervous system are three paired cerebellar peduncles. 
+
+These are the superior cerebellar peduncle, the middle cerebellar peduncle and the inferior cerebellar peduncle, named by their position relative to the vermis. 
+
+The superior cerebellar peduncle is mainly an output to the cerebral cortex, carrying efferent fibers via thalamic nuclei to upper motor neurons in the cerebral cortex. 
+
+The fibers arise from the deep cerebellar nuclei. 
+
+The middle cerebellar peduncle is connected to the pons and receives all of its input from the pons mainly from the pontine nuclei. 
+
+The input to the pons is from the cerebral cortex and is relayed from the pontine nuclei via transverse pontine fibers to the cerebellum. 
+
+The middle peduncle is the largest of the three and its afferent fibers are grouped into three separate fascicles taking their inputs to different parts of the cerebellum. 
+
+The inferior cerebellar peduncle receives input from afferent fibers from the vestibular nuclei, spinal cord and the tegmentum. 
+
+Output from the inferior peduncle is via efferent fibers to the vestibular nuclei and the reticular formation. 
+
+The whole of the cerebellum receives modulatory input from the inferior olivary nucleus via the inferior cerebellar peduncle.
+
+
+==== Subdivisions ====
+
+Based on the surface appearance, three lobes can be distinguished within the cerebellum: the anterior lobe (above the primary fissure), the posterior lobe (below the primary fissure), and the flocculonodular lobe (below the posterior fissure). 
+
+These lobes divide the cerebellum from rostral to caudal (in humans, top to bottom). 
+
+In terms of function, however, there is a more important distinction along the medial-to-lateral dimension. 
+
+Leaving out the flocculonodular lobe, which has distinct connections and functions, the cerebellum can be parsed functionally into a medial sector called the spinocerebellum and a larger lateral sector called the cerebrocerebellum. 
+
+A narrow strip of protruding tissue along the midline is called the cerebellar vermis. (Vermis is Latin for "worm".)The smallest region, the flocculonodular lobe, is often called the vestibulocerebellum. 
+
+It is the oldest part in evolutionary terms (archicerebellum) and participates mainly in balance and spatial orientation; its primary connections are with the vestibular nuclei, although it also receives visual and other sensory input. 
+
+Damage to this region causes disturbances of balance and gait.The medial zone of the anterior and posterior lobes constitutes the spinocerebellum, also known as paleocerebellum. 
+
+This sector of the cerebellum functions mainly to fine-tune body and limb movements. 
+
+It receives proprioceptive input from the dorsal columns of the spinal cord (including the spinocerebellar tract) and from the cranial trigeminal nerve, as well as from visual and auditory systems. 
+
+It sends fibers to deep cerebellar nuclei that, in turn, project to both the cerebral cortex and the brain stem, thus providing modulation of descending motor systems.The lateral zone, which in humans is by far the largest part, constitutes the cerebrocerebellum, also known as neocerebellum. 
+
+It receives input exclusively from the cerebral cortex (especially the parietal lobe) via the pontine nuclei (forming cortico-ponto-cerebellar pathways), and sends output mainly to the ventrolateral thalamus (in turn connected to motor areas of the premotor cortex and primary motor area of the cerebral cortex) and to the red nucleus. 
+
+There is disagreement about the best way to describe the functions of the lateral cerebellum: It is thought to be involved in planning movement that is about to occur, in evaluating sensory information for action, and in a number of purely cognitive functions, such as determining the verb which best fits with a certain noun (as in "sit" for "chair").
+
+
+=== Microanatomy ===
+
+Two types of neuron play dominant roles in the cerebellar circuit: Purkinje cells and granule cells. 
+
+Three types of axons also play dominant roles: mossy fibers and climbing fibers (which enter the cerebellum from outside), and parallel fibers (which are the axons of granule cells). 
+
+There are two main pathways through the cerebellar circuit, originating from mossy fibers and climbing fibers, both eventually terminating in the deep cerebellar nuclei.Mossy fibers project directly to the deep nuclei, but also give rise to the following pathway: mossy fibers → granule cells → parallel fibers → Purkinje cells → deep nuclei. 
+
+Climbing fibers project to Purkinje cells and also send collaterals directly to the deep nuclei. 
+
+The mossy fiber and climbing fiber inputs each carry fiber-specific information; the cerebellum also receives dopaminergic, serotonergic, noradrenergic, and cholinergic inputs that presumably perform global modulation.The cerebellar cortex is divided into three layers. 
+
+At the bottom lies the thick granular layer, densely packed with granule cells, along with interneurons, mainly Golgi cells but also including Lugaro cells and unipolar brush cells. 
+
+In the middle lies the Purkinje layer, a narrow zone that contains the cell bodies of Purkinje cells and Bergmann glial cells. 
+
+At the top lies the molecular layer, which contains the flattened dendritic trees of Purkinje cells, along with the huge array of parallel fibers penetrating the Purkinje cell dendritic trees at right angles. 
+
+This outermost layer of the cerebellar cortex also contains two types of inhibitory interneuron: stellate cells and basket cells. 
+
+Both stellate and basket cells form GABAergic synapses onto Purkinje cell dendrites.
+
+
+==== Molecular layer ====
+The top, outermost layer of the cerebellar cortex is the molecular layer. 
+
+This layer contains the flattened dendritic trees of Purkinje cells, and the huge array of parallel fibers, from the granular layer, that penetrate the Purkinje cell dendritic trees at right angles. 
+
+The molecular layer also contains two types of inhibitory interneuron: stellate cells and basket cells. 
+
+Both stellate and basket cells form GABAergic synapses onto Purkinje cell dendrites.
+
+
+==== Purkinje layer ====
+
+Purkinje cells are among the most distinctive neurons in the brain, and one of the earliest types to be recognized—they were first described by the Czech anatomist Jan Evangelista Purkyně in 1837. 
+
+They are distinguished by the shape of their dendritic tree: The dendrites branch very profusely, but are severely flattened in a plane perpendicular to the cerebellar folds. 
+
+Thus, the dendrites of a Purkinje cell form a dense planar net, through which parallel fibers pass at right angles. 
+
+The dendrites are covered with dendritic spines, each of which receives synaptic input from a parallel fiber. 
+
+Purkinje cells receive more synaptic inputs than any other type of cell in the brain—estimates of the number of spines on a single human Purkinje cell run as high as 200,000. 
+
+The large, spherical cell bodies of Purkinje cells are packed into a narrow layer (one cell thick) of the cerebellar cortex, called the Purkinje layer. 
+
+After emitting collaterals that affect nearby parts of the cortex, their axons travel into the deep cerebellar nuclei, where they make on the order of 1,000 contacts each with several types of nuclear cells, all within a small domain. 
+
+Purkinje cells use GABA as their neurotransmitter, and therefore exert inhibitory effects on their targets.Purkinje cells form the heart of the cerebellar circuit, and their large size and distinctive activity patterns have made it relatively easy to study their response patterns in behaving animals using extracellular recording techniques. 
+
+Purkinje cells normally emit action potentials at a high rate even in the absence of the synaptic input. 
+
+In awake, behaving animals, mean rates averaging around 40 Hz are typical. 
+
+The spike trains show a mixture of what are called simple and complex spikes. 
+
+A simple spike is a single action potential followed by a refractory period of about 10 ms; a complex spike is a stereotyped sequence of action potentials with very short inter-spike intervals and declining amplitudes. 
+
+Physiological studies have shown that complex spikes (which occur at baseline rates around 1 Hz and never at rates much higher than 10 Hz) are reliably associated with climbing fiber activation, while simple spikes are produced by a combination of baseline activity and parallel fiber input. 
+
+Complex spikes are often followed by a pause of several hundred milliseconds during which simple spike activity is suppressed.A specific, recognizable feature of Purkinje neurons is the expression of calbindin. 
+
+Calbindin staining of rat brain after unilateral chronic sciatic nerve injury suggests that Purkinje neurons may be newly generated in the adult brain, initiating the organization of new cerebellar lobules.
+
+
+==== Granular layer ====
+
+Cerebellar granule cells, in contrast to Purkinje cells, are among the smallest neurons in the brain. 
+
+They are also the most numerous neurons in the brain: In humans, estimates of their total number average around 50 billion, which means that about 3/4 of the brain's neurons are cerebellar granule cells. 
+
+Their cell bodies are packed into a thick layer at the bottom of the cerebellar cortex. 
+
+A granule cell emits only four to five dendrites, each of which ends in an enlargement called a dendritic claw. 
+
+These enlargements are sites of excitatory input from mossy fibers and inhibitory input from Golgi cells.The thin, unmyelinated axons of granule cells rise vertically to the upper (molecular) layer of the cortex, where they split in two, with each branch traveling horizontally to form a parallel fiber; the splitting of the vertical branch into two horizontal branches gives rise to a distinctive "T" shape. 
+
+A human parallel fiber runs for an average of 3 mm in each direction from the split, for a total length of about 6 mm (about 1/10 of the total width of the cortical layer). 
+
+As they run along, the parallel fibers pass through the dendritic trees of Purkinje cells, contacting one of every 3–5 that they pass, making a total of 80–100 synaptic connections with Purkinje cell dendritic spines. 
+
+Granule cells use glutamate as their neurotransmitter, and therefore exert excitatory effects on their targets.
+
+Granule cells receive all of their input from mossy fibers, but outnumber them by 200 to 1 (in humans). 
+
+Thus, the information in the granule cell population activity state is the same as the information in the mossy fibers, but recoded in a much more expansive way. 
+
+Because granule cells are so small and so densely packed, it is difficult to record their spike activity in behaving animals, so there is little data to use as a basis for theorizing. 
+
+The most popular concept of their function was proposed in 1969 by David Marr, who suggested that they could encode combinations of mossy fiber inputs. 
+
+The idea is that with each granule cell receiving input from only 4–5 mossy fibers, a granule cell would not respond if only a single one of its inputs were active, but would respond if more than one were active. 
+
+This combinatorial coding scheme would potentially allow the cerebellum to make much finer distinctions between input patterns than the mossy fibers alone would permit.
+
+
+==== Mossy fibers ====
+Mossy fibers enter the granular layer from their points of origin, many arising from the pontine nuclei, others from the spinal cord, vestibular nuclei etc. 
+
+In the human cerebellum, the total number of mossy fibers has been estimated at about 200 million. 
+
+These fibers form excitatory synapses with the granule cells and the cells of the deep cerebellar nuclei. 
+
+Within the granular layer, a mossy fiber generates a series of enlargements called rosettes. 
+
+The contacts between mossy fibers and granule cell dendrites take place within structures called glomeruli. 
+
+Each glomerulus has a mossy fiber rosette at its center, and up to 20 granule cell dendritic claws contacting it. 
+
+Terminals from Golgi cells infiltrate the structure and make inhibitory synapses onto the granule cell dendrites. 
+
+The entire assemblage is surrounded by a sheath of glial cells. 
+
+Each mossy fiber sends collateral branches to several cerebellar folia, generating a total of 20–30 rosettes; thus a single mossy fiber makes contact with an estimated 400–600 granule cells.
+
+
+==== Climbing fibers ====
+Purkinje cells also receive input from the inferior olivary nucleus on the contralateral side of the brainstem via climbing fibers. 
+
+Although the inferior olive lies in the medulla oblongata and receives input from the spinal cord, brainstem and cerebral cortex, its output goes entirely to the cerebellum. 
+
+A climbing fiber gives off collaterals to the deep cerebellar nuclei before entering the cerebellar cortex, where it splits into about 10 terminal branches, each of which gives input to a single Purkinje cell. 
+
+In striking contrast to the 100,000-plus inputs from parallel fibers, each Purkinje cell receives input from exactly one climbing fiber; but this single fiber "climbs" the dendrites of the Purkinje cell, winding around them and making a total of up to 300 synapses as it goes. 
+
+The net input is so strong that a single action potential from a climbing fiber is capable of producing an extended complex spike in the Purkinje cell: a burst of several spikes in a row, with diminishing amplitude, followed by a pause during which activity is suppressed. 
+
+The climbing fiber synapses cover the cell body and proximal dendrites; this zone is devoid of parallel fiber inputs.Climbing fibers fire at low rates, but a single climbing fiber action potential induces a burst of several action potentials in a target Purkinje cell (a complex spike). 
+
+The contrast between parallel fiber and climbing fiber inputs to Purkinje cells (over 100,000 of one type versus exactly one of the other type) is perhaps the most provocative feature of cerebellar anatomy, and has motivated much of the theorizing. 
+
+In fact, the function of climbing fibers is the most controversial topic concerning the cerebellum. 
+
+There are two schools of thought, one following Marr and Albus in holding that climbing fiber input serves primarily as a teaching signal, the other holding that its function is to shape cerebellar output directly. 
+
+Both views have been defended in great length in numerous publications. 
+
+In the words of one review, "In trying to synthesize the various hypotheses on the function of the climbing fibers, one has the sense of looking at a drawing by Escher. 
+
+Each point of view seems to account for a certain collection of findings, but when one attempts to put the different views together, a coherent picture of what the climbing fibers are doing does not appear. 
+
+For the majority of researchers, the climbing fibers signal errors in motor performance, either in the usual manner of discharge frequency modulation or as a single announcement of an 'unexpected event'. 
+
+For other investigators, the message lies in the degree of ensemble synchrony and rhythmicity among a population of climbing fibers."
+
+
+==== Deep nuclei ====
+
+The deep nuclei of the cerebellum are clusters of gray matter lying within the white matter at the core of the cerebellum. 
+
+They are, with the minor exception of the nearby vestibular nuclei, the sole sources of output from the cerebellum. 
+
+These nuclei receive collateral projections from mossy fibers and climbing fibers as well as inhibitory input from the Purkinje cells of the cerebellar cortex. 
+
+The four nuclei (dentate, globose, emboliform, and fastigial) each communicate with different parts of the brain and cerebellar cortex. (The globose and the emboliform nuclei are also referred to as combined in the interposed nucleus). 
+
+The fastigial and interposed nuclei belong to the spinocerebellum. 
+
+The dentate nucleus, which in mammals is much larger than the others, is formed as a thin, convoluted layer of gray matter, and communicates exclusively with the lateral parts of the cerebellar cortex. 
+
+The flocculus of the flocculonodular lobe is the only part of the cerebellar cortex that does not project to the deep nuclei—its output goes to the vestibular nuclei instead.The majority of neurons in the deep nuclei have large cell bodies and spherical dendritic trees with a radius of about 400 μm, and use glutamate as their neurotransmitter. 
+
+These cells project to a variety of targets outside the cerebellum. 
+
+Intermixed with them are a lesser number of small cells, which use GABA as a neurotransmitter and project exclusively to the inferior olivary nucleus, the source of climbing fibers. 
+
+Thus, the nucleo-olivary projection provides an inhibitory feedback to match the excitatory projection of climbing fibers to the nuclei. 
+
+There is evidence that each small cluster of nuclear cells projects to the same cluster of olivary cells that send climbing fibers to it; there is strong and matching topography in both directions.When a Purkinje cell axon enters one of the deep nuclei, it branches to make contact with both large and small nuclear cells, but the total number of cells contacted is only about 35 (in cats). 
+
+Conversely, a single deep nuclear cell receives input from approximately 860 Purkinje cells (again in cats).
+
+
+==== Compartments ====
+
+From the viewpoint of gross anatomy, the cerebellar cortex appears to be a homogeneous sheet of tissue, and, from the viewpoint of microanatomy, all parts of this sheet appear to have the same internal structure. 
+
+There are, however, a number of respects in which the structure of the cerebellum is compartmentalized. 
+
+There are large compartments that are generally known as zones; these can be divided into smaller compartments known as microzones.The first indications of compartmental structure came from studies of the receptive fields of cells in various parts of the cerebellar cortex. 
+
+Each body part maps to specific points in the cerebellum, but there are numerous repetitions of the basic map, forming an arrangement that has been called "fractured somatotopy". 
+
+A clearer indication of compartmentalization is obtained by immunostaining the cerebellum for certain types of protein. 
+
+The best-known of these markers are called "zebrins", because staining for them gives rise to a complex pattern reminiscent of the stripes on a zebra. 
+
+The stripes generated by zebrins and other compartmentalization markers are oriented perpendicular to the cerebellar folds—that is, they are narrow in the mediolateral direction, but much more extended in the longitudinal direction. 
+
+Different markers generate different sets of stripes, the widths and lengths vary as a function of location, but they all have the same general shape.Oscarsson in the late 1970s proposed that these cortical zones can be partitioned into smaller units called microzones. 
+
+A microzone is defined as a group of Purkinje cells all having the same somatotopic receptive field. 
+
+Microzones were found to contain on the order of 1000 Purkinje cells each, arranged in a long, narrow strip, oriented perpendicular to the cortical folds. 
+
+Thus, as the adjoining diagram illustrates, Purkinje cell dendrites are flattened in the same direction as the microzones extend, while parallel fibers cross them at right angles.It is not only receptive fields that define the microzone structure: The climbing fiber input from the inferior olivary nucleus is equally important. 
+
+The branches of a climbing fiber (usually numbering about 10) usually activate Purkinje cells belonging to the same microzone. 
+
+Moreover, olivary neurons that send climbing fibers to the same microzone tend to be coupled by gap junctions, which synchronize their activity, causing Purkinje cells within a microzone to show correlated complex spike activity on a millisecond time scale. 
+
+Also, the Purkinje cells belonging to a microzone all send their axons to the same small cluster of output cells within the deep cerebellar nuclei. 
+
+Finally, the axons of basket cells are much longer in the longitudinal direction than in the mediolateral direction, causing them to be confined largely to a single microzone. 
+
+The consequence of all this structure is that cellular interactions within a microzone are much stronger than interactions between different microzones.In 2005, Richard Apps and Martin Garwicz summarized evidence that microzones themselves form part of a larger entity they call a multizonal microcomplex. 
+
+Such a microcomplex includes several spatially separated cortical microzones, all of which project to the same group of deep cerebellar neurons, plus a group of coupled olivary neurons that project to all of the included microzones as well as to the deep nuclear area.
+
+
+=== Blood supply ===
+
+The cerebellum is provided with blood from three paired major arteries: the superior cerebellar artery (SCA), the anterior inferior cerebellar artery (AICA), and the posterior inferior cerebellar artery (PICA). 
+
+The SCA supplies the upper region of the cerebellum. 
+
+It divides at the upper surface and branches into the pia mater where the branches anastomose with those of the anterior and posterior inferior cerebellar arteries. 
+
+The AICA supplies the front part of the undersurface of the cerebellum. 
+
+The PICA arrives at the undersurface, where it divides into a medial branch and a lateral branch. 
+
+The medial branch continues backward to the cerebellar notch between the two hemispheres of the cerebellum; while the lateral branch supplies the under surface of the cerebellum, as far as its lateral border, where it anastomoses with the AICA and the SCA.
+
+
+== Function ==
+
+The strongest clues to the function of the cerebellum have come from examining the consequences of damage to it. 
+
+Animals and humans with cerebellar dysfunction show, above all, problems with motor control, on the same side of the body as the damaged part of the cerebellum. 
+
+They continue to be able to generate motor activity but lose precision, producing erratic, uncoordinated, or incorrectly timed movements. 
+
+A standard test of cerebellar function is to reach with the tip of the finger for a target at arm's length: A healthy person will move the fingertip in a rapid straight trajectory, whereas a person with cerebellar damage will reach slowly and erratically, with many mid-course corrections. 
+
+Deficits in non-motor functions are more difficult to detect. 
+
+Thus, the general conclusion reached decades ago is that the basic function of the cerebellum is to calibrate the detailed form of a movement, not to initiate movements or to decide which movements to execute.Prior to the 1990s the function of the cerebellum was almost universally believed to be purely motor-related, but newer findings have brought that view into question. 
+
+Functional imaging studies have shown cerebellar activation in relation to language, attention, and mental imagery; correlation studies have shown interactions between the cerebellum and non-motor areas of the cerebral cortex; and a variety of non-motor symptoms have been recognized in people with damage that appears to be confined to the cerebellum. 
+
+In particular, the cerebellar cognitive affective syndrome or Schmahmann's syndrome has been described in adults and children. 
+
+Estimates based on functional mapping of the cerebellum using functional MRI suggest that more than half of the cerebellar cortex is interconnected with association zones of the cerebral cortex.Kenji Doya has argued that the cerebellum's function is best understood not in terms of the behaviors it affects, but the neural computations it performs; the cerebellum consists of a large number of more or less independent modules, all with the same geometrically regular internal structure, and therefore all, it is presumed, performing the same computation. 
+
+If the input and output connections of a module are with motor areas (as many are), then the module will be involved in motor behavior; but, if the connections are with areas involved in non-motor cognition, the module will show other types of behavioral correlates. 
+
+Thus the cerebellum has been implicated in the regulation of many differing functional traits such as affection, emotion and behavior. 
+
+The cerebellum, Doya proposes, is best understood as predictive action selection based on "internal models" of the environment or a device for supervised learning, in contrast to the basal ganglia, which perform reinforcement learning, and the cerebral cortex, which performs unsupervised learning.
+
+
+=== Principles ===
+
+The comparative simplicity and regularity of the cerebellar anatomy led to an early hope that it might imply a similar simplicity of computational function, as expressed in one of the first books on cerebellar electrophysiology, The Cerebellum as a Neuronal Machine by John C. 
+
+Eccles, Masao Ito, and János Szentágothai. 
+
+Although a full understanding of cerebellar function has remained elusive, at least four principles have been identified as important: (1) feedforward processing, (2) divergence and convergence, (3) modularity, and (4) plasticity.
+
+Feedforward processing: The cerebellum differs from most other parts of the brain (especially the cerebral cortex) in that the signal processing is almost entirely feedforward—that is, signals move unidirectionally through the system from input to output, with very little recurrent internal transmission. 
+
+The small amount of recurrence that does exist consists of mutual inhibition; there are no mutually excitatory circuits. 
+
+This feedforward mode of operation means that the cerebellum, in contrast to the cerebral cortex, cannot generate self-sustaining patterns of neural activity. 
+
+Signals enter the circuit, are processed by each stage in sequential order, and then leave. 
+
+As Eccles, Ito, and Szentágothai wrote, "This elimination in the design of all possibility of reverberatory chains of neuronal excitation is undoubtedly a great advantage in the performance of the cerebellum as a computer, because what the rest of the nervous system requires from the cerebellum is presumably not some output expressing the operation of complex reverberatory circuits in the cerebellum but rather a quick and clear response to the input of any particular set of information."
+Divergence and convergence: In the human cerebellum, information from 200 million mossy fiber inputs is expanded to 40 billion granule cells, whose parallel fiber outputs then converge onto 15 million Purkinje cells. 
+
+Because of the way that they are lined up longitudinally, the 1000 or so Purkinje cells belonging to a microzone may receive input from as many as 100 million parallel fibers, and focus their own output down to a group of less than 50 deep nuclear cells. 
+
+Thus, the cerebellar network receives a modest number of inputs, processes them very extensively through its rigorously structured internal network, and sends out the results via a very limited number of output cells.
+Modularity: The cerebellar system is functionally divided into more or less independent modules, which probably number in the hundreds to thousands. 
+
+All modules have a similar internal structure, but different inputs and outputs. 
+
+A module (a multizonal microcompartment in the terminology of Apps and Garwicz) consists of a small cluster of neurons in the inferior olivary nucleus, a set of long narrow strips of Purkinje cells in the cerebellar cortex (microzones), and a small cluster of neurons in one of the deep cerebellar nuclei. 
+
+Different modules share input from mossy fibers and parallel fibers, but in other respects they appear to function independently—the output of one module does not appear to significantly influence the activity of other modules.
+Plasticity: The synapses between parallel fibers and Purkinje cells, and the synapses between mossy fibers and deep nuclear cells, are both susceptible to modification of their strength. 
+
+In a single cerebellar module, input from as many as a billion parallel fibers converges onto a group of less than 50 deep nuclear cells, and the influence of each parallel fiber on those nuclear cells is adjustable. 
+
+This arrangement gives tremendous flexibility for fine-tuning the relationship between the cerebellar inputs and outputs.
+
+
+=== Learning ===
+
+There is considerable evidence that the cerebellum plays an essential role in some types of motor learning. 
+
+The tasks where the cerebellum most clearly comes into play are those in which it is necessary to make fine adjustments to the way an action is performed. 
+
+There has, however, been much dispute about whether learning takes place within the cerebellum itself, or whether it merely serves to provide signals that promote learning in other brain structures. 
+
+Most theories that assign learning to the circuitry of the cerebellum are derived from the ideas of David Marr and James Albus, who postulated that climbing fibers provide a teaching signal that induces synaptic modification in parallel fiber–Purkinje cell synapses. 
+
+Marr assumed that climbing fiber input would cause synchronously activated parallel fiber inputs to be strengthened. 
+
+Most subsequent cerebellar-learning models, however, have followed Albus in assuming that climbing fiber activity would be an error signal, and would cause synchronously activated parallel fiber inputs to be weakened. 
+
+Some of these later models, such as the Adaptive Filter model of Fujita made attempts to understand cerebellar function in terms of optimal control theory.
+The idea that climbing fiber activity functions as an error signal has been examined in many experimental studies, with some supporting it but others casting doubt. 
+
+In a pioneering study by Gilbert and Thach from 1977, Purkinje cells from monkeys learning a reaching task showed increased complex spike activity—which is known to reliably indicate activity of the cell's climbing fiber input—during periods when performance was poor. 
+
+Several studies of motor learning in cats observed complex spike activity when there was a mismatch between an intended movement and the movement that was actually executed. 
+
+Studies of the vestibulo–ocular reflex (which stabilizes the visual image on the retina when the head turns) found that climbing fiber activity indicated "retinal slip", although not in a very straightforward way.One of the most extensively studied cerebellar learning tasks is the eyeblink conditioning paradigm, in which a neutral conditioned stimulus (CS) such as a tone or a light is repeatedly paired with an unconditioned stimulus (US), such as an air puff, that elicits a blink response. 
+
+After such repeated presentations of the CS and US, the CS will eventually elicit a blink before the US, a conditioned response or CR. 
+
+Experiments showed that lesions localized either to a specific part of the interposed nucleus (one of the deep cerebellar nuclei) or to a few specific points in the cerebellar cortex would abolish learning of a conditionally timed blink response. 
+
+If cerebellar outputs are pharmacologically inactivated while leaving the inputs and intracellular circuits intact, learning takes place even while the animal fails to show any response, whereas, if intracerebellar circuits are disrupted, no learning takes place—these facts taken together make a strong case that the learning, indeed, occurs inside the cerebellum.
+
+
+=== Theories and computational models ===
+
+
+The large base of knowledge about the anatomical structure and behavioral functions of the cerebellum have made it a fertile ground for theorizing—there are perhaps more theories of the function of the cerebellum than of any other part of the brain. 
+
+The most basic distinction among them is between "learning theories" and "performance theories"—that is, theories that make use of synaptic plasticity within the cerebellum to account for its role in learning, versus theories that account for aspects of ongoing behavior on the basis of cerebellar signal processing. 
+
+Several theories of both types have been formulated as mathematical models and simulated using computers.Perhaps the earliest "performance" theory was the "delay line" hypothesis of Valentino Braitenberg. 
+
+The original theory put forth by Braitenberg and Roger Atwood in 1958 proposed that slow propagation of signals along parallel fibers imposes predictable delays that allow the cerebellum to detect time relationships within a certain window. 
+
+Experimental data did not support the original form of the theory, but Braitenberg continued to argue for modified versions. 
+
+The hypothesis that the cerebellum functions essentially as a timing system has also been advocated by Richard Ivry. 
+
+Another influential "performance" theory is the Tensor network theory of Pellionisz and Llinás, which provided an advanced mathematical formulation of the idea that the fundamental computation performed by the cerebellum is to transform sensory into motor coordinates.Theories in the "learning" category almost all derive from publications by Marr and Albus. 
+
+Marr's 1969 paper proposed that the cerebellum is a device for learning to associate elemental movements encoded by climbing fibers with mossy fiber inputs that encode the sensory context. 
+
+Albus proposed in 1971 that a cerebellar Purkinje cell functions as a perceptron, a neurally inspired abstract learning device. 
+
+The most basic difference between the Marr and Albus theories is that Marr assumed that climbing fiber activity would cause parallel fiber synapses to be strengthened, whereas Albus proposed that they would be weakened. 
+
+Albus also formulated his version as a software algorithm he called a CMAC (Cerebellar Model Articulation Controller), which has been tested in a number of applications.
+
+
+== Clinical significance ==
+
+
+Damage to the cerebellum often causes motor-related symptoms, the details of which depend on the part of the cerebellum involved and how it is damaged. 
+
+Damage to the flocculonodular lobe may show up as a loss of equilibrium and in particular an altered, irregular walking gait, with a wide stance caused by difficulty in balancing. 
+
+Damage to the lateral zone typically causes problems in skilled voluntary and planned movements which can cause errors in the force, direction, speed and amplitude of movements. 
+
+Other manifestations include hypotonia (decreased muscle tone), dysarthria (problems with speech articulation), dysmetria (problems judging distances or ranges of movement), dysdiadochokinesia (inability to perform rapid alternating movements such as walking), impaired check reflex or rebound phenomenon, and intention tremor (involuntary movement caused by alternating contractions of opposing muscle groups). 
+
+Damage to the midline portion may disrupt whole-body movements, whereas damage localized more laterally is more likely to disrupt fine movements of the hands or limbs. 
+
+Damage to the upper part of the cerebellum tends to cause gait impairments and other problems with leg coordination; damage to the lower part is more likely to cause uncoordinated or poorly aimed movements of the arms and hands, as well as difficulties in speed. 
+
+This complex of motor symptoms is called ataxia.
+To identify cerebellar problems, neurological examination includes assessment of gait (a broad-based gait being indicative of ataxia), finger-pointing tests and assessment of posture. 
+
+If cerebellar dysfunction is indicated, a magnetic resonance imaging scan can be used to obtain a detailed picture of any structural alterations that may exist.The list of medical problems that can produce cerebellar damage is long, including stroke, hemorrhage, swelling of the brain (cerebral edema), tumors, alcoholism, physical trauma such as gunshot wounds or explosives, and chronic degenerative conditions such as olivopontocerebellar atrophy. 
+
+Some forms of migraine headache may also produce temporary dysfunction of the cerebellum, of variable severity. 
+
+Infection can result in cerebellar damage in such conditions as the prion diseases and Miller Fisher syndrome, a variant of Guillain–Barré syndrome.
+
+
+=== Aging ===
+
+The human cerebellum changes with age. 
+
+These changes may differ from those of other parts of the brain.
+The cerebellum is the youngest brain region (and body part) in centenarians according to an epigenetic biomarker of tissue age known as epigenetic clock: it is about 15 years younger than expected in a centenarian. 
+
+Further, gene expression patterns in the human cerebellum show less age-related alteration than that in the cerebral cortex.
+Some studies have reported reductions in numbers of cells or volume of tissue, but the amount of data relating to this question is not very large.
+
+
+=== Developmental and degenerative disorders ===
+
+
+Congenital malformation, hereditary disorders, and acquired conditions can affect cerebellar structure and, consequently, cerebellar function. 
+
+Unless the causative condition is reversible, the only possible treatment is to help people live with their problems. 
+
+Visualization of the fetal cerebellum by ultrasound scan at 18 to 20 weeks of pregnancy can be used to screen for fetal neural tube defects with a sensitivity rate of up to 99%.In normal development, endogenous sonic hedgehog signaling stimulates rapid proliferation of cerebellar granule neuron progenitors (CGNPs) in the external granule layer (EGL). 
+
+Cerebellar development occurs during late embryogenesis and the early postnatal period, with CGNP proliferation in the EGL peaking during early development (postnatal day 7 in the mouse). 
+
+As CGNPs terminally differentiate into cerebellar granule cells (also called cerebellar granule neurons, CGNs), they migrate to the internal granule layer (IGL), forming the mature cerebellum (by post-natal day 20 in the mouse). 
+
+Mutations that abnormally activate Sonic hedgehog signaling predispose to cancer of the cerebellum (medulloblastoma) in humans with Gorlin Syndrome and in genetically engineered mouse models.Congenital malformation or underdevelopment (hypoplasia) of the cerebellar vermis is a characteristic of both Dandy–Walker syndrome and Joubert syndrome. 
+
+In very rare cases, the entire cerebellum may be absent. 
+
+The inherited neurological disorders Machado–Joseph disease, ataxia telangiectasia, and Friedreich's ataxia cause progressive neurodegeneration linked to cerebellar loss. 
+
+Congenital brain malformations outside the cerebellum can, in turn, cause herniation of cerebellar tissue, as seen in some forms of Arnold–Chiari malformation.Other conditions that are closely linked to cerebellar degeneration include the idiopathic progressive neurological disorders multiple system atrophy and Ramsay Hunt syndrome type I, and the autoimmune disorder paraneoplastic cerebellar degeneration, in which tumors elsewhere in the body elicit an autoimmune response that causes neuronal loss in the cerebellum. 
+
+Cerebellar atrophy can result from an acute deficiency of vitamin B1 (thiamine) as seen in beriberi and in Wernicke–Korsakoff syndrome, or vitamin E deficiency.Cerebellar atrophy has been observed in many other neurological disorders including Huntington's disease, multiple sclerosis, essential tremor, progressive myoclonus epilepsy, and Niemann–Pick disease. 
+
+Cerebellar atrophy can also occur as a result of exposure to toxins including heavy metals or pharmaceutical or recreational drugs.
+
+
+=== Pain ===
+
+There is a general consensus that the cerebellum is involved in pain processing. 
+
+The cerebellum receives pain input from both descending cortico-cerebellar pathways and ascending spino-cerebellar pathways, through the pontine nuclei and inferior olives. 
+
+Some of this information is transferred to the motor system inducing a conscious motor avoidance of pain, graded according to pain intensity.
+These direct pain inputs, as well as indirect inputs, are thought to induce long-term pain avoidance behavior that results in chronic posture changes and consequently, in functional and anatomical remodeling of vestibular and proprioceptive nuclei. 
+
+As a result, chronic neuropathic pain can induce macroscopic anatomical remodeling of the hindbrain, including the cerebellum. 
+
+The magnitude of this remodeling and the induction of neuron progenitor markers suggest the contribution of adult neurogenesis to these changes.
+
+
+== Comparative anatomy and evolution ==
+
+
+The circuits in the cerebellum are similar across all classes of vertebrates, including fish, reptiles, birds, and mammals. 
+
+There is also an analogous brain structure in cephalopods with well-developed brains, such as octopuses. 
+
+This has been taken as evidence that the cerebellum performs functions important to all animal species with a brain.
+There is considerable variation in the size and shape of the cerebellum in different vertebrate species. 
+
+In amphibians, it is little developed, and in lampreys, and hagfish, the cerebellum is barely distinguishable from the brain-stem. 
+
+Although the spinocerebellum is present in these groups, the primary structures are small, paired-nuclei corresponding to the vestibulocerebellum. 
+
+The cerebellum is a bit larger in reptiles, considerably larger in birds, and larger yet in mammals. 
+
+The large paired and convoluted lobes found in humans are typical of mammals, but the cerebellum is, in general, a single median lobe in other groups, and is either smooth or only slightly grooved. 
+
+In mammals, the neocerebellum is the major part of the cerebellum by mass, but, in other vertebrates, it is typically the spinocerebellum.The cerebellum of cartilaginous and bony fishes is extraordinarily large and complex. 
+
+In at least one important respect, it differs in internal structure from the mammalian cerebellum: The fish cerebellum does not contain discrete deep cerebellar nuclei. 
+
+Instead, the primary targets of Purkinje cells are a distinct type of cell distributed across the cerebellar cortex, a type not seen in mammals. 
+
+In mormyrid fish (a family of weakly electrosensitive freshwater fish), the cerebellum is considerably larger than the rest of the brain. 
+
+The largest part of it is a special structure called the valvula, which has an unusually regular architecture and receives much of its input from the electrosensory system.The hallmark of the mammalian cerebellum is an expansion of the lateral lobes, whose main interactions are with the neocortex. 
+
+As monkeys evolved into great apes, the expansion of the lateral lobes continued, in tandem with the expansion of the frontal lobes of the neocortex. 
+
+In ancestral hominids, and in Homo sapiens until the middle Pleistocene period, the cerebellum continued to expand, but the frontal lobes expanded more rapidly. 
+
+The most recent period of human evolution, however, may actually have been associated with an increase in the relative size of the cerebellum, as the neocortex reduced its size somewhat while the cerebellum expanded. 
+
+The size of the human cerebellum, compared to the rest of the brain, has been increasing in size while the cerebrum decreased in size With both the development and implementation of motor tasks, visual-spatial skills and learning taking place in the cerebellum, the growth of the cerebellum is thought to have some form of correlation to greater human cognitive abilities. 
+
+The lateral hemispheres of the cerebellum are now 2.7 times greater in both humans and apes than they are in monkeys. 
+
+These changes in the cerebellum size cannot be explained by greater muscle mass. 
+
+They show that either the development of the cerebellum is tightly linked to that of the rest of the brain or that neural activities taking place in the cerebellum were important during Hominidae evolution. 
+
+Due to the cerebellum's role in cognitive functions, the increase in its size may have played a role in cognitive expansion.
+
+
+=== Cerebellum-like structures ===
+
+Most vertebrate species have a cerebellum and one or more cerebellum-like structures, brain areas that resemble the cerebellum in terms of cytoarchitecture and neurochemistry. 
+
+The only cerebellum-like structure found in mammals is the dorsal cochlear nucleus (DCN), one of the two primary sensory nuclei that receive input directly from the auditory nerve. 
+
+The DCN is a layered structure, with the bottom layer containing granule cells similar to those of the cerebellum, giving rise to parallel fibers that rise to the superficial layer and travel across it horizontally. 
+
+The superficial layer contains a set of GABAergic neurons called cartwheel cells that resemble Purkinje cells anatomically and chemically—they receive parallel fiber input, but do not have any inputs that resemble climbing fibers. 
+
+The output neurons of the DCN are pyramidal cells. 
+
+They are glutamatergic, but also resemble Purkinje cells in some respects—they have spiny, flattened superficial dendritic trees that receive parallel fiber input, but they also have basal dendrites that receive input from auditory nerve fibers, which travel across the DCN in a direction at right angles to the parallel fibers. 
+
+The DCN is most highly developed in rodents and other small animals, and is considerably reduced in primates. 
+
+Its function is not well understood; the most popular speculations relate it to spatial hearing in one way or another.Most species of fish and amphibians possess a lateral line system that senses pressure waves in water. 
+
+One of the brain areas that receives primary input from the lateral line organ, the medial octavolateral nucleus, has a cerebellum-like structure, with granule cells and parallel fibers. 
+
+In electrosensitive fish, the input from the electrosensory system goes to the dorsal octavolateral nucleus, which also has a cerebellum-like structure. 
+
+In ray-finned fishes (by far the largest group), the optic tectum has a layer—the marginal layer—that is cerebellum-like.All of these cerebellum-like structures appear to be primarily sensory-related rather than motor-related. 
+
+All of them have granule cells that give rise to parallel fibers that connect to Purkinje-like neurons with modifiable synapses, but none have climbing fibers comparable to those of the cerebellum—instead they receive direct input from peripheral sensory organs. 
+
+None has a demonstrated function, but the most influential speculation is that they serve to transform sensory inputs in some sophisticated way, perhaps to compensate for changes in body posture. 
+
+In fact, James M. 
+
+Bower and others have argued, partly on the basis of these structures and partly on the basis of cerebellar studies, that the cerebellum itself is fundamentally a sensory structure, and that it contributes to motor control by moving the body in a way that controls the resulting sensory signals. 
+
+Despite Bower's viewpoint, there is also strong evidence that the cerebellum directly influences motor output in mammals.
+
+
+== History ==
+
+
+
+=== Descriptions ===
+
+Even the earliest anatomists were able to recognize the cerebellum by its distinctive appearance. 
+
+Aristotle and Herophilus (quoted in Galen) called it the παρεγκεφαλίς (parenkephalis), as opposed to the ἐγκέφαλος (enkephalos) or brain proper. 
+
+Galen's extensive description is the earliest that survives. 
+
+He speculated that the cerebellum was the source of motor nerves.Further significant developments did not come until the Renaissance. 
+
+Vesalius discussed the cerebellum briefly, and the anatomy was described more thoroughly by Thomas Willis in 1664. 
+
+More anatomical work was done during the 18th century, but it was not until early in the 19th century that the first insights into the function of the cerebellum were obtained. 
+
+Luigi Rolando in 1809 established the key finding that damage to the cerebellum results in motor disturbances. 
+
+Jean Pierre Flourens in the first half of the 19th century carried out detailed experimental work, which revealed that animals with cerebellar damage can still move, but with a loss of coordination (strange movements, awkward gait, and muscular weakness), and that recovery after the lesion can be nearly complete unless the lesion is very extensive. 
+
+By the beginning of the 20th century, it was widely accepted that the primary function of the cerebellum relates to motor control; the first half of the 20th century produced several detailed descriptions of the clinical symptoms associated with cerebellar disease in humans.
+
+
+=== Etymology ===
+
+The name cerebellum is a diminutive of cerebrum (brain); it can be translated literally as little brain. 
+
+The Latin name is a direct translation of the Ancient Greek παρεγκεφαλίς (parenkephalis), which was used in the works of Aristotle, the first known writer to describe the structure. 
+
+No other name is used in the English-language literature, but historically a variety of Greek or Latin-derived names have been used, including cerebrum parvum, encephalion, encranion, cerebrum posterius, and parencephalis.
+
+
+
+https://en.wikipedia.org/wiki/Cerebellum

@@ -1,0 +1,4 @@
+<map id="TangibleBodyPart.ResetPosition" name="TangibleBodyPart.ResetPosition">
+<area shape="rect" id="node1" title="Resets the object to its original position." alt="" coords="5,5,215,31"/>
+<area shape="rect" id="node2" href="$class_tangible_body_part.html#a56fefb3df25bb77c2f142b9c24bf08c8" title="Updates the bounds of the mesh collider to match the bounds of the mesh. This function is useful when..." alt="" coords="263,5,476,31"/>
+</map>

@@ -1,0 +1,1012 @@
+
+
+STRIATUM
+
+
+The striatum, or corpus striatum (also called the striate nucleus), is a nucleus (a cluster of neurons) in the subcortical basal ganglia of the forebrain. 
+
+The striatum is a critical component of the motor and reward systems; receives glutamatergic and dopaminergic inputs from different sources; and serves as the primary input to the rest of the basal ganglia.
+
+Functionally, the striatum coordinates multiple aspects of cognition, including both motor and action planning, decision-making, motivation, reinforcement, and reward perception. 
+
+The striatum is made up of the caudate nucleus and the lentiform nucleus. 
+
+The lentiform nucleus is made up of the larger putamen, and the smaller globus pallidus. 
+
+Strictly speaking the globus pallidus is part of the striatum. 
+
+It is common practice, however, to implicitly exclude the globus pallidus when referring to striatal structures.
+
+In primates, the striatum is divided into a ventral striatum, and a dorsal striatum, subdivisions that are based upon function and connections. 
+
+The ventral striatum consists of the nucleus accumbens and the olfactory tubercle. 
+
+The dorsal striatum consists of the caudate nucleus and the putamen. 
+
+A white matter, nerve tract (the internal capsule) in the dorsal striatum separates the caudate nucleus and the putamen. 
+
+Anatomically, the term striatum describes its striped (striated) appearance of grey-and-white matter.
+
+
+== Structure ==
+
+The striatum is the largest structure of the basal ganglia. 
+
+The striatum is divided into a ventral and a dorsal subdivision, based upon function and connections.
+
+The ventral striatum is composed of the nucleus accumbens and the olfactory tubercle. 
+
+The nucleus accumbens is made up of the nucleus accumbens core and the nucleus accumbens shell, which differ by neural populations. 
+
+The olfactory tubercle receives input from the olfactory bulb but has not been shown to play a role in processing smell. 
+
+In non-primate species, the islands of Calleja are included. 
+
+The ventral striatum is associated with the limbic system and has been implicated as a vital part of the circuitry for decision making and reward-related behavior.
+
+The dorsal striatum is composed of the caudate nucleus and the putamen.
+
+Staining can differentiate the striatum into two distinct compartments of striosomes or patches, and a surrounding matrix; this is particularly evident on the components of acetylcholinesterase and calbindin. 
+
+More studies have been carried out on the dorsal striatum but the compartments have also been identified in the ventral striatum. 
+
+In the dorsal striatum striosomes make up 10-15 per cent of the striatal volume.
+
+
+=== Cell types ===
+
+Types of cells in the striatum include:
+
+Medium spiny neurons (MSNs), which are the principal neurons of the striatum. 
+
+They are GABAergic and, thus, are classified as inhibitory neurons. 
+
+Medium spiny projection neurons comprise 95% of the total neuronal population of the human striatum. 
+
+Medium spiny neurons have two characteristic types: D1-type MSNs and D2-type MSNs. 
+
+A subpopulation of MSNs contain both D1-type and D2-type receptors, with approximately 40% of striatal MSNs expressing both DRD1 and DRD2 mRNA.
+
+Cholinergic interneurons release acetylcholine, which has a variety of important effects in the striatum. 
+
+In humans, other primates, and rodents, these interneurons respond to salient environmental stimuli with stereotyped responses that are temporally aligned with the responses of dopaminergic neurons of the substantia nigra. 
+
+The large aspiny cholinergic interneurons themselves are affected by dopamine through D5 dopamine receptors. 
+
+Dopamine also directly controls communication between cholinergic interneurons.
+There are many types of GABAergic interneurons. 
+
+The best known are parvalbumin expressing interneurons, also known as fast-spiking interneurons, which participate in powerful feedforward inhibition of principal neurons. 
+
+Also, there are GABAergic interneurons that express tyrosine hydroxylase, somatostatin, nitric oxide synthase and neuropeptide-y. 
+
+Recently, two types of neuropeptide-y expressing GABAergic interneurons have been described in detail, one of which translates synchronous activity of cholinergic interneurons into inhibition of principal neurons. 
+
+These neurons of the striatum are not distributed evenly.There are two regions of neurogenesis in the brain – the subventricular zone in the lateral ventricles, and the dentate gyrus in the hippocampal formation. 
+
+Neuroblasts that form in the lateral ventricle adjacent to the striatum, integrate in the striatum. 
+
+This has been noted in the human striatum following an ischemic stroke. 
+
+Injury caused to the striatum stimulates the migration of neuroblasts from the subventricular zone, to the striatum, where they differentiate into adult neurons. 
+
+The normal passage of SVZ neuroblasts is to the olfactory bulb but this traffic is diverted to the striatum after an ischemic stroke. 
+
+However, few of the new developed neurons survive.
+
+
+=== Inputs ===
+
+ The largest connection is from the cortex, in terms of cell axons. 
+
+Many parts of the neocortex innervate the dorsal striatum. 
+
+The cortical pyramidal neurons projecting to the striatum are located in layers II-VI, with the most dense projections come from layer V. 
+
+They end mainly on the dendritic spines of the spiny neurons. 
+
+They are glutamatergic, exciting striatal neurons.
+The striatum is seen as having its own internal microcircuitry. 
+
+The ventral striatum receives direct input from multiple regions in the cerebral cortex and limbic structures such as the amygdala, thalamus, and hippocampus, as well as the entorhinal cortex and the inferior temporal gyrus. 
+
+Its primary input is to the basal ganglia system. 
+
+Additionally, the mesolimbic pathway projects from the ventral tegmental area to the nucleus accumbens of the ventral striatum.
+
+Another well-known afferent is the nigrostriatal connection arising from the neurons of the substantia nigra pars compacta. 
+
+While cortical axons synapse mainly on spine heads of spiny neurons, nigral axons synapse mainly on spine shafts.
+
+In primates, the thalamostriatal afferent comes from the central median-parafascicular complex of the thalamus (see primate basal ganglia system). 
+
+This afferent is glutamatergic. 
+
+The participation of truly intralaminar neurons is much more limited.
+
+The striatum also receives afferents from other elements of the basal ganglia such as the subthalamic nucleus (glutamatergic) or the external globus pallidus (GABAergic).
+
+
+=== Targets ===
+
+The primary outputs of the ventral striatum project to the ventral pallidum, then the medial dorsal nucleus of the thalamus, which is part of the frontostriatal circuit. 
+
+Additionally, the ventral striatum projects to the globus pallidus, and substantia nigra pars reticulata. 
+
+Some of its other outputs include projections to the extended amygdala, lateral hypothalamus, and pedunculopontine nucleus.
+
+Striatal outputs from both the dorsal and ventral components are primarily composed of medium spiny neurons (MSNs), a type of projection neuron, which have two primary phenotypes: 
+    
+    "indirect" MSNs that express D2-like receptors and "direct" MSNs that express D1-like receptors.
+    
+    The main nucleus of the basal ganglia is the striatum which projects directly to the globus pallidus via a pathway of striatopallidal fibers. 
+
+The striato-pallidal pathway has a whitish appearance due to the myelinated fibers. 
+
+This projection comprises successively the external globus pallidus (GPe), the internal globus pallidus (GPi), the pars compacta of the substantia nigra (SNc), and the pars reticulata of substantia nigra (SNr). 
+
+The neurons of this projection are inhibited by GABAergic synapses from the dorsal striatum. 
+
+Among these targets, the GPe does not send axons outside the system. 
+
+Others send axons to the superior colliculus. 
+
+Two others comprise the output to the thalamus, forming two separate channels: one through the internal segment of the globus pallidus to the ventral oralis nuclei of the thalamus and from there to the cortical supplementary motor area and another through the substantia nigra to the ventral anterior nuclei of the thalamus and from there to the frontal cortex and the occulomotor cortex.
+
+
+=== Blood supply ===
+
+Deep penetrating striate arteries supply blood to the striatum. 
+
+These arteries include the recurrent artery of Heubner arising from the anterior cerebral artery, and the lenticulostriate arteries arising from the middle cerebral artery.
+
+
+== Function ==
+
+The ventral striatum, and the nucleus accumbens in particular, primarily mediates reward, cognition, reinforcement, and motivational salience, whereas the dorsal striatum primarily mediates cognition involving motor function, certain executive functions (e.g., inhibitory control and impulsivity), and stimulus-response learning; there is a small degree of overlap, as the dorsal striatum is also a component of the reward system that, along with the nucleus accumbens core, mediates the encoding of new motor programs associated with future reward acquisition (e.g., the conditioned motor response to a reward cue).Metabotropic dopamine receptors are present both on spiny neurons and on cortical axon terminals. 
+
+Second messenger cascades triggered by activation of these dopamine receptors can modulate pre- and postsynaptic function, both in the short term and in the long term. 
+
+In humans, the striatum is activated by stimuli associated with reward, but also by aversive, novel, unexpected, or intense stimuli, and cues associated with such events. 
+
+fMRI evidence suggests that the common property linking these stimuli, to which the striatum is reacting, is salience under the conditions of presentation. 
+
+A number of other brain areas and circuits are also related to reward, such as frontal areas. 
+
+Functional maps of the striatum reveal interactions with widely distributed regions of the cerebral cortex important to a diverse range of functions.
+
+The interplay between the striatum and the prefrontal cortex is relevant for behavior, particularly adolescent development as proposed by the dual systems model.
+
+
+== Clinical significance ==
+
+
+
+=== Parkinson's disease and other movement disorders ===
+
+Parkinson's disease results in loss of dopaminergic innervation to the dorsal striatum (and other basal ganglia) and a cascade of consequences. 
+
+Atrophy of the striatum is also involved in Huntington's disease, and movement disorders such as chorea, choreoathetosis, and dyskinesias. 
+
+These have also been described as circuit disorders of the basal ganglia.
+
+
+=== Addiction ===
+
+Addiction, a disorder of the brain's reward system, arises through the overexpression of DeltaFosB (ΔFosB), a transcription factor, in the D1-type medium spiny neurons of the ventral striatum. 
+
+ΔFosB is an inducible gene which is increasingly expressed in the nucleus accumbens as a result of repeatedly overdosing on an addictive drug or overexposure to other addictive stimuli.
+
+
+=== Bipolar disorder ===
+
+An association has been observed between striatal expression of variants of the PDE10A gene and some bipolar I disorder patients. 
+
+Variants of other genes, DISC1 and GNAS, have been associated with bipolar II disorder.
+
+
+=== Autism spectrum disorder ===
+
+Autism spectrum disorder (ASD) is characterized by cognitive inflexibility and poor understanding of social systems. 
+
+This inflexible behavior originates in defects in the pre-frontal cortex as well as the striatal circuits. 
+
+The defects in the striatum seem to specifically contribute to the motor, social and communication impairments seen in ASD patients. 
+
+In mice which have an ASD-like phenotype induced via the overexpression of the eukaryotic initiation of translation factor 4E, it has been shown that these defects seem to stem from the reduced ability to store and process information in the striatum, which leads to the difficulty seen in forming new motor patterns, as well as disengaging from existing ones.
+
+
+=== Dysfunction ===
+
+Dysfunction in the ventral striatum can lead to a variety of disorders, most notably, depression and obsessive-compulsive disorder. 
+
+Because of its involvement in reward pathways, the ventral striatum has also been implicated in playing a critical role in addiction. 
+
+It has been well established that the ventral striatum is strongly involved in mediating the reinforcing effects of drugs, especially stimulants, through dopaminergic stimulation.
+
+
+== History ==
+
+In the seventeenth and eighteenth centuries, the term "corpus striatum" was used to designate many distinct, deep, infracortical elements of the hemisphere. 
+
+Etymologically it is derived from (Latin) "striatus" = "grooved, striated" and the English "striated" = having parallel lines or grooves on the surface. 
+
+In 1941, Cécile and Oskar Vogt simplified the nomenclature by proposing the term striatum for all elements in the basal ganglia built with striatal elements: 
+    
+    the caudate nucleus, the putamen, and the fundus striati, which is the ventral part linking the two preceding together ventrally to the inferior part of the internal capsule.
+
+The term neostriatum was forged by comparative anatomists comparing the subcortical structures between vertebrates, because it was thought to be a phylogenetically newer section of the corpus striatum. 
+
+The term is still used by some sources, including Medical Subject Headings.
+
+
+== Other animals ==
+
+In birds the term used was the paleostriatum augmentatum, and in the new avian terminology listing (as of 2002) for neostriatum this has been changed to the nidopallium.
+
+In non-primate species, the islands of Calleja are included in the ventral striatum.
+
+
+
+https://en.wikipedia.org/wiki/Striatum
+;;;ES;;;
+
+
+
+ESTRIADO
+
+
+El estriado, o corpus striatum (también llamado núcleo estriado), es un núcleo (un grupo de neuronas) en los ganglios basales subcorticales del cerebro anterior.
+
+El cuerpo estriado es un componente crítico de los sistemas motor y de recompensa; recibe aportes glutamatérgicos y dopaminérgicos de diferentes fuentes; y sirve como entrada principal para el resto de los ganglios basales.
+
+Funcionalmente, el cuerpo estriado coordina múltiples aspectos de la cognición, incluida la planificación motora y de acción, la toma de decisiones, la motivación, el refuerzo y la percepción de recompensas.
+
+El cuerpo estriado está formado por el núcleo caudado y el núcleo lentiforme.
+
+El núcleo lentiforme está formado por el putamen más grande y el globo pálido más pequeño.
+
+Estrictamente hablando, el globo pálido es parte del cuerpo estriado.
+
+Sin embargo, es una práctica común excluir implícitamente el globo pálido cuando se hace referencia a estructuras estriatales.
+
+En los primates, el estriado se divide en un estriado ventral y un estriado dorsal, subdivisiones que se basan en la función y las conexiones.
+
+El cuerpo estriado ventral está formado por el núcleo accumbens y el tubérculo olfatorio.
+
+El cuerpo estriado dorsal está formado por el núcleo caudado y el putamen.
+
+Un tracto nervioso de sustancia blanca (la cápsula interna) en el cuerpo estriado dorsal separa el núcleo caudado y el putamen.
+
+Anatómicamente, el término cuerpo estriado describe su aspecto rayado (estriado) de materia gris y blanca.
+
+
+== Estructura ==
+
+El cuerpo estriado es la estructura más grande de los ganglios basales.
+
+El cuerpo estriado se divide en una subdivisión ventral y otra dorsal, según la función y las conexiones.
+
+El cuerpo estriado ventral está compuesto por el núcleo accumbens y el tubérculo olfatorio.
+
+El núcleo accumbens está formado por el núcleo del núcleo accumbens y la cubierta del núcleo accumbens, que se diferencian por las poblaciones neurales.
+
+El tubérculo olfativo recibe información del bulbo olfativo, pero no se ha demostrado que desempeñe un papel en el procesamiento del olfato.
+
+En especies no primates se incluyen las islas de Calleja.
+
+El cuerpo estriado ventral está asociado con el sistema límbico y ha sido implicado como una parte vital del circuito para la toma de decisiones y el comportamiento relacionado con la recompensa.
+
+El cuerpo estriado dorsal está compuesto por el núcleo caudado y el putamen.
+
+La tinción puede diferenciar el cuerpo estriado en dos compartimentos distintos de estriosomas o parches y una matriz circundante; esto es particularmente evidente en los componentes de acetilcolinesterasa y calbindina.
+
+Se han realizado más estudios en el estriado dorsal pero también se han identificado los compartimentos en el estriado ventral.
+
+En el cuerpo estriado dorsal, los estriosomas constituyen del 10 al 15 por ciento del volumen del cuerpo estriado.
+
+
+=== Tipos de células ===
+
+Los tipos de células en el cuerpo estriado incluyen:
+
+Neuronas espinosas medianas (MSN), que son las principales neuronas del cuerpo estriado.
+
+Son GABAérgicas y, por lo tanto, se clasifican como neuronas inhibidoras.
+
+Las neuronas de proyección espinosa media comprenden el 95% de la población neuronal total del cuerpo estriado humano.
+
+Las neuronas espinosas medianas tienen dos tipos característicos: MSN de tipo D1 y MSN de tipo D2.
+
+Una subpoblación de MSN contiene receptores de tipo D1 y tipo D2, con aproximadamente el 40 % de los MSN estriatales que expresan ARNm de DRD1 y DRD2.
+
+Las interneuronas colinérgicas liberan acetilcolina, que tiene una variedad de efectos importantes en el cuerpo estriado.
+
+En humanos, otros primates y roedores, estas interneuronas responden a estímulos ambientales sobresalientes con respuestas estereotipadas que se alinean temporalmente con las respuestas de las neuronas dopaminérgicas de la sustancia negra.
+
+Las propias interneuronas colinérgicas espinosas grandes se ven afectadas por la dopamina a través de los receptores de dopamina D5.
+
+La dopamina también controla directamente la comunicación entre las interneuronas colinérgicas.
+Hay muchos tipos de interneuronas GABAérgicas.
+
+Las más conocidas son las interneuronas que expresan parvalbúmina, también conocidas como interneuronas de pico rápido, que participan en una poderosa inhibición de las neuronas principales.
+
+Además, existen interneuronas GABAérgicas que expresan tirosina hidroxilasa, somatostatina, óxido nítrico sintasa y neuropéptido-y.
+
+Recientemente, se han descrito en detalle dos tipos de interneuronas GABAérgicas que expresan neuropéptido-y, una de las cuales traduce la actividad sincrónica de las interneuronas colinérgicas en inhibición de las neuronas principales.
+
+Estas neuronas del cuerpo estriado no se distribuyen uniformemente. Hay dos regiones de neurogénesis en el cerebro: la zona subventricular en los ventrículos laterales y la circunvolución dentada en la formación del hipocampo.
+
+Los neuroblastos que se forman en el ventrículo lateral adyacente al estriado, se integran en el estriado.
+
+Esto se ha observado en el estriado humano después de un accidente cerebrovascular isquémico.
+
+La lesión causada al cuerpo estriado estimula la migración de neuroblastos desde la zona subventricular hacia el cuerpo estriado, donde se diferencian en neuronas adultas.
+
+El paso normal de los neuroblastos SVZ es al bulbo olfatorio, pero este tráfico se desvía al cuerpo estriado después de un accidente cerebrovascular isquémico.
+
+Sin embargo, pocas de las nuevas neuronas desarrolladas sobreviven.
+
+
+=== Entradas ===
+
+La conexión más grande es desde la corteza, en términos de axones celulares.
+
+Muchas partes de la neocorteza inervan el cuerpo estriado dorsal.
+
+Las neuronas piramidales corticales que se proyectan al cuerpo estriado se ubican en las capas II-VI, y las proyecciones más densas provienen de la capa V.
+
+Terminan principalmente en las espinas dendríticas de las neuronas espinosas.
+
+Son neuronas glutamatérgicas y excitantes del cuerpo estriado.
+Se considera que el cuerpo estriado tiene su propio microcircuito interno.
+
+El cuerpo estriado ventral recibe información directa de múltiples regiones de la corteza cerebral y estructuras límbicas como la amígdala, el tálamo y el hipocampo, así como la corteza entorrinal y la circunvolución temporal inferior.
+
+Su entrada principal es al sistema de ganglios basales.
+
+Además, la vía mesolímbica se proyecta desde el área tegmental ventral hasta el núcleo accumbens del cuerpo estriado ventral.
+
+Otro aferente bien conocido es la conexión nigroestriatal que surge de las neuronas de la sustancia negra pars compacta.
+
+Mientras que los axones corticales hacen sinapsis principalmente en las cabezas de las espinas de las neuronas espinosas, los axones nigrales hacen sinapsis principalmente en los ejes de las espinas.
+
+En los primates, la aferencia talamoestriatal proviene del complejo parafascicular mediano central del tálamo (ver sistema de ganglios basales de primates).
+
+Este aferente es glutamatérgico.
+
+La participación de neuronas verdaderamente intralaminares es mucho más limitada.
+
+El estriado también recibe aferentes de otros elementos de los ganglios basales como el núcleo subtalámico (glutamatérgico) o el globo pálido externo (GABAérgico).
+
+
+=== Objetivos ===
+
+Las salidas primarias del cuerpo estriado ventral se proyectan al pallidum ventral, luego al núcleo dorsal medial del tálamo, que forma parte del circuito frontoestriatal.
+
+Además, el cuerpo estriado ventral se proyecta hacia el globo pálido y la sustancia negra pars reticulata.
+
+Algunas de sus otras salidas incluyen proyecciones a la amígdala extendida, el hipotálamo lateral y el núcleo pedunculopontino.
+
+Las salidas del estriado de los componentes dorsal y ventral se componen principalmente de neuronas espinosas medianas (MSN), un tipo de neurona de proyección, que tienen dos fenotipos principales:
+ 
+MSN "indirectos" que expresan receptores de tipo D2 y MSN "directos" que expresan receptores de tipo D1.
+ 
+El núcleo principal de los ganglios basales es el cuerpo estriado que se proyecta directamente al globo pálido a través de una vía de fibras estriadopalidales.
+
+La vía estriado-palidal tiene un aspecto blanquecino debido a las fibras mielinizadas.
+
+Esta proyección comprende sucesivamente el globo pálido externo (GPe), el globo pálido interno (GPi), la pars compacta de la sustancia negra (SNc) y la pars reticulata de la sustancia negra (SNr).
+
+Las neuronas de esta proyección son inhibidas por las sinapsis GABAérgicas del cuerpo estriado dorsal.
+
+Entre estos objetivos, el GPe no envía axones fuera del sistema.
+
+Otros envían axones al colículo superior.
+
+Otros dos comprenden la salida al tálamo, formando dos canales separados: uno a través del segmento interno del globo pálido a los núcleos ventrales orales del tálamo y de allí al área motora suplementaria cortical y otro a través de la sustancia negra al anterior ventral. núcleos del tálamo y de ahí a la corteza frontal y la corteza oculomotora.
+
+
+=== Suministro de sangre ===
+
+Las arterias estriadas de penetración profunda suministran sangre al cuerpo estriado.
+
+Estas arterias incluyen la arteria recurrente de Heubner que surge de la arteria cerebral anterior y las arterias lenticuloestriadas que surgen de la arteria cerebral media.
+
+
+== Función ==
+
+El cuerpo estriado ventral, y el núcleo accumbens en particular, interviene principalmente en la recompensa, la cognición, el refuerzo y la prominencia motivacional, mientras que el cuerpo estriado dorsal interviene principalmente en la cognición que involucra la función motora, ciertas funciones ejecutivas (p. ej., control inhibitorio e impulsividad) y estímulo-respuesta. aprendizaje; hay un pequeño grado de superposición, ya que el cuerpo estriado dorsal también es un componente del sistema de recompensa que, junto con el núcleo accumbens central, media en la codificación de nuevos programas motores asociados con la adquisición de recompensas futuras (p. ej., la respuesta motora condicionada a un señal de recompensa). Los receptores de dopamina metabotrópicos están presentes tanto en las neuronas espinosas como en las terminales de los axones corticales.
+
+Las cascadas de segundos mensajeros desencadenadas por la activación de estos receptores de dopamina pueden modular la función pre y postsináptica, tanto a corto como a largo plazo.
+
+En los humanos, el cuerpo estriado se activa por estímulos asociados con la recompensa, pero también por estímulos aversivos, nuevos, inesperados o intensos, y señales asociadas con tales eventos.
+
+La evidencia de fMRI sugiere que la propiedad común que vincula estos estímulos, a los que reacciona el cuerpo estriado, es la prominencia en las condiciones de presentación.
+
+Varias otras áreas y circuitos del cerebro también están relacionados con la recompensa, como las áreas frontales.
+
+Los mapas funcionales del cuerpo estriado revelan interacciones con regiones ampliamente distribuidas de la corteza cerebral importantes para una amplia gama de funciones.
+
+La interacción entre el cuerpo estriado y la corteza prefrontal es relevante para el comportamiento, particularmente para el desarrollo adolescente como lo propone el modelo de sistemas duales.
+
+
+== Importancia clínica ==
+
+
+
+=== Enfermedad de Parkinson y otros trastornos del movimiento ===
+
+La enfermedad de Parkinson provoca la pérdida de la inervación dopaminérgica del estriado dorsal (y otros ganglios basales) y una cascada de consecuencias.
+
+La atrofia del cuerpo estriado también está implicada en la enfermedad de Huntington y en trastornos del movimiento como corea, coreoatetosis y discinesias.
+
+Estos también se han descrito como trastornos del circuito de los ganglios basales.
+
+
+=== Adicción ===
+
+La adicción, un trastorno del sistema de recompensa del cerebro, surge a través de la sobreexpresión de DeltaFosB (ΔFosB), un factor de transcripción, en las neuronas espinosas medianas de tipo D1 del cuerpo estriado ventral.
+
+ΔFosB es un gen inducible que se expresa cada vez más en el núcleo accumbens como resultado de sobredosis repetidas de una droga adictiva o sobreexposición a otros estímulos adictivos.
+
+
+=== Trastorno bipolar ===
+
+Se ha observado una asociación entre la expresión estriatal de variantes del gen PDE10A y algunos pacientes con trastorno bipolar I.
+
+Las variantes de otros genes, DISC1 y GNAS, se han asociado con el trastorno bipolar II.
+
+
+=== Trastorno del espectro autista ===
+
+El trastorno del espectro autista (TEA) se caracteriza por una inflexibilidad cognitiva y una comprensión deficiente de los sistemas sociales.
+
+Este comportamiento inflexible se origina en defectos en la corteza prefrontal y en los circuitos estriatales.
+
+Los defectos en el cuerpo estriado parecen contribuir específicamente a las deficiencias motoras, sociales y de comunicación que se observan en los pacientes con TEA.
+
+En ratones que tienen un fenotipo similar a ASD inducido a través de la sobreexpresión del factor 4E de iniciación de la traducción eucariota, se ha demostrado que estos defectos parecen provenir de la capacidad reducida para almacenar y procesar información en el cuerpo estriado, lo que conduce a la dificultad se ve en la formación de nuevos patrones motores, así como en la desvinculación de los existentes.
+
+
+=== Disfunción ===
+
+La disfunción en el cuerpo estriado ventral puede conducir a una variedad de trastornos, en particular, depresión y trastorno obsesivo-compulsivo.
+
+Debido a su participación en las vías de recompensa, el cuerpo estriado ventral también se ha implicado en el desempeño de un papel fundamental en la adicción.
+
+Ha sido bien establecido que el cuerpo estriado ventral está fuertemente involucrado en la mediación de los efectos de refuerzo de las drogas, especialmente estimulantes, a través de la estimulación dopaminérgica.
+
+
+== Historia ==
+
+En los siglos XVII y XVIII, el término "cuerpo estriado" se utilizó para designar muchos elementos distintos, profundos e infracorticales del hemisferio.
+
+Etimológicamente se deriva del (latín) "striatus" = "acanalado, estriado" y del inglés "striated" = que tiene líneas paralelas o surcos en la superficie.
+
+En 1941, Cécile y Oskar Vogt simplificaron la nomenclatura proponiendo el término estriado para todos los elementos de los ganglios basales construidos con elementos estriados:
+ 
+el núcleo caudado, el putamen y el fundus striati, que es la parte ventral que une a los dos anteriores ventralmente a la parte inferior de la cápsula interna.
+
+El término neostriatum fue forjado por anatomistas comparativos comparando las estructuras subcorticales entre vertebrados, porque se pensaba que era una sección filogenéticamente más nueva del cuerpo estriado.
+
+Algunas fuentes todavía utilizan el término, incluidos los encabezados de temas médicos.
+
+
+== Otros animales ==
+
+En las aves, el término utilizado fue paleostriatum addedatum, y en la nueva lista de terminología aviar (a partir de 2002) para neostriatum, se cambió a nidopallium.
+
+En especies no primates, las islas de Calleja están incluidas en el cuerpo estriado ventral.
+
+
+
+https://en.wikipedia.org/wiki/Estriado
+
+;;;PT;;;
+
+
+
+ESTRITO
+
+
+O corpo estriado, ou corpo estriado (também chamado de núcleo estriado), é um núcleo (um aglomerado de neurônios) nos gânglios basais subcorticais do prosencéfalo.
+
+O corpo estriado é um componente crítico dos sistemas motor e de recompensa; recebe aportes glutamatérgicos e dopaminérgicos de diversas fontes; e serve como a entrada primária para o resto dos gânglios da base.
+
+Funcionalmente, o corpo estriado coordena vários aspectos da cognição, incluindo planejamento motor e de ação, tomada de decisão, motivação, reforço e percepção de recompensa.
+
+O corpo estriado é formado pelo núcleo caudado e pelo núcleo lentiforme.
+
+O núcleo lentiforme é formado pelo putâmen maior e pelo globo pálido menor.
+
+Estritamente falando, o globo pálido é parte do corpo estriado.
+
+É prática comum, no entanto, excluir implicitamente o globo pálido quando se refere a estruturas estriatais.
+
+Nos primatas, o corpo estriado é dividido em estriado ventral e estriado dorsal, subdivisões baseadas na função e nas conexões.
+
+O corpo estriado ventral consiste no núcleo accumbens e no tubérculo olfativo.
+
+O estriado dorsal consiste no núcleo caudado e no putâmen.
+
+Uma substância branca, trato nervoso (a cápsula interna) no estriado dorsal separa o núcleo caudado e o putâmen.
+
+Anatomicamente, o termo estriado descreve sua aparência listrada (estriada) de substância cinza e branca.
+
+
+== Estrutura ==
+
+O estriado é a maior estrutura dos gânglios da base.
+
+O corpo estriado é dividido em subdivisão ventral e dorsal, com base na função e nas conexões.
+
+O corpo estriado ventral é composto pelo núcleo accumbens e pelo tubérculo olfativo.
+
+O núcleo accumbens é composto pelo núcleo accumbens e pela casca do núcleo accumbens, que diferem pelas populações neurais.
+
+O tubérculo olfativo recebe informações do bulbo olfativo, mas não demonstrou desempenhar um papel no processamento do olfato.
+
+Nas espécies não primatas, as ilhas de Calleja estão incluídas.
+
+O corpo estriado ventral está associado ao sistema límbico e tem sido implicado como uma parte vital do circuito para a tomada de decisões e o comportamento relacionado à recompensa.
+
+O estriado dorsal é composto pelo núcleo caudado e pelo putâmen.
+
+A coloração pode diferenciar o corpo estriado em dois compartimentos distintos de estriossomos ou manchas e uma matriz circundante; isto é particularmente evidente nos componentes da acetilcolinesterase e calbindina.
+
+Mais estudos foram realizados no estriado dorsal, mas os compartimentos também foram identificados no estriado ventral.
+
+No estriado dorsal, os estriossomos constituem 10-15 por cento do volume estriatal.
+
+
+=== Tipos de células ===
+
+Tipos de células no corpo estriado incluem:
+
+Neurônios espinhosos médios (MSNs), que são os principais neurônios do corpo estriado.
+
+São GABAérgicos e, portanto, são classificados como neurônios inibitórios.
+
+Os neurônios de projeção espinhosa média compreendem 95% da população neuronal total do corpo estriado humano.
+
+Os neurônios espinhosos médios têm dois tipos característicos: MSNs do tipo D1 e MSNs do tipo D2.
+
+Uma subpopulação de MSNs contém receptores do tipo D1 e do tipo D2, com aproximadamente 40% dos MSNs estriatais expressando mRNA de DRD1 e DRD2.
+
+Os interneurônios colinérgicos liberam acetilcolina, que tem uma variedade de efeitos importantes no corpo estriado.
+
+Em humanos, outros primatas e roedores, esses interneurônios respondem a estímulos ambientais salientes com respostas estereotipadas que são temporalmente alinhadas com as respostas dos neurônios dopaminérgicos da substância negra.
+
+Os próprios interneurônios colinérgicos grandes são afetados pela dopamina através dos receptores de dopamina D5.
+
+A dopamina também controla diretamente a comunicação entre os interneurônios colinérgicos.
+Existem muitos tipos de interneurônios GABAérgicos.
+
+Os mais conhecidos são os interneurônios que expressam a parvalbumina, também conhecidos como interneurônios de pico rápido, que participam de uma poderosa inibição feedforward dos neurônios principais.
+
+Além disso, existem interneurônios GABAérgicos que expressam tirosina hidroxilase, somatostatina, óxido nítrico sintase e neuropeptídeo-y.
+
+Recentemente, dois tipos de interneurônios GABAérgicos que expressam neuropeptídeo-y foram descritos em detalhes, um dos quais traduz a atividade sincrônica de interneurônios colinérgicos em inibição de neurônios principais.
+
+Esses neurônios do corpo estriado não são distribuídos uniformemente. Existem duas regiões de neurogênese no cérebro – a zona subventricular nos ventrículos laterais e o giro denteado na formação do hipocampo.
+
+Os neuroblastos que se formam no ventrículo lateral adjacente ao estriado, integram-se no estriado.
+
+Isso foi observado no corpo estriado humano após um acidente vascular cerebral isquêmico.
+
+A lesão do corpo estriado estimula a migração de neuroblastos da zona subventricular para o corpo estriado, onde se diferenciam em neurônios adultos.
+
+A passagem normal dos neuroblastos da SVZ é para o bulbo olfatório, mas esse tráfego é desviado para o corpo estriado após um acidente vascular cerebral isquêmico.
+
+No entanto, poucos dos novos neurônios desenvolvidos sobrevivem.
+
+
+=== Entradas ===
+
+A maior conexão é do córtex, em termos de axônios celulares.
+
+Muitas partes do neocórtex inervam o estriado dorsal.
+
+Os neurônios corticais piramidais que se projetam para o corpo estriado estão localizados nas camadas II-VI, sendo as projeções mais densas provenientes da camada V.
+
+Eles terminam principalmente nas espinhas dendríticas dos neurônios espinhosos.
+
+São neurônios glutamatérgicos excitantes do estriado.
+O corpo estriado é visto como tendo seu próprio microcircuito interno.
+
+O corpo estriado ventral recebe aferências diretas de múltiplas regiões do córtex cerebral e estruturas límbicas como a amígdala, tálamo e hipocampo, bem como o córtex entorrinal e o giro temporal inferior.
+
+Sua entrada primária é para o sistema dos gânglios da base.
+
+Além disso, a via mesolímbica se projeta da área tegmental ventral para o núcleo accumbens do estriado ventral.
+
+Outro aferente bem conhecido é a conexão nigroestriatal que surge dos neurônios da substância negra pars compacta.
+
+Enquanto os axônios corticais fazem sinapse principalmente nas cabeças dos neurônios espinhosos, os axônios nigrais fazem sinapse principalmente nos eixos da coluna.
+
+Em primatas, o aferente talamostriatal vem do complexo mediano-parafascicular central do tálamo (ver sistema de gânglios basais dos primatas).
+
+Este aferente é glutamatérgico.
+
+A participação de neurônios verdadeiramente intralaminares é muito mais limitada.
+
+O corpo estriado também recebe aferências de outros elementos dos gânglios da base, como o núcleo subtalâmico (glutamatérgico) ou o globo pálido externo (GABAérgico).
+
+
+=== Metas ===
+
+As saídas primárias do corpo estriado ventral projetam-se para o pálido ventral, depois para o núcleo dorsal medial do tálamo, que faz parte do circuito frontoestriatal.
+
+Além disso, o corpo estriado ventral projeta-se para o globo pálido e a substância negra pars reticulata.
+
+Algumas de suas outras saídas incluem projeções para a amígdala estendida, hipotálamo lateral e núcleo pedunculopontino.
+
+As saídas estriadas dos componentes dorsal e ventral são compostas principalmente de neurônios espinhosos médios (MSNs), um tipo de neurônio de projeção, que possui dois fenótipos primários:
+ 
+MSNs "indiretos" que expressam receptores semelhantes a D2 e ​​MSNs "diretos" que expressam receptores semelhantes a D1.
+ 
+O núcleo principal dos gânglios da base é o corpo estriado, que se projeta diretamente para o globo pálido por meio de uma via de fibras estriatopalidais.
+
+A via estriado-pálida tem aspecto esbranquiçado devido às fibras mielinizadas.
+
+Essa projeção compreende sucessivamente o globo pálido externo (GPe), o globo pálido interno (GPi), a parte compacta da substância negra (SNc) e a parte reticulata da substância negra (SNr).
+
+Os neurônios dessa projeção são inibidos por sinapses GABAérgicas do estriado dorsal.
+
+Dentre esses alvos, o GPe não envia axônios para fora do sistema.
+
+Outros enviam axônios para o colículo superior.
+
+Dois outros compreendem a saída para o tálamo, formando dois canais separados: um através do segmento interno do globo pálido para os núcleos ventrais orais do tálamo e daí para a área motora suplementar cortical e outro através da substância negra para o ventral anterior. núcleos do tálamo e daí para o córtex frontal e o córtex oculomotor.
+
+
+=== Suprimento sanguíneo ===
+
+As artérias estriadas penetrantes profundas fornecem sangue ao corpo estriado.
+
+Essas artérias incluem a artéria recorrente de Heubner que se origina da artéria cerebral anterior e as artérias lenticuloestriadas que se originam da artéria cerebral média.
+
+
+== Função ==
+
+O estriado ventral, e o núcleo accumbens em particular, medeiam principalmente recompensa, cognição, reforço e saliência motivacional, enquanto o estriado dorsal medeia principalmente a cognição envolvendo função motora, certas funções executivas (por exemplo, controle inibitório e impulsividade) e estímulo-resposta. Aprendendo; existe um pequeno grau de sobreposição, pois o estriado dorsal também é um componente do sistema de recompensa que, juntamente com o núcleo accumbens, medeia a codificação de novos programas motores associados à futura aquisição de recompensa (por exemplo, a resposta motora condicionada a um sugestão de recompensa). Receptores metabotrópicos de dopamina estão presentes tanto em neurônios espinhosos quanto em terminais axônicos corticais.
+
+As cascatas de segundos mensageiros desencadeadas pela ativação desses receptores de dopamina podem modular a função pré e pós-sináptica, tanto a curto quanto a longo prazo.
+
+Em humanos, o corpo estriado é ativado por estímulos associados à recompensa, mas também por estímulos aversivos, novos, inesperados ou intensos e pistas associadas a esses eventos.
+
+Evidências de fMRI sugerem que a propriedade comum que liga esses estímulos, aos quais o corpo estriado está reagindo, é a saliência sob as condições de apresentação.
+
+Várias outras áreas e circuitos cerebrais também estão relacionados à recompensa, como as áreas frontais.
+
+Os mapas funcionais do corpo estriado revelam interações com regiões amplamente distribuídas do córtex cerebral, importantes para diversas funções.
+
+A interação entre o corpo estriado e o córtex pré-frontal é relevante para o comportamento, particularmente para o desenvolvimento do adolescente, conforme proposto pelo modelo de sistemas duais.
+
+
+== Significado clínico ==
+
+
+
+=== Doença de Parkinson e outros distúrbios do movimento ===
+
+A doença de Parkinson resulta na perda da inervação dopaminérgica para o corpo estriado dorsal (e outros gânglios da base) e uma cascata de consequências.
+
+A atrofia do corpo estriado também está envolvida na doença de Huntington e distúrbios do movimento, como coreia, coreoatetose e discinesias.
+
+Estes também foram descritos como distúrbios do circuito dos gânglios da base.
+
+
+=== Vício ===
+
+O vício, um distúrbio do sistema de recompensa do cérebro, surge através da superexpressão de DeltaFosB (ΔFosB), um fator de transcrição, nos neurônios espinhosos médios do tipo D1 do estriado ventral.
+
+ΔFosB é um gene induzível que é cada vez mais expresso no núcleo accumbens como resultado de overdose repetida de uma droga viciante ou superexposição a outros estímulos viciantes.
+
+
+=== Transtorno bipolar ===
+
+Foi observada uma associação entre a expressão estriatal de variantes do gene PDE10A e alguns pacientes com transtorno bipolar I.
+
+Variantes de outros genes, DISC1 e GNAS, foram associadas ao transtorno bipolar II.
+
+
+=== Transtorno do espectro do autismo ===
+
+O transtorno do espectro autista (TEA) é caracterizado por inflexibilidade cognitiva e má compreensão dos sistemas sociais.
+
+Esse comportamento inflexível se origina em defeitos no córtex pré-frontal, bem como nos circuitos estriatais.
+
+Os defeitos no estriado parecem contribuir especificamente para as deficiências motoras, sociais e de comunicação observadas em pacientes com TEA.
+
+Em camundongos que têm um fenótipo semelhante ao ASD induzido pela superexpressão da iniciação eucariótica do fator de tradução 4E, foi demonstrado que esses defeitos parecem resultar da capacidade reduzida de armazenar e processar informações no corpo estriado, o que leva à dificuldade visto na formação de novos padrões motores, bem como se desvinculando dos já existentes.
+
+
+=== Disfunção ===
+
+A disfunção no estriado ventral pode levar a uma variedade de distúrbios, principalmente depressão e transtorno obsessivo-compulsivo.
+
+Por causa de seu envolvimento nas vias de recompensa, o estriado ventral também tem sido implicado em desempenhar um papel crítico no vício.
+
+Está bem estabelecido que o corpo estriado ventral está fortemente envolvido na mediação dos efeitos reforçadores de drogas, especialmente estimulantes, por meio da estimulação dopaminérgica.
+
+
+== História ==
+
+Nos séculos XVII e XVIII, o termo "corpus striatum" era usado para designar muitos elementos infracorticais distintos e profundos do hemisfério.
+
+Etimologicamente é derivado do (latim) "striatus" = "sulcado, estriado" e do inglês "estriado" = tendo linhas ou sulcos paralelos na superfície.
+
+Em 1941, Cécile e Oskar Vogt simplificaram a nomenclatura propondo o termo estriado para todos os elementos dos gânglios da base construídos com elementos estriados:
+ 
+o núcleo caudado, o putâmen e o fundo estriado, que é a parte ventral que liga os dois precedentes ventralmente à parte inferior da cápsula interna.
+
+O termo neostriatum foi forjado por anatomistas comparativos comparando as estruturas subcorticais entre os vertebrados, porque se pensava que era uma seção filogeneticamente mais nova do corpo estriado.
+
+O termo ainda é usado por algumas fontes, incluindo Medical Subject Headings.
+
+
+== Outros animais ==
+
+Em aves o termo usado foi paleostriatum augmentatum, e na nova lista de terminologia aviária (a partir de 2002) para neostriatum este foi alterado para nidopallium.
+
+Nas espécies não primatas, as ilhas de Calleja estão incluídas no estriado ventral.
+
+
+
+https://en.wikipedia.org/wiki/Striatum
+
+;;;FR;;;
+
+
+
+STRIATE
+
+
+Le striatum, ou corpus striatum (également appelé noyau strié), est un noyau (un groupe de neurones) dans les noyaux gris centraux sous-corticaux du cerveau antérieur.
+
+Le striatum est un composant essentiel des systèmes moteur et de récompense ; reçoit des apports glutamatergiques et dopaminergiques de différentes sources ; et sert d'entrée principale au reste des ganglions de la base.
+
+Fonctionnellement, le striatum coordonne plusieurs aspects de la cognition, y compris la planification motrice et d'action, la prise de décision, la motivation, le renforcement et la perception des récompenses.
+
+Le striatum est composé du noyau caudé et du noyau lentiforme.
+
+Le noyau lentiforme est composé du plus gros putamen et du plus petit globus pallidus.
+
+À proprement parler, le globus pallidus fait partie du striatum.
+
+Il est cependant de pratique courante d'exclure implicitement le globus pallidus en se référant aux structures striatales.
+
+Chez les primates, le striatum est divisé en un striatum ventral et un striatum dorsal, des subdivisions basées sur la fonction et les connexions.
+
+Le striatum ventral est constitué du noyau accumbens et du tubercule olfactif.
+
+Le striatum dorsal est constitué du noyau caudé et du putamen.
+
+Une substance blanche, un tractus nerveux (la capsule interne) dans le striatum dorsal sépare le noyau caudé et le putamen.
+
+Anatomiquement, le terme striatum décrit son aspect rayé (strié) de matière grise et blanche.
+
+
+== Structure ==
+
+Le striatum est la plus grande structure des ganglions de la base.
+
+Le striatum est divisé en une subdivision ventrale et dorsale, basée sur la fonction et les connexions.
+
+Le striatum ventral est composé du noyau accumbens et du tubercule olfactif.
+
+Le noyau accumbens est composé du noyau du noyau accumbens et de la coquille du noyau accumbens, qui diffèrent par les populations neurales.
+
+Le tubercule olfactif reçoit des informations du bulbe olfactif, mais il n'a pas été démontré qu'il joue un rôle dans le traitement de l'odeur.
+
+Chez les espèces non primates, les îles de Calleja sont incluses.
+
+Le striatum ventral est associé au système limbique et a été impliqué en tant que partie vitale des circuits pour la prise de décision et le comportement lié à la récompense.
+
+Le striatum dorsal est composé du noyau caudé et du putamen.
+
+La coloration peut différencier le striatum en deux compartiments distincts de striosomes ou patchs, et une matrice environnante ; ceci est particulièrement évident sur les composants de l'acétylcholinestérase et de la calbindine.
+
+D'autres études ont été menées sur le striatum dorsal mais les compartiments ont également été identifiés dans le striatum ventral.
+
+Dans le striatum dorsal, les striosomes représentent 10 à 15 % du volume striatal.
+
+
+=== Types de cellules ===
+
+Les types de cellules dans le striatum comprennent :
+
+Les neurones épineux moyens (MSN), qui sont les principaux neurones du striatum.
+
+Ils sont GABAergiques et sont donc classés comme neurones inhibiteurs.
+
+Les neurones à projection épineuse moyenne représentent 95 % de la population neuronale totale du striatum humain.
+
+Les neurones épineux moyens ont deux types caractéristiques : les MSN de type D1 et les MSN de type D2.
+
+Une sous-population de MSN contient à la fois des récepteurs de type D1 et de type D2, avec environ 40% des MSN striataux exprimant à la fois l'ARNm DRD1 et DRD2.
+
+Les interneurones cholinergiques libèrent de l'acétylcholine, qui a une variété d'effets importants dans le striatum.
+
+Chez l'homme, les autres primates et les rongeurs, ces interneurones répondent aux stimuli environnementaux saillants avec des réponses stéréotypées qui sont temporellement alignées avec les réponses des neurones dopaminergiques de la substantia nigra.
+
+Les grands interneurones cholinergiques aspineux eux-mêmes sont affectés par la dopamine via les récepteurs dopaminergiques D5.
+
+La dopamine contrôle également directement la communication entre les interneurones cholinergiques.
+Il existe de nombreux types d'interneurones GABAergiques.
+
+Les plus connus sont les interneurones exprimant la parvalbumine, également appelés interneurones à pics rapides, qui participent à une puissante inhibition anticipative des neurones principaux.
+
+En outre, il existe des interneurones GABAergiques qui expriment la tyrosine hydroxylase, la somatostatine, l'oxyde nitrique synthase et le neuropeptide-y.
+
+Récemment, deux types d'interneurones GABAergiques exprimant le neuropeptide-y ont été décrits en détail, dont l'un traduit l'activité synchrone des interneurones cholinergiques en inhibition des neurones principaux.
+
+Ces neurones du striatum ne sont pas répartis uniformément. Il existe deux régions de neurogenèse dans le cerveau - la zone sous-ventriculaire dans les ventricules latéraux et le gyrus denté dans la formation hippocampique.
+
+Les neuroblastes qui se forment dans le ventricule latéral adjacent au striatum s'intègrent dans le striatum.
+
+Cela a été noté dans le striatum humain suite à un accident vasculaire cérébral ischémique.
+
+Les lésions causées au striatum stimulent la migration des neuroblastes de la zone sous-ventriculaire vers le striatum, où ils se différencient en neurones adultes.
+
+Le passage normal des neuroblastes SVZ se fait vers le bulbe olfactif mais ce trafic est dévié vers le striatum après un AVC ischémique.
+
+Cependant, peu des nouveaux neurones développés survivent.
+
+
+=== Entrées ===
+
+La plus grande connexion provient du cortex, en termes d'axones cellulaires.
+
+De nombreuses parties du néocortex innervent le striatum dorsal.
+
+Les neurones pyramidaux corticaux se projetant vers le striatum sont situés dans les couches II-VI, les projections les plus denses provenant de la couche V.
+
+Ils se terminent principalement sur les épines dendritiques des neurones épineux.
+
+Ce sont des neurones striataux glutamatergiques et excitants.
+Le striatum est considéré comme ayant son propre microcircuit interne.
+
+Le striatum ventral reçoit un apport direct de plusieurs régions du cortex cérébral et des structures limbiques telles que l'amygdale, le thalamus et l'hippocampe, ainsi que le cortex entorhinal et le gyrus temporal inférieur.
+
+Son entrée principale est le système des ganglions de la base.
+
+De plus, la voie mésolimbique se projette de la zone tegmentale ventrale vers le noyau accumbens du striatum ventral.
+
+Un autre afférent bien connu est la connexion nigro-striée provenant des neurones de la substantia nigra pars compacta.
+
+Alors que les axones corticaux se synapsent principalement sur les têtes de la colonne vertébrale des neurones épineux, les axones nigras se synapsent principalement sur les tiges de la colonne vertébrale.
+
+Chez les primates, l'afférence thalamostriée provient du complexe central médian-parafasciculaire du thalamus (voir système des ganglions de la base des primates ).
+
+Cet afférent est glutamatergique.
+
+La participation des neurones véritablement intralaminaires est beaucoup plus limitée.
+
+Le striatum reçoit également des afférences d'autres éléments des ganglions de la base tels que le noyau sous-thalamique (glutamatergique) ou le globus pallidus externe (GABAergique).
+
+
+=== Cibles ===
+
+Les sorties primaires du striatum ventral se projettent vers le pallidum ventral, puis le noyau dorsal médial du thalamus, qui fait partie du circuit frontostriatal.
+
+De plus, le striatum ventral se projette sur le globus pallidus et la substantia nigra pars reticulata.
+
+Certaines de ses autres sorties comprennent des projections vers l'amygdale étendue, l'hypothalamus latéral et le noyau pédonculopontin.
+
+Les sorties striatales des composants dorsal et ventral sont principalement composées de neurones épineux moyens (MSN), un type de neurone de projection, qui ont deux phénotypes principaux :
+ 
+les MSN "indirects" qui expriment les récepteurs de type D2 et les MSN "directs" qui expriment les récepteurs de type D1.
+ 
+Le noyau principal des ganglions de la base est le striatum qui se projette directement sur le globus pallidus via une voie de fibres striatopallidales.
+
+La voie striato-pallidale a un aspect blanchâtre dû aux fibres myélinisées.
+
+Cette projection comprend successivement le globus pallidus externe (GPe), le globus pallidus interne (GPi), la pars compacta de la substantia nigra (SNc) et la pars reticulata de la substantia nigra (SNr).
+
+Les neurones de cette projection sont inhibés par les synapses GABAergiques du striatum dorsal.
+
+Parmi ces cibles, le GPe n'envoie pas d'axones hors du système.
+
+D'autres envoient des axones au colliculus supérieur.
+
+Deux autres comprennent la sortie vers le thalamus, formant deux canaux séparés : l'un à travers le segment interne du globus pallidus jusqu'aux noyaux oraux ventraux du thalamus et de là à l'aire motrice supplémentaire corticale et un autre à travers la substantia nigra jusqu'à la partie antérieure ventrale. noyaux du thalamus et de là au cortex frontal et au cortex occulomoteur.
+
+
+=== Approvisionnement en sang ===
+
+Les artères striées à pénétration profonde irriguent le striatum.
+
+Ces artères comprennent l'artère récurrente de Heubner issue de l'artère cérébrale antérieure et les artères lenticulostriées issues de l'artère cérébrale moyenne.
+
+
+== Fonction ==
+
+Le striatum ventral, et le noyau accumbens en particulier, médie principalement la récompense, la cognition, le renforcement et la saillance motivationnelle, tandis que le striatum dorsal médie principalement la cognition impliquant la fonction motrice, certaines fonctions exécutives (par exemple, le contrôle inhibiteur et l'impulsivité) et la réponse au stimulus. apprentissage; il y a un faible degré de chevauchement, car le striatum dorsal est également un composant du système de récompense qui, avec le noyau du noyau accumbens, assure la médiation de l'encodage de nouveaux programmes moteurs associés à l'acquisition future de la récompense (par exemple, la réponse motrice conditionnée à un signal de récompense). Les récepteurs métabotropiques de la dopamine sont présents à la fois sur les neurones épineux et sur les terminaisons des axones corticaux.
+
+Des cascades de seconds messagers déclenchées par l'activation de ces récepteurs dopaminergiques peuvent moduler la fonction pré- et post-synaptique, à la fois à court et à long terme.
+
+Chez l'homme, le striatum est activé par des stimuli associés à la récompense, mais aussi par des stimuli aversifs, nouveaux, inattendus ou intenses, et des signaux associés à de tels événements.
+
+Les preuves de l'IRMf suggèrent que la propriété commune liant ces stimuli, auxquels le striatum réagit, est la saillance dans les conditions de présentation.
+
+Un certain nombre d'autres zones et circuits cérébraux sont également liés à la récompense, comme les zones frontales.
+
+Les cartes fonctionnelles du striatum révèlent des interactions avec des régions largement distribuées du cortex cérébral importantes pour un large éventail de fonctions.
+
+L'interaction entre le striatum et le cortex préfrontal est pertinente pour le comportement, en particulier le développement de l'adolescent tel que proposé par le modèle des systèmes doubles.
+
+
+== Signification clinique ==
+
+
+
+=== Maladie de Parkinson et autres troubles du mouvement ===
+
+La maladie de Parkinson entraîne une perte de l'innervation dopaminergique du striatum dorsal (et d'autres ganglions de la base) et une cascade de conséquences.
+
+L'atrophie du striatum est également impliquée dans la maladie de Huntington et les troubles du mouvement tels que la chorée, la choréoathétose et les dyskinésies.
+
+Ceux-ci ont également été décrits comme des troubles du circuit des ganglions de la base.
+
+
+=== Dépendance ===
+
+La dépendance, un trouble du système de récompense du cerveau, résulte de la surexpression de DeltaFosB (ΔFosB), un facteur de transcription, dans les neurones épineux moyens de type D1 du striatum ventral.
+
+ΔFosB est un gène inductible qui est de plus en plus exprimé dans le noyau accumbens à la suite d'un surdosage répété d'une drogue addictive ou d'une surexposition à d'autres stimuli addictifs.
+
+
+=== Trouble bipolaire ===
+
+Une association a été observée entre l'expression striatale de variants du gène PDE10A et certains patients atteints de trouble bipolaire I.
+
+Des variantes d'autres gènes, DISC1 et GNAS, ont été associées au trouble bipolaire II.
+
+
+=== Trouble du spectre autistique ===
+
+Les troubles du spectre autistique (TSA) se caractérisent par une inflexibilité cognitive et une mauvaise compréhension des systèmes sociaux.
+
+Ce comportement inflexible trouve son origine dans des défauts du cortex préfrontal ainsi que des circuits striataux.
+
+Les défauts du striatum semblent contribuer spécifiquement aux troubles moteurs, sociaux et de communication observés chez les patients atteints de TSA.
+
+Chez les souris qui ont un phénotype de type ASD induit via la surexpression de l'initiation eucaryote du facteur de traduction 4E, il a été montré que ces défauts semblent provenir de la capacité réduite à stocker et traiter l'information dans le striatum, ce qui conduit à la difficulté vu dans la formation de nouveaux schémas moteurs, ainsi que dans le désengagement de ceux existants.
+
+
+=== Dysfonctionnement ===
+
+Un dysfonctionnement du striatum ventral peut entraîner divers troubles, notamment la dépression et le trouble obsessionnel-compulsif.
+
+En raison de son implication dans les voies de récompense, le striatum ventral a également été impliqué dans le jeu d'un rôle critique dans la dépendance.
+
+Il a été bien établi que le striatum ventral est fortement impliqué dans la médiation des effets de renforcement des médicaments, en particulier des stimulants, par stimulation dopaminergique.
+
+
+== Historique ==
+
+Aux XVIIe et XVIIIe siècles, le terme «corpus striatum» était utilisé pour désigner de nombreux éléments distincts, profonds et infracorticaux de l'hémisphère.
+
+Étymologiquement, il est dérivé du (latin) "striatus" = "rainuré, strié" et de l'anglais "strié" = ayant des lignes parallèles ou des rainures sur la surface.
+
+En 1941, Cécile et Oskar Vogt simplifient la nomenclature en proposant le terme striatum pour tous les éléments des ganglions de la base construits avec des éléments striés :
+ 
+le noyau caudé, le putamen et le fond strié, qui est la partie ventrale reliant les deux précédents ventralement à la partie inférieure de la capsule interne.
+
+Le terme neostriatum a été forgé par des anatomistes comparatifs comparant les structures sous-corticales entre les vertébrés, car on pensait qu'il s'agissait d'une section phylogénétiquement plus récente du corps strié.
+
+Le terme est encore utilisé par certaines sources, notamment Medical Subject Headings.
+
+
+== Autres animaux ==
+
+Chez les oiseaux, le terme utilisé était le paleostriatum augmentatum, et dans la nouvelle liste de terminologie aviaire (à partir de 2002) pour le néostriatum, cela a été remplacé par le nidopallium.
+
+Chez les espèces non primates, les îles de Calleja sont incluses dans le striatum ventral.
+
+
+
+https://en.wikipedia.org/wiki/Striatum

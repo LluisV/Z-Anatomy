@@ -1,0 +1,288 @@
+
+
+LEFT BUNDLE BRANCH BLOCK
+
+
+Left bundle branch block (LBBB) is a cardiac conduction abnormality seen on the electrocardiogram (ECG). 
+
+In this condition, activation of the left ventricle of the heart is delayed, which causes the left ventricle to contract later than the right ventricle.
+
+
+== Causes ==
+
+Among the causes of LBBB are:
+Aortic stenosis
+Dilated cardiomyopathy
+Acute myocardial infarction
+Extensive coronary artery disease
+Primary disease of the cardiac electrical conduction system
+Long standing hypertension leading to aortic root dilatation and subsequent aortic regurgitation
+Lyme disease
+
+
+== Mechanisms ==
+
+Slow or absent conduction through the left bundle branch means that it takes longer than normal for the left ventricle to fully depolarise. 
+
+This can be due to a damaged bundle branch that is completely unable to conduct, but may represent intact conduction that is slower than normal. 
+
+LBBB may be fixed, present at all times, but may be intermittent for example occurring only during rapid heart rates. 
+
+This may be due to the bundle having a longer refractory period than usual. 
+
+
+== Diagnosis ==
+
+
+LBBB is diagnosed on a 12-lead ECG. 
+
+In adults, it is seen as wide QRS complexes lasting >120ms with characteristic QRS shapes in the precordial leads, although narrower complexes are seen in children. 
+
+In lead V1, the QRS complex is often entirely negative (QS morphology), although a small initial R wave may be seen (rS morphology). 
+
+In the lateral leads (I, aVL, V5-V6) the QRS complexes are usually predominantly positive with a slow upstroke last >60ms to the R-wave peak. 
+
+Notching may be seen in these leads but this is not universal. 
+
+The small Q-waves that are usually seen in the lateral leads are absent in LBBB. 
+
+T-waves usually point in the opposite direction to the terminal portion of the preceding QRS - positive QRS complexes have negative T-waves while negative QRS complexes have positive T-waves. 
+
+The ST segments typically slur into the T-wave and often appear elevated in leads with negative QRS complexes. 
+
+The axis may be normal but may be deviated to the left or right.There are also partial blocks of the left bundle branch: "left anterior fascicular block" (LAFB) and a "left posterior fascicular block" (LPFB). 
+
+This refers to the block after the bifurcation of the left bundle branch.
+
+
+=== Diagnostic consequences ===
+
+The presence of LBBB results in that electrocardiography (ECG) cannot be used to diagnose left ventricular hypertrophy or Q wave infarction, because LBBB in itself results in widened QRS complex, and changes in the ST segment consistent with ischemia or injury.
+
+
+== Treatment ==
+
+Patients with LBBB require complete cardiac evaluation, and those with LBBB and syncope or near-syncope may require a pacemaker.
+Some patients with LBBB, a markedly prolonged QRS (usually > 150 ms), and systolic heart failure may benefit from a biventricular pacemaker, which allows for better synchrony of heart contractions.
+
+
+
+https://en.wikipedia.org/wiki/Left_bundle_branch_block
+;;;ES;;;
+
+
+
+BLOQUEO DE LA RAMA DEL HAZ IZQUIERDO
+
+
+El bloqueo de rama izquierda del haz de His (BRI) es una anomalía de la conducción cardíaca que se observa en el electrocardiograma (ECG).
+
+En esta condición, se retrasa la activación del ventrículo izquierdo del corazón, lo que hace que el ventrículo izquierdo se contraiga más tarde que el ventrículo derecho.
+
+
+== Causas ==
+
+Entre las causas del BRIHH se encuentran:
+Estenosis aórtica
+Miocardiopatía dilatada
+Infarto agudo del miocardio
+Enfermedad arterial coronaria extensa
+Enfermedad primaria del sistema de conducción eléctrica cardiaca
+Hipertensión de larga data que conduce a la dilatación de la raíz aórtica y la insuficiencia aórtica subsiguiente
+enfermedad de Lyme
+
+
+== Mecanismos ==
+
+La conducción lenta o ausente a través de la rama izquierda del haz significa que el ventrículo izquierdo tarda más de lo normal en despolarizarse por completo.
+
+Esto puede deberse a una rama del haz dañada que es completamente incapaz de conducir, pero puede representar una conducción intacta que es más lenta de lo normal.
+
+El BRI puede ser fijo, estar presente en todo momento, pero puede ser intermitente, por ejemplo, ocurriendo solo durante frecuencias cardíacas rápidas.
+
+Esto puede deberse a que el paquete tiene un período refractario más largo de lo habitual.
+
+
+== Diagnóstico ==
+
+
+El BRI se diagnostica en un ECG de 12 derivaciones.
+
+En adultos, se observa como complejos QRS anchos que duran > 120 ms con formas QRS características en las derivaciones precordiales, aunque se observan complejos más estrechos en niños.
+
+En la derivación V1, el complejo QRS suele ser totalmente negativo (morfología QS), aunque puede verse una pequeña onda R inicial (morfología rS).
+
+En las derivaciones laterales (I, aVL, V5-V6), los complejos QRS suelen ser predominantemente positivos con un ascenso lento que dura >60 ms hasta el pico de la onda R.
+
+Se pueden ver muescas en estos cables, pero esto no es universal.
+
+Las pequeñas ondas Q que suelen verse en las derivaciones laterales están ausentes en el BRI.
+
+Las ondas T generalmente apuntan en la dirección opuesta a la porción terminal del QRS anterior: los complejos QRS positivos tienen ondas T negativas, mientras que los complejos QRS negativos tienen ondas T positivas.
+
+Los segmentos ST típicamente se arrastran hacia la onda T y, a menudo, aparecen elevados en las derivaciones con complejos QRS negativos.
+
+El eje puede ser normal pero puede estar desviado hacia la izquierda o hacia la derecha. También existen bloqueos parciales de la rama izquierda del haz: "bloqueo fascicular anterior izquierdo" (LAFB) y "bloqueo fascicular posterior izquierdo" (LPFB).
+
+Esto se refiere al bloqueo después de la bifurcación de la rama izquierda del haz.
+
+
+=== Consecuencias diagnósticas ===
+
+La presencia de BRI da como resultado que la electrocardiografía (ECG) no se pueda utilizar para diagnosticar hipertrofia ventricular izquierda o infarto de onda Q, porque el BRI en sí produce un complejo QRS ensanchado y cambios en el segmento ST compatibles con isquemia o lesión.
+
+
+== Tratamiento ==
+
+Los pacientes con BRI requieren una evaluación cardíaca completa, y aquellos con BRI y síncope o casi síncope pueden requerir un marcapasos.
+Algunos pacientes con BRI, QRS marcadamente prolongado (generalmente > 150 ms) e insuficiencia cardíaca sistólica pueden beneficiarse de un marcapasos biventricular, que permite una mejor sincronización de las contracciones cardíacas.
+
+
+
+https://en.wikipedia.org/wiki/Left_bundle_branch_block
+
+;;;PT;;;
+
+
+
+BLOCO DE RAMO DE PACOTE ESQUERDO
+
+
+O bloqueio de ramo esquerdo (BRE) é uma anormalidade da condução cardíaca observada no eletrocardiograma (ECG).
+
+Nessa condição, a ativação do ventrículo esquerdo do coração é atrasada, o que faz com que o ventrículo esquerdo se contraia mais tarde que o ventrículo direito.
+
+
+== Causas ==
+
+Entre as causas do BRE estão:
+Estenose aortica
+Cardiomiopatia dilatada
+Infarto agudo do miocárdio
+Doença arterial coronariana extensa
+Doença primária do sistema de condução elétrica cardíaca
+Hipertensão de longa duração levando à dilatação da raiz da aorta e subsequente regurgitação aórtica
+Doença de Lyme
+
+
+== Mecanismos ==
+
+A condução lenta ou ausente através do ramo esquerdo significa que leva mais tempo do que o normal para o ventrículo esquerdo se despolarizar completamente.
+
+Isso pode ser devido a um ramo do feixe danificado que é completamente incapaz de conduzir, mas pode representar uma condução intacta que é mais lenta que o normal.
+
+O BRE pode ser fixo, presente em todos os momentos, mas pode ser intermitente, por exemplo, ocorrendo apenas durante frequências cardíacas rápidas.
+
+Isso pode ser devido ao fato de o feixe ter um período refratário mais longo do que o normal.
+
+
+== Diagnóstico ==
+
+
+BRE é diagnosticado em um ECG de 12 derivações.
+
+Em adultos, é visto como complexos QRS largos com duração >120ms com formas características de QRS nas derivações precordiais, embora complexos mais estreitos sejam vistos em crianças.
+
+Na derivação V1, o complexo QRS é muitas vezes totalmente negativo (morfologia QS), embora uma pequena onda R inicial possa ser vista (morfologia rS).
+
+Nas derivações laterais (I, aVL, V5-V6) os complexos QRS são geralmente predominantemente positivos com um curso ascendente lento que dura >60ms até o pico da onda R.
+
+O entalhe pode ser visto nessas derivações, mas isso não é universal.
+
+As pequenas ondas Q que geralmente são vistas nas derivações laterais estão ausentes no BRE.
+
+As ondas T geralmente apontam na direção oposta à porção terminal do QRS anterior - os complexos QRS positivos têm ondas T negativas, enquanto os complexos QRS negativos têm ondas T positivas.
+
+Os segmentos ST tipicamente se agrupam na onda T e muitas vezes aparecem elevados em derivações com complexos QRS negativos.
+
+O eixo pode ser normal, mas pode estar desviado para a esquerda ou para a direita. Há também bloqueios parciais do ramo esquerdo: "bloqueio fascicular anterior esquerdo" (BAF) e "bloqueio fascicular posterior esquerdo" (BPL).
+
+Refere-se ao bloqueio após a bifurcação do ramo esquerdo.
+
+
+=== Consequências do diagnóstico ===
+
+A presença de BRE faz com que o eletrocardiograma (ECG) não possa ser usado para diagnosticar hipertrofia ventricular esquerda ou infarto da onda Q, porque o BRE por si só resulta em alargamento do complexo QRS e alterações no segmento ST consistentes com isquemia ou lesão.
+
+
+== Tratamento ==
+
+Pacientes com BRE requerem avaliação cardíaca completa, e aqueles com BRE e síncope ou quase síncope podem necessitar de marcapasso.
+Alguns pacientes com BRE, QRS marcadamente prolongado (geralmente > 150 ms) e insuficiência cardíaca sistólica podem se beneficiar de um marcapasso biventricular, que permite uma melhor sincronia das contrações cardíacas.
+
+
+
+https://en.wikipedia.org/wiki/Left_bundle_branch_block
+
+;;;FR;;;
+
+
+
+BLOC DE BRANCHEMENT DU FAISCEAU GAUCHE
+
+
+Le bloc de branche gauche (LBBB) est une anomalie de la conduction cardiaque observée sur l'électrocardiogramme (ECG).
+
+Dans cette condition, l'activation du ventricule gauche du cœur est retardée, ce qui provoque la contraction du ventricule gauche plus tard que le ventricule droit.
+
+
+== causes ==
+
+Parmi les causes de LBBB sont:
+Sténose aortique
+Cardiomyopathie dilatée
+Infarctus aigu du myocarde
+Maladie coronarienne étendue
+Maladie primaire du système de conduction électrique cardiaque
+Hypertension de longue date entraînant une dilatation de la racine aortique et une régurgitation aortique subséquente
+maladie de Lyme
+
+
+== Mécanismes ==
+
+Une conduction lente ou absente à travers la branche gauche du faisceau signifie qu'il faut plus de temps que la normale pour que le ventricule gauche se dépolarise complètement.
+
+Cela peut être dû à une branche de faisceau endommagée qui est complètement incapable de conduire, mais peut représenter une conduction intacte plus lente que la normale.
+
+Le LBBB peut être fixe, présent à tout moment, mais peut être intermittent, par exemple survenant uniquement lors de rythmes cardiaques rapides.
+
+Cela peut être dû au fait que le faisceau a une période réfractaire plus longue que d'habitude.
+
+
+== Diagnostic ==
+
+
+LBBB est diagnostiqué sur un ECG à 12 dérivations.
+
+Chez les adultes, il est considéré comme de larges complexes QRS d'une durée > 120 ms avec des formes QRS caractéristiques dans les dérivations précordiales, bien que des complexes plus étroits soient observés chez les enfants.
+
+Dans la dérivation V1, le complexe QRS est souvent entièrement négatif (morphologie QS), bien qu'une petite onde R initiale puisse être observée (morphologie rS).
+
+Dans les dérivations latérales (I, aVL, V5-V6), les complexes QRS sont généralement majoritairement positifs avec une montée lente qui dure > 60 ms jusqu'au pic de l'onde R.
+
+Des encoches peuvent être observées dans ces dérivations, mais ce n'est pas universel.
+
+Les petites ondes Q qui sont habituellement observées dans les dérivations latérales sont absentes dans le LBBB.
+
+Les ondes T pointent généralement dans la direction opposée à la partie terminale du QRS précédent - les complexes QRS positifs ont des ondes T négatives tandis que les complexes QRS négatifs ont des ondes T positives.
+
+Les segments ST s'insinuent généralement dans l'onde T et apparaissent souvent surélevés dans les dérivations avec des complexes QRS négatifs.
+
+L'axe peut être normal mais peut être dévié à gauche ou à droite. Il existe également des blocages partiels de la branche gauche du faisceau : « bloc fasciculaire antérieur gauche » (LAFB) et un « bloc fasciculaire postérieur gauche » (LPFB).
+
+Il s'agit du bloc après la bifurcation de la branche gauche du faisceau.
+
+
+=== Conséquences diagnostiques ===
+
+La présence de LBBB fait que l'électrocardiographie (ECG) ne peut pas être utilisée pour diagnostiquer l'hypertrophie ventriculaire gauche ou l'infarctus de l'onde Q, car la LBBB en elle-même entraîne un complexe QRS élargi et des modifications du segment ST compatibles avec une ischémie ou une blessure.
+
+
+== Traitement ==
+
+Les patients avec LBBB nécessitent une évaluation cardiaque complète, et ceux avec LBBB et syncope ou quasi-syncope peuvent nécessiter un stimulateur cardiaque.
+Certains patients avec LBBB, un QRS nettement prolongé (généralement > 150 ms) et une insuffisance cardiaque systolique peuvent bénéficier d'un stimulateur cardiaque biventriculaire, qui permet une meilleure synchronisation des contractions cardiaques.
+
+
+
+https://en.wikipedia.org/wiki/Left_bundle_branch_block

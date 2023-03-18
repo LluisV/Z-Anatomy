@@ -1,0 +1,1240 @@
+
+
+HYPOTHALAMUS
+
+
+The hypothalamus (from Ancient Greek ὑπό (hupó) 'under', and θάλαμος (thálamos) 'chamber') is a portion of the brain that contains a number of small nuclei with a variety of functions. 
+
+One of the most important functions of the hypothalamus is to link the nervous system to the endocrine system via the pituitary gland. 
+
+The hypothalamus is located below the thalamus and is part of the limbic system. 
+
+In the terminology of neuroanatomy, it forms the ventral part of the diencephalon. 
+
+All vertebrate brains contain a hypothalamus. 
+
+In humans, it is the size of an almond.
+The hypothalamus is responsible for the regulation of certain metabolic processes and other activities of the autonomic nervous system. 
+
+It synthesizes and secretes certain neurohormones, called releasing hormones or hypothalamic hormones, and these in turn stimulate or inhibit the secretion of hormones from the pituitary gland. 
+
+The hypothalamus controls body temperature, hunger, important aspects of parenting and attachment behaviours, thirst, fatigue, sleep, and circadian rhythms.
+
+
+== Structure ==
+
+The hypothalamus is divided into 3 regions (supraoptic, tuberal, mammillary) in a parasagittal plane, indicating location anterior-posterior; and 3 areas (periventricular, medial, lateral) in the coronal plane, indicating location medial-lateral. 
+
+Hypothalamic nuclei are located within these specific regions and areas. 
+
+It is found in all vertebrate nervous systems. 
+
+In mammals, magnocellular neurosecretory cells in the paraventricular nucleus and the supraoptic nucleus of the hypothalamus produce neurohypophysial hormones, oxytocin and vasopressin. 
+
+These hormones are released into the blood in the posterior pituitary. 
+
+Much smaller parvocellular neurosecretory cells, neurons of the paraventricular nucleus, release corticotropin-releasing hormone and other hormones into the hypophyseal portal system, where these hormones diffuse to the anterior pituitary.
+
+
+=== Nuclei ===
+
+The hypothalamic nuclei include the following:
+See alsoventrolateral preoptic nucleus
+periventricular nucleus
+		
+		
+
+
+=== Connections ===
+
+
+The hypothalamus is highly interconnected with other parts of the central nervous system, in particular the brainstem and its reticular formation. 
+
+As part of the limbic system, it has connections to other limbic structures including the amygdala and septum, and is also connected with areas of the autonomous nervous system.
+The hypothalamus receives many inputs from the brainstem, the most notable from the nucleus of the solitary tract, the locus coeruleus, and the ventrolateral medulla.
+Most nerve fibres within the hypothalamus run in two ways (bidirectional).
+
+Projections to areas caudal to the hypothalamus go through the medial forebrain bundle, the mammillotegmental tract and the dorsal longitudinal fasciculus.
+Projections to areas rostral to the hypothalamus are carried by the mammillothalamic tract, the fornix and terminal stria.
+Projections to areas of the sympathetic motor system (lateral horn spinal segments T1-L2/L3) are carried by the hypothalamospinal tract and they activate the sympathetic motor pathway.
+
+
+=== Sexual dimorphism ===
+
+Several hypothalamic nuclei are sexually dimorphic; i.e., there are clear differences in both structure and function between males and females. 
+
+Some differences are apparent even in gross neuroanatomy: most notable is the sexually dimorphic nucleus within the preoptic area, in which the differences are subtle changes in the connectivity and chemical sensitivity of particular sets of neurons. 
+
+The importance of these changes can be recognized by functional differences between males and females. 
+
+For instance, males of most species prefer the odor and appearance of females over males, which is instrumental in stimulating male sexual behavior. 
+
+If the sexually dimorphic nucleus is lesioned, this preference for females by males diminishes. 
+
+Also, the pattern of secretion of growth hormone is sexually dimorphic; this is why in many species, adult males are visibly distinct sizes from females.
+
+
+==== Responsiveness to ovarian steroids ====
+Other striking functional dimorphisms are in the behavioral responses to ovarian steroids of the adult. 
+
+Males and females respond to ovarian steroids in different ways, partly because the expression of estrogen-sensitive neurons in the hypothalamus is sexually dimorphic; i.e., estrogen receptors are expressed in different sets of neurons.
+Estrogen and progesterone can influence gene expression in particular neurons or induce changes in cell membrane potential and kinase activation, leading to diverse non-genomic cellular functions. 
+
+Estrogen and progesterone bind to their cognate nuclear hormone receptors, which translocate to the cell nucleus and interact with regions of DNA known as hormone response elements (HREs) or get tethered to another transcription factor's binding site. 
+
+Estrogen receptor (ER) has been shown to transactivate other transcription factors in this manner, despite the absence of an estrogen response element (ERE) in the proximal promoter region of the gene. 
+
+In general, ERs and progesterone receptors (PRs) are gene activators, with increased mRNA and subsequent protein synthesis following hormone exposure.Male and female brains differ in the distribution of estrogen receptors, and this difference is an irreversible consequence of neonatal steroid exposure. 
+
+Estrogen receptors (and progesterone receptors) are found mainly in neurons in the anterior and mediobasal hypothalamus, notably:
+
+the preoptic area (where LHRH neurons are located, regulating dopamine responses and maternal behavior;
+the periventricular nucleus where somatostatin neurons are located, regulating stress levels;
+the ventromedial hypothalamus which regulates hunger and sexual arousal.
+
+
+=== Development ===
+
+
+In neonatal life, gonadal steroids influence the development of the neuroendocrine hypothalamus. 
+
+For instance, they determine the ability of females to exhibit a normal reproductive cycle, and of males and females to display appropriate reproductive behaviors in adult life.
+
+If a female rat is injected once with testosterone in the first few days of postnatal life (during the "critical period" of sex-steroid influence), the hypothalamus is irreversibly masculinized; the adult rat will be incapable of generating an LH surge in response to estrogen (a characteristic of females), but will be capable of exhibiting male sexual behaviors (mounting a sexually receptive female).
+By contrast, a male rat castrated just after birth will be feminized, and the adult will show female sexual behavior in response to estrogen (sexual receptivity, lordosis behavior).In primates, the developmental influence of androgens is less clear, and the consequences are less understood. 
+
+Within the brain, testosterone is aromatized (to estradiol), which is the principal active hormone for developmental influences. 
+
+The human testis secretes high levels of testosterone from about week 8 of fetal life until 5–6 months after birth (a similar perinatal surge in testosterone is observed in many species), a process that appears to underlie the male phenotype. 
+
+Estrogen from the maternal circulation is relatively ineffective, partly because of the high circulating levels of steroid-binding proteins in pregnancy.Sex steroids are not the only important influences upon hypothalamic development; in particular, pre-pubertal stress in early life (of rats) determines the capacity of the adult hypothalamus to respond to an acute stressor. 
+
+Unlike gonadal steroid receptors, glucocorticoid receptors are very widespread throughout the brain; in the paraventricular nucleus, they mediate negative feedback control of CRF synthesis and secretion, but elsewhere their role is not well understood.
+
+
+== Function ==
+
+
+
+=== Hormone release ===
+
+
+The hypothalamus has a central neuroendocrine function, most notably by its control of the anterior pituitary, which in turn regulates various endocrine glands and organs. 
+
+Releasing hormones (also called releasing factors) are produced in hypothalamic nuclei then transported along axons to either the median eminence or the posterior pituitary, where they are stored and released as needed.
+Anterior pituitaryIn the hypothalamic–adenohypophyseal axis, releasing hormones, also known as hypophysiotropic or hypothalamic hormones, are released from the median eminence, a prolongation of the hypothalamus, into the hypophyseal portal system, which carries them to the anterior pituitary where they exert their regulatory functions on the secretion of adenohypophyseal hormones. 
+
+These hypophysiotropic hormones are stimulated by parvocellular neurosecretory cells located in the periventricular area of the hypothalamus. 
+
+After their release into the capillaries of the third ventricle, the hypophysiotropic hormones travel through what is known as the hypothalamo-pituitary portal circulation. 
+
+Once they reach their destination in the anterior pituitary, these hormones bind to specific receptors located on the surface of pituitary cells. 
+
+Depending on which cells are activated through this binding, the pituitary will either begin secreting or stop secreting hormones into the rest of the bloodstream.
+Other hormones secreted from the median eminence include vasopressin, oxytocin, and neurotensin.
+Posterior pituitaryIn the hypothalamic-neurohypophyseal axis, neurohypophysial hormones are released from the posterior pituitary, which is actually a prolongation of the hypothalamus, into the circulation.
+
+It is also known that hypothalamic-pituitary-adrenal axis (HPA) hormones are related to certain skin diseases and skin homeostasis. 
+
+There is evidence linking hyperactivity of HPA hormones to stress-related skin diseases and skin tumors.
+
+
+=== Stimulation ===
+
+The hypothalamus coordinates many hormonal and behavioural circadian rhythms, complex patterns of neuroendocrine outputs, complex homeostatic mechanisms, and important behaviours. 
+
+The hypothalamus must, therefore, respond to many different signals, some of which are generated externally and some internally. 
+
+Delta wave signalling arising either in the thalamus or in the cortex influences the secretion of releasing hormones; GHRH and prolactin are stimulated whilst TRH is inhibited.
+The hypothalamus is responsive to:
+
+Light: daylength and photoperiod for regulating circadian and seasonal rhythms
+Olfactory stimuli, including pheromones
+Steroids, including gonadal steroids and corticosteroids
+Neurally transmitted information arising in particular from the heart, enteric nervous system (of the gastrointestinal tract), and the reproductive tract.
+Autonomic inputs
+Blood-borne stimuli, including leptin, ghrelin, angiotensin, insulin, pituitary hormones, cytokines, plasma concentrations of glucose and osmolarity etc.
+Stress
+Invading microorganisms by increasing body temperature, resetting the body's thermostat upward.
+
+
+==== Olfactory stimuli ====
+Olfactory stimuli are important for sexual reproduction and neuroendocrine function in many species. 
+
+For instance if a pregnant mouse is exposed to the urine of a 'strange' male during a critical period after coitus then the pregnancy fails (the Bruce effect). 
+
+Thus, during coitus, a female mouse forms a precise 'olfactory memory' of her partner that persists for several days. 
+
+Pheromonal cues aid synchronization of oestrus in many species; in women, synchronized menstruation may also arise from pheromonal cues, although the role of pheromones in humans is disputed.
+
+
+==== Blood-borne stimuli ====
+Peptide hormones have important influences upon the hypothalamus, and to do so they must pass through the blood–brain barrier. 
+
+The hypothalamus is bounded in part by specialized brain regions that lack an effective blood–brain barrier; the capillary endothelium at these sites is fenestrated to allow free passage of even large proteins and other molecules. 
+
+Some of these sites are the sites of neurosecretion - the neurohypophysis and the median eminence. 
+
+However, others are sites at which the brain samples the composition of the blood. 
+
+Two of these sites, the SFO (subfornical organ) and the OVLT (organum vasculosum of the lamina terminalis) are so-called circumventricular organs, where neurons are in intimate contact with both blood and CSF. 
+
+These structures are densely vascularized, and contain osmoreceptive and sodium-receptive neurons that control drinking, vasopressin release, sodium excretion, and sodium appetite. 
+
+They also contain neurons with receptors for angiotensin, atrial natriuretic factor, endothelin and relaxin, each of which important in the regulation of fluid and electrolyte balance. 
+
+Neurons in the OVLT and SFO project to the supraoptic nucleus and paraventricular nucleus, and also to preoptic hypothalamic areas. 
+
+The circumventricular organs may also be the site of action of interleukins to elicit both fever and ACTH secretion, via effects on paraventricular neurons.It is not clear how all peptides that influence hypothalamic activity gain the necessary access. 
+
+In the case of prolactin and leptin, there is evidence of active uptake at the choroid plexus from the blood into the cerebrospinal fluid (CSF). 
+
+Some pituitary hormones have a negative feedback influence upon hypothalamic secretion; for example, growth hormone feeds back on the hypothalamus, but how it enters the brain is not clear. 
+
+There is also evidence for central actions of prolactin.Findings have suggested that thyroid hormone (T4) is taken up by the hypothalamic glial cells in the infundibular nucleus/ median eminence, and that it is here converted into T3 by the type 2 deiodinase (D2). 
+
+Subsequent to this, T3 is transported into the thyrotropin-releasing hormone (TRH)-producing neurons in the paraventricular nucleus. 
+
+Thyroid hormone receptors have been found in these neurons, indicating that they are indeed sensitive to T3 stimuli. 
+
+In addition, these neurons expressed MCT8, a thyroid hormone transporter, supporting the theory that T3 is transported into them. 
+
+T3 could then bind to the thyroid hormone receptor in these neurons and affect the production of thyrotropin-releasing hormone, thereby regulating thyroid hormone production.The hypothalamus functions as a type of thermostat for the body. 
+
+It sets a desired body temperature, and stimulates either heat production and retention to raise the blood temperature to a higher setting or sweating and vasodilation to cool the blood to a lower temperature. 
+
+All fevers result from a raised setting in the hypothalamus; elevated body temperatures due to any other cause are classified as hyperthermia. 
+
+Rarely, direct damage to the hypothalamus, such as from a stroke, will cause a fever; this is sometimes called a hypothalamic fever. 
+
+However, it is more common for such damage to cause abnormally low body temperatures.
+
+
+==== Steroids ====
+The hypothalamus contains neurons that react strongly to steroids and glucocorticoids – (the steroid hormones of the adrenal gland, released in response to ACTH). 
+
+It also contains specialized glucose-sensitive neurons (in the arcuate nucleus and ventromedial hypothalamus), which are important for appetite. 
+
+The preoptic area contains thermosensitive neurons; these are important for TRH secretion.
+
+
+==== Neural ====
+Oxytocin secretion in response to suckling or vagino-cervical stimulation is mediated by some of these pathways; vasopressin secretion in response to cardiovascular stimuli arising from chemoreceptors in the carotid body and aortic arch, and from low-pressure atrial volume receptors, is mediated by others. 
+
+In the rat, stimulation of the vagina also causes prolactin secretion, and this results in pseudo-pregnancy following an infertile mating. 
+
+In the rabbit, coitus elicits reflex ovulation. 
+
+In the sheep, cervical stimulation in the presence of high levels of estrogen can induce maternal behavior in a virgin ewe. 
+
+These effects are all mediated by the hypothalamus, and the information is carried mainly by spinal pathways that relay in the brainstem. 
+
+Stimulation of the nipples stimulates release of oxytocin and prolactin and suppresses the release of LH and FSH.
+Cardiovascular stimuli are carried by the vagus nerve. 
+
+The vagus also conveys a variety of visceral information, including for instance signals arising from gastric distension or emptying, to suppress or promote feeding, by signalling the release of leptin or gastrin, respectively. 
+
+Again this information reaches the hypothalamus via relays in the brainstem.
+In addition hypothalamic function is responsive to—and regulated by—levels of all three classical monoamine neurotransmitters, noradrenaline, dopamine, and serotonin (5-hydroxytryptamine), in those tracts from which it receives innervation. 
+
+For example, noradrenergic inputs arising from the locus coeruleus have important regulatory effects upon corticotropin-releasing hormone (CRH) levels.
+
+
+=== Control of food intake ===
+
+The extreme lateral part of the ventromedial nucleus of the hypothalamus is responsible for the control of food intake. 
+
+Stimulation of this area causes increased food intake. 
+
+Bilateral lesion of this area causes complete cessation of food intake. 
+
+Medial parts of the nucleus have a controlling effect on the lateral part. 
+
+Bilateral lesion of the medial part of the ventromedial nucleus causes hyperphagia and obesity of the animal. 
+
+Further lesion of the lateral part of the ventromedial nucleus in the same animal produces complete cessation of food intake.
+There are different hypotheses related to this regulation:
+Lipostatic hypothesis: This hypothesis holds that adipose tissue produces a humoral signal that is proportionate to the amount of fat and acts on the hypothalamus to decrease food intake and increase energy output. 
+
+It has been evident that a hormone leptin acts on the hypothalamus to decrease food intake and increase energy output.
+Gutpeptide hypothesis: gastrointestinal hormones like Grp, glucagons, CCK and others claimed to inhibit food intake. 
+
+The food entering the gastrointestinal tract triggers the release of these hormones, which act on the brain to produce satiety. 
+
+The brain contains both CCK-A and CCK-B receptors.
+Glucostatic hypothesis: The activity of the satiety center in the ventromedial nuclei is probably governed by the glucose utilization in the neurons. 
+
+It has been postulated that when their glucose utilization is low and consequently when the arteriovenous blood glucose difference across them is low, the activity across the neurons decrease. 
+
+Under these conditions, the activity of the feeding center is unchecked and the individual feels hungry. 
+
+Food intake is rapidly increased by intraventricular administration of 2-deoxyglucose therefore decreasing glucose utilization in cells.
+Thermostatic hypothesis: According to this hypothesis, a decrease in body temperature below a given set-point stimulates appetite, whereas an increase above the set-point inhibits appetite.
+
+
+=== Fear processing ===
+
+The medial zone of hypothalamus is part of a circuitry that controls motivated behaviors, like defensive behaviors. 
+
+Analyses of Fos-labeling showed that a series of nuclei in the "behavioral control column" is important in regulating the expression of innate and conditioned defensive behaviors.
+Antipredatory defensive behaviorExposure to a predator (such as a cat) elicits defensive behaviors in laboratory rodents, even when the animal has never been exposed to a cat. 
+
+In the hypothalamus, this exposure causes an increase in Fos-labeled cells in the anterior hypothalamic nucleus, the dorsomedial part of the ventromedial nucleus, and in the ventrolateral part of the premammillary nucleus (PMDvl). 
+
+The premammillary nucleus has an important role in expression of defensive behaviors towards a predator, since lesions in this nucleus abolish defensive behaviors, like freezing and flight. 
+
+The PMD does not modulate defensive behavior in other situations, as lesions of this nucleus had minimal effects on post-shock freezing scores. 
+
+The PMD has important connections to the dorsal periaqueductal gray, an important structure in fear expression. 
+
+In addition, animals display risk assessment behaviors to the environment previously associated with the cat. 
+
+Fos-labeled cell analysis showed that the PMDvl is the most activated structure in the hypothalamus, and inactivation with muscimol prior to exposure to the context abolishes the defensive behavior. 
+
+Therefore, the hypothalamus, mainly the PMDvl, has an important role in expression of innate and conditioned defensive behaviors to a predator.
+
+Social defeatLikewise, the hypothalamus has a role in social defeat: Nuclei in medial zone are also mobilized during an encounter with an aggressive conspecific. 
+
+The defeated animal has an increase in Fos levels in sexually dimorphic structures, such as the medial pre-optic nucleus, the ventrolateral part of ventromedial nucleus, and the ventral premammilary nucleus. 
+
+Such structures are important in other social behaviors, such as sexual and aggressive behaviors. 
+
+Moreover, the premammillary nucleus also is mobilized, the dorsomedial part but not the ventrolateral part. 
+
+Lesions in this nucleus abolish passive defensive behavior, like freezing and the "on-the-back" posture.
+
+
+
+https://en.wikipedia.org/wiki/Hypothalamus
+;;;ES;;;
+
+
+
+HIPOTÁLAMO
+
+
+El hipotálamo (del griego antiguo ὑπό (hupó) 'debajo' y θάλαμος (thálamos) 'cámara') es una porción del cerebro que contiene varios núcleos pequeños con una variedad de funciones.
+
+Una de las funciones más importantes del hipotálamo es vincular el sistema nervioso con el sistema endocrino a través de la glándula pituitaria.
+
+El hipotálamo se encuentra debajo del tálamo y forma parte del sistema límbico.
+
+En la terminología de la neuroanatomía, forma la parte ventral del diencéfalo.
+
+Todos los cerebros de vertebrados contienen un hipotálamo.
+
+En los humanos, es del tamaño de una almendra.
+El hipotálamo es responsable de la regulación de ciertos procesos metabólicos y otras actividades del sistema nervioso autónomo.
+
+Sintetiza y secreta ciertas neurohormonas, llamadas hormonas liberadoras u hormonas hipotalámicas, y estas a su vez estimulan o inhiben la secreción de hormonas de la hipófisis.
+
+El hipotálamo controla la temperatura corporal, el hambre, aspectos importantes de las conductas de crianza y apego, la sed, la fatiga, el sueño y los ritmos circadianos.
+
+
+== Estructura ==
+
+El hipotálamo se divide en 3 regiones (supraóptica, tuberal, mamilar) en un plano parasagital, indicando ubicación anteroposterior; y 3 áreas (periventricular, medial, lateral) en el plano coronal, indicando ubicación medial-lateral.
+
+Los núcleos hipotalámicos se encuentran dentro de estas regiones y áreas específicas.
+
+Se encuentra en todos los sistemas nerviosos de los vertebrados.
+
+En los mamíferos, las células neurosecretoras magnocelulares del núcleo paraventricular y del núcleo supraóptico del hipotálamo producen hormonas neurohipofisarias, oxitocina y vasopresina.
+
+Estas hormonas se liberan en la sangre en la hipófisis posterior.
+
+Células neurosecretoras parvocelulares mucho más pequeñas, neuronas del núcleo paraventricular, liberan hormona liberadora de corticotropina y otras hormonas en el sistema portal hipofisario, donde estas hormonas se difunden a la hipófisis anterior.
+
+
+=== Núcleos ===
+
+Los núcleos hipotalámicos incluyen lo siguiente:
+Ver tambiénnúcleo preóptico ventrolateral
+núcleo periventricular
+ 
+ 
+
+
+=== Conexiones ===
+
+
+El hipotálamo está altamente interconectado con otras partes del sistema nervioso central, en particular, el tronco encefálico y su formación reticular.
+
+Como parte del sistema límbico, tiene conexiones con otras estructuras límbicas, incluida la amígdala y el tabique, y también está conectado con áreas del sistema nervioso autónomo.
+El hipotálamo recibe muchas entradas del tronco encefálico, las más notables del núcleo del tracto solitario, el locus coeruleus y la médula ventrolateral.
+La mayoría de las fibras nerviosas dentro del hipotálamo discurren de dos formas (bidireccionales).
+
+Las proyecciones a las áreas caudales al hipotálamo pasan por el fascículo del prosencéfalo medial, el haz mamillotegmentario y el fascículo longitudinal dorsal.
+Las proyecciones a las áreas rostrales al hipotálamo son transportadas por el tracto mamillotalámico, el fórnix y la estría terminal.
+Las proyecciones a áreas del sistema motor simpático (segmentos espinales del asta lateral T1-L2/L3) son transportadas por el tracto hipotálamoespinal y activan la vía motora simpática.
+
+
+=== Dimorfismo sexual ===
+
+Varios núcleos hipotalámicos tienen dimorfismo sexual; es decir, existen claras diferencias tanto en la estructura como en la función entre hombres y mujeres.
+
+Algunas diferencias son evidentes incluso en la neuroanatomía macroscópica: la más notable es el núcleo sexualmente dimórfico dentro del área preóptica, en el que las diferencias son cambios sutiles en la conectividad y la sensibilidad química de conjuntos particulares de neuronas.
+
+La importancia de estos cambios se puede reconocer por las diferencias funcionales entre hombres y mujeres.
+
+Por ejemplo, los machos de la mayoría de las especies prefieren el olor y la apariencia de las hembras sobre los machos, lo que es fundamental para estimular el comportamiento sexual masculino.
+
+Si el núcleo sexualmente dimórfico está lesionado, esta preferencia por las hembras por parte de los machos disminuye.
+
+Además, el patrón de secreción de la hormona del crecimiento es sexualmente dimórfico; por eso, en muchas especies, los machos adultos tienen tamaños visiblemente distintos a los de las hembras.
+
+
+==== Capacidad de respuesta a los esteroides ováricos ====
+Otros dimorfismos funcionales sorprendentes se encuentran en las respuestas conductuales a los esteroides ováricos del adulto.
+
+Hombres y mujeres responden a los esteroides ováricos de diferentes maneras, en parte porque la expresión de las neuronas sensibles a los estrógenos en el hipotálamo es sexualmente dimórfica; es decir, los receptores de estrógeno se expresan en diferentes conjuntos de neuronas.
+El estrógeno y la progesterona pueden influir en la expresión génica en neuronas concretas o inducir cambios en el potencial de la membrana celular y la activación de cinasas, lo que conduce a diversas funciones celulares no genómicas.
+
+El estrógeno y la progesterona se unen a sus receptores hormonales nucleares afines, que se trasladan al núcleo celular e interactúan con regiones de ADN conocidas como elementos de respuesta hormonal (HRE) o se unen al sitio de unión de otro factor de transcripción.
+
+Se ha demostrado que el receptor de estrógeno (ER) transactiva otros factores de transcripción de esta manera, a pesar de la ausencia de un elemento de respuesta al estrógeno (ERE) en la región promotora proximal del gen.
+
+En general, los ER y los receptores de progesterona (PR) son activadores de genes, con un aumento del ARNm y la subsiguiente síntesis de proteínas después de la exposición hormonal. Los cerebros masculino y femenino difieren en la distribución de los receptores de estrógeno, y esta diferencia es una consecuencia irreversible de la exposición neonatal a los esteroides.
+
+Los receptores de estrógeno (y los receptores de progesterona) se encuentran principalmente en las neuronas del hipotálamo anterior y mediobasal, en particular:
+
+el área preóptica (donde se ubican las neuronas LHRH, que regulan las respuestas de dopamina y el comportamiento materno;
+el núcleo periventricular donde se ubican las neuronas de somatostatina, que regulan los niveles de estrés;
+el hipotálamo ventromedial que regula el hambre y la excitación sexual.
+
+
+=== Desarrollo ===
+
+
+En la vida neonatal, los esteroides gonadales influyen en el desarrollo del hipotálamo neuroendocrino.
+
+Por ejemplo, determinan la capacidad de las hembras para exhibir un ciclo reproductivo normal, y de machos y hembras para exhibir comportamientos reproductivos apropiados en la vida adulta.
+
+Si a una rata hembra se le inyecta testosterona una vez en los primeros días de vida postnatal (durante el "período crítico" de la influencia de los esteroides sexuales), el hipotálamo se masculiniza irreversiblemente; la rata adulta será incapaz de generar un aumento repentino de LH en respuesta al estrógeno (una característica de las hembras), pero será capaz de exhibir comportamientos sexuales masculinos (montando a una hembra sexualmente receptiva).
+Por el contrario, una rata macho castrada justo después del nacimiento será feminizada y el adulto mostrará un comportamiento sexual femenino en respuesta a los estrógenos (receptividad sexual, comportamiento de lordosis). En los primates, la influencia de los andrógenos en el desarrollo es menos clara y las consecuencias son menos entendido.
+
+Dentro del cerebro, la testosterona se aromatiza (a estradiol), que es la principal hormona activa para las influencias del desarrollo.
+
+El testículo humano secreta altos niveles de testosterona desde alrededor de la semana 8 de vida fetal hasta 5 a 6 meses después del nacimiento (en muchas especies se observa un aumento perinatal similar de testosterona), un proceso que parece ser la base del fenotipo masculino.
+
+El estrógeno de la circulación materna es relativamente ineficaz, en parte debido a los altos niveles circulantes de proteínas fijadoras de esteroides durante el embarazo. Los esteroides sexuales no son las únicas influencias importantes sobre el desarrollo hipotalámico; en particular, el estrés prepuberal en la vida temprana (de ratas) determina la capacidad del hipotálamo adulto para responder a un estresor agudo.
+
+A diferencia de los receptores de esteroides gonadales, los receptores de glucocorticoides están muy extendidos por todo el cerebro; en el núcleo paraventricular, median el control de retroalimentación negativa de la síntesis y secreción de CRF, pero en otros lugares su función no se comprende bien.
+
+
+== Función ==
+
+
+
+=== Liberación de hormonas ===
+
+
+El hipotálamo tiene una función neuroendocrina central, sobre todo por su control de la hipófisis anterior, que a su vez regula varias glándulas y órganos endocrinos.
+
+Las hormonas liberadoras (también llamadas factores de liberación) se producen en los núcleos hipotalámicos y luego se transportan a lo largo de los axones a la eminencia media o a la hipófisis posterior, donde se almacenan y liberan según sea necesario.
+Hipófisis anterior En el eje hipotalámico-adenohipofisario, las hormonas liberadoras, también conocidas como hormonas hipofisiotrópicas o hipotalámicas, se liberan desde la eminencia media, una prolongación del hipotálamo, hacia el sistema porta hipofisario, que las lleva a la hipófisis anterior, donde ejercen su función reguladora. Actúa sobre la secreción de hormonas adenohipofisarias.
+
+Estas hormonas hipofisiotrópicas son estimuladas por células neurosecretoras parvocelulares ubicadas en el área periventricular del hipotálamo.
+
+Después de su liberación en los capilares del tercer ventrículo, las hormonas hipofisiotrópicas viajan a través de lo que se conoce como circulación portal hipotálamo-pituitaria.
+
+Una vez que llegan a su destino en la hipófisis anterior, estas hormonas se unen a receptores específicos ubicados en la superficie de las células hipofisarias.
+
+Dependiendo de qué células se activen a través de esta unión, la pituitaria comenzará a secretar o dejará de secretar hormonas en el resto del torrente sanguíneo.
+Otras hormonas secretadas por la eminencia mediana incluyen vasopresina, oxitocina y neurotensina.
+Hipófisis posterior En el eje hipotalámico-neurohipofisario, las hormonas neurohipofisarias se liberan desde la hipófisis posterior, que en realidad es una prolongación del hipotálamo, hacia la circulación.
+
+También se sabe que las hormonas del eje hipotálamo-pituitario-suprarrenal (HPA) están relacionadas con ciertas enfermedades de la piel y la homeostasis de la piel.
+
+Existe evidencia que relaciona la hiperactividad de las hormonas HPA con enfermedades de la piel y tumores de la piel relacionados con el estrés.
+
+
+=== Estimulación ===
+
+El hipotálamo coordina muchos ritmos circadianos hormonales y conductuales, patrones complejos de salidas neuroendocrinas, mecanismos homeostáticos complejos y comportamientos importantes.
+
+Por lo tanto, el hipotálamo debe responder a muchas señales diferentes, algunas de las cuales se generan externamente y otras internamente.
+
+La señalización de ondas delta que surge en el tálamo o en la corteza influye en la secreción de hormonas liberadoras; La GHRH y la prolactina se estimulan mientras que la TRH se inhibe.
+El hipotálamo responde a:
+
+Luz: duración del día y fotoperíodo para regular los ritmos circadianos y estacionales
+Estímulos olfativos, incluidas las feromonas
+Esteroides, incluidos los esteroides gonadales y los corticosteroides
+Información de transmisión neuronal que surge en particular del corazón, el sistema nervioso entérico (del tracto gastrointestinal) y el tracto reproductivo.
+Entradas autonómicas
+Estímulos transmitidos por la sangre, que incluyen leptina, grelina, angiotensina, insulina, hormonas pituitarias, citocinas, concentraciones plasmáticas de glucosa y osmolaridad, etc.
+Estrés
+Microorganismos invasores aumentando la temperatura corporal, reajustando el termostato del cuerpo hacia arriba.
+
+
+==== Estímulos olfativos ====
+Los estímulos olfativos son importantes para la reproducción sexual y la función neuroendocrina en muchas especies.
+
+Por ejemplo, si un ratón preñado se expone a la orina de un macho "extraño" durante un período crítico después del coito, entonces el embarazo falla (el efecto Bruce).
+
+Así, durante el coito, un ratón hembra forma un "recuerdo olfativo" preciso de su pareja que persiste durante varios días.
+
+Las señales de feromonas ayudan a sincronizar el celo en muchas especies; en las mujeres, la menstruación sincronizada también puede surgir de señales de feromonas, aunque se discute el papel de las feromonas en los humanos.
+
+
+==== Estímulos transmitidos por la sangre ====
+Las hormonas peptídicas ejercen influencias importantes sobre el hipotálamo y, para hacerlo, deben atravesar la barrera hematoencefálica.
+
+El hipotálamo está delimitado en parte por regiones cerebrales especializadas que carecen de una barrera hematoencefálica eficaz; el endotelio capilar en estos sitios está fenestrado para permitir el paso libre incluso de proteínas grandes y otras moléculas.
+
+Algunos de estos sitios son los sitios de neurosecreción: la neurohipófisis y la eminencia media.
+
+Sin embargo, otros son sitios en los que el cerebro toma muestras de la composición de la sangre.
+
+Dos de estos sitios, el SFO (órgano subfornical) y el OVLT (organum vasculosum of the lamina terminalis) son los llamados órganos circunventriculares, donde las neuronas están en contacto íntimo tanto con la sangre como con el LCR.
+
+Estas estructuras están densamente vascularizadas y contienen neuronas osmorreceptoras y receptoras de sodio que controlan el consumo de alcohol, la liberación de vasopresina, la excreción de sodio y el apetito de sodio.
+
+También contienen neuronas con receptores para angiotensina, factor natriurético auricular, endotelina y relaxina, cada uno de los cuales es importante en la regulación del equilibrio de líquidos y electrolitos.
+
+Las neuronas en el OVLT y SFO se proyectan al núcleo supraóptico y al núcleo paraventricular, y también a las áreas hipotalámicas preópticas.
+
+Los órganos circunventriculares también pueden ser el sitio de acción de las interleucinas para provocar fiebre y secreción de ACTH, a través de efectos sobre las neuronas paraventriculares. No está claro cómo todos los péptidos que influyen en la actividad hipotalámica obtienen el acceso necesario.
+
+En el caso de la prolactina y la leptina, existe evidencia de captación activa en el plexo coroideo de la sangre al líquido cefalorraquídeo (LCR).
+
+Algunas hormonas hipofisarias tienen una influencia de retroalimentación negativa sobre la secreción hipotalámica; por ejemplo, la hormona del crecimiento retroalimenta al hipotálamo, pero no está claro cómo ingresa al cerebro.
+
+También hay evidencia de acciones centrales de la prolactina. Los hallazgos han sugerido que la hormona tiroidea (T4) es absorbida por las células gliales hipotalámicas en el núcleo infundibular/eminencia media, y que aquí se convierte en T3 por la desyodasa tipo 2 (D2 ).
+
+Posteriormente, la T3 se transporta a las neuronas productoras de la hormona liberadora de tirotropina (TRH) en el núcleo paraventricular.
+
+Se han encontrado receptores de hormonas tiroideas en estas neuronas, lo que indica que, de hecho, son sensibles a los estímulos T3.
+
+Además, estas neuronas expresaron MCT8, un transportador de hormonas tiroideas, lo que respalda la teoría de que T3 se transporta hacia ellas.
+
+Entonces, la T3 podría unirse al receptor de la hormona tiroidea en estas neuronas y afectar la producción de la hormona liberadora de tirotropina, regulando así la producción de la hormona tiroidea. El hipotálamo funciona como un tipo de termostato para el cuerpo.
+
+Establece una temperatura corporal deseada y estimula la producción y retención de calor para elevar la temperatura de la sangre a un nivel más alto o la sudoración y la vasodilatación para enfriar la sangre a una temperatura más baja.
+
+Todas las fiebres resultan de un ajuste elevado en el hipotálamo; las temperaturas corporales elevadas debido a cualquier otra causa se clasifican como hipertermia.
+
+En raras ocasiones, el daño directo al hipotálamo, como el de un derrame cerebral, causará fiebre; esto a veces se llama fiebre hipotalámica.
+
+Sin embargo, es más común que dicho daño provoque temperaturas corporales anormalmente bajas.
+
+
+==== Esteroides ====
+El hipotálamo contiene neuronas que reaccionan fuertemente a los esteroides y glucocorticoides (las hormonas esteroides de la glándula suprarrenal, liberadas en respuesta a la ACTH).
+
+También contiene neuronas sensibles a la glucosa especializadas (en el núcleo arqueado y el hipotálamo ventromedial), que son importantes para el apetito.
+
+El área preóptica contiene neuronas termosensibles; estos son importantes para la secreción de TRH.
+
+
+==== Neural ====
+La secreción de oxitocina en respuesta a la succión oa la estimulación vagino-cervical está mediada por algunas de estas vías; la secreción de vasopresina en respuesta a los estímulos cardiovasculares que surgen de los quimiorreceptores en el cuerpo carotídeo y el cayado aórtico, y de los receptores de volumen auricular de baja presión, está mediada por otros.
+
+En la rata, la estimulación de la vagina también provoca la secreción de prolactina, y esto da como resultado un pseudoembarazo después de un apareamiento infértil.
+
+En la coneja, el coito provoca la ovulación refleja.
+
+En las ovejas, la estimulación cervical en presencia de altos niveles de estrógeno puede inducir el comportamiento maternal en una oveja virgen.
+
+Todos estos efectos están mediados por el hipotálamo, y la información se transporta principalmente por vías espinales que retransmiten en el tronco encefálico.
+
+La estimulación de los pezones estimula la liberación de oxitocina y prolactina y suprime la liberación de LH y FSH.
+Los estímulos cardiovasculares son transportados por el nervio vago.
+
+El nervio vago también transmite una variedad de información visceral, incluidas, por ejemplo, señales que surgen de la distensión o el vaciado gástrico, para suprimir o promover la alimentación, al señalar la liberación de leptina o gastrina, respectivamente.
+
+Una vez más, esta información llega al hipotálamo a través de relés en el tronco encefálico.
+Además, la función hipotalámica responde y está regulada por los niveles de los tres neurotransmisores monoamínicos clásicos, noradrenalina, dopamina y serotonina (5-hidroxitriptamina), en aquellos tractos de los que recibe inervación.
+
+Por ejemplo, las entradas noradrenérgicas que surgen del locus coeruleus tienen efectos reguladores importantes sobre los niveles de la hormona liberadora de corticotropina (CRH).
+
+
+=== Control de la ingesta de alimentos ===
+
+La parte lateral extrema del núcleo ventromedial del hipotálamo es responsable del control de la ingesta de alimentos.
+
+La estimulación de esta zona provoca un aumento de la ingesta de alimentos.
+
+La lesión bilateral de esta área provoca el cese completo de la ingesta de alimentos.
+
+Las partes mediales del núcleo tienen un efecto de control sobre la parte lateral.
+
+La lesión bilateral de la parte medial del núcleo ventromedial provoca hiperfagia y obesidad del animal.
+
+La lesión adicional de la parte lateral del núcleo ventromedial en el mismo animal produce el cese completo de la ingesta de alimentos.
+Existen diferentes hipótesis relacionadas con esta regulación:
+Hipótesis lipoestática: esta hipótesis sostiene que el tejido adiposo produce una señal humoral proporcional a la cantidad de grasa y actúa sobre el hipotálamo para disminuir la ingesta de alimentos y aumentar la producción de energía.
+
+Ha sido evidente que una hormona, la leptina, actúa sobre el hipotálamo para disminuir la ingesta de alimentos y aumentar la producción de energía.
+Hipótesis del péptido intestinal: hormonas gastrointestinales como Grp, glucagón, CCK y otras afirman inhibir la ingesta de alimentos.
+
+Los alimentos que ingresan al tracto gastrointestinal desencadenan la liberación de estas hormonas, que actúan sobre el cerebro para producir saciedad.
+
+El cerebro contiene receptores CCK-A y CCK-B.
+Hipótesis glucostática: la actividad del centro de saciedad en los núcleos ventromediales probablemente se rige por la utilización de glucosa en las neuronas.
+
+Se ha postulado que cuando su utilización de glucosa es baja y, en consecuencia, cuando la diferencia de glucosa en sangre arteriovenosa entre ellos es baja, la actividad entre las neuronas disminuye.
+
+En estas condiciones, la actividad del centro de alimentación no se controla y el individuo siente hambre.
+
+La ingesta de alimentos aumenta rápidamente con la administración intraventricular de 2-desoxiglucosa, por lo que disminuye la utilización de glucosa en las células.
+Hipótesis termostática: según esta hipótesis, una disminución de la temperatura corporal por debajo de un punto de referencia dado estimula el apetito, mientras que un aumento por encima del punto de referencia inhibe el apetito.
+
+
+=== Procesamiento del miedo ===
+
+La zona media del hipotálamo es parte de un circuito que controla los comportamientos motivados, como los comportamientos defensivos.
+
+Los análisis del etiquetado de Fos mostraron que una serie de núcleos en la "columna de control del comportamiento" es importante para regular la expresión de los comportamientos defensivos innatos y condicionados.
+Comportamiento defensivo antidepredador La exposición a un depredador (como un gato) provoca comportamientos defensivos en roedores de laboratorio, incluso cuando el animal nunca ha estado expuesto a un gato.
+
+En el hipotálamo, esta exposición provoca un aumento de células marcadas con Fos en el núcleo hipotalámico anterior, la parte dorsomedial del núcleo ventromedial y la parte ventrolateral del núcleo premamilar (PMDvl).
+
+El núcleo premamilar tiene un papel importante en la expresión de comportamientos defensivos hacia un depredador, ya que las lesiones en este núcleo anulan los comportamientos defensivos, como la congelación y la huida.
+
+El PMD no modula el comportamiento defensivo en otras situaciones, ya que las lesiones de este núcleo tuvieron efectos mínimos en las puntuaciones de congelamiento post-shock.
+
+El PMD tiene conexiones importantes con la sustancia gris periacueductal dorsal, una estructura importante en la expresión del miedo.
+
+Además, los animales muestran comportamientos de evaluación de riesgos para el medio ambiente previamente asociados con el gato.
+
+El análisis de células marcadas con Fos mostró que PMDvl es la estructura más activada en el hipotálamo, y la inactivación con muscimol antes de la exposición al contexto suprime el comportamiento defensivo.
+
+Por lo tanto, el hipotálamo, principalmente el PMDvl, tiene un papel importante en la expresión de comportamientos defensivos innatos y condicionados ante un depredador.
+
+Derrota social Del mismo modo, el hipotálamo tiene un papel en la derrota social: los núcleos de la zona media también se movilizan durante un encuentro con un congénere agresivo.
+
+El animal derrotado tiene un aumento en los niveles de Fos en estructuras sexualmente dimórficas, como el núcleo preóptico medial, la parte ventrolateral del núcleo ventromedial y el núcleo premamilar ventral.
+
+Tales estructuras son importantes en otros comportamientos sociales, como los comportamientos sexuales y agresivos.
+
+Además, también se moviliza el núcleo premamilar, la parte dorsomedial pero no la ventrolateral.
+
+Las lesiones en este núcleo suprimen el comportamiento defensivo pasivo, como la congelación y la postura "sobre la espalda".
+
+
+
+https://en.wikipedia.org/wiki/Hipotálamo
+
+;;;PT;;;
+
+
+
+HIPOTÁLAMO
+
+
+O hipotálamo (do grego antigo ὑπό (hupó) 'sob' e θάλαμος (thálamos) 'câmara') é uma porção do cérebro que contém vários pequenos núcleos com uma variedade de funções.
+
+Uma das funções mais importantes do hipotálamo é ligar o sistema nervoso ao sistema endócrino através da glândula pituitária.
+
+O hipotálamo está localizado abaixo do tálamo e faz parte do sistema límbico.
+
+Na terminologia da neuroanatomia, forma a parte ventral do diencéfalo.
+
+Todos os cérebros de vertebrados contêm um hipotálamo.
+
+Nos humanos, é do tamanho de uma amêndoa.
+O hipotálamo é responsável pela regulação de certos processos metabólicos e outras atividades do sistema nervoso autônomo.
+
+Ele sintetiza e secreta certos neuro-hormônios, chamados hormônios de liberação ou hormônios hipotalâmicos, e estes, por sua vez, estimulam ou inibem a secreção de hormônios da glândula pituitária.
+
+O hipotálamo controla a temperatura corporal, a fome, aspectos importantes dos comportamentos parentais e de apego, sede, fadiga, sono e ritmos circadianos.
+
+
+== Estrutura ==
+
+O hipotálamo é dividido em 3 regiões (supraóptica, tuberal, mamilar) em um plano parassagital, indicando localização ântero-posterior; e 3 áreas (periventricular, medial, lateral) no plano coronal, indicando localização médio-lateral.
+
+Os núcleos hipotalâmicos estão localizados nessas regiões e áreas específicas.
+
+É encontrado em todos os sistemas nervosos dos vertebrados.
+
+Nos mamíferos, as células neurossecretoras magnocelulares no núcleo paraventricular e no núcleo supraóptico do hipotálamo produzem hormônios neurohipofisários, ocitocina e vasopressina.
+
+Esses hormônios são liberados no sangue na hipófise posterior.
+
+Células neurossecretoras parvocelulares muito menores, neurônios do núcleo paraventricular, liberam o hormônio liberador de corticotropina e outros hormônios no sistema porta hipofisário, onde esses hormônios se difundem para a hipófise anterior.
+
+
+=== Núcleos ===
+
+Os núcleos hipotalâmicos incluem o seguinte:
+Veja tambémNúcleo pré-óptico ventrolateral
+núcleo periventricular
+ 
+ 
+
+
+=== Conexões ===
+
+
+O hipotálamo está altamente interconectado com outras partes do sistema nervoso central, em particular o tronco cerebral e sua formação reticular.
+
+Como parte do sistema límbico, tem conexões com outras estruturas límbicas, incluindo a amígdala e o septo, e também está conectado com áreas do sistema nervoso autônomo.
+O hipotálamo recebe muitos estímulos do tronco encefálico, os mais notáveis ​​do núcleo do trato solitário, do locus coeruleus e da medula ventrolateral.
+A maioria das fibras nervosas dentro do hipotálamo funciona de duas maneiras (bidirecional).
+
+As projeções para áreas caudais ao hipotálamo passam pelo feixe prosencefálico medial, pelo trato mamilotegmentar e pelo fascículo longitudinal dorsal.
+As projeções para áreas rostral ao hipotálamo são transportadas pelo trato mamilotalâmico, fórnice e estria terminal.
+As projeções para áreas do sistema motor simpático (segmentos espinais do corno lateral T1-L2/L3) são transportadas pelo trato hipotálamoespinhal e ativam a via motora simpática.
+
+
+=== Dimorfismo sexual ===
+
+Vários núcleos hipotalâmicos são sexualmente dimórficos; ou seja, há diferenças claras tanto na estrutura quanto na função entre machos e fêmeas.
+
+Algumas diferenças são aparentes até mesmo na neuroanatomia grosseira: o mais notável é o núcleo sexualmente dimórfico dentro da área pré-óptica, no qual as diferenças são mudanças sutis na conectividade e na sensibilidade química de conjuntos particulares de neurônios.
+
+A importância dessas alterações pode ser reconhecida pelas diferenças funcionais entre homens e mulheres.
+
+Por exemplo, os machos da maioria das espécies preferem o odor e a aparência das fêmeas aos machos, o que é fundamental para estimular o comportamento sexual masculino.
+
+Se o núcleo sexualmente dimórfico estiver lesionado, essa preferência por fêmeas por machos diminui.
+
+Além disso, o padrão de secreção do hormônio do crescimento é sexualmente dimórfico; é por isso que em muitas espécies, os machos adultos têm tamanhos visivelmente distintos das fêmeas.
+
+
+==== Resposta aos esteróides ovarianos ====
+Outros dimorfismos funcionais marcantes estão nas respostas comportamentais aos esteróides ovarianos do adulto.
+
+Machos e fêmeas respondem aos esteróides ovarianos de maneiras diferentes, em parte porque a expressão de neurônios sensíveis ao estrogênio no hipotálamo é sexualmente dimórfica; ou seja, os receptores de estrogênio são expressos em diferentes conjuntos de neurônios.
+O estrogênio e a progesterona podem influenciar a expressão gênica em neurônios particulares ou induzir alterações no potencial de membrana celular e ativação de quinases, levando a diversas funções celulares não genômicas.
+
+O estrogênio e a progesterona se ligam aos seus receptores hormonais nucleares cognatos, que se translocam para o núcleo da célula e interagem com regiões do DNA conhecidas como elementos de resposta hormonal (HREs) ou ficam presos ao sítio de ligação de outro fator de transcrição.
+
+Demonstrou-se que o receptor de estrogênio (ER) transativa outros fatores de transcrição dessa maneira, apesar da ausência de um elemento de resposta ao estrogênio (ERE) na região promotora proximal do gene.
+
+Em geral, os ERs e os receptores de progesterona (PRs) são ativadores de genes, com aumento de mRNA e consequente síntese proteica após exposição hormonal. Cérebros masculinos e femininos diferem na distribuição dos receptores de estrogênio, sendo essa diferença uma consequência irreversível da exposição neonatal aos esteróides.
+
+Os receptores de estrogênio (e receptores de progesterona) são encontrados principalmente em neurônios no hipotálamo anterior e mediobasal, notadamente:
+
+a área pré-óptica (onde estão localizados os neurônios LHRH, regulando as respostas dopaminérgicas e o comportamento materno;
+o núcleo periventricular onde estão localizados os neurônios da somatostatina, regulando os níveis de estresse;
+o hipotálamo ventromedial que regula a fome e a excitação sexual.
+
+
+=== Desenvolvimento ===
+
+
+Na vida neonatal, os esteróides gonadais influenciam o desenvolvimento do hipotálamo neuroendócrino.
+
+Por exemplo, eles determinam a capacidade das fêmeas de exibir um ciclo reprodutivo normal e de machos e fêmeas de exibir comportamentos reprodutivos apropriados na vida adulta.
+
+Se uma rata for injetada uma vez com testosterona nos primeiros dias de vida pós-natal (durante o "período crítico" da influência dos esteróides sexuais), o hipotálamo é irreversivelmente masculinizado; o rato adulto será incapaz de gerar um pico de LH em resposta ao estrogênio (uma característica das fêmeas), mas será capaz de exibir comportamentos sexuais masculinos (montar uma fêmea sexualmente receptiva).
+Em contraste, um rato macho castrado logo após o nascimento será feminizado, e o adulto apresentará comportamento sexual feminino em resposta ao estrogênio (receptividade sexual, comportamento de lordose). menos compreendido.
+
+Dentro do cérebro, a testosterona é aromatizada (em estradiol), que é o principal hormônio ativo para as influências do desenvolvimento.
+
+O testículo humano secreta altos níveis de testosterona de cerca de 8 semanas de vida fetal até 5-6 meses após o nascimento (um aumento perinatal semelhante de testosterona é observado em muitas espécies), um processo que parece estar subjacente ao fenótipo masculino.
+
+O estrogênio da circulação materna é relativamente ineficaz, em parte devido aos altos níveis circulantes de proteínas ligantes de esteróides na gravidez. Os esteróides sexuais não são as únicas influências importantes sobre o desenvolvimento hipotalâmico; em particular, o estresse pré-puberal no início da vida (de ratos) determina a capacidade do hipotálamo adulto de responder a um estressor agudo.
+
+Ao contrário dos receptores de esteróides gonadais, os receptores de glicocorticóides são muito difundidos por todo o cérebro; no núcleo paraventricular, eles medeiam o controle por feedback negativo da síntese e secreção de CRF, mas em outros lugares seu papel não é bem compreendido.
+
+
+== Função ==
+
+
+
+=== Liberação hormonal ===
+
+
+O hipotálamo tem uma função neuroendócrina central, principalmente pelo controle da hipófise anterior, que por sua vez regula várias glândulas e órgãos endócrinos.
+
+Os hormônios de liberação (também chamados de fatores de liberação) são produzidos nos núcleos hipotalâmicos e então transportados ao longo dos axônios para a eminência mediana ou a hipófise posterior, onde são armazenados e liberados conforme necessário.
+Hipófise anteriorNo eixo hipotálamo-adenohipofisário, os hormônios liberadores, também conhecidos como hormônios hipofisiotrópicos ou hipotalâmicos, são liberados da eminência mediana, um prolongamento do hipotálamo, para o sistema porta hipofisário, que os transporta para a hipófise anterior, onde exercem suas funções reguladoras. atua na secreção de hormônios adeno-hipofisários.
+
+Esses hormônios hipofisiotrópicos são estimulados por células neurossecretoras parvocelulares localizadas na área periventricular do hipotálamo.
+
+Após sua liberação nos capilares do terceiro ventrículo, os hormônios hipofisiotrópicos viajam através do que é conhecido como circulação portal hipotálamo-hipofisária.
+
+Uma vez que atingem seu destino na hipófise anterior, esses hormônios se ligam a receptores específicos localizados na superfície das células hipofisárias.
+
+Dependendo de quais células são ativadas por meio dessa ligação, a hipófise começará a secretar ou parar de secretar hormônios no restante da corrente sanguínea.
+Outros hormônios secretados pela eminência mediana incluem vasopressina, ocitocina e neurotensina.
+Hipófise posterior No eixo hipotálamo-neurohipofisário, os hormônios neurohipofisários são liberados da hipófise posterior, que na verdade é um prolongamento do hipotálamo, para a circulação.
+
+Sabe-se também que os hormônios do eixo hipotálamo-hipófise-adrenal (HPA) estão relacionados a certas doenças de pele e à homeostase da pele.
+
+Há evidências que ligam a hiperatividade dos hormônios HPA a doenças de pele relacionadas ao estresse e tumores de pele.
+
+
+=== Estimulação ===
+
+O hipotálamo coordena muitos ritmos circadianos hormonais e comportamentais, padrões complexos de saídas neuroendócrinas, mecanismos homeostáticos complexos e comportamentos importantes.
+
+O hipotálamo deve, portanto, responder a muitos sinais diferentes, alguns dos quais são gerados externamente e outros internamente.
+
+A sinalização de onda delta que surge no tálamo ou no córtex influencia a secreção de hormônios liberadores; O GHRH e a prolactina são estimulados enquanto o TRH é inibido.
+O hipotálamo responde a:
+
+Luz: fotoperíodo e fotoperíodo para regular os ritmos circadianos e sazonais
+Estímulos olfativos, incluindo feromônios
+Esteróides, incluindo esteróides gonadais e corticosteróides
+Informações transmitidas neuralmente provenientes em particular do coração, do sistema nervoso entérico (do trato gastrointestinal) e do trato reprodutivo.
+Entradas autônomas
+Estímulos transmitidos pelo sangue, incluindo leptina, grelina, angiotensina, insulina, hormônios hipofisários, citocinas, concentrações plasmáticas de glicose e osmolaridade, etc.
+Estresse
+Invadir microorganismos aumentando a temperatura corporal, redefinindo o termostato do corpo para cima.
+
+
+==== Estímulos olfativos ====
+Estímulos olfativos são importantes para a reprodução sexual e função neuroendócrina em muitas espécies.
+
+Por exemplo, se uma camundongo grávida é exposta à urina de um macho 'estranho' durante um período crítico após o coito, a gravidez falha (o efeito Bruce).
+
+Assim, durante o coito, uma camundongo fêmea forma uma 'memória olfativa' precisa de seu parceiro que persiste por vários dias.
+
+Sinais feromonais auxiliam na sincronização do estro em muitas espécies; nas mulheres, a menstruação sincronizada também pode surgir de sinais de feromônios, embora o papel dos feromônios em humanos seja contestado.
+
+
+==== Estímulos transmitidos pelo sangue ====
+Os hormônios peptídicos têm influências importantes sobre o hipotálamo e, para isso, devem passar pela barreira hematoencefálica.
+
+O hipotálamo é limitado em parte por regiões cerebrais especializadas que não possuem uma barreira hematoencefálica efetiva; o endotélio capilar nesses locais é fenestrado para permitir a passagem livre até mesmo de proteínas grandes e outras moléculas.
+
+Alguns desses locais são os locais de neurosecreção - a neurohipófise e a eminência mediana.
+
+No entanto, outros são locais nos quais o cérebro coleta a composição do sangue.
+
+Dois desses locais, o SFO (órgão subfornical) e o OVLT (organum vasculosum of the lamina terminalis) são os chamados órgãos circunventriculares, onde os neurônios estão em contato íntimo com o sangue e o LCR.
+
+Essas estruturas são densamente vascularizadas e contêm neurônios osmorceptivos e receptores de sódio que controlam o consumo de álcool, a liberação de vasopressina, a excreção de sódio e o apetite por sódio.
+
+Eles também contêm neurônios com receptores para angiotensina, fator natriurético atrial, endotelina e relaxina, cada um dos quais importantes na regulação do equilíbrio hidroeletrolítico.
+
+Neurônios no OVLT e SFO projetam-se para os núcleos supraópticos e paraventriculares, e também para áreas hipotalâmicas pré-ópticas.
+
+Os órgãos circunventriculares também podem ser o local de ação das interleucinas para induzir tanto a febre quanto a secreção de ACTH, por meio de efeitos nos neurônios paraventriculares. Não está claro como todos os peptídeos que influenciam a atividade hipotalâmica obtêm o acesso necessário.
+
+No caso de prolactina e leptina, há evidência de captação ativa no plexo coróide do sangue para o líquido cefalorraquidiano (LCR).
+
+Alguns hormônios hipofisários têm uma influência de feedback negativo sobre a secreção hipotalâmica; por exemplo, o hormônio do crescimento realimenta o hipotálamo, mas não está claro como ele entra no cérebro.
+
+Há também evidências de ações centrais da prolactina. Os achados sugerem que o hormônio tireoidiano (T4) é captado pelas células gliais hipotalâmicas no núcleo infundibular/eminência mediana, e que é aqui convertido em T3 pela desiodase tipo 2 (D2 ).
+
+Subsequentemente, o T3 é transportado para os neurônios produtores do hormônio liberador de tireotropina (TRH) no núcleo paraventricular.
+
+Receptores de hormônios tireoidianos foram encontrados nesses neurônios, indicando que eles são de fato sensíveis a estímulos T3.
+
+Além disso, esses neurônios expressaram MCT8, um transportador de hormônio da tireoide, apoiando a teoria de que o T3 é transportado para eles.
+
+O T3 poderia então se ligar ao receptor do hormônio tireoidiano nesses neurônios e afetar a produção do hormônio liberador de tireotropina, regulando assim a produção do hormônio tireoidiano. O hipotálamo funciona como um tipo de termostato para o corpo.
+
+Ele define a temperatura corporal desejada e estimula a produção e a retenção de calor para elevar a temperatura do sangue para uma configuração mais alta ou a transpiração e a vasodilatação para resfriar o sangue a uma temperatura mais baixa.
+
+Todas as febres resultam de um cenário elevado no hipotálamo; temperaturas corporais elevadas devido a qualquer outra causa são classificadas como hipertermia.
+
+Raramente, danos diretos ao hipotálamo, como um acidente vascular cerebral, causarão febre; isso às vezes é chamado de febre hipotalâmica.
+
+No entanto, é mais comum que esses danos causem temperaturas corporais anormalmente baixas.
+
+
+==== Esteróides ====
+O hipotálamo contém neurônios que reagem fortemente aos esteróides e glicocorticóides – (os hormônios esteróides da glândula adrenal, liberados em resposta ao ACTH).
+
+Ele também contém neurônios especializados sensíveis à glicose (no núcleo arqueado e no hipotálamo ventromedial), que são importantes para o apetite.
+
+A área pré-óptica contém neurônios termossensíveis; estes são importantes para a secreção de TRH.
+
+
+==== Neural ====
+A secreção de ocitocina em resposta à sucção ou estimulação vaginocervical é mediada por algumas dessas vias; A secreção de vasopressina em resposta a estímulos cardiovasculares provenientes de quimiorreceptores no corpo carotídeo e arco aórtico e de receptores de volume atrial de baixa pressão é mediada por outros.
+
+No rato, a estimulação da vagina também causa secreção de prolactina, e isso resulta em pseudo-gravidez após um acasalamento infértil.
+
+No coelho, o coito provoca ovulação reflexa.
+
+Nas ovelhas, a estimulação cervical na presença de altos níveis de estrogênio pode induzir o comportamento materno em uma ovelha virgem.
+
+Esses efeitos são todos mediados pelo hipotálamo, e a informação é transportada principalmente por vias espinhais que retransmitem no tronco encefálico.
+
+A estimulação dos mamilos estimula a liberação de ocitocina e prolactina e suprime a liberação de LH e FSH.
+Os estímulos cardiovasculares são transportados pelo nervo vago.
+
+O vago também transmite uma variedade de informações viscerais, incluindo, por exemplo, sinais decorrentes da distensão ou esvaziamento gástrico, para suprimir ou promover a alimentação, sinalizando a liberação de leptina ou gastrina, respectivamente.
+
+Mais uma vez, esta informação chega ao hipotálamo através de relés no tronco cerebral.
+Além disso, a função hipotalâmica é responsiva e regulada por níveis de todos os três neurotransmissores monoamínicos clássicos, noradrenalina, dopamina e serotonina (5-hidroxitriptamina), nos tratos dos quais recebe inervação.
+
+Por exemplo, as entradas noradrenérgicas provenientes do locus coeruleus têm efeitos reguladores importantes sobre os níveis de hormônio liberador de corticotropina (CRH).
+
+
+=== Controle da ingestão de alimentos ===
+
+A parte lateral extrema do núcleo ventromedial do hipotálamo é responsável pelo controle da ingestão alimentar.
+
+A estimulação dessa área causa aumento da ingestão de alimentos.
+
+A lesão bilateral desta área causa a cessação completa da ingestão alimentar.
+
+As partes mediais do núcleo têm um efeito controlador na parte lateral.
+
+A lesão bilateral da parte medial do núcleo ventromedial causa hiperfagia e obesidade do animal.
+
+A lesão adicional da parte lateral do núcleo ventromedial no mesmo animal produz a cessação completa da ingestão de alimentos.
+Existem diferentes hipóteses relacionadas a este regulamento:
+Hipótese lipostática: Esta hipótese sustenta que o tecido adiposo produz um sinal humoral que é proporcional à quantidade de gordura e atua no hipotálamo para diminuir a ingestão de alimentos e aumentar a produção de energia.
+
+Ficou evidente que um hormônio leptina atua no hipotálamo para diminuir a ingestão de alimentos e aumentar a produção de energia.
+Hipótese do peptídeo: hormônios gastrointestinais como Grp, glucagon, CCK e outros alegaram inibir a ingestão de alimentos.
+
+O alimento que entra no trato gastrointestinal desencadeia a liberação desses hormônios, que agem no cérebro para produzir saciedade.
+
+O cérebro contém receptores CCK-A e CCK-B.
+Hipótese glicostática: A atividade do centro de saciedade nos núcleos ventromediais é provavelmente governada pela utilização de glicose nos neurônios.
+
+Foi postulado que quando a utilização de glicose é baixa e, consequentemente, quando a diferença de glicose no sangue arteriovenoso é baixa, a atividade através dos neurônios diminui.
+
+Nessas condições, a atividade do centro de alimentação não é controlada e o indivíduo sente fome.
+
+A ingestão de alimentos é rapidamente aumentada pela administração intraventricular de 2-desoxiglicose, diminuindo assim a utilização de glicose nas células.
+Hipótese termostática: De acordo com esta hipótese, uma diminuição da temperatura corporal abaixo de um determinado ponto de ajuste estimula o apetite, enquanto um aumento acima do ponto de ajuste inibe o apetite.
+
+
+=== Processamento do medo ===
+
+A zona medial do hipotálamo faz parte de um circuito que controla comportamentos motivados, como comportamentos defensivos.
+
+Análises de marcação de Fos mostraram que uma série de núcleos na "coluna de controle comportamental" é importante na regulação da expressão de comportamentos defensivos inatos e condicionados.
+Comportamento defensivo antipredatório A exposição a um predador (como um gato) provoca comportamentos defensivos em roedores de laboratório, mesmo quando o animal nunca foi exposto a um gato.
+
+No hipotálamo, essa exposição causa um aumento de células marcadas com Fos no núcleo hipotalâmico anterior, na parte dorsomedial do núcleo ventromedial e na parte ventrolateral do núcleo pré-mamilar (PMDvl).
+
+O núcleo pré-mamilar tem um papel importante na expressão de comportamentos defensivos em relação a um predador, uma vez que lesões neste núcleo abolem comportamentos defensivos, como congelamento e fuga.
+
+O PMD não modula o comportamento defensivo em outras situações, pois as lesões desse núcleo tiveram efeitos mínimos nos escores de congelamento pós-choque.
+
+O PMD tem conexões importantes com a substância cinzenta periaquedutal dorsal, uma estrutura importante na expressão do medo.
+
+Além disso, os animais apresentam comportamentos de avaliação de risco ao ambiente anteriormente associados ao gato.
+
+A análise de células marcadas com Fos mostrou que o PMDvl é a estrutura mais ativada no hipotálamo, e a inativação com muscimol antes da exposição ao contexto abole o comportamento defensivo.
+
+Portanto, o hipotálamo, principalmente o PMDvl, tem um papel importante na expressão de comportamentos defensivos inatos e condicionados a um predador.
+
+Derrota social Da mesma forma, o hipotálamo tem um papel na derrota social: os núcleos na zona medial também são mobilizados durante um encontro com um coespecífico agressivo.
+
+O animal derrotado tem um aumento nos níveis de Fos em estruturas sexualmente dimórficas, como o núcleo pré-óptico medial, a parte ventrolateral do núcleo ventromedial e o núcleo pré-mamilar ventral.
+
+Tais estruturas são importantes em outros comportamentos sociais, como comportamentos sexuais e agressivos.
+
+Além disso, o núcleo pré-mamilar também é mobilizado, a parte dorsomedial, mas não a parte ventrolateral.
+
+As lesões neste núcleo abolem comportamentos defensivos passivos, como o congelamento e a postura "de costas".
+
+
+
+https://en.wikipedia.org/wiki/Hipotálamo
+
+;;;FR;;;
+
+
+
+HYPOTHALAMUS
+
+
+L'hypothalamus (du grec ancien ὑπό (hupó) « sous » et θάλαμος (thálamos) « chambre ») est une partie du cerveau qui contient un certain nombre de petits noyaux avec une variété de fonctions.
+
+L'une des fonctions les plus importantes de l'hypothalamus est de relier le système nerveux au système endocrinien via l'hypophyse.
+
+L'hypothalamus est situé sous le thalamus et fait partie du système limbique.
+
+Dans la terminologie de la neuroanatomie, il forme la partie ventrale du diencéphale.
+
+Tous les cerveaux de vertébrés contiennent un hypothalamus.
+
+Chez l'homme, c'est la taille d'une amande.
+L'hypothalamus est responsable de la régulation de certains processus métaboliques et d'autres activités du système nerveux autonome.
+
+Il synthétise et sécrète certaines neurohormones, appelées hormones de libération ou hormones hypothalamiques, qui à leur tour stimulent ou inhibent la sécrétion d'hormones par l'hypophyse.
+
+L'hypothalamus contrôle la température corporelle, la faim, des aspects importants des comportements parentaux et d'attachement, la soif, la fatigue, le sommeil et les rythmes circadiens.
+
+
+== Structure ==
+
+L'hypothalamus est divisé en 3 régions (supraoptique, tubéreuse, mammillaire) dans un plan parasagittal, indiquant la localisation antéro-postérieure ; et 3 zones (périventriculaire, médiale, latérale) dans le plan coronal, indiquant la localisation médiale-latérale.
+
+Les noyaux hypothalamiques sont situés dans ces régions et zones spécifiques.
+
+On le trouve dans tous les systèmes nerveux des vertébrés.
+
+Chez les mammifères, les cellules neurosécrétoires magnocellulaires du noyau paraventriculaire et du noyau supraoptique de l'hypothalamus produisent des hormones neurohypophysaires, l'ocytocine et la vasopressine.
+
+Ces hormones sont libérées dans le sang dans l'hypophyse postérieure.
+
+Des cellules neurosécrétoires parvocellulaires beaucoup plus petites, des neurones du noyau paraventriculaire, libèrent l'hormone de libération de la corticotropine et d'autres hormones dans le système porte hypophysaire, où ces hormones diffusent vers l'hypophyse antérieure.
+
+
+=== Noyaux ===
+
+Les noyaux hypothalamiques comprennent les éléments suivants :
+Voir aussinoyau préoptique ventrolatéral
+noyau périventriculaire
+ 
+ 
+
+
+=== Connexions ===
+
+
+L'hypothalamus est fortement interconnecté avec d'autres parties du système nerveux central, en particulier le tronc cérébral et sa formation réticulaire.
+
+Dans le cadre du système limbique, il a des connexions avec d'autres structures limbiques, notamment l'amygdale et le septum, et est également connecté à des zones du système nerveux autonome.
+L'hypothalamus reçoit de nombreuses entrées du tronc cérébral, les plus notables provenant du noyau du tractus solitaire, du locus coeruleus et de la moelle ventrolatérale.
+La plupart des fibres nerveuses de l'hypothalamus fonctionnent de deux manières (bidirectionnelles).
+
+Les projections vers les zones caudales à l'hypothalamus passent par le faisceau médial du cerveau antérieur, le tractus mammillotegmental et le faisceau longitudinal dorsal.
+Les projections vers les zones rostrales de l'hypothalamus sont portées par le tractus mammillothalamique, le fornix et la strie terminale.
+Les projections vers les zones du système moteur sympathique (segments vertébraux de la corne latérale T1-L2/L3) sont portées par le tractus hypothalamospinal et activent la voie motrice sympathique.
+
+
+=== Dimorphisme sexuel ===
+
+Plusieurs noyaux hypothalamiques sont sexuellement dimorphes; c'est-à-dire qu'il existe des différences claires dans la structure et la fonction entre les hommes et les femmes.
+
+Certaines différences sont apparentes même dans la neuroanatomie grossière : la plus notable est le noyau sexuellement dimorphe dans la zone préoptique, dans lequel les différences sont des changements subtils dans la connectivité et la sensibilité chimique d'ensembles particuliers de neurones.
+
+L'importance de ces changements peut être reconnue par les différences fonctionnelles entre les hommes et les femmes.
+
+Par exemple, les mâles de la plupart des espèces préfèrent l'odeur et l'apparence des femelles aux mâles, ce qui contribue à stimuler le comportement sexuel masculin.
+
+Si le noyau sexuellement dimorphe est lésé, cette préférence pour les femelles par les mâles diminue.
+
+En outre, le schéma de sécrétion de l'hormone de croissance est sexuellement dimorphe ; c'est pourquoi chez de nombreuses espèces, les mâles adultes ont des tailles visiblement distinctes des femelles.
+
+
+==== Réactivité aux stéroïdes ovariens ====
+D'autres dimorphismes fonctionnels frappants se trouvent dans les réponses comportementales aux stéroïdes ovariens de l'adulte.
+
+Les mâles et les femelles répondent aux stéroïdes ovariens de différentes manières, en partie parce que l'expression des neurones sensibles aux œstrogènes dans l'hypothalamus est sexuellement dimorphe ; c'est-à-dire que les récepteurs des oestrogènes sont exprimés dans différents ensembles de neurones.
+Les œstrogènes et la progestérone peuvent influencer l'expression des gènes dans des neurones particuliers ou induire des changements dans le potentiel de la membrane cellulaire et l'activation des kinases, conduisant à diverses fonctions cellulaires non génomiques.
+
+L'œstrogène et la progestérone se lient à leurs récepteurs hormonaux nucléaires apparentés, qui se transloquent vers le noyau cellulaire et interagissent avec des régions d'ADN connues sous le nom d'éléments de réponse hormonale (HRE) ou sont attachés au site de liaison d'un autre facteur de transcription.
+
+Il a été démontré que le récepteur des œstrogènes (ER) transactive d'autres facteurs de transcription de cette manière, malgré l'absence d'un élément de réponse aux œstrogènes (ERE) dans la région promotrice proximale du gène.
+
+En général, les RE et les récepteurs de la progestérone (PR) sont des activateurs de gènes, avec une augmentation de l'ARNm et une synthèse protéique subséquente suite à l'exposition aux hormones. Les cerveaux masculins et féminins diffèrent dans la distribution des récepteurs aux œstrogènes, et cette différence est une conséquence irréversible de l'exposition néonatale aux stéroïdes.
+
+Les récepteurs aux œstrogènes (et les récepteurs à la progestérone) se trouvent principalement dans les neurones de l'hypothalamus antérieur et médiobasal, notamment :
+
+la zone préoptique (où se trouvent les neurones LHRH, régulant les réponses dopaminergiques et le comportement maternel ;
+le noyau périventriculaire où se trouvent les neurones de la somatostatine, régulant les niveaux de stress ;
+l'hypothalamus ventromédian qui régule la faim et l'excitation sexuelle.
+
+
+=== Développement ===
+
+
+Dans la vie néonatale, les stéroïdes gonadiques influencent le développement de l'hypothalamus neuroendocrinien.
+
+Par exemple, ils déterminent la capacité des femmes à présenter un cycle de reproduction normal, et des hommes et des femmes à afficher des comportements reproducteurs appropriés à l'âge adulte.
+
+Si un rat femelle reçoit une injection de testostérone dans les premiers jours de la vie postnatale (pendant la «période critique» de l'influence des stéroïdes sexuels), l'hypothalamus est irréversiblement masculinisé; le rat adulte sera incapable de générer un pic de LH en réponse aux œstrogènes (une caractéristique des femelles), mais sera capable de présenter des comportements sexuels mâles (monter une femelle sexuellement réceptive).
+En revanche, un rat mâle castré juste après la naissance sera féminisé, et l'adulte montrera un comportement sexuel femelle en réponse aux œstrogènes (réceptivité sexuelle, comportement de lordose). Chez les primates, l'influence développementale des androgènes est moins claire, et les conséquences sont moins compris.
+
+Dans le cerveau, la testostérone est aromatisée (en œstradiol), qui est la principale hormone active pour les influences sur le développement.
+
+Le testicule humain sécrète des niveaux élevés de testostérone à partir d'environ la semaine 8 de la vie fœtale jusqu'à 5 à 6 mois après la naissance (une poussée périnatale similaire de testostérone est observée chez de nombreuses espèces), un processus qui semble sous-tendre le phénotype masculin.
+
+Les œstrogènes de la circulation maternelle sont relativement inefficaces, en partie à cause des niveaux élevés de protéines de liaison aux stéroïdes circulants pendant la grossesse. Les stéroïdes sexuels ne sont pas les seules influences importantes sur le développement hypothalamique; en particulier, le stress prépubertaire au début de la vie (chez le rat) détermine la capacité de l'hypothalamus adulte à répondre à un facteur de stress aigu.
+
+Contrairement aux récepteurs des stéroïdes gonadiques, les récepteurs des glucocorticoïdes sont très répandus dans tout le cerveau ; dans le noyau paraventriculaire, ils interviennent dans le rétrocontrôle négatif de la synthèse et de la sécrétion de CRF, mais ailleurs leur rôle n'est pas bien compris.
+
+
+== Fonction ==
+
+
+
+=== Libération d'hormones ===
+
+
+L'hypothalamus a une fonction neuroendocrinienne centrale, notamment par son contrôle de l'hypophyse antérieure, qui à son tour régule diverses glandes et organes endocriniens.
+
+Les hormones de libération (également appelées facteurs de libération) sont produites dans les noyaux hypothalamiques puis transportées le long des axones vers l'éminence médiane ou l'hypophyse postérieure, où elles sont stockées et libérées au besoin.
+Hypophyse antérieureDans l'axe hypothalamo-adénohypophysaire, les hormones de libération, également appelées hormones hypophysiotropes ou hypothalamiques, sont libérées de l'éminence médiane, un prolongement de l'hypothalamus, dans le système porte hypophysaire, qui les transporte vers l'hypophyse antérieure où elles exercent leur fonction régulatrice. Fonctionne sur la sécrétion des hormones adénohypophysaires.
+
+Ces hormones hypophysiotropes sont stimulées par des cellules neurosécrétoires parvocellulaires situées dans la région périventriculaire de l'hypothalamus.
+
+Après leur libération dans les capillaires du troisième ventricule, les hormones hypophysiotropes transitent par ce que l'on appelle la circulation porte hypothalamo-hypophysaire.
+
+Une fois arrivées à destination dans l'hypophyse antérieure, ces hormones se lient à des récepteurs spécifiques situés à la surface des cellules hypophysaires.
+
+Selon les cellules activées par cette liaison, l'hypophyse commencera à sécréter ou arrêtera de sécréter des hormones dans le reste de la circulation sanguine.
+Les autres hormones sécrétées par l'éminence médiane comprennent la vasopressine, l'ocytocine et la neurotensine.
+Hypophyse postérieureDans l'axe hypothalamo-neurohypophysaire, les hormones neurohypophysaires sont libérées de l'hypophyse postérieure, qui est en fait un prolongement de l'hypothalamus, dans la circulation.
+
+On sait également que les hormones de l'axe hypothalamo-hypophyso-surrénalien (HPA) sont liées à certaines maladies de la peau et à l'homéostasie cutanée.
+
+Il existe des preuves établissant un lien entre l'hyperactivité des hormones HPA et les maladies de la peau et les tumeurs cutanées liées au stress.
+
+
+=== Stimulation ===
+
+L'hypothalamus coordonne de nombreux rythmes circadiens hormonaux et comportementaux, des modèles complexes de sorties neuroendocrines, des mécanismes homéostatiques complexes et des comportements importants.
+
+L'hypothalamus doit donc répondre à de nombreux signaux différents, dont certains sont générés de manière externe et d'autres de manière interne.
+
+La signalisation des ondes delta apparaissant soit dans le thalamus, soit dans le cortex influence la sécrétion d'hormones libératrices ; La GHRH et la prolactine sont stimulées tandis que la TRH est inhibée.
+L'hypothalamus est sensible à :
+
+Lumière : longueur du jour et photopériode pour réguler les rythmes circadiens et saisonniers
+Stimuli olfactifs, y compris les phéromones
+Stéroïdes, y compris les stéroïdes gonadiques et les corticostéroïdes
+Informations transmises par les neurones provenant notamment du cœur, du système nerveux entérique (du tractus gastro-intestinal) et de l'appareil reproducteur.
+Entrées autonomes
+Stimuli transmissibles par le sang, y compris la leptine, la ghréline, l'angiotensine, l'insuline, les hormones hypophysaires, les cytokines, les concentrations plasmatiques de glucose et l'osmolarité, etc.
+Stresser
+Envahir les micro-organismes en augmentant la température corporelle, réinitialisant le thermostat du corps vers le haut.
+
+
+==== Stimuli olfactif ====
+Les stimuli olfactifs sont importants pour la reproduction sexuée et la fonction neuroendocrinienne chez de nombreuses espèces.
+
+Par exemple, si une souris enceinte est exposée à l'urine d'un mâle « étrange » pendant une période critique après le coït, la grossesse échoue (l'effet Bruce).
+
+Ainsi, lors du coït, une souris femelle forme une « mémoire olfactive » précise de son partenaire qui persiste pendant plusieurs jours.
+
+Les signaux phéromonaux facilitent la synchronisation de l'œstrus chez de nombreuses espèces; chez les femmes, la menstruation synchronisée peut également résulter de signaux de phéromones, bien que le rôle des phéromones chez l'homme soit contesté.
+
+
+==== Stimuli sanguins ====
+Les hormones peptidiques ont une influence importante sur l'hypothalamus et, pour ce faire, elles doivent traverser la barrière hémato-encéphalique.
+
+L'hypothalamus est délimité en partie par des régions cérébrales spécialisées dépourvues de barrière hémato-encéphalique efficace; l'endothélium capillaire au niveau de ces sites est fenestré pour permettre le libre passage même de grosses protéines et d'autres molécules.
+
+Certains de ces sites sont les sites de neurosécrétion - la neurohypophyse et l'éminence médiane.
+
+Cependant, d'autres sont des sites où le cerveau échantillonne la composition du sang.
+
+Deux de ces sites, le SFO (organe sous-fornique) et l'OVLT (organum vasculosum of the lamina terminalis) sont des organes dits circumventriculaires, où les neurones sont en contact intime à la fois avec le sang et le LCR.
+
+Ces structures sont densément vascularisées et contiennent des neurones osmoréceptifs et récepteurs au sodium qui contrôlent la consommation d'alcool, la libération de vasopressine, l'excrétion de sodium et l'appétit pour le sodium.
+
+Ils contiennent également des neurones avec des récepteurs pour l'angiotensine, le facteur natriurétique auriculaire, l'endothéline et la relaxine, dont chacun est important dans la régulation de l'équilibre hydrique et électrolytique.
+
+Les neurones de l'OVLT et du SFO se projettent vers le noyau supraoptique et le noyau paraventriculaire, ainsi que vers les zones hypothalamiques préoptiques.
+
+Les organes circumventriculaires peuvent également être le site d'action des interleukines pour provoquer à la fois la fièvre et la sécrétion d'ACTH, via des effets sur les neurones paraventriculaires. Il n'est pas clair comment tous les peptides qui influencent l'activité hypothalamique obtiennent l'accès nécessaire.
+
+Dans le cas de la prolactine et de la leptine, il existe des preuves d'absorption active au niveau du plexus choroïde du sang dans le liquide céphalo-rachidien (LCR).
+
+Certaines hormones hypophysaires ont une influence négative sur la sécrétion hypothalamique ; par exemple, l'hormone de croissance se réinjecte dans l'hypothalamus, mais la façon dont elle pénètre dans le cerveau n'est pas claire.
+
+Il existe également des preuves d'actions centrales de la prolactine. Les résultats suggèrent que l'hormone thyroïdienne (T4) est absorbée par les cellules gliales hypothalamiques dans le noyau infundibulaire / l'éminence médiane, et qu'elle est ici convertie en T3 par la déiodinase de type 2 (D2 ).
+
+Par la suite, la T3 est transportée dans les neurones producteurs de l'hormone de libération de la thyrotropine (TRH) dans le noyau paraventriculaire.
+
+Des récepteurs d'hormones thyroïdiennes ont été trouvés dans ces neurones, indiquant qu'ils sont en effet sensibles aux stimuli T3.
+
+De plus, ces neurones exprimaient MCT8, un transporteur d'hormones thyroïdiennes, soutenant la théorie selon laquelle la T3 y est transportée.
+
+La T3 pourrait alors se lier au récepteur de l'hormone thyroïdienne dans ces neurones et affecter la production de l'hormone de libération de la thyrotropine, régulant ainsi la production d'hormones thyroïdiennes. L'hypothalamus fonctionne comme une sorte de thermostat pour le corps.
+
+Il fixe une température corporelle souhaitée et stimule soit la production et la rétention de chaleur pour élever la température du sang à un réglage plus élevé, soit la transpiration et la vasodilatation pour refroidir le sang à une température plus basse.
+
+Toutes les fièvres résultent d'un réglage élevé dans l'hypothalamus; les températures corporelles élevées dues à toute autre cause sont classées comme hyperthermie.
+
+Rarement, des dommages directs à l'hypothalamus, comme un accident vasculaire cérébral, provoqueront de la fièvre; ceci s'appelle parfois une fièvre hypothalamique.
+
+Cependant, il est plus courant que de tels dommages provoquent des températures corporelles anormalement basses.
+
+
+==== Stéroïdes ====
+L'hypothalamus contient des neurones qui réagissent fortement aux stéroïdes et aux glucocorticoïdes - (les hormones stéroïdes de la glande surrénale, libérées en réponse à l'ACTH).
+
+Il contient également des neurones spécialisés sensibles au glucose (dans le noyau arqué et l'hypothalamus ventromédian), qui sont importants pour l'appétit.
+
+L'aire préoptique contient des neurones thermosensibles ; ceux-ci sont importants pour la sécrétion de TRH.
+
+
+==== Neural ====
+La sécrétion d'ocytocine en réponse à la succion ou à la stimulation vagino-cervicale est médiée par certaines de ces voies; la sécrétion de vasopressine en réponse aux stimuli cardiovasculaires provenant des chimiorécepteurs du corps carotidien et de l'arc aortique, et des récepteurs de volume auriculaire à basse pression, est médiée par d'autres.
+
+Chez le rat, la stimulation du vagin provoque également une sécrétion de prolactine, ce qui entraîne une pseudo-grossesse suite à un accouplement infertile.
+
+Chez la lapine, le coït provoque une ovulation réflexe.
+
+Chez la brebis, la stimulation cervicale en présence de taux élevés d'oestrogène peut induire un comportement maternel chez une brebis vierge.
+
+Ces effets sont tous médiés par l'hypothalamus, et l'information est transportée principalement par les voies vertébrales qui se relaient dans le tronc cérébral.
+
+La stimulation des mamelons stimule la libération d'ocytocine et de prolactine et supprime la libération de LH et de FSH.
+Les stimuli cardiovasculaires sont véhiculés par le nerf vague.
+
+Le nerf vague transmet également une variété d'informations viscérales, y compris par exemple des signaux résultant de la distension ou de la vidange gastrique, pour supprimer ou favoriser l'alimentation, en signalant la libération de leptine ou de gastrine, respectivement.
+
+Encore une fois, cette information atteint l'hypothalamus via des relais dans le tronc cérébral.
+De plus, la fonction hypothalamique est sensible et régulée par les niveaux des trois neurotransmetteurs monoamines classiques, la noradrénaline, la dopamine et la sérotonine (5-hydroxytryptamine), dans les voies à partir desquelles elle reçoit l'innervation.
+
+Par exemple, les apports noradrénergiques provenant du locus coeruleus ont des effets régulateurs importants sur les taux de corticolibérine (CRH).
+
+
+=== Contrôle de la prise alimentaire ===
+
+La partie latérale extrême du noyau ventromédian de l'hypothalamus est responsable du contrôle de la prise alimentaire.
+
+La stimulation de cette zone entraîne une augmentation de l'apport alimentaire.
+
+La lésion bilatérale de cette zone entraîne l'arrêt complet de la prise alimentaire.
+
+Les parties médiales du noyau ont un effet de contrôle sur la partie latérale.
+
+La lésion bilatérale de la partie médiale du noyau ventromédian provoque une hyperphagie et une obésité de l'animal.
+
+Une nouvelle lésion de la partie latérale du noyau ventromédian chez le même animal produit un arrêt complet de la prise alimentaire.
+Il existe différentes hypothèses liées à cette régulation :
+Hypothèse lipostatique : Cette hypothèse soutient que le tissu adipeux produit un signal humoral proportionnel à la quantité de graisse et agit sur l'hypothalamus pour diminuer l'apport alimentaire et augmenter la production d'énergie.
+
+Il a été évident qu'une hormone, la leptine, agit sur l'hypothalamus pour diminuer l'apport alimentaire et augmenter la production d'énergie.
+Hypothèse gutpeptidique : les hormones gastro-intestinales telles que Grp, les glucagons, la CCK et d'autres prétendent inhiber la prise alimentaire.
+
+La nourriture entrant dans le tractus gastro-intestinal déclenche la libération de ces hormones, qui agissent sur le cerveau pour produire la satiété.
+
+Le cerveau contient à la fois les récepteurs CCK-A et CCK-B.
+Hypothèse glucostatique : L'activité du centre de la satiété dans les noyaux ventromédian est probablement régie par l'utilisation du glucose dans les neurones.
+
+Il a été postulé que lorsque leur utilisation du glucose est faible et par conséquent lorsque la différence de glycémie artério-veineuse entre eux est faible, l'activité à travers les neurones diminue.
+
+Dans ces conditions, l'activité du centre de nutrition n'est pas contrôlée et l'individu a faim.
+
+L'apport alimentaire est rapidement augmenté par l'administration intraventriculaire de 2-désoxyglucose, ce qui diminue l'utilisation du glucose dans les cellules.
+Hypothèse thermostatique : Selon cette hypothèse, une diminution de la température corporelle en dessous d'une consigne donnée stimule l'appétit, alors qu'une augmentation au-dessus de la consigne inhibe l'appétit.
+
+
+=== Traitement de la peur ===
+
+La zone médiale de l'hypothalamus fait partie d'un circuit qui contrôle les comportements motivés, comme les comportements défensifs.
+
+Les analyses du marquage Fos ont montré qu'une série de noyaux dans la "colonne de contrôle comportementale" est importante dans la régulation de l'expression des comportements défensifs innés et conditionnés.
+Comportement défensif anti-prédateur L'exposition à un prédateur (comme un chat) provoque des comportements défensifs chez les rongeurs de laboratoire, même lorsque l'animal n'a jamais été exposé à un chat.
+
+Dans l'hypothalamus, cette exposition provoque une augmentation des cellules marquées au Fos dans le noyau hypothalamique antérieur, la partie dorsomédiale du noyau ventromédian et dans la partie ventrolatérale du noyau prémamillaire (PMDvl).
+
+Le noyau prémamillaire a un rôle important dans l'expression des comportements défensifs envers un prédateur, puisque les lésions de ce noyau abolissent les comportements défensifs, comme le gel et la fuite.
+
+Le PMD ne module pas le comportement défensif dans d'autres situations, car les lésions de ce noyau ont eu des effets minimes sur les scores de congélation post-choc.
+
+Le PMD a des connexions importantes avec le gris périaqueducal dorsal, une structure importante dans l'expression de la peur.
+
+De plus, les animaux présentent des comportements d'évaluation des risques pour l'environnement précédemment associés au chat.
+
+L'analyse des cellules marquées au Fos a montré que le PMDvl est la structure la plus activée de l'hypothalamus, et l'inactivation avec du muscimol avant l'exposition au contexte abolit le comportement défensif.
+
+Par conséquent, l'hypothalamus, principalement le PMDvl, a un rôle important dans l'expression des comportements défensifs innés et conditionnés envers un prédateur.
+
+Défaite sociale De même, l'hypothalamus a un rôle dans la défaite sociale : les noyaux de la zone médiale sont également mobilisés lors d'une rencontre avec un congénère agressif.
+
+L'animal vaincu a une augmentation des niveaux de Fos dans les structures sexuellement dimorphes, telles que le noyau préoptique médian, la partie ventrolatérale du noyau ventromédian et le noyau prémammilaire ventral.
+
+De telles structures sont importantes dans d'autres comportements sociaux, tels que les comportements sexuels et agressifs.
+
+De plus, le noyau prémamillaire est également mobilisé, la partie dorsomédiale mais pas la partie ventrolatérale.
+
+Les lésions de ce noyau abolissent les comportements défensifs passifs, comme le gel et la posture « sur le dos ».
+
+
+
+https://en.wikipedia.org/wiki/Hypothalamus

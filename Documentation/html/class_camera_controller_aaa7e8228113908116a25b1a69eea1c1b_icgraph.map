@@ -1,0 +1,30 @@
+<map id="CameraController.UpdateBounds" name="CameraController.UpdateBounds">
+<area shape="rect" id="node1" title="Updates the bounds." alt="" coords="1363,456,1573,481"/>
+<area shape="rect" id="node2" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="1117,449,1315,489"/>
+<area shape="rect" id="node3" href="$class_camera_controller.html#ac51922a12d5b8b29f486016c7eb04a94" title="Centers the camera immediately without interpolation." alt="" coords="835,93,1059,119"/>
+<area shape="rect" id="node4" href="$class_camera_controller.html#a75eb2cf30824d49180db4b716219a6e4" title="Centers the camera on the active objects or the selected object(s)." alt="" coords="851,295,1043,320"/>
+<area shape="rect" id="node15" href="$class_selected_objects_management.html#a9c6ccec0d7a7358938bebd2e30e0c921" title="Checks the visibility of labels for all the active objects, and hides them if there is more than one ..." alt="" coords="849,207,1046,247"/>
+<area shape="rect" id="node16" href="$class_mesh_management.html#addd6f09f580bdbd626817795c6fd59d8" title=" " alt="" coords="857,391,1038,431"/>
+<area shape="rect" id="node19" href="$class_layers_slider.html#a9e37d22c58e249956e62cabb58c4c498" title=" " alt="" coords="853,456,1041,481"/>
+<area shape="rect" id="node20" href="$class_lexicon_item_checkbox.html#a7f0749fae1456e8cfd52fd78b346c16a" title=" " alt="" coords="825,505,1069,531"/>
+<area shape="rect" id="node21" href="$class_lexicon_item_checkbox.html#a3b6a88846ad9533ca2e7d7f3afbc6876" title=" " alt="" coords="841,555,1053,595"/>
+<area shape="rect" id="node22" href="$class_layers_slider.html#ad9156d063395b85a92e78b865a907e7b" title=" " alt="" coords="861,620,1033,645"/>
+<area shape="rect" id="node23" href="$class_action_control.html#a06ee262231d7e8b4a47e9a346f8f9321" title=" " alt="" coords="871,669,1024,695"/>
+<area shape="rect" id="node24" href="$class_action_control.html#ad74d24b35b91563ae3f0f2add1b5a6c2" title=" " alt="" coords="869,719,1025,744"/>
+<area shape="rect" id="node25" href="$class_contextual_menu.html#a260bb172b342c371b05bc044093ff32d" title=" " alt="" coords="843,143,1051,183"/>
+<area shape="rect" id="node5" href="$class_lexicon_element.html#aa6ce28d7b0c4182204ea7aa6dffc52d7" title=" " alt="" coords="571,423,767,448"/>
+<area shape="rect" id="node7" href="$class_select_command.html#a4adfba5781cb1795ec4cdb9cd5a03c3a" title=" " alt="" coords="584,272,755,297"/>
+<area shape="rect" id="node8" href="$class_tangible_body_part.html#ad7c008d8d2a7a0bb559f74685746b61b" title="Handles the selection/deselection of the game object when clicked." alt="" coords="565,321,774,347"/>
+<area shape="rect" id="node9" href="$class_hierarchy_button.html#a0906c341355a0461c23265da273e6e80" title=" " alt="" coords="587,108,752,133"/>
+<area shape="rect" id="node11" href="$class_bonus_collections.html#a4f18fdd0b2d21d6bcb40c99a120f10f1" title=" " alt="" coords="561,157,777,183"/>
+<area shape="rect" id="node13" href="$class_names_management.html#a537c30e6a97c8ac18566aa8c9763a46d" title=" " alt="" coords="285,372,496,397"/>
+<area shape="rect" id="node14" href="$class_selected_objects_management.html#a91bae1160eb4529889e6477e3ea029ba" title=" " alt="" coords="571,207,768,247"/>
+<area shape="rect" id="node6" href="$class_lexicon_element_button.html#a41dc70b684895c694867c73606cf67fb" title=" " alt="" coords="5,209,220,249"/>
+<area shape="rect" id="node10" href="$class_hierarchy_button.html#a1120572edd81dea744858740db7b707f" title=" " alt="" coords="302,105,479,145"/>
+<area shape="rect" id="node12" href="$class_bonus_collection_item.html#acf23cc61e3608a0a5fb56cc7d6aa980f" title=" " alt="" coords="303,169,478,195"/>
+<area shape="rect" id="node17" href="$class_action_control.html#a52d0b2d5d2fe908e70cdfdc7061579c6" title=" " alt="" coords="598,524,741,549"/>
+<area shape="rect" id="node18" href="$class_contextual_menu.html#a6153bad2bb7f98bc1367544870f1d3d1" title=" " alt="" coords="576,573,763,599"/>
+<area shape="rect" id="node26" href="$class_contextual_menu.html#aaabaab4be927901380474502f34accff" title=" " alt="" coords="593,59,745,84"/>
+<area shape="rect" id="node27" href="$class_copy_text.html#ad5095b16079cdaa13a80d0e188554196" title=" " alt="" coords="307,55,475,80"/>
+<area shape="rect" id="node28" href="$class_lexicon_element.html#a16c5cafc15374ec204f9018ace08a10b" title=" " alt="" coords="268,5,513,31"/>
+</map>

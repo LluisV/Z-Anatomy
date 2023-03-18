@@ -1,0 +1,968 @@
+
+
+LATERAL GENICULATE BODY
+/LATERAL GENICULATE NUCLEUS
+
+
+The lateral geniculate nucleus (LGN; also called the lateral geniculate body or lateral geniculate complex) is a relay center in the thalamus for the visual pathway. 
+
+It is a small, ovoid, ventral projection of the thalamus where the thalamus connects with the optic nerve. 
+
+There are two LGNs, one on the left and another on the right side of the thalamus. 
+
+In humans, both LGNs have six layers of neurons (grey matter) alternating with optic fibers (white matter).
+
+The LGN receives information directly from the ascending retinal ganglion cells via the optic tract and from the reticular activating system. 
+
+Neurons of the LGN send their axons through the optic radiation, a direct pathway to the primary visual cortex. 
+
+In addition, the LGN receives many strong feedback connections from the primary visual cortex. 
+
+In humans as well as other mammals, the two strongest pathways linking the eye to the brain are those projecting to the dorsal part of the LGN in the thalamus, and to the superior colliculus.
+
+
+== Structure ==
+
+Both the left and right hemisphere of the brain have a lateral geniculate nucleus, named after its resemblance to a bent knee (genu is Latin for "knee"). 
+
+In humans as well as in many other primates, the LGN has layers of magnocellular cells and parvocellular cells that are interleaved with layers of koniocellular cells. 
+
+In humans the LGN is normally described as having six distinctive layers. 
+
+The inner two layers, (1 and 2) are magnocellular layers, while the outer four layers, (3,4,5 and 6), are parvocellular layers. 
+
+An additional set of neurons, known as the koniocellular layers, are found ventral to each of the magnocellular and parvocellular layers.
+
+This layering is variable between primate species, and extra leafleting is variable within species.
+
+
+== M, P, K cells ==
+
+Size relates to cell body, dendritic tree and receptive fieldThe magnocellular, parvocellular, and koniocellular layers of the LGN correspond with the similarly named types of retinal ganglion cells. 
+
+Retinal P ganglion cells send axons to a parvocellular layer, M ganglion cells send axons to a magnocellular layer, and K ganglion cells send axons to a koniocellular layer.
+
+Koniocellular cells are functionally and neurochemically distinct from M and P cells and provide a third channel to the visual cortex. 
+
+They project their axons between the layers of the lateral geniculate nucleus where M and P cells project. 
+
+Their role in visual perception is presently unclear; however, the koniocellular system has been linked with the integration of somatosensory system-proprioceptive information with visual perception, and it may also be involved in color perception.
+
+The parvo- and magnocellular fibers were previously thought to dominate the Ungerleider–Mishkin ventral stream and dorsal stream, respectively. 
+
+However, new evidence has accumulated showing that the two streams appear to feed on a more even mixture of different types of nerve fibers.
+
+The other major retino–cortical visual pathway is the tectopulvinar pathway, routing primarily through the superior colliculus and thalamic pulvinar nucleus onto posterior parietal cortex and visual area MT.
+
+
+== Ipsilateral and contralateral layers ==
+
+Layer 1, 2
+
+Large cells, called magnocellular pathways
+Input from Y-ganglion cells
+Very rapid conduction
+Colour blind systemLayer 3–6
+
+Parvocellular
+Input from X- ganglion cells
+Colour vision
+Moderate velocity.Both the LGN in the right hemisphere and the LGN in the left hemisphere receive input from each eye. 
+
+However, each LGN only receives information from one half of the visual field. 
+
+This occurs due to axons of the ganglion cells from the inner halves of the retina (the nasal sides) decussating (crossing to the other side of the brain) through the optic chiasma (khiasma means "cross-shaped"). 
+
+The axons of the ganglion cells from the outer half of the retina (the temporal sides) remain on the same side of the brain. 
+
+Therefore, the right hemisphere receives visual information from the left visual field, and the left hemisphere receives visual information from the right visual field. 
+
+Within one LGN, the visual information is divided among the various layers as follows:
+    
+the eye on the same side (the ipsilateral eye) sends information to layers 2, 3 and 5
+the eye on the opposite side (the contralateral eye) sends information to layers 1, 4 and 6.This description applies to the LGN of many primates, but not all. 
+
+The sequence of layers receiving information from the ipsilateral and contralateral (opposite side of the head) eyes is different in the tarsier. 
+
+Some neuroscientists suggested that "this apparent difference distinguishes tarsiers from all other primates, reinforcing the view that they arose in an early, independent line of primate evolution".
+
+In visual perception, the right eye gets information from the right side of the world (the right visual field), as well as the left side of the world (the left visual field). 
+
+You can confirm this by covering your left eye: the right eye still sees to your left and right, although on the left side your field of view may be partially blocked by your nose.
+
+
+== Input ==
+
+The LGN receives input from the retina and many other brain structures, especially visual cortex.
+
+The principal neurons in the LGN receive strong inputs from the retina. 
+
+However, the retina only accounts for a small percentage of LGN input. 
+
+As much as 95% of input in the LGN comes from the visual cortex, superior colliculus, pretectum, thalamic reticular nuclei, and local LGN interneurons. 
+
+Regions in the brainstem that are not involved in visual perception also project to the LGN, such as the mesencephalic reticular formation, dorsal raphe nucleus, periaqueuctal grey matter, and the locus coeruleus. 
+
+The LGN also receives some inputs from the optic tectum (also known as the superior colliculus). 
+
+These non-retinal inputs can be excitatory, inhibitory, or modulatory.
+
+
+== Output ==
+
+Information leaving the LGN travels out on the optic radiations, which form part of the retrolenticular portion of the internal capsule.
+
+The axons that leave the LGN go to V1 visual cortex. 
+
+Both the magnocellular layers 1–2 and the parvocellular layers 3–6 send their axons to layer 4 in V1. 
+
+Within layer 4 of V1, layer 4cβ receives parvocellular input, and layer 4cα receives magnocellular input. 
+
+However, the koniocellular layers, intercalated between LGN layers 1–6 send their axons primarily to the cytochrome-oxidase rich blobs of layers 2 and 3 in V1. 
+
+Axons from layer 6 of visual cortex send information back to the LGN.
+
+Studies involving blindsight have suggested that projections from the LGN travel not only to the primary visual cortex but also to higher cortical areas V2 and V3. 
+
+Patients with blindsight are phenomenally blind in certain areas of the visual field corresponding to a contralateral lesion in the primary visual cortex; however, these patients are able to perform certain motor tasks accurately in their blind field, such as grasping. 
+
+This suggests that neurons travel from the LGN to both the primary visual cortex and higher cortex regions.
+
+
+== Function in visual perception ==
+
+The functions of the LGN are multiple. 
+
+Its unique folding contributes to its utility by performing a range of anatomical calculations without requiring mathematical computations. 
+
+These include both temporal correlations/decorrelations as well as spatial correlations. 
+
+The resulting outputs include time correlated and spatially correlated signals resulting from summing the signals received from the left and right semifields of view captured by each of the two eyes. 
+
+These signals are correlated in order to achieve a three-dimensional representation of object space as well as obtain information for controlling the precision (previously auxiliary) optical system (POS) of the visual modality.
+
+The outputs serve several functions.
+
+A signal is provided to control the vergence of the two eyes so they converge at the principal plane of interest in object space.
+
+A signal is provided to control the focus of the eyes based on the calculated distance to the principal plane of interest.
+
+Computations are achieved to determine the position of every major element in object space relative to the principal plane. 
+
+Through subsequent motion of the eyes, a larger stereoscopic mapping of the visual field is achieved.A tag is provided for each major element in the central 1.2 degree field of view of object space. 
+
+The accumulated tags are attached to the features in the merged visual fields forwarded to area 17 of the cerebral cortex (often described as the "primary" visual cortex or V1).
+
+A tag is also provided for each major element in the visual field describing the velocity of the major elements based on its change in coordinates with time.
+
+The velocity tags (particularly those associated with the peripheral field of view) are also used to determine the direction the organism is moving relative to object space.
+
+These position and velocity tags are extracted prior to the information reaching area 17. 
+
+They constitute the major source of information reported in blindsight experiments where an individual reports motion in a portion of the visual field associated with one hemisphere of area 17 that has been damaged by laceration, stroke, etc.
+
+The output signals from the LGN determine the spatial dimensions of the stereoscopic and monoscopic portions of the horopter of the visual system.
+
+It has been shown that while the retina accomplishes spatial decorrelation through center surround inhibition, the LGN accomplishes temporal decorrelation. 
+
+This spatial–temporal decorrelation makes for much more efficient coding. 
+
+However, there is almost certainly much more going on.
+Like other areas of the thalamus, particularly other relay nuclei, the LGN likely helps the visual system focus its attention on the most important information. 
+
+That is, if you hear a sound slightly to your left, the auditory system likely "tells" the visual system, through the LGN via its surrounding peri-reticular nucleus, to direct visual attention to that part of space. 
+
+The LGN is also a station that refines certain receptive fields.
+
+Axiomatically determined functional models of LGN cells have been determined by Lindeberg in terms of Laplacian of Gaussian kernels over the spatial domain in combination with temporal derivatives of either non-causal or time-causal scale-space kernels over the temporal domain. 
+
+It has been shown that this theory both leads to predictions about receptive fields with good qualitative agreement with the biological receptive field measurements performed by DeAngelis et al. and guarantees good theoretical properties of the mathematical receptive field model, including covariance and invariance properties under natural image transformations. 
+
+Specifically according to this theory, non-lagged LGN cells correspond to first-order temporal derivatives, whereas lagged LGN cells correspond to second-order temporal derivatives.
+
+For an extensive overview of the function of the LGN in visual perception, see Ghodrati et al.
+
+
+== Rodents ==
+
+In rodents, the lateral geniculate nucleus contains the dorsal lateral geniculate nucleus (dLGN), the ventral lateral geniculate nucleus (vLGN), and the region in between called the intergeniculate leaflet (IGL). 
+
+These are distinct subcortical nuclei with differences in function.
+
+
+=== dLGN ===
+
+The dorsolateral geniculate nucleus is the main division of the lateral geniculate body. 
+
+The majority of input to the dLGN comes from the retina. 
+
+It is laminated and shows retinotopic organization.
+
+
+=== vLGN ===
+
+The ventrolateral geniculate nucleus has been found to be relatively large in several species such as lizards, rodents, cows, cats, and primates. 
+
+An initial cytoarchitectural scheme, which has been confirmed in several studies, suggests that the vLGN is divided into two parts. 
+
+The external and internal divisions are separated by a group of fine fibers and a zone of thinly dispersed neurons. 
+
+Additionally, several studies have suggested further subdivisions of the vLGN in other species. 
+
+For example, studies indicate that the cytoarchitecture of the vLGN in the cat differs from rodents. 
+
+Although five subdivisions of the vLGN in the cat have been identified by some, the scheme that divides the vLGN into three regions (medial, intermediate, and lateral) has been more widely accepted.
+
+
+=== IGL ===
+
+The intergeniculate leaflet is a relatively small area found dorsal to the vLGN. 
+
+Earlier studies had referred to the IGL as the internal dorsal division of the vLGN. 
+
+Several studies have described homologous regions in several species, including humans.
+
+The vLGN and IGL appear to be closely related based on similarities in neurochemicals, inputs and outputs, and physiological properties.
+
+The vLGN and IGL have been reported to share many neurochemicals that are found concentrated in the cells, including neuropeptide Y, GABA, encephalin, and nitric oxide synthase. 
+
+The neurochemicals serotonin, acetylcholine, histamine, dopamine, and noradrenaline have been found in the fibers of these nuclei.
+Both the vLGN and IGL receive input from the retina, locus coreuleus, and raphe. 
+
+Other connections that have been found to be reciprocal include the superior colliculus, pretectum, and hypothalamus, as well as other thalamic nuclei.
+
+Physiological and behavioral studies have shown spectral-sensitive and motion-sensitive responses that vary with species. 
+
+The vLGN and IGL seem to play an important role in mediating phases of the circadian rhythms that are not involved with light, as well as phase shifts that are light-dependent.
+
+
+
+https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus
+;;;ES;;;
+
+
+
+CUERPO GENICULADO LATERAL
+/NUCLEO GENICULADO LATERAL
+
+
+El núcleo geniculado lateral (LGN; también llamado cuerpo geniculado lateral o complejo geniculado lateral) es un centro de relevo en el tálamo para la vía visual.
+
+Es una pequeña proyección ventral ovoide del tálamo donde el tálamo se conecta con el nervio óptico.
+
+Hay dos LGN, uno en el lado izquierdo y otro en el lado derecho del tálamo.
+
+En los humanos, ambos LGN tienen seis capas de neuronas (materia gris) que se alternan con fibras ópticas (materia blanca).
+
+El LGN recibe información directamente de las células del ganglio retiniano ascendente a través del tracto óptico y del sistema de activación reticular.
+
+Las neuronas del LGN envían sus axones a través de la radiación óptica, una vía directa a la corteza visual primaria.
+
+Además, el LGN recibe muchas conexiones de retroalimentación fuertes de la corteza visual primaria.
+
+En los seres humanos, así como en otros mamíferos, las dos vías más fuertes que unen el ojo con el cerebro son las que se proyectan hacia la parte dorsal del LGN en el tálamo y hacia el colículo superior.
+
+
+== Estructura ==
+
+Tanto el hemisferio izquierdo como el derecho del cerebro tienen un núcleo geniculado lateral, llamado así por su parecido con una rodilla doblada (genu en latín significa "rodilla").
+
+En humanos, así como en muchos otros primates, el LGN tiene capas de células magnocelulares y células parvocelulares que se intercalan con capas de células koniocelulares.
+
+En los seres humanos, el LGN normalmente se describe con seis capas distintivas.
+
+Las dos capas internas (1 y 2) son capas magnocelulares, mientras que las cuatro capas externas (3, 4, 5 y 6) son capas parvocelulares.
+
+Un conjunto adicional de neuronas, conocidas como capas koniocelulares, se encuentran ventrales a cada una de las capas magnocelular y parvocelular.
+
+Esta estratificación es variable entre las especies de primates, y la formación de folletos adicionales es variable dentro de las especies.
+
+
+== M, P, K celdas ==
+
+El tamaño se relaciona con el cuerpo celular, el árbol dendrítico y el campo receptivo. Las capas magnocelular, parvocelular y koniocelular del LGN se corresponden con los tipos de células ganglionares de la retina con nombres similares.
+
+Las células ganglionares P de la retina envían axones a una capa parvocelular, las células ganglionares M envían axones a una capa magnocelular y las células ganglionares K envían axones a una capa koniocelular.
+
+Las células koniocelulares son funcional y neuroquímicamente distintas de las células M y P y proporcionan un tercer canal a la corteza visual.
+
+Proyectan sus axones entre las capas del núcleo geniculado lateral donde se proyectan las células M y P.
+
+Su papel en la percepción visual no está claro actualmente; sin embargo, el sistema koniocelular se ha relacionado con la integración de la información propioceptiva del sistema somatosensorial con la percepción visual, y también puede estar involucrado en la percepción del color.
+
+Anteriormente se pensaba que las fibras parvo y magnocelulares dominaban la corriente ventral de Ungerleider-Mishkin y la corriente dorsal, respectivamente.
+
+Sin embargo, se ha acumulado nueva evidencia que muestra que las dos corrientes parecen alimentarse de una mezcla más uniforme de diferentes tipos de fibras nerviosas.
+
+La otra vía visual retinocortical principal es la vía tectopulvinar, que se dirige principalmente a través del colículo superior y el núcleo pulvinar talámico hacia la corteza parietal posterior y el área visual MT.
+
+
+== Capas ipsilateral y contralateral ==
+
+Capa 1, 2
+
+Células grandes, llamadas vías magnocelulares.
+Entrada de las células del ganglio Y
+Conducción muy rápida
+Sistema daltónicoCapa 3–6
+
+parvocelular
+Entrada de células ganglionares X
+visión de color
+Velocidad moderada. Tanto el LGN en el hemisferio derecho como el LGN en el hemisferio izquierdo reciben información de cada ojo.
+
+Sin embargo, cada LGN solo recibe información de la mitad del campo visual.
+
+Esto ocurre debido a que los axones de las células ganglionares de las mitades internas de la retina (los lados nasales) se decusan (cruzan al otro lado del cerebro) a través del quiasma óptico (khiasma significa "en forma de cruz").
+
+Los axones de las células ganglionares de la mitad externa de la retina (los lados temporales) permanecen en el mismo lado del cerebro.
+
+Por lo tanto, el hemisferio derecho recibe información visual del campo visual izquierdo y el hemisferio izquierdo recibe información visual del campo visual derecho.
+
+Dentro de un LGN, la información visual se divide entre las distintas capas de la siguiente manera:
+ 
+el ojo del mismo lado (el ojo ipsolateral) envía información a las capas 2, 3 y 5
+el ojo del lado opuesto (el ojo contralateral) envía información a las capas 1, 4 y 6. Esta descripción se aplica al LGN de ​​muchos primates, pero no a todos.
+
+La secuencia de capas que reciben información de los ojos ipsolateral y contralateral (lado opuesto de la cabeza) es diferente en el tarsero.
+
+Algunos neurocientíficos sugirieron que "esta aparente diferencia distingue a los tarseros de todos los demás primates, lo que refuerza la opinión de que surgieron en una línea temprana e independiente de evolución de los primates".
+
+En la percepción visual, el ojo derecho obtiene información del lado derecho del mundo (el campo visual derecho), así como del lado izquierdo del mundo (el campo visual izquierdo).
+
+Puede confirmar esto cubriendo su ojo izquierdo: el ojo derecho aún ve a su izquierda y derecha, aunque en el lado izquierdo su campo de visión puede estar parcialmente bloqueado por su nariz.
+
+
+== Entrada ==
+
+El LGN recibe información de la retina y muchas otras estructuras cerebrales, especialmente la corteza visual.
+
+Las principales neuronas del LGN reciben fuertes impulsos de la retina.
+
+Sin embargo, la retina solo representa un pequeño porcentaje de la entrada de LGN.
+
+Tanto como el 95% de la entrada en el LGN proviene de la corteza visual, el colículo superior, el pretectum, los núcleos reticulares talámicos y las interneuronas LGN locales.
+
+Las regiones del tronco del encéfalo que no están involucradas en la percepción visual también se proyectan hacia el NGL, como la formación reticular mesencefálica, el núcleo del rafe dorsal, la sustancia gris periacueuctal y el locus coeruleus.
+
+El LGN también recibe algunas entradas del techo óptico (también conocido como colículo superior).
+
+Estas entradas no retinales pueden ser excitatorias, inhibidoras o moduladoras.
+
+
+== Salida ==
+
+La información que sale del LGN viaja por las radiaciones ópticas, que forman parte de la porción retrolenticular de la cápsula interna.
+
+Los axones que salen del LGN van a la corteza visual V1.
+
+Tanto las capas magnocelulares 1–2 como las capas parvocelulares 3–6 envían sus axones a la capa 4 en V1.
+
+Dentro de la capa 4 de V1, la capa 4cβ recibe información parvocelular y la capa 4cα recibe información magnocelular.
+
+Sin embargo, las capas koniocelulares, intercaladas entre las capas 1 a 6 del LGN, envían sus axones principalmente a las manchas ricas en citocromo oxidasa de las capas 2 y 3 en V1.
+
+Los axones de la capa 6 de la corteza visual envían información al LGN.
+
+Los estudios relacionados con la visión ciega han sugerido que las proyecciones del LGN viajan no solo a la corteza visual primaria sino también a las áreas corticales superiores V2 y V3.
+
+Los pacientes con visión ciega son fenomenalmente ciegos en ciertas áreas del campo visual correspondientes a una lesión contralateral en la corteza visual primaria; sin embargo, estos pacientes pueden realizar ciertas tareas motoras con precisión en su campo ciego, como agarrar.
+
+Esto sugiere que las neuronas viajan desde el LGN tanto a la corteza visual primaria como a las regiones de la corteza superior.
+
+
+== Función en la percepción visual ==
+
+Las funciones del LGN son múltiples.
+
+Su plegado único contribuye a su utilidad al realizar una serie de cálculos anatómicos sin necesidad de cálculos matemáticos.
+
+Estos incluyen tanto correlaciones/descorrelaciones temporales como correlaciones espaciales.
+
+Las salidas resultantes incluyen señales correlacionadas espacial y temporalmente resultantes de la suma de las señales recibidas de los semicampos de visión izquierdo y derecho capturados por cada uno de los dos ojos.
+
+Estas señales se correlacionan con el fin de lograr una representación tridimensional del espacio del objeto así como obtener información para controlar el sistema óptico (POS) de precisión (antes auxiliar) de la modalidad visual.
+
+Las salidas cumplen varias funciones.
+
+Se proporciona una señal para controlar la convergencia de los dos ojos para que converjan en el plano principal de interés en el espacio del objeto.
+
+Se proporciona una señal para controlar el enfoque de los ojos en función de la distancia calculada al plano principal de interés.
+
+Se logran cálculos para determinar la posición de cada elemento principal en el espacio del objeto en relación con el plano principal.
+
+A través del movimiento posterior de los ojos, se logra un mapeo estereoscópico más grande del campo visual. Se proporciona una etiqueta para cada elemento principal en el campo de visión central de 1,2 grados del espacio del objeto.
+
+Las etiquetas acumuladas se adjuntan a las características de los campos visuales combinados y se envían al área 17 de la corteza cerebral (a menudo descrita como la corteza visual "primaria" o V1).
+
+También se proporciona una etiqueta para cada elemento principal en el campo visual que describe la velocidad de los elementos principales en función de su cambio de coordenadas con el tiempo.
+
+Las etiquetas de velocidad (particularmente las asociadas con el campo de visión periférico) también se utilizan para determinar la dirección en que se mueve el organismo en relación con el espacio del objeto.
+
+Estas etiquetas de posición y velocidad se extraen antes de que la información llegue al área 17.
+
+Constituyen la principal fuente de información reportada en experimentos de visión ciega donde un individuo informa movimiento en una porción del campo visual asociado con un hemisferio del área 17 que ha sido dañado por laceración, accidente cerebrovascular, etc.
+
+Las señales de salida del LGN determinan las dimensiones espaciales de las porciones estereoscópicas y monoscópicas del horóptero del sistema visual.
+
+Se ha demostrado que mientras la retina logra la descorrelación espacial a través de la inhibición del entorno central, el LGN logra la descorrelación temporal.
+
+Esta descorrelación espacio-temporal hace que la codificación sea mucho más eficiente.
+
+Sin embargo, es casi seguro que hay mucho más en juego.
+Al igual que otras áreas del tálamo, en particular otros núcleos de retransmisión, es probable que el LGN ayude al sistema visual a centrar su atención en la información más importante.
+
+Es decir, si escucha un sonido ligeramente a su izquierda, es probable que el sistema auditivo "le diga" al sistema visual, a través del LGN a través de su núcleo perirreticular circundante, que dirija la atención visual a esa parte del espacio.
+
+La LGN es también una estación que afina ciertos campos receptivos.
+
+Lindeberg ha determinado modelos funcionales determinados axiomáticamente de células LGN en términos de núcleos laplacianos de gaussianos sobre el dominio espacial en combinación con derivados temporales de núcleos de escala-espacio no causales o causales en el tiempo sobre el dominio temporal.
+
+Se ha demostrado que esta teoría conduce a predicciones sobre campos receptivos con un buen acuerdo cualitativo con las mediciones biológicas de campos receptivos realizadas por DeAngelis et al. y garantiza buenas propiedades teóricas del modelo de campo receptivo matemático, incluidas las propiedades de covarianza e invariancia bajo transformaciones de imágenes naturales.
+
+Específicamente según esta teoría, las células LGN no retrasadas corresponden a derivadas temporales de primer orden, mientras que las células LGN retrasadas corresponden a derivadas temporales de segundo orden.
+
+Para obtener una descripción general detallada de la función del LGN en la percepción visual, consulte Ghodrati et al.
+
+
+== Roedores ==
+
+En roedores, el núcleo geniculado lateral contiene el núcleo geniculado lateral dorsal (dLGN), el núcleo geniculado lateral ventral (vLGN) y la región intermedia denominada hojuela intergeniculada (IGL).
+
+Estos son núcleos subcorticales distintos con diferencias en la función.
+
+
+=== dLGN ===
+
+El núcleo geniculado dorsolateral es la división principal del cuerpo geniculado lateral.
+
+La mayor parte de la entrada al dLGN proviene de la retina.
+
+Está laminado y presenta organización retinotópica.
+
+
+=== vLGN ===
+
+Se ha encontrado que el núcleo geniculado ventrolateral es relativamente grande en varias especies, como lagartijas, roedores, vacas, gatos y primates.
+
+Un esquema citoarquitectónico inicial, que ha sido confirmado en varios estudios, sugiere que el vLGN se divide en dos partes.
+
+Las divisiones externa e interna están separadas por un grupo de fibras finas y una zona de neuronas escasamente dispersas.
+
+Además, varios estudios han sugerido más subdivisiones de la vLGN en otras especies.
+
+Por ejemplo, los estudios indican que la citoarquitectura de la vLGN en el gato difiere de la de los roedores.
+
+Aunque algunos han identificado cinco subdivisiones de la vLGN en el gato, el esquema que divide la vLGN en tres regiones (medial, intermedia y lateral) ha sido más ampliamente aceptado.
+
+
+=== IGL ===
+
+La valva intergeniculada es un área relativamente pequeña que se encuentra dorsal a la vLGN.
+
+Estudios anteriores se habían referido a la IGL como la división dorsal interna de la vLGN.
+
+Varios estudios han descrito regiones homólogas en varias especies, incluidos los humanos.
+
+La vLGN y la IGL parecen estar estrechamente relacionadas en función de las similitudes en los neuroquímicos, las entradas y salidas y las propiedades fisiológicas.
+
+Se ha informado que vLGN e IGL comparten muchos neuroquímicos que se encuentran concentrados en las células, incluidos el neuropéptido Y, GABA, encefalina y óxido nítrico sintasa.
+
+Los neuroquímicos serotonina, acetilcolina, histamina, dopamina y noradrenalina se han encontrado en las fibras de estos núcleos.
+Tanto el vLGN como el IGL reciben información de la retina, el locus coreuleus y el rafe.
+
+Otras conexiones que se ha encontrado que son recíprocas incluyen el colículo superior, el pretectum y el hipotálamo, así como otros núcleos talámicos.
+
+Los estudios fisiológicos y de comportamiento han mostrado respuestas sensibles al movimiento y al espectro que varían según la especie.
+
+El vLGN y el IGL parecen desempeñar un papel importante en la mediación de las fases de los ritmos circadianos que no están relacionados con la luz, así como los cambios de fase que dependen de la luz.
+
+
+
+https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus
+
+;;;PT;;;
+
+
+
+CORPO GENICULAR LATERAL
+/NÚCLEO GENICULAR LATERAL
+
+
+O núcleo geniculado lateral (LGN; também chamado de corpo geniculado lateral ou complexo geniculado lateral) é um centro de retransmissão no tálamo para a via visual.
+
+É uma projeção ventral pequena, ovoide, do tálamo, onde o tálamo se conecta com o nervo óptico.
+
+Existem dois LGNs, um à esquerda e outro no lado direito do tálamo.
+
+Em humanos, ambos os LGNs possuem seis camadas de neurônios (substância cinzenta) alternadas com fibras ópticas (substância branca).
+
+O LGN recebe informações diretamente das células ganglionares da retina ascendentes através do trato óptico e do sistema de ativação reticular.
+
+Os neurônios do LGN enviam seus axônios através da radiação óptica, um caminho direto para o córtex visual primário.
+
+Além disso, o LGN recebe muitas conexões de feedback fortes do córtex visual primário.
+
+Em humanos, assim como em outros mamíferos, as duas vias mais fortes que ligam o olho ao cérebro são aquelas que se projetam para a parte dorsal do LGN no tálamo e para o colículo superior.
+
+
+== Estrutura ==
+
+Tanto o hemisfério esquerdo quanto o direito do cérebro têm um núcleo geniculado lateral, nomeado por sua semelhança com um joelho dobrado (genu é latim para "joelho").
+
+Em humanos, assim como em muitos outros primatas, o LGN tem camadas de células magnocelulares e células parvocelulares que são intercaladas com camadas de células koniocelulares.
+
+Em humanos, o LGN é normalmente descrito como tendo seis camadas distintas.
+
+As duas camadas internas (1 e 2) são camadas magnocelulares, enquanto as quatro camadas externas (3,4,5 e 6) são camadas parvocelulares.
+
+Um conjunto adicional de neurônios, conhecido como camadas koniocelulares, é encontrado ventralmente a cada uma das camadas magnocelular e parvocelular.
+
+Esta estratificação é variável entre espécies de primatas, e folíolos extras são variáveis ​​dentro das espécies.
+
+
+== Células M, P, K ==
+
+O tamanho está relacionado ao corpo celular, árvore dendrítica e campo receptivo
+
+As células ganglionares P da retina enviam axônios para uma camada parvocelular, as células ganglionares M enviam axônios para uma camada magnocelular e as células ganglionares K enviam axônios para uma camada coniocelular.
+
+As células coniocelulares são funcional e neuroquimicamente distintas das células M e P e fornecem um terceiro canal para o córtex visual.
+
+Eles projetam seus axônios entre as camadas do núcleo geniculado lateral onde as células M e P se projetam.
+
+Seu papel na percepção visual não está claro; no entanto, o sistema koniocelular tem sido associado à integração de informações proprioceptivas do sistema somatossensorial com a percepção visual e também pode estar envolvido na percepção de cores.
+
+Anteriormente, pensava-se que as fibras parvo e magnocelulares dominavam a corrente ventral e dorsal de Ungerleider-Mishkin, respectivamente.
+
+No entanto, novas evidências se acumularam mostrando que os dois fluxos parecem se alimentar de uma mistura mais uniforme de diferentes tipos de fibras nervosas.
+
+A outra via visual retino-cortical importante é a via tectopulvinar, roteando principalmente através do colículo superior e núcleo pulvinar talâmico para o córtex parietal posterior e área visual MT.
+
+
+== Camadas ipsilaterais e contralaterais ==
+
+Camada 1, 2
+
+Células grandes, chamadas vias magnocelulares
+Entrada de células ganglionares Y
+Condução muito rápida
+Sistema daltônico Camada 3–6
+
+Parvocelular
+Entrada de células ganglionares X
+Visão de cores
+Velocidade moderada. Tanto o LGN no hemisfério direito quanto o LGN no hemisfério esquerdo recebem informações de cada olho.
+
+No entanto, cada LGN recebe apenas informações de metade do campo visual.
+
+Isso ocorre devido aos axônios das células ganglionares das metades internas da retina (os lados nasais) decussando (cruzando para o outro lado do cérebro) através do quiasma óptico (khiasma significa "em forma de cruz").
+
+Os axônios das células ganglionares da metade externa da retina (os lados temporais) permanecem no mesmo lado do cérebro.
+
+Portanto, o hemisfério direito recebe informações visuais do campo visual esquerdo e o hemisfério esquerdo recebe informações visuais do campo visual direito.
+
+Dentro de um LGN, a informação visual é dividida entre as várias camadas da seguinte forma:
+ 
+o olho do mesmo lado (o olho ipsilateral) envia informações para as camadas 2, 3 e 5
+o olho do lado oposto (o olho contralateral) envia informações para as camadas 1, 4 e 6. Esta descrição se aplica ao LGN de ​​muitos primatas, mas não de todos.
+
+A sequência de camadas que recebem informações dos olhos ipsilaterais e contralaterais (lado oposto da cabeça) é diferente no tarsier.
+
+Alguns neurocientistas sugeriram que "essa aparente diferença distingue os társios de todos os outros primatas, reforçando a visão de que eles surgiram em uma linha inicial e independente de evolução dos primatas".
+
+Na percepção visual, o olho direito obtém informações do lado direito do mundo (campo visual direito), bem como do lado esquerdo do mundo (campo visual esquerdo).
+
+Você pode confirmar isso cobrindo o olho esquerdo: o olho direito ainda vê para a esquerda e para a direita, embora no lado esquerdo seu campo de visão possa estar parcialmente bloqueado pelo nariz.
+
+
+== Entrada ==
+
+O LGN recebe informações da retina e de muitas outras estruturas cerebrais, especialmente o córtex visual.
+
+Os principais neurônios no LGN recebem fortes entradas da retina.
+
+No entanto, a retina representa apenas uma pequena porcentagem da entrada de LGN.
+
+Até 95% da entrada no LGN vem do córtex visual, colículo superior, pretectum, núcleos reticulares talâmicos e interneurônios LGN locais.
+
+Regiões do tronco encefálico que não estão envolvidas na percepção visual também se projetam para o LGN, como a formação reticular mesencefálica, o núcleo dorsal da rafe, a substância cinzenta periaqueutal e o locus coeruleus.
+
+O LGN também recebe algumas entradas do tecto óptico (também conhecido como colículo superior).
+
+Essas entradas não retinianas podem ser excitatórias, inibitórias ou modulatórias.
+
+
+== Saída ==
+
+As informações que saem do LGN viajam pelas radiações ópticas, que fazem parte da porção retrolenticular da cápsula interna.
+
+Os axônios que saem do LGN vão para o córtex visual V1.
+
+Tanto as camadas magnocelulares 1-2 quanto as parvocelulares 3-6 enviam seus axônios para a camada 4 em V1.
+
+Dentro da camada 4 de V1, a camada 4cβ recebe entrada parvocelular e a camada 4cα recebe entrada magnocelular.
+
+No entanto, as camadas koniocelulares, intercaladas entre as camadas LGN 1-6 enviam seus axônios principalmente para as bolhas ricas em citocromo-oxidase das camadas 2 e 3 em V1.
+
+Os axônios da camada 6 do córtex visual enviam informações de volta ao LGN.
+
+Estudos envolvendo visão cega sugeriram que as projeções do LGN viajam não apenas para o córtex visual primário, mas também para áreas corticais superiores V2 e V3.
+
+Pacientes com visão cega são fenomenalmente cegos em certas áreas do campo visual que correspondem a uma lesão contralateral no córtex visual primário; no entanto, esses pacientes são capazes de realizar certas tarefas motoras com precisão em seu campo cego, como a preensão.
+
+Isso sugere que os neurônios viajam do LGN para o córtex visual primário e regiões do córtex superior.
+
+
+== Função na percepção visual ==
+
+As funções do LGN são múltiplas.
+
+Sua dobra exclusiva contribui para sua utilidade realizando uma série de cálculos anatômicos sem a necessidade de cálculos matemáticos.
+
+Estes incluem correlações/descorrelações temporais, bem como correlações espaciais.
+
+As saídas resultantes incluem sinais correlacionados no tempo e espacialmente correlacionados resultantes da soma dos sinais recebidos dos semicampos de visão esquerdo e direito capturados por cada um dos dois olhos.
+
+Esses sinais são correlacionados para obter uma representação tridimensional do espaço de objetos, bem como obter informações para controlar a precisão (anteriormente auxiliar) do sistema óptico (POS) da modalidade visual.
+
+As saídas têm várias funções.
+
+Um sinal é fornecido para controlar a vergência dos dois olhos para que eles convirjam no plano principal de interesse no espaço do objeto.
+
+Um sinal é fornecido para controlar o foco dos olhos com base na distância calculada para o plano principal de interesse.
+
+Os cálculos são realizados para determinar a posição de cada elemento principal no espaço do objeto em relação ao plano principal.
+
+Através do movimento subsequente dos olhos, um mapeamento estereoscópico maior do campo visual é alcançado. Uma etiqueta é fornecida para cada elemento principal no campo de visão central de 1,2 graus do espaço do objeto.
+
+As etiquetas acumuladas são anexadas às características nos campos visuais fundidos encaminhados para a área 17 do córtex cerebral (muitas vezes descrito como o córtex visual "primário" ou V1).
+
+Uma etiqueta também é fornecida para cada elemento principal no campo visual descrevendo a velocidade dos elementos principais com base em sua mudança nas coordenadas com o tempo.
+
+Os marcadores de velocidade (particularmente aqueles associados ao campo de visão periférico) também são usados ​​para determinar a direção em que o organismo está se movendo em relação ao espaço do objeto.
+
+Essas etiquetas de posição e velocidade são extraídas antes da informação atingir a área 17.
+
+Eles constituem a principal fonte de informação relatada em experimentos de visão cega, onde um indivíduo relata movimento em uma porção do campo visual associado a um hemisfério da área 17 que foi danificado por laceração, acidente vascular cerebral, etc.
+
+Os sinais de saída do LGN determinam as dimensões espaciais das porções estereoscópicas e monoscópicas do horóptero do sistema visual.
+
+Foi demonstrado que enquanto a retina realiza a descorrelação espacial através da inibição da periferia central, o LGN realiza a descorrelação temporal.
+
+Essa decorrelação espaço-temporal torna a codificação muito mais eficiente.
+
+No entanto, há quase certamente muito mais acontecendo.
+Como outras áreas do tálamo, particularmente outros núcleos de retransmissão, o LGN provavelmente ajuda o sistema visual a concentrar sua atenção nas informações mais importantes.
+
+Ou seja, se você ouvir um som ligeiramente à sua esquerda, o sistema auditivo provavelmente "diz" ao sistema visual, através do LGN através de seu núcleo peri-reticular circundante, para direcionar a atenção visual para essa parte do espaço.
+
+O LGN também é uma estação que refina certos campos receptivos.
+
+Modelos funcionais axiomaticamente determinados de células LGN foram determinados por Lindeberg em termos de núcleos Laplaciano de Gaussianos sobre o domínio espacial em combinação com derivados temporais de núcleos escala-espaço não-causais ou tempo-causais sobre o domínio temporal.
+
+Demonstrou-se que esta teoria conduz tanto a previsões sobre campos receptivos com boa concordância qualitativa com as medições de campos receptivos biológicos realizadas por DeAngelis et al. e garante boas propriedades teóricas do modelo matemático de campo receptivo, incluindo propriedades de covariância e invariância sob transformações naturais de imagens.
+
+Especificamente de acordo com esta teoria, as células LGN não atrasadas correspondem a derivados temporais de primeira ordem, enquanto as células LGN atrasadas correspondem a derivados temporais de segunda ordem.
+
+Para uma ampla visão geral da função do LGN na percepção visual, veja Ghodrati et al.
+
+
+== Roedores ==
+
+Em roedores, o núcleo geniculado lateral contém o núcleo geniculado lateral dorsal (dLGN), o núcleo geniculado lateral ventral (vLGN) e a região intermediária chamada de folheto intergeniculado (IGL).
+
+Estes são núcleos subcorticais distintos com diferenças de função.
+
+
+=== dLGN ===
+
+O núcleo geniculado dorsolateral é a principal divisão do corpo geniculado lateral.
+
+A maioria da entrada para o dLGN vem da retina.
+
+É laminado e apresenta organização retinotópica.
+
+
+=== vLGN ===
+
+Verificou-se que o núcleo geniculado ventrolateral é relativamente grande em várias espécies, como lagartos, roedores, vacas, gatos e primatas.
+
+Um esquema citoarquitetônico inicial, confirmado em vários estudos, sugere que o vLGN seja dividido em duas partes.
+
+As divisões externa e interna são separadas por um grupo de fibras finas e uma zona de neurônios finamente dispersos.
+
+Além disso, vários estudos sugeriram outras subdivisões do vLGN em outras espécies.
+
+Por exemplo, estudos indicam que a citoarquitetura do vLGN no gato difere dos roedores.
+
+Embora cinco subdivisões do vLGN no gato tenham sido identificadas por alguns, o esquema que divide o vLGN em três regiões (medial, intermediário e lateral) tem sido mais amplamente aceito.
+
+
+=== IGL ===
+
+O folheto intergeniculado é uma área relativamente pequena encontrada dorsal ao vLGN.
+
+Estudos anteriores se referiram ao IGL como a divisão dorsal interna do vLGN.
+
+Vários estudos descreveram regiões homólogas em várias espécies, incluindo humanos.
+
+O vLGN e o IGL parecem estar intimamente relacionados com base em semelhanças em neuroquímicos, entradas e saídas e propriedades fisiológicas.
+
+O vLGN e o IGL foram relatados para compartilhar muitos neuroquímicos que são encontrados concentrados nas células, incluindo neuropeptídeo Y, GABA, encefalina e óxido nítrico sintase.
+
+Os neuroquímicos serotonina, acetilcolina, histamina, dopamina e noradrenalina foram encontrados nas fibras desses núcleos.
+Tanto o vLGN quanto o IGL recebem informações da retina, locus coreuleus e rafe.
+
+Outras conexões que foram consideradas recíprocas incluem o colículo superior, pretectum e hipotálamo, bem como outros núcleos talâmicos.
+
+Estudos fisiológicos e comportamentais mostraram respostas sensíveis ao espectro e ao movimento que variam de acordo com a espécie.
+
+O vLGN e o IGL parecem desempenhar um papel importante na mediação de fases dos ritmos circadianos que não estão envolvidos com a luz, bem como mudanças de fase que são dependentes da luz.
+
+
+
+https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus
+
+;;;FR;;;
+
+
+
+CORPS GÉNICULÉ LATÉRAL
+/NOYAU GÉNICULÉ LATÉRAL
+
+
+Le noyau géniculé latéral (LGN; également appelé corps géniculé latéral ou complexe géniculé latéral) est un centre relais dans le thalamus pour la voie visuelle.
+
+C'est une petite projection ventrale ovoïde du thalamus où le thalamus se connecte au nerf optique.
+
+Il y a deux LGN, un à gauche et un autre à droite du thalamus.
+
+Chez l'homme, les deux LGN ont six couches de neurones (matière grise) alternant avec des fibres optiques (matière blanche).
+
+Le LGN reçoit des informations directement des cellules ganglionnaires rétiniennes ascendantes via le tractus optique et du système d'activation réticulaire.
+
+Les neurones du LGN envoient leurs axones à travers le rayonnement optique, une voie directe vers le cortex visuel primaire.
+
+De plus, le LGN reçoit de nombreuses connexions de rétroaction fortes du cortex visuel primaire.
+
+Chez l'homme ainsi que d'autres mammifères, les deux voies les plus fortes reliant l'œil au cerveau sont celles qui se projettent vers la partie dorsale du LGN dans le thalamus et vers le colliculus supérieur.
+
+
+== Structure ==
+
+Les hémisphères gauche et droit du cerveau ont tous deux un noyau genouillé latéral, nommé d'après sa ressemblance avec un genou plié (genu est le latin pour «genou»).
+
+Chez l'homme ainsi que chez de nombreux autres primates, le LGN a des couches de cellules magnocellulaires et de cellules parvocellulaires qui sont entrelacées avec des couches de cellules koniocellulaires.
+
+Chez l'homme, le LGN est normalement décrit comme ayant six couches distinctes.
+
+Les deux couches internes (1 et 2) sont des couches magnocellulaires, tandis que les quatre couches externes (3, 4, 5 et 6) sont des couches parvocellulaires.
+
+Un ensemble supplémentaire de neurones, appelés couches koniocellulaires, se trouve ventral à chacune des couches magnocellulaires et parvocellulaires.
+
+Cette stratification est variable entre les espèces de primates et le feuilletage supplémentaire est variable au sein des espèces.
+
+
+== M, P, K cellules ==
+
+La taille est liée au corps cellulaire, à l'arbre dendritique et au champ récepteur. Les couches magnocellulaires, parvocellulaires et koniocellulaires du LGN correspondent aux types de cellules ganglionnaires rétiniennes portant le même nom.
+
+Les cellules ganglionnaires rétiniennes P envoient des axones à une couche parvocellulaire, les cellules ganglionnaires M envoient des axones à une couche magnocellulaire et les cellules ganglionnaires K envoient des axones à une couche koniocellulaire.
+
+Les cellules koniocellulaires sont fonctionnellement et neurochimiquement distinctes des cellules M et P et fournissent un troisième canal au cortex visuel.
+
+Ils projettent leurs axones entre les couches du noyau géniculé latéral où se projettent les cellules M et P.
+
+Leur rôle dans la perception visuelle n'est actuellement pas clair; cependant, le système koniocellulaire a été lié à l'intégration des informations proprioceptives du système somatosensoriel avec la perception visuelle, et il peut également être impliqué dans la perception des couleurs.
+
+On pensait auparavant que les fibres parvo- et magnocellulaires dominaient respectivement le flux ventral et le flux dorsal Ungerleider – Mishkin.
+
+Cependant, de nouvelles preuves se sont accumulées montrant que les deux flux semblent se nourrir d'un mélange plus homogène de différents types de fibres nerveuses.
+
+L'autre voie visuelle rétino-corticale majeure est la voie tectopulvinar, acheminant principalement à travers le colliculus supérieur et le noyau pulvinar thalamique vers le cortex pariétal postérieur et l'aire visuelle MT.
+
+
+== Couches ipsilatérale et controlatérale ==
+
+Couche 1, 2
+
+Grandes cellules, appelées voies magnocellulaires
+Entrée des cellules du ganglion Y
+Conduction très rapide
+Système daltonienCouche 3–6
+
+Parvocellulaire
+Apport des cellules ganglionnaires X
+Vision des couleurs
+Vitesse modérée. Le LGN dans l'hémisphère droit et le LGN dans l'hémisphère gauche reçoivent une entrée de chaque œil.
+
+Cependant, chaque LGN ne reçoit des informations que d'une moitié du champ visuel.
+
+Cela se produit en raison des axones des cellules ganglionnaires des moitiés internes de la rétine (les côtés nasaux) décussant (traversant de l'autre côté du cerveau) à travers le chiasma optique (khiasma signifie "en forme de croix").
+
+Les axones des cellules ganglionnaires de la moitié externe de la rétine (côtés temporaux) restent du même côté du cerveau.
+
+Par conséquent, l'hémisphère droit reçoit des informations visuelles du champ visuel gauche et l'hémisphère gauche reçoit des informations visuelles du champ visuel droit.
+
+Au sein d'un LGN, les informations visuelles sont réparties entre les différentes couches comme suit :
+ 
+l'œil du même côté (l'œil ipsilatéral) envoie des informations aux couches 2, 3 et 5
+l'œil du côté opposé (l'œil controlatéral) envoie des informations aux couches 1, 4 et 6. Cette description s'applique au LGN de ​​nombreux primates, mais pas à tous.
+
+La séquence de couches recevant des informations des yeux ipsilatéral et controlatéral (côté opposé de la tête) est différente chez le tarsier.
+
+Certains neuroscientifiques ont suggéré que "cette différence apparente distingue les tarsiers de tous les autres primates, renforçant l'idée qu'ils sont apparus dans une lignée précoce et indépendante de l'évolution des primates".
+
+Dans la perception visuelle, l'œil droit reçoit des informations du côté droit du monde (le champ visuel droit), ainsi que du côté gauche du monde (le champ visuel gauche).
+
+Vous pouvez le confirmer en couvrant votre œil gauche : l'œil droit voit toujours à gauche et à droite, bien que du côté gauche votre champ de vision puisse être partiellement bloqué par votre nez.
+
+
+== Entrée ==
+
+Le LGN reçoit des informations de la rétine et de nombreuses autres structures cérébrales, en particulier le cortex visuel.
+
+Les principaux neurones du LGN reçoivent de fortes entrées de la rétine.
+
+Cependant, la rétine ne représente qu'un petit pourcentage de l'entrée LGN.
+
+Jusqu'à 95% des entrées dans le LGN proviennent du cortex visuel, du colliculus supérieur, du prétectum, des noyaux réticulaires thalamiques et des interneurones locaux du LGN.
+
+Les régions du tronc cérébral qui ne sont pas impliquées dans la perception visuelle se projettent également vers le LGN, telles que la formation réticulaire mésencéphalique, le noyau du raphé dorsal, la matière grise périaqueuctale et le locus coeruleus.
+
+Le LGN reçoit également certaines entrées du tectum optique (également connu sous le nom de colliculus supérieur).
+
+Ces entrées non rétiniennes peuvent être excitatrices, inhibitrices ou modulatrices.
+
+
+== Sortie ==
+
+Les informations sortant du LGN voyagent sur les radiations optiques, qui font partie de la partie rétrolenticulaire de la capsule interne.
+
+Les axones qui quittent le LGN vont au cortex visuel V1.
+
+Les couches magnocellulaires 1–2 et les couches parvocellulaires 3–6 envoient leurs axones à la couche 4 en V1.
+
+Dans la couche 4 de V1, la couche 4cβ reçoit l'entrée parvocellulaire et la couche 4cα reçoit l'entrée magnocellulaire.
+
+Cependant, les couches koniocellulaires, intercalées entre les couches LGN 1 à 6, envoient leurs axones principalement aux gouttes riches en cytochrome-oxydase des couches 2 et 3 en V1.
+
+Les axones de la couche 6 du cortex visuel renvoient des informations au LGN.
+
+Des études impliquant la vision aveugle ont suggéré que les projections du LGN se déplacent non seulement vers le cortex visuel primaire, mais également vers les zones corticales supérieures V2 et V3.
+
+Les patients atteints de vision aveugle sont phénoménalement aveugles dans certaines zones du champ visuel correspondant à une lésion controlatérale du cortex visuel primaire ; cependant, ces patients sont capables d'effectuer certaines tâches motrices avec précision dans leur champ aveugle, comme la préhension.
+
+Cela suggère que les neurones se déplacent du LGN vers le cortex visuel primaire et les régions du cortex supérieur.
+
+
+== Fonction dans la perception visuelle ==
+
+Les fonctions du LGN sont multiples.
+
+Son pliage unique contribue à son utilité en effectuant une gamme de calculs anatomiques sans nécessiter de calculs mathématiques.
+
+Celles-ci incluent à la fois des corrélations/décorrélations temporelles ainsi que des corrélations spatiales.
+
+Les sorties résultantes comprennent des signaux corrélés dans le temps et corrélés dans l'espace résultant de la sommation des signaux reçus des demi-champs de vision gauche et droit capturés par chacun des deux yeux.
+
+Ces signaux sont corrélés afin d'obtenir une représentation tridimensionnelle de l'espace objet ainsi que d'obtenir des informations pour contrôler le système optique de précision (auparavant auxiliaire) (POS) de la modalité visuelle.
+
+Les sorties remplissent plusieurs fonctions.
+
+Un signal est fourni pour contrôler la vergence des deux yeux afin qu'ils convergent vers le plan d'intérêt principal dans l'espace objet.
+
+Un signal est fourni pour contrôler la mise au point des yeux sur la base de la distance calculée par rapport au plan d'intérêt principal.
+
+Des calculs sont réalisés pour déterminer la position de chaque élément majeur dans l'espace objet par rapport au plan principal.
+
+Grâce au mouvement ultérieur des yeux, une cartographie stéréoscopique plus large du champ visuel est obtenue. Une étiquette est fournie pour chaque élément majeur dans le champ de vision central de 1,2 degré de l'espace objet.
+
+Les étiquettes accumulées sont attachées aux caractéristiques dans les champs visuels fusionnés transmis à la zone 17 du cortex cérébral (souvent décrit comme le cortex visuel "primaire" ou V1).
+
+Une étiquette est également fournie pour chaque élément principal dans le champ visuel décrivant la vitesse des éléments principaux sur la base de son changement de coordonnées avec le temps.
+
+Les balises de vitesse (en particulier celles associées au champ de vision périphérique) sont également utilisées pour déterminer la direction dans laquelle l'organisme se déplace par rapport à l'espace objet.
+
+Ces balises de position et de vitesse sont extraites avant que les informations n'atteignent la zone 17.
+
+Ils constituent la principale source d'informations rapportées dans les expériences de vision aveugle où un individu signale un mouvement dans une partie du champ visuel associé à un hémisphère de la zone 17 qui a été endommagé par une lacération, un accident vasculaire cérébral, etc.
+
+Les signaux de sortie du LGN déterminent les dimensions spatiales des parties stéréoscopiques et monoscopiques de l'horoptère du système visuel.
+
+Il a été démontré que tandis que la rétine accomplit une décorrélation spatiale par l'inhibition de l'entourage central, le LGN accomplit une décorrélation temporelle.
+
+Cette décorrélation spatio-temporelle permet un codage beaucoup plus efficace.
+
+Cependant, il se passe presque certainement beaucoup plus.
+Comme d'autres zones du thalamus, en particulier d'autres noyaux relais, le LGN aide probablement le système visuel à concentrer son attention sur les informations les plus importantes.
+
+C'est-à-dire que si vous entendez un son légèrement à votre gauche, le système auditif "indique" probablement au système visuel, à travers le LGN via son noyau péri-réticulaire environnant, de diriger l'attention visuelle vers cette partie de l'espace.
+
+Le LGN est aussi une station qui affine certains champs réceptifs.
+
+Des modèles fonctionnels déterminés de manière axiomatique des cellules LGN ont été déterminés par Lindeberg en termes de noyaux laplaciens de gaussiens sur le domaine spatial en combinaison avec des dérivés temporels de noyaux échelle-espace non causals ou temporels sur le domaine temporel.
+
+Il a été montré que cette théorie conduit à la fois à des prédictions sur les champs récepteurs avec un bon accord qualitatif avec les mesures de champs récepteurs biologiques effectuées par DeAngelis et al. et garantit de bonnes propriétés théoriques du modèle mathématique de champ récepteur, y compris des propriétés de covariance et d'invariance sous des transformations d'images naturelles.
+
+Plus précisément selon cette théorie, les cellules LGN non décalées correspondent à des dérivées temporelles de premier ordre, tandis que les cellules LGN décalées correspondent à des dérivées temporelles de second ordre.
+
+Pour un aperçu complet de la fonction du LGN dans la perception visuelle, voir Ghodrati et al.
+
+
+== Rongeurs ==
+
+Chez les rongeurs, le noyau géniculé latéral contient le noyau géniculé latéral dorsal (dLGN), le noyau géniculé latéral ventral (vLGN) et la région intermédiaire appelée feuillet intergéniculé (IGL).
+
+Ce sont des noyaux sous-corticaux distincts avec des différences de fonction.
+
+
+=== dLGN ===
+
+Le noyau géniculé dorsolatéral est la division principale du corps géniculé latéral.
+
+La majorité des entrées du dLGN provient de la rétine.
+
+Il est laminé et montre une organisation rétinotopique.
+
+
+=== vLGN ===
+
+Le noyau géniculé ventrolatéral s'est avéré relativement grand chez plusieurs espèces telles que les lézards, les rongeurs, les vaches, les chats et les primates.
+
+Un premier schéma cytoarchitectural, confirmé dans plusieurs études, suggère que le vLGN est divisé en deux parties.
+
+Les divisions externe et interne sont séparées par un groupe de fibres fines et une zone de neurones finement dispersés.
+
+De plus, plusieurs études ont suggéré d'autres subdivisions du vLGN chez d'autres espèces.
+
+Par exemple, des études indiquent que la cytoarchitecture du vLGN chez le chat diffère de celle des rongeurs.
+
+Bien que cinq subdivisions du vLGN chez le chat aient été identifiées par certains, le schéma qui divise le vLGN en trois régions (médiale, intermédiaire et latérale) a été plus largement accepté.
+
+
+=== IGL ===
+
+La foliole intergéniculée est une zone relativement petite trouvée dorsale au vLGN.
+
+Des études antérieures avaient qualifié l'IGL de division dorsale interne du vLGN.
+
+Plusieurs études ont décrit des régions homologues chez plusieurs espèces, dont l'homme.
+
+Le vLGN et l'IGL semblent être étroitement liés en raison de similitudes dans les substances neurochimiques, les entrées et les sorties et les propriétés physiologiques.
+
+Il a été rapporté que le vLGN et l'IGL partagent de nombreux neurochimiques qui se trouvent concentrés dans les cellules, notamment le neuropeptide Y, le GABA, l'encéphaline et l'oxyde nitrique synthase.
+
+Les neurochimiques sérotonine, acétylcholine, histamine, dopamine et noradrénaline ont été trouvés dans les fibres de ces noyaux.
+Le vLGN et l'IGL reçoivent tous deux des informations de la rétine, du locus coreuleus et du raphé.
+
+D'autres connexions qui se sont avérées réciproques comprennent le colliculus supérieur, le prétectum et l'hypothalamus, ainsi que d'autres noyaux thalamiques.
+
+Des études physiologiques et comportementales ont montré des réponses sensibles au spectre et au mouvement qui varient selon les espèces.
+
+Le vLGN et l'IGL semblent jouer un rôle important dans la médiation des phases des rythmes circadiens qui ne sont pas impliqués dans la lumière, ainsi que dans les déphasages qui dépendent de la lumière.
+
+
+
+https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus

@@ -1,0 +1,6 @@
+<map id="MoveCommand.Execute" name="MoveCommand.Execute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,168,56"/>
+<area shape="rect" id="node2" href="$class_translate_object.html#af89d1ef3759183205d219b2794285c5c" title=" " alt="" coords="216,23,391,63"/>
+<area shape="rect" id="node3" href="$class_translate_object.html#a1b64d9653c33cb12d2b23868db7cb4d2" title=" " alt="" coords="465,5,625,31"/>
+<area shape="rect" id="node4" href="$class_tangible_body_part.html#a56fefb3df25bb77c2f142b9c24bf08c8" title="Updates the bounds of the mesh collider to match the bounds of the mesh. This function is useful when..." alt="" coords="439,55,652,80"/>
+</map>

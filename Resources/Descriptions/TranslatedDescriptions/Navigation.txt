@@ -1,0 +1,120 @@
+
+
+NAVIGATION
+
+
+Press the Middle mouse button(MMB) and drag the mouse
+    to orbit in the 3D view
+
+Press'Shift+MMB' and drag the mouse
+    to pan the view
+
+Press 'Numpad 1': Frontal view
+      'Numpad 3': Left view
+      'Numpad 7': Cranial view
+      'Numpad 9': Invert point of view
+      'Numpad 5': Toggle Orthographic/Perspective view
+
+Press 'Ctrl+Numpad 1/3/7' 
+    to get the opposite view (Dorsal/Right/Caudal)
+    
+Press 'Ctrl+Spacebar' 
+    to maximise (in/out) a window
+    
+Press 'Numpad .'
+    to center the view on selection
+
+Press 'HOME'
+    to frame all the visible objects   
+;;;ES;;;
+
+
+
+NAVEGACIÓN
+
+
+Presione el botón central del mouse (MMB) y arrastre el mouse
+orbitar en la vista 3D
+
+Presiona 'Shift+MMB' y arrastra el mouse
+para desplazar la vista
+
+Pulse 'Teclado numérico 1': Vista frontal
+'Teclado numérico 3': vista izquierda
+'Teclado numérico 7': Vista craneal
+'Numpad 9': Invertir punto de vista
+'Teclado numérico 5': Alternar vista ortográfica/perspectiva
+
+Presiona 'Ctrl+Teclado numérico 1/3/7'
+para obtener la vista opuesta (Dorsal/Derecha/Caudal)
+ 
+Presiona 'Ctrl+Barra espaciadora'
+para maximizar (dentro/fuera) una ventana
+ 
+Presiona 'Teclado numérico'.
+para centrar la vista en la selección
+
+Presiona 'INICIO'
+para enmarcar todos los objetos visibles
+
+;;;PT;;;
+
+
+
+NAVEGAÇÃO
+
+
+Pressione o botão do meio do mouse (MMB) e arraste o mouse
+para orbitar na vista 3D
+
+Pressione 'Shift+MMB' e arraste o mouse
+para panorâmica da vista
+
+Pressione 'Numpad 1': vista frontal
+'Numpad 3': vista esquerda
+'Numpad 7': vista craniana
+'Numpad 9': Inverter ponto de vista
+'Numpad 5': Alternar visualização Ortográfica/Perspectiva
+
+Pressione 'Ctrl+Numpad 1/3/7'
+para obter a visão oposta (Dorsal/Direita/Caudal)
+ 
+Pressione 'Ctrl+Barra de Espaço'
+maximizar (in/out) uma janela
+ 
+Pressione 'Numpad'.
+para centralizar a visualização na seleção
+
+Pressione 'INÍCIO'
+para enquadrar todos os objetos visíveis
+
+;;;FR;;;
+
+
+
+LA NAVIGATION
+
+
+Appuyez sur le bouton central de la souris (MMB) et faites glisser la souris
+en orbite dans la vue 3D
+
+Appuyez sur 'Maj+MMB' et faites glisser la souris
+faire un panoramique de la vue
+
+Appuyez sur 'Numpad 1' : Vue frontale
+'Pavé numérique 3' : Vue de gauche
+'Numpad 7' : Vue crânienne
+'Pavé numérique 9' : Inverser le point de vue
+'Numpad 5' : basculer entre la vue orthographique/perspective
+
+Appuyez sur 'Ctrl+Numpad 1/3/7'
+pour obtenir la vue opposée (Dorsale/Droite/Caudale)
+ 
+Appuyez sur 'Ctrl+Barre d'espacement'
+maximiser (entrer/sortir) une fenêtre
+ 
+Appuyez sur "Pavé numérique".
+pour centrer la vue sur la sélection
+
+Appuyez sur 'ACCUEIL'
+pour encadrer tous les objets visibles

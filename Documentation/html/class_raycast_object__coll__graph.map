@@ -1,0 +1,18 @@
+<map id="RaycastObject" name="RaycastObject">
+<area shape="rect" id="node1" title="Detects clicks on objects and acts accordingly." alt="" coords="5,267,113,292"/>
+<area shape="rect" id="node2" title=" " alt="" coords="512,5,623,31"/>
+<area shape="rect" id="node3" href="$class_tangible_body_part.html" title="Represents a body part in a 3D model. Provides methods for handling selection, highlighting,..." alt="" coords="167,179,291,204"/>
+<area shape="rect" id="node4" href="$class_name_and_description.html" title="This class is used to handle the name and description of a game object. It contains variables for sto..." alt="" coords="289,80,433,105"/>
+<area shape="rect" id="node5" href="$class_body_part_visibility.html" title="This class manages the visibility of objects in the scene. It contains methods to find insertions,..." alt="" coords="402,443,527,468"/>
+<area shape="rect" id="node6" href="$class_lexicon_element.html" title=" " alt="" coords="709,355,823,380"/>
+<area shape="rect" id="node7" href="$class_lexicon_item_expand_btn.html" title=" " alt="" coords="688,267,844,292"/>
+<area shape="rect" id="node10" href="$class_expand_collapse_u_i.html" title=" " alt="" coords="1266,129,1394,155"/>
+<area shape="rect" id="node11" href="$class_lexicon_item_checkbox.html" title=" " alt="" coords="868,267,1019,292"/>
+<area shape="rect" id="node15" href="$class_label.html" title="Represents a label in 3D space. Updates its color based on its position and handles its selection." alt="" coords="566,267,619,292"/>
+<area shape="rect" id="node16" href="$class_line.html" title=" " alt="" coords="572,129,619,155"/>
+<area shape="rect" id="node8" title=" " alt="" coords="698,179,839,204"/>
+<area shape="rect" id="node9" title=" " alt="" coords="864,179,1007,204"/>
+<area shape="rect" id="node12" href="$class_button_sprite_swap.html" title=" " alt="" coords="1031,179,1157,204"/>
+<area shape="rect" id="node13" title=" " alt="" coords="935,80,995,105"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1019,80,1158,105"/>
+</map>

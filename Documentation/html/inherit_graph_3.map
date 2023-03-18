@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_i_command.html" title=" " alt="" coords="5,145,89,170"/>
+<area shape="rect" id="node2" href="$class_assets_1_1_scripts_1_1_commands_1_1_show_command.html" title=" " alt="" coords="137,5,320,45"/>
+<area shape="rect" id="node3" href="$class_delete_command.html" title=" " alt="" coords="169,70,288,95"/>
+<area shape="rect" id="node4" href="$class_draw_line_command.html" title=" " alt="" coords="161,119,296,145"/>
+<area shape="rect" id="node5" href="$class_key_color_command.html" title=" " alt="" coords="161,169,296,194"/>
+<area shape="rect" id="node6" href="$class_move_command.html" title=" " alt="" coords="173,218,284,243"/>
+<area shape="rect" id="node7" href="$class_select_command.html" title=" " alt="" coords="169,267,288,293"/>
+</map>

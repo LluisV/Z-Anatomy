@@ -1,0 +1,150 @@
+
+
+PRETECTUM
+
+
+The pretectum, or pretectal area, is a midbrain structure composed of seven nuclei and comprises part of the subcortical visual system. 
+
+Through reciprocal bilateral projections from the retina, it is involved primarily in mediating behavioral responses to acute changes in ambient light such as the pupillary light reflex, the optokinetic reflex, and temporary changes to the circadian rhythm. 
+
+In addition to the pretectum's role in the visual system, the anterior pretectal nucleus has been found to mediate somatosensory and nociceptive information.
+
+
+== Location and structure ==
+
+The pretectum is a bilateral group of highly interconnected nuclei located near the junction of the midbrain and forebrain. 
+
+The pretectum is generally classified as a midbrain structure, although because of its proximity to the forebrain it is sometimes classified as part of the caudal diencephalon (forebrain). 
+
+Within vertebrates, the pretectum is located directly anterior to the superior colliculus and posterior to the thalamus. 
+
+It is situated above the periaqueductal grey and nucleus of the posterior commissure.
+
+Several nuclei have been identified within the pretectum, although their borders can be difficult to define and there has been debate over which regions should be included and their precise names. 
+
+The five primary nuclei are: the olivary pretectal nucleus (ON), the nucleus of the optic tract (NOT), and the anterior (NPA), medial (NPM), and posterior (NPP) pretectal nuclei. 
+
+The NOT consists of relatively large cells and is located between the superior colliculi. 
+
+The ON is located medial to the NOT and has a tail that extends between the NOT and NPP, which is ventral to the ON. 
+
+Two additional nuclei have also been identified: the posterior limitans (PLi) and the commisural pretectal area (CPA). 
+
+While these two regions have not been examined to the same extent as the five primary nuclei, research has shown both the PLi and CPA to receive retinal input, which suggests a role in processing visual information.
+
+
+=== Inputs ===
+
+The pretectum receives significant binocular input from photosensitive ganglion cells in the retina. 
+
+In primates these afferents are bilateral while in rodents they project from the contralateral retina. 
+
+The majority of these retino-pretectal projections go to the ON and NOT while other pretectal nuclei receive minor retinal input in mammals including the posterior, medial, and anterior pretectal nuclei.
+
+The NOT receives input from several regions. 
+
+From the thalamus the NOT receives inhibitory projections from GABA-producing neurons in the ipsilateral lateral geniculate nucleus and bilateral intergeniculate leaflets. 
+
+The ipsilateral superficial suprachiasmatic nucleus and the medial, dorsal, and lateral terminal nuclei in the midbrain project onto the NOT. 
+
+Fibers also project to the NOT from the nucleus prepositus hypoglossi in the medulla, the contralateral NOT, and from various cortical regions.
+
+
+=== Outputs ===
+
+Many pretectal nuclei share targets of efferent projections. 
+
+All pretectal nuclei, except for the ON, project to nuclei in the thalamus, subthalamus, superior colliculus, reticular formation, pons, and inferior olive. 
+
+Both the ON and the CPA have efferent projections to the Edinger-Westphal nucleus. 
+
+The NPP and NPA both project to the pulvinar, the lateral posterior nucleus of the thalamus, and several precerebellar nuclei.
+
+The NOT has efferent projections to the zona incerta of the subthalamus, several nuclei of the pons, medulla, intralaminar nuclei, midbrain, and dorsal and ventral thalamic nuclei. 
+
+Its bilateral inhibitory projections to the accessory optic system include connections to the lateral and medial terminal nuclei. 
+
+Projections to the subthalamus are target toward the lateral geniculate nucleus and pulvinar. 
+
+The NOT projects bilaterally to the superior colliculus, although the ipsilateral connections appear to be more dominant. 
+
+In addition to these projections, the NOT projects to the vestibular and vestibulocerebellar relay nuclei.
+
+
+== Function ==
+
+As part of the subcortical visual system, neurons within the pretectal nuclei respond to varying intensities of illuminance and are primarily involved in mediating non-conscious behavioral responses to acute changes in light. 
+
+In general, these responses involve the initiation of optokinetic reflexes, although the pretectum can also regulate nociception and REM sleep.
+
+
+=== Pupillary light reflex ===
+
+The pupillary light reflex is mediated by the pretectum. 
+
+This reflex is responsible for the constriction of the pupils upon light's entering the eye. 
+
+Several pretectal nuclei, in particular the ON, receive illuminance information from the ipsilateral retina via the optic tract. 
+
+Nuclei in the ON are known to gradually increase in activation in response to increasing levels of illuminance. 
+
+This information is then relayed directly to the Edinger-Westphal nucleus, which proceeds to relay the command to constrict the pupils to the pupillary sphincter via the ciliary ganglion.
+
+
+=== Smooth pursuit ===
+
+Pretectal nuclei, in particular the NOT, are involved in coordinating eye movements during smooth pursuit. 
+
+These movements allow the eye to closely follow a moving object and to catch up to an object after an unexpected change in direction or velocity. 
+
+Direction-sensitive retinal slip neurons within the NOT provide ipsiversive horizontal retinal error information to the cortex through the inferior olive. 
+
+During the day, this information is sensed and relayed by neurons with large receptive fields, whereas parafoveal neurons with small receptive fields do so in the dark. 
+
+It is through this pathway that the NOT is able to provide retinal error information to guide eye movements. 
+
+In addition to its role in maintaining smooth pursuit, the pretectum is activated during the optokinetic nystagmus in which the eye returns to a central, forward-facing position after an object it was following passes out of the field of vision.
+
+
+=== Accommodation reflex ===
+
+
+Part of the pretectum, particularly the NOT and NPP, are implicated in the accommodation reflex by which the eye maintains focus. 
+
+Proprioceptive information from the retina reaches the pretectum via the occulomotor nerve and the trigeminal nerve. 
+
+From that point, the mechanism by which the eye maintains focus through muscular contractions of the retina is similar to that of the pupillary light reflex.
+
+
+=== Antinociception ===
+
+The NPA participates in the active diminishing of the perception of pain stimuli (antinociception). 
+
+Although the mechanism by which the NPA alters an organism's response to painful stimuli is not fully known, research has shown that activity in the ventral NPA triggers cholinergic and serotonergic neurons. 
+
+These neurons activate descending pathways that synapse in the spinal cord and inhibit nociceptive cells in the dorsal horn. 
+
+In addition to its direct antionociceptive mechanism, the NPA projects onto brain regions that, through connections to the somatosensory cortex, regulate the perception of painful stimuli. 
+
+Two of these regions that the NPA is known to project to are the zona incerta and posterior thalamic nucleus. 
+
+Regions of the NPA may be specialized to respond to different types of pain. 
+
+Research has found that the dorsal NPA best diminished the perception of brief pain whereas the ventral NPA reduced the perception of chronic pain. 
+
+Because of its role in the reduction of chronic pain, abnormal activity of the NPA is thought to be implicated in central pain syndrome.
+
+
+=== REM sleep ===
+
+Multiple pretectal nuclei may be involved in regulating REM sleep and sleep behaviors. 
+
+Research has shown that the pretectum, in conjunction with the superior colliculus, may be responsible for causing non-circadian changes in REM sleep behaviors. 
+
+Pretectal nuclei receiving retinal input, in particular the NOT and the NPP, have been shown to be partially responsible for initiating REM sleep in albino rats. 
+
+The discovery of projections from the pretectum to several thalamic nuclei involved in cortical activation during REM sleep, to be specific the projection to the superchiasmatic nucleus, which is part of a known REM sleep regulatory mechanism, supports this hypothesis.
+
+
+
+https://en.wikipedia.org/wiki/Pretectal_area

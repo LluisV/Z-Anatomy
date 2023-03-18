@@ -1,0 +1,5 @@
+<map id="BodyPartVisibility.HideLabels" name="BodyPartVisibility.HideLabels">
+<area shape="rect" id="node1" title="Hides all labels and their connecting lines." alt="" coords="5,5,199,31"/>
+<area shape="rect" id="node2" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="247,5,433,31"/>
+<area shape="rect" id="node3" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="481,5,617,31"/>
+</map>

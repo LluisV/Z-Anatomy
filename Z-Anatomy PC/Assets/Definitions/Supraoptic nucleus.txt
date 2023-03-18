@@ -1,0 +1,524 @@
+
+
+SUPRAOPTIC NUCLEUS
+
+
+The supraoptic nucleus (SON) is a nucleus of magnocellular neurosecretory cells in the hypothalamus of the mammalian brain. 
+
+The nucleus is situated at the base of the brain, adjacent to the optic chiasm. 
+
+In humans, the SON contains about 3,000 neurons.
+
+
+== Function ==
+
+The cell bodies produce the peptide hormone vasopressin, which is also known as anti-diuretic hormone (ADH), and the peptide hormone oxytocin. 
+
+Both of these peptides are released from the posterior pituitary. 
+
+ADH travels via the bloodstream to its target cells in the papillary ducts in the kidneys, enhancing water reabsorption. 
+
+OT travels via the bloodstream to act at the mammary glands and the uterus.
+In the cell bodies, the hormones are packaged in large, membrane-bound vesicles that are transported down the axons to the nerve endings. 
+
+The secretory granules are also stored in packets along the axon called Herring bodies.
+Similar magnocellular neurons are also found in the paraventricular nucleus.
+
+
+=== Signaling ===
+
+Each neuron in the nucleus has one long axon that projects to the posterior pituitary gland, where it gives rise to about 10,000 neurosecretory nerve terminals. 
+
+The magnocellular neurons are electrically excitable: In response to afferent stimuli from other neurons, they generate action potentials, which propagate down the axons. 
+
+When an action potential invades a neurosecretory terminal, the terminal is depolarised, and calcium enters the terminal through voltage-gated channels. 
+
+The calcium entry triggers the secretion of some of the vesicles by a process known as exocytosis. 
+
+The vesicle contents are released into the extracellular space, from where they diffuse into the bloodstream.
+
+
+=== Regulation of supraoptic neurons ===
+
+Vasopressin (antidiuretic hormone, ADH) is released in response to solute concentration in the blood, decreased blood volume, or blood pressure.
+Some other inputs come from the brainstem, including from some of the noradrenergic neurons of the nucleus of the solitary tract and the ventrolateral medulla. 
+
+However, many of the direct inputs to the supraoptic nucleus come from neurons just outside the nucleus (the "perinuclear zone").
+Of the afferent inputs to the supraoptic nucleus, most contain either the inhibitory neurotransmitter GABA or the excitatory neurotransmitter glutamate, but these transmitters often co-exist with various peptides. 
+
+Other afferent neurotransmitters include noradrenaline (from the brainstem), dopamine, serotonin, and acetylcholine.
+
+
+=== The supraoptic nucleus as a "model system" ===
+
+The supraoptic nucleus is an important "model system" in neuroscience. 
+
+There are many reasons for this: Some technical advantages of working on the supraoptic nucleus are that the cell bodies are relatively large, the cells make exceptionally large amounts of their secretory products, and the nucleus is relatively homogeneous and easy to separate from other brain regions. 
+
+The gene expression and electrical activity of supraoptic neurons has been studied extensively, in many physiological and experimental conditions. 
+
+These studies have led to many insights of general importance, as in the examples below.
+
+
+==== Morphological plasticity in the supraoptic nucleus ====
+Anatomical studies using electron microscopy have shown that the morphology of the supraoptic nucleus is remarkably adaptable.For example, during lactation there are large changes in the size and shape of the oxytocin neurons, in the numbers and types of synapses that these neurons receive, and in the structural relationships between neurons and glial cells in the nucleus. 
+
+These changes arise during parturition, and are thought to be important adaptations that prepare the oxytocin neurons for a sustained high demand for oxytocin. 
+
+Oxytocin is essential for milk let-down in response to suckling.
+These studies showed that the brain is much more "plastic" in its anatomy than previously recognized, and led to great interest in the interactions between glial cells and neurons in general.
+
+
+=== Stimulus-secretion coupling ===
+
+In response to, for instance, a rise in the plasma sodium concentration, vasopressin neurons also discharge action potentials in bursts, but these bursts are much longer and are less intense than the bursts displayed by oxytocin neurons, and the bursts in vasopressin cells are not synchronised.It seemed strange that the vasopressin cells should fire in bursts. 
+
+As the activity of the vasopressin cells is not synchronised, the overall level of vasopressin secretion into the blood is continuous, not pulsatile. 
+
+Richard Dyball and his co-workers speculated that this pattern of activity, called "phasic firing", might be particularly effective for causing vasopressin secretion. 
+
+They showed this to be the case by studying vasopressin secretion from the isolated posterior pituitary gland in vitro. 
+
+They found that vasopressin secretion could be evoked by electrical stimulus pulses applied to the gland, and that much more hormone was released by a phasic pattern of stimulation than by a continuous pattern of stimulation.
+These experiments led to interest in "stimulus-secretion coupling" - the relationship between electrical activity and secretion. 
+
+Supraoptic neurons are unusual because of the large amounts of peptide that they secrete, and because they secrete the peptides into the blood. 
+
+However, many neurons in the brain, and especially in the hypothalamus, synthesize peptides. 
+
+It is now thought that bursts of electrical activity might be generally important for releasing large amounts of peptide from peptide-secreting neurons.
+
+
+=== Dendritic secretion ===
+
+Supraoptic neurons have typically 1-3 large dendrites, most of which projecting ventrally to form a mat of process at the base of the nucleus, called the ventral glial lamina. 
+
+The dendrites receive most of the synaptic terminals from afferent neurons that regulate the supraoptic neurons, but neuronal dendrites are often actively involved in information processing, rather than being simply passive receivers of information. 
+
+The dendrites of supraoptic neurons contain large numbers of neurosecretory vesicles that contain oxytocin and vasopressin, and they can be released from the dendrites by exocytosis. 
+
+The oxytocin and vasopressin that is released at the posterior pituitary gland enters the blood, and cannot re-enter the brain because the blood–brain barrier does not allow oxytocin and vasopressin through, but the oxytocin and vasopressin that is released from dendrites acts within the brain. 
+
+Oxytocin neurons themselves express oxytocin receptors, and vasopressin neurons express vasopressin receptors, so dendritically-released peptides "autoregulate" the supraoptic neurons. 
+
+Francoise Moos and Phillipe Richard first showed that the autoregulatory action of oxytocin is important for the milk-ejection reflex.
+These peptides have relatively long half-lives in the brain (about 20 minutes in the CSF), and they are released in large amounts in the supraoptic nucleus, and so they are available to diffuse through the extracellular spaces of the brain to act at distant targets. 
+
+Oxytocin and vasopressin receptors are present in many other brain regions, including the amygdala, brainstem, and septum, as well as most nuclei in the hypothalamus.
+Because so much vasopressin and oxytocin are released at this site, studies of the supraoptic nucleus have made an important contribution to understanding how release from dendrites is regulated, and in understanding its physiological significance. 
+
+Studies have demonstrated that secretin helps to facilitate dendritic oxytocin release in the SON, and that secretin administration into the SON enhances social recognition in rodents. 
+
+This enhanced social capability appears to be working through secretin's effects on oxytocin neurons in the SON, as blocking oxytocin receptors in this region blocks social recognition.
+
+
+=== Co-existing peptides ===
+
+Vasopressin neurons and oxytocin neurons make many other neuroactive substances in addition to vasopressin and oxytocin, though most are present only in small quantities. 
+
+However, some of these other substances are known to be important. 
+
+Dynorphin produced by vasopressin neurons is involved in regulating the phasic discharge patterning of vasopressin neurons, and nitric oxide produced by both neuronal types is a negative-feedback regulator of cell activity. 
+
+Oxytocin neurons also make dynorphin; in these neurons, dynorphin acts at the nerve terminals in the posterior pituitary as a negative feedback inhibitor of oxytocin secretion. 
+
+Oxytocin neurons also make large amounts of cholecystokinin as well as the cocaine and amphetamine regulatory transcript (CART).
+
+
+
+https://en.wikipedia.org/wiki/Supraoptic_nucleus
+;;;ES;;;
+
+
+
+NÚCLEO SUPRAÓPTICO
+
+
+El núcleo supraóptico (SON) es un núcleo de células neurosecretoras magnocelulares en el hipotálamo del cerebro de los mamíferos.
+
+El núcleo está situado en la base del cerebro, adyacente al quiasma óptico.
+
+En los humanos, el SON contiene unas 3.000 neuronas.
+
+
+== Función ==
+
+Los cuerpos celulares producen la hormona peptídica vasopresina, también conocida como hormona antidiurética (ADH), y la hormona peptídica oxitocina.
+
+Ambos péptidos se liberan de la hipófisis posterior.
+
+ADH viaja a través del torrente sanguíneo a sus células diana en los conductos papilares de los riñones, mejorando la reabsorción de agua.
+
+OT viaja a través del torrente sanguíneo para actuar en las glándulas mamarias y el útero.
+En los cuerpos celulares, las hormonas se empaquetan en grandes vesículas rodeadas de membranas que se transportan por los axones hasta las terminaciones nerviosas.
+
+Los gránulos secretores también se almacenan en paquetes a lo largo del axón llamados cuerpos de Herring.
+También se encuentran neuronas magnocelulares similares en el núcleo paraventricular.
+
+
+=== Señalización ===
+
+Cada neurona del núcleo tiene un axón largo que se proyecta hacia la hipófisis posterior, donde da lugar a unas 10.000 terminales nerviosas neurosecretoras.
+
+Las neuronas magnocelulares son eléctricamente excitables: en respuesta a estímulos aferentes de otras neuronas, generan potenciales de acción que se propagan por los axones.
+
+Cuando un potencial de acción invade una terminal neurosecretora, la terminal se despolariza y el calcio ingresa a la terminal a través de canales dependientes de voltaje.
+
+La entrada de calcio desencadena la secreción de algunas de las vesículas por un proceso conocido como exocitosis.
+
+El contenido de las vesículas se libera al espacio extracelular, desde donde se difunde al torrente sanguíneo.
+
+
+=== Regulación de las neuronas supraópticas ===
+
+La vasopresina (hormona antidiurética, ADH) se libera en respuesta a la concentración de solutos en la sangre, la disminución del volumen sanguíneo o la presión arterial.
+Algunas otras entradas provienen del tronco encefálico, incluidas algunas de las neuronas noradrenérgicas del núcleo del tracto solitario y la médula ventrolateral.
+
+Sin embargo, muchas de las entradas directas al núcleo supraóptico provienen de neuronas justo fuera del núcleo (la "zona perinuclear").
+De las entradas aferentes al núcleo supraóptico, la mayoría contiene el neurotransmisor inhibidor GABA o el neurotransmisor excitatorio glutamato, pero estos transmisores a menudo coexisten con varios péptidos.
+
+Otros neurotransmisores aferentes incluyen noradrenalina (del tronco encefálico), dopamina, serotonina y acetilcolina.
+
+
+=== El núcleo supraóptico como "sistema modelo" ===
+
+El núcleo supraóptico es un "sistema modelo" importante en neurociencia.
+
+Hay muchas razones para esto: algunas ventajas técnicas de trabajar en el núcleo supraóptico son que los cuerpos celulares son relativamente grandes, las células producen cantidades excepcionalmente grandes de sus productos secretores y el núcleo es relativamente homogéneo y fácil de separar de otras regiones del cerebro. .
+
+La expresión génica y la actividad eléctrica de las neuronas supraópticas se ha estudiado ampliamente en muchas condiciones fisiológicas y experimentales.
+
+Estos estudios han llevado a muchas ideas de importancia general, como en los ejemplos a continuación.
+
+
+==== Plasticidad morfológica en el núcleo supraóptico ====
+Los estudios anatómicos que utilizan microscopía electrónica han demostrado que la morfología del núcleo supraóptico es notablemente adaptable. Por ejemplo, durante la lactancia hay grandes cambios en el tamaño y la forma de las neuronas de oxitocina, en el número y tipo de sinapsis que reciben estas neuronas, y en las relaciones estructurales entre las neuronas y las células gliales en el núcleo.
+
+Estos cambios surgen durante el parto y se cree que son adaptaciones importantes que preparan las neuronas de oxitocina para una alta demanda sostenida de oxitocina.
+
+La oxitocina es esencial para la bajada de la leche en respuesta a la succión.
+Estos estudios demostraron que el cerebro es mucho más "plástico" en su anatomía de lo que se reconocía previamente, y generaron un gran interés en las interacciones entre las células gliales y las neuronas en general.
+
+
+=== Acoplamiento estímulo-secreción ===
+
+En respuesta, por ejemplo, a un aumento en la concentración de sodio en plasma, las neuronas de vasopresina también descargan potenciales de acción en ráfagas, pero estas ráfagas son mucho más largas y menos intensas que las ráfagas que muestran las neuronas de oxitocina, y las ráfagas en las células de vasopresina no son sincronizado. Parecía extraño que las células de vasopresina dispararan en ráfagas.
+
+Como la actividad de las células de vasopresina no está sincronizada, el nivel global de secreción de vasopresina en la sangre es continuo, no pulsátil.
+
+Richard Dyball y sus colaboradores especularon que este patrón de actividad, llamado "disparo fásico", podría ser particularmente eficaz para provocar la secreción de vasopresina.
+
+Demostraron que este era el caso al estudiar in vitro la secreción de vasopresina de la glándula pituitaria posterior aislada.
+
+Descubrieron que la secreción de vasopresina podía provocarse mediante pulsos de estímulo eléctrico aplicados a la glándula, y que se liberaba mucha más hormona con un patrón de estimulación fásico que con un patrón de estimulación continuo.
+Estos experimentos generaron interés en el "acoplamiento de secreción de estímulo", la relación entre la actividad eléctrica y la secreción.
+
+Las neuronas supraópticas son inusuales debido a las grandes cantidades de péptido que secretan y porque secretan los péptidos en la sangre.
+
+Sin embargo, muchas neuronas del cerebro, y especialmente del hipotálamo, sintetizan péptidos.
+
+Ahora se piensa que las ráfagas de actividad eléctrica pueden ser generalmente importantes para liberar grandes cantidades de péptido de las neuronas secretoras de péptido.
+
+
+=== Secreción dendrítica ===
+
+Las neuronas supraópticas tienen típicamente de 1 a 3 dendritas grandes, la mayoría de las cuales se proyectan ventralmente para formar una estera de proceso en la base del núcleo, llamada lámina glial ventral.
+
+Las dendritas reciben la mayoría de los terminales sinápticos de las neuronas aferentes que regulan las neuronas supraópticas, pero las dendritas neuronales a menudo participan activamente en el procesamiento de la información, en lugar de ser simplemente receptores pasivos de información.
+
+Las dendritas de las neuronas supraópticas contienen un gran número de vesículas neurosecretoras que contienen oxitocina y vasopresina, y pueden liberarse de las dendritas por exocitosis.
+
+La oxitocina y la vasopresina que se liberan en la glándula pituitaria posterior ingresan a la sangre y no pueden volver a ingresar al cerebro porque la barrera hematoencefálica no permite el paso de la oxitocina y la vasopresina, pero la oxitocina y la vasopresina que se liberan de las dendritas actúan dentro del cerebro.
+
+Las propias neuronas de oxitocina expresan receptores de oxitocina y las neuronas de vasopresina expresan receptores de vasopresina, por lo que los péptidos liberados dendríticamente "autorregulan" las neuronas supraópticas.
+
+Francoise Moos y Phillipe Richard demostraron por primera vez que la acción autorreguladora de la oxitocina es importante para el reflejo de eyección de leche.
+Estos péptidos tienen vidas medias relativamente largas en el cerebro (alrededor de 20 minutos en el LCR) y se liberan en grandes cantidades en el núcleo supraóptico, por lo que están disponibles para difundirse a través de los espacios extracelulares del cerebro para actuar a distancia. objetivos
+
+Los receptores de oxitocina y vasopresina están presentes en muchas otras regiones del cerebro, incluida la amígdala, el tronco encefálico y el tabique, así como en la mayoría de los núcleos del hipotálamo.
+Debido a que se libera tanta vasopresina y oxitocina en este sitio, los estudios del núcleo supraóptico han hecho una contribución importante para comprender cómo se regula la liberación de las dendritas y para comprender su significado fisiológico.
+
+Los estudios han demostrado que la secretina ayuda a facilitar la liberación de oxitocina dendrítica en el SON, y que la administración de secretina en el SON mejora el reconocimiento social en roedores.
+
+Esta capacidad social mejorada parece estar funcionando a través de los efectos de la secretina en las neuronas de oxitocina en el SON, ya que el bloqueo de los receptores de oxitocina en esta región bloquea el reconocimiento social.
+
+
+=== Péptidos coexistentes ===
+
+Las neuronas de vasopresina y las neuronas de oxitocina producen muchas otras sustancias neuroactivas además de la vasopresina y la oxitocina, aunque la mayoría están presentes solo en pequeñas cantidades.
+
+Sin embargo, se sabe que algunas de estas otras sustancias son importantes.
+
+La dinorfina producida por las neuronas de vasopresina participa en la regulación del patrón de descarga fásica de las neuronas de vasopresina, y el óxido nítrico producido por ambos tipos de neuronas es un regulador de retroalimentación negativa de la actividad celular.
+
+Las neuronas de oxitocina también producen dinorfina; en estas neuronas, la dinorfina actúa en las terminales nerviosas de la hipófisis posterior como inhibidor de la retroalimentación negativa de la secreción de oxitocina.
+
+Las neuronas de oxitocina también producen grandes cantidades de colecistoquinina, así como la transcripción reguladora de cocaína y anfetamina (CART).
+
+
+
+https://en.wikipedia.org/wiki/Supraoptic_nucleus
+
+;;;PT;;;
+
+
+
+NÚCLEO SUPRAÓPTICO
+
+
+O núcleo supraóptico (SON) é um núcleo de células neurossecretoras magnocelulares no hipotálamo do cérebro de mamíferos.
+
+O núcleo está situado na base do cérebro, adjacente ao quiasma óptico.
+
+Em humanos, o SON contém cerca de 3.000 neurônios.
+
+
+== Função ==
+
+Os corpos celulares produzem o hormônio peptídico vasopressina, que também é conhecido como hormônio antidiurético (ADH), e o hormônio peptídico ocitocina.
+
+Ambos os peptídeos são liberados da hipófise posterior.
+
+ADH viaja através da corrente sanguínea para suas células-alvo nos ductos papilares nos rins, aumentando a reabsorção de água.
+
+A OT viaja pela corrente sanguínea para atuar nas glândulas mamárias e no útero.
+Nos corpos celulares, os hormônios são empacotados em grandes vesículas ligadas à membrana que são transportadas pelos axônios até as terminações nervosas.
+
+Os grânulos de secreção também são armazenados em pacotes ao longo do axônio chamados corpos de Herring.
+Neurônios magnocelulares semelhantes também são encontrados no núcleo paraventricular.
+
+
+=== Sinalização ===
+
+Cada neurônio no núcleo tem um axônio longo que se projeta para a glândula pituitária posterior, onde dá origem a cerca de 10.000 terminais nervosos neurossecretores.
+
+Os neurônios magnocelulares são eletricamente excitáveis: em resposta a estímulos aferentes de outros neurônios, eles geram potenciais de ação, que se propagam pelos axônios.
+
+Quando um potencial de ação invade um terminal neurossecretor, o terminal é despolarizado e o cálcio entra no terminal através de canais dependentes de voltagem.
+
+A entrada de cálcio desencadeia a secreção de algumas das vesículas por um processo conhecido como exocitose.
+
+O conteúdo da vesícula é liberado no espaço extracelular, de onde se difundem para a corrente sanguínea.
+
+
+=== Regulação dos neurônios supraópticos ===
+
+A vasopressina (hormônio antidiurético, ADH) é liberada em resposta à concentração de soluto no sangue, diminuição do volume sanguíneo ou pressão arterial.
+Algumas outras entradas vêm do tronco encefálico, inclusive de alguns dos neurônios noradrenérgicos do núcleo do trato solitário e da medula ventrolateral.
+
+No entanto, muitas das entradas diretas para o núcleo supraóptico vêm de neurônios fora do núcleo (a "zona perinuclear").
+Das entradas aferentes para o núcleo supraóptico, a maioria contém o neurotransmissor inibitório GABA ou o neurotransmissor excitatório glutamato, mas esses transmissores geralmente coexistem com vários peptídeos.
+
+Outros neurotransmissores aferentes incluem noradrenalina (do tronco cerebral), dopamina, serotonina e acetilcolina.
+
+
+=== O núcleo supraóptico como um "sistema modelo" ===
+
+O núcleo supraóptico é um importante "sistema modelo" em neurociência.
+
+Há muitas razões para isso: algumas vantagens técnicas de trabalhar no núcleo supraóptico são que os corpos celulares são relativamente grandes, as células produzem quantidades excepcionalmente grandes de seus produtos de secreção e o núcleo é relativamente homogêneo e fácil de separar de outras regiões do cérebro. .
+
+A expressão gênica e a atividade elétrica de neurônios supraópticos têm sido estudadas extensivamente, em muitas condições fisiológicas e experimentais.
+
+Esses estudos levaram a muitos insights de importância geral, como nos exemplos abaixo.
+
+
+==== Plasticidade morfológica no núcleo supraóptico ====
+Estudos anatômicos usando microscopia eletrônica mostraram que a morfologia do núcleo supraóptico é notavelmente adaptável. nas relações estruturais entre neurônios e células gliais no núcleo.
+
+Essas mudanças surgem durante o parto e são consideradas adaptações importantes que preparam os neurônios de ocitocina para uma alta demanda sustentada de ocitocina.
+
+A ocitocina é essencial para a descida do leite em resposta à sucção.
+Esses estudos mostraram que o cérebro é muito mais "plástico" em sua anatomia do que se reconhecia anteriormente, e levaram a um grande interesse nas interações entre as células da glia e os neurônios em geral.
+
+
+=== Acoplamento estímulo-secreção ===
+
+Em resposta, por exemplo, a um aumento na concentração plasmática de sódio, os neurônios de vasopressina também descarregam potenciais de ação em rajadas, mas essas rajadas são muito mais longas e menos intensas do que as rajadas exibidas pelos neurônios de oxitocina, e as rajadas nas células de vasopressina não são sincronizado. Parecia estranho que as células de vasopressina disparassem em rajadas.
+
+Como a atividade das células de vasopressina não é sincronizada, o nível geral de secreção de vasopressina no sangue é contínuo, não pulsátil.
+
+Richard Dyball e seus colegas de trabalho especularam que esse padrão de atividade, chamado de "disparo fásico", pode ser particularmente eficaz para causar secreção de vasopressina.
+
+Eles mostraram isso estudando a secreção de vasopressina da glândula pituitária posterior isolada in vitro.
+
+Eles descobriram que a secreção de vasopressina pode ser evocada por pulsos de estímulo elétrico aplicados à glândula, e que muito mais hormônio foi liberado por um padrão fásico de estimulação do que por um padrão contínuo de estimulação.
+Esses experimentos levaram ao interesse no "acoplamento estímulo-secreção" - a relação entre atividade elétrica e secreção.
+
+Os neurônios supraópticos são incomuns devido às grandes quantidades de peptídeos que secretam e porque secretam os peptídeos no sangue.
+
+No entanto, muitos neurônios no cérebro, e especialmente no hipotálamo, sintetizam peptídeos.
+
+Pensa-se agora que explosões de atividade elétrica podem ser geralmente importantes para liberar grandes quantidades de peptídeos de neurônios secretores de peptídeos.
+
+
+=== Secreção dendrítica ===
+
+Os neurônios supraópticos têm tipicamente 1-3 dendritos grandes, a maioria dos quais se projeta ventralmente para formar um tapete de processo na base do núcleo, chamado de lâmina glial ventral.
+
+Os dendritos recebem a maioria dos terminais sinápticos de neurônios aferentes que regulam os neurônios supraópticos, mas os dendritos neuronais estão frequentemente envolvidos ativamente no processamento de informações, em vez de serem simplesmente receptores passivos de informações.
+
+Os dendritos dos neurônios supraópticos contêm um grande número de vesículas neurossecretoras que contêm ocitocina e vasopressina, e podem ser liberadas dos dendritos por exocitose.
+
+A ocitocina e a vasopressina que são liberadas na hipófise posterior entram no sangue e não podem reentrar no cérebro porque a barreira hematoencefálica não permite a passagem da ocitocina e da vasopressina, mas a ocitocina e a vasopressina que são liberadas dos dendritos atuam dentro do cérebro.
+
+Os próprios neurônios de ocitocina expressam receptores de ocitocina, e os neurônios de vasopressina expressam receptores de vasopressina, de modo que os peptídeos liberados dendríticamente "autorregulam" os neurônios supraópticos.
+
+Françoise Moos e Phillipe Richard mostraram pela primeira vez que a ação autorreguladora da ocitocina é importante para o reflexo de ejeção do leite.
+Esses peptídeos têm meias-vidas relativamente longas no cérebro (cerca de 20 minutos no LCR) e são liberados em grandes quantidades no núcleo supraóptico e, portanto, estão disponíveis para se difundir pelos espaços extracelulares do cérebro para atuar em distâncias distantes. alvos.
+
+Os receptores de ocitocina e vasopressina estão presentes em muitas outras regiões do cérebro, incluindo amígdala, tronco cerebral e septo, bem como na maioria dos núcleos do hipotálamo.
+Devido a grande quantidade de vasopressina e oxitocina serem liberadas neste local, os estudos do núcleo supraóptico deram uma importante contribuição para a compreensão de como a liberação de dendritos é regulada e para a compreensão de seu significado fisiológico.
+
+Estudos demonstraram que a secretina ajuda a facilitar a liberação de ocitocina dendrítica no SON e que a administração de secretina no SON aumenta o reconhecimento social em roedores.
+
+Essa capacidade social aprimorada parece estar funcionando através dos efeitos da secretina nos neurônios da oxitocina no SON, pois o bloqueio dos receptores de ocitocina nessa região bloqueia o reconhecimento social.
+
+
+=== Peptídeos coexistentes ===
+
+Os neurônios da vasopressina e os neurônios da ocitocina produzem muitas outras substâncias neuroativas além da vasopressina e da ocitocina, embora a maioria esteja presente apenas em pequenas quantidades.
+
+No entanto, algumas dessas outras substâncias são conhecidas por serem importantes.
+
+A dinorfina produzida pelos neurônios da vasopressina está envolvida na regulação do padrão de descarga fásica dos neurônios da vasopressina, e o óxido nítrico produzido por ambos os tipos neuronais é um regulador de feedback negativo da atividade celular.
+
+Os neurônios de oxitocina também produzem dinorfina; nesses neurônios, a dinorfina atua nos terminais nervosos da hipófise posterior como um inibidor de feedback negativo da secreção de ocitocina.
+
+Os neurônios de oxitocina também produzem grandes quantidades de colecistocinina, bem como a transcrição regulatória de cocaína e anfetamina (CART).
+
+
+
+https://en.wikipedia.org/wiki/Supraoptic_nucleus
+
+;;;FR;;;
+
+
+
+NOYAU SUPRAOPTIQUE
+
+
+Le noyau supraoptique (SON) est un noyau de cellules neurosécrétoires magnocellulaires dans l'hypothalamus du cerveau des mammifères.
+
+Le noyau est situé à la base du cerveau, adjacent au chiasma optique.
+
+Chez l'homme, le SON contient environ 3 000 neurones.
+
+
+== Fonction ==
+
+Les corps cellulaires produisent l'hormone peptidique vasopressine, également connue sous le nom d'hormone anti-diurétique (ADH), et l'hormone peptidique ocytocine.
+
+Ces deux peptides sont libérés de l'hypophyse postérieure.
+
+L'ADH se déplace via la circulation sanguine vers ses cellules cibles dans les canaux papillaires des reins, améliorant la réabsorption de l'eau.
+
+L'OT se déplace via la circulation sanguine pour agir au niveau des glandes mammaires et de l'utérus.
+Dans les corps cellulaires, les hormones sont conditionnées dans de grandes vésicules liées à la membrane qui sont transportées le long des axones jusqu'aux terminaisons nerveuses.
+
+Les granules sécrétoires sont également stockés dans des paquets le long de l'axone appelés corps de hareng.
+Des neurones magnocellulaires similaires se trouvent également dans le noyau paraventriculaire.
+
+
+=== Signalisation ===
+
+Chaque neurone du noyau possède un long axone qui se projette vers l'hypophyse postérieure, où il donne naissance à environ 10 000 terminaisons nerveuses neurosécrétoires.
+
+Les neurones magnocellulaires sont électriquement excitables : en réponse à des stimuli afférents d'autres neurones, ils génèrent des potentiels d'action qui se propagent le long des axones.
+
+Lorsqu'un potentiel d'action envahit un terminal neurosécrétoire, le terminal est dépolarisé et le calcium pénètre dans le terminal par des canaux voltage-dépendants.
+
+L'entrée de calcium déclenche la sécrétion de certaines des vésicules par un processus connu sous le nom d'exocytose.
+
+Le contenu des vésicules est libéré dans l'espace extracellulaire, d'où il diffuse dans la circulation sanguine.
+
+
+=== Régulation des neurones supraoptiques ===
+
+La vasopressine (hormone antidiurétique, ADH) est libérée en réponse à la concentration de soluté dans le sang, à une diminution du volume sanguin ou de la pression artérielle.
+Certaines autres entrées proviennent du tronc cérébral, y compris de certains des neurones noradrénergiques du noyau du tractus solitaire et de la moelle ventrolatérale.
+
+Cependant, bon nombre des entrées directes dans le noyau supraoptique proviennent de neurones juste à l'extérieur du noyau (la «zone périnucléaire»).
+Parmi les entrées afférentes au noyau supraoptique, la plupart contiennent soit le neurotransmetteur inhibiteur GABA, soit le neurotransmetteur excitateur glutamate, mais ces transmetteurs coexistent souvent avec divers peptides.
+
+D'autres neurotransmetteurs afférents comprennent la noradrénaline (du tronc cérébral), la dopamine, la sérotonine et l'acétylcholine.
+
+
+=== Le noyau supraoptique comme "système modèle" ===
+
+Le noyau supraoptique est un « système modèle » important en neurosciences.
+
+Il y a plusieurs raisons à cela : certains avantages techniques du travail sur le noyau supraoptique sont que les corps cellulaires sont relativement grands, les cellules fabriquent des quantités exceptionnellement importantes de leurs produits de sécrétion et le noyau est relativement homogène et facile à séparer des autres régions du cerveau. .
+
+L'expression génique et l'activité électrique des neurones supraoptiques ont été largement étudiées, dans de nombreuses conditions physiologiques et expérimentales.
+
+Ces études ont conduit à de nombreuses idées d'importance générale, comme dans les exemples ci-dessous.
+
+
+==== Plasticité morphologique dans le noyau supraoptique ====
+Des études anatomiques utilisant la microscopie électronique ont montré que la morphologie du noyau supraoptique est remarquablement adaptable. dans les relations structurelles entre les neurones et les cellules gliales du noyau.
+
+Ces changements surviennent pendant la parturition et sont considérés comme des adaptations importantes qui préparent les neurones à ocytocine à une forte demande soutenue d'ocytocine.
+
+L'ocytocine est essentielle à l'éjection du lait en réponse à la tétée.
+Ces études ont montré que le cerveau est beaucoup plus "plastique" dans son anatomie qu'on ne le pensait auparavant, et ont suscité un grand intérêt pour les interactions entre les cellules gliales et les neurones en général.
+
+
+=== Couplage stimulus-sécrétion ===
+
+En réponse, par exemple, à une augmentation de la concentration plasmatique de sodium, les neurones à vasopressine déchargent également des potentiels d'action par rafales, mais ces rafales sont beaucoup plus longues et moins intenses que les rafales affichées par les neurones à ocytocine, et les rafales dans les cellules à vasopressine ne sont pas synchronisé. Il semblait étrange que les cellules de vasopressine se déclenchent par rafales.
+
+Comme l'activité des cellules de vasopressine n'est pas synchronisée, le niveau global de sécrétion de vasopressine dans le sang est continu et non pulsatile.
+
+Richard Dyball et ses collègues ont émis l'hypothèse que ce modèle d'activité, appelé "déclenchement phasique", pourrait être particulièrement efficace pour provoquer la sécrétion de vasopressine.
+
+Ils ont montré que c'était le cas en étudiant in vitro la sécrétion de vasopressine de l'hypophyse postérieure isolée.
+
+Ils ont découvert que la sécrétion de vasopressine pouvait être évoquée par des impulsions de stimulation électrique appliquées à la glande et que beaucoup plus d'hormones étaient libérées par un schéma de stimulation phasique que par un schéma de stimulation continu.
+Ces expériences ont conduit à s'intéresser au "couplage stimulus-sécrétion" - la relation entre l'activité électrique et la sécrétion.
+
+Les neurones supraoptiques sont inhabituels en raison des grandes quantités de peptides qu'ils sécrètent et parce qu'ils sécrètent les peptides dans le sang.
+
+Cependant, de nombreux neurones du cerveau, et en particulier de l'hypothalamus, synthétisent des peptides.
+
+On pense maintenant que les sursauts d'activité électrique pourraient être généralement importants pour libérer de grandes quantités de peptides à partir de neurones sécrétant des peptides.
+
+
+=== Sécrétion dendritique ===
+
+Les neurones supraoptiques ont généralement 1 à 3 grandes dendrites, dont la plupart se projettent ventralement pour former un tapis de processus à la base du noyau, appelé la lame gliale ventrale.
+
+Les dendrites reçoivent la plupart des terminaux synaptiques des neurones afférents qui régulent les neurones supraoptiques, mais les dendrites neuronales sont souvent activement impliquées dans le traitement de l'information, plutôt que d'être simplement des récepteurs passifs d'informations.
+
+Les dendrites des neurones supraoptiques contiennent un grand nombre de vésicules neurosécrétoires qui contiennent de l'ocytocine et de la vasopressine, et elles peuvent être libérées des dendrites par exocytose.
+
+L'ocytocine et la vasopressine qui sont libérées au niveau de l'hypophyse postérieure pénètrent dans le sang et ne peuvent pas rentrer dans le cerveau car la barrière hémato-encéphalique ne laisse pas passer l'ocytocine et la vasopressine, mais l'ocytocine et la vasopressine qui sont libérées des dendrites agissent dans le cerveau.
+
+Les neurones à ocytocine expriment eux-mêmes les récepteurs de l'ocytocine et les neurones à vasopressine expriment les récepteurs de la vasopressine, de sorte que les peptides libérés par la dendrite "autorégulent" les neurones supraoptiques.
+
+Françoise Moos et Phillipe Richard ont d'abord montré que l'action autorégulatrice de l'ocytocine est importante pour le réflexe d'éjection du lait.
+Ces peptides ont des demi-vies relativement longues dans le cerveau (environ 20 minutes dans le LCR), et ils sont libérés en grande quantité dans le noyau supraoptique, et ainsi ils sont disponibles pour diffuser à travers les espaces extracellulaires du cerveau pour agir à distance. cibles.
+
+Les récepteurs de l'ocytocine et de la vasopressine sont présents dans de nombreuses autres régions du cerveau, notamment l'amygdale, le tronc cérébral et le septum, ainsi que la plupart des noyaux de l'hypothalamus.
+Étant donné que tant de vasopressine et d'ocytocine sont libérées sur ce site, les études du noyau supraoptique ont apporté une contribution importante à la compréhension de la régulation de la libération des dendrites et à la compréhension de sa signification physiologique.
+
+Des études ont démontré que la sécrétine aide à faciliter la libération d'ocytocine dendritique dans le SON, et que l'administration de sécrétine dans le SON améliore la reconnaissance sociale chez les rongeurs.
+
+Cette capacité sociale améliorée semble fonctionner à travers les effets de la sécrétine sur les neurones à ocytocine dans le SON, car le blocage des récepteurs de l'ocytocine dans cette région bloque la reconnaissance sociale.
+
+
+=== Peptides coexistants ===
+
+Les neurones à vasopressine et les neurones à ocytocine fabriquent de nombreuses autres substances neuroactives en plus de la vasopressine et de l'ocytocine, bien que la plupart ne soient présentes qu'en petites quantités.
+
+Cependant, certaines de ces autres substances sont connues pour être importantes.
+
+La dynorphine produite par les neurones de la vasopressine est impliquée dans la régulation du schéma de décharge phasique des neurones de la vasopressine, et l'oxyde nitrique produit par les deux types de neurones est un régulateur à rétroaction négative de l'activité cellulaire.
+
+Les neurones à ocytocine fabriquent également de la dynorphine; dans ces neurones, la dynorphine agit au niveau des terminaisons nerveuses de l'hypophyse postérieure en tant qu'inhibiteur de rétroaction négative de la sécrétion d'ocytocine.
+
+Les neurones à ocytocine fabriquent également de grandes quantités de cholécystokinine ainsi que le transcrit régulateur de la cocaïne et de l'amphétamine (CART).
+
+
+
+https://en.wikipedia.org/wiki/Supraoptic_nucleus

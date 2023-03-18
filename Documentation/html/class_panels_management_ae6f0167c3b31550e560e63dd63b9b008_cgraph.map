@@ -1,0 +1,14 @@
+<map id="PanelsManagement.ShowLexicon" name="PanelsManagement.ShowLexicon">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,224,129"/>
+<area shape="rect" id="node2" href="$class_expand_collapse_u_i.html#a5eac2ec325241121a9d0280d54f245ba" title=" " alt="" coords="290,5,473,31"/>
+<area shape="rect" id="node3" href="$class_tab.html#a7b051e1c07290533091ab5ccd4af05b9" title=" " alt="" coords="332,55,431,80"/>
+<area shape="rect" id="node9" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="293,104,469,129"/>
+<area shape="rect" id="node10" href="$class_tab.html#a49f3c2901657c890e60ffc7b21f47159" title=" " alt="" coords="339,153,423,179"/>
+<area shape="rect" id="node11" href="$class_panels_management.html#aa6be0e4c79e61aa610a5d01cfaa4902f" title=" " alt="" coords="272,203,491,243"/>
+<area shape="rect" id="node4" href="$class_tab_group.html#aa7baa8705ef148c32094d3978857ddeb" title=" " alt="" coords="566,104,721,129"/>
+<area shape="rect" id="node5" href="$class_tab.html#a6815ce96a06f16ab931acc4d750534b7" title=" " alt="" coords="801,29,953,55"/>
+<area shape="rect" id="node6" href="$class_tab.html#ab69008119ce7f6016616c779871106e0" title=" " alt="" coords="796,79,957,104"/>
+<area shape="rect" id="node7" href="$class_tab.html#a861d685baa9f13b4821aa450a1bd1c9a" title=" " alt="" coords="813,128,940,153"/>
+<area shape="rect" id="node8" href="$class_tab.html#a7bb19f4492e15e6c78efd2a313d77d0e" title=" " alt="" coords="809,177,944,203"/>
+<area shape="rect" id="node12" href="$class_camera_controller.html#ad5e87600d30aa52a1228e5c4e6085266" title="Initiates a coroutine to move the camera horizontally to its new position over a specified time perio..." alt="" coords="539,211,748,236"/>
+</map>

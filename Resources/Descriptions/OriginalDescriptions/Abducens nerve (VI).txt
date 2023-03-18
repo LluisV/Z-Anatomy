@@ -1,0 +1,179 @@
+
+
+ABDUCENS NERVE (VI)
+
+
+The abducens nerve (or abducent nerve) is the sixth cranial nerve (CNVI), in humans, that controls the movement of the lateral rectus muscle, responsible for outward gaze. 
+
+It is a somatic efferent nerve.
+
+
+== Structure ==
+
+ 
+The abducens nerve leaves the brainstem at the junction of the pons and the medulla, medial to the facial nerve. 
+
+It runs upwards and forwards from this position to reach the eye.
+The nerve enters the subarachnoid space when it emerges from the brainstem. 
+
+It runs upward between the pons and the clivus, and then pierces the dura mater to run between the dura and the skull through Dorello's canal. 
+
+At the tip of the petrous part of the temporal bone it makes a sharp turn forward to enter the cavernous sinus. 
+
+In the cavernous sinus it runs alongside the internal carotid artery. 
+
+It then enters the orbit through the superior orbital fissure and innervates the lateral rectus muscle of the eye.
+
+
+=== Nucleus ===
+
+
+The abducens nucleus is located in the pons, on the floor of the fourth ventricle, at the level of the facial colliculus. 
+
+Axons from the facial nerve loop around the abducens nucleus, creating a slight bulge (the facial colliculus) that is visible on the dorsal surface of the floor of the fourth ventricle. 
+
+The abducens nucleus is close to the midline, like the other motor nuclei that control eye movements (the oculomotor and trochlear nuclei).
+Motor axons leaving the abducens nucleus run ventrally and caudally through the pons. 
+
+They pass lateral to the corticospinal tract (which runs longitudinally through the pons at this level) before exiting the brainstem at the pontomedullary junction.
+
+
+=== Development ===
+
+The human abducens nerve is derived from the basal plate of the embryonic pons.
+
+
+== Function ==
+
+The abducens nerve supplies the lateral rectus muscle of the human eye. 
+
+This muscle is responsible for outward gaze. 
+
+The abducens nerve carries axons of type GSE, general somatic efferent.
+
+
+== Clinical significance ==
+
+
+
+=== Damage ===
+
+
+Damage to the peripheral part of the abducens nerve will cause double vision (diplopia), due to the unopposed muscle tone of the medial rectus muscle. 
+
+The affected eye is pulled to look towards the midline. 
+
+In order to see without double vision, patients will rotate their heads so that both eyes are toward the temple. 
+
+Partial damage to the abducens nerve causes weak or incomplete abduction of the affected eye. 
+
+The diplopia is worse on attempts at looking laterally.
+The long course of the abducens nerve between the brainstem and the eye makes it vulnerable to injury at many levels. 
+
+For example, fractures of the petrous temporal bone can selectively damage the nerve, as can aneurysms of the intracavernous carotid artery. 
+
+Mass lesions that push the brainstem downward can damage the nerve by stretching it between the point where it emerges from the pons and the point where it hooks over the petrous temporal bone.
+The central anatomy of the sixth nerve predicts (correctly) that infarcts affecting the dorsal pons at the level of the abducens nucleus can also affect the facial nerve, producing an ipsilateral facial palsy together with a lateral rectus palsy. 
+
+The anatomy also predicts (correctly) that infarcts involving the ventral pons can affect the sixth nerve and the corticospinal tract simultaneously, producing a lateral rectus palsy associated with a contralateral hemiparesis. 
+
+These rare syndromes are of interest primarily as useful summaries of the anatomy of the brainstem.
+
+
+=== Peripheral lesions ===
+
+Complete interruption of the peripheral sixth nerve causes diplopia (double vision), due to the unopposed action of the medial rectus muscle. 
+
+The affected eye is pulled medially. 
+
+In order to see without double vision, patients will turn their heads sideways so that both eyes are looking sideways. 
+
+On formal testing, the affected eye cannot abduct past the midline – it cannot look sideways, toward the temple. 
+
+Partial damage to the sixth nerve causes weak or incomplete abduction of the affected eye. 
+
+The diplopia is worse on attempted lateral gaze, as would be expected (since the lateral gaze muscle is impaired).
+Peripheral sixth nerve damage can be caused by tumors, aneurysms, or fractures – anything that directly compresses or stretches the nerve. 
+
+Other processes that can damage the sixth nerve include strokes (infarctions), demyelination, infections (e.g. meningitis), cavernous sinus diseases and various neuropathies. 
+
+Perhaps the most common overall cause of sixth nerve impairment is diabetic neuropathy. 
+
+Iatrogenic injury is also known to occur, with the abducens nerve being the most commonly injured cranial nerve in halo orthosis placement. 
+
+The resultant palsy is identified through loss of lateral gaze after application of the orthosis.
+Rare causes of isolated sixth nerve damage include Wernicke–Korsakoff syndrome and Tolosa–Hunt syndrome. 
+
+Wernicke–Korsakoff syndrome is caused by thiamine deficiency, classically due to alcoholism. 
+
+The characteristic ocular abnormalities are nystagmus and lateral rectus weakness. 
+
+Tolosa-Hunt syndrome is an idiopathic granulomatous disease that causes painful oculomotor (especially sixth nerve) palsies.
+Indirect damage to the sixth nerve can be caused by any process (brain tumor, hydrocephalus, pseudotumor cerebri, hemorrhage, edema) that exerts downward pressure on the brainstem, causing the nerve to stretch along the clivus. 
+
+This type of traction injury can affect either side first. 
+
+A right-sided brain tumor can produce either a right-sided or a left-sided sixth nerve palsy as an initial sign. 
+
+Thus a right-sided sixth nerve palsy does not necessarily imply a right-sided cause. 
+
+Sixth nerve palsies are infamous as “false localizing signs.” Neurological signs are described as “false localizing” if they reflect dysfunction distant or remote from the expected anatomical location of pathology. 
+
+Isolated sixth nerve palsies in children are assumed to be due to brain tumors until proven otherwise.
+
+
+=== Nuclear lesions ===
+
+Damage to the abducens nucleus does not produce an isolated sixth nerve palsy, but rather a horizontal gaze palsy that affects both eyes simultaneously. 
+
+The abducens nucleus contains two types of cells: motor neurons that control the lateral rectus muscle on the same side, and interneurons that cross the midline and connect to the contralateral oculomotor nucleus (which controls the medial rectus muscle of the opposite eye). 
+
+In normal vision, lateral movement of one eye (lateral rectus muscle) is precisely coupled to medial movement of the other eye (medial rectus muscle), so that both eyes remain fixed on the same object.
+The control of conjugate gaze is mediated in the brainstem by the medial longitudinal fasciculus (MLF), a nerve tract that connects the three extraocular motor nuclei (abducens, trochlear and oculomotor) into a single functional unit. 
+
+Lesions of the abducens nucleus and the MLF produce observable sixth nerve problems, most notably internuclear ophthalmoplegia (INO).
+
+
+=== Supranuclear lesions ===
+
+The sixth nerve is one of the final common pathways for numerous cortical systems that control eye movement in general. 
+
+Cortical control of eye movement (saccades, smooth pursuit, accommodation) involves conjugate gaze, not unilateral eye movement.
+
+
+=== Tuberculosis ===
+
+15–40% of people with tuberculosis have some resulting cranial nerve deficit. 
+
+The sixth nerve is the most commonly affected cranial nerve in immunocompetent people with tuberculosis.
+Citation: Smith DE1, Blasi A. 
+
+Acquired abducens nerve palsy secondary to tuberculosis. 
+
+Optometry. 2009 Oct;80(10):567-71. doi: 10.1016/j.optm.2009.02.012.
+
+
+== History ==
+
+=== Etymology ===
+
+The Latin name for the sixth cranial nerve is "nervus abducens". 
+
+The Terminologia Anatomica officially recognizes two different English translations: "abducent nerve" and "abducens nerve".“Abducens” is more common in recent literature, while “abducent” predominates in the older literature. 
+
+The United States National Library of Medicine uses “abducens nerve” in its Medical Subject Heading (MeSH) vocabulary to index the vast MEDLINE and PubMed biomedical databases. 
+
+The 39th edition of Gray’s Anatomy (2005) also prefers “abducens nerve.”
+
+
+== Other animals ==
+
+The abducens nerve controls the movement of a single muscle, the lateral rectus muscle of the eye. 
+
+In most other mammals it also innervates the musculus retractor bulbi, which can retract the eye for protection. 
+
+Homologous abducens nerves are found in all vertebrates except lampreys and hagfishes.
+
+
+
+https://en.wikipedia.org/wiki/Abducens_nerve

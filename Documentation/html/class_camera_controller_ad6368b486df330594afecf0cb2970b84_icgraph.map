@@ -1,0 +1,7 @@
+<map id="CameraController.SetCameraRotation" name="CameraController.SetCameraRotation">
+<area shape="rect" id="node1" title="Initiates a coroutine to smoothly rotate the camera to a given orientation." alt="" coords="532,39,723,79"/>
+<area shape="rect" id="node2" href="$class_camera_controller.html#a545165a10463858579a238ba4edaba45" title="Centers the camera&#39;s rotation on the given label&#39;s line direction." alt="" coords="272,5,484,31"/>
+<area shape="rect" id="node3" href="$class_gizmo_behaviour.html#a0a2c01ceb887601b474da9e2810fd9b1" title=" " alt="" coords="285,79,471,119"/>
+<area shape="rect" id="node4" href="$class_cube_text.html#a88636f4b123b3acb4897bfbf02fb3d6e" title=" " alt="" coords="31,61,199,87"/>
+<area shape="rect" id="node5" href="$class_gizmo_behaviour.html#ab2d383b2ea19e7d390ccdfe70b412efc" title=" " alt="" coords="5,111,224,136"/>
+</map>

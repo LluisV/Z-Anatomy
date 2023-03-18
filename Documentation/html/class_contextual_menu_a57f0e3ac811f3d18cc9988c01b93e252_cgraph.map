@@ -1,0 +1,12 @@
+<map id="ContextualMenu.HideInsertionsClick" name="ContextualMenu.HideInsertionsClick">
+<area shape="rect" id="node1" title=" " alt="" coords="5,86,208,126"/>
+<area shape="rect" id="node2" href="$class_action_control.html#a0c08073cf5e71b4fdf989f462ddbb163" title=" " alt="" coords="281,25,468,51"/>
+<area shape="rect" id="node4" href="$class_body_part_visibility.html#abf11447fcbb1d9a49f0a67feb5fd1df4" title="Hides the insertions for the current object." alt="" coords="269,93,480,119"/>
+<area shape="rect" id="node5" href="$class_lexicon.html#af8222500f63b859ba006527eec7830ea" title=" " alt="" coords="256,181,493,207"/>
+<area shape="rect" id="node3" href="$interface_i_command.html#a2b696958ef0840483f36b24e6eb65397" title=" " alt="" coords="566,5,702,31"/>
+<area shape="rect" id="node6" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="782,97,949,123"/>
+<area shape="rect" id="node7" href="$class_lexicon_element.html#a880513c9822f9e7bb4f32ad0cabab1b3" title=" " alt="" coords="541,130,727,170"/>
+<area shape="rect" id="node8" href="$class_lexicon_element.html#a3a8653c62633b09fa16484de597ac396" title=" " alt="" coords="541,218,727,258"/>
+<area shape="rect" id="node9" href="$class_button_sprite_swap.html#ac49d48ceacb6a931e95d9e497b3d6b6a" title=" " alt="" coords="775,253,956,279"/>
+<area shape="rect" id="node10" href="$class_layers.html#a21ac3c7dfb13b79de151406caab2eb4a" title=" " alt="" coords="567,333,701,359"/>
+</map>

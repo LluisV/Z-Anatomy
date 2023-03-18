@@ -1,0 +1,162 @@
+
+
+LATERAL OCCIPITOTEMPORAL GYRUS/
+FUSIFORM GYRUS
+
+
+The fusiform gyrus, also known as the lateral occipitotemporal gyrus, is part of the temporal lobe and occipital lobe in Brodmann area 37. 
+
+The fusiform gyrus is located between the lingual gyrus and parahippocampal gyrus above, and the inferior temporal gyrus below. 
+
+Though the functionality of the fusiform gyrus is not fully understood, it has been linked with various neural pathways related to recognition. 
+
+Additionally, it has been linked to various neurological phenomena such as synesthesia, dyslexia, and prosopagnosia.
+
+
+== Anatomy ==
+
+Anatomically, the fusiform gyrus is the largest macro-anatomical structure within the ventral temporal cortex, which mainly includes structures involved in high-level vision. 
+
+The term fusiform gyrus (lit. „spindle-shaped convolution“) refers to the fact that the shape of the gyrus is wider at its centre than at its ends. 
+
+This term is based on the description of the gyrus by Emil Huschke in 1854. (see also section on history). 
+
+The fusiform gyrus is situated at the basal surface of the temporal and occipital lobes and is delineated by the collateral sulcus (CoS) and occipitotemporal sulcus (OTS), respectively. 
+
+The OTS separates the fusiform gyrus from the inferior temporal gyrus (located laterally in respect to the fusiform gyrus) and the CoS separates the fusiform gyrus from the parahippocampal gyrus (located medially in respect to the fusiform gyrus).
+
+The fusiform gyrus can be further delineated into a lateral and medial portion, as it is separated in its middle by the relatively shallow mid-fusiform sulcus (MFS). 
+
+Thus, the lateral fusiform gyrus is delineated by the OTS laterally and the MFS medially. 
+
+Likewise, the medial fusiform gyrus is delineated by the MFS laterally and the CoS medially.
+
+Importantly, the mid-fusiform sulcus serves as a macroanatomical landmark for the fusiform face area (FFA), a functional subregion of the fusiform gyrus assumed to play a key role in processing faces.
+
+
+== History ==
+
+The fusiform gyrus has a contentious history that has recently been clarified. 
+
+The term was first used in 1854 by Emil Huschke from Jena, Germany, who called the fusiform gyrus a “Spindelwulst” (lit. spindle bulge). 
+
+He chose this term because of the similarity that the respective cerebral gyrus bears to the shape of a spindle, or fusil, due to its wider central section. 
+
+At first, researchers located the fusiform gyrus in other mammals as well, without taking into account the variations in gross organizations of other species’ brains. 
+
+Today, the fusiform gyrus is considered to be specific to hominoids. 
+
+This is supported by research showing only three temporal gyri and no fusiform gyrus in macaques.
+
+The first accurate definition of the mid-fusiform sulcus was coined by Gustav Retzius in 1896. 
+
+He was the first to describe the sulcus sagittalis gyri fusiformis (today: mid-fusiform sulcus), and correctly determined that a sulcus divides the fusiform gyrus into lateral and
+medial partitions. 
+
+W. 
+
+Julius Mickle mentioned the mid-fusiform sulcus in 1897 and attempted to clarify the relation between temporal sulci and the fusiform gyrus, calling it the “intra-gyral sulcus of the fusiform lobule”.
+
+
+== Function ==
+
+The exact functionality of the fusiform gyrus is still disputed, but there is relative consensus on its involvement in the following pathways:
+
+
+=== Processing of color information ===
+
+
+In 2003, V. S.Ramachandran collaborated with scientists from the Salk Institute for Biological Studies in order to identify the potential role of the fusiform gyrus within the color processing pathway in the brain. 
+
+Examining the relationship within the pathway specifically in cases of synesthesia, Ramachandran found that synesthetes on average have a higher density of fibers surrounding the angular gyrus. 
+
+The angular gyrus is involved in higher processing of colors. 
+
+The fibers relay shape information from the fusiform gyrus to the angular gyrus in order to produce the association of colors and shapes in grapheme-color synesthesia. 
+
+Cross-activation between the angular and fusiform gyri has been observed in the average brain, implying that the fusiform gyrus regularly communicates with the visual pathway.
+
+
+=== Face and body recognition ===
+
+
+Portions of the fusiform gyrus are critical for face and body recognition.
+
+
+=== Word recognition ===
+
+
+It is believed that portions of the left hemisphere fusiform gyrus are used in word recognition.
+
+
+=== Within-category identification ===
+
+Further research by MIT scientists showed that the left and right fusiform gyri played different roles, which subsequently interlinked. 
+
+The left fusiform gyrus recognizes "face-like" features in objects that may or may not be actual faces, whereas the right fusiform gyrus determines if that recognized face-like feature is, in fact, a face.
+
+
+== Related neural transmitter system ==
+
+In a 2015 study, dopamine was proposed to play a key role in face recognition task and was considered to be related to neural activity in fusiform gyrus. 
+
+By studying the correlation between the binding potential (BP) of dopamine D1 receptor by PET and blood-oxygen-level-dependent (BOLD) in fMRI scan during a face recognition task, higher availability of D1 receptor was shown to be associated with higher BOLD level. 
+
+This study showed that this association with D1 BP is only significant for FFG, not other brain regions. 
+
+The researchers also showed the possibility that higher availability of dopamine D1 receptor may underlie better performance in face recognition task. 
+
+Dopamine is known to be related to the reward system. 
+
+The dopaminergic system shows an active response to stimuli that predict possible rewards. 
+
+As a social demand, a face recognition task could be a cognition process that involves dopamine, which can elicit a reinforcement feedback.
+
+A 2007 study investigated how dopamine may regulate FFG activity during a face recognition task. 
+
+It indicated that BOLD activity can be modulated by dopamine's influence on postsynaptic D1 receptors. 
+
+The regulation is achieved in a way that dopamine first influence post-synaptic potential, and then further cause BOLD activity increase in the local area. 
+
+This link between post-synaptic BOLD activity increase and dopamine release can be explained by blockage of dopamine reuptake.
+
+
+== Associated neurological phenomena ==
+
+The fusiform gyrus has been speculated to be associated with various neurological phenomena.
+
+
+=== Prosopagnosia ===
+
+Some researchers think that the fusiform gyrus may be related to the disorder known as prosopagnosia, or face blindness. 
+
+Research has also shown that the fusiform face area, the area within the fusiform gyrus, is heavily involved in face perception but only to any generic within-category identification that is shown to be one of the functions of the fusiform gyrus. 
+
+Abnormalities of the fusiform gyrus have also been linked to Williams syndrome. 
+
+Fusiform gyrus has also been involved in the perception of emotions in facial stimuli. 
+
+However, individuals with autism show little to no activation in the fusiform gyrus in response to seeing a human face.
+
+
+=== Synaesthesia ===
+
+Recent research has seen activation of the fusiform gyrus during subjective grapheme–color perception in people with synaesthesia. 
+
+The effect of the fusiform gyrus in grapheme sense seems somewhat more clear as the fusiform gyrus seems to play a key role in word recognition. 
+
+The connection to color may be due to cross wiring of (being directly connected to) areas of the fusiform gyrus and other areas of the visual cortex associated with experiencing color.
+
+
+=== Dyslexia ===
+
+For those with dyslexia, it has been seen that the fusiform gyrus is underactivated and has reduced gray matter density.
+
+
+=== Face hallucinations ===
+
+Increased neurophysiological activity in the fusiform face area may produce hallucinations of faces, whether realistic or cartoonesque, as seen in Charles Bonnet syndrome, hypnagogic hallucinations, peduncular hallucinations, or drug-induced hallucinations.
+
+
+
+https://en.wikipedia.org/wiki/Fusiform_gyrus

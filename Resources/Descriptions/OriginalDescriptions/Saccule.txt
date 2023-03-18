@@ -1,0 +1,119 @@
+
+
+SACCULE
+
+
+The saccule is a bed of sensory cells in the inner ear. 
+
+It translates head movements into neural impulses for the brain to interpret. 
+
+The saccule detects linear accelerations and head tilts in the vertical plane. 
+
+When the head moves vertically, the sensory cells of the saccule are disturbed and the neurons connected to them begin transmitting impulses to the brain. 
+
+These impulses travel along the vestibular portion of the eighth cranial nerve to the vestibular nuclei in the brainstem.
+The vestibular system is important in maintaining balance, or equilibrium. 
+
+The vestibular system includes the saccule, utricle, and the three semicircular canals. 
+
+The vestibule is the name of the fluid-filled, membranous duct that contains these organs of balance. 
+
+The vestibule is encased in the temporal bone of the skull.
+
+
+== Structure ==
+
+The saccule, or sacculus, is the smaller of the two vestibular sacs. 
+
+It is globular in form and lies in the recessus sphæricus near the opening of the vestibular duct of the cochlea. 
+
+Its cavity does not directly communicate with that of the utricle. 
+
+The anterior part of the saccule exhibits an oval thickening, the macula acustica sacculi, or macula, to which are distributed the saccular filaments of the vestibular branch of the vestibulocochlear nerve, also known as the statoacoustic nerve or cranial nerve VIII.
+Within the macula are hair cells, each having a hair bundle on the apical aspect. 
+
+The hair bundle is composed of a single kinocilium and many (at least 70) stereocilia. 
+
+Stereocilia are connected to mechanically gated ion channels in the hair cell plasma membrane via tip links. 
+
+Supporting cells interdigitate between hair cells and secrete the otolithic membrane, a thick, gelatinous layer of glycoprotein. 
+
+Covering the surface of the otolithic membrane are otoliths, which are crystals of calcium carbonate. 
+
+For this reason, the saccule is sometimes called an "otolithic organ."
+From the posterior wall of the saccule is given off a canal, the ductus endolymphaticus (endolymphatic duct). 
+
+This duct is joined by the ductus utriculosaccularis, and then passes along the aquæductus vestibuli and ends in a blind pouch saccus endolymphaticus (endolymphatic sac) on the posterior surface of the petrous portion of the temporal bone, where it is in contact with the dura mater.
+From the lower part of the saccule a short tube, the canalis reuniens of Hensen, passes downward and opens into the ductus cochlearis near its vestibular extremity.
+Both the utricle and the saccule provide information about acceleration. 
+
+The difference between them is that the utricle is more sensitive to horizontal acceleration, whereas the saccule is more sensitive to vertical acceleration.
+
+
+== Function ==
+
+The saccule gathers sensory information to orient the body in space. 
+
+It primarily gathers information about linear movement in the vertical plane, including the force due to gravity. 
+
+The saccule, like the utricle, provides information to the brain about head position when it is not moving. 
+
+The structures that enable the saccule to gather this vestibular information are the hair cells. 
+
+The 2 by 3 mm patch of hair cells and supporting cells are called a macula. 
+
+Each hair cell of a macula has 40 to 70 stereocilia and one true cilium called a kinocilium. 
+
+The stereocilia are oriented by the striola, a curved ridge that runs through the middle of the macula; in the saccule they are oriented away from the striola The tips of the stereocilia and kinocilium are embedded in a gelatinous otolithic membrane. 
+
+This membrane is weighted with protein-calcium carbonate granules called otoliths, which add to the weight and inertia of the membrane and enhance the sense of gravity and motion.Not much is known of how this organ is used in other species. 
+
+Research has shown, like songbirds, females in some species of fish show seasonal variation in
+auditory processing and the sensitivity of the saccule of females peaks during the breeding season. 
+
+This is due to an increase in the
+density of saccular hair cells, partly resulting from reduced apoptosis. 
+
+The increase the hair cells make also increase the sensitivity to male mating calls. 
+
+An example of this is seen in Porichthys notatus, or plainfin midshipman fish.
+
+
+== Clinical significance ==
+
+
+
+=== Assessment ===
+
+Saccular function can be assessed by the cervical vestibular evoked myogenic potential (cVEMP). 
+
+This is a middle latency (P1 between 12-20 ms) waveform denoting inhibition of the sternocleidomastoid (SCM) muscle ipsilateral to the stimulus. 
+
+While not truly a unilateral reflex (response waveforms can be detected in the SCM contralateral to the stimulus in approximately 40% of cases), cVEMPs are more unilateral than the closely related ocular vestibular evoked myogenic potential (oVEMP). 
+
+The most reliable points on the cVEMP waveform are known as P1 and N1. 
+
+Of all waveform characteristics, P1-N1 amplitude is the most reliable and clinically relevant. cVEMP amplitude is linearly dependent upon stimulus intensity and is most reliably elicited with a loud (generally at or above 95 dB nHL) click or tone burst. 
+
+The cVEMP can also be said to be low-frequency tuned, with largest amplitudes in response to 500–750 Hz tonebursts. 
+
+This myogenic potential is felt to assess saccular function, because the response is present in completely deafened ears and because it is routed through the inferior vestibular nerve, which is known to dominantly innervate the saccule. .
+
+
+== Evolution of the Ear from Saccule ==
+
+Research suggests that in vertebrate evolution, sensory cells became specialized as gravistatic sensors after they became assembled to form the ear. 
+
+After this aggregation, growth, including duplication and segregation of existing neurosensory epithelia, gave rise to new epithelia and can be appreciated by comparing sensory epithelia from the inner ears of different vertebrates and their innervation by different neuronal populations. 
+
+Novel directions of differentiation were apparently further expanded by incorporating unique molecular modules in newly developed sensory epithelia. 
+
+For example, the saccule gave rise to the auditory epithelium and corresponding neuronal population of tetrapods, starting possibly in an aquatic environment.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Saccule

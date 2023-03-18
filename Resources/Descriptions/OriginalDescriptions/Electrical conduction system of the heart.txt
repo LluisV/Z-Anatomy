@@ -1,0 +1,224 @@
+
+
+ELECTRICAL CONDUCTION SYSTEM OF THE HEART
+
+
+The electrical conduction system of the heart transmits signals generated usually by the sinoatrial node to cause contraction of the heart muscle. 
+
+The pacemaking signal generated in the sinoatrial node travels through the right atrium to the atrioventricular node, along the Bundle of His and through bundle branches to cause contraction of the heart muscle. 
+
+This signal stimulates contraction first of the right and left atrium, and then the right and left ventricles. 
+
+This process allows blood to be pumped throughout the body.
+The conduction system consists of specialised heart muscle cells, and is situated within the myocardium. 
+
+There is a skeleton of fibrous tissue that surrounds the conduction system which can be seen on an ECG. 
+
+Dysfunction of the conduction system can cause irregular, fast, or slow heart rhythms.
+
+
+== Structure ==
+
+
+Electrical signals arising in the SA node (located in the right atrium) stimulate the atria to contract. 
+
+Then the signals travel to the atrioventricular node (AV node), which is located in the interatrial septum. 
+
+After a delay, the electrical signal diverges and is conducted through the left and right bundle of His to the respective Purkinje fibers for each side of the heart, as well as to the endocardium at the apex of the heart, then finally to the ventricular epicardium; causing its contraction. 
+
+These signals are generated rhythmically, which in turn results in the coordinated rhythmic contraction and relaxation of the heart.
+On the microscopic level, the wave of depolarization propagates to adjacent cells via gap junctions located on the intercalated disc. 
+
+The heart is a functional syncytium (not to be confused with a true "syncytium" in which all the cells are fused together, sharing the same plasma membrane as in skeletal muscle). 
+
+In a functional syncytium, electrical impulses propagate freely between cells in every direction, so that the myocardium functions as a single contractile unit. 
+
+This property allows rapid, synchronous depolarization of the myocardium. 
+
+While advantageous under normal circumstances, this property can be detrimental, as it has potential to allow the propagation of incorrect electrical signals. 
+
+These gap junctions can close to isolate damaged or dying tissue, as in a myocardial infarction (heart attack).
+
+
+=== Development ===
+
+Embryologic evidence of generation of the cardiac conduction system illuminates the respective roles of this specialized set of cells. 
+
+Innervation of the heart begins with a brain only centered parasympathetic cholinergic first order. 
+
+It is then followed by rapid growth of a second order sympathetic adrenergic system arising from the formation of the thoracic spinal ganglia. 
+
+The third order of electrical influence of the heart is derived from the vagus nerve as the other peripheral organs form.
+
+
+== Function ==
+
+
+
+=== Action potential generation ===
+
+
+Cardiac muscle has some similarities to neurons and skeletal muscle, as well as important unique properties. 
+
+Like a neuron, a given myocardial cell has a negative membrane potential when at rest. 
+
+Stimulation above a threshold value induces the opening of voltage-gated ion channels and a flood of cations into the cell. 
+
+The positively charged ions entering the cell cause the depolarization characteristic of an action potential. 
+
+Like skeletal muscle, depolarization causes the opening of voltage-gated calcium channels and release of Ca2+ from the t-tubules. 
+
+This influx of calcium causes calcium-induced calcium release from the sarcoplasmic reticulum, and free Ca2+ causes muscle contraction. 
+
+After a delay, potassium channels reopen, and the resulting flow of K+ out of the cell causes repolarization to the resting state.There are important physiological differences between nodal cells and ventricular cells; the specific differences in ion channels and mechanisms of polarization give rise to unique properties of SA node cells, most importantly the spontaneous depolarizations necessary for the SA node's pacemaker activity.
+
+
+=== Requirements for effective pumping ===
+
+In order to maximize efficiency of contractions and cardiac output, the conduction system of the heart has:
+
+Substantial atrial to ventricular delay. 
+
+This will allow the atria to completely empty their contents into the ventricles; simultaneous contraction would cause inefficient filling and backflow. 
+
+The atria are electrically isolated from the ventricles, connected only via the AV node which briefly delays the signal.
+Coordinated contraction of ventricular cells. 
+
+The ventricles must maximize systolic pressure to force blood through the circulation, so all the ventricular cells must work together.
+Ventricular contraction begins at the apex of the heart, progressing upwards to eject blood into the great arteries. 
+
+Contraction that squeezes blood towards the exit is more efficient than a simple squeeze from all directions. 
+
+Although the ventricular stimulus originates from the AV node in the wall separating the atria and ventricles, the Bundle of His conducts the signal to the apex.
+Depolarization propagates through cardiac muscle very rapidly. 
+
+Cells of the ventricles contract nearly simultaneously.
+The action potentials of cardiac muscle are unusually sustained. 
+
+This prevents premature relaxation, maintaining initial contraction until the entire myocardium has had time to depolarize and contract.
+Absence of tetany. 
+
+After contracting, the heart must relax to fill up again. 
+
+Sustained contraction of the heart without relaxation would be fatal, and this is prevented by a temporary inactivation of certain ion channels.
+
+
+== ECG ==
+
+
+An electrocardiogram is a recording of the electrical activity of the heart.
+
+
+=== SA node: P wave ===
+
+Under normal conditions, electrical activity is spontaneously generated by the SA node, the cardiac pacemaker. 
+
+This electrical impulse is propagated throughout the right atrium, and through Bachmann's bundle to the left atrium, stimulating the myocardium of the atria to contract. 
+
+The conduction of the electrical impulses throughout the atria is seen on the ECG as the P wave.As the electrical activity is spreading throughout the atria, it travels via specialized pathways, known as internodal tracts, from the SA node to the AV node.
+
+
+=== AV node and bundles: PR interval ===
+
+The AV node functions as a critical delay in the conduction system. 
+
+Without this delay, the atria and ventricles would contract at the same time, and blood wouldn't flow effectively from the atria to the ventricles. 
+
+The delay in the AV node forms much of the PR segment on the ECG, and part of atrial repolarization can be represented by the PR segment.
+The distal portion of the AV node is known as the bundle of His. 
+
+The bundle of His splits into two branches in the interventricular septum: the left bundle branch and the right bundle branch. 
+
+The left bundle branch activates the left ventricle, while the right bundle branch activates the right ventricle.
+The left bundle branch is short, splitting into the left anterior fascicle and the left posterior fascicle. 
+
+The left posterior fascicle is relatively short and broad, with dual blood supply, making it particularly resistant to ischemic damage. 
+
+The left posterior fascicle transmits impulses to the papillary muscles, leading to mitral valve closure. 
+
+As the left posterior fascicle is shorter and broader than the right, impulses reach the papillary muscles just prior to depolarization, and therefore contraction, of the left ventricle myocardium. 
+
+This allows pre-tensioning of the chordae tendinae, increasing the resistance to flow through the mitral valve during left ventricular contraction. 
+
+This mechanism works in the same manner as pre-tensioning of car seatbelts.
+
+
+=== Purkinje fibers/ventricular myocardium: QRS complex ===
+
+The two bundle branches taper out to produce numerous Purkinje fibers, which stimulate individual groups of myocardial cells to contract.The spread of electrical activity through the ventricular myocardium produces the QRS complex on the ECG.
+Atrial repolarization occurs and is masked during the QRS complex by ventricular depolarization on the ECG.
+
+
+=== Ventricular repolarization ===
+
+The last event of the cycle is the repolarization of the ventricles. 
+
+It is the restoring of the resting state. 
+
+In the ECG, repolarization includes the J point, ST segment, and T and U waves.The transthoracically measured PQRS portion of an electrocardiogram is chiefly influenced by the sympathetic nervous system. 
+
+The T (and occasionally U) waves are chiefly influenced by the parasympathetic nervous system guided by integrated brainstem control from the vagus nerve and the thoracic spinal accessory ganglia.
+An impulse (action potential) that originates from the SA node at a relative rate of 60-100 bpm is known as normal sinus rhythm. 
+
+If SA nodal impulses occur at a rate less than 60 bpm, the heart rhythm is known as sinus bradycardia. 
+
+If SA nodal impulses occur at a rate exceeding 100bpm, the consequent rapid heart rate is sinus tachycardia. 
+
+These conditions are not necessarily bad symptoms, however. 
+
+Trained athletes, for example, usually show heart rates slower than 60bpm when not exercising. 
+
+If the SA node fails to initialize, the AV junction can take over as the main pacemaker of the heart. 
+
+The AV junction consists of the AV node, the bundle of His, and the surrounding area; it has a regular rate of 40 to 60bpm. 
+
+These "junctional" rhythms are characterized by a missing or inverted P wave. 
+
+If both the SA node and the AV junction fail to initialize the electrical impulse, the ventricles can fire the electrical impulses themselves at a rate of 20 to 40 bpm and will have a QRS complex of greater than 120 ms. 
+
+This is necessary for the heart to be in good function.
+
+
+== Clinical significance ==
+
+
+
+=== Arrhythmia ===
+
+
+An "arrhythmia" refers to an abnormal rhythm or speed of rhythm of the heartbeat. 
+
+An abnormal rhythm or speed is defined as one that is not physiological.
+
+
+==== Speed ====
+
+A resting heart that beats slower than 60 beats per minute, or faster than 100 beats per minute, is regarded as having an arrhythmia. 
+
+A heartbeat slower than 60 beats per minute is known as bradycardia, and a heartbeat faster than 100 is known as a tachycardia.
+
+
+==== Physiological ====
+Some individuals, for example trained athletes, may have heart beats slower than 60 beats per minute when not exercising. 
+
+If the SA node fails to initialize, the AV junction can take over as the main pacemaker of the heart. 
+
+The AV junction "surrounds" the AV node (the AV node is not able to initialize its own impulses) and has a regular rate of 40 to 60 bpm. 
+
+These "junctional" rhythms are characterized by a missing or inverted P wave. 
+
+If both the SA node and the AV junction fail to initialize the electrical impulse, the ventricles can fire the electrical impulses themselves at a rate of 20 to 40 bpm and will have a QRS complex of greater than 120 ms.
+
+
+=== Pacemakers ===
+
+
+In the event of arrhythmia, a pacemaker may be surgically inserted into the conduction system.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Electrical_conduction_system_of_the_heart

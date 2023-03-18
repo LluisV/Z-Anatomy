@@ -1,0 +1,792 @@
+
+
+VESTIBULOSPINAL TRACT
+
+
+The vestibulospinal tract is a neural tract in the central nervous system. 
+
+Specifically, it is a component of the extrapyramidal system and is classified as a component of the medial pathway. 
+
+Like other descending motor pathways, the vestibulospinal fibers of the tract relay information from nuclei to motor neurons.  The vestibular nuclei receive information through the vestibulocochlear nerve about changes in the orientation of the head. 
+
+The nuclei relay motor commands through the vestibulospinal tract. 
+
+The function of these motor commands is to alter muscle tone, extend, and change the position of the limbs and head with the goal of supporting posture and maintaining balance of the body and head.
+
+
+== Classification ==
+
+
+The vestibulospinal tract is part of the "extrapyramidal system" of the central nervous system. 
+
+In human anatomy, the extrapyramidal system is a neural network located in the brain that is part of the motor system involved in the coordination of movement.  The system is called "extrapyramidal" to distinguish it from the tracts of the motor cortex that reach their targets by traveling through the "pyramids" of the medulla. 
+
+The pyramidal pathways, such as corticospinal and some corticobulbar tracts, may directly innervate motor neurons of the spinal cord or brainstem. 
+
+This is seen in anterior (ventral) horn cells or certain cranial nerve nuclei. 
+
+Whereas the extrapyramidal system centers around the modulation and regulation through indirect control of anterior (ventral) horn cells. 
+
+The extrapyramidal subcortical nuclei include the substantia nigra, caudate, putamen, globus pallidus, thalamus, red nucleus and subthalamic nucleus.The traditional thought was that the extrapyramidal system operated entirely independently of the pyramidal system. 
+
+However, more recent research has provided a greater understanding of the integration of motor control. 
+
+Motor control from both the pyramidal and extrapyramidal systems have extensive feedback loops and are heavily interconnected with each other. 
+
+A more appropriate classification of motor nuclei and tracts would be by their functions. 
+
+When broken down by function there are two major pathways: medial and lateral. 
+
+The medial pathway helps control gross movements of the proximal limbs and trunk. 
+
+The lateral pathway helps control precise movement of the distal portion of limbs. 
+
+The vestibulospinal tract, as well as tectospinal and reticulospinal tracts are examples of components of the medial pathway.
+
+
+== Function ==
+
+The vestibulospinal tract is part of the vestibular system in the CNS. 
+
+The primary role of the vestibular system is to maintain head and eye coordination, upright posture and balance, and conscious realization of spatial orientation and motion. 
+
+The vestibular system is able to respond correctly by recording sensory information from hairs cells in the labyrinth of the inner ear. 
+
+Then the nuclei receiving these signals project out to the extraocular muscles, spinal cord, and cerebral cortex to execute these functions.One of these projections, the vestibulospinal tract, is responsible for upright posture and head stabilization. 
+
+When the vestibular sensory neurons detect small movements of the body, the vestibulospinal tract commands motor signals to specific muscles to counteract these movements and re-stabilize the body.
+The vestibulospinal tract is an upper motor neuron tract consisting of two sub-pathways:
+
+The medial vestibulospinal tract projects bilaterally from the medial vestibular nucleus within the medial longitudinal fasciculus to the ventral horns in the upper cervical cord (C6 vertebra). 
+
+It promotes stabilization of head position by innervating the neck muscles, which helps with head coordination and eye movement. 
+
+Its function is similar to that of the tectospinal tract.The lateral vestibulospinal tract provides excitatory signals to interneurons, which relay the signal to the motor neurons in antigravity muscles. 
+
+These antigravity muscles are extensor muscles in the legs that help maintain upright and balanced posture.
+
+
+== Anatomy ==
+
+
+
+=== Lateral vestibulospinal tract ===
+
+The lateral vestibulospinal tract is a group of descending extrapyramidal motor neurons, or efferent nerve fibers. 
+
+This tract is found in the lateral funiculus, a bundle of nerve roots in the spinal cord. 
+
+The lateral vestibulospinal tract originates in the lateral vestibular nucleus or Deiters’ nucleus in the pons. 
+
+The Deiters' nucleus extends from pontomedullary junction to the level of abducens nerve nucleus in the pons.Lateral vestibulospinal fibers descend uncrossed, or ipsilateral, in the anterior portion of the lateral funiculus of the spinal cord. 
+
+Fibers run down the total length of the spinal cord and terminate at the interneurons of laminae VII and VIII. 
+
+Additionally, some neurons terminate directly on the dendrites of alpha motor neurons in the same laminae.
+
+
+=== Medial vestibulospinal tract ===
+
+The medial vestibulospinal tract is a group of descending extrapyramidal motor neurons, or efferent fibers found in the anterior funiculus, a bundle of nerve roots in the spinal cord. 
+
+The medial vestibulospinal tract originates in the medial vestibular nucleus or Schwalbe's nucleus. 
+
+The Schwalbe's nucleus extends from the rostral end of the inferior olivary nucleus of the medulla oblongata to the caudal portion of the pons.Medial vestibulospinal fibers join with the ipsilateral and contralateral medial longitudinal fasciculus, and descend in the anterior funiculus of the spinal cord. 
+
+Fibers run down to the anterior funiculus to the cervical spinal cord segments and terminate on neurons of laminae VII and VIII. 
+
+Unlike the lateral vestibulospinal tract, the medial vestibulospinal tract innervates muscles that support the head. 
+
+As a result, medial vestibulospinal fibers run down only to the cervical segments of the cord.
+
+
+== Reflexes ==
+
+The vestibulospinal reflex uses the vestibular organs as well as skeletal muscle in order to maintain balance, posture, and stability in an environment with gravity. 
+
+These reflexes can be further broken down by timing into a dynamic reflex, static reflex or tonic reflex. 
+
+It can also be categorized by the sensory input as either canals, otolith, or both. 
+
+The term vestibulospinal reflex, is most commonly used when the sensory input evokes a response from the muscular system below the neck. 
+
+These reflexes are important in the maintenance of homeostasis.
+
+
+=== Example of vestibulospinal reflex ===
+
+The head is tilted to one side which stimulates both the canals and the otoliths.
+This movement stimulates the vestibular nerve as well as the vestibular nucleus.
+These impulses are transmitted down both the lateral and medial vestibulospinal tracts to the spinal cord.
+The spinal cord induces extensor effects in the muscle on the side of the neck to which the head is bent, and flexor effects in the muscle in the side of the neck away from the direction of the displaced head.
+
+
+=== Tonic labyrinthine reflex ===
+
+The tonic labyrinthine reflex (TLR) is a reflex that is present in newborn babies directly after birth and should be fully inhibited by 3.5 years. 
+
+This reflex helps the baby master head and neck movements outside of the womb as well as the concept of gravity. 
+
+Increased muscle tone, development of the proprioceptive and vestibular senses and opportunities to practice with balance are all consequences of this reflex. 
+
+During early childhood, the TLR matures into more developed vestibulospinal reflexes to help with posture, head alignment and balance.The tonic labyrinthine reflex is found in two forms.
+
+Forward: When the head bends forward, the whole body, arms, legs and torso curl together to form the fetal position.
+Backwards: When the head is bent backward, the whole body, arms, legs and torso straighten and extend.
+
+
+=== Righting reflex ===
+
+The righting reflex is another type of reflex. 
+
+This reflex positions the head or body back into its "normal" position, in response to a change in head or body position. 
+
+A common example of this reflex is the cat righting reflex, which allows them to orient themselves in order to land on their feet. 
+
+This reflex is initiated by sensory information from the vestibular, visual, and the somatosensory systems and is therefore not only a vestibulospinal reflex.
+
+
+== Damage ==
+
+A typical person sways from side to side when the eyes are closed. 
+
+This is the result of the vestibulospinal reflex working correctly. 
+
+When an individual sways to the left side, the left lateral vestibulospinal tract is activated to bring the body back to midline. 
+
+Generally damage to the vestibulospinal system results in ataxia and postural instability.  For example, if unilateral damage occurs to the vestibulocochlear nerve, lateral vestibular nucleus, semicircular canals or lateral vestibulospinal tract, the person will likely sway to that side and fall when walking. 
+
+This occurs because the healthy side "over powers" the weak side in a way that will cause the person to veer and fall towards the injured side. 
+
+Potential early onset of damage can be witnessed through a positive Romberg's test. 
+
+Patients with bilateral or unilateral vestibular system damage will likely regain postural stability over weeks and months through a process called vestibular compensation. 
+
+This process is likely related to a greater reliance on other sensory information.
+
+
+== Current and future research ==
+
+Recent research has shown that damage to the medial vestibulospinal tract alters vestibular evoked myogenic potential in the sternocleidomastoid muscle (SCM), which are involved in head rotation. 
+
+The vestibular evoked myogenic potential is an assessment of the sacculo-collic reflex and a test of function in otolithic organs. 
+
+Also, lesions to the tract impair ascending efferent fiber signaling, which led to nystagmus.
+There has also been recent research to determine if there is a difference in vestibulospinal function when there is damage to the superior vestibular nerve as opposed to the inferior vestibular nerve and vice versa. 
+
+They defined vestibulospinal function by ability to have proper posture, as well as by self reported dizziness. 
+
+The results were determined by using the Sensory Organization Test (SOT) of the computerized dynamic posturography (CDP) as well as the dizziness handicap inventory (DHI). 
+
+It was determined that subjects with damaged inferior spinal nerve performed worse on the posture test than the control group, but performed better than patients with superior vestibulo nerve damage. 
+
+With this they determined that the superior vestibular nerve plays a larger role in balance than the inferior vestibulo nerve but that they both play a role. 
+
+In terms of the DHI it was concluded that there was no difference between the patients with the two different impairments.
+Vestibular compensation after unilateral or bilateral vestibular system damage can be accomplished by sensory addition and sensory substitution. 
+
+Sensory substitution occurs when any remaining vestibular function, vision, or light touch of a stable surface substitute for the lost function. 
+
+Postural sway and gait ataxia can be reduced by augmenting sensory information for balance control. 
+
+Recent research has shown that as little as 100 grams of light touch of a fingertip can provide enough sensory reference to reduce sway and ataxia during gait.
+
+
+
+https://en.wikipedia.org/wiki/Vestibulospinal_tract
+;;;ES;;;
+
+
+
+TRACTO VESTÍBULOESPINAL
+
+
+El tracto vestibuloespinal es un tracto neural en el sistema nervioso central.
+
+Específicamente, es un componente del sistema extrapiramidal y se clasifica como un componente de la vía medial.
+
+Al igual que otras vías motoras descendentes, las fibras vestibuloespinales del tracto transmiten información desde los núcleos hasta las neuronas motoras. Los núcleos vestibulares reciben información a través del nervio vestibulococlear sobre cambios en la orientación de la cabeza.
+
+El motor de retransmisión de núcleos manda a través del tracto vestibuloespinal.
+
+La función de estos comandos motores es alterar el tono muscular, extender y cambiar la posición de las extremidades y la cabeza con el objetivo de apoyar la postura y mantener el equilibrio del cuerpo y la cabeza.
+
+
+== Clasificación ==
+
+
+El tracto vestibuloespinal es parte del "sistema extrapiramidal" del sistema nervioso central.
+
+En anatomía humana, el sistema extrapiramidal es una red neuronal ubicada en el cerebro que forma parte del sistema motor involucrado en la coordinación del movimiento. El sistema se llama "extrapiramidal" para distinguirlo de las vías de la corteza motora que alcanzan sus objetivos viajando a través de las "pirámides" de la médula.
+
+Las vías piramidales, como las vías corticoespinal y algunas corticobulbares, pueden inervar directamente las neuronas motoras de la médula espinal o del tronco del encéfalo.
+
+Esto se ve en las células del asta anterior (ventral) o en ciertos núcleos de los nervios craneales.
+
+Mientras que el sistema extrapiramidal se centra en la modulación y regulación a través del control indirecto de las células del asta anterior (ventral).
+
+Los núcleos subcorticales extrapiramidales incluyen la sustancia negra, el caudado, el putamen, el globo pálido, el tálamo, el núcleo rojo y el núcleo subtalámico. El pensamiento tradicional era que el sistema extrapiramidal funcionaba de manera totalmente independiente del sistema piramidal.
+
+Sin embargo, investigaciones más recientes han proporcionado una mayor comprensión de la integración del control motor.
+
+El control motor de los sistemas piramidal y extrapiramidal tiene extensos bucles de retroalimentación y están fuertemente interconectados entre sí.
+
+Una clasificación más apropiada de los núcleos y tractos motores sería por sus funciones.
+
+Cuando se desglosa por función, hay dos vías principales: medial y lateral.
+
+La vía medial ayuda a controlar los movimientos gruesos de las extremidades proximales y el tronco.
+
+La vía lateral ayuda a controlar el movimiento preciso de la porción distal de las extremidades.
+
+El tracto vestibuloespinal, así como los tractos tectoespinal y reticuloespinal son ejemplos de componentes de la vía medial.
+
+
+== Función ==
+
+El tracto vestibuloespinal es parte del sistema vestibular en el SNC.
+
+La función principal del sistema vestibular es mantener la coordinación de la cabeza y los ojos, la postura y el equilibrio erguidos, y la realización consciente de la orientación espacial y el movimiento.
+
+El sistema vestibular puede responder correctamente al registrar información sensorial de las células ciliadas en el laberinto del oído interno.
+
+Luego, los núcleos que reciben estas señales se proyectan hacia los músculos extraoculares, la médula espinal y la corteza cerebral para ejecutar estas funciones. Una de estas proyecciones, el tracto vestibuloespinal, es responsable de la postura erguida y la estabilización de la cabeza.
+
+Cuando las neuronas sensoriales vestibulares detectan pequeños movimientos del cuerpo, el tracto vestibuloespinal envía señales motoras a músculos específicos para contrarrestar estos movimientos y volver a estabilizar el cuerpo.
+El tracto vestibuloespinal es un tracto de neurona motora superior que consta de dos subvías:
+
+El tracto vestibuloespinal medial se proyecta bilateralmente desde el núcleo vestibular medial dentro del fascículo longitudinal medial hasta los cuernos ventrales en la médula cervical superior (vértebra C6).
+
+Promueve la estabilización de la posición de la cabeza al inervar los músculos del cuello, lo que ayuda con la coordinación de la cabeza y el movimiento de los ojos.
+
+Su función es similar a la del tracto tectoespinal. El tracto vestibuloespinal lateral proporciona señales excitatorias a las interneuronas, que transmiten la señal a las neuronas motoras en los músculos antigravedad.
+
+Estos músculos antigravedad son músculos extensores de las piernas que ayudan a mantener una postura erguida y equilibrada.
+
+
+== Anatomía ==
+
+
+
+=== Tracto vestibuloespinal lateral ===
+
+El tracto vestibuloespinal lateral es un grupo de neuronas motoras extrapiramidales descendentes o fibras nerviosas eferentes.
+
+Este tracto se encuentra en el funículo lateral, un haz de raíces nerviosas en la médula espinal.
+
+El tracto vestibuloespinal lateral se origina en el núcleo vestibular lateral o núcleo de Deiters en la protuberancia.
+
+El núcleo de Deiters se extiende desde la unión pontomedular hasta el nivel del núcleo del nervio motor ocular externo en la protuberancia. Las fibras vestibuloespinales laterales descienden sin cruzar, o ipsilaterales, en la porción anterior del funículo lateral de la médula espinal.
+
+Las fibras recorren toda la longitud de la médula espinal y terminan en las interneuronas de las láminas VII y VIII.
+
+Además, algunas neuronas terminan directamente en las dendritas de las neuronas motoras alfa en las mismas láminas.
+
+
+=== Tracto vestibuloespinal medial ===
+
+El tracto vestibuloespinal medial es un grupo de neuronas motoras extrapiramidales descendentes, o fibras eferentes que se encuentran en el funículo anterior, un haz de raíces nerviosas en la médula espinal.
+
+El tracto vestibuloespinal medial se origina en el núcleo vestibular medial o núcleo de Schwalbe.
+
+El núcleo de Schwalbe se extiende desde el extremo rostral del núcleo olivar inferior del bulbo raquídeo hasta la porción caudal de la protuberancia. Las fibras vestibuloespinales mediales se unen con el fascículo longitudinal medial ipsolateral y contralateral, y descienden en el funículo anterior de la médula espinal.
+
+Las fibras descienden hasta el funículo anterior a los segmentos de la médula espinal cervical y terminan en las neuronas de las láminas VII y VIII.
+
+A diferencia del tracto vestibuloespinal lateral, el tracto vestibuloespinal medial inerva los músculos que sostienen la cabeza.
+
+Como resultado, las fibras vestibuloespinales mediales descienden sólo hasta los segmentos cervicales de la médula.
+
+
+== Reflejos ==
+
+El reflejo vestibuloespinal utiliza los órganos vestibulares y el músculo esquelético para mantener el equilibrio, la postura y la estabilidad en un entorno con gravedad.
+
+Estos reflejos se pueden dividir aún más mediante el tiempo en un reflejo dinámico, un reflejo estático o un reflejo tónico.
+
+También se puede clasificar por la entrada sensorial como canales, otolitos o ambos.
+
+El término reflejo vestibuloespinal se usa más comúnmente cuando la entrada sensorial evoca una respuesta del sistema muscular debajo del cuello.
+
+Estos reflejos son importantes en el mantenimiento de la homeostasis.
+
+
+=== Ejemplo de reflejo vestibuloespinal ===
+
+La cabeza se inclina hacia un lado, lo que estimula tanto los canales como los otolitos.
+Este movimiento estimula tanto el nervio vestibular como el núcleo vestibular.
+Estos impulsos se transmiten por los tractos vestibuloespinales lateral y medial hasta la médula espinal.
+La médula espinal induce efectos extensores en el músculo del lado del cuello hacia el que se dobla la cabeza y efectos flexores en el músculo del lado del cuello opuesto a la dirección de la cabeza desplazada.
+
+
+=== Reflejo laberíntico tónico ===
+
+El reflejo laberíntico tónico (TLR) es un reflejo que está presente en los recién nacidos directamente después del nacimiento y debe inhibirse por completo a los 3,5 años.
+
+Este reflejo ayuda al bebé a dominar los movimientos de la cabeza y el cuello fuera del útero, así como el concepto de gravedad.
+
+El aumento del tono muscular, el desarrollo de los sentidos propioceptivo y vestibular y las oportunidades para practicar el equilibrio son todas consecuencias de este reflejo.
+
+Durante la primera infancia, el TLR madura y se convierte en reflejos vestibuloespinales más desarrollados para ayudar con la postura, la alineación de la cabeza y el equilibrio. El reflejo laberíntico tónico se encuentra en dos formas.
+
+Hacia adelante: cuando la cabeza se inclina hacia adelante, todo el cuerpo, los brazos, las piernas y el torso se enroscan para formar la posición fetal.
+Hacia atrás: cuando la cabeza se inclina hacia atrás, todo el cuerpo, brazos, piernas y torso se endereza y extiende.
+
+
+=== Reflejo de enderezamiento ===
+
+El reflejo de enderezamiento es otro tipo de reflejo.
+
+Este reflejo vuelve a colocar la cabeza o el cuerpo en su posición "normal", en respuesta a un cambio en la posición de la cabeza o el cuerpo.
+
+Un ejemplo común de este reflejo es el reflejo de enderezamiento de los gatos, que les permite orientarse para aterrizar sobre sus pies.
+
+Este reflejo es iniciado por información sensorial de los sistemas vestibular, visual y somatosensorial y, por lo tanto, no es solo un reflejo vestibuloespinal.
+
+
+== Daño ==
+
+Una persona típica se balancea de lado a lado cuando los ojos están cerrados.
+
+Este es el resultado del correcto funcionamiento del reflejo vestibuloespinal.
+
+Cuando un individuo se balancea hacia el lado izquierdo, el tracto vestibuloespinal lateral izquierdo se activa para devolver el cuerpo a la línea media.
+
+Generalmente, el daño al sistema vestibuloespinal resulta en ataxia e inestabilidad postural. Por ejemplo, si se produce daño unilateral en el nervio vestibulococlear, el núcleo vestibular lateral, los canales semicirculares o el tracto vestibuloespinal lateral, es probable que la persona se balancee hacia ese lado y se caiga al caminar.
+
+Esto ocurre porque el lado sano "sobrepodera" al lado débil de una manera que hará que la persona se desvíe y caiga hacia el lado lesionado.
+
+El posible inicio temprano del daño se puede observar a través de una prueba de Romberg positiva.
+
+Es probable que los pacientes con daño del sistema vestibular bilateral o unilateral recuperen la estabilidad postural durante semanas y meses a través de un proceso llamado compensación vestibular.
+
+Es probable que este proceso esté relacionado con una mayor dependencia de otra información sensorial.
+
+
+== Investigaciones actuales y futuras ==
+
+Investigaciones recientes han demostrado que el daño al tracto vestibuloespinal medial altera el potencial miogénico evocado vestibular en el músculo esternocleidomastoideo (ECM), que está involucrado en la rotación de la cabeza.
+
+El potencial miogénico evocado vestibular es una evaluación del reflejo sacculocólico y una prueba de función en los órganos otolíticos.
+
+Además, las lesiones en el tracto alteran la señalización de las fibras eferentes ascendentes, lo que provoca nistagmo.
+También se han realizado investigaciones recientes para determinar si hay una diferencia en la función vestibuloespinal cuando hay daño en el nervio vestibular superior en oposición al nervio vestibular inferior y viceversa.
+
+Definieron la función vestibuloespinal por la capacidad de tener una postura adecuada, así como por los mareos autoinformados.
+
+Los resultados se determinaron utilizando la prueba de organización sensorial (SOT) de la posturografía dinámica computarizada (CDP), así como el inventario de discapacidad por mareo (DHI).
+
+Se determinó que los sujetos con el nervio espinal inferior dañado se desempeñaron peor en la prueba de postura que el grupo de control, pero se desempeñaron mejor que los pacientes con daño del nervio vestibular superior.
+
+Con esto determinaron que el nervio vestibular superior juega un papel más importante en el equilibrio que el nervio vestibulo inferior pero que ambos juegan un papel.
+
+En cuanto al DHI, se concluyó que no había diferencia entre los pacientes con las dos deficiencias diferentes.
+La compensación vestibular después del daño del sistema vestibular unilateral o bilateral puede lograrse mediante la adición sensorial y la sustitución sensorial.
+
+La sustitución sensorial ocurre cuando cualquier función vestibular remanente, visión o toque ligero de una superficie estable reemplaza la función perdida.
+
+El balanceo postural y la ataxia de la marcha se pueden reducir aumentando la información sensorial para el control del equilibrio.
+
+Investigaciones recientes han demostrado que tan solo 100 gramos de toque ligero con la punta de un dedo pueden proporcionar suficiente referencia sensorial para reducir el balanceo y la ataxia durante la marcha.
+
+
+
+https://en.wikipedia.org/wiki/Vestibuloespinal_tract
+
+;;;PT;;;
+
+
+
+VESTIBULOSPINAL
+
+
+O trato vestibuloespinhal é um trato neural no sistema nervoso central.
+
+Especificamente, é um componente do sistema extrapiramidal e é classificado como um componente da via medial.
+
+Como outras vias motoras descendentes, as fibras vestibuloespinais do trato transmitem informações dos núcleos para os neurônios motores. Os núcleos vestibulares recebem informações através do nervo vestibulococlear sobre mudanças na orientação da cabeça.
+
+Os núcleos transmitem comandos motores através do trato vestíbulo-espinhal.
+
+A função desses comandos motores é alterar o tônus ​​muscular, estender e mudar a posição dos membros e da cabeça com o objetivo de apoiar a postura e manter o equilíbrio do corpo e da cabeça.
+
+
+== Classificação ==
+
+
+O trato vestíbulo-espinhal faz parte do "sistema extrapiramidal" do sistema nervoso central.
+
+Na anatomia humana, o sistema extrapiramidal é uma rede neural localizada no cérebro que faz parte do sistema motor envolvido na coordenação do movimento. O sistema é chamado de "extrapiramidal" para distingui-lo dos tratos do córtex motor que atingem seus alvos viajando pelas "pirâmides" da medula.
+
+As vias piramidais, como a corticoespinhal e alguns tratos corticobulbares, podem inervar diretamente os neurônios motores da medula espinhal ou do tronco encefálico.
+
+Isso é visto em células do corno anterior (ventral) ou certos núcleos de nervos cranianos.
+
+Enquanto o sistema extrapiramidal centra-se na modulação e regulação através do controle indireto das células do corno anterior (ventral).
+
+Os núcleos subcorticais extrapiramidais incluem a substância negra, caudado, putâmen, globo pálido, tálamo, núcleo rubro e núcleo subtalâmico. O pensamento tradicional era que o sistema extrapiramidal operava inteiramente independentemente do sistema piramidal.
+
+No entanto, pesquisas mais recentes proporcionaram uma maior compreensão da integração do controle motor.
+
+O controle motor de ambos os sistemas piramidal e extrapiramidal possui extensos circuitos de feedback e estão fortemente interconectados entre si.
+
+Uma classificação mais adequada dos núcleos e tratos motores seria por suas funções.
+
+Quando divididos por função, existem duas vias principais: medial e lateral.
+
+A via medial ajuda a controlar os movimentos grosseiros dos membros proximais e do tronco.
+
+A via lateral ajuda a controlar o movimento preciso da porção distal dos membros.
+
+O trato vestíbulo-espinhal, assim como os tratos tecto-espinhal e reticuloespinhal são exemplos de componentes da via medial.
+
+
+== Função ==
+
+O trato vestibuloespinhal faz parte do sistema vestibular no SNC.
+
+O papel primário do sistema vestibular é manter a coordenação da cabeça e dos olhos, postura ereta e equilíbrio, e percepção consciente da orientação espacial e do movimento.
+
+O sistema vestibular é capaz de responder corretamente registrando informações sensoriais das células ciliadas no labirinto da orelha interna.
+
+Em seguida, os núcleos que recebem esses sinais projetam-se para os músculos extraoculares, medula espinhal e córtex cerebral para executar essas funções. Uma dessas projeções, o trato vestíbulo-espinhal, é responsável pela postura ereta e estabilização da cabeça.
+
+Quando os neurônios sensoriais vestibulares detectam pequenos movimentos do corpo, o trato vestíbulo-espinhal comanda sinais motores para músculos específicos para neutralizar esses movimentos e re-estabilizar o corpo.
+O trato vestibuloespinhal é um trato do neurônio motor superior que consiste em duas subvias:
+
+O trato vestíbulo-espinhal medial projeta-se bilateralmente do núcleo vestibular medial dentro do fascículo longitudinal medial para os cornos ventrais na medula cervical superior (vértebra C6).
+
+Promove a estabilização da posição da cabeça inervando os músculos do pescoço, o que ajuda na coordenação da cabeça e no movimento dos olhos.
+
+Sua função é semelhante à do trato tectoespinhal. O trato vestibuloespinhal lateral fornece sinais excitatórios aos interneurônios, que retransmitem o sinal aos neurônios motores nos músculos antigravitacionais.
+
+Esses músculos antigravitacionais são músculos extensores das pernas que ajudam a manter a postura ereta e equilibrada.
+
+
+== Anatomia ==
+
+
+
+=== Trato vestíbulo-espinhal lateral ===
+
+O trato vestibuloespinhal lateral é um grupo de neurônios motores extrapiramidais descendentes, ou fibras nervosas eferentes.
+
+Este trato é encontrado no funículo lateral, um feixe de raízes nervosas na medula espinhal.
+
+O trato vestíbulo-espinhal lateral origina-se no núcleo vestibular lateral ou núcleo de Deiters na ponte.
+
+O núcleo de Deiters se estende da junção pontomedular até o nível do núcleo do nervo abducente na ponte. As fibras vestibuloespinais laterais descem não cruzadas, ou ipsilaterais, na porção anterior do funículo lateral da medula espinhal.
+
+As fibras percorrem todo o comprimento da medula espinhal e terminam nos interneurônios das lâminas VII e VIII.
+
+Além disso, alguns neurônios terminam diretamente nos dendritos dos neurônios motores alfa nas mesmas lâminas.
+
+
+=== Trato vestíbulo-espinhal medial ===
+
+O trato vestíbulo-espinhal medial é um grupo de neurônios motores extrapiramidais descendentes, ou fibras eferentes encontrados no funículo anterior, um feixe de raízes nervosas na medula espinhal.
+
+O trato vestíbulo-espinhal medial origina-se no núcleo vestibular medial ou núcleo de Schwalbe.
+
+O núcleo de Schwalbe estende-se da extremidade rostral do núcleo olivar inferior da medula oblonga até a porção caudal da ponte. As fibras vestibuloespinhais mediais unem-se ao fascículo longitudinal medial ipsilateral e contralateral e descem no funículo anterior da medula espinhal.
+
+As fibras descem para o funículo anterior até os segmentos cervicais da medula espinhal e terminam nos neurônios das lâminas VII e VIII.
+
+Ao contrário do trato vestíbulo-espinhal lateral, o trato vestíbulo-espinhal medial inerva os músculos que sustentam a cabeça.
+
+Como resultado, as fibras vestibuloespinais mediais descem apenas para os segmentos cervicais da medula.
+
+
+== Reflexos ==
+
+O reflexo vestíbulo-espinhal usa os órgãos vestibulares e também o músculo esquelético para manter o equilíbrio, a postura e a estabilidade em um ambiente com gravidade.
+
+Esses reflexos podem ser divididos em um reflexo dinâmico, reflexo estático ou reflexo tônico.
+
+Também pode ser categorizado pela entrada sensorial como canais, otólitos ou ambos.
+
+O termo reflexo vestibuloespinhal é mais comumente usado quando a entrada sensorial evoca uma resposta do sistema muscular abaixo do pescoço.
+
+Esses reflexos são importantes na manutenção da homeostase.
+
+
+=== Exemplo de reflexo vestibuloespinhal ===
+
+A cabeça é inclinada para um lado, o que estimula os canais e os otólitos.
+Este movimento estimula o nervo vestibular, bem como o núcleo vestibular.
+Esses impulsos são transmitidos pelos tratos vestibuloespinais lateral e medial para a medula espinhal.
+A medula espinhal induz efeitos extensores no músculo do lado do pescoço para o qual a cabeça está inclinada, e efeitos flexores no músculo do lado do pescoço longe da direção da cabeça deslocada.
+
+
+=== Reflexo labiríntico tônico ===
+
+O reflexo labiríntico tônico (TLR) é um reflexo que está presente em recém-nascidos logo após o nascimento e deve ser totalmente inibido aos 3,5 anos.
+
+Esse reflexo ajuda o bebê a dominar os movimentos da cabeça e do pescoço fora do útero, bem como o conceito de gravidade.
+
+Aumento do tônus ​​muscular, desenvolvimento dos sentidos proprioceptivo e vestibular e oportunidades para praticar com equilíbrio são consequências desse reflexo.
+
+Durante a primeira infância, o TLR amadurece em reflexos vestibuloespinais mais desenvolvidos para ajudar na postura, alinhamento da cabeça e equilíbrio. O reflexo labiríntico tônico é encontrado em duas formas.
+
+Para a frente: Quando a cabeça se inclina para a frente, todo o corpo, braços, pernas e tronco se enrolam juntos para formar a posição fetal.
+Para trás: Quando a cabeça está dobrada para trás, todo o corpo, braços, pernas e tronco se endireitam e se estendem.
+
+
+=== Reflexo de endireitamento ===
+
+O reflexo de endireitamento é outro tipo de reflexo.
+
+Esse reflexo posiciona a cabeça ou o corpo de volta à sua posição "normal", em resposta a uma mudança na posição da cabeça ou do corpo.
+
+Um exemplo comum desse reflexo é o reflexo de endireitamento do gato, que permite que ele se oriente para pousar de pé.
+
+Esse reflexo é iniciado por informações sensoriais dos sistemas vestibular, visual e somatossensorial e, portanto, não é apenas um reflexo vestibuloespinhal.
+
+
+== Dano ==
+
+Uma pessoa típica balança de um lado para o outro quando os olhos estão fechados.
+
+Este é o resultado do reflexo vestibuloespinhal funcionando corretamente.
+
+Quando um indivíduo oscila para o lado esquerdo, o trato vestíbulo-espinhal lateral esquerdo é ativado para trazer o corpo de volta à linha média.
+
+Geralmente, o dano ao sistema vestíbulo-espinhal resulta em ataxia e instabilidade postural. Por exemplo, se ocorrer dano unilateral ao nervo vestibulococlear, núcleo vestibular lateral, canais semicirculares ou trato vestíbulo-espinhal lateral, a pessoa provavelmente oscilará para esse lado e cairá ao caminhar.
+
+Isso ocorre porque o lado saudável "supera" o lado fraco de uma forma que fará com que a pessoa se desvie e caia em direção ao lado lesionado.
+
+O início precoce potencial de danos pode ser testemunhado através de um teste de Romberg positivo.
+
+Pacientes com lesão bilateral ou unilateral do sistema vestibular provavelmente recuperarão a estabilidade postural ao longo de semanas e meses por meio de um processo chamado compensação vestibular.
+
+Esse processo provavelmente está relacionado a uma maior dependência de outras informações sensoriais.
+
+
+== Pesquisas atuais e futuras ==
+
+Pesquisas recentes mostraram que a lesão do trato vestíbulo-espinhal medial altera o potencial miogênico evocado vestibular no músculo esternocleidomastóideo (ECM), que está envolvido na rotação da cabeça.
+
+O potencial evocado miogênico vestibular é uma avaliação do reflexo sáculo-cólico e um teste de função em órgãos otolíticos.
+
+Além disso, lesões no trato prejudicam a sinalização das fibras eferentes ascendentes, o que leva ao nistagmo.
+Também houve pesquisas recentes para determinar se há diferença na função vestíbulo-espinhal quando há lesão do nervo vestibular superior em oposição ao nervo vestibular inferior e vice-versa.
+
+Eles definiram a função vestibuloespinhal pela capacidade de ter uma postura adequada, bem como pela tontura autorreferida.
+
+Os resultados foram determinados por meio do Teste de Organização Sensorial (SOT) da Posturografia Dinâmica Computadorizada (CDP) e do Inventário de Deficiência de Tontura (DHI).
+
+Foi determinado que os indivíduos com lesão do nervo espinhal inferior tiveram pior desempenho no teste de postura do que o grupo controle, mas tiveram melhor desempenho do que os pacientes com lesão do nervo vestíbulo superior.
+
+Com isso, eles determinaram que o nervo vestibular superior desempenha um papel maior no equilíbrio do que o nervo vestíbulo inferior, mas que ambos desempenham um papel.
+
+Em relação ao DHI concluiu-se que não houve diferença entre os pacientes com as duas diferentes deficiências.
+A compensação vestibular após lesão unilateral ou bilateral do sistema vestibular pode ser realizada por adição sensorial e substituição sensorial.
+
+A substituição sensorial ocorre quando qualquer função vestibular remanescente, visão ou toque leve de uma superfície estável substitui a função perdida.
+
+A oscilação postural e a ataxia da marcha podem ser reduzidas aumentando a informação sensorial para o controle do equilíbrio.
+
+Pesquisas recentes mostraram que apenas 100 gramas de toque leve da ponta do dedo podem fornecer referência sensorial suficiente para reduzir a oscilação e a ataxia durante a marcha.
+
+
+
+https://en.wikipedia.org/wiki/Vestibulospinal_tract
+
+;;;FR;;;
+
+
+
+TRACTUS VESTIBULOSPINAL
+
+
+Le tractus vestibulospinal est un tractus nerveux du système nerveux central.
+
+Plus précisément, c'est un composant du système extrapyramidal et est classé comme un composant de la voie médiale.
+
+Comme les autres voies motrices descendantes, les fibres vestibulo-spinales du tractus relaient l'information des noyaux aux motoneurones. Les noyaux vestibulaires reçoivent des informations via le nerf vestibulocochléaire sur les changements d'orientation de la tête.
+
+Les noyaux relaient les commandes motrices à travers le tractus vestibulo-spinal.
+
+La fonction de ces commandes motrices est de modifier le tonus musculaire, d'étendre et de modifier la position des membres et de la tête dans le but de soutenir la posture et de maintenir l'équilibre du corps et de la tête.
+
+
+== Classement ==
+
+
+Le tractus vestibulospinal fait partie du "système extrapyramidal" du système nerveux central.
+
+Dans l'anatomie humaine, le système extrapyramidal est un réseau neuronal situé dans le cerveau qui fait partie du système moteur impliqué dans la coordination des mouvements. Le système est appelé "extrapyramidal" pour le distinguer des voies du cortex moteur qui atteignent leurs cibles en voyageant à travers les "pyramides" de la moelle.
+
+Les voies pyramidales, telles que les voies corticospinales et certaines voies corticobulbaires, peuvent innerver directement les motoneurones de la moelle épinière ou du tronc cérébral.
+
+Cela se voit dans les cellules de la corne antérieure (ventrale) ou dans certains noyaux des nerfs crâniens.
+
+Alors que le système extrapyramidal est centré sur la modulation et la régulation par le contrôle indirect des cellules de la corne antérieure (ventrale).
+
+Les noyaux sous-corticaux extrapyramidaux comprennent la substance noire, le caudé, le putamen, le globus pallidus, le thalamus, le noyau rouge et le noyau sous-thalamique. La pensée traditionnelle était que le système extrapyramidal fonctionnait de manière entièrement indépendante du système pyramidal.
+
+Cependant, des recherches plus récentes ont fourni une meilleure compréhension de l'intégration du contrôle moteur.
+
+Le contrôle moteur des systèmes pyramidaux et extrapyramidaux a des boucles de rétroaction étendues et est fortement interconnecté les uns avec les autres.
+
+Une classification plus appropriée des noyaux moteurs et des voies serait par leurs fonctions.
+
+Lorsqu'ils sont ventilés par fonction, il existe deux voies principales: médiale et latérale.
+
+La voie médiale aide à contrôler les mouvements brutaux des membres proximaux et du tronc.
+
+La voie latérale aide à contrôler le mouvement précis de la partie distale des membres.
+
+Le tractus vestibulospinal, ainsi que les tractus tectospinaux et réticulospinaux sont des exemples de composants de la voie médiale.
+
+
+== Fonction ==
+
+Le tractus vestibulospinal fait partie du système vestibulaire du SNC.
+
+Le rôle principal du système vestibulaire est de maintenir la coordination de la tête et des yeux, la posture droite et l'équilibre, et la réalisation consciente de l'orientation et du mouvement spatiaux.
+
+Le système vestibulaire est capable de répondre correctement en enregistrant les informations sensorielles des cellules ciliées dans le labyrinthe de l'oreille interne.
+
+Ensuite, les noyaux recevant ces signaux se projettent vers les muscles extraoculaires, la moelle épinière et le cortex cérébral pour exécuter ces fonctions. L'une de ces projections, le tractus vestibulospinal, est responsable de la posture droite et de la stabilisation de la tête.
+
+Lorsque les neurones sensoriels vestibulaires détectent de petits mouvements du corps, le tractus vestibulo-spinal commande des signaux moteurs à des muscles spécifiques pour contrer ces mouvements et restabiliser le corps.
+Le tractus vestibulospinal est un tractus de motoneurone supérieur constitué de deux sous-voies :
+
+Le tractus vestibulo-spinal médial se projette bilatéralement du noyau vestibulaire médial dans le faisceau longitudinal médial jusqu'aux cornes ventrales de la moelle cervicale supérieure (vertèbre C6).
+
+Il favorise la stabilisation de la position de la tête en innervant les muscles du cou, ce qui aide à la coordination de la tête et au mouvement des yeux.
+
+Sa fonction est similaire à celle du tractus tectospinal. Le tractus vestibulospinal latéral fournit des signaux excitateurs aux interneurones, qui relaient le signal vers les motoneurones des muscles antigravitaires.
+
+Ces muscles anti-gravité sont des muscles extenseurs des jambes qui aident à maintenir une posture droite et équilibrée.
+
+
+== Anatomie ==
+
+
+
+=== Tractus vestibulo-spinal latéral ===
+
+Le tractus vestibulospinal latéral est un groupe de motoneurones extrapyramidaux descendants, ou fibres nerveuses efférentes.
+
+Ce tractus se trouve dans le funicule latéral, un faisceau de racines nerveuses dans la moelle épinière.
+
+Le tractus vestibulospinal latéral prend naissance dans le noyau vestibulaire latéral ou noyau de Deiters dans le pont.
+
+Le noyau de Deiters s'étend de la jonction ponto-médullaire au niveau du noyau du nerf abducens dans le pont. Les fibres vestibulospinales latérales descendent non croisées, ou ipsilatérales, dans la partie antérieure du funicule latéral de la moelle épinière.
+
+Les fibres parcourent toute la longueur de la moelle épinière et se terminent aux interneurones des lames VII et VIII.
+
+De plus, certains neurones se terminent directement sur les dendrites des motoneurones alpha dans les mêmes lames.
+
+
+=== Tractus vestibulo-spinal médial ===
+
+Le tractus vestibulospinal médial est un groupe de neurones moteurs extrapyramidaux descendants, ou fibres efférentes trouvées dans le funicule antérieur, un faisceau de racines nerveuses dans la moelle épinière.
+
+Le tractus vestibulo-spinal médial prend naissance dans le noyau vestibulaire médial ou noyau de Schwalbe.
+
+Le noyau de Schwalbe s'étend de l'extrémité rostrale du noyau olivaire inférieur de la moelle allongée à la partie caudale du pont. Les fibres vestibulospinales médiales se joignent au faisceau longitudinal médial ipsilatéral et controlatéral et descendent dans le funicule antérieur de la moelle épinière.
+
+Les fibres descendent du funicule antérieur jusqu'aux segments de la moelle épinière cervicale et se terminent sur les neurones des lames VII et VIII.
+
+Contrairement au tractus vestibulospinal latéral, le tractus vestibulospinal médial innerve les muscles qui soutiennent la tête.
+
+En conséquence, les fibres vestibulo-spinales médiales ne descendent que dans les segments cervicaux de la moelle.
+
+
+== Réflexes ==
+
+Le réflexe vestibulospinal utilise les organes vestibulaires ainsi que les muscles squelettiques afin de maintenir l'équilibre, la posture et la stabilité dans un environnement de gravité.
+
+Ces réflexes peuvent ensuite être décomposés par synchronisation en un réflexe dynamique, un réflexe statique ou un réflexe tonique.
+
+Il peut également être classé par l'entrée sensorielle comme canaux, otolithes ou les deux.
+
+Le terme réflexe vestibulo-spinal est le plus couramment utilisé lorsque l'entrée sensorielle évoque une réponse du système musculaire sous le cou.
+
+Ces réflexes sont importants dans le maintien de l'homéostasie.
+
+
+=== Exemple de réflexe vestibulospinal ===
+
+La tête est inclinée d'un côté, ce qui stimule à la fois les canaux et les otolithes.
+Ce mouvement stimule le nerf vestibulaire ainsi que le noyau vestibulaire.
+Ces impulsions sont transmises à la fois par les voies vestibulo-spinales latérale et médiale jusqu'à la moelle épinière.
+La moelle épinière induit des effets extenseurs dans le muscle du côté du cou vers lequel la tête est pliée, et des effets fléchisseurs dans le muscle du côté du cou éloigné de la direction de la tête déplacée.
+
+
+=== Réflexe labyrinthique tonique ===
+
+Le réflexe labyrinthique tonique (TLR) est un réflexe qui est présent chez les nouveau-nés directement après la naissance et devrait être complètement inhibé à 3,5 ans.
+
+Ce réflexe aide le bébé à maîtriser les mouvements de la tête et du cou à l'extérieur de l'utérus ainsi que le concept de gravité.
+
+L'augmentation du tonus musculaire, le développement des sens proprioceptifs et vestibulaires et les possibilités de pratiquer avec équilibre sont autant de conséquences de ce réflexe.
+
+Au cours de la petite enfance, le TLR mûrit en réflexes vestibulo-spinaux plus développés pour aider à la posture, à l'alignement de la tête et à l'équilibre. Le réflexe labyrinthique tonique se présente sous deux formes.
+
+Vers l'avant : Lorsque la tête se penche vers l'avant, tout le corps, les bras, les jambes et le torse se courbent ensemble pour former la position fœtale.
+Vers l'arrière : Lorsque la tête est penchée vers l'arrière, tout le corps, les bras, les jambes et le torse se redressent et s'étendent.
+
+
+=== Réflexe de redressement ===
+
+Le réflexe de redressement est un autre type de réflexe.
+
+Ce réflexe remet la tête ou le corps dans sa position "normale", en réponse à un changement de position de la tête ou du corps.
+
+Un exemple courant de ce réflexe est le réflexe de redressement du chat, qui lui permet de s'orienter pour atterrir sur ses pattes.
+
+Ce réflexe est initié par des informations sensorielles provenant des systèmes vestibulaire, visuel et somatosensoriel et n'est donc pas seulement un réflexe vestibulospinal.
+
+
+== Dégâts ==
+
+Une personne typique se balance d'un côté à l'autre lorsque les yeux sont fermés.
+
+C'est le résultat du bon fonctionnement du réflexe vestibulo-spinal.
+
+Lorsqu'un individu se balance sur le côté gauche, le tractus vestibulo-spinal latéral gauche est activé pour ramener le corps sur la ligne médiane.
+
+Généralement, les lésions du système vestibulo-spinal entraînent une ataxie et une instabilité posturale. Par exemple, si des dommages unilatéraux surviennent au nerf vestibulocochléaire, au noyau vestibulaire latéral, aux canaux semi-circulaires ou au tractus vestibulospinal latéral, la personne se balancera probablement de ce côté et tombera en marchant.
+
+Cela se produit parce que le côté sain « domine » le côté faible d'une manière qui fera virer la personne et tomber vers le côté blessé.
+
+L'apparition précoce potentielle de dommages peut être constatée par un test de Romberg positif.
+
+Les patients présentant des dommages bilatéraux ou unilatéraux au système vestibulaire retrouveront probablement une stabilité posturale au fil des semaines et des mois grâce à un processus appelé compensation vestibulaire.
+
+Ce processus est probablement lié à une plus grande dépendance à d'autres informations sensorielles.
+
+
+== Recherches actuelles et futures ==
+
+Des recherches récentes ont montré que des dommages au tractus vestibulospinal médial altèrent le potentiel myogénique évoqué vestibulaire dans le muscle sternocléidomastoïdien (SCM), qui est impliqué dans la rotation de la tête.
+
+Le potentiel myogénique évoqué vestibulaire est une évaluation du réflexe sacculo-collique et un test de fonctionnement dans les organes otolithiques.
+
+De plus, les lésions du tractus altèrent la signalisation des fibres efférentes ascendantes, ce qui conduit au nystagmus.
+Des recherches récentes ont également été menées pour déterminer s'il existe une différence dans la fonction vestibulospinale lorsqu'il y a des dommages au nerf vestibulaire supérieur par opposition au nerf vestibulaire inférieur et vice versa.
+
+Ils ont défini la fonction vestibulo-spinale par la capacité à avoir une posture correcte, ainsi que par les étourdissements auto-déclarés.
+
+Les résultats ont été déterminés en utilisant le test d'organisation sensorielle (SOT) de la posturographie dynamique informatisée (CDP) ainsi que le vertige handicap inventaire (DHI).
+
+Il a été déterminé que les sujets dont le nerf spinal inférieur était endommagé obtenaient de moins bons résultats au test de posture que le groupe témoin, mais qu'ils obtenaient de meilleurs résultats que les patients présentant des lésions du nerf vestibule supérieur.
+
+Avec cela, ils ont déterminé que le nerf vestibulaire supérieur joue un rôle plus important dans l'équilibre que le nerf vestibulo inférieur, mais qu'ils jouent tous les deux un rôle.
+
+En termes de DHI, il a été conclu qu'il n'y avait pas de différence entre les patients présentant les deux déficiences différentes.
+La compensation vestibulaire après une lésion unilatérale ou bilatérale du système vestibulaire peut être réalisée par addition sensorielle et substitution sensorielle.
+
+La substitution sensorielle se produit lorsque toute fonction vestibulaire, vision ou toucher léger d'une surface stable se substitue à la fonction perdue.
+
+Le balancement postural et l'ataxie de la marche peuvent être réduits en augmentant les informations sensorielles pour le contrôle de l'équilibre.
+
+Des recherches récentes ont montré qu'aussi peu que 100 grammes de toucher léger du bout du doigt peuvent fournir une référence sensorielle suffisante pour réduire le balancement et l'ataxie pendant la marche.
+
+
+
+https://en.wikipedia.org/wiki/Vestibulospinal_tract

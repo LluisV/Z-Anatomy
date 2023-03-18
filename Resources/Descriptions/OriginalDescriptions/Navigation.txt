@@ -1,0 +1,28 @@
+
+
+NAVIGATION
+
+
+Press the Middle mouse button(MMB) and drag the mouse
+    to orbit in the 3D view
+
+Press'Shift+MMB' and drag the mouse
+    to pan the view
+
+Press 'Numpad 1': Frontal view
+      'Numpad 3': Left view
+      'Numpad 7': Cranial view
+      'Numpad 9': Invert point of view
+      'Numpad 5': Toggle Orthographic/Perspective view
+
+Press 'Ctrl+Numpad 1/3/7' 
+    to get the opposite view (Dorsal/Right/Caudal)
+    
+Press 'Ctrl+Spacebar' 
+    to maximise (in/out) a window
+    
+Press 'Numpad .'
+    to center the view on selection
+
+Press 'HOME'
+    to frame all the visible objects   

@@ -1,0 +1,848 @@
+
+
+AREA POSTREMA
+
+
+The area postrema, a paired structure in the medulla oblongata of the brainstem, is a circumventricular organ having permeable capillaries and sensory neurons that enable its dual role to detect circulating chemical messengers in the blood and transduce them into neural signals and networks. 
+
+Its position adjacent to the bilateral nuclei of the solitary tract and role as a sensory transducer allow it to integrate blood-to-brain autonomic functions. 
+
+Such roles of the area postrema include its detection of circulating hormones involved in vomiting, thirst, hunger, and blood pressure control.
+
+
+== Structure ==
+
+The area postrema is a paired protuberance found at the inferoposterior limit of the fourth ventricle. 
+
+Specialized ependymal cells are found within the area postrema. 
+
+These cells differ slightly from the majority of ependymal cells (ependymocytes), forming a unicellular epithelial lining of the ventricles and central canal. 
+
+The area postrema is separated from the vagal trigone by the funiculus separans, a thin semitransparent ridge. 
+
+The vagal trigone overlies the dorsal vagal nucleus and is situated on the caudal end of the rhomboid fossa or 'floor' of the fourth ventricle. 
+
+The area postrema is situated just before the obex, the inferior apex of the caudal ventricular floor. 
+
+Both the funiculus separans and area postrema have a similar thick ependyma-containing tanycyte covering. 
+
+Ependyma and tanycytes can participate in the transport of neurochemicals into and out of the cerebrospinal fluid from its cells or adjacent neurons, glia or vessels. 
+
+Ependyma and tanycytes may also participate in chemoreception.
+
+The area postrema is considered a circumventricular organ because of its proximity to the ventricular system. 
+
+In a morphological study, area postrema capillaries in the ventral subregion of area postrema were shown to be relatively impermeable like those of the brain, whereas medial and dorsal area postrema capillaries had microscopic characteristics of high permeability, a characteristic called sinusoidal. 
+
+Subregional capillary density of the area postrema was highest near the ventricular interface, and was nearly twice as dense as the capillary densities of the adjacent solitary nucleus (SN), and dorsal motor nucleus of the vagus nerve. 
+
+A tanycyte barrier partially compensates for high capillary permeability in the area postrema.
+
+Physiological subregional studies of the area postrema indicated that its blood volume is relatively large, and blood flow and transit time for blood markers relatively slow, thereby amplifying the sensing capability for circulating compounds, such as hormones or transmitters.
+
+
+=== Connections ===
+
+The area postrema connects to the solitary nucleus, or nucleus tractus solitarii (NTS), and other autonomic control centers in the brainstem. 
+
+It is excited by visceral afferent impulses (sympathetic and vagal) arising from the gastrointestinal tract and other peripheral trigger zones, and by humoral factors. 
+
+The area postrema makes up part of the dorsal vagal complex, which is the critical termination site of vagal afferent nerve fibers, along with the dorsal motor nucleus of the vagus and the NTS.
+
+Nausea is most likely induced via stimulation of the area postrema via its connection to the NTS, which may serve as the beginning of the pathway triggering vomiting in response to various emetic inputs. 
+
+However, this structure plays no key role for nausea induced by the activation of vagal nerve fibers or by motion, and its function in radiation-induced vomiting remains unclear.
+
+Because the area postrema and a specialized region of NTS have permeable capillaries, peptides and other hormonal signals in the blood have direct access to neurons of brain areas with vital roles in the autonomic control of the body. 
+
+As a result, the area postrema is considered a site of integration for various physiological signals in the blood as they enter the central nervous system.
+
+
+== Function ==
+
+=== Chemoreception ===
+
+The area postrema, one of the circumventricular organs, detects toxins in the blood and acts as a vomit-inducing center. 
+
+The area postrema is a critical homeostatic integration center for humoral and neural signals by means of its function as a chemoreceptor trigger zone for vomiting in response to emetic drugs. 
+
+It is a densely vascularized structure with subregional capillary specializations for high permeability for circulating blood signals, allowing it to detect various chemical messengers in the blood and cerebrospinal fluid. 
+
+Capillary blood flow appears to be uniquely slow in the area postrema, prolonging the contact time for blood-borne hormones to interact with neuronal receptors involved in regulation of blood pressure, body fluids, and emetic responses.
+
+
+=== Autonomic regulation ===
+
+The fenestrated sinusoidal capillaries of the area postrema and a specialized region of NTS make this particular region of the medulla critical in the autonomic control of various physiological systems, including the cardiovascular system and the systems controlling feeding and metabolism. 
+
+Angiotensin II causes a dose-dependent increase in arterial blood pressure without producing considerable changes in the heart rate, an effect mediated by the area postrema.
+
+
+== Clinical significance ==
+
+=== Damage ===
+
+Damage to the area postrema, caused primarily by lesioning or ablation, prevents the normal functions of the area postrema from taking place. 
+
+This ablation is usually done surgically and for the purpose of discovering the exact effect of the area postrema on the rest of the body. 
+
+Since the area postrema acts as an entry point to the brain for information from the sensory neurons of the stomach, intestines, liver, kidneys, heart, and other internal organs, a variety of physiological reflexes rely on the area postrema to transfer information. 
+
+The area postrema acts to directly monitor the chemical status of the organism. 
+
+Lesions of the area postrema are sometimes referred to as 'central vagotomy' because they eliminate the brain’s ability to monitor the physiological status of the body through its vagus nerve. 
+
+These lesions thus serve to prevent the detection of poisons and consequently prevent the body’s natural defenses from kicking in. 
+
+In one example, experiments done by Bernstein et al. on rats indicated that the area postrema lesions prevented the detection of lithium chloride, which can become toxic at high concentrations. 
+
+Since the rats could not detect the chemical, they were not able to employ a psychological procedure known as taste aversion conditioning, causing the rat to continuously ingest the lithium-paired saccharin solution. 
+
+These findings indicate that rats with area postrema lesions do not acquire the normal conditioned taste aversions when lithium chloride is used as the unconditioned stimulus. 
+
+In addition to simple taste aversions, rats with the area postrema lesions failed to perform other behavioral and physiological responses associated with the introduction of the toxin and present in the control group, such as lying down on their bellies, delayed stomach emptying, and hypothermia. 
+
+Such experimentation emphasizes the significance of the area postrema not only in the identification of toxic substances in the body but also in the many physical responses to the toxin.
+
+
+=== Effect of dopamine ===
+
+The area postrema also has a significant role in the discussion of Parkinson's disease. 
+
+Drugs that treat Parkinson's disease using dopamine have a strong effect on the area postrema. 
+
+These drugs stimulate dopamine transmission and attempt to normalize motor functions affected by Parkinson's. 
+
+This works because nerve cells, in particular, in the basal ganglia, which has a crucial role in the regulation of movement and is the primary site for the pathology of Parkinson's, use dopamine as their neurotransmitter and are activated by medications that increase the concentrations of the dopamine or work to stimulate the dopamine receptors. 
+
+Dopamine also manages to stimulate the area postrema, since this part of the brain contains a high density of dopamine receptors. 
+
+The area postrema is very sensitive to changes in blood toxicity and senses the presence of poisonous or dangerous substances in the blood. 
+
+As a defense mechanism, the area postrema induces vomiting to prevent further intoxication. 
+
+The high density of dopamine receptors in the area postrema makes it very sensitive to the dopamine-enhancing drugs. 
+
+Stimulation of the dopamine receptors in the area postrema activates these vomiting centers of the brain; this is why nausea is one of the most common side-effects of antiparkinsonian drugs.
+
+
+== History ==
+
+The area postrema was first named and located in the gross anatomy of the brain by Magnus Gustaf Retzius, a Swedish anatomist, anthropologist and professor of histology. 
+
+In 1896, he published a two-volume monograph on the gross anatomy of the human brain in which the area postrema was mentioned. 
+
+In 1975, evidence of neurons in the area postrema of several mammal species was published.
+
+Scientists became increasingly interested in the research of vomiting in the 1950s, perhaps in part due to society's heightened awareness of radiation sickness, a condition in which many patients having vomited after radiation exposure died. 
+
+Studies showed the existence of two areas in the brain related to emesis: one, a chemosensor for vomiting with no coordinating function, located in the fourth ventricle and two, a coordinator of vomiting with no chemosensory function, located in the lateral reticular formation of the medulla oblongata.
+
+In 1953, Borison and Wang determined that the chemosensor area acted as a vomiting trigger zone in the brain stem, which they named the chemoreceptor trigger zone (CTZ) for emesis. 
+
+Using cats and dogs as model organisms, they found that the removal of this trigger zone from the brain allowed for the prevention of emesis in the animals directly following injection of certain chemicals into the blood, demonstrating the existence of a relationship between the trigger zone and the act of vomiting. 
+
+The CTZ was anatomically located in the area postrema of the medulla oblongata. 
+
+The area postrema had been anatomically identified and named nearly 60 years earlier, but its function had remained unknown until its role in emesis was later confirmed.
+
+
+== Current research ==
+
+Research has continued today around the world on the functions of the area postrema. 
+
+Beyond its role in emesis, as studied intensely by the researchers of the mid-1900s, the activity of the area postrema has been closely linked to other autonomic functions such as regulation of food intake, body fluid homeostasis, and cardiovascular regulation through behavioral studies and electrophysiological studies. 
+
+In 2007 in Japan, research was performed on the mechanism of excitability of area postrema neurons by extracellular ATP. 
+
+Voltage clamp whole-cell recording techniques were used on rat brain slices. 
+
+The results showed that most responses to ATP are excitatory and that they are mediated by particular P2 purinoceptors found in the area postrema. 
+
+The role of the area postrema in flavor-conditioned aversion and preference was studied in 2001 by researchers at the Brooklyn College at the City University of New York. 
+
+The experiment tested the effect of area postrema lesions in rats on their ability to learn flavor-conditioned aversion to flavors paired with toxic drug treatments, which indeed showed that lesions of the area postrema leads to impaired flavor aversion learning.
+
+A 2009 study followed the development of the area postrema, using a macaque monkey model in an attempt to identify and characterize neurotransmission in this region as well as to resolve outstanding incongruities across research. 
+
+These scientists found, in culmination, that previous studies suggest noradrenalin and/or dopamine cause CA fluorescence in the area postrema macaque-CA, meaning catecholaminergic or derived from an amine and functioning as a neurotransmitter or hormone or both. 
+
+The study, however, found evidence of neurotransmitter secretion instead of release in vesicles. 
+
+Also, their findings concluded GABA is a major neurotransmitter in the area postrema, not glutamate. 
+
+Ongoing research continues to unravel discrepancies among various rat, cat, and now macaque monkey models of research.
+
+
+=== Potential treatments ===
+
+A 2002 study in Japan tested a drug that may be of use in curbing the emetic response to drugs that increase dopamine concentrations. 
+
+The study investigated morphine-induced emesis in ferrets, explaining that morphine exposure triggered dopamine release in the medulla oblongata and in the area postrema by activating opiate receptors, which in turn caused vomiting by the ferrets. 
+
+Yet a pre-treatment with 6-hydroxydopamine, a dopaminergic neurotoxin, significantly reduced the number of emetic episodes in the ferrets following morphine exposure. 
+
+This neurotoxin reduced levels of dopamine, noradrenaline, and homovanillic acid, a metabolite of dopamine, and is known to destroy noradrenergic and dopaminergic neurons. 
+
+Here, 6-hydroxydopamine was injected directly into the medulla oblongata but not in other parts of the brain. 
+
+This study shows how the dopaminergic pathway in the medulla oblongata may be manipulated in order to reduce the nauseating side-effects associated with so many dopamine-increasing drugs.
+
+
+=== Continuing pathological studies ===
+
+The area postrema is also indicated in an insulin treatment against type 1 and type 2 diabetes. 
+
+A particular mechanism, employed by the drug pramlintide, acts mainly on the area postrema and results in decreased glucagon secretion, which in turn slows down gastric emptying and the satiety effect. 
+
+This targeting of the area postrema allows an improvement of glycaemic control without causing weight gain. 
+
+Since the drug acts on the area postrema, the doses must be titrated slowly to avoid inducing nausea in the patient.
+
+There are also studies still currently underway to determine the effect of ablation of the area postrema on hypertension and cardiovascular function. 
+
+For example, studies in rats and rabbits indicate that angiotensin II- dependent hypertension is abolished by lesioning of the area postrema. 
+
+The mechanism for this physiological reaction is still not fully understood, but the area postrema's ability to regulate cardiovascular function presents a very interesting direction for neuroendocrinology.
+
+
+
+https://en.wikipedia.org/wiki/Area_postrema
+;;;ES;;;
+
+
+
+AREA POSTREMA
+
+
+El área postrema, una estructura emparejada en el bulbo raquídeo del tronco encefálico, es un órgano circunventricular que tiene capilares permeables y neuronas sensoriales que permiten su doble función de detectar mensajeros químicos circulantes en la sangre y traducirlos en señales y redes neuronales.
+
+Su posición adyacente a los núcleos bilaterales del tracto solitario y su papel como transductor sensorial le permiten integrar funciones autónomas de sangre a cerebro.
+
+Tales funciones del área postrema incluyen la detección de hormonas circulantes involucradas en el vómito, la sed, el hambre y el control de la presión arterial.
+
+
+== Estructura ==
+
+El área postrema es una protuberancia pareada que se encuentra en el límite inferoposterior del cuarto ventrículo.
+
+Las células ependimarias especializadas se encuentran dentro del área postrema.
+
+Estas células difieren ligeramente de la mayoría de las células ependimales (ependimocitos), formando un revestimiento epitelial unicelular de los ventrículos y el canal central.
+
+El área postrema está separada del trígono vagal por el funiculus separans, una delgada cresta semitransparente.
+
+El trígono vagal se superpone al núcleo vagal dorsal y está situado en el extremo caudal de la fosa romboidal o "suelo" del cuarto ventrículo.
+
+El área postrema está situada justo antes del óbex, el vértice inferior del suelo ventricular caudal.
+
+Tanto el funiculus separans como el área postrema tienen una cubierta gruesa similar de tanicitos que contienen epéndimo.
+
+El epéndimo y los tanicitos pueden participar en el transporte de neuroquímicos hacia y desde el líquido cefalorraquídeo desde sus células o neuronas, glía o vasos adyacentes.
+
+El epéndimo y los tanicitos también pueden participar en la quimiorrecepción.
+
+El área postrema se considera un órgano circunventricular por su proximidad al sistema ventricular.
+
+En un estudio morfológico, los capilares del área postrema en la subregión ventral del área postrema demostraron ser relativamente impermeables como los del cerebro, mientras que los capilares del área postrema medial y dorsal tenían características microscópicas de alta permeabilidad, característica denominada sinusoidal.
+
+La densidad capilar subregional del área postrema fue más alta cerca de la interfaz ventricular y fue casi el doble de densa que las densidades capilares del núcleo solitario adyacente (SN) y el núcleo motor dorsal del nervio vago.
+
+Una barrera de tanicitos compensa parcialmente la alta permeabilidad capilar en el área postrema.
+
+Los estudios subregionales fisiológicos del área postrema indicaron que su volumen sanguíneo es relativamente grande y que el flujo sanguíneo y el tiempo de tránsito de los marcadores sanguíneos son relativamente lentos, lo que amplifica la capacidad de detección de compuestos circulantes, como hormonas o transmisores.
+
+
+=== Conexiones ===
+
+El área postrema se conecta con el núcleo solitario, o núcleo del tracto solitario (NTS), y otros centros de control autónomo en el tronco encefálico.
+
+Es excitado por impulsos aferentes viscerales (simpáticos y vagales) que surgen del tracto gastrointestinal y otras zonas desencadenantes periféricas, y por factores humorales.
+
+El área postrema forma parte del complejo vagal dorsal, que es el sitio crítico de terminación de las fibras nerviosas aferentes vagales, junto con el núcleo motor dorsal del vago y el NTS.
+
+Lo más probable es que las náuseas se induzcan a través de la estimulación del área postrema a través de su conexión con el NTS, que puede servir como el comienzo de la vía que desencadena el vómito en respuesta a diversas entradas eméticas.
+
+Sin embargo, esta estructura no juega un papel clave en las náuseas inducidas por la activación de las fibras del nervio vago o por el movimiento, y su función en los vómitos inducidos por la radiación aún no está clara.
+
+Debido a que el área postrema y una región especializada de NTS tienen capilares permeables, los péptidos y otras señales hormonales en la sangre tienen acceso directo a las neuronas de las áreas del cerebro con funciones vitales en el control autónomo del cuerpo.
+
+Como resultado, el área postrema se considera un sitio de integración para varias señales fisiológicas en la sangre cuando ingresan al sistema nervioso central.
+
+
+== Función ==
+
+=== Quimiorrecepción ===
+
+El área postrema, uno de los órganos circunventriculares, detecta toxinas en la sangre y actúa como centro inductor del vómito.
+
+El área postrema es un centro de integración homeostático crítico para señales humorales y neurales por medio de su función como zona desencadenante de quimiorreceptores para vómitos en respuesta a fármacos eméticos.
+
+Es una estructura densamente vascularizada con especializaciones capilares subregionales de alta permeabilidad para las señales sanguíneas circulantes, lo que le permite detectar varios mensajeros químicos en la sangre y el líquido cefalorraquídeo.
+
+El flujo sanguíneo capilar parece ser excepcionalmente lento en el área postrema, lo que prolonga el tiempo de contacto para que las hormonas transportadas por la sangre interactúen con los receptores neuronales involucrados en la regulación de la presión arterial, los líquidos corporales y las respuestas eméticas.
+
+
+=== Reglamento autonómico ===
+
+Los capilares sinusoidales fenestrados del área postrema y una región especializada de NTS hacen que esta región particular de la médula sea crítica en el control autónomo de varios sistemas fisiológicos, incluido el sistema cardiovascular y los sistemas que controlan la alimentación y el metabolismo.
+
+La angiotensina II provoca un aumento de la presión arterial dependiente de la dosis sin producir cambios considerables en la frecuencia cardíaca, efecto mediado por el área postrema.
+
+
+== Importancia clínica ==
+
+=== Daño ===
+
+El daño al área postrema, causado principalmente por lesión o ablación, impide que se lleven a cabo las funciones normales del área postrema.
+
+Esta ablación generalmente se realiza quirúrgicamente y con el fin de descubrir el efecto exacto del área postrema en el resto del cuerpo.
+
+Dado que el área postrema actúa como un punto de entrada al cerebro para la información de las neuronas sensoriales del estómago, los intestinos, el hígado, los riñones, el corazón y otros órganos internos, una variedad de reflejos fisiológicos dependen del área postrema para transferir información.
+
+El área postrema actúa para monitorear directamente el estado químico del organismo.
+
+Las lesiones del área postrema a veces se denominan "vagotomía central" porque eliminan la capacidad del cerebro para monitorear el estado fisiológico del cuerpo a través de su nervio vago.
+
+Estas lesiones sirven para evitar la detección de venenos y, en consecuencia, evitan que las defensas naturales del cuerpo entren en acción.
+
+En un ejemplo, los experimentos realizados por Bernstein et al. en ratas indicó que las lesiones del área postrema impidieron la detección de cloruro de litio, que puede volverse tóxico en altas concentraciones.
+
+Dado que las ratas no pudieron detectar la sustancia química, no pudieron emplear un procedimiento psicológico conocido como condicionamiento de aversión al gusto, lo que provocó que la rata ingiera continuamente la solución de sacarina apareada con litio.
+
+Estos hallazgos indican que las ratas con lesiones del área postrema no adquieren las aversiones gustativas condicionadas normales cuando se usa cloruro de litio como estímulo no condicionado.
+
+Además de las aversiones simples al gusto, las ratas con lesiones en el área postrema no lograron otras respuestas conductuales y fisiológicas asociadas con la introducción de la toxina y presentes en el grupo de control, como acostarse boca abajo, retraso en el vaciado del estómago e hipotermia.
+
+Tal experimentación enfatiza la importancia del área postrema no solo en la identificación de sustancias tóxicas en el cuerpo sino también en las muchas respuestas físicas a la toxina.
+
+
+=== Efecto de la dopamina ===
+
+El área postrema también tiene un papel importante en la discusión de la enfermedad de Parkinson.
+
+Los medicamentos que tratan la enfermedad de Parkinson con dopamina tienen un fuerte efecto en el área postrema.
+
+Estos medicamentos estimulan la transmisión de dopamina e intentan normalizar las funciones motoras afectadas por el Parkinson.
+
+Esto funciona porque las células nerviosas, en particular, en los ganglios basales, que tienen un papel crucial en la regulación del movimiento y es el sitio principal de la patología del Parkinson, usan la dopamina como su neurotransmisor y son activados por medicamentos que aumentan las concentraciones de la dopamina o trabajan para estimular los receptores de dopamina.
+
+La dopamina también logra estimular el área postrema, ya que esta parte del cerebro contiene una alta densidad de receptores de dopamina.
+
+El área postrema es muy sensible a los cambios en la toxicidad de la sangre y detecta la presencia de sustancias venenosas o peligrosas en la sangre.
+
+Como mecanismo de defensa, el área postrema induce el vómito para evitar una mayor intoxicación.
+
+La alta densidad de receptores de dopamina en el área postrema la hace muy sensible a los fármacos que mejoran la dopamina.
+
+La estimulación de los receptores de dopamina en el área postrema activa estos centros de vómitos del cerebro; esta es la razón por la cual las náuseas son uno de los efectos secundarios más comunes de los medicamentos antiparkinsonianos.
+
+
+== Historia ==
+
+El área postrema fue nombrada y ubicada por primera vez en la anatomía macroscópica del cerebro por Magnus Gustaf Retzius, un anatomista, antropólogo y profesor de histología sueco.
+
+En 1896, publicó una monografía de dos volúmenes sobre la anatomía macroscópica del cerebro humano en la que se menciona el área postrema.
+
+En 1975 se publicó evidencia de neuronas en el área postrema de varias especies de mamíferos.
+
+Los científicos se interesaron cada vez más en la investigación de los vómitos en la década de 1950, quizás en parte debido a la mayor conciencia de la sociedad sobre la enfermedad por radiación, una condición en la que muchos pacientes que vomitaron después de la exposición a la radiación murieron.
+
+Los estudios demostraron la existencia de dos áreas en el cerebro relacionadas con la emesis: una, un quimiosensor del vómito sin función coordinadora, ubicado en el cuarto ventrículo y dos, un coordinador del vómito sin función quimiosensorial, ubicado en la formación reticular lateral del Medula oblonga.
+
+En 1953, Borison y Wang determinaron que el área del quimiosensor actuaba como una zona desencadenante del vómito en el tronco encefálico, a la que denominaron zona desencadenante del quimiorreceptor (CTZ) para la emesis.
+
+Utilizando gatos y perros como organismos modelo, descubrieron que la eliminación de esta zona desencadenante del cerebro permitía prevenir la emesis en los animales inmediatamente después de la inyección de ciertas sustancias químicas en la sangre, lo que demuestra la existencia de una relación entre la zona desencadenante y el acto de vomitar.
+
+La CTZ se localizó anatómicamente en el área postrema del bulbo raquídeo.
+
+El área postrema había sido identificada anatómicamente y nombrada casi 60 años antes, pero su función permaneció desconocida hasta que más tarde se confirmó su papel en la emesis.
+
+
+== Investigación actual ==
+
+La investigación ha continuado hoy en todo el mundo sobre las funciones del área postrema.
+
+Más allá de su papel en la emesis, como lo estudiaron intensamente los investigadores de mediados del siglo XX, la actividad del área postrema se ha relacionado estrechamente con otras funciones autonómicas como la regulación de la ingesta de alimentos, la homeostasis de los fluidos corporales y la regulación cardiovascular a través de estudios conductuales y estudios electrofisiológicos.
+
+En 2007 en Japón, se realizó una investigación sobre el mecanismo de excitabilidad de las neuronas del área postrema por ATP extracelular.
+
+Se usaron técnicas de registro de células enteras con abrazadera de voltaje en cortes de cerebro de rata.
+
+Los resultados mostraron que la mayoría de las respuestas al ATP son excitatorias y que están mediadas por purinoceptores P2 particulares que se encuentran en el área postrema.
+
+El papel del área postrema en la aversión y preferencia condicionadas por el sabor fue estudiado en 2001 por investigadores del Brooklyn College de la City University of New York.
+
+El experimento probó el efecto de las lesiones del área postrema en ratas sobre su capacidad para aprender la aversión a los sabores condicionada por el sabor junto con tratamientos con fármacos tóxicos, lo que de hecho mostró que las lesiones del área postrema conducen a un aprendizaje deficiente de la aversión al sabor.
+
+Un estudio de 2009 siguió el desarrollo del área postrema, utilizando un modelo de mono macaco en un intento de identificar y caracterizar la neurotransmisión en esta región, así como para resolver incongruencias sobresalientes en la investigación.
+
+Estos científicos encontraron, en conclusión, que estudios previos sugieren que la noradrenalina y/o la dopamina causan fluorescencia CA en el área postrema macaque-CA, lo que significa catecolaminérgico o derivado de una amina y que funciona como neurotransmisor u hormona o ambos.
+
+El estudio, sin embargo, encontró evidencia de secreción de neurotransmisores en lugar de liberación en vesículas.
+
+Además, sus hallazgos concluyeron que el GABA es un neurotransmisor importante en el área postrema, no el glutamato.
+
+La investigación en curso continúa desentrañando discrepancias entre varios modelos de investigación de ratas, gatos y ahora monos macacos.
+
+
+=== Tratamientos potenciales ===
+
+Un estudio de 2002 en Japón probó un medicamento que puede ser útil para frenar la respuesta emética a los medicamentos que aumentan las concentraciones de dopamina.
+
+El estudio investigó la emesis inducida por morfina en hurones, y explicó que la exposición a la morfina desencadenó la liberación de dopamina en el bulbo raquídeo y en el área postrema mediante la activación de los receptores de opiáceos, lo que a su vez provocó el vómito de los hurones.
+
+Sin embargo, un pretratamiento con 6-hidroxidopamina, una neurotoxina dopaminérgica, redujo significativamente el número de episodios eméticos en los hurones después de la exposición a la morfina.
+
+Esta neurotoxina redujo los niveles de dopamina, noradrenalina y ácido homovanílico, un metabolito de la dopamina, y se sabe que destruye las neuronas noradrenérgicas y dopaminérgicas.
+
+Aquí, la 6-hidroxidopamina se inyectó directamente en el bulbo raquídeo, pero no en otras partes del cerebro.
+
+Este estudio muestra cómo se puede manipular la vía dopaminérgica en el bulbo raquídeo para reducir los efectos secundarios nauseabundos asociados con tantos medicamentos que aumentan la dopamina.
+
+
+=== Continuando estudios patológicos ===
+
+El área postrema también está indicada en un tratamiento con insulina contra la diabetes tipo 1 y tipo 2.
+
+Un mecanismo particular, empleado por el fármaco pramlintide, actúa principalmente en el área postrema y produce una disminución de la secreción de glucagón, lo que a su vez ralentiza el vaciamiento gástrico y el efecto de saciedad.
+
+Esta focalización en el área postrema permite mejorar el control glucémico sin causar aumento de peso.
+
+Dado que el fármaco actúa sobre el área postrema, las dosis deben titularse lentamente para evitar inducir náuseas en el paciente.
+
+También hay estudios en curso para determinar el efecto de la ablación del área postrema sobre la hipertensión y la función cardiovascular.
+
+Por ejemplo, los estudios en ratas y conejos indican que la hipertensión dependiente de angiotensina II se suprime mediante la lesión del área postrema.
+
+El mecanismo de esta reacción fisiológica aún no se comprende por completo, pero la capacidad del área postrema para regular la función cardiovascular presenta una dirección muy interesante para la neuroendocrinología.
+
+
+
+https://en.wikipedia.org/wiki/Area_postrema
+
+;;;PT;;;
+
+
+
+ÁREA POSTREMA
+
+
+A área postrema, uma estrutura pareada na medula oblonga do tronco encefálico, é um órgão circunventricular com capilares permeáveis ​​e neurônios sensoriais que permitem seu duplo papel detectar mensageiros químicos circulantes no sangue e transduzi-los em sinais e redes neurais.
+
+Sua posição adjacente aos núcleos bilaterais do trato solitário e seu papel como transdutor sensorial permitem que ele integre as funções autônomas sangue-cérebro.
+
+Tais papéis da área postrema incluem a detecção de hormônios circulantes envolvidos no vômito, sede, fome e controle da pressão arterial.
+
+
+== Estrutura ==
+
+A área postrema é uma protuberância pareada encontrada no limite ínfero-posterior do quarto ventrículo.
+
+Células ependimárias especializadas são encontradas na área postrema.
+
+Essas células diferem ligeiramente da maioria das células ependimárias (ependimócitos), formando um revestimento epitelial unicelular dos ventrículos e do canal central.
+
+A área postrema é separada do trígono vagal pelo funiculus separans, uma fina crista semitransparente.
+
+O trígono vagal recobre o núcleo vagal dorsal e está situado na extremidade caudal da fossa rombóide ou "assoalho" do quarto ventrículo.
+
+A área postrema situa-se imediatamente antes do óbex, o ápice inferior do assoalho ventricular caudal.
+
+Tanto o funiculus separans quanto a área postrema têm uma cobertura semelhante de tanócitos contendo epêndima espesso.
+
+Epêndimas e tanócitos podem participar do transporte de neuroquímicos para dentro e para fora do líquido cefalorraquidiano de suas células ou neurônios adjacentes, glia ou vasos.
+
+Epêndima e tanícitos também podem participar da quimiorrecepção.
+
+A área postrema é considerada um órgão circunventricular devido à sua proximidade com o sistema ventricular.
+
+Em um estudo morfológico, os capilares da área postrema na sub-região ventral da área postrema mostraram-se relativamente impermeáveis ​​como os do cérebro, enquanto os capilares postrema da área medial e dorsal apresentaram características microscópicas de alta permeabilidade, característica denominada sinusoidal.
+
+A densidade capilar sub-regional da área postrema foi maior perto da interface ventricular e foi quase duas vezes mais densa que as densidades capilares do núcleo solitário adjacente (SN) e do núcleo motor dorsal do nervo vago.
+
+Uma barreira de tanicitos compensa parcialmente a alta permeabilidade capilar na área postrema.
+
+Estudos sub-regionais fisiológicos da área postrema indicaram que seu volume sanguíneo é relativamente grande, e fluxo sanguíneo e tempo de trânsito para marcadores sanguíneos relativamente lentos, ampliando assim a capacidade de detecção de compostos circulantes, como hormônios ou transmissores.
+
+
+=== Conexões ===
+
+A área postrema conecta-se ao núcleo solitário, ou núcleo tractus solitarii (NTS), e outros centros de controle autônomo no tronco encefálico.
+
+É excitado por impulsos aferentes viscerais (simpáticos e vagais) provenientes do trato gastrointestinal e outras zonas de gatilho periféricas, e por fatores humorais.
+
+A área postrema faz parte do complexo vagal dorsal, que é o local crítico de terminação das fibras nervosas aferentes vagais, juntamente com o núcleo motor dorsal do vago e do NTS.
+
+A náusea é provavelmente induzida pela estimulação da área postrema através de sua conexão com o NTS, que pode servir como o início da via que desencadeia o vômito em resposta a vários estímulos eméticos.
+
+No entanto, essa estrutura não desempenha papel fundamental para a náusea induzida pela ativação das fibras nervosas vagais ou pelo movimento, e sua função no vômito induzido por radiação permanece incerta.
+
+Como a área postrema e uma região especializada do NTS possuem capilares permeáveis, peptídeos e outros sinais hormonais no sangue têm acesso direto a neurônios de áreas cerebrais com funções vitais no controle autônomo do corpo.
+
+Como resultado, a área postrema é considerada um local de integração para vários sinais fisiológicos no sangue à medida que entram no sistema nervoso central.
+
+
+== Função ==
+
+=== Quimiorecepção ===
+
+A área postrema, um dos órgãos circunventriculares, detecta toxinas no sangue e atua como centro indutor de vômito.
+
+A área postrema é um centro de integração homeostática crítica para sinais humorais e neurais por meio de sua função como uma zona de gatilho quimiorreceptora para vômitos em resposta a drogas eméticas.
+
+É uma estrutura densamente vascularizada com especializações capilares sub-regionais para alta permeabilidade aos sinais circulantes do sangue, permitindo detectar vários mensageiros químicos no sangue e no líquido cefalorraquidiano.
+
+O fluxo sanguíneo capilar parece ser excepcionalmente lento na área postrema, prolongando o tempo de contato dos hormônios do sangue para interagir com os receptores neuronais envolvidos na regulação da pressão sanguínea, fluidos corporais e respostas eméticas.
+
+
+=== Regulação autônoma ===
+
+Os capilares sinusoidais fenestrados da área postrema e uma região especializada do NTS tornam essa região específica da medula crítica no controle autonômico de vários sistemas fisiológicos, incluindo o sistema cardiovascular e os sistemas que controlam a alimentação e o metabolismo.
+
+A angiotensina II provoca um aumento dose-dependente da pressão arterial sem produzir alterações consideráveis ​​na frequência cardíaca, efeito mediado pela área postrema.
+
+
+== Significado clínico ==
+
+=== Dano ===
+
+Danos à área postrema, causados ​​principalmente por lesão ou ablação, impedem que as funções normais da área postrema ocorram.
+
+Essa ablação geralmente é feita cirurgicamente e com o objetivo de descobrir o efeito exato da área postrema no resto do corpo.
+
+Uma vez que a área postrema atua como um ponto de entrada para o cérebro para informações dos neurônios sensoriais do estômago, intestinos, fígado, rins, coração e outros órgãos internos, uma variedade de reflexos fisiológicos depende da área postrema para transferir informações.
+
+A área postrema atua para monitorar diretamente o estado químico do organismo.
+
+As lesões da área postrema são às vezes chamadas de 'vagotomia central' porque eliminam a capacidade do cérebro de monitorar o estado fisiológico do corpo por meio de seu nervo vago.
+
+Essas lesões servem, assim, para impedir a detecção de venenos e, consequentemente, impedir que as defesas naturais do organismo entrem em ação.
+
+Em um exemplo, experimentos feitos por Bernstein et al. em ratos indicaram que as lesões da área postrema impediram a detecção de cloreto de lítio, que pode se tornar tóxico em altas concentrações.
+
+Como os ratos não conseguiram detectar o produto químico, eles não foram capazes de empregar um procedimento psicológico conhecido como condicionamento de aversão ao sabor, fazendo com que o rato ingerisse continuamente a solução de sacarina emparelhada com lítio.
+
+Esses achados indicam que ratos com lesões de área postrema não adquirem as aversões normais de sabor condicionado quando o cloreto de lítio é usado como estímulo não condicionado.
+
+Além das simples aversões gustativas, os ratos com lesões da área postrema não conseguiram realizar outras respostas comportamentais e fisiológicas associadas à introdução da toxina e presentes no grupo controle, como deitar de barriga para baixo, retardo no esvaziamento estomacal e hipotermia.
+
+Tal experimentação enfatiza a importância da área postrema não apenas na identificação de substâncias tóxicas no corpo, mas também nas muitas respostas físicas à toxina.
+
+
+=== Efeito da dopamina ===
+
+A área postrema também tem um papel significativo na discussão da doença de Parkinson.
+
+Drogas que tratam a doença de Parkinson usando dopamina têm um forte efeito na área postrema.
+
+Essas drogas estimulam a transmissão de dopamina e tentam normalizar as funções motoras afetadas pelo Parkinson.
+
+Isso funciona porque as células nervosas, em particular, nos gânglios da base, que tem um papel crucial na regulação do movimento e é o principal local da patologia do Parkinson, usam a dopamina como seu neurotransmissor e são ativadas por medicamentos que aumentam as concentrações de a dopamina ou trabalham para estimular os receptores de dopamina.
+
+A dopamina também consegue estimular a área postrema, já que essa parte do cérebro contém uma alta densidade de receptores de dopamina.
+
+A área postrema é muito sensível a alterações na toxicidade do sangue e detecta a presença de substâncias venenosas ou perigosas no sangue.
+
+Como mecanismo de defesa, a área postrema induz o vômito para evitar mais intoxicações.
+
+A alta densidade de receptores de dopamina na área postrema a torna muito sensível às drogas que aumentam a dopamina.
+
+A estimulação dos receptores de dopamina na área postrema ativa esses centros de vômito do cérebro; é por isso que a náusea é um dos efeitos colaterais mais comuns das drogas antiparkinsonianas.
+
+
+== História ==
+
+A área postrema foi nomeada e localizada pela primeira vez na anatomia macroscópica do cérebro por Magnus Gustaf Retzius, um anatomista, antropólogo e professor de histologia sueco.
+
+Em 1896, ele publicou uma monografia em dois volumes sobre a anatomia macroscópica do cérebro humano, na qual a área postrema foi mencionada.
+
+Em 1975, foram publicadas evidências de neurônios na área postrema de várias espécies de mamíferos.
+
+Os cientistas tornaram-se cada vez mais interessados ​​na pesquisa do vômito na década de 1950, talvez em parte devido à maior conscientização da sociedade sobre a doença da radiação, uma condição na qual muitos pacientes que vomitaram após a exposição à radiação morreram.
+
+Estudos mostraram a existência de duas áreas cerebrais relacionadas à êmese: uma, um quimiossensor do vômito sem função coordenadora, localizada no quarto ventrículo e duas, um coordenador do vômito sem função quimiossensorial, localizada na formação reticular lateral do medula oblonga.
+
+Em 1953, Borison e Wang determinaram que a área do quimiossensor atuava como uma zona de gatilho de vômito no tronco cerebral, que eles chamaram de zona de gatilho de quimiorreceptor (CTZ) para vômito.
+
+Usando gatos e cães como organismos modelo, eles descobriram que a remoção desta zona de gatilho do cérebro permitiu a prevenção de vômitos nos animais diretamente após a injeção de certos produtos químicos no sangue, demonstrando a existência de uma relação entre a zona de gatilho e o ato de vomitar.
+
+O CTZ foi localizado anatomicamente na área postrema da medula oblonga.
+
+A área postrema foi identificada anatomicamente e nomeada quase 60 anos antes, mas sua função permaneceu desconhecida até que seu papel na êmese foi posteriormente confirmado.
+
+
+== Pesquisa atual ==
+
+A pesquisa continua hoje em todo o mundo sobre as funções da área postrema.
+
+Além de seu papel na emese, estudado intensamente pelos pesquisadores de meados do século XX, a atividade da área postrema tem sido intimamente ligada a outras funções autonômicas, como regulação da ingestão de alimentos, homeostase dos líquidos corporais e regulação cardiovascular por meio de estudos comportamentais e estudos eletrofisiológicos.
+
+Em 2007, no Japão, foram realizadas pesquisas sobre o mecanismo de excitabilidade dos neurônios da área postrema pelo ATP extracelular.
+
+Técnicas de gravação de células inteiras de grampo de tensão foram usadas em fatias de cérebro de rato.
+
+Os resultados mostraram que a maioria das respostas ao ATP são excitatórias e que são mediadas por determinados purinoceptores P2 encontrados na área postrema.
+
+O papel da área postrema na aversão e preferência condicionada ao sabor foi estudado em 2001 por pesquisadores do Brooklyn College da City University of New York.
+
+O experimento testou o efeito das lesões da área postrema em ratos em sua capacidade de aprender aversão condicionada ao sabor aos sabores emparelhados com tratamentos com drogas tóxicas, o que de fato mostrou que as lesões da área postrema levam ao aprendizado prejudicado da aversão ao sabor.
+
+Um estudo de 2009 acompanhou o desenvolvimento da área postrema, usando um modelo de macaco na tentativa de identificar e caracterizar a neurotransmissão nesta região, bem como resolver incongruências pendentes em toda a pesquisa.
+
+Esses cientistas descobriram, em culminância, que estudos anteriores sugerem que a noradrenalina e/ou dopamina causam fluorescência CA na área postrema macaque-CA, significando catecolaminérgico ou derivado de uma amina e funcionando como um neurotransmissor ou hormônio ou ambos.
+
+O estudo, no entanto, encontrou evidências de secreção de neurotransmissores em vez de liberação em vesículas.
+
+Além disso, suas descobertas concluíram que o GABA é um importante neurotransmissor na área postrema, não o glutamato.
+
+A pesquisa em andamento continua a desvendar discrepâncias entre vários modelos de pesquisa de ratos, gatos e agora macacos.
+
+
+=== Tratamentos potenciais ===
+
+Um estudo de 2002 no Japão testou uma droga que pode ser útil para reduzir a resposta emética a drogas que aumentam as concentrações de dopamina.
+
+O estudo investigou o vômito induzido pela morfina em furões, explicando que a exposição à morfina desencadeou a liberação de dopamina na medula oblonga e na área postrema pela ativação de receptores opiáceos, que por sua vez causaram vômitos nos furões.
+
+No entanto, um pré-tratamento com 6-hidroxidopamina, uma neurotoxina dopaminérgica, reduziu significativamente o número de episódios eméticos nos furões após a exposição à morfina.
+
+Essa neurotoxina reduziu os níveis de dopamina, noradrenalina e ácido homovanílico, um metabólito da dopamina, e é conhecido por destruir neurônios noradrenérgicos e dopaminérgicos.
+
+Aqui, a 6-hidroxidopamina foi injetada diretamente na medula oblonga, mas não em outras partes do cérebro.
+
+Este estudo mostra como a via dopaminérgica na medula oblonga pode ser manipulada para reduzir os efeitos colaterais nauseantes associados a tantas drogas que aumentam a dopamina.
+
+
+=== Continuando os estudos patológicos ===
+
+A área postrema também é indicada no tratamento com insulina contra diabetes tipo 1 e tipo 2.
+
+Um mecanismo particular, empregado pela droga pramlintida, atua principalmente na área postrema e resulta na diminuição da secreção de glucagon, que por sua vez retarda o esvaziamento gástrico e o efeito de saciedade.
+
+Este direcionamento da área postrema permite uma melhora do controle glicêmico sem causar ganho de peso.
+
+Como o fármaco atua na área postrema, as doses devem ser tituladas lentamente para evitar a indução de náusea no paciente.
+
+Há também estudos ainda em andamento para determinar o efeito da ablação da área postrema na hipertensão e na função cardiovascular.
+
+Por exemplo, estudos em ratos e coelhos indicam que a hipertensão dependente de angiotensina II é abolida pela lesão da área postrema.
+
+O mecanismo para essa reação fisiológica ainda não é totalmente compreendido, mas a capacidade da área postrema de regular a função cardiovascular apresenta uma direção muito interessante para a neuroendocrinologia.
+
+
+
+https://en.wikipedia.org/wiki/Area_postrema
+
+;;;FR;;;
+
+
+
+ZONE POSTREMA
+
+
+L'area postrema, une structure appariée dans le bulbe rachidien du tronc cérébral, est un organe circumventriculaire doté de capillaires perméables et de neurones sensoriels qui permettent à son double rôle de détecter les messagers chimiques circulants dans le sang et de les transformer en signaux et réseaux neuronaux.
+
+Sa position adjacente aux noyaux bilatéraux du tractus solitaire et son rôle de transducteur sensoriel lui permettent d'intégrer les fonctions autonomes du sang au cerveau.
+
+Ces rôles de l'area postrema incluent sa détection des hormones circulantes impliquées dans les vomissements, la soif, la faim et le contrôle de la pression artérielle.
+
+
+== Structure ==
+
+L'area postrema est une protubérance appariée située à la limite inféropostérieure du quatrième ventricule.
+
+Des cellules épendymaires spécialisées se trouvent dans la zone postrema.
+
+Ces cellules diffèrent légèrement de la majorité des cellules épendymaires (épendymocytes), formant un revêtement épithélial unicellulaire des ventricules et du canal central.
+
+L'area postrema est séparée du trigone vagal par le funiculus separans, une fine crête semi-transparente.
+
+Le trigone vagal recouvre le noyau vagal dorsal et est situé à l'extrémité caudale de la fosse rhomboïde ou «plancher» du quatrième ventricule.
+
+L'area postrema est située juste avant l'obex, l'apex inférieur du plancher ventriculaire caudal.
+
+Le funiculus separans et l'area postrema ont tous deux une épaisse couverture de tanycyte contenant de l'épendyme.
+
+Les épendymes et les tanycytes peuvent participer au transport de substances neurochimiques dans et hors du liquide céphalo-rachidien à partir de ses cellules ou des neurones, cellules gliales ou vaisseaux adjacents.
+
+Les épendymes et les tanycytes peuvent également participer à la chimioréception.
+
+L'area postrema est considérée comme un organe circumventriculaire en raison de sa proximité avec le système ventriculaire.
+
+Dans une étude morphologique, les capillaires de la zone postrema dans la sous-région ventrale de la zone postrema se sont révélés relativement imperméables comme ceux du cerveau, tandis que les capillaires postrema de la zone médiale et dorsale avaient des caractéristiques microscopiques de haute perméabilité, une caractéristique appelée sinusoïdale.
+
+La densité capillaire sous-régionale de l'area postrema était la plus élevée près de l'interface ventriculaire et était presque deux fois plus dense que les densités capillaires du noyau solitaire adjacent (SN) et du noyau moteur dorsal du nerf vague.
+
+Une barrière de tanycyte compense partiellement la perméabilité capillaire élevée dans la zone postrema.
+
+Des études physiologiques sous-régionales de l'area postrema ont indiqué que son volume sanguin est relativement important et que le flux sanguin et le temps de transit des marqueurs sanguins sont relativement lents, amplifiant ainsi la capacité de détection des composés circulants, tels que les hormones ou les transmetteurs.
+
+
+=== Connexions ===
+
+L'area postrema se connecte au noyau solitaire, ou nucleus tractus solitarii (NTS), et à d'autres centres de contrôle autonomes du tronc cérébral.
+
+Il est excité par des impulsions afférentes viscérales (sympathiques et vagales) provenant du tractus gastro-intestinal et d'autres zones gâchettes périphériques, et par des facteurs humoraux.
+
+L'area postrema fait partie du complexe vagal dorsal, qui est le site de terminaison critique des fibres nerveuses afférentes vagales, avec le noyau moteur dorsal du nerf vague et le NTS.
+
+La nausée est très probablement induite par la stimulation de l'area postrema via sa connexion au NTS, qui peut servir de début de la voie déclenchant des vomissements en réponse à diverses entrées émétiques.
+
+Cependant, cette structure ne joue aucun rôle clé dans les nausées induites par l'activation des fibres nerveuses vagales ou par le mouvement, et sa fonction dans les vomissements radio-induits reste incertaine.
+
+Parce que l'area postrema et une région spécialisée du NTS ont des capillaires perméables, les peptides et autres signaux hormonaux dans le sang ont un accès direct aux neurones des zones cérébrales jouant un rôle vital dans le contrôle autonome du corps.
+
+En conséquence, l'area postrema est considérée comme un site d'intégration de divers signaux physiologiques dans le sang lorsqu'ils pénètrent dans le système nerveux central.
+
+
+== Fonction ==
+
+=== Chimioréception ===
+
+L'area postrema, l'un des organes circumventriculaires, détecte les toxines dans le sang et agit comme un centre provoquant des vomissements.
+
+L'area postrema est un centre d'intégration homéostatique critique pour les signaux humoraux et neuronaux au moyen de sa fonction de zone de déclenchement des chimiorécepteurs pour les vomissements en réponse aux médicaments émétiques.
+
+C'est une structure densément vascularisée avec des spécialisations capillaires sous-régionales pour une haute perméabilité aux signaux sanguins circulants, lui permettant de détecter divers messagers chimiques dans le sang et le liquide céphalo-rachidien.
+
+Le flux sanguin capillaire semble être particulièrement lent dans la zone postrema, prolongeant le temps de contact des hormones véhiculées par le sang pour interagir avec les récepteurs neuronaux impliqués dans la régulation de la pression artérielle, des fluides corporels et des réponses émétiques.
+
+
+=== Régulation autonome ===
+
+Les capillaires sinusoïdaux fenêtrés de l'area postrema et une région spécialisée du NTS rendent cette région particulière de la moelle épinière critique dans le contrôle autonome de divers systèmes physiologiques, y compris le système cardiovasculaire et les systèmes contrôlant l'alimentation et le métabolisme.
+
+L'angiotensine II provoque une augmentation dose-dépendante de la pression artérielle sans produire de modifications considérables de la fréquence cardiaque, un effet médié par l'area postrema.
+
+
+== Signification clinique ==
+
+=== Dégâts ===
+
+Les dommages à l'area postrema, causés principalement par une lésion ou une ablation, empêchent les fonctions normales de l'area postrema d'avoir lieu.
+
+Cette ablation est généralement effectuée chirurgicalement et dans le but de découvrir l'effet exact de l'area postrema sur le reste du corps.
+
+Étant donné que l'area postrema agit comme un point d'entrée vers le cerveau pour les informations provenant des neurones sensoriels de l'estomac, des intestins, du foie, des reins, du cœur et d'autres organes internes, une variété de réflexes physiologiques s'appuient sur l'area postrema pour transférer des informations.
+
+L'area postrema agit pour surveiller directement l'état chimique de l'organisme.
+
+Les lésions de l'area postrema sont parfois appelées « vagotomie centrale » car elles éliminent la capacité du cerveau à surveiller l'état physiologique du corps par l'intermédiaire de son nerf vague.
+
+Ces lésions servent ainsi à empêcher la détection des poisons et par conséquent à empêcher les défenses naturelles de l'organisme de s'activer.
+
+Dans un exemple, des expériences réalisées par Bernstein et al. sur des rats ont indiqué que les lésions de l'area postrema empêchaient la détection du chlorure de lithium, qui peut devenir toxique à des concentrations élevées.
+
+Étant donné que les rats ne pouvaient pas détecter le produit chimique, ils n'étaient pas en mesure d'employer une procédure psychologique connue sous le nom de conditionnement d'aversion au goût, obligeant le rat à ingérer en continu la solution de saccharine appariée au lithium.
+
+Ces résultats indiquent que les rats présentant des lésions de zone postrema n'acquièrent pas les aversions gustatives conditionnées normales lorsque le chlorure de lithium est utilisé comme stimulus inconditionné.
+
+En plus de simples aversions gustatives, les rats présentant des lésions de zone postrema n'ont pas réussi à effectuer d'autres réponses comportementales et physiologiques associées à l'introduction de la toxine et présentes dans le groupe témoin, telles que s'allonger sur le ventre, retarder la vidange de l'estomac et hypothermie.
+
+Une telle expérimentation souligne l'importance de l'area postrema non seulement dans l'identification des substances toxiques dans le corps, mais aussi dans les nombreuses réponses physiques à la toxine.
+
+
+=== Effet de la dopamine ===
+
+L'area postrema joue également un rôle important dans la discussion sur la maladie de Parkinson.
+
+Les médicaments qui traitent la maladie de Parkinson à l'aide de dopamine ont un effet important sur l'area postrema.
+
+Ces médicaments stimulent la transmission de la dopamine et tentent de normaliser les fonctions motrices affectées par la maladie de Parkinson.
+
+Cela fonctionne parce que les cellules nerveuses, en particulier dans les ganglions de la base, qui jouent un rôle crucial dans la régulation du mouvement et sont le site principal de la pathologie de la maladie de Parkinson, utilisent la dopamine comme neurotransmetteur et sont activées par des médicaments qui augmentent les concentrations de la dopamine ou travailler pour stimuler les récepteurs de la dopamine.
+
+La dopamine parvient également à stimuler la zone postrema, car cette partie du cerveau contient une haute densité de récepteurs de la dopamine.
+
+L'area postrema est très sensible aux modifications de la toxicité sanguine et détecte la présence de substances toxiques ou dangereuses dans le sang.
+
+En tant que mécanisme de défense, l'area postrema induit des vomissements pour prévenir une nouvelle intoxication.
+
+La haute densité de récepteurs de la dopamine dans la zone postrema la rend très sensible aux médicaments augmentant la dopamine.
+
+La stimulation des récepteurs de la dopamine dans l'area postrema active ces centres de vomissement du cerveau ; c'est pourquoi la nausée est l'un des effets secondaires les plus courants des médicaments antiparkinsoniens.
+
+
+== Historique ==
+
+L'area postrema a été nommée et localisée pour la première fois dans l'anatomie grossière du cerveau par Magnus Gustaf Retzius, anatomiste, anthropologue et professeur d'histologie suédois.
+
+En 1896, il publie une monographie en deux volumes sur l'anatomie grossière du cerveau humain dans laquelle l'area postrema est mentionnée.
+
+En 1975, des preuves de neurones dans l'area postrema de plusieurs espèces de mammifères ont été publiées.
+
+Les scientifiques se sont de plus en plus intéressés à la recherche sur les vomissements dans les années 1950, peut-être en partie en raison de la sensibilisation accrue de la société au mal des rayons, une condition dans laquelle de nombreux patients ayant vomi après une exposition aux rayonnements sont décédés.
+
+Des études ont montré l'existence de deux zones dans le cerveau liées aux vomissements : l'une, un chimiocapteur des vomissements sans fonction de coordination, située dans le quatrième ventricule et deux, un coordinateur des vomissements sans fonction chimiosensorielle, situé dans la formation réticulaire latérale du moelle allongée.
+
+En 1953, Borison et Wang ont déterminé que la zone du chimiocapteur agissait comme une zone de déclenchement des vomissements dans le tronc cérébral, qu'ils ont nommé la zone de déclenchement des chimiorécepteurs (CTZ) pour les vomissements.
+
+En utilisant des chats et des chiens comme organismes modèles, ils ont découvert que l'élimination de cette zone gâchette du cerveau permettait de prévenir les vomissements chez les animaux directement après l'injection de certains produits chimiques dans le sang, démontrant l'existence d'une relation entre la zone gâchette et l'acte de vomir.
+
+La CTZ était anatomiquement localisée dans l'area postrema du bulbe rachidien.
+
+L'area postrema avait été anatomiquement identifiée et nommée près de 60 ans plus tôt, mais sa fonction était restée inconnue jusqu'à ce que son rôle dans les vomissements soit confirmé plus tard.
+
+
+== Recherche en cours ==
+
+Les recherches se poursuivent aujourd'hui dans le monde entier sur les fonctions de l'area postrema.
+
+Au-delà de son rôle dans les vomissements, étudié intensément par les chercheurs du milieu des années 1900, l'activité de l'area postrema a été étroitement liée à d'autres fonctions autonomes telles que la régulation de la prise alimentaire, l'homéostasie des fluides corporels et la régulation cardiovasculaire à travers des études comportementales et études électrophysiologiques.
+
+En 2007 au Japon, des recherches ont été menées sur le mécanisme d'excitabilité des neurones de l'area postrema par l'ATP extracellulaire.
+
+Des techniques d'enregistrement de cellules entières à pince de tension ont été utilisées sur des tranches de cerveau de rat.
+
+Les résultats ont montré que la plupart des réponses à l'ATP sont excitatrices et qu'elles sont médiées par des purinorécepteurs P2 particuliers trouvés dans l'area postrema.
+
+Le rôle de l'area postrema dans l'aversion et la préférence conditionnées par la saveur a été étudié en 2001 par des chercheurs du Brooklyn College de la City University de New York.
+
+L'expérience a testé l'effet des lésions de la zone postrema chez les rats sur leur capacité à apprendre l'aversion conditionnée par la saveur aux saveurs associée à des traitements médicamenteux toxiques, ce qui a en effet montré que les lésions de la zone postrema entraînent une altération de l'apprentissage de l'aversion aux saveurs.
+
+Une étude de 2009 a suivi le développement de l'area postrema, en utilisant un modèle de singe macaque dans le but d'identifier et de caractériser la neurotransmission dans cette région ainsi que de résoudre les incongruités en suspens dans la recherche.
+
+Ces scientifiques ont découvert, en conclusion, que des études antérieures suggèrent que la noradrénaline et/ou la dopamine provoquent la fluorescence CA dans la zone postrema macaque-CA, c'est-à-dire catécholaminergique ou dérivée d'une amine et fonctionnant comme un neurotransmetteur ou une hormone ou les deux.
+
+L'étude, cependant, a trouvé des preuves de la sécrétion de neurotransmetteurs au lieu de leur libération dans les vésicules.
+
+En outre, leurs découvertes ont conclu que le GABA est un neurotransmetteur majeur dans la zone postrema, et non le glutamate.
+
+Les recherches en cours continuent de démêler les divergences entre divers modèles de recherche de rats, de chats et maintenant de singes macaques.
+
+
+=== Traitements potentiels ===
+
+Une étude de 2002 au Japon a testé un médicament qui pourrait être utile pour freiner la réponse émétique aux médicaments qui augmentent les concentrations de dopamine.
+
+L'étude a enquêté sur les vomissements induits par la morphine chez les furets, expliquant que l'exposition à la morphine déclenchait la libération de dopamine dans le bulbe rachidien et dans l'area postrema en activant les récepteurs opiacés, qui à leur tour provoquaient des vomissements chez les furets.
+
+Pourtant, un prétraitement avec de la 6-hydroxydopamine, une neurotoxine dopaminergique, a significativement réduit le nombre d'épisodes émétiques chez les furets suite à une exposition à la morphine.
+
+Cette neurotoxine a réduit les niveaux de dopamine, de noradrénaline et d'acide homovanillique, un métabolite de la dopamine, et est connue pour détruire les neurones noradrénergiques et dopaminergiques.
+
+Ici, la 6-hydroxydopamine a été injectée directement dans le bulbe rachidien mais pas dans d'autres parties du cerveau.
+
+Cette étude montre comment la voie dopaminergique dans le bulbe rachidien peut être manipulée afin de réduire les effets secondaires nauséabonds associés à tant de médicaments augmentant la dopamine.
+
+
+=== Poursuite des études pathologiques ===
+
+L'area postrema est également indiquée dans un traitement à l'insuline contre le diabète de type 1 et de type 2.
+
+Un mécanisme particulier, employé par le médicament pramlintide, agit principalement sur l'area postrema et entraîne une diminution de la sécrétion de glucagon, qui à son tour ralentit la vidange gastrique et l'effet de satiété.
+
+Ce ciblage de l'area postrema permet une amélioration du contrôle glycémique sans entraîner de prise de poids.
+
+Étant donné que le médicament agit sur l'area postrema, les doses doivent être titrées lentement pour éviter d'induire des nausées chez le patient.
+
+Il existe également des études toujours en cours pour déterminer l'effet de l'ablation de l'area postrema sur l'hypertension et la fonction cardiovasculaire.
+
+Par exemple, des études chez le rat et le lapin indiquent que l'hypertension dépendante de l'angiotensine II est abolie par la lésion de l'area postrema.
+
+Le mécanisme de cette réaction physiologique n'est pas encore entièrement compris, mais la capacité de l'area postrema à réguler la fonction cardiovasculaire présente une direction très intéressante pour la neuroendocrinologie.
+
+
+
+https://en.wikipedia.org/wiki/Area_postrema

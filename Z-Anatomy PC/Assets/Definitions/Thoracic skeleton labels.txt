@@ -1,0 +1,48 @@
+THORACIC SKELETON
+    Cavity of bony thorax
+    Superior thoracic aperture
+    Inferior thoracic aperture
+    Pulmonary groove
+    Costal arch
+    Intercostal space
+    Infrasternal angle
+    BONES OF THORAX
+        ...
+;;;ES;;;
+
+ESQUELETO TORACICO
+Cavidad del tórax óseo
+Abertura torácica superior
+Apertura torácica inferior
+surco pulmonar
+arco costal
+Espacio intercostal
+Ángulo infraesternal
+HUESOS DEL TÓRAX
+...
+
+;;;PT;;;
+
+ESQUELETO TORÁCICO
+Cavidade do tórax ósseo
+Abertura torácica superior
+Abertura torácica inferior
+Sulco pulmonar
+Arco costal
+Espaço intercostal
+Ângulo infraesternal
+OSSOS DO TÓRAX
+...
+
+;;;FR;;;
+
+SQUELETTE THORACIQUE
+Cavité du thorax osseux
+Ouverture thoracique supérieure
+Ouverture thoracique inférieure
+Sillon pulmonaire
+Arc costal
+Espace intercostal
+Angle infrasternal
+OS DU THORAX
+...

@@ -1,0 +1,768 @@
+
+
+OLFACTORY SYSTEM
+
+
+The olfactory system, or sense of smell, is the sensory system used for smelling (olfaction). 
+
+Olfaction is one of the special senses, that have directly associated specific organs. 
+
+Most mammals and reptiles have a main olfactory system and an accessory olfactory system. 
+
+The main olfactory system detects airborne substances, while the accessory system senses fluid-phase stimuli.
+The senses of smell and taste (gustatory system) are often referred to together as the chemosensory system, because they both give the brain information about the chemical composition of objects through a process called transduction.
+
+
+== Structure ==
+
+
+
+=== Peripheral ===
+
+The peripheral olfactory system consists mainly of the nostrils, ethmoid bone, nasal cavity, and the olfactory epithelium (layers of thin tissue covered in mucus that line the nasal cavity). 
+
+The primary components of the layers of epithelial tissue are the mucous membranes, olfactory glands, olfactory neurons, and nerve fibers of the olfactory nerves.Odor molecules can enter the peripheral pathway and reach the nasal cavity either through the nostrils when inhaling (olfaction) or through the throat when the tongue pushes air to the back of the nasal cavity while chewing or swallowing (retro-nasal olfaction). 
+
+Inside the nasal cavity, mucus lining the walls of the cavity dissolves odor molecules. 
+
+Mucus also covers the olfactory epithelium, which contains mucous membranes that produce and store mucus and olfactory glands that secrete metabolic enzymes found in the mucus.
+
+
+==== Transduction ====
+
+Olfactory sensory neurons in the epithelium detect odor molecules dissolved in the mucus and transmit information about the odor to the brain in a process called sensory transduction. 
+
+Olfactory neurons have cilia (tiny hairs) containing olfactory receptors that bind to odor molecules, causing an electrical response that spreads through the sensory neuron to the olfactory nerve fibers at the back of the nasal cavity.Olfactory nerves and fibers transmit information about odors from the peripheral olfactory system to the central olfactory system of the brain, which is separated from the epithelium by the cribriform plate of the ethmoid bone. 
+
+Olfactory nerve fibers, which originate in the epithelium, pass through the cribriform plate, connecting the epithelium to the brain's limbic system at the olfactory bulbs.
+
+
+=== Central ===
+
+
+The main olfactory bulb transmits pulses to both mitral and tufted cells, which help determine odor concentration based on the time certain neuron clusters fire (called 'timing code'). 
+
+These cells also note differences between highly similar odors and use that data to aid in later recognition. 
+
+The cells are different with mitral having low firing-rates and being easily inhibited by neighboring cells, while tufted have high rates of firing and are more difficult to inhibit. 
+
+How the bulbar neural circuit transforms odor inputs to the bulb to the bulbar responses that are sent to the olfactory cortex can be partly understood by a mathematical model.The uncus houses the olfactory cortex which includes the piriform cortex (posterior orbitofrontal cortex), amygdala, olfactory tubercle, and parahippocampal gyrus.
+The olfactory tubercle connects to numerous areas of the amygdala, thalamus, hypothalamus, hippocampus, brain stem, retina, auditory cortex, and olfactory system. *In total it has 27 inputs and 20 outputs. 
+
+An oversimplification of its role is to state that it: checks to ensure odor signals arose from actual odors rather than villi irritation, regulates motor behavior (primarily social and stereotypical) brought on by odors, integrates auditory and olfactory sensory info to complete the aforementioned tasks, and plays a role in transmitting positive signals to reward sensors (and is thus involved in addiction).The amygdala (in olfaction) processes pheromone, allomone, and kairomone (same-species, cross-species, and cross-species where the emitter is harmed and the sensor is benefited, respectively) signals. 
+
+Due to cerebrum evolution this processing is secondary and therefore is largely unnoticed in human interactions. 
+
+Allomones include flower scents, natural herbicides, and natural toxic plant chemicals. 
+
+The info for these processes comes from the vomeronasal organ indirectly via the olfactory bulb. 
+
+The main olfactory bulb's pulses in the amygdala are used to pair odors to names and recognize odor to odor differences.Stria terminalis, specifically bed nuclei (BNST), act as the information pathway between the amygdala and hypothalamus, as well as the hypothalamus and pituitary gland. 
+
+BNST abnormalities often lead to sexual confusion and immaturity. 
+
+BNST also connects to the septal area, rewarding sexual behavior.Mitral pulses to the hypothalamus promote/discourage feeding, whereas accessory olfactory bulb pulses regulate reproductive and odor-related-reflex processes.
+The hippocampus (although minimally connected to the main olfactory bulb) receives almost all of its olfactory information via the amygdala (either directly or via the BNST). 
+
+The hippocampus forms new and reinforces existing memories.
+Similarly, the parahippocampus encodes, recognizes and contextualizes scenes. 
+
+The parahippocampal gyrus houses the topographical map for olfaction.
+The orbitofrontal cortex (OFC) is heavily correlated with the cingulate gyrus and septal area to act out positive/negative reinforcement. 
+
+The OFC is the expectation of reward/punishment in response to stimuli. 
+
+The OFC represents the emotion and reward in decision making.The anterior olfactory nucleus distributes reciprocal signals between the olfactory bulb and piriform cortex. 
+
+The anterior olfactory nucleus is the memory hub for smell.
+When different odor objects or components are mixed, humans and other mammals sniffing the mixture (presented by, e.g., a sniff bottle) are often unable to identify the components in the mixture even though they can recognize each individual component presented alone. 
+
+This is largely because each odor sensory neuron can be excited by multiple odor components. 
+
+It has been proposed that, in an olfactory environment typically composed of multiple odor components (e.g., odor of a dog entering a kitchen that contains a background coffee odor), feedback from the olfactory cortex to the olfactory bulb suppresses the pre-existing odor background (e.g., coffee) via olfactory adaptation, so that the newly arrived foreground odor (e.g., dog) can be singled out from the mixture for recognition.  
+
+
+== Clinical significance ==
+
+Loss of smell is known as anosmia. 
+
+Anosmia can occur on both sides or a single side.
+Olfactory problems can be divided into different types based on their malfunction. 
+
+The olfactory dysfunction can be total (anosmia), incomplete (partial anosmia, hyposmia, or microsmia), distorted (dysosmia), or can be characterized by spontaneous sensations like phantosmia. 
+
+An inability to recognize odors despite a normally functioning olfactory system is termed olfactory agnosia. 
+
+Hyperosmia is a rare condition typified by an abnormally heightened sense of smell. 
+
+Like vision and hearing, the olfactory problems can be bilateral or unilateral meaning if a person has anosmia on the right side of the nose but not the left, it is a unilateral right anosmia. 
+
+On the other hand, if it is on both sides of the nose it is called bilateral anosmia or total anosmia.Destruction to olfactory bulb, tract, and primary cortex (brodmann area 34) results in anosmia on the same side as the destruction. 
+
+Also, irritative lesion of the uncus results in olfactory hallucinations.
+Damage to the olfactory system can occur by traumatic brain injury, cancer, infection, inhalation of toxic fumes, or neurodegenerative diseases such as Parkinson's disease and Alzheimer's disease. 
+
+These conditions can cause anosmia. 
+
+In contrast, recent finding suggested the molecular aspects of olfactory dysfunction can be recognized as a hallmark of amyloidogenesis-related diseases and there may even be a causal link through the disruption of multivalent metal ion transport and storage. 
+
+Doctors can detect damage to the olfactory system by presenting the patient with odors via a scratch and sniff card or by having the patient close their eyes and try to identify commonly available odors like coffee or peppermint candy.
+Doctors must exclude other diseases that inhibit or eliminate 'the sense of smell' such as chronic colds or sinusitus before making the diagnosis that there is permanent damage to the olfactory system.
+Prevalence of olfactory dysfunction in the general US population was assessed by questionnaire and examination in a national health survey in 2012-2014. 
+
+Among over a thousand persons aged 40 years and older, 12.0% reported a problem with smell in the past 12 months and 12.4% had olfactory dysfunction on examination. 
+
+Prevalence rose from 4.2% at age 40-49 to 39.4% at 80 years and older and was higher in men than women, in blacks and Mexican Americans than in whites and in less than more educated. 
+
+Of concern for safety, 20% of persons aged 70 and older were unable to identify smoke and 31%, natural gas.
+
+
+=== Causes of olfactory dysfunction ===
+
+
+The common causes of olfactory dysfunction: advanced age, viral infections, exposure to toxic chemicals, head trauma, and neurodegenerative diseases.
+
+
+==== Age ====
+Age is the strongest reason for olfactory decline in healthy adults, having even greater impact than does cigarette smoking. 
+
+Age-related changes in smell function often go unnoticed and smell ability is rarely tested clinically unlike hearing and vision. 2% of people under 65 years of age have chronic smelling problems. 
+
+This increases greatly between people of ages 65 and 80 with about half experiencing significant problems smelling. 
+
+Then for adults over 80, the numbers rise to almost 75%. 
+
+The basis for age-related changes in smell function include closure of the cribriform plate, and cumulative damage to the olfactory receptors from repeated viral and other insults throughout life.
+
+
+==== Viral infections ====
+The most common cause of permanent hyposmia and anosmia are upper respiratory infections. 
+
+Such dysfunctions show no change over time and can sometimes reflect damage not only to the olfactory epithelium, but also to the central olfactory structures as a result of viral invasions into the brain. 
+
+Among these virus-related disorders are the common cold, hepatitis, influenza and influenza-like illness, as well as herpes. 
+
+Notably, COVID-19 is associated with olfactory disturbance. 
+
+Most viral infections are unrecognizable because they are so mild or entirely asymptomatic.
+
+
+==== Exposure to toxic chemicals ====
+Chronic exposure to some airborne toxins such as herbicides, pesticides, solvents, and heavy metals (cadmium, chromium, nickel, and manganese), can alter the ability to smell. 
+
+These agents not only damage the olfactory epithelium, but they are likely to enter the brain via the olfactory mucosa.
+
+
+==== Head trauma ====
+Trauma-related olfactory dysfunction depends on the severity of the trauma and whether strong acceleration/deceleration of the head occurred. 
+
+Occipital and side impact causes more damage to the olfactory system than frontal impact. 
+
+However, recent evidence from individuals with traumatic brain injury suggests that smell loss can occur with changes in brain function outside of olfactory cortex. 
+
+
+==== Neurodegenerative diseases ====
+Neurologists have observed that olfactory dysfunction is a cardinal feature of several neurodegenerative diseases such as Alzheimer's disease and Parkinson's disease. 
+
+Most of these patients are unaware of an olfactory deficit until after testing where 85% to 90% of early-stage patients showed decrease activity in central odor processing structures.Other neurodegenerative diseases that affect olfactory dysfunction include Huntington's disease, multi-infarct dementia, amyotrophic lateral sclerosis, and schizophrenia. 
+
+These diseases have more moderate effects on the olfactory system than Alzheimer's or Parkinson's diseases. 
+
+Furthermore, progressive supranuclear palsy and parkinsonism are associated with only minor olfactory problems. 
+
+These findings have led to the suggestion that olfactory testing may help in the diagnosis of several different neurodegenerative diseases.Neurodegenerative diseases with well-established genetic determinants are also associated with olfactory dysfunction. 
+
+Such dysfunction, for example, is found in patients with familial Parkinson's disease and those with Down syndrome. 
+
+Further studies have concluded that the olfactory loss may be associated with intellectual disability, rather than any Alzheimer's disease-like pathology.Huntington's disease is also associated with problems in odor identification, detection, discrimination, and memory. 
+
+The problem is prevalent once the phenotypic elements of the disorder appear, although it is unknown how far in advance the olfactory loss precedes the phenotypic expression.
+
+
+== History ==
+
+Linda B. 
+
+Buck and Richard Axel won the 2004 Nobel Prize in Physiology or Medicine for their work on the olfactory system.
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_system
+;;;ES;;;
+
+
+
+SISTEMA OLFATIVO
+
+
+El sistema olfativo, o sentido del olfato, es el sistema sensorial utilizado para oler (olfato).
+
+El olfato es uno de los sentidos especiales, que tienen órganos específicos directamente asociados.
+
+La mayoría de los mamíferos y reptiles tienen un sistema olfativo principal y un sistema olfativo accesorio.
+
+El sistema olfativo principal detecta sustancias en el aire, mientras que el sistema accesorio detecta estímulos de fase fluida.
+Los sentidos del olfato y el gusto (sistema gustativo) a menudo se conocen como el sistema quimiosensorial, porque ambos le dan al cerebro información sobre la composición química de los objetos a través de un proceso llamado transducción.
+
+
+== Estructura ==
+
+
+
+=== Periférico ===
+
+El sistema olfatorio periférico consta principalmente de las fosas nasales, el hueso etmoides, la cavidad nasal y el epitelio olfatorio (capas de tejido delgado cubiertas de moco que recubren la cavidad nasal).
+
+Los componentes principales de las capas de tejido epitelial son las membranas mucosas, las glándulas olfatorias, las neuronas olfatorias y las fibras nerviosas de los nervios olfatorios. a través de la garganta cuando la lengua empuja el aire hacia la parte posterior de la cavidad nasal al masticar o tragar (olfato retronasal).
+
+Dentro de la cavidad nasal, la mucosidad que recubre las paredes de la cavidad disuelve las moléculas de olor.
+
+El moco también cubre el epitelio olfativo, que contiene membranas mucosas que producen y almacenan moco y glándulas olfativas que secretan enzimas metabólicas que se encuentran en el moco.
+
+
+==== Transducción ====
+
+Las neuronas sensoriales olfativas en el epitelio detectan moléculas de olor disueltas en la mucosidad y transmiten información sobre el olor al cerebro en un proceso llamado transducción sensorial.
+
+Las neuronas olfatorias tienen cilios (vellos diminutos) que contienen receptores olfativos que se unen a las moléculas de olor, provocando una respuesta eléctrica que se propaga a través de la neurona sensorial a las fibras del nervio olfatorio en la parte posterior de la cavidad nasal. Los nervios y las fibras olfativas transmiten información sobre los olores desde el sistema olfativo periférico al sistema olfativo central del cerebro, que está separado del epitelio por la placa cribosa del hueso etmoides.
+
+Las fibras del nervio olfatorio, que se originan en el epitelio, pasan a través de la placa cribosa, conectando el epitelio con el sistema límbico del cerebro en los bulbos olfatorios.
+
+
+=== Céntrico ===
+
+
+El bulbo olfatorio principal transmite pulsos a las células mitrales y tufted, que ayudan a determinar la concentración de olor en función del momento en que se disparan ciertos grupos de neuronas (llamado "código de tiempo").
+
+Estas celdas también notan diferencias entre olores muy similares y usan esos datos para ayudar en el reconocimiento posterior.
+
+Las células mitrales son diferentes, ya que tienen tasas de activación bajas y son fácilmente inhibidas por las células vecinas, mientras que las células empenachadas tienen tasas de activación altas y son más difíciles de inhibir.
+
+La forma en que el circuito neural bulbar transforma las entradas de olor al bulbo en respuestas bulbares que se envían a la corteza olfativa puede entenderse en parte mediante un modelo matemático. El uncus alberga la corteza olfativa, que incluye la corteza piriforme (corteza orbitofrontal posterior), la amígdala, tubérculo olfatorio y giro parahipocampal.
+El tubérculo olfativo se conecta a numerosas áreas de la amígdala, el tálamo, el hipotálamo, el hipocampo, el tronco encefálico, la retina, la corteza auditiva y el sistema olfativo. *En total tiene 27 entradas y 20 salidas.
+
+Una simplificación excesiva de su función es afirmar que: verifica que las señales de olor surjan de los olores reales en lugar de la irritación de las vellosidades, regula el comportamiento motor (principalmente social y estereotípico) provocado por los olores, integra información sensorial auditiva y olfativa para completar las tareas antes mencionadas , y desempeña un papel en la transmisión de señales positivas a los sensores de recompensa (y, por lo tanto, está involucrada en la adicción). se daña y el sensor se beneficia, respectivamente) señales.
+
+Debido a la evolución del cerebro, este procesamiento es secundario y, por lo tanto, pasa desapercibido en las interacciones humanas.
+
+Las alomonas incluyen aromas florales, herbicidas naturales y sustancias químicas vegetales tóxicas naturales.
+
+La información para estos procesos proviene del órgano vomeronasal indirectamente a través del bulbo olfatorio.
+
+Los pulsos del bulbo olfatorio principal en la amígdala se utilizan para emparejar olores con nombres y reconocer diferencias de olor a olor. glándula.
+
+Las anormalidades de BNST a menudo conducen a confusión sexual e inmadurez.
+
+BNST también se conecta al área septal, recompensando el comportamiento sexual. Los pulsos mitrales al hipotálamo promueven/desalentan la alimentación, mientras que los pulsos del bulbo olfativo accesorio regulan los procesos reflejos reproductivos y relacionados con el olor.
+El hipocampo (aunque mínimamente conectado al bulbo olfatorio principal) recibe casi toda su información olfativa a través de la amígdala (ya sea directamente o a través del BNST).
+
+El hipocampo forma nuevos y refuerza los recuerdos existentes.
+De manera similar, el parahipocampo codifica, reconoce y contextualiza escenas.
+
+La circunvolución parahipocampal alberga el mapa topográfico del olfato.
+La corteza orbitofrontal (OFC) está fuertemente correlacionada con la circunvolución cingulada y el área septal para representar el refuerzo positivo/negativo.
+
+La OFC es la expectativa de recompensa/castigo en respuesta a estímulos.
+
+La OFC representa la emoción y la recompensa en la toma de decisiones. El núcleo olfatorio anterior distribuye señales recíprocas entre el bulbo olfatorio y la corteza piriforme.
+
+El núcleo olfatorio anterior es el centro de memoria del olfato.
+Cuando se mezclan diferentes objetos o componentes de olor, los humanos y otros mamíferos que huelen la mezcla (presentada, por ejemplo, por una botella de olfateo) a menudo no pueden identificar los componentes en la mezcla aunque pueden reconocer cada componente individual presentado solo.
+
+Esto se debe en gran parte a que cada neurona sensorial del olor puede ser excitada por múltiples componentes del olor.
+
+Se ha propuesto que, en un entorno olfativo típicamente compuesto por múltiples componentes de olor (p. ej., el olor de un perro que entra en una cocina que contiene un olor de fondo a café), la retroalimentación de la corteza olfativa al bulbo olfativo suprime el fondo de olor preexistente. (p. ej., café) a través de la adaptación olfativa, de modo que el olor de primer plano recién llegado (p. ej., perro) pueda distinguirse de la mezcla para su reconocimiento.
+
+
+== Importancia clínica ==
+
+La pérdida del olfato se conoce como anosmia.
+
+La anosmia puede ocurrir en ambos lados o en un solo lado.
+Los problemas olfativos se pueden dividir en diferentes tipos en función de su mal funcionamiento.
+
+La disfunción olfativa puede ser total (anosmia), incompleta (anosmia parcial, hiposmia o microsmia), distorsionada (disosmia) o puede caracterizarse por sensaciones espontáneas como fantosmia.
+
+La incapacidad para reconocer los olores a pesar de que el sistema olfativo funciona normalmente se denomina agnosia olfativa.
+
+La hiperosmia es una condición rara caracterizada por un sentido del olfato anormalmente elevado.
+
+Al igual que la visión y la audición, los problemas olfativos pueden ser bilaterales o unilaterales, es decir, si una persona tiene anosmia en el lado derecho de la nariz pero no en el izquierdo, se trata de una anosmia derecha unilateral.
+
+Por otro lado, si está en ambos lados de la nariz, se denomina anosmia bilateral o anosmia total. La destrucción del bulbo olfativo, el tracto y la corteza primaria (área de brodmann 34) produce anosmia en el mismo lado que la destrucción.
+
+Además, la lesión irritativa del uncus produce alucinaciones olfativas.
+El daño al sistema olfativo puede ocurrir por lesión cerebral traumática, cáncer, infección, inhalación de humos tóxicos o enfermedades neurodegenerativas como la enfermedad de Parkinson y la enfermedad de Alzheimer.
+
+Estas condiciones pueden causar anosmia.
+
+Por el contrario, un hallazgo reciente sugirió que los aspectos moleculares de la disfunción olfativa pueden reconocerse como un sello distintivo de las enfermedades relacionadas con la amiloidogénesis e incluso puede haber un vínculo causal a través de la interrupción del transporte y almacenamiento de iones metálicos multivalentes.
+
+Los médicos pueden detectar daños en el sistema olfativo presentando olores al paciente a través de una tarjeta de raspar y oler o haciendo que el paciente cierre los ojos e intente identificar olores comúnmente disponibles como café o caramelo de menta.
+Los médicos deben excluir otras enfermedades que inhiben o eliminan 'el sentido del olfato', como resfriados crónicos o sinusitis, antes de hacer el diagnóstico de que existe un daño permanente en el sistema olfativo.
+La prevalencia de la disfunción olfativa en la población general de EE. UU. se evaluó mediante un cuestionario y un examen en una encuesta nacional de salud en 2012-2014.
+
+Entre más de mil personas de 40 años o más, el 12,0 % informó un problema con el olfato en los últimos 12 meses y el 12,4 % tenía una disfunción olfativa en el examen.
+
+La prevalencia aumentó del 4,2 % entre los 40 y los 49 años al 39,4 % a los 80 años y más y fue más alta en hombres que en mujeres, en negros y mexicoamericanos que en blancos y en menos que más educados.
+
+De preocupación por la seguridad, el 20% de las personas mayores de 70 años no pudieron identificar el humo y el 31%, el gas natural.
+
+
+=== Causas de la disfunción olfativa ===
+
+
+Las causas comunes de disfunción olfativa: edad avanzada, infecciones virales, exposición a químicos tóxicos, traumatismo craneoencefálico y enfermedades neurodegenerativas.
+
+
+==== Edad ====
+La edad es la razón más importante de la disminución del olfato en adultos sanos, y tiene un impacto aún mayor que el tabaquismo.
+
+Los cambios relacionados con la edad en la función del olfato a menudo pasan desapercibidos y la capacidad del olfato rara vez se prueba clínicamente a diferencia de la audición y la visión. El 2% de las personas menores de 65 años tienen problemas crónicos de olfato.
+
+Esto aumenta considerablemente entre las personas de 65 a 80 años de edad y aproximadamente la mitad experimenta problemas significativos para oler.
+
+Luego, para los adultos mayores de 80 años, las cifras aumentan a casi el 75%.
+
+La base de los cambios relacionados con la edad en la función del olfato incluyen el cierre de la placa cribosa y el daño acumulativo a los receptores olfativos por ataques virales y de otro tipo repetidos a lo largo de la vida.
+
+
+==== Infecciones virales ====
+La causa más común de hiposmia y anosmia permanentes son las infecciones de las vías respiratorias superiores.
+
+Estas disfunciones no muestran cambios con el tiempo y, en ocasiones, pueden reflejar daños no solo en el epitelio olfatorio, sino también en las estructuras olfativas centrales como resultado de invasiones virales en el cerebro.
+
+Entre estos trastornos relacionados con virus se encuentran el resfriado común, la hepatitis, la influenza y las enfermedades similares a la influenza, así como el herpes.
+
+En particular, COVID-19 está asociado con trastornos olfativos.
+
+La mayoría de las infecciones virales son irreconocibles porque son muy leves o completamente asintomáticas.
+
+
+==== Exposición a químicos tóxicos ====
+La exposición crónica a algunas toxinas transportadas por el aire, como herbicidas, pesticidas, solventes y metales pesados ​​(cadmio, cromo, níquel y manganeso), puede alterar la capacidad de oler.
+
+Estos agentes no solo dañan el epitelio olfatorio, sino que es probable que ingresen al cerebro a través de la mucosa olfatoria.
+
+
+==== Traumatismo craneoencefálico ====
+La disfunción olfativa relacionada con el trauma depende de la gravedad del trauma y de si se produjo una fuerte aceleración/desaceleración de la cabeza.
+
+El impacto occipital y lateral causa más daño al sistema olfativo que el impacto frontal.
+
+Sin embargo, la evidencia reciente de personas con lesiones cerebrales traumáticas sugiere que la pérdida del olfato puede ocurrir con cambios en la función cerebral fuera de la corteza olfativa.
+
+
+==== Enfermedades neurodegenerativas ====
+Los neurólogos han observado que la disfunción olfativa es una característica cardinal de varias enfermedades neurodegenerativas como la enfermedad de Alzheimer y la enfermedad de Parkinson.
+
+La mayoría de estos pacientes no son conscientes de un déficit olfativo hasta después de la prueba, donde del 85 % al 90 % de los pacientes en etapa temprana mostraron una disminución de la actividad en las estructuras centrales de procesamiento de olores. Otras enfermedades neurodegenerativas que afectan la disfunción olfativa incluyen la enfermedad de Huntington, la demencia multiinfarto, la esclerosis lateral y esquizofrenia.
+
+Estas enfermedades tienen efectos más moderados sobre el sistema olfativo que las enfermedades de Alzheimer o Parkinson.
+
+Además, la parálisis supranuclear progresiva y el parkinsonismo se asocian solo con problemas olfativos menores.
+
+Estos hallazgos han llevado a sugerir que las pruebas olfatorias pueden ayudar en el diagnóstico de varias enfermedades neurodegenerativas diferentes. Las enfermedades neurodegenerativas con determinantes genéticos bien establecidos también se asocian con disfunción olfativa.
+
+Tal disfunción, por ejemplo, se encuentra en pacientes con enfermedad de Parkinson familiar y aquellos con síndrome de Down.
+
+Otros estudios han concluido que la pérdida olfativa puede estar asociada con discapacidad intelectual, en lugar de cualquier patología similar a la enfermedad de Alzheimer. La enfermedad de Huntington también está asociada con problemas en la identificación, detección, discriminación y memoria de olores.
+
+El problema es prevalente una vez que aparecen los elementos fenotípicos del trastorno, aunque se desconoce con qué anticipación la pérdida olfativa precede a la expresión fenotípica.
+
+
+== Historia ==
+
+linda b
+
+Buck y Richard Axel ganaron el Premio Nobel de Fisiología o Medicina en 2004 por su trabajo sobre el sistema olfativo.
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_system
+
+;;;PT;;;
+
+
+
+SISTEMA OLFATÓRIO
+
+
+O sistema olfativo, ou olfato, é o sistema sensorial usado para cheirar (olfato).
+
+O olfato é um dos sentidos especiais, que tem órgãos específicos diretamente associados.
+
+A maioria dos mamíferos e répteis tem um sistema olfativo principal e um sistema olfativo acessório.
+
+O sistema olfativo principal detecta substâncias transportadas pelo ar, enquanto o sistema acessório detecta estímulos de fase fluida.
+Os sentidos do olfato e do paladar (sistema gustativo) são frequentemente chamados de sistema quimiossensorial, porque ambos dão ao cérebro informações sobre a composição química dos objetos por meio de um processo chamado transdução.
+
+
+== Estrutura ==
+
+
+
+=== Periférico ===
+
+O sistema olfatório periférico consiste principalmente nas narinas, osso etmóide, cavidade nasal e epitélio olfatório (camadas de tecido fino recoberto de muco que revestem a cavidade nasal).
+
+Os componentes primários das camadas de tecido epitelial são as membranas mucosas, glândulas olfativas, neurônios olfativos e fibras nervosas dos nervos olfativos. através da garganta quando a língua empurra o ar para a parte de trás da cavidade nasal enquanto mastiga ou engole (olfato retro-nasal).
+
+Dentro da cavidade nasal, o muco que reveste as paredes da cavidade dissolve as moléculas de odor.
+
+O muco também cobre o epitélio olfativo, que contém membranas mucosas que produzem e armazenam muco e glândulas olfativas que secretam enzimas metabólicas encontradas no muco.
+
+
+==== Transdução ====
+
+Neurônios sensoriais olfativos no epitélio detectam moléculas de odor dissolvidas no muco e transmitem informações sobre o odor ao cérebro em um processo chamado transdução sensorial.
+
+Os neurônios olfativos possuem cílios (pelos minúsculos) contendo receptores olfativos que se ligam a moléculas de odor, causando uma resposta elétrica que se espalha através do neurônio sensorial para as fibras nervosas olfativas na parte posterior da cavidade nasal. sistema olfativo periférico ao sistema olfativo central do cérebro, que é separado do epitélio pela lâmina cribriforme do osso etmoidal.
+
+As fibras nervosas olfativas, que se originam no epitélio, passam através da placa cribriforme, conectando o epitélio ao sistema límbico do cérebro nos bulbos olfatórios.
+
+
+=== Central ===
+
+
+O bulbo olfativo principal transmite pulsos para as células mitrais e em tufos, que ajudam a determinar a concentração de odor com base no momento em que certos aglomerados de neurônios disparam (chamado 'código de tempo').
+
+Essas células também observam diferenças entre odores altamente semelhantes e usam esses dados para ajudar no reconhecimento posterior.
+
+As células são diferentes com mitral tendo baixas taxas de disparo e sendo facilmente inibidas por células vizinhas, enquanto as tufadas têm altas taxas de disparo e são mais difíceis de inibir.
+
+Como o circuito neural bulbar transforma as entradas de odor do bulbo em respostas bulbares que são enviadas ao córtex olfativo pode ser parcialmente entendido por um modelo matemático. tubérculo olfativo e giro parahipocampal.
+O tubérculo olfativo conecta-se a inúmeras áreas da amígdala, tálamo, hipotálamo, hipocampo, tronco cerebral, retina, córtex auditivo e sistema olfativo. *No total tem 27 entradas e 20 saídas.
+
+Uma simplificação de seu papel é afirmar que: verifica para garantir que os sinais de odor surgiram de odores reais em vez de irritação das vilosidades, regula o comportamento motor (principalmente social e estereotipado) causado por odores, integra informações sensoriais auditivas e olfativas para concluir as tarefas acima mencionadas , e desempenha um papel na transmissão de sinais positivos para recompensar sensores (e, portanto, está envolvido no vício). é prejudicado e o sensor é beneficiado, respectivamente).
+
+Devido à evolução do cérebro, este processamento é secundário e, portanto, é amplamente despercebido nas interações humanas.
+
+Allomones incluem aromas de flores, herbicidas naturais e produtos químicos vegetais tóxicos naturais.
+
+A informação para esses processos vem do órgão vomeronasal indiretamente através do bulbo olfativo.
+
+Os principais pulsos do bulbo olfativo na amígdala são usados ​​para emparelhar odores com nomes e reconhecer diferenças de odor para odor.Stria terminalis, especificamente os núcleos do leito (BNST), atuam como a via de informação entre a amígdala e o hipotálamo, bem como o hipotálamo e a hipófise glândula.
+
+As anormalidades do BNST geralmente levam à confusão sexual e imaturidade.
+
+O BNST também se conecta à área septal, recompensando o comportamento sexual. Os pulsos mitrais para o hipotálamo promovem/desencorajam a alimentação, enquanto os pulsos do bulbo olfativo acessório regulam os processos reprodutivos e reflexos relacionados ao odor.
+O hipocampo (embora minimamente conectado ao bulbo olfativo principal) recebe quase todas as suas informações olfativas via amígdala (diretamente ou via BNST).
+
+O hipocampo forma novas e reforça as memórias existentes.
+Da mesma forma, o parahipocampo codifica, reconhece e contextualiza cenas.
+
+O giro parahipocampal abriga o mapa topográfico para o olfato.
+O córtex orbitofrontal (COF) está fortemente correlacionado com o giro cingulado e a área septal para atuar como reforço positivo/negativo.
+
+O OFC é a expectativa de recompensa/punição em resposta a estímulos.
+
+O OFC representa a emoção e recompensa na tomada de decisão. O núcleo olfatório anterior distribui sinais recíprocos entre o bulbo olfatório e o córtex piriforme.
+
+O núcleo olfativo anterior é o centro de memória para o olfato.
+Quando diferentes objetos ou componentes de odor são misturados, humanos e outros mamíferos que cheiram a mistura (apresentada por, por exemplo, uma garrafa de cheiro) muitas vezes são incapazes de identificar os componentes da mistura, embora possam reconhecer cada componente individual apresentado sozinho.
+
+Isso ocorre em grande parte porque cada neurônio sensorial de odor pode ser excitado por vários componentes de odor.
+
+Foi proposto que, em um ambiente olfativo tipicamente composto por múltiplos componentes de odor (por exemplo, odor de um cachorro entrando em uma cozinha que contém um odor de café de fundo), o feedback do córtex olfativo para o bulbo olfativo suprime o fundo de odor preexistente (por exemplo, café) via adaptação olfativa, de modo que o odor de primeiro plano recém-chegado (por exemplo, cachorro) possa ser destacado da mistura para reconhecimento.
+
+
+== Significado clínico ==
+
+A perda do olfato é conhecida como anosmia.
+
+A anosmia pode ocorrer em ambos os lados ou em um único lado.
+Os problemas olfativos podem ser divididos em diferentes tipos com base em seu mau funcionamento.
+
+A disfunção olfativa pode ser total (anosmia), incompleta (anosmia parcial, hiposmia ou microsmia), distorcida (disosmia) ou pode ser caracterizada por sensações espontâneas como fantosmia.
+
+A incapacidade de reconhecer odores apesar de um sistema olfativo funcionando normalmente é denominada agnosia olfativa.
+
+A hiperosmia é uma condição rara caracterizada por um olfato anormalmente elevado.
+
+Como a visão e a audição, os problemas olfativos podem ser bilaterais ou unilaterais, ou seja, se uma pessoa tem anosmia no lado direito do nariz, mas não no esquerdo, é uma anosmia unilateral direita.
+
+Por outro lado, se estiver em ambos os lados do nariz, é chamado de anosmia bilateral ou anosmia total. A destruição do bulbo olfatório, trato e córtex primário (área de Brodmann 34) resulta em anosmia do mesmo lado da destruição.
+
+Além disso, a lesão irritativa do uncus resulta em alucinações olfativas.
+Danos ao sistema olfativo podem ocorrer por lesão cerebral traumática, câncer, infecção, inalação de gases tóxicos ou doenças neurodegenerativas, como doença de Parkinson e doença de Alzheimer.
+
+Essas condições podem causar anosmia.
+
+Em contraste, achados recentes sugeriram que os aspectos moleculares da disfunção olfativa podem ser reconhecidos como uma marca registrada de doenças relacionadas à amiloidogênese e pode até haver uma ligação causal através da interrupção do transporte e armazenamento de íons metálicos multivalentes.
+
+Os médicos podem detectar danos ao sistema olfativo apresentando odores ao paciente por meio de um cartão de raspar e cheirar ou fazendo com que o paciente feche os olhos e tente identificar odores comumente disponíveis, como café ou balas de hortelã.
+Os médicos devem excluir outras doenças que inibem ou eliminam "o olfato", como resfriados crônicos ou sinusite, antes de fazer o diagnóstico de que há dano permanente ao sistema olfativo.
+A prevalência de disfunção olfativa na população geral dos EUA foi avaliada por questionário e exame em uma pesquisa nacional de saúde em 2012-2014.
+
+Entre mais de mil pessoas com 40 anos ou mais, 12,0% relataram problema de olfato nos últimos 12 meses e 12,4% apresentaram disfunção olfativa ao exame.
+
+A prevalência aumentou de 4,2% na idade de 40 a 49 anos para 39,4% em 80 anos ou mais e foi maior em homens do que em mulheres, em negros e mexicanos-americanos do que em brancos e em menos do que mais instruídos.
+
+De preocupação com a segurança, 20% das pessoas com 70 anos ou mais não conseguiram identificar fumaça e 31%, gás natural.
+
+
+=== Causas da disfunção olfativa ===
+
+
+As causas comuns de disfunção olfativa: idade avançada, infecções virais, exposição a produtos químicos tóxicos, traumatismo craniano e doenças neurodegenerativas.
+
+
+==== Idade ====
+A idade é a razão mais forte para o declínio olfativo em adultos saudáveis, tendo um impacto ainda maior do que o tabagismo.
+
+Mudanças relacionadas à idade na função do olfato muitas vezes passam despercebidas e a capacidade do olfato raramente é testada clinicamente, ao contrário da audição e da visão. 2% das pessoas com menos de 65 anos de idade têm problemas crônicos de olfato.
+
+Isso aumenta muito entre pessoas de 65 e 80 anos, com cerca de metade apresentando problemas significativos de olfato.
+
+Em seguida, para adultos com mais de 80 anos, os números sobem para quase 75%.
+
+A base para as mudanças relacionadas à idade na função do olfato inclui o fechamento da placa cribriforme e danos cumulativos aos receptores olfativos por repetidos insultos virais e outros ao longo da vida.
+
+
+==== Infecções virais ====
+A causa mais comum de hiposmia e anosmia permanentes são infecções respiratórias superiores.
+
+Tais disfunções não se alteram ao longo do tempo e às vezes podem refletir danos não apenas ao epitélio olfatório, mas também às estruturas olfativas centrais como resultado de invasões virais no cérebro.
+
+Entre esses distúrbios relacionados ao vírus estão o resfriado comum, hepatite, gripe e doenças semelhantes à gripe, bem como herpes.
+
+Notavelmente, o COVID-19 está associado a distúrbios olfativos.
+
+A maioria das infecções virais são irreconhecíveis porque são muito leves ou totalmente assintomáticas.
+
+
+==== Exposição a produtos químicos tóxicos ====
+A exposição crônica a algumas toxinas transportadas pelo ar, como herbicidas, pesticidas, solventes e metais pesados ​​(cádmio, cromo, níquel e manganês), podem alterar a capacidade de olfato.
+
+Esses agentes não apenas danificam o epitélio olfatório, mas também podem entrar no cérebro através da mucosa olfativa.
+
+
+==== Traumatismo craniano ====
+A disfunção olfativa relacionada ao trauma depende da gravidade do trauma e se ocorreu forte aceleração/desaceleração da cabeça.
+
+O impacto occipital e lateral causa mais danos ao sistema olfativo do que o impacto frontal.
+
+No entanto, evidências recentes de indivíduos com lesão cerebral traumática sugerem que a perda do olfato pode ocorrer com alterações na função cerebral fora do córtex olfativo.
+
+
+==== Doenças neurodegenerativas ====
+Os neurologistas observaram que a disfunção olfativa é uma característica cardinal de várias doenças neurodegenerativas, como a doença de Alzheimer e a doença de Parkinson.
+
+A maioria desses pacientes não tem conhecimento de um déficit olfativo até depois do teste, onde 85% a 90% dos pacientes em estágio inicial mostraram diminuição da atividade nas estruturas centrais de processamento de odor. esclerose lateral e esquizofrenia.
+
+Essas doenças têm efeitos mais moderados no sistema olfativo do que as doenças de Alzheimer ou Parkinson.
+
+Além disso, a paralisia supranuclear progressiva e o parkinsonismo estão associados apenas a problemas olfativos menores.
+
+Esses achados levaram à sugestão de que o teste olfativo pode ajudar no diagnóstico de várias doenças neurodegenerativas diferentes. Doenças neurodegenerativas com determinantes genéticos bem estabelecidos também estão associadas à disfunção olfativa.
+
+Tal disfunção, por exemplo, é encontrada em pacientes com doença de Parkinson familiar e naqueles com síndrome de Down.
+
+Outros estudos concluíram que a perda olfativa pode estar associada à deficiência intelectual, em vez de qualquer patologia semelhante à doença de Alzheimer. A doença de Huntington também está associada a problemas na identificação, detecção, discriminação e memória do odor.
+
+O problema é prevalente uma vez que os elementos fenotípicos do transtorno aparecem, embora não se saiba com que antecedência a perda olfativa precede a expressão fenotípica.
+
+
+== História ==
+
+Linda B.
+
+Buck e Richard Axel ganharam o Prêmio Nobel de Fisiologia ou Medicina de 2004 por seu trabalho no sistema olfativo.
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_system
+
+;;;FR;;;
+
+
+
+SYSTÈME OLFACTIF
+
+
+Le système olfactif, ou sens de l'odorat, est le système sensoriel utilisé pour sentir (olfaction).
+
+L'olfaction est l'un des sens particuliers, auxquels sont directement associés des organes spécifiques.
+
+La plupart des mammifères et des reptiles ont un système olfactif principal et un système olfactif accessoire.
+
+Le système olfactif principal détecte les substances en suspension dans l'air, tandis que le système accessoire détecte les stimuli en phase fluide.
+Les sens de l'odorat et du goût (système gustatif) sont souvent appelés ensemble système chimiosensoriel, car ils donnent tous deux au cerveau des informations sur la composition chimique des objets par un processus appelé transduction.
+
+
+== Structure ==
+
+
+
+=== Périphérique ===
+
+Le système olfactif périphérique se compose principalement des narines, de l'os ethmoïde, de la cavité nasale et de l'épithélium olfactif (couches de tissus minces recouverts de mucus qui tapissent la cavité nasale).
+
+Les principaux composants des couches de tissu épithélial sont les muqueuses, les glandes olfactives, les neurones olfactifs et les fibres nerveuses des nerfs olfactifs. Les molécules odorantes peuvent pénétrer dans la voie périphérique et atteindre la cavité nasale soit par les narines lors de l'inhalation (olfaction) ou par la gorge lorsque la langue pousse l'air vers le fond de la cavité nasale lors de la mastication ou de la déglutition (rétro-olfaction).
+
+À l'intérieur de la cavité nasale, le mucus tapissant les parois de la cavité dissout les molécules d'odeur.
+
+Le mucus recouvre également l'épithélium olfactif, qui contient les membranes muqueuses qui produisent et stockent le mucus et les glandes olfactives qui sécrètent les enzymes métaboliques présentes dans le mucus.
+
+
+==== Transduction ====
+
+Les neurones sensoriels olfactifs de l'épithélium détectent les molécules d'odeur dissoutes dans le mucus et transmettent des informations sur l'odeur au cerveau dans un processus appelé transduction sensorielle.
+
+Les neurones olfactifs ont des cils (petits poils) contenant des récepteurs olfactifs qui se lient aux molécules d'odeur, provoquant une réponse électrique qui se propage à travers le neurone sensoriel aux fibres nerveuses olfactives à l'arrière de la cavité nasale. Les nerfs et les fibres olfactives transmettent des informations sur les odeurs du système olfactif périphérique au système olfactif central du cerveau, qui est séparé de l'épithélium par la plaque cribriforme de l'os ethmoïde.
+
+Les fibres nerveuses olfactives, qui proviennent de l'épithélium, traversent la plaque cribriforme, reliant l'épithélium au système limbique du cerveau au niveau des bulbes olfactifs.
+
+
+=== Centrale ===
+
+
+Le bulbe olfactif principal transmet des impulsions aux cellules mitrales et touffues, ce qui aide à déterminer la concentration d'odeur en fonction du moment où certains amas de neurones se déclenchent (appelé «code de synchronisation»).
+
+Ces cellules notent également les différences entre les odeurs très similaires et utilisent ces données pour faciliter une reconnaissance ultérieure.
+
+Les cellules sont différentes, la mitrale ayant de faibles taux de déclenchement et étant facilement inhibée par les cellules voisines, tandis que les touffes ont des taux de déclenchement élevés et sont plus difficiles à inhiber.
+
+La façon dont le circuit neuronal bulbaire transforme les entrées d'odeur dans le bulbe en réponses bulbaires qui sont envoyées au cortex olfactif peut être partiellement comprise par un modèle mathématique. L'uncus abrite le cortex olfactif qui comprend le cortex piriforme (cortex orbitofrontal postérieur), l'amygdale, tubercule olfactif et gyrus parahippocampique.
+Le tubercule olfactif se connecte à de nombreuses zones de l'amygdale, du thalamus, de l'hypothalamus, de l'hippocampe, du tronc cérébral, de la rétine, du cortex auditif et du système olfactif. *Au total, il dispose de 27 entrées et 20 sorties.
+
+Une simplification excessive de son rôle consiste à dire qu'il : vérifie que les signaux olfactifs proviennent d'odeurs réelles plutôt que d'une irritation des villosités, régule le comportement moteur (principalement social et stéréotypé) provoqué par les odeurs, intègre des informations sensorielles auditives et olfactives pour accomplir les tâches susmentionnées , et joue un rôle dans la transmission de signaux positifs aux capteurs de récompense (et est donc impliqué dans la dépendance). est endommagé et le capteur est bénéficié, respectivement) signaux.
+
+En raison de l'évolution du cerveau, ce traitement est secondaire et passe donc largement inaperçu dans les interactions humaines.
+
+Les allomones comprennent les parfums de fleurs, les herbicides naturels et les produits chimiques végétaux toxiques naturels.
+
+L'information pour ces processus provient de l'organe voméronasal indirectement via le bulbe olfactif.
+
+Les principales impulsions du bulbe olfactif dans l'amygdale sont utilisées pour associer les odeurs aux noms et reconnaître les différences d'odeur à odeur. La strie terminale, en particulier les noyaux du lit (BNST), agit comme la voie d'information entre l'amygdale et l'hypothalamus, ainsi que l'hypothalamus et l'hypophyse. glande.
+
+Les anomalies du BNST entraînent souvent une confusion sexuelle et une immaturité.
+
+Le BNST se connecte également à la zone septale, récompensant le comportement sexuel. Les impulsions mitrales vers l'hypothalamus favorisent / découragent l'alimentation, tandis que les impulsions accessoires du bulbe olfactif régulent les processus reproducteurs et réflexes liés aux odeurs.
+L'hippocampe (bien que connecté de manière minimale au bulbe olfactif principal) reçoit la quasi-totalité de ses informations olfactives via l'amygdale (soit directement, soit via le BNST).
+
+L'hippocampe forme de nouveaux et renforce les souvenirs existants.
+De même, le parahippocampe encode, reconnaît et contextualise les scènes.
+
+Le gyrus parahippocampique abrite la carte topographique de l'olfaction.
+Le cortex orbitofrontal (OFC) est fortement corrélé avec le gyrus cingulaire et la zone septale pour agir sur le renforcement positif/négatif.
+
+L'OFC est l'attente de récompense/punition en réponse à des stimuli.
+
+L'OFC représente l'émotion et la récompense dans la prise de décision. Le noyau olfactif antérieur distribue des signaux réciproques entre le bulbe olfactif et le cortex piriforme.
+
+Le noyau olfactif antérieur est le centre de la mémoire de l'odorat.
+Lorsque différents objets ou composants odorants sont mélangés, les humains et autres mammifères reniflant le mélange (présenté par exemple par une bouteille sniff) sont souvent incapables d'identifier les composants du mélange même s'ils peuvent reconnaître chaque composant individuel présenté seul.
+
+C'est en grande partie parce que chaque neurone sensoriel olfactif peut être excité par plusieurs composants olfactifs.
+
+Il a été proposé que, dans un environnement olfactif généralement composé de plusieurs composants d'odeur (par exemple, l'odeur d'un chien entrant dans une cuisine qui contient une odeur de fond de café), la rétroaction du cortex olfactif vers le bulbe olfactif supprime le fond d'odeur préexistant (par exemple, le café) via l'adaptation olfactive, de sorte que l'odeur de premier plan nouvellement arrivée (par exemple, le chien) puisse être isolée du mélange pour être reconnue.
+
+
+== Signification clinique ==
+
+La perte de l'odorat est connue sous le nom d'anosmie.
+
+L'anosmie peut survenir des deux côtés ou d'un seul côté.
+Les problèmes olfactifs peuvent être divisés en différents types en fonction de leur dysfonctionnement.
+
+Le dysfonctionnement olfactif peut être total (anosmie), incomplet (anosmie partielle, hyposmie ou microsmie), déformé (dysosmie), ou peut être caractérisé par des sensations spontanées comme la fantosmie.
+
+Une incapacité à reconnaître les odeurs malgré un système olfactif fonctionnant normalement est appelée agnosie olfactive.
+
+L'hyperosmie est une affection rare caractérisée par un sens de l'odorat anormalement élevé.
+
+Comme la vision et l'ouïe, les problèmes olfactifs peuvent être bilatéraux ou unilatéraux, ce qui signifie que si une personne a une anosmie du côté droit du nez mais pas du gauche, il s'agit d'une anosmie droite unilatérale.
+
+D'autre part, s'il se trouve des deux côtés du nez, on parle d'anosmie bilatérale ou d'anosmie totale. La destruction du bulbe olfactif, des voies et du cortex primaire (zone de Brodmann 34) entraîne une anosmie du même côté que la destruction.
+
+De plus, la lésion irritative de l'uncus entraîne des hallucinations olfactives.
+Des dommages au système olfactif peuvent survenir à la suite d'un traumatisme crânien, d'un cancer, d'une infection, de l'inhalation de vapeurs toxiques ou de maladies neurodégénératives telles que la maladie de Parkinson et la maladie d'Alzheimer.
+
+Ces conditions peuvent provoquer une anosmie.
+
+En revanche, des découvertes récentes suggèrent que les aspects moléculaires du dysfonctionnement olfactif peuvent être reconnus comme une caractéristique des maladies liées à l'amyloïdogenèse et qu'il peut même y avoir un lien de causalité par la perturbation du transport et du stockage des ions métalliques multivalents.
+
+Les médecins peuvent détecter les dommages au système olfactif en présentant au patient des odeurs via une carte à gratter et à renifler ou en demandant au patient de fermer les yeux et d'essayer d'identifier les odeurs couramment disponibles comme le café ou les bonbons à la menthe poivrée.
+Les médecins doivent exclure d'autres maladies qui inhibent ou éliminent « l'odorat », comme les rhumes chroniques ou la sinusite, avant de poser le diagnostic de dommages permanents au système olfactif.
+La prévalence de la dysfonction olfactive dans la population générale des États-Unis a été évaluée par questionnaire et examen dans une enquête nationale sur la santé en 2012-2014.
+
+Parmi plus d'un millier de personnes âgées de 40 ans et plus, 12,0 % ont déclaré un problème d'odorat au cours des 12 derniers mois et 12,4 % avaient un dysfonctionnement olfactif à l'examen.
+
+La prévalence est passée de 4,2% à 40-49 ans à 39,4% à 80 ans et plus et était plus élevée chez les hommes que chez les femmes, chez les Noirs et les Américains d'origine mexicaine que chez les Blancs et chez les moins instruits.
+
+Par souci de sécurité, 20 % des personnes âgées de 70 ans et plus étaient incapables d'identifier la fumée et 31 %, le gaz naturel.
+
+
+=== Causes du dysfonctionnement olfactif ===
+
+
+Les causes courantes de dysfonctionnement olfactif : âge avancé, infections virales, exposition à des produits chimiques toxiques, traumatisme crânien et maladies neurodégénératives.
+
+
+==== Âge ====
+L'âge est la principale raison du déclin olfactif chez les adultes en bonne santé, ayant un impact encore plus important que le tabagisme.
+
+Les modifications de la fonction olfactive liées à l'âge passent souvent inaperçues et la capacité olfactive est rarement testée cliniquement, contrairement à l'ouïe et à la vision. 2% des personnes de moins de 65 ans ont des problèmes d'odorat chroniques.
+
+Cela augmente considérablement entre les personnes âgées de 65 à 80 ans, environ la moitié ayant des problèmes d'odorat importants.
+
+Ensuite, pour les adultes de plus de 80 ans, les chiffres grimpent à près de 75 %.
+
+La base des modifications de la fonction olfactive liées à l'âge comprend la fermeture de la plaque cribriforme et les dommages cumulés aux récepteurs olfactifs dus à des agressions virales et autres répétées tout au long de la vie.
+
+
+==== Infections virales ====
+Les infections des voies respiratoires supérieures sont la cause la plus fréquente d'hyposmie et d'anosmie permanentes.
+
+De tels dysfonctionnements ne montrent aucun changement au fil du temps et peuvent parfois refléter des dommages non seulement à l'épithélium olfactif, mais également aux structures olfactives centrales à la suite d'invasions virales dans le cerveau.
+
+Parmi ces troubles liés au virus figurent le rhume, l'hépatite, la grippe et les syndromes grippaux, ainsi que l'herpès.
+
+Notamment, le COVID-19 est associé à des troubles olfactifs.
+
+La plupart des infections virales sont méconnaissables car elles sont si bénignes ou totalement asymptomatiques.
+
+
+==== Exposition à des produits chimiques toxiques ====
+L'exposition chronique à certaines toxines en suspension dans l'air telles que les herbicides, les pesticides, les solvants et les métaux lourds (cadmium, chrome, nickel et manganèse) peut altérer la capacité à sentir.
+
+Non seulement ces agents endommagent l'épithélium olfactif, mais ils sont susceptibles de pénétrer dans le cerveau via la muqueuse olfactive.
+
+
+==== Traumatisme crânien ====
+Le dysfonctionnement olfactif lié au traumatisme dépend de la gravité du traumatisme et de la survenue ou non d'une forte accélération/décélération de la tête.
+
+L'impact occipital et latéral cause plus de dommages au système olfactif que l'impact frontal.
+
+Cependant, des preuves récentes provenant de personnes atteintes de lésions cérébrales traumatiques suggèrent que la perte d'odorat peut survenir avec des changements dans la fonction cérébrale en dehors du cortex olfactif.
+
+
+==== Maladies neurodégénératives ====
+Les neurologues ont observé que le dysfonctionnement olfactif est une caractéristique cardinale de plusieurs maladies neurodégénératives telles que la maladie d'Alzheimer et la maladie de Parkinson.
+
+La plupart de ces patients ne sont conscients d'un déficit olfactif qu'après les tests où 85 % à 90 % des patients à un stade précoce ont montré une diminution de l'activité dans les structures centrales de traitement des odeurs. D'autres maladies neurodégénératives qui affectent le dysfonctionnement olfactif comprennent la maladie de Huntington, la démence multi-infarctus, l'amyotrophie la sclérose latérale et la schizophrénie.
+
+Ces maladies ont des effets plus modérés sur le système olfactif que les maladies d'Alzheimer ou de Parkinson.
+
+De plus, la paralysie supranucléaire progressive et le parkinsonisme ne sont associés qu'à des problèmes olfactifs mineurs.
+
+Ces découvertes ont conduit à la suggestion que les tests olfactifs pourraient aider au diagnostic de plusieurs maladies neurodégénératives différentes. Les maladies neurodégénératives avec des déterminants génétiques bien établis sont également associées à un dysfonctionnement olfactif.
+
+Un tel dysfonctionnement, par exemple, se retrouve chez les patients atteints de la maladie de Parkinson familiale et ceux atteints du syndrome de Down.
+
+D'autres études ont conclu que la perte olfactive peut être associée à une déficience intellectuelle, plutôt qu'à une pathologie semblable à la maladie d'Alzheimer. La maladie de Huntington est également associée à des problèmes d'identification, de détection, de discrimination et de mémoire des odeurs.
+
+Le problème est répandu une fois que les éléments phénotypiques du trouble apparaissent, bien que l'on ne sache pas combien de temps à l'avance la perte olfactive précède l'expression phénotypique.
+
+
+== Historique ==
+
+Linda B
+
+Buck et Richard Axel ont remporté le prix Nobel de physiologie ou médecine 2004 pour leurs travaux sur le système olfactif.
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_system

@@ -1,0 +1,36 @@
+
+LICENSE(S)
+
+
+The content of this file is a derivative of the model from 'BodyParts3D' made by 'Z-Anatomy' in a modified version of 'Blender'
+
+Please be sure attribute any content copied or derived from the content of this file as follows:
+
+-"BodyParts3D - The Database Center for Life Science - CC-BY-SA 2.1 Japan"
+
+-"Z-Anatomy - The open source atlas of anatomy - CC-BY-SA 4.0"
+
+
+With regard to this content, you are licensed to:
+
+    freely access part or whole of this database, and acquire data;
+    freely redistribute part or whole of the data from this database; and
+    freely create and distribute database and other derivative works based on part or whole of the data from this database,
+
+under the license, as long as you comply with the following conditions:
+
+    You must attribute this database in the manner specified by the author or licensor when distributing part or whole of this database or any derivative work.
+    You must distribute any derivative work based on part or whole of the data from this database under the same license.
+
+A good practice is to inform the authors when derivated works are produced.
+
+
+Other models have been included and adapted:
+
+"Brainder" and "White matter" from the University of Washington
+"Cranial Nerves and Foramina - by University of Dundee, CAHID - CC-BY 4.0"
+"Anatomy of the Inner Ear - by University of Dundee School of Medicine - CC-BY-NC-SA 4.0"
+"Kidney - by lissiecowley - CC-BY-NC 4.0"
+
+
+The license of 'Blender' is included inside 'Anatomy Blender'

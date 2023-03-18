@@ -1,0 +1,20 @@
+
+
+CROSS SECTION PLANE
+
+
+When the model is in Rendered Viewport Shading 
+(Press 'Z' to display/hide colors)
+
+Press 'G' and move the mouse
+    to move the plane along its normal
+
+By default, all the anatomical structures are affected.
+
+Press 'N'
+    To open the options
+In'Z-Anatomy'>'Cross section', uncheck the options to:
+    -affect only certain layers/systems,
+    -change the direction
+    
+The upper X/Y/Z buttons affect only the selected objects.

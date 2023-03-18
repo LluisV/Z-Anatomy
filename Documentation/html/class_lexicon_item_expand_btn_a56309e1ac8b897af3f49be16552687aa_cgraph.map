@@ -1,0 +1,12 @@
+<map id="LexiconItemExpandBtn.OnPointerEnter" name="LexiconItemExpandBtn.OnPointerEnter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,105,224,145"/>
+<area shape="rect" id="node2" href="$class_lexicon_element.html#af87392997e4cc6b438d58ee3a47d9b26" title=" " alt="" coords="272,55,424,80"/>
+<area shape="rect" id="node6" href="$class_lexicon_element.html#adb82cc60a87b44e1aed2e5c32b2e60eb" title=" " alt="" coords="273,169,423,195"/>
+<area shape="rect" id="node3" href="$class_expand_collapse_u_i.html#a5eac2ec325241121a9d0280d54f245ba" title=" " alt="" coords="472,5,655,31"/>
+<area shape="rect" id="node4" href="$class_lexicon.html#ac99950463617dda4ed8f950212523e2c" title=" " alt="" coords="488,55,639,80"/>
+<area shape="rect" id="node5" href="$class_lexicon.html#a2c65f36c5f3b0156090938c9f54d6290" title=" " alt="" coords="475,105,651,145"/>
+<area shape="rect" id="node7" href="$class_expand_collapse_u_i.html#acfb79a16226647ec829f9e9820c7d43b" title=" " alt="" coords="475,169,651,195"/>
+<area shape="rect" id="node8" href="$class_lexicon.html#a9c2406c264466c78dab2c14de27d98f4" title=" " alt="" coords="483,219,643,244"/>
+<area shape="rect" id="node9" href="$class_button_sprite_swap.html#aa4153dd7b68e2043e6525d3ab5b3ffee" title=" " alt="" coords="713,189,879,215"/>
+<area shape="rect" id="node10" href="$class_lexicon_element.html#aad5dbd140395a7d2ba6fe67964725bd3" title=" " alt="" coords="703,239,889,279"/>
+</map>

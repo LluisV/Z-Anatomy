@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Any body part (structure or individual, tangible or not, label or not) has its own 'NameAndDescription' and 'BodyPartVisibility' script.  ">
+    <Position X="11" Y="1.342" Height="0.864" Width="2.335" />
+  </Comment>
+  <Comment CommentText="Tangible body parts can have labels. Each label has a line that points to the physical section to which it refers. The line is defined by two child objects ('min' &amp; 'max') that define the origin and end point.">
+    <Position X="14.781" Y="6.698" Height="1.323" Width="2.335" />
+  </Comment>
+  <Comment CommentText="The tangible parts of the body and therefore selectable from 3D space.">
+    <Position X="14.75" Y="1.25" Height="1.323" Width="2.335" />
+  </Comment>
+  <Comment CommentText="The camera behaviour (rotate, move, zoom, etc.)">
+    <Position X="2.022" Y="1.37" Height="0.864" Width="2.335" />
+  </Comment>
+  <Comment CommentText="Contains the processes necessary to select and deselect objects">
+    <Position X="7.56" Y="1.367" Height="0.864" Width="2.335" />
+  </Comment>
+  <Comment CommentText="Detect clicks on 3D objects and act accordingly">
+    <Position X="4.759" Y="1.382" Height="0.864" Width="2.335" />
+  </Comment>
+  <Class Name="TangibleBodyPart">
+    <Position X="14.75" Y="2.75" Width="2.25" />
+    <Members>
+      <Field Name="actualPos" Hidden="true" />
+      <Method Name="AddNote" Hidden="true" />
+      <Method Name="Awake" Hidden="true" />
+      <Field Name="bounds" Hidden="true" />
+      <Field Name="cam" Hidden="true" />
+      <Field Name="center" Hidden="true" />
+      <Field Name="childs" Hidden="true" />
+      <Field Name="displaced" Hidden="true" />
+      <Field Name="distanceToCamera" Hidden="true" />
+      <Method Name="HideNotes" Hidden="true" />
+      <Method Name="InitializeSecondaryMaterials" Hidden="true" />
+      <Field Name="labels" Hidden="true" />
+      <Field Name="meshCollider" Hidden="true" />
+      <Field Name="mr" Hidden="true" />
+      <Field Name="nameScript" Hidden="true" />
+      <Field Name="notes" Hidden="true" />
+      <Field Name="originalPos" Hidden="true" />
+      <Field Name="primaryMaterials" Hidden="true" />
+      <Field Name="secondaryColorWeight" Hidden="true" />
+      <Field Name="secondaryMaterials" Hidden="true" />
+      <Method Name="ShowNotes" Hidden="true" />
+      <Method Name="Start" Hidden="true" />
+      <Field Name="visibilityScript" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgCBAQECKAAEhgIAACAgEBAAAgAAEAAYQAGUQEIIsA=</HashCode>
+      <FileName>Assets\Scripts\Base\TangibleBodyPart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BodyPartVisibility">
+    <Position X="11" Y="4.75" Width="3" />
+    <Members>
+      <Method Name="AddChildInsertions" Hidden="true" />
+      <Method Name="Awake" Hidden="true" />
+      <Field Name="childs" Hidden="true" />
+      <Field Name="insertionMuscles" Hidden="true" />
+      <Field Name="insertions" Hidden="true" />
+      <Field Name="insertionsOn" Hidden="true" />
+      <Field Name="isSelected" Hidden="true" />
+      <Field Name="isVisible" Hidden="true" />
+      <Field Name="labels" Hidden="true" />
+      <Field Name="labelsOn" Hidden="true" />
+      <Field Name="lexiconElement" Hidden="true" />
+      <Field Name="muscleNerves" Hidden="true" />
+      <Field Name="nameScript" Hidden="true" />
+      <Field Name="nerveMuscles" Hidden="true" />
+      <Method Name="ShowBonesInsertions" Hidden="true" />
+      <Method Name="ShowMuscleInsertions" Hidden="true" />
+      <Method Name="Start" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CoUACCQQAKQAABACCRCQACQABIAAAAUAEJAAAwoUBEA=</HashCode>
+      <FileName>Assets\Scripts\Base\BodyPartVisibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Label">
+    <Position X="14.75" Y="8.25" Width="1.5" />
+    <Members>
+      <Field Name="_propBlock" Hidden="true" />
+      <Field Name="_renderer" Hidden="true" />
+      <Method Name="Awake" Hidden="true" />
+      <Field Name="boxCollider" Hidden="true" />
+      <Field Name="cam" Hidden="true" />
+      <Field Name="color" Hidden="true" />
+      <Field Name="fontSize" Hidden="true" />
+      <Field Name="hasLine" Hidden="true" />
+      <Field Name="labelMaterial" Hidden="true" />
+      <Field Name="line" Hidden="true" />
+      <Field Name="lineDirection" Hidden="true" />
+      <Field Name="nameScript" Hidden="true" />
+      <Field Name="originPoint" Hidden="true" />
+      <Field Name="parent" Hidden="true" />
+      <Field Name="parentScale" Hidden="true" />
+      <Field Name="rect" Hidden="true" />
+      <Method Name="Start" Hidden="true" />
+      <Field Name="text" Hidden="true" />
+      <Method Name="Update" Hidden="true" />
+      <Field Name="visibilityScript" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAUADAQAIKAAAQBDEIAAMAAAEACAAICIQAAAQAAAAkA=</HashCode>
+      <FileName>Assets\Scripts\Base\Label.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NameAndDescription">
+    <Position X="11" Y="2.5" Width="2.25" />
+    <Members>
+      <Field Name="allNames" Hidden="true" />
+      <Field Name="allSynonyms" Hidden="true" />
+      <Field Name="description" Hidden="true" />
+      <Field Name="leftRight" Hidden="true" />
+      <Field Name="originalName" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAEQAAAAAAQIAACAAAAAABAAAAQAAAAAAAAAEE=</HashCode>
+      <FileName>Assets\Scripts\Base\NameAndDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line" Collapsed="true">
+    <Position X="16.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEBAAEACAAAAABAIAAEAAAkACAAAAAAEgAAAEAAkA=</HashCode>
+      <FileName>Assets\Scripts\Base\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController">
+    <Position X="2" Y="2.5" Width="2.25" />
+    <Members>
+      <Field Name="bounds" Hidden="true" />
+      <Field Name="cam" Hidden="true" />
+      <Field Name="cameraCenter" Hidden="true" />
+      <Field Name="cameraZoomAnimationTime" Hidden="true" />
+      <Field Name="defaulDistance" Hidden="true" />
+      <Field Name="defaultCenter" Hidden="true" />
+      <Field Name="defaultTarget" Hidden="true" />
+      <Field Name="distance" Hidden="true" />
+      <Field Name="distanceCurve" Hidden="true" />
+      <Field Name="eventSys" Hidden="true" />
+      <Field Name="finalmask" Hidden="true" />
+      <Field Name="instance" Hidden="true" />
+      <Field Name="lastMousePosition" Hidden="true" />
+      <Field Name="layer_mask1" Hidden="true" />
+      <Field Name="layer_mask2" Hidden="true" />
+      <Field Name="layer_mask3" Hidden="true" />
+      <Field Name="lerping" Hidden="true" />
+      <Field Name="lerpPosCoroutine" Hidden="true" />
+      <Field Name="lerpPosHorizontalCoroutine" Hidden="true" />
+      <Field Name="MAX_DISTANCE" Hidden="true" />
+      <Field Name="MIN_DISTANCE" Hidden="true" />
+      <Field Name="movementIsBlocked" Hidden="true" />
+      <Field Name="movingCenter" Hidden="true" />
+      <Field Name="offset" Hidden="true" />
+      <Field Name="onRotateCoroutine" Hidden="true" />
+      <Field Name="pivot" Hidden="true" />
+      <Field Name="positionCurve" Hidden="true" />
+      <Field Name="raycaster" Hidden="true" />
+      <Field Name="rotationCurve" Hidden="true" />
+      <Field Name="rotationOffset" Hidden="true" />
+      <Field Name="rotationVelocity" Hidden="true" />
+      <Field Name="target" Hidden="true" />
+      <Field Name="trans" Hidden="true" />
+      <Field Name="x" Hidden="true" />
+      <Field Name="xSpeed" Hidden="true" />
+      <Field Name="y" Hidden="true" />
+      <Field Name="yMaxLimit" Hidden="true" />
+      <Field Name="yMinLimit" Hidden="true" />
+      <Field Name="ySpeed" Hidden="true" />
+      <Field Name="z" Hidden="true" />
+      <Field Name="zoomVelocity" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gLSABQAAhCgAACFBJBIgMAERAEhAQkBQCQhjIQBsCkY=</HashCode>
+      <FileName>Assets\Scripts\Base\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaycastObject">
+    <Position X="4.75" Y="2.5" Width="2.25" />
+    <Members>
+      <Method Name="Awake" Hidden="true" />
+      <Field Name="bodyPartScript" Hidden="true" />
+      <Field Name="cam" Hidden="true" />
+      <Field Name="canvas" Hidden="true" />
+      <Field Name="clickRadius" Hidden="true" />
+      <Field Name="finalmask" Hidden="true" />
+      <Field Name="firstMousePos" Hidden="true" />
+      <Field Name="highlightText" Hidden="true" />
+      <Field Name="highlightTextRt" Hidden="true" />
+      <Field Name="hit" Hidden="true" />
+      <Field Name="hits" Hidden="true" />
+      <Field Name="instance" Hidden="true" />
+      <Method Name="LateUpdate" Hidden="true" />
+      <Field Name="layer_mask1" Hidden="true" />
+      <Field Name="layer_mask2" Hidden="true" />
+      <Field Name="layer_mask3" Hidden="true" />
+      <Field Name="layer_mask4" Hidden="true" />
+      <Field Name="layer_mask5" Hidden="true" />
+      <Field Name="mouseTextOffset" Hidden="true" />
+      <Field Name="objectSelected" Hidden="true" />
+      <Field Name="prevbodyPartScript" Hidden="true" />
+      <Field Name="raycastBlocked" Hidden="true" />
+      <Method Name="Start" Hidden="true" />
+      <Method Name="Update" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABQAJEAgACAAAkBGgAAAIACDAARAAEBAAAAAZAAIgGA=</HashCode>
+      <FileName>Assets\Scripts\Base\RaycastObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectedObjectsManagement">
+    <Position X="7.5" Y="2.5" Width="2.5" />
+    <Members>
+      <Field Name="activeObjects" Hidden="true" />
+      <Method Name="Awake" Hidden="true" />
+      <Field Name="cam" Hidden="true" />
+      <Field Name="Instance" Hidden="true" />
+      <Field Name="lastIsolatedObjects" Hidden="true" />
+      <Field Name="lastParentSelected" Hidden="true" />
+      <Field Name="selectedObjects" Hidden="true" />
+      <Method Name="Start" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAABBACACDAABgIEIEYAAAAAAAgAAEAyCIAAQAAAEQ=</HashCode>
+      <FileName>Assets\Scripts\Management\SelectedObjectsManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,1524 @@
+
+
+TRIGEMINAL NERVE (V)
+
+
+The trigeminal nerve (the fifth cranial nerve, or simply CN V) is a nerve responsible for sensation in the face and motor functions such as biting and chewing; it is the most complex of the cranial nerves. 
+
+Its name ("trigeminal" = tri-, or three, and - geminus, or twin: thrice-twinned) derives from each of the two nerves (one on each side of the pons) having three major branches: the ophthalmic nerve (V1), the maxillary nerve (V2), and the mandibular nerve (V3). 
+
+The ophthalmic and maxillary nerves are purely sensory, whereas the mandibular nerve supplies motor as well as sensory (or "cutaneous") functions. 
+
+Adding to the complexity of this nerve is that autonomic nerve fibers as well as special sensory fibers (taste) are contained within it.
+
+The motor division of the trigeminal nerve derives from the basal plate of the embryonic pons, and the sensory division originates in the cranial neural crest. 
+
+Sensory information from the face and body is processed by parallel pathways in the central nervous system.
+
+
+== Structure ==
+
+The three major branches of the trigeminal nerve—the ophthalmic nerve (V1), the maxillary nerve (V2) and the mandibular nerve (V3)—converge on the trigeminal ganglion (also called the semilunar ganglion or gasserian ganglion), located within Meckel's cave and containing the cell bodies of incoming sensory-nerve fibers. 
+
+The trigeminal ganglion is analogous to the dorsal root ganglia of the spinal cord, which contain the cell bodies of incoming sensory fibers from the rest of the body.
+From the trigeminal ganglion, a single, large sensory root (portio major) enters the brainstem at the level of the pons. 
+
+Immediately adjacent to the sensory root, a smaller motor root (portio minor) emerges from the pons at the same level. 
+
+Motor fibers pass through the trigeminal ganglion without synapsing on their way to peripheral muscles, but their cell bodies are located in the nucleus of the fifth nerve, deep within the pons. 
+
+The areas of cutaneous distribution (dermatomes) of the three sensory branches of the trigeminal nerve have sharp borders with relatively little overlap (unlike dermatomes in the rest of the body, which have considerable overlap). 
+
+The injection of a local anesthetic, such as lidocaine, results in the complete loss of sensation from well-defined areas of the face and mouth. 
+
+For example, teeth on one side of the jaw can be numbed by injecting the mandibular nerve. 
+
+Occasionally, injury or disease processes may affect two (or all three) branches of the trigeminal nerve; in these cases, the involved branches may be termed:
+
+V1/V2 distribution – Referring to the ophthalmic and maxillary branches
+V2/V3 distribution – Referring to the maxillary and mandibular branches
+V1-V3 distribution – Referring to all three branchesNerves on the left side of the jaw slightly outnumber the nerves on the right side of the jaw.
+
+
+=== Sensory branches ===
+
+
+The ophthalmic, maxillary and mandibular branches leave the skull through three separate foramina: the superior orbital fissure, the foramen rotundum and the foramen ovale, respectively. 
+
+The ophthalmic nerve (V1) carries sensory information from the scalp and forehead, the upper eyelid, the conjunctiva and cornea of the eye, the nose (including the tip of the nose, except alae nasi), the nasal mucosa, the frontal sinuses and parts of the meninges (the dura and blood vessels). 
+
+The maxillary nerve (V2) carries sensory information from the lower eyelid and cheek, the nares and upper lip, the upper teeth and gums, the nasal mucosa, the palate and roof of the pharynx, the maxillary, ethmoid and sphenoid sinuses and parts of the meninges. 
+
+The mandibular nerve (V3) carries sensory information from the lower lip, the lower teeth and gums, the chin and jaw (except the angle of the jaw, which is supplied by C2-C3), parts of the external ear and parts of the meninges. 
+
+The mandibular nerve carries touch-position and pain-temperature sensations from the mouth. 
+
+Although it does not carry taste sensation (the chorda tympani is responsible for taste), one of its branches—the lingual nerve—carries sensation from the tongue.
+
+The peripheral processes of mesencephalic nucleus of V neurons run in the motor root of the trigeminal nerve and terminate in the muscle spindles in the muscles of mastication. 
+
+They are proprioceptive fibers, conveying information regarding the location of the masticatory muscles. 
+
+The central processes of mesencephalic V neurons synapse in the motor nucleus V.
+
+
+== Function ==
+
+The sensory function of the trigeminal nerve is to provide tactile, proprioceptive, and nociceptive afference to the face and mouth. 
+
+Its motor function activates the muscles of mastication, the tensor tympani, tensor veli palatini, mylohyoid and the anterior belly of the digastric.
+
+The trigeminal nerve carries general somatic afferent fibers (GSA), which innervate the skin of the face via ophthalmic (V1), maxillary (V2) and mandibular (V3) divisions. 
+
+The trigeminal nerve also carries special visceral efferent (SVE) axons, which innervate the muscles of mastication via the mandibular (V3) division.
+
+
+=== Muscles ===
+
+The motor component of the mandibular division (V3) of the trigeminal nerve controls the movement of eight muscles, including the four muscles of mastication: the masseter, the temporal muscle, and the medial and lateral pterygoids. 
+
+The other four muscles are the tensor veli palatini, the mylohyoid, the anterior belly of the digastric and the tensor tympani. 
+
+A useful mnemonic for remembering these muscles is "My Tensors Dig Ants 4 MoM" (Mylohyoid—Tensor Tympani + Tensor Veli Palatini—Digastric (Anterior) – 4 Muscles of Mastication (Temporalis, Masseter, Medial and Lateral Pterygoids))
+With the exception of the tensor tympani, all these muscles are involved in biting, chewing and swallowing and all have bilateral cortical representation. 
+
+A unilateral central lesion (for example, a stroke), no matter how large, is unlikely to produce an observable deficit. 
+
+Injury to a peripheral nerve can cause paralysis of muscles on one side of the jaw, with the jaw deviating towards the paralyzed side when it opens. 
+
+This direction of the mandible is due to the action of the functioning pterygoids on the opposite side.
+
+
+=== Sensation ===
+
+
+The two basic types of sensation are touch-position and pain-temperature. 
+
+Touch-position input comes to attention immediately, but pain-temperature input reaches the level of consciousness after a delay; when a person steps on a pin, the awareness of stepping on something is immediate but the pain associated with it is delayed.
+
+Touch-position information is generally carried by myelinated (fast-conducting) nerve fibers, and pain-temperature information by unmyelinated (slow-conducting) fibers. 
+
+The primary sensory receptors for touch-position (Meissner’s corpuscles, Merkel's receptors, Pacinian corpuscles, Ruffini’s corpuscles, hair receptors, muscle spindle organs and Golgi tendon organs) are structurally more complex than those for pain-temperature, which are nerve endings.
+
+Sensation in this context refers to the conscious perception of touch-position and pain-temperature information, rather than the special senses (smell, sight, taste, hearing and balance) processed by different cranial nerves and sent to the cerebral cortex through different pathways. 
+
+The perception of magnetic fields, electrical fields, low-frequency vibrations and infrared radiation by some nonhuman vertebrates is processed by their equivalent of the fifth cranial nerve.
+
+Touch in this context refers to the perception of detailed, localized tactile information, such as two-point discrimination (the difference between touching one point and two closely spaced points) or the difference between coarse, medium or fine sandpaper. 
+
+People without touch-position perception can feel the surface of their bodies and perceive touch in a broad sense, but they lack perceptual detail.
+Position, in this context, refers to conscious proprioception. 
+
+Proprioceptors (muscle spindle and Golgi tendon organs) provide information about joint position and muscle movement. 
+
+Although much of this information is processed at an unconscious level (primarily by the cerebellum and the vestibular nuclei), some is available at a conscious level.
+Touch-position and pain-temperature sensations are processed by different pathways in the central nervous system. 
+
+This hard-wired distinction is maintained up to the cerebral cortex. 
+
+Within the cerebral cortex, sensations are linked with other cortical areas.
+
+
+=== Sensory pathways ===
+
+Sensory pathways from the periphery to the cortex are separate for touch-position and pain-temperature sensations. 
+
+All sensory information is sent to specific nuclei in the thalamus. 
+
+Thalamic nuclei, in turn, send information to specific areas in the cerebral cortex. 
+
+Each pathway consists of three bundles of nerve fibers connected in series:
+
+The secondary neurons in each pathway decussate (cross the spinal cord or brainstem), because the spinal cord develops in segments. 
+
+Decussated fibers later reach and connect these segments with the higher centers. 
+
+The optic chiasm is the primary cause of decussation; nasal fibers of the optic nerve cross (so each cerebral hemisphere receives contralateral—opposite—vision) to keep the interneuronal connections responsible for processing information short. 
+
+All sensory and motor pathways converge and diverge to the contralateral hemisphere.Although sensory pathways are often depicted as chains of individual neurons connected in series, this is an oversimplification. 
+
+Sensory information is processed and modified at each level in the chain by interneurons and input from other areas of the nervous system. 
+
+For example, cells in the main trigeminal nucleus (Main V in the diagram below) receive input from the reticular formation and cerebral cortex. 
+
+This information contributes to the final output of the cells in Main V to the thalamus.
+
+Touch-position information from the body is carried to the thalamus by the medial lemniscus, and from the face by the trigeminal lemniscus (both the anterior and posterior trigeminothalamic tracts). 
+
+Pain-temperature information from the body is carried to the thalamus by the spinothalamic tract, and from the face by the anterior division of the trigeminal lemniscus (also called the anterior trigeminothalamic tract).
+
+Pathways for touch-position and pain-temperature sensations from the face and body merge in the brainstem, and touch-position and pain-temperature sensory maps of the entire body are projected onto the thalamus. 
+
+From the thalamus, touch-position and pain-temperature information is projected onto the cerebral cortex.
+
+
+=== Summary ===
+
+The complex processing of pain-temperature information in the thalamus and cerebral cortex (as opposed to the relatively simple, straightforward processing of touch-position information) reflects a phylogenetically older, more primitive sensory system. 
+
+The detailed information received from peripheral touch-position receptors is superimposed on a background of awareness, memory and emotions partially set by peripheral pain-temperature receptors.
+
+Although thresholds for touch-position perception are relatively easy to measure, those for pain-temperature perception are difficult to define and measure. 
+
+"Touch" is an objective sensation, but "pain" is an individualized sensation which varies among different people and is conditioned by memory and emotion. 
+
+Anatomical differences between the pathways for touch-position perception and pain-temperature sensation help explain why pain, especially chronic pain, is difficult to manage.
+
+
+== Trigeminal nucleus ==
+
+
+All sensory information from the face, both touch-position and pain-temperature, is sent to the trigeminal nucleus. 
+
+In classical anatomy most sensory information from the face is carried by the fifth nerve, but sensation from parts of the mouth, parts of the ear and parts of the meninges is carried by general somatic afferent fibers in cranial nerves VII (the facial nerve), IX (the glossopharyngeal nerve) and X (the vagus nerve).
+
+All sensory fibers from these nerves terminate in the trigeminal nucleus. 
+
+On entering the brainstem, sensory fibers from V, VII, IX and X are sorted and sent to the trigeminal nucleus (which contains a sensory map of the face and mouth). 
+
+The spinal counterparts of the trigeminal nucleus (cells in the dorsal horn and dorsal column nuclei of the spinal cord) contain a sensory map of the rest of the body.
+
+The trigeminal nucleus extends throughout the brainstem, from the midbrain to the medulla, continuing into the cervical cord (where it merges with the dorsal horn cells of the spinal cord). 
+
+The nucleus is divided into three parts, visible in microscopic sections of the brainstem. 
+
+From caudal to rostral (ascending from the medulla to the midbrain), they are the spinal trigeminal, the principal sensory and the mesencephalic nuclei. 
+
+The parts of the trigeminal nucleus receive different types of sensory information; the spinal trigeminal nucleus receives pain-temperature fibers, the principal sensory nucleus receives touch-position fibers and the mesencephalic nucleus receives proprioceptor and mechanoreceptor fibers from the jaws and teeth.
+
+
+=== Spinal trigeminal nucleus ===
+
+The spinal trigeminal nucleus represents pain-temperature sensation from the face. 
+
+Pain-temperature fibers from peripheral nociceptors are carried in cranial nerves V, VII, IX and X. 
+
+On entering the brainstem, sensory fibers are grouped and sent to the spinal trigeminal nucleus. 
+
+This bundle of incoming fibers can be identified in cross-sections of the pons and medulla as the spinal tract of the trigeminal nucleus, which parallels the spinal trigeminal nucleus. 
+
+The spinal tract of V is analogous to, and continuous with, Lissauer's tract in the spinal cord.
+The spinal trigeminal nucleus contains a pain-temperature sensory map of the face and mouth. 
+
+From the spinal trigeminal nucleus, secondary fibers cross the midline and ascend in the trigeminothalamic (quintothalamic) tract to the contralateral thalamus. 
+
+Pain-temperature fibers are sent to multiple thalamic nuclei. 
+
+The central processing of pain-temperature information differs from the processing of touch-position information.
+
+
+==== Somatotopic representation ====
+
+Exactly how pain-temperature fibers from the face are distributed to the spinal trigeminal nucleus is disputed. 
+
+The present general understanding is that pain-temperature information from all areas of the human body is represented in the spinal cord and brainstem in an ascending, caudal-to-rostral fashion. 
+
+Information from the lower extremities is represented in the lumbar cord, and that from the upper extremities in the thoracic cord. 
+
+Information from the neck and the back of the head is represented in the cervical cord, and that from the face and mouth in the spinal trigeminal nucleus.
+Within the spinal trigeminal nucleus, information is represented in a layered, or "onion-skin" fashion. 
+
+The lowest levels of the nucleus (in the upper cervical cord and lower medulla) represent peripheral areas of the face (the scalp, ears and chin). 
+
+Higher levels (in the upper medulla) represent central areas (nose, cheeks and lips). 
+
+The highest levels (in the pons) represent the mouth, teeth and pharyngeal cavity. 
+The onion skin distribution differs from the dermatome distribution of the peripheral branches of the fifth nerve. 
+
+Lesions which destroy lower areas of the spinal trigeminal nucleus (but spare higher areas) preserve pain-temperature sensation in the nose (V1), upper lip (V2) and mouth (V3) and remove pain-temperature sensation from the forehead (V1), cheeks (V2) and chin (V3). 
+
+Although analgesia in this distribution is "nonphysiologic" in the traditional sense (because it crosses several dermatomes), this analgesia is found in humans after surgical sectioning of the spinal tract of the trigeminal nucleus.
+The spinal trigeminal nucleus sends pain-temperature information to the thalamus and sends information to the mesencephalon and the reticular formation of the brainstem. 
+
+The latter pathways are analogous to the spinomesencephalic and spinoreticular tracts of the spinal cord, which send pain-temperature information from the rest of the body to the same areas. 
+
+The mesencephalon modulates painful input before it reaches the level of consciousness. 
+
+The reticular formation is responsible for the automatic (unconscious) orientation of the body to painful stimuli. 
+
+Incidentally, Sulfur-containing compounds found in plants in the onion family stimulate receptors found in trigeminal ganglia, bypassing the olfactory system.
+
+
+=== Principal nucleus ===
+
+The principal nucleus represents touch-pressure sensation from the face. 
+
+It is located in the pons, near the entrance for the fifth nerve. 
+
+Fibers carrying touch-position information from the face and mouth via cranial nerves V, VII, IX, and X are sent to this nucleus when they enter the brainstem.
+
+The principal nucleus contains a touch-position sensory map of the face and mouth, just as the spinal trigeminal nucleus contains a complete pain-temperature map. 
+
+This nucleus is analogous to the dorsal column nuclei (the gracile and cuneate nuclei) of the spinal cord, which contain a touch-position map of the rest of the body.
+
+From the principal nucleus, secondary fibers cross the midline and ascend in the ventral trigeminothalamic tract to the contralateral thalamus. 
+
+The ventral trigeminothalamic tract runs parallel to the medial lemniscus, which carries touch-position information from the rest of the body to the thalamus.
+
+Some sensory information from the teeth and jaws is sent from the principal nucleus to the ipsilateral thalamus via the small dorsal trigeminal tract. 
+
+Touch-position information from the teeth and jaws of one side of the face is represented bilaterally in the thalamus and cortex.
+
+
+=== Mesencephalic nucleus ===
+
+The mesencephalic nucleus is not a true nucleus; it is a sensory ganglion (like the trigeminal ganglion) embedded in the brainstem and the sole exception to the rule that sensory information passes through peripheral sensory ganglia before entering the central nervous system. 
+
+It has been found in all vertebrates except lampreys and hagfishes. 
+
+They are the only vertebrates without jaws and have specific cells in their brainstems. 
+
+These "internal ganglion" cells were discovered in the late 19th century by medical student Sigmund Freud.
+
+Two types of sensory fibers have cell bodies in the mesencephalic nucleus: proprioceptor fibers from the jaw and mechanoreceptor fibers from the teeth. 
+
+Some of these incoming fibers go to the motor nucleus of the trigeminal nerve (V), bypassing the pathways for conscious perception. 
+
+The jaw jerk reflex is an example; tapping the jaw elicits a reflex closure of the jaw in the same way that tapping the knee elicits a reflex kick of the lower leg. 
+
+Other incoming fibers from the teeth and jaws go to the main nucleus of V. 
+
+This information is projected bilaterally to the thalamus and available for conscious perception.
+Activities such as biting, chewing and swallowing require symmetrical, simultaneous coordination of both sides of the body. 
+
+They are automatic activities, requiring little conscious attention and involving a sensory component (feedback about touch-position) processed at the unconscious level in the mesencephalic nucleus.
+
+
+=== Pathways to the thalamus and cortex ===
+
+Sensation has been defined as the conscious perception of touch-position and pain-temperature information. 
+
+With the exception of smell, all sensory input (touch-position, pain-temperature, sight, taste, hearing and balance) is sent to the thalamus and then the cortex. 
+
+The thalamus is anatomically subdivided into nuclei.
+
+
+=== Touch-position sensation ===
+
+
+Touch-position information from the body is sent to the ventral posterolateral nucleus (VPL) of the thalamus. 
+
+Touch-position information from the face is sent to the ventral posteromedial nucleus (VPM) of the thalamus. 
+
+From the VPL and VPM, information is projected to the primary somatosensory cortex (SI) in the parietal lobe.
+
+The representation of sensory information in the postcentral gyrus is organized somatotopically. 
+
+Adjacent areas of the body are represented by adjacent areas in the cortex. 
+
+When body parts are drawn in proportion to the density of their innervation, the result is a "little man": the cortical homunculus.
+
+Many textbooks have reproduced the outdated Penfield-Rasmussen diagram [ref?], with the toes and genitals on the mesial surface of the cortex when they are actually represented on the convexity. 
+
+The classic diagram implies a single primary sensory map of the body, when there are multiple primary maps. 
+
+At least four separate, anatomically distinct sensory homunculi have been identified in the postcentral gyrus. 
+
+They represent combinations of input from surface and deep receptors and rapidly and slowly adapting peripheral receptors; smooth objects will activate certain cells, and rough objects will activate other cells.
+
+Information from all four maps in SI is sent to the secondary sensory cortex (SII) in the parietal lobe. 
+
+SII contains two more sensory homunculi. 
+
+Information from one side of the body is generally represented on the opposite side in SI, but on both sides in SII. 
+
+Functional MRI imaging of a defined stimulus (for example, stroking the skin with a toothbrush) "lights up" a single focus in SI and two foci in SII.
+
+
+=== Pain-temperature sensation ===
+
+Pain-temperature information is sent to the VPL (body) and VPM (face) of the thalamus (the same nuclei which receive touch-position information). 
+
+From the thalamus, pain-temperature and touch-position information is projected onto SI.
+
+Unlike touch-position information, however, pain-temperature information is also sent to other thalamic nuclei and projected onto additional areas of the cerebral cortex. 
+
+Some pain-temperature fibers are sent to the medial dorsal thalamic nucleus (MD), which projects to the anterior cingulate cortex. 
+
+Other fibers are sent to the ventromedial (VM) nucleus of the thalamus, which projects to the insular cortex. 
+
+Finally, some fibers are sent to the intralaminar nucleus (IL) of the thalamus via the reticular formation. 
+
+The IL projects diffusely to all parts of the cerebral cortex.
+The insular and cingulate cortices are parts of the brain which represent touch-position and pain-temperature in the context of other simultaneous perceptions (sight, smell, taste, hearing and balance) in the context of memory and emotional state. 
+
+Peripheral pain-temperature information is channeled directly to the brain at a deep level, without prior processing. 
+
+Touch-position information is handled differently. 
+
+Diffuse thalamic projections from the IL and other thalamic nuclei are responsible for a given level of consciousness, with the thalamus and reticular formation "activating" the brain; peripheral pain-temperature information also feeds directly into this system.
+
+
+== Clinical significance ==
+
+Trigeminal neuralgia
+Cluster headache
+Migraine
+
+
+=== Wallenberg syndrome ===
+
+
+Wallenberg syndrome (lateral medullary syndrome) is a clinical demonstration of the anatomy of the trigeminal nerve, summarizing how it processes sensory information. 
+
+A stroke usually affects only one side of the body; loss of sensation due to a stroke will be lateralized to the right or the left side of the body. 
+
+The only exceptions to this rule are certain spinal-cord lesions and the medullary syndromes, of which Wallenberg syndrome is the best-known example. 
+
+In this syndrome, a stroke causes a loss of pain-temperature sensation from one side of the face and the other side of the body.
+This is explained by the anatomy of the brainstem. 
+
+In the medulla, the ascending spinothalamic tract (which carries pain-temperature information from the opposite side of the body) is adjacent to the ascending spinal tract of the trigeminal nerve (which carries pain-temperature information from the same side of the face). 
+
+A stroke which cuts off the blood supply to this area (for example, a clot in the posterior inferior cerebellar artery) destroys both tracts simultaneously. 
+
+The result is a loss of pain-temperature (but not touch-position) sensation in a "checkerboard" pattern (ipsilateral face, contralateral body), facilitating diagnosis.
+
+
+
+https://en.wikipedia.org/wiki/Trigeminal_nerve
+;;;ES;;;
+
+
+
+NERVIO TRIGÉMINO (V)
+
+
+El nervio trigémino (el quinto nervio craneal, o simplemente CN V) es un nervio responsable de la sensación en la cara y funciones motoras como morder y masticar; es el más complejo de los nervios craneales.
+
+Su nombre ("trigeminal" = tri-, o tres, y - geminus, o gemelo: tres veces gemelo) deriva de cada uno de los dos nervios (uno a cada lado de la protuberancia) que tiene tres ramas principales: el nervio oftálmico (V1 ), el nervio maxilar (V2) y el nervio mandibular (V3).
+
+Los nervios oftálmico y maxilar son puramente sensoriales, mientras que el nervio mandibular proporciona funciones tanto motoras como sensoriales (o "cutáneas").
+
+A la complejidad de este nervio se suma el hecho de que contiene fibras nerviosas autonómicas, así como fibras sensoriales especiales (gusto).
+
+La división motora del nervio trigémino se deriva de la placa basal de la protuberancia embrionaria y la división sensorial se origina en la cresta neural craneal.
+
+La información sensorial de la cara y el cuerpo es procesada por vías paralelas en el sistema nervioso central.
+
+
+== Estructura ==
+
+Las tres ramas principales del nervio trigémino, el nervio oftálmico (V1), el nervio maxilar (V2) y el nervio mandibular (V3), convergen en el ganglio trigémino (también llamado ganglio semilunar o ganglio de Gasser), ubicado dentro de la cueva de Meckel. y que contiene los cuerpos celulares de las fibras nerviosas sensoriales entrantes.
+
+El ganglio del trigémino es análogo a los ganglios de la raíz dorsal de la médula espinal, que contienen los cuerpos celulares de las fibras sensoriales entrantes del resto del cuerpo.
+Desde el ganglio del trigémino, una sola raíz sensorial grande (portio major) ingresa al tronco encefálico al nivel de la protuberancia.
+
+Inmediatamente adyacente a la raíz sensorial, una raíz motora más pequeña (portio minor) emerge de la protuberancia al mismo nivel.
+
+Las fibras motoras pasan a través del ganglio del trigémino sin hacer sinapsis en su camino hacia los músculos periféricos, pero sus cuerpos celulares están ubicados en el núcleo del quinto nervio, en lo profundo de la protuberancia.
+
+Las áreas de distribución cutánea (dermatomas) de las tres ramas sensoriales del nervio trigémino tienen bordes definidos con una superposición relativamente pequeña (a diferencia de los dermatomas en el resto del cuerpo, que tienen una superposición considerable).
+
+La inyección de un anestésico local, como la lidocaína, provoca la pérdida total de la sensibilidad en áreas bien definidas de la cara y la boca.
+
+Por ejemplo, los dientes de un lado de la mandíbula se pueden adormecer inyectando el nervio mandibular.
+
+Ocasionalmente, los procesos de lesión o enfermedad pueden afectar dos (o las tres) ramas del nervio trigémino; en estos casos, las ramas involucradas pueden denominarse:
+
+Distribución V1/V2 – Referido a las ramas oftálmica y maxilar
+Distribución V2/V3 – Referido a las ramas maxilar y mandibular
+Distribución V1-V3: se refiere a las tres ramas Los nervios del lado izquierdo de la mandíbula superan ligeramente en número a los nervios del lado derecho de la mandíbula.
+
+
+=== Ramas sensoriales ===
+
+
+Las ramas oftálmica, maxilar y mandibular salen del cráneo a través de tres agujeros separados: la fisura orbitaria superior, el agujero redondo y el agujero oval, respectivamente.
+
+El nervio oftálmico (V1) transporta información sensorial desde el cuero cabelludo y la frente, el párpado superior, la conjuntiva y la córnea del ojo, la nariz (incluida la punta de la nariz, excepto las alas nasales), la mucosa nasal, los senos frontales y partes de las meninges (la duramadre y los vasos sanguíneos).
+
+El nervio maxilar (V2) transporta información sensorial desde el párpado inferior y la mejilla, la nariz y el labio superior, los dientes y las encías superiores, la mucosa nasal, el paladar y el techo de la faringe, los senos maxilar, etmoidal y esfenoidal y partes de las meninges.
+
+El nervio mandibular (V3) transporta información sensorial del labio inferior, los dientes y las encías inferiores, el mentón y la mandíbula (excepto el ángulo de la mandíbula, que es suministrado por C2-C3), partes del oído externo y partes del oído. meninges
+
+El nervio mandibular transporta sensaciones de posición táctil y dolor-temperatura desde la boca.
+
+Aunque no lleva la sensación del gusto (la cuerda del tímpano es responsable del gusto), una de sus ramas, el nervio lingual, lleva la sensación de la lengua.
+
+Los procesos periféricos del núcleo mesencefálico de las neuronas V corren en la raíz motora del nervio trigémino y terminan en los husos musculares de los músculos de la masticación.
+
+Son fibras propioceptivas que transmiten información sobre la ubicación de los músculos masticatorios.
+
+Los procesos centrales de las neuronas mesencefálicas V hacen sinapsis en el núcleo motor V.
+
+
+== Función ==
+
+La función sensorial del nervio trigémino es proporcionar aferencia táctil, propioceptiva y nociceptiva a la cara y la boca.
+
+Su función motora activa los músculos de la masticación, el tensor del tímpano, el tensor del velo palatino, el milohioideo y el vientre anterior del digástrico.
+
+El nervio trigémino transporta fibras aferentes somáticas generales (GSA), que inervan la piel de la cara a través de las divisiones oftálmica (V1), maxilar (V2) y mandibular (V3).
+
+El nervio trigémino también transporta axones eferentes viscerales especiales (SVE), que inervan los músculos de la masticación a través de la división mandibular (V3).
+
+
+=== Músculos ===
+
+El componente motor de la división mandibular (V3) del nervio trigémino controla el movimiento de ocho músculos, incluidos los cuatro músculos de la masticación: el masetero, el músculo temporal y los pterigoideos medial y lateral.
+
+Los otros cuatro músculos son el tensor del velo del paladar, el milohioideo, el vientre anterior del digástrico y el tensor del tímpano.
+
+Una regla nemotécnica útil para recordar estos músculos es "Mis tensores cavan hormigas 4 MoM" (milohioideo: tensor del tímpano + tensor del velo palatino: digástrico (anterior) - 4 músculos de la masticación (temporal, masetero, pterigoideo medial y lateral))
+Con la excepción del tensor del tímpano, todos estos músculos participan en la mordida, la masticación y la deglución y todos tienen representación cortical bilateral.
+
+Es poco probable que una lesión central unilateral (por ejemplo, un accidente cerebrovascular), por grande que sea, produzca un déficit observable.
+
+La lesión de un nervio periférico puede causar parálisis de los músculos de un lado de la mandíbula, y la mandíbula se desvía hacia el lado paralizado cuando se abre.
+
+Esta dirección de la mandíbula se debe a la acción de los pterigoideos funcionales del lado opuesto.
+
+
+=== Sensación ===
+
+
+Los dos tipos básicos de sensación son el tacto-posición y el dolor-temperatura.
+
+La entrada de la posición táctil llama la atención de inmediato, pero la entrada de la temperatura del dolor alcanza el nivel de conciencia después de un retraso; cuando una persona pisa un alfiler, la conciencia de pisar algo es inmediata pero el dolor asociado con ello se retrasa.
+
+La información sobre la posición del tacto generalmente es transportada por fibras nerviosas mielinizadas (de conducción rápida), y la información sobre el dolor y la temperatura, por fibras amielínicas (de conducción lenta).
+
+Los receptores sensoriales primarios para la posición táctil (corpúsculos de Meissner, receptores de Merkel, corpúsculos de Pacini, corpúsculos de Ruffini, receptores pilosos, órganos del huso muscular y órganos tendinosos de Golgi) son estructuralmente más complejos que los del dolor-temperatura, que son terminaciones nerviosas.
+
+La sensación en este contexto se refiere a la percepción consciente de la información de la posición del tacto y del dolor y la temperatura, en lugar de los sentidos especiales (olfato, vista, gusto, oído y equilibrio) procesados ​​por diferentes nervios craneales y enviados a la corteza cerebral a través de diferentes vías.
+
+La percepción de campos magnéticos, campos eléctricos, vibraciones de baja frecuencia y radiación infrarroja por parte de algunos vertebrados no humanos es procesada por su equivalente del quinto par craneal.
+
+El tacto en este contexto se refiere a la percepción de información táctil detallada y localizada, como la discriminación de dos puntos (la diferencia entre tocar un punto y dos puntos muy próximos entre sí) o la diferencia entre papel de lija grueso, medio o fino.
+
+Las personas sin percepción de la posición táctil pueden sentir la superficie de sus cuerpos y percibir el tacto en un sentido amplio, pero carecen de detalles de percepción.
+Posición, en este contexto, se refiere a la propiocepción consciente.
+
+Los propioceptores (huso muscular y órganos tendinosos de Golgi) proporcionan información sobre la posición de las articulaciones y el movimiento muscular.
+
+Aunque gran parte de esta información se procesa a nivel inconsciente (principalmente por el cerebelo y los núcleos vestibulares), parte está disponible a nivel consciente.
+Las sensaciones de posición táctil y dolor-temperatura son procesadas por diferentes vías en el sistema nervioso central.
+
+Esta distinción cableada se mantiene hasta la corteza cerebral.
+
+Dentro de la corteza cerebral, las sensaciones están vinculadas con otras áreas corticales.
+
+
+=== Vías sensoriales ===
+
+Las vías sensoriales desde la periferia hasta la corteza están separadas para las sensaciones de posición táctil y dolor-temperatura.
+
+Toda la información sensorial se envía a núcleos específicos en el tálamo.
+
+Los núcleos talámicos, a su vez, envían información a áreas específicas de la corteza cerebral.
+
+Cada vía consta de tres haces de fibras nerviosas conectadas en serie:
+
+Las neuronas secundarias de cada vía se decusan (cruzan la médula espinal o el tronco del encéfalo), porque la médula espinal se desarrolla en segmentos.
+
+Las fibras decusadas luego alcanzan y conectan estos segmentos con los centros superiores.
+
+El quiasma óptico es la causa principal de la decusación; Las fibras nasales del nervio óptico se cruzan (de modo que cada hemisferio cerebral recibe visión contralateral, opuesta) para mantener cortas las conexiones interneuronales responsables del procesamiento de la información.
+
+Todas las vías sensoriales y motoras convergen y divergen en el hemisferio contralateral. Aunque las vías sensoriales a menudo se representan como cadenas de neuronas individuales conectadas en serie, esto es una simplificación excesiva.
+
+La información sensorial es procesada y modificada en cada nivel de la cadena por interneuronas y entradas de otras áreas del sistema nervioso.
+
+Por ejemplo, las células del núcleo principal del trigémino (V principal en el diagrama a continuación) reciben información de la formación reticular y la corteza cerebral.
+
+Esta información contribuye a la salida final de las células en Main V al tálamo.
+
+La información de la posición táctil del cuerpo es transportada al tálamo por el lemnisco medial, y desde la cara por el lemnisco del trigémino (los tractos trigeminotalámicos anterior y posterior).
+
+La información sobre el dolor y la temperatura del cuerpo es transportada al tálamo por el tracto espinotalámico, y desde la cara por la división anterior del lemnisco del trigémino (también llamado tracto trigeminotalámico anterior).
+
+Las vías para las sensaciones de la posición del tacto y la temperatura del dolor de la cara y el cuerpo se fusionan en el tronco encefálico, y los mapas sensoriales de la posición del tacto y la temperatura del dolor de todo el cuerpo se proyectan en el tálamo.
+
+Desde el tálamo, la información sobre la posición del tacto y la temperatura del dolor se proyecta en la corteza cerebral.
+
+
+=== Resumen ===
+
+El procesamiento complejo de la información sobre el dolor y la temperatura en el tálamo y la corteza cerebral (a diferencia del procesamiento relativamente simple y directo de la información sobre la posición del tacto) refleja un sistema sensorial filogenéticamente más antiguo y primitivo.
+
+La información detallada recibida de los receptores periféricos de posición táctil se superpone a un fondo de conciencia, memoria y emociones parcialmente establecido por los receptores periféricos de temperatura y dolor.
+
+Aunque los umbrales para la percepción de la posición del tacto son relativamente fáciles de medir, los de la percepción del dolor y la temperatura son difíciles de definir y medir.
+
+El "tacto" es una sensación objetiva, pero el "dolor" es una sensación individualizada que varía entre diferentes personas y está condicionada por la memoria y la emoción.
+
+Las diferencias anatómicas entre las vías para la percepción de la posición del tacto y la sensación de temperatura y dolor ayudan a explicar por qué el dolor, especialmente el dolor crónico, es difícil de manejar.
+
+
+== Núcleo del trigémino ==
+
+
+Toda la información sensorial de la cara, tanto la posición del tacto como la temperatura del dolor, se envía al núcleo del trigémino.
+
+En la anatomía clásica, la mayor parte de la información sensorial de la cara es transportada por el quinto nervio, pero la sensación de partes de la boca, partes del oído y partes de las meninges es transportada por fibras aferentes somáticas generales en los nervios craneales VII (el nervio facial), IX (nervio glosofaríngeo) y X (nervio vago).
+
+Todas las fibras sensoriales de estos nervios terminan en el núcleo trigémino.
+
+Al ingresar al tronco encefálico, las fibras sensoriales de V, VII, IX y X se clasifican y envían al núcleo trigémino (que contiene un mapa sensorial de la cara y la boca).
+
+Las contrapartes espinales del núcleo del trigémino (células en los núcleos del asta dorsal y la columna dorsal de la médula espinal) contienen un mapa sensorial del resto del cuerpo.
+
+El núcleo del trigémino se extiende por todo el tronco del encéfalo, desde el mesencéfalo hasta el bulbo raquídeo, continuando hacia la médula cervical (donde se fusiona con las células del asta dorsal de la médula espinal).
+
+El núcleo está dividido en tres partes, visibles en secciones microscópicas del tronco encefálico.
+
+De caudal a rostral (ascendiendo desde el bulbo raquídeo hasta el mesencéfalo), son los núcleos trigémino espinal, el sensitivo principal y el mesencefálico.
+
+Las partes del núcleo del trigémino reciben diferentes tipos de información sensorial; el núcleo espinal del trigémino recibe fibras de dolor y temperatura, el núcleo sensorial principal recibe fibras de posición táctil y el núcleo mesencefálico recibe fibras propioceptoras y mecanorreceptoras de los maxilares y los dientes.
+
+
+=== Núcleo espinal del trigémino ===
+
+El núcleo espinal del trigémino representa la sensación de dolor y temperatura de la cara.
+
+Las fibras de temperatura del dolor de los nociceptores periféricos se transportan en los nervios craneales V, VII, IX y X.
+
+Al ingresar al tronco encefálico, las fibras sensoriales se agrupan y se envían al núcleo espinal del trigémino.
+
+Este haz de fibras entrantes puede identificarse en cortes transversales de la protuberancia y el bulbo raquídeo como el tracto espinal del núcleo del trigémino, que es paralelo al núcleo espinal del trigémino.
+
+El tracto espinal de V es análogo y continuo con el tracto de Lissauer en la médula espinal.
+El núcleo espinal del trigémino contiene un mapa sensorial de dolor y temperatura de la cara y la boca.
+
+Desde el núcleo espinal del trigémino, las fibras secundarias cruzan la línea media y ascienden en el tracto trigeminotalámico (quintotalámico) hasta el tálamo contralateral.
+
+Las fibras de temperatura del dolor se envían a múltiples núcleos talámicos.
+
+El procesamiento central de la información sobre el dolor y la temperatura difiere del procesamiento de la información sobre la posición del tacto.
+
+
+==== Representación somatotópica ====
+
+Se discute exactamente cómo se distribuyen las fibras de dolor y temperatura de la cara al núcleo espinal del trigémino.
+
+El entendimiento general actual es que la información sobre el dolor y la temperatura de todas las áreas del cuerpo humano se representa en la médula espinal y el tronco del encéfalo de forma ascendente, de caudal a rostral.
+
+La información de las extremidades inferiores está representada en el cordón lumbar y la de las extremidades superiores en el cordón torácico.
+
+La información del cuello y la parte posterior de la cabeza está representada en la médula cervical, y la de la cara y la boca en el núcleo espinal del trigémino.
+Dentro del núcleo espinal del trigémino, la información se representa en capas o en forma de "piel de cebolla".
+
+Los niveles más bajos del núcleo (en la médula cervical superior y la médula inferior) representan áreas periféricas de la cara (el cuero cabelludo, las orejas y el mentón).
+
+Los niveles más altos (en la parte superior del bulbo raquídeo) representan áreas centrales (nariz, mejillas y labios).
+
+Los niveles más altos (en la protuberancia) representan la boca, los dientes y la cavidad faríngea.
+La distribución en piel de cebolla difiere de la distribución en dermatomas de las ramas periféricas del quinto nervio.
+
+Las lesiones que destruyen las áreas inferiores del núcleo espinal del trigémino (pero respetan las áreas superiores) preservan la sensación de dolor y temperatura en la nariz (V1), el labio superior (V2) y la boca (V3) y eliminan la sensación de dolor y temperatura de la frente (V1) , mejillas (V2) y mentón (V3).
+
+Aunque la analgesia en esta distribución es "no fisiológica" en el sentido tradicional (porque atraviesa varios dermatomas), esta analgesia se encuentra en humanos después de la sección quirúrgica del tracto espinal del núcleo del trigémino.
+El núcleo espinal del trigémino envía información de dolor y temperatura al tálamo y envía información al mesencéfalo y la formación reticular del tronco encefálico.
+
+Estas últimas vías son análogas a los tractos espinomesencefálico y espinorreticular de la médula espinal, que envían información sobre el dolor y la temperatura desde el resto del cuerpo a las mismas áreas.
+
+El mesencéfalo modula la entrada dolorosa antes de que alcance el nivel de conciencia.
+
+La formación reticular es responsable de la orientación automática (inconsciente) del cuerpo a los estímulos dolorosos.
+
+Por cierto, los compuestos que contienen azufre que se encuentran en las plantas de la familia de la cebolla estimulan los receptores que se encuentran en los ganglios del trigémino, sin pasar por el sistema olfativo.
+
+
+=== Núcleo principal ===
+
+El núcleo principal representa la sensación de tacto y presión de la cara.
+
+Se encuentra en la protuberancia, cerca de la entrada del quinto nervio.
+
+Las fibras que transportan información de la posición táctil desde la cara y la boca a través de los nervios craneales V, VII, IX y X se envían a este núcleo cuando ingresan al tronco encefálico.
+
+El núcleo principal contiene un mapa sensorial de posición táctil de la cara y la boca, al igual que el núcleo espinal del trigémino contiene un mapa completo de dolor y temperatura.
+
+Este núcleo es análogo a los núcleos de la columna dorsal (los núcleos grácil y cuneiforme) de la médula espinal, que contienen un mapa de posiciones táctiles del resto del cuerpo.
+
+Desde el núcleo principal, las fibras secundarias cruzan la línea media y ascienden en el tracto trigeminotalámico ventral hasta el tálamo contralateral.
+
+El tracto trigeminotalámico ventral corre paralelo al lemnisco medial, que lleva la información de la posición táctil desde el resto del cuerpo hasta el tálamo.
+
+Parte de la información sensorial de los dientes y las mandíbulas se envía desde el núcleo principal al tálamo ipsilateral a través del pequeño tracto dorsal del trigémino.
+
+La información de la posición táctil de los dientes y las mandíbulas de un lado de la cara se representa bilateralmente en el tálamo y la corteza.
+
+
+=== Núcleo mesencefálico ===
+
+El núcleo mesencefálico no es un verdadero núcleo; es un ganglio sensorial (como el ganglio del trigémino) incrustado en el tronco encefálico y la única excepción a la regla de que la información sensorial pasa a través de los ganglios sensoriales periféricos antes de ingresar al sistema nervioso central.
+
+Se ha encontrado en todos los vertebrados excepto en lampreas y mixinos.
+
+Son los únicos vertebrados sin mandíbulas y tienen células específicas en sus troncos encefálicos.
+
+Estas células del "ganglio interno" fueron descubiertas a fines del siglo XIX por el estudiante de medicina Sigmund Freud.
+
+Dos tipos de fibras sensoriales tienen cuerpos celulares en el núcleo mesencefálico: fibras propioceptoras de la mandíbula y fibras mecanorreceptoras de los dientes.
+
+Algunas de estas fibras entrantes van al núcleo motor del nervio trigémino (V), sin pasar por las vías de la percepción consciente.
+
+El reflejo de sacudida mandibular es un ejemplo; tocar la mandíbula provoca un cierre reflejo de la mandíbula de la misma manera que tocar la rodilla provoca una patada refleja de la parte inferior de la pierna.
+
+Otras fibras entrantes de los dientes y las mandíbulas van al núcleo principal de V.
+
+Esta información se proyecta bilateralmente al tálamo y está disponible para la percepción consciente.
+Actividades como morder, masticar y tragar requieren una coordinación simétrica y simultánea de ambos lados del cuerpo.
+
+Son actividades automáticas, que requieren poca atención consciente e involucran un componente sensorial (retroalimentación sobre la posición del tacto) procesada a nivel inconsciente en el núcleo mesencefálico.
+
+
+=== Vías al tálamo y la corteza ===
+
+La sensación se ha definido como la percepción consciente de la información de la posición del tacto y del dolor y la temperatura.
+
+Con la excepción del olfato, toda la información sensorial (posición del tacto, temperatura del dolor, vista, gusto, oído y equilibrio) se envía al tálamo y luego a la corteza.
+
+El tálamo se subdivide anatómicamente en núcleos.
+
+
+=== Sensación de posición táctil ===
+
+
+La información de la posición táctil del cuerpo se envía al núcleo posterolateral ventral (VPL) del tálamo.
+
+La información de la posición táctil de la cara se envía al núcleo posteromedial ventral (VPM) del tálamo.
+
+Desde VPL y VPM, la información se proyecta a la corteza somatosensorial primaria (SI) en el lóbulo parietal.
+
+La representación de la información sensorial en la circunvolución poscentral está organizada somatotópicamente.
+
+Las áreas adyacentes del cuerpo están representadas por áreas adyacentes en la corteza.
+
+Cuando las partes del cuerpo se dibujan en proporción a la densidad de su inervación, el resultado es un "hombrecito": el homúnculo cortical.
+
+Muchos libros de texto han reproducido el obsoleto diagrama de Penfield-Rasmussen [¿ref?], con los dedos de los pies y los genitales en la superficie mesial de la corteza cuando en realidad están representados en la convexidad.
+
+El diagrama clásico implica un solo mapa sensorial primario del cuerpo, cuando hay múltiples mapas primarios.
+
+Se han identificado al menos cuatro homúnculos sensoriales separados anatómicamente distintos en la circunvolución poscentral.
+
+Representan combinaciones de entradas de receptores superficiales y profundos y receptores periféricos de adaptación rápida y lenta; los objetos lisos activarán ciertas celdas y los objetos ásperos activarán otras celdas.
+
+La información de los cuatro mapas en SI se envía a la corteza sensorial secundaria (SII) en el lóbulo parietal.
+
+SII contiene dos homúnculos sensoriales más.
+
+La información de un lado del cuerpo generalmente se representa en el lado opuesto en SI, pero en ambos lados en SII.
+
+La resonancia magnética funcional de un estímulo definido (por ejemplo, acariciar la piel con un cepillo de dientes) "ilumina" un solo foco en SI y dos focos en SII.
+
+
+=== Sensación de dolor-temperatura ===
+
+La información de la temperatura del dolor se envía al VPL (cuerpo) y al VPM (cara) del tálamo (los mismos núcleos que reciben la información de la posición del contacto).
+
+Desde el tálamo, la información sobre el dolor, la temperatura y la posición del tacto se proyecta en el SI.
+
+Sin embargo, a diferencia de la información sobre la posición del tacto, la información sobre el dolor y la temperatura también se envía a otros núcleos talámicos y se proyecta en áreas adicionales de la corteza cerebral.
+
+Algunas fibras de dolor y temperatura se envían al núcleo talámico dorsal medial (MD), que se proyecta a la corteza cingulada anterior.
+
+Otras fibras se envían al núcleo ventromedial (VM) del tálamo, que se proyecta a la corteza insular.
+
+Finalmente, algunas fibras se envían al núcleo intralaminar (IL) del tálamo a través de la formación reticular.
+
+La IL se proyecta de forma difusa a todas las partes de la corteza cerebral.
+Las cortezas insular y cingulada son partes del cerebro que representan la posición del tacto y la temperatura del dolor en el contexto de otras percepciones simultáneas (vista, olfato, gusto, oído y equilibrio) en el contexto de la memoria y el estado emocional.
+
+La información periférica del dolor y la temperatura se canaliza directamente al cerebro a un nivel profundo, sin procesamiento previo.
+
+La información de la posición táctil se maneja de manera diferente.
+
+Las proyecciones talámicas difusas del IL y otros núcleos talámicos son responsables de un nivel dado de conciencia, con el tálamo y la formación reticular "activando" el cerebro; la información periférica del dolor y la temperatura también alimenta directamente a este sistema.
+
+
+== Importancia clínica ==
+
+Neuralgia trigeminal
+Terrible dolor de cabeza
+Migraña
+
+
+=== Síndrome de Wallenberg ===
+
+
+El síndrome de Wallenberg (síndrome medular lateral) es una demostración clínica de la anatomía del nervio trigémino, que resume cómo procesa la información sensorial.
+
+Un accidente cerebrovascular generalmente afecta solo un lado del cuerpo; la pérdida de sensibilidad debido a un accidente cerebrovascular se lateralizará hacia el lado derecho o izquierdo del cuerpo.
+
+Las únicas excepciones a esta regla son ciertas lesiones de la médula espinal y los síndromes medulares, de los cuales el síndrome de Wallenberg es el ejemplo más conocido.
+
+En este síndrome, un accidente cerebrovascular provoca una pérdida de la sensación de dolor y temperatura de un lado de la cara y del otro lado del cuerpo.
+Esto se explica por la anatomía del tronco encefálico.
+
+En el bulbo raquídeo, el tracto espinotalámico ascendente (que transporta información sobre el dolor y la temperatura desde el lado opuesto del cuerpo) está adyacente al tracto espinal ascendente del nervio trigémino (que transporta información sobre el dolor y la temperatura desde el mismo lado de la cara).
+
+Un accidente cerebrovascular que corta el suministro de sangre a esta área (por ejemplo, un coágulo en la arteria cerebelosa inferior posterior) destruye ambos tractos simultáneamente.
+
+El resultado es una pérdida de la sensación de temperatura del dolor (pero no de la posición del tacto) en un patrón de "tablero de ajedrez" (cara ipsolateral, cuerpo contralateral), lo que facilita el diagnóstico.
+
+
+
+https://en.wikipedia.org/wiki/Trigeminal_nerve
+
+;;;PT;;;
+
+
+
+NERVO TRIGÊMEO (V)
+
+
+O nervo trigêmeo (o quinto nervo craniano, ou simplesmente NC V) é um nervo responsável pela sensação na face e funções motoras como morder e mastigar; é o mais complexo dos nervos cranianos.
+
+Seu nome ("trigeminal" = tri-, ou três, e - geminus, ou gêmeo: três vezes gêmeo) deriva de cada um dos dois nervos (um de cada lado da ponte) com três ramos principais: o nervo oftálmico (V1 ), o nervo maxilar (V2) e o nervo mandibular (V3).
+
+Os nervos oftálmico e maxilar são puramente sensoriais, enquanto o nervo mandibular fornece funções motoras e sensoriais (ou "cutâneas").
+
+O que aumenta a complexidade desse nervo é que as fibras nervosas autônomas, bem como as fibras sensoriais especiais (gosto), estão contidas nele.
+
+A divisão motora do nervo trigêmeo deriva da placa basal da ponte embrionária, e a divisão sensitiva se origina na crista neural craniana.
+
+As informações sensoriais da face e do corpo são processadas por vias paralelas no sistema nervoso central.
+
+
+== Estrutura ==
+
+Os três principais ramos do nervo trigêmeo - o nervo oftálmico (V1), o nervo maxilar (V2) e o nervo mandibular (V3) - convergem no gânglio trigêmeo (também chamado de gânglio semilunar ou gânglio de Gasser), localizado dentro da caverna de Meckel e contendo os corpos celulares das fibras nervosas sensoriais que chegam.
+
+O gânglio trigeminal é análogo aos gânglios da raiz dorsal da medula espinhal, que contêm os corpos celulares das fibras sensoriais que chegam do resto do corpo.
+Do gânglio trigeminal, uma única raiz sensorial grande (portio major) entra no tronco encefálico ao nível da ponte.
+
+Imediatamente adjacente à raiz sensitiva, uma raiz motora menor (portio minor) emerge da ponte no mesmo nível.
+
+As fibras motoras passam pelo gânglio trigeminal sem fazer sinapse em seu caminho para os músculos periféricos, mas seus corpos celulares estão localizados no núcleo do quinto nervo, profundamente dentro da ponte.
+
+As áreas de distribuição cutânea (dermátomos) dos três ramos sensitivos do nervo trigêmeo têm bordas nítidas com relativamente pouca sobreposição (diferentemente dos dermátomos do resto do corpo, que apresentam sobreposição considerável).
+
+A injeção de um anestésico local, como a lidocaína, resulta na perda completa da sensibilidade de áreas bem definidas da face e da boca.
+
+Por exemplo, os dentes de um lado da mandíbula podem ser anestesiados pela injeção do nervo mandibular.
+
+Ocasionalmente, lesões ou processos patológicos podem afetar dois (ou todos os três) ramos do nervo trigêmeo; nestes casos, os ramos envolvidos podem ser denominados:
+
+Distribuição V1/V2 – Referente aos ramos oftálmico e maxilar
+Distribuição V2/V3 – Referente aos ramos maxilar e mandibular
+Distribuição V1-V3 – Referente a todos os três ramos Os nervos do lado esquerdo da mandíbula superam ligeiramente os nervos do lado direito da mandíbula.
+
+
+=== Ramos sensoriais ===
+
+
+Os ramos oftálmico, maxilar e mandibular saem do crânio através de três forames separados: a fissura orbital superior, o forame redondo e o forame oval, respectivamente.
+
+O nervo oftálmico (V1) transporta informações sensoriais do couro cabeludo e testa, pálpebra superior, conjuntiva e córnea do olho, nariz (incluindo a ponta do nariz, exceto alae nasi), mucosa nasal, seios frontais e partes das meninges (a dura-máter e os vasos sanguíneos).
+
+O nervo maxilar (V2) transporta informações sensoriais da pálpebra inferior e bochecha, narinas e lábio superior, dentes e gengivas superiores, mucosa nasal, palato e teto da faringe, seios maxilar, etmoidal e esfenoidal e partes do as meninges.
+
+O nervo mandibular (V3) carrega informações sensoriais do lábio inferior, dentes e gengivas inferiores, queixo e mandíbula (exceto o ângulo da mandíbula, que é suprido por C2-C3), partes da orelha externa e partes do meninges.
+
+O nervo mandibular carrega sensações de posição de toque e temperatura de dor da boca.
+
+Embora não transmita sensação gustativa (a corda do tímpano é responsável pelo paladar), um de seus ramos – o nervo lingual – transmite sensação da língua.
+
+Os processos periféricos do núcleo mesencefálico dos neurônios V correm na raiz motora do nervo trigêmeo e terminam nos fusos musculares dos músculos da mastigação.
+
+São fibras proprioceptivas, que transmitem informações sobre a localização dos músculos mastigatórios.
+
+Os processos centrais dos neurônios mesencefálicos V fazem sinapse no núcleo motor V.
+
+
+== Função ==
+
+A função sensorial do nervo trigêmeo é fornecer aferência tátil, proprioceptiva e nociceptiva para a face e a boca.
+
+Sua função motora ativa os músculos da mastigação, tensor do tímpano, tensor do véu palatino, milo-hióideo e ventre anterior do digástrico.
+
+O nervo trigêmeo transporta fibras aferentes somáticas gerais (GSA), que inervam a pele da face através das divisões oftálmica (V1), maxilar (V2) e mandibular (V3).
+
+O nervo trigêmeo também carrega axônios eferentes viscerais especiais (SVE), que inervam os músculos da mastigação através da divisão mandibular (V3).
+
+
+=== Músculos ===
+
+O componente motor da divisão mandibular (V3) do nervo trigêmeo controla o movimento de oito músculos, incluindo os quatro músculos da mastigação: o masseter, o músculo temporal e os pterigóides medial e lateral.
+
+Os outros quatro músculos são o tensor do véu palatino, o milo-hióideo, o ventre anterior do digástrico e o tensor do tímpano.
+
+Um mnemônico útil para lembrar esses músculos é "My Tensors Dig Ants 4 MoM" (Mylohyoid - Tensor Tympani + Tensor Veli Palatini - Digástric (Anterior) - 4 Músculos da Mastigação (Temporalis, Masseter, Medial e Lateral Pterygoids))
+Com exceção do tensor do tímpano, todos esses músculos estão envolvidos na mordida, mastigação e deglutição e todos têm representação cortical bilateral.
+
+Uma lesão central unilateral (por exemplo, um acidente vascular cerebral), não importa quão grande seja, provavelmente não produzirá um déficit observável.
+
+A lesão de um nervo periférico pode causar paralisia dos músculos de um lado da mandíbula, com a mandíbula se desviando para o lado paralisado quando se abre.
+
+Essa direção da mandíbula se deve à ação dos pterigóides funcionantes no lado oposto.
+
+
+=== Sensação ===
+
+
+Os dois tipos básicos de sensação são a posição do toque e a temperatura da dor.
+
+A entrada da posição de toque chama a atenção imediatamente, mas a entrada da temperatura da dor atinge o nível de consciência após um atraso; quando uma pessoa pisa em um alfinete, a consciência de pisar em algo é imediata, mas a dor associada a isso é retardada.
+
+As informações sobre a posição do toque são geralmente transportadas por fibras nervosas mielinizadas (condutoras rápidas) e as informações sobre temperatura e dor por fibras não mielinizadas (condutoras lentas).
+
+Os receptores sensoriais primários para a posição de toque (corpúsculos de Meissner, receptores de Merkel, corpúsculos de Pacini, corpúsculos de Ruffini, receptores capilares, órgãos do fuso muscular e órgãos tendinosos de Golgi) são estruturalmente mais complexos do que aqueles para dor-temperatura, que são terminações nervosas.
+
+A sensação neste contexto refere-se à percepção consciente da posição do toque e da informação da temperatura da dor, em vez dos sentidos especiais (olfato, visão, paladar, audição e equilíbrio) processados ​​por diferentes nervos cranianos e enviados ao córtex cerebral por diferentes vias.
+
+A percepção de campos magnéticos, campos elétricos, vibrações de baixa frequência e radiação infravermelha por alguns vertebrados não humanos é processada por seu equivalente do quinto nervo craniano.
+
+O toque neste contexto refere-se à percepção de informações táteis detalhadas e localizadas, como discriminação de dois pontos (a diferença entre tocar um ponto e dois pontos próximos) ou a diferença entre lixa grossa, média ou fina.
+
+Pessoas sem percepção de posição de toque podem sentir a superfície de seus corpos e perceber o toque em um sentido amplo, mas carecem de detalhes perceptivos.
+Posição, neste contexto, refere-se à propriocepção consciente.
+
+Os proprioceptores (fuso muscular e órgãos tendinosos de Golgi) fornecem informações sobre a posição articular e o movimento muscular.
+
+Embora muitas dessas informações sejam processadas em nível inconsciente (principalmente pelo cerebelo e pelos núcleos vestibulares), algumas estão disponíveis em nível consciente.
+As sensações de posição de toque e temperatura de dor são processadas por diferentes vias no sistema nervoso central.
+
+Essa distinção fixa é mantida até o córtex cerebral.
+
+Dentro do córtex cerebral, as sensações estão ligadas a outras áreas corticais.
+
+
+=== Vias sensoriais ===
+
+As vias sensoriais da periferia para o córtex são separadas para a posição de toque e sensações de temperatura e dor.
+
+Todas as informações sensoriais são enviadas para núcleos específicos no tálamo.
+
+Os núcleos talâmicos, por sua vez, enviam informações para áreas específicas do córtex cerebral.
+
+Cada via consiste em três feixes de fibras nervosas conectadas em série:
+
+Os neurônios secundários em cada via decussam (atravessam a medula espinhal ou o tronco cerebral), porque a medula espinhal se desenvolve em segmentos.
+
+As fibras decussadas mais tarde alcançam e conectam esses segmentos com os centros superiores.
+
+O quiasma óptico é a causa primária da decussação; as fibras nasais do nervo óptico se cruzam (de modo que cada hemisfério cerebral recebe visão contralateral—oposta) para manter curtas as conexões interneuronais responsáveis ​​pelo processamento da informação.
+
+Todas as vias sensoriais e motoras convergem e divergem para o hemisfério contralateral. Embora as vias sensoriais sejam frequentemente descritas como cadeias de neurônios individuais conectados em série, isso é uma simplificação excessiva.
+
+A informação sensorial é processada e modificada em cada nível da cadeia por interneurônios e entradas de outras áreas do sistema nervoso.
+
+Por exemplo, as células do núcleo principal do trigêmeo (V principal no diagrama abaixo) recebem informações da formação reticular e do córtex cerebral.
+
+Esta informação contribui para a saída final das células em Main V para o tálamo.
+
+As informações da posição de toque do corpo são transportadas para o tálamo pelo lemnisco medial e da face pelo lemnisco trigêmeo (tanto os tratos trigeminotalâmicos anterior quanto posterior).
+
+As informações de temperatura e dor do corpo são transportadas para o tálamo pelo trato espinotalâmico e da face pela divisão anterior do lemnisco trigeminal (também chamado de trato trigeminotalâmico anterior).
+
+Caminhos para as sensações de posição de toque e temperatura de dor da face e corpo se fundem no tronco cerebral, e mapas sensoriais de posição de toque e temperatura de dor de todo o corpo são projetados no tálamo.
+
+A partir do tálamo, as informações sobre a posição do toque e a temperatura da dor são projetadas no córtex cerebral.
+
+
+=== Resumo ===
+
+O processamento complexo de informações de temperatura e dor no tálamo e no córtex cerebral (em oposição ao processamento relativamente simples e direto de informações sobre a posição do toque) reflete um sistema sensorial filogeneticamente mais antigo e primitivo.
+
+As informações detalhadas recebidas dos receptores periféricos de posição de toque são sobrepostas a um fundo de consciência, memória e emoções parcialmente definido pelos receptores periféricos de dor e temperatura.
+
+Embora os limiares para a percepção da posição do toque sejam relativamente fáceis de medir, aqueles para a percepção da dor-temperatura são difíceis de definir e medir.
+
+O "toque" é uma sensação objetiva, mas a "dor" é uma sensação individualizada que varia de pessoa para pessoa e é condicionada pela memória e pela emoção.
+
+Diferenças anatômicas entre as vias para percepção da posição de toque e sensação de temperatura e dor ajudam a explicar por que a dor, especialmente a dor crônica, é difícil de controlar.
+
+
+== Núcleo trigeminal ==
+
+
+Todas as informações sensoriais da face, tanto a posição de toque quanto a temperatura da dor, são enviadas ao núcleo trigeminal.
+
+Na anatomia clássica, a maioria das informações sensoriais da face é transportada pelo quinto nervo, mas a sensação de partes da boca, partes da orelha e partes das meninges é transportada por fibras aferentes somáticas gerais nos nervos cranianos VII (o nervo facial), IX (nervo glossofaríngeo) e X (nervo vago).
+
+Todas as fibras sensoriais desses nervos terminam no núcleo do trigêmeo.
+
+Ao entrar no tronco cerebral, as fibras sensoriais de V, VII, IX e X são classificadas e enviadas para o núcleo trigeminal (que contém um mapa sensorial da face e da boca).
+
+As contrapartes espinais do núcleo trigeminal (células do corno dorsal e núcleos da coluna dorsal da medula espinhal) contêm um mapa sensorial do resto do corpo.
+
+O núcleo do trigêmeo se estende por todo o tronco encefálico, do mesencéfalo à medula, continuando na medula cervical (onde se funde com as células do corno dorsal da medula espinhal).
+
+O núcleo é dividido em três partes, visíveis em seções microscópicas do tronco cerebral.
+
+De caudal a rostral (ascendendo da medula para o mesencéfalo), eles são o trigêmeo espinhal, o principal núcleo sensitivo e o mesencefálico.
+
+As partes do núcleo trigeminal recebem diferentes tipos de informações sensoriais; o núcleo trigeminal espinhal recebe fibras de dor-temperatura, o núcleo sensitivo principal recebe fibras de posição de toque e o núcleo mesencefálico recebe fibras proprioceptores e mecanorreceptores dos maxilares e dentes.
+
+
+=== Núcleo trigeminal espinhal ===
+
+O núcleo espinal do nervo trigêmeo representa a sensação de dor e temperatura da face.
+
+As fibras dor-temperatura dos nociceptores periféricos são transportadas nos nervos cranianos V, VII, IX e X.
+
+Ao entrar no tronco encefálico, as fibras sensoriais são agrupadas e enviadas para o núcleo espinal do nervo trigêmeo.
+
+Este feixe de fibras de entrada pode ser identificado em cortes transversais da ponte e da medula como o trato espinal do núcleo trigeminal, que é paralelo ao núcleo espinal do trigêmeo.
+
+O trato espinhal de V é análogo e contínuo com o trato de Lissauer na medula espinhal.
+O núcleo espinal do trigêmeo contém um mapa sensorial dor-temperatura da face e da boca.
+
+Do núcleo espinal do nervo trigêmeo, as fibras secundárias cruzam a linha média e ascendem no trato trigeminotalâmico (quintotalâmico) até o tálamo contralateral.
+
+As fibras dor-temperatura são enviadas para múltiplos núcleos talâmicos.
+
+O processamento central de informações de temperatura de dor difere do processamento de informações de posição de toque.
+
+
+==== Representação somatotópica ====
+
+Exatamente como as fibras de dor-temperatura da face são distribuídas para o núcleo espinal do nervo trigêmeo é discutível.
+
+O entendimento geral atual é que as informações dor-temperatura de todas as áreas do corpo humano são representadas na medula espinhal e no tronco encefálico de forma ascendente, caudal para rostral.
+
+As informações das extremidades inferiores são representadas na medula lombar e as das extremidades superiores na medula torácica.
+
+As informações do pescoço e da nuca são representadas na medula cervical, e as da face e da boca no núcleo espinal do trigêmeo.
+Dentro do núcleo espinal do trigêmeo, as informações são representadas em camadas, ou "pele de cebola".
+
+Os níveis mais baixos do núcleo (na medula cervical superior e medula inferior) representam áreas periféricas da face (o couro cabeludo, orelhas e queixo).
+
+Níveis mais altos (na medula superior) representam áreas centrais (nariz, bochechas e lábios).
+
+Os níveis mais altos (na ponte) representam a boca, dentes e cavidade faríngea.
+A distribuição da casca da cebola difere da distribuição do dermátomo dos ramos periféricos do quinto nervo.
+
+As lesões que destroem as áreas inferiores do núcleo espinal do trigêmeo (mas poupam as áreas superiores) preservam a sensação de dor-temperatura no nariz (V1), lábio superior (V2) e boca (V3) e removem a sensação de dor-temperatura da testa (V1) , bochechas (V2) e queixo (V3).
+
+Embora a analgesia nessa distribuição seja "não fisiológica" no sentido tradicional (porque atravessa vários dermátomos), essa analgesia é encontrada em humanos após a secção cirúrgica do trato espinhal do núcleo trigêmeo.
+O núcleo espinal do trigêmeo envia informações de temperatura e dor ao tálamo e envia informações ao mesencéfalo e à formação reticular do tronco encefálico.
+
+As últimas vias são análogas aos tratos espinomesencefálico e espinorreticular da medula espinhal, que enviam informações de dor-temperatura do resto do corpo para as mesmas áreas.
+
+O mesencéfalo modula a entrada dolorosa antes de atingir o nível de consciência.
+
+A formação reticular é responsável pela orientação automática (inconsciente) do corpo aos estímulos dolorosos.
+
+Aliás, compostos contendo enxofre encontrados em plantas da família da cebola estimulam os receptores encontrados nos gânglios do trigêmeo, ignorando o sistema olfativo.
+
+
+=== Núcleo principal ===
+
+O núcleo principal representa a sensação de pressão de toque da face.
+
+Está localizado na ponte, próximo à entrada do quinto nervo.
+
+As fibras que transportam informações de posição de toque da face e da boca através dos nervos cranianos V, VII, IX e X são enviadas para esse núcleo quando entram no tronco encefálico.
+
+O núcleo principal contém um mapa sensorial de posição de toque da face e da boca, assim como o núcleo espinal do nervo trigêmeo contém um mapa completo de dor-temperatura.
+
+Esse núcleo é análogo aos núcleos da coluna dorsal (os núcleos grácil e cuneiforme) da medula espinhal, que contêm um mapa de posição de toque do resto do corpo.
+
+Do núcleo principal, as fibras secundárias cruzam a linha média e ascendem no trato trigeminotalâmico ventral até o tálamo contralateral.
+
+O trato trigeminotalâmico ventral corre paralelo ao lemnisco medial, que transporta informações de posição de toque do resto do corpo para o tálamo.
+
+Algumas informações sensoriais dos dentes e maxilares são enviadas do núcleo principal para o tálamo ipsilateral através do pequeno trato trigêmeo dorsal.
+
+As informações de posição de toque dos dentes e maxilares de um lado da face são representadas bilateralmente no tálamo e no córtex.
+
+
+=== Núcleo mesencefálico ===
+
+O núcleo mesencefálico não é um núcleo verdadeiro; é um gânglio sensorial (como o gânglio trigeminal) embutido no tronco cerebral e a única exceção à regra de que a informação sensorial passa pelos gânglios sensoriais periféricos antes de entrar no sistema nervoso central.
+
+Foi encontrado em todos os vertebrados, exceto lampreias e peixes-bruxa.
+
+Eles são os únicos vertebrados sem mandíbulas e possuem células específicas em seus troncos cerebrais.
+
+Essas células do "gânglio interno" foram descobertas no final do século 19 pelo estudante de medicina Sigmund Freud.
+
+Dois tipos de fibras sensoriais têm corpos celulares no núcleo mesencefálico: fibras proprioceptores da mandíbula e fibras mecanorreceptores dos dentes.
+
+Algumas dessas fibras de entrada vão para o núcleo motor do nervo trigêmeo (V), contornando os caminhos para a percepção consciente.
+
+O reflexo da mandíbula é um exemplo; bater na mandíbula provoca um fechamento reflexo da mandíbula da mesma forma que bater no joelho provoca um chute reflexo na parte inferior da perna.
+
+Outras fibras provenientes dos dentes e maxilares vão para o núcleo principal de V.
+
+Esta informação é projetada bilateralmente para o tálamo e disponível para percepção consciente.
+Atividades como morder, mastigar e engolir requerem coordenação simétrica e simultânea de ambos os lados do corpo.
+
+São atividades automáticas, exigindo pouca atenção consciente e envolvendo um componente sensorial (feedback sobre a posição do toque) processado no nível inconsciente no núcleo mesencefálico.
+
+
+=== Vias para o tálamo e córtex ===
+
+A sensação foi definida como a percepção consciente da posição do toque e da informação da temperatura da dor.
+
+Com exceção do olfato, todas as informações sensoriais (posição de toque, temperatura da dor, visão, paladar, audição e equilíbrio) são enviadas ao tálamo e depois ao córtex.
+
+O tálamo é subdividido anatomicamente em núcleos.
+
+
+=== Sensação de posição de toque ===
+
+
+As informações de posição de toque do corpo são enviadas para o núcleo posterolateral ventral (VPL) do tálamo.
+
+As informações de posição de toque da face são enviadas para o núcleo posteromedial ventral (VPM) do tálamo.
+
+A partir do VPL e do VPM, a informação é projetada para o córtex somatossensorial (SI) primário no lobo parietal.
+
+A representação da informação sensorial no giro pós-central é organizada somatotopicamente.
+
+As áreas adjacentes do corpo são representadas por áreas adjacentes no córtex.
+
+Quando as partes do corpo são desenhadas em proporção à densidade de sua inervação, o resultado é um "homenzinho": o homúnculo cortical.
+
+Muitos livros didáticos reproduziram o desatualizado diagrama de Penfield-Rasmussen [ref?], com os dedos dos pés e genitais na superfície mesial do córtex quando na verdade são representados na convexidade.
+
+O diagrama clássico implica um único mapa sensorial primário do corpo, quando existem vários mapas primários.
+
+Pelo menos quatro homúnculos sensoriais separados e anatomicamente distintos foram identificados no giro pós-central.
+
+Eles representam combinações de entrada de receptores de superfície e profundos e receptores periféricos de adaptação rápida e lenta; objetos lisos ativarão certas células e objetos ásperos ativarão outras células.
+
+As informações de todos os quatro mapas no SI são enviadas para o córtex sensorial secundário (SII) no lobo parietal.
+
+SII contém mais dois homúnculos sensoriais.
+
+As informações de um lado do corpo geralmente são representadas no lado oposto no SI, mas em ambos os lados no SII.
+
+Imagens de ressonância magnética funcional de um estímulo definido (por exemplo, acariciar a pele com uma escova de dentes) "acende" um único foco em SI e dois focos em SII.
+
+
+=== Sensação de dor-temperatura ===
+
+As informações de temperatura e dor são enviadas ao VPL (corpo) e VPM (face) do tálamo (os mesmos núcleos que recebem informações de posição de toque).
+
+A partir do tálamo, as informações da temperatura da dor e da posição de toque são projetadas no SI.
+
+Ao contrário das informações de posição de toque, no entanto, as informações de temperatura e dor também são enviadas para outros núcleos talâmicos e projetadas em áreas adicionais do córtex cerebral.
+
+Algumas fibras dor-temperatura são enviadas para o núcleo talâmico medial dorsal (MD), que se projeta para o córtex cingulado anterior.
+
+Outras fibras são enviadas para o núcleo ventromedial (VM) do tálamo, que se projeta para o córtex insular.
+
+Finalmente, algumas fibras são enviadas para o núcleo intralaminar (IL) do tálamo através da formação reticular.
+
+O LI projeta-se difusamente para todas as partes do córtex cerebral.
+Os córtices insular e cingulado são partes do cérebro que representam a posição do toque e a temperatura da dor no contexto de outras percepções simultâneas (visão, olfato, paladar, audição e equilíbrio) no contexto da memória e do estado emocional.
+
+As informações periféricas de temperatura e dor são canalizadas diretamente para o cérebro em um nível profundo, sem processamento prévio.
+
+As informações de posição de toque são tratadas de maneira diferente.
+
+As projeções talâmicas difusas do IL e de outros núcleos talâmicos são responsáveis ​​por um determinado nível de consciência, com o tálamo e a formação reticular "ativando" o cérebro; as informações periféricas de dor e temperatura também alimentam diretamente esse sistema.
+
+
+== Significado clínico ==
+
+Neuralgia trigeminal
+Cefaleia em salvas
+Enxaqueca
+
+
+=== Síndrome de Wallenberg ===
+
+
+A síndrome de Wallenberg (síndrome medular lateral) é uma demonstração clínica da anatomia do nervo trigêmeo, resumindo como ele processa as informações sensoriais.
+
+Um derrame geralmente afeta apenas um lado do corpo; a perda de sensibilidade devido a um acidente vascular cerebral será lateralizada para o lado direito ou esquerdo do corpo.
+
+As únicas exceções a essa regra são certas lesões da medula espinhal e as síndromes medulares, das quais a síndrome de Wallenberg é o exemplo mais conhecido.
+
+Nesta síndrome, um acidente vascular cerebral causa uma perda da sensação de dor e temperatura de um lado da face e do outro lado do corpo.
+Isso é explicado pela anatomia do tronco cerebral.
+
+Na medula, o trato espinotalâmico ascendente (que transporta informações de dor-temperatura do lado oposto do corpo) é adjacente ao trato espinhal ascendente do nervo trigêmeo (que transporta informações de dor-temperatura do mesmo lado da face).
+
+Um acidente vascular cerebral que interrompe o suprimento de sangue para essa área (por exemplo, um coágulo na artéria cerebelar posterior inferior) destrói ambos os tratos simultaneamente.
+
+O resultado é uma perda da sensação de dor-temperatura (mas não de posição de toque) em um padrão de "tabuleiro de damas" (face ipsilateral, corpo contralateral), facilitando o diagnóstico.
+
+
+
+https://en.wikipedia.org/wiki/Trigeminal_nerve
+
+;;;FR;;;
+
+
+
+NERF TRIJUMEAU (V)
+
+
+Le nerf trijumeau (le cinquième nerf crânien, ou simplement CN V) est un nerf responsable de la sensation dans le visage et des fonctions motrices telles que mordre et mâcher ; c'est le plus complexe des nerfs crâniens.
+
+Son nom (« trijumeau » = tri-, ou trois, et - géminal, ou jumeau : trois fois jumelé) dérive de chacun des deux nerfs (un de chaque côté du pont) ayant trois branches principales : le nerf ophtalmique (V1 ), le nerf maxillaire (V2) et le nerf mandibulaire (V3).
+
+Les nerfs ophtalmique et maxillaire sont purement sensoriels, alors que le nerf mandibulaire assure les fonctions motrices et sensorielles (ou « cutanées »).
+
+Ajoutant à la complexité de ce nerf, il contient des fibres nerveuses autonomes ainsi que des fibres sensorielles spéciales (goût).
+
+La division motrice du nerf trijumeau dérive de la plaque basale du pont embryonnaire et la division sensorielle prend naissance dans la crête neurale crânienne.
+
+Les informations sensorielles du visage et du corps sont traitées par des voies parallèles dans le système nerveux central.
+
+
+== Structure ==
+
+Les trois branches principales du nerf trijumeau - le nerf ophtalmique (V1), le nerf maxillaire (V2) et le nerf mandibulaire (V3) - convergent vers le ganglion trijumeau (également appelé ganglion semi-lunaire ou ganglion gassérien), situé dans la grotte de Meckel et contenant les corps cellulaires des fibres nerveuses sensorielles entrantes.
+
+Le ganglion trijumeau est analogue aux ganglions de la racine dorsale de la moelle épinière, qui contiennent les corps cellulaires des fibres sensorielles entrantes du reste du corps.
+À partir du ganglion trijumeau, une seule grande racine sensorielle (portio major) pénètre dans le tronc cérébral au niveau du pont.
+
+Immédiatement adjacente à la racine sensorielle, une racine motrice plus petite (portio minor) émerge du pont au même niveau.
+
+Les fibres motrices traversent le ganglion trijumeau sans se synapser sur leur chemin vers les muscles périphériques, mais leurs corps cellulaires sont situés dans le noyau du cinquième nerf, au plus profond du pont.
+
+Les zones de distribution cutanée (dermatomes) des trois branches sensorielles du nerf trijumeau ont des bords nets avec relativement peu de chevauchement (contrairement aux dermatomes du reste du corps, qui ont un chevauchement considérable).
+
+L'injection d'un anesthésique local, tel que la lidocaïne, entraîne la perte totale de sensation dans des zones bien définies du visage et de la bouche.
+
+Par exemple, les dents d'un côté de la mâchoire peuvent être engourdies en injectant le nerf mandibulaire.
+
+Parfois, des processus de blessure ou de maladie peuvent affecter deux (ou les trois) branches du nerf trijumeau; dans ces cas, les succursales concernées peuvent être appelées :
+
+Répartition V1/V2 – Se référant aux branches ophtalmique et maxillaire
+Répartition V2/V3 – Se référant aux branches maxillaire et mandibulaire
+Répartition V1-V3 - Se référant aux trois branches Les nerfs du côté gauche de la mâchoire sont légèrement plus nombreux que les nerfs du côté droit de la mâchoire.
+
+
+=== Branches sensorielles ===
+
+
+Les branches ophtalmiques, maxillaires et mandibulaires quittent le crâne par trois foramens distincts : la fissure orbitaire supérieure, le foramen rotundum et le foramen ovale, respectivement.
+
+Le nerf ophtalmique (V1) transporte les informations sensorielles du cuir chevelu et du front, de la paupière supérieure, de la conjonctive et de la cornée de l'œil, du nez (y compris le bout du nez, sauf les ailes du nez), de la muqueuse nasale, des sinus frontaux et parties des méninges (la dure-mère et les vaisseaux sanguins).
+
+Le nerf maxillaire (V2) transporte les informations sensorielles de la paupière inférieure et de la joue, des narines et de la lèvre supérieure, des dents et des gencives supérieures, de la muqueuse nasale, du palais et du toit du pharynx, des sinus maxillaires, ethmoïdaux et sphénoïdaux et de parties de les méninges.
+
+Le nerf mandibulaire (V3) transporte les informations sensorielles de la lèvre inférieure, des dents et des gencives inférieures, du menton et de la mâchoire (à l'exception de l'angle de la mâchoire, qui est fourni par C2-C3), des parties de l'oreille externe et des parties du méninges.
+
+Le nerf mandibulaire transmet les sensations de position tactile et de douleur-température de la bouche.
+
+Bien qu'il ne porte pas de sensation gustative (la corde du tympan est responsable du goût), l'une de ses branches - le nerf lingual - porte la sensation de la langue.
+
+Les processus périphériques du noyau mésencéphalique des neurones V courent dans la racine motrice du nerf trijumeau et se terminent dans les fuseaux musculaires des muscles de la mastication.
+
+Ce sont des fibres proprioceptives, véhiculant des informations sur la localisation des muscles masticateurs.
+
+Les processus centraux des neurones mésencéphaliques V se synapsent dans le noyau moteur V.
+
+
+== Fonction ==
+
+La fonction sensorielle du nerf trijumeau est de fournir une afférence tactile, proprioceptive et nociceptive au visage et à la bouche.
+
+Sa fonction motrice active les muscles de la mastication, le tenseur tympanique, le tenseur veli palatini, le mylohyoïdien et le ventre antérieur du digastrique.
+
+Le nerf trijumeau porte des fibres afférentes somatiques générales (GSA), qui innervent la peau du visage via les divisions ophtalmique (V1), maxillaire (V2) et mandibulaire (V3).
+
+Le nerf trijumeau porte également des axones efférents viscéraux spéciaux (SVE), qui innervent les muscles de la mastication via la division mandibulaire (V3).
+
+
+=== Muscles ===
+
+La composante motrice de la division mandibulaire (V3) du nerf trijumeau contrôle le mouvement de huit muscles, dont les quatre muscles de la mastication : le masséter, le muscle temporal et les ptérygoïdes médial et latéral.
+
+Les quatre autres muscles sont le tenseur du voile du palais, le mylohyoïdien, le ventre antérieur du digastrique et le tenseur du tympan.
+
+Un moyen mnémotechnique utile pour se souvenir de ces muscles est "My Tensors Dig Ants 4 MoM" (Mylohyoid—Tensor Tympani + Tensor Veli Palatini—Digastric (Anterior) - 4 Muscles of Mastication (Temporalis, Masseter, Medial and Lateral Pterygoids))
+A l'exception du tenseur du tympan, tous ces muscles sont impliqués dans la morsure, la mastication et la déglutition et ont tous une représentation corticale bilatérale.
+
+Une lésion centrale unilatérale (par exemple, un accident vasculaire cérébral), quelle que soit sa taille, est peu susceptible de produire un déficit observable.
+
+Une blessure à un nerf périphérique peut provoquer une paralysie des muscles d'un côté de la mâchoire, la mâchoire déviant vers le côté paralysé lorsqu'elle s'ouvre.
+
+Cette direction de la mandibule est due à l'action des ptérygoïdes fonctionnels du côté opposé.
+
+
+=== Sensations ===
+
+
+Les deux types de sensation de base sont la position du toucher et la température de la douleur.
+
+L'entrée de la position tactile attire immédiatement l'attention, mais l'entrée douleur-température atteint le niveau de conscience après un délai; lorsqu'une personne marche sur une épingle, la conscience de marcher sur quelque chose est immédiate mais la douleur qui y est associée est retardée.
+
+Les informations sur la position du toucher sont généralement transportées par des fibres nerveuses myélinisées (à conduction rapide) et les informations sur la température de la douleur par des fibres non myélinisées (à conduction lente).
+
+Les récepteurs sensoriels primaires pour la position tactile (corpuscules de Meissner, récepteurs de Merkel, corpuscules de Pacini, corpuscules de Ruffini, récepteurs capillaires, organes du fuseau musculaire et organes tendineux de Golgi) sont structurellement plus complexes que ceux de la douleur-température, qui sont des terminaisons nerveuses.
+
+La sensation dans ce contexte fait référence à la perception consciente des informations de position tactile et de température de la douleur, plutôt qu'aux sens spéciaux (odorat, vue, goût, ouïe et équilibre) traités par différents nerfs crâniens et envoyés au cortex cérébral par différentes voies.
+
+La perception des champs magnétiques, des champs électriques, des vibrations à basse fréquence et du rayonnement infrarouge par certains vertébrés non humains est traitée par leur équivalent du cinquième nerf crânien.
+
+Le toucher dans ce contexte fait référence à la perception d'informations tactiles détaillées et localisées, telles que la discrimination à deux points (la différence entre toucher un point et deux points rapprochés) ou la différence entre un papier de verre grossier, moyen ou fin.
+
+Les personnes sans perception de la position tactile peuvent sentir la surface de leur corps et percevoir le toucher au sens large, mais elles manquent de détails perceptifs.
+La position, dans ce contexte, fait référence à la proprioception consciente.
+
+Les propriocepteurs (fuseau musculaire et organes tendineux de Golgi) fournissent des informations sur la position des articulations et les mouvements musculaires.
+
+Bien qu'une grande partie de ces informations soit traitée à un niveau inconscient (principalement par le cervelet et les noyaux vestibulaires), une partie est disponible à un niveau conscient.
+Les sensations de position tactile et de douleur-température sont traitées par différentes voies dans le système nerveux central.
+
+Cette distinction câblée est maintenue jusqu'au cortex cérébral.
+
+Au sein du cortex cérébral, les sensations sont liées à d'autres zones corticales.
+
+
+=== Voies sensorielles ===
+
+Les voies sensorielles de la périphérie au cortex sont séparées pour les sensations de position tactile et de douleur-température.
+
+Toutes les informations sensorielles sont envoyées à des noyaux spécifiques du thalamus.
+
+Les noyaux thalamiques, à leur tour, envoient des informations à des zones spécifiques du cortex cérébral.
+
+Chaque voie est constituée de trois faisceaux de fibres nerveuses connectées en série :
+
+Les neurones secondaires de chaque voie décussent (traversent la moelle épinière ou le tronc cérébral), car la moelle épinière se développe en segments.
+
+Les fibres décussées atteignent plus tard et relient ces segments aux centres supérieurs.
+
+Le chiasma optique est la principale cause de décussation ; les fibres nasales du nerf optique se croisent (ainsi chaque hémisphère cérébral reçoit une vision controlatérale - opposée) pour maintenir courtes les connexions interneuronales responsables du traitement de l'information.
+
+Toutes les voies sensorielles et motrices convergent et divergent vers l'hémisphère controlatéral. Bien que les voies sensorielles soient souvent représentées comme des chaînes de neurones individuels connectés en série, il s'agit d'une simplification excessive.
+
+Les informations sensorielles sont traitées et modifiées à chaque niveau de la chaîne par les interneurones et les apports d'autres zones du système nerveux.
+
+Par exemple, les cellules du noyau trijumeau principal (principal V dans le diagramme ci-dessous) reçoivent des informations de la formation réticulaire et du cortex cérébral.
+
+Cette information contribue à la sortie finale des cellules du Main V vers le thalamus.
+
+Les informations de position tactile du corps sont transportées vers le thalamus par le lemnisque médial et depuis le visage par le lemnisque trijumeau (les voies trigéminothalamiques antérieure et postérieure).
+
+Les informations sur la douleur et la température du corps sont acheminées vers le thalamus par le tractus spinothalamique et depuis le visage par la division antérieure du lemnisque trijumeau (également appelé tractus trigéminothalamique antérieur).
+
+Les voies des sensations de position tactile et de douleur-température du visage et du corps fusionnent dans le tronc cérébral, et des cartes sensorielles de position tactile et de douleur-température du corps entier sont projetées sur le thalamus.
+
+Depuis le thalamus, les informations sur la position du toucher et la température de la douleur sont projetées sur le cortex cérébral.
+
+
+=== Résumé ===
+
+Le traitement complexe des informations sur la douleur et la température dans le thalamus et le cortex cérébral (par opposition au traitement relativement simple et direct des informations sur la position tactile) reflète un système sensoriel phylogénétiquement plus ancien et plus primitif.
+
+Les informations détaillées reçues des récepteurs périphériques de position tactile sont superposées à un arrière-plan de conscience, de mémoire et d'émotions partiellement défini par les récepteurs périphériques de douleur-température.
+
+Bien que les seuils de perception de la position du toucher soient relativement faciles à mesurer, ceux de la perception de la douleur et de la température sont difficiles à définir et à mesurer.
+
+Le « toucher » est une sensation objective, mais la « douleur » est une sensation individualisée qui varie selon les personnes et qui est conditionnée par la mémoire et l'émotion.
+
+Les différences anatomiques entre les voies de perception de la position tactile et la sensation douleur-température aident à expliquer pourquoi la douleur, en particulier la douleur chronique, est difficile à gérer.
+
+
+== Noyau trijumeau ==
+
+
+Toutes les informations sensorielles du visage, à la fois la position du toucher et la température de la douleur, sont envoyées au noyau trijumeau.
+
+Dans l'anatomie classique, la plupart des informations sensorielles du visage sont portées par le cinquième nerf, mais la sensation des parties de la bouche, des parties de l'oreille et des parties des méninges est portée par des fibres afférentes somatiques générales dans les nerfs crâniens VII (le nerf facial), IX (le nerf glossopharyngien) et X (le nerf vague).
+
+Toutes les fibres sensorielles de ces nerfs se terminent dans le noyau trijumeau.
+
+En entrant dans le tronc cérébral, les fibres sensorielles de V, VII, IX et X sont triées et envoyées au noyau trijumeau (qui contient une carte sensorielle du visage et de la bouche).
+
+Les homologues spinaux du noyau trijumeau (cellules de la corne dorsale et des noyaux de la colonne dorsale de la moelle épinière) contiennent une carte sensorielle du reste du corps.
+
+Le noyau trijumeau s'étend dans tout le tronc cérébral, du mésencéphale à la moelle épinière, en continuant dans la moelle cervicale (où il fusionne avec les cellules de la corne dorsale de la moelle épinière).
+
+Le noyau est divisé en trois parties, visibles sur des coupes microscopiques du tronc cérébral.
+
+De caudal à rostral (ascendant de la moelle au mésencéphale), ce sont le trijumeau spinal, le noyau sensoriel principal et le noyau mésencéphalique.
+
+Les parties du noyau trijumeau reçoivent différents types d'informations sensorielles ; le noyau spinal du trijumeau reçoit les fibres douleur-température, le noyau sensoriel principal reçoit les fibres de la position tactile et le noyau mésencéphalique reçoit les fibres proprioceptrices et mécanoréceptrices des mâchoires et des dents.
+
+
+=== Noyau trijumeau spinal ===
+
+Le noyau trijumeau spinal représente la sensation douleur-température du visage.
+
+Les fibres douleur-température des nocicepteurs périphériques sont transportées dans les nerfs crâniens V, VII, IX et X.
+
+En pénétrant dans le tronc cérébral, les fibres sensorielles sont regroupées et envoyées au noyau trijumeau spinal.
+
+Ce faisceau de fibres entrantes peut être identifié dans les coupes transversales du pont et de la moelle épinière comme le tractus rachidien du noyau trijumeau, qui est parallèle au noyau trijumeau rachidien.
+
+Le tractus spinal de V est analogue et continu avec le tractus de Lissauer dans la moelle épinière.
+Le noyau spinal du trijumeau contient une carte sensorielle douleur-température du visage et de la bouche.
+
+À partir du noyau trigéminal spinal, les fibres secondaires traversent la ligne médiane et montent dans le tractus trigéminothalamique (quintothalamique) jusqu'au thalamus controlatéral.
+
+Les fibres de température de la douleur sont envoyées à plusieurs noyaux thalamiques.
+
+Le traitement central des informations sur la température de la douleur diffère du traitement des informations sur la position du toucher.
+
+
+==== Représentation somatotopique ====
+
+La façon exacte dont les fibres douleur-température du visage sont distribuées au noyau trijumeau spinal est contestée.
+
+La compréhension générale actuelle est que les informations sur la douleur et la température de toutes les zones du corps humain sont représentées dans la moelle épinière et le tronc cérébral de manière ascendante, caudale à rostrale.
+
+Les informations des membres inférieurs sont représentées dans le cordon lombaire, et celles des membres supérieurs dans le cordon thoracique.
+
+Les informations du cou et de l'arrière de la tête sont représentées dans la moelle cervicale, et celles du visage et de la bouche dans le noyau spinal du trijumeau.
+Dans le noyau trijumeau spinal, les informations sont représentées en couches ou en "pelure d'oignon".
+
+Les niveaux les plus bas du noyau (dans la moelle cervicale supérieure et la moelle inférieure) représentent les zones périphériques du visage (le cuir chevelu, les oreilles et le menton).
+
+Les niveaux supérieurs (dans la moelle supérieure) représentent les zones centrales (nez, joues et lèvres).
+
+Les niveaux les plus élevés (dans le pont) représentent la bouche, les dents et la cavité pharyngée.
+La distribution de la pelure d'oignon diffère de la distribution dermatome des branches périphériques du cinquième nerf.
+
+Les lésions qui détruisent les zones inférieures du noyau trijumeau spinal (mais épargnent les zones supérieures) préservent la sensation de douleur-température dans le nez (V1), la lèvre supérieure (V2) et la bouche (V3) et suppriment la sensation de douleur-température du front (V1) , les joues (V2) et le menton (V3).
+
+Bien que l'analgésie dans cette distribution soit « non physiologique » au sens traditionnel (car traversant plusieurs dermatomes), cette analgésie est retrouvée chez l'homme après section chirurgicale du tractus rachidien du noyau trijumeau.
+Le noyau trijumeau spinal envoie des informations sur la douleur et la température au thalamus et envoie des informations au mésencéphale et à la formation réticulaire du tronc cérébral.
+
+Ces dernières voies sont analogues aux voies spino-mésencéphalique et spinoréticulaire de la moelle épinière, qui envoient des informations de douleur-température du reste du corps vers les mêmes zones.
+
+Le mésencéphale module les entrées douloureuses avant qu'elles n'atteignent le niveau de conscience.
+
+La formation réticulaire est responsable de l'orientation automatique (inconsciente) du corps vers les stimuli douloureux.
+
+Incidemment, les composés soufrés présents dans les plantes de la famille des oignons stimulent les récepteurs présents dans les ganglions trigéminaux, contournant le système olfactif.
+
+
+=== Noyau principal ===
+
+Le noyau principal représente la sensation de pression tactile du visage.
+
+Il est situé dans le pons, près de l'entrée du cinquième nerf.
+
+Les fibres transportant les informations de position tactile du visage et de la bouche via les nerfs crâniens V, VII, IX et X sont envoyées à ce noyau lorsqu'elles pénètrent dans le tronc cérébral.
+
+Le noyau principal contient une carte sensorielle de la position tactile du visage et de la bouche, tout comme le noyau trijumeau spinal contient une carte complète douleur-température.
+
+Ce noyau est analogue aux noyaux de la colonne dorsale (les noyaux gracile et cunéiforme) de la moelle épinière, qui contiennent une carte de position tactile du reste du corps.
+
+A partir du noyau principal, les fibres secondaires traversent la ligne médiane et montent dans le tractus trigéminothalamique ventral jusqu'au thalamus controlatéral.
+
+Le tractus trigéminothalamique ventral est parallèle au lemnisque médial, qui transporte les informations de position tactile du reste du corps vers le thalamus.
+
+Certaines informations sensorielles des dents et des mâchoires sont envoyées du noyau principal au thalamus ipsilatéral via le petit tractus trijumeau dorsal.
+
+Les informations de position tactile des dents et des mâchoires d'un côté du visage sont représentées bilatéralement dans le thalamus et le cortex.
+
+
+=== Noyau mésencéphalique ===
+
+Le noyau mésencéphalique n'est pas un vrai noyau ; c'est un ganglion sensoriel (comme le ganglion trijumeau) intégré dans le tronc cérébral et la seule exception à la règle selon laquelle l'information sensorielle passe par les ganglions sensoriels périphériques avant d'entrer dans le système nerveux central.
+
+Il a été trouvé chez tous les vertébrés à l'exception des lamproies et des myxines.
+
+Ils sont les seuls vertébrés sans mâchoires et possèdent des cellules spécifiques dans leur tronc cérébral.
+
+Ces cellules « ganglionnaires internes » ont été découvertes à la fin du XIXe siècle par l'étudiant en médecine Sigmund Freud.
+
+Deux types de fibres sensorielles ont des corps cellulaires dans le noyau mésencéphalique : les fibres proprioceptrices de la mâchoire et les fibres mécanoréceptrices des dents.
+
+Certaines de ces fibres entrantes vont au noyau moteur du nerf trijumeau (V), contournant les voies de perception consciente.
+
+Le réflexe de mâchoire est un exemple; tapoter la mâchoire provoque une fermeture réflexe de la mâchoire de la même manière que tapoter le genou provoque un coup de pied réflexe du bas de la jambe.
+
+D'autres fibres provenant des dents et des mâchoires vont au noyau principal de V.
+
+Cette information est projetée bilatéralement sur le thalamus et disponible pour la perception consciente.
+Des activités telles que mordre, mâcher et avaler nécessitent une coordination symétrique et simultanée des deux côtés du corps.
+
+Ce sont des activités automatiques, nécessitant peu d'attention consciente et impliquant une composante sensorielle (rétroaction sur la position tactile) traitée au niveau inconscient dans le noyau mésencéphalique.
+
+
+=== Voies vers le thalamus et le cortex ===
+
+La sensation a été définie comme la perception consciente d'informations sur la position du toucher et la température de la douleur.
+
+À l'exception de l'odorat, toutes les entrées sensorielles (position tactile, douleur-température, vue, goût, ouïe et équilibre) sont envoyées au thalamus puis au cortex.
+
+Le thalamus est anatomiquement subdivisé en noyaux.
+
+
+=== Sensation de position tactile ===
+
+
+Les informations de position tactile du corps sont envoyées au noyau postéro-ventral (VPL) du thalamus.
+
+Les informations de position tactile du visage sont envoyées au noyau postéromédial ventral (VPM) du thalamus.
+
+À partir du VPL et du VPM, les informations sont projetées vers le cortex somatosensoriel primaire (SI) dans le lobe pariétal.
+
+La représentation des informations sensorielles dans le gyrus post-central est organisée de manière somatotopique.
+
+Les zones adjacentes du corps sont représentées par des zones adjacentes du cortex.
+
+Lorsque les parties du corps sont dessinées proportionnellement à la densité de leur innervation, le résultat est un « petit homme » : l'homoncule cortical.
+
+De nombreux manuels ont reproduit le schéma dépassé de Penfield-Rasmussen [réf ?], avec les orteils et les organes génitaux sur la face mésiale du cortex alors qu'ils sont en réalité représentés sur la convexité.
+
+Le schéma classique implique une seule carte sensorielle primaire du corps, alors qu'il existe plusieurs cartes primaires.
+
+Au moins quatre homoncules sensoriels distincts anatomiquement ont été identifiés dans le gyrus post-central.
+
+Ils représentent des combinaisons d'apports provenant de récepteurs de surface et profonds et de récepteurs périphériques à adaptation rapide et lente ; les objets lisses activeront certaines cellules, et les objets rugueux activeront d'autres cellules.
+
+Les informations des quatre cartes en SI sont envoyées au cortex sensoriel secondaire (SII) dans le lobe pariétal.
+
+SII contient deux autres homoncules sensoriels.
+
+Les informations d'un côté du corps sont généralement représentées du côté opposé en SI, mais des deux côtés en SII.
+
+L'imagerie IRM fonctionnelle d'un stimulus défini (par exemple, caresser la peau avec une brosse à dents) "éclaire" un seul foyer en SI et deux foyers en SII.
+
+
+=== Sensation de douleur-température ===
+
+Les informations sur la température de la douleur sont envoyées au VPL (corps) et au VPM (visage) du thalamus (les mêmes noyaux qui reçoivent les informations sur la position tactile).
+
+Depuis le thalamus, les informations de douleur-température et de position tactile sont projetées sur le SI.
+
+Contrairement aux informations sur la position tactile, cependant, les informations sur la température de la douleur sont également envoyées à d'autres noyaux thalamiques et projetées sur des zones supplémentaires du cortex cérébral.
+
+Certaines fibres de douleur-température sont envoyées au noyau thalamique dorsal médial (MD), qui se projette vers le cortex cingulaire antérieur.
+
+D'autres fibres sont envoyées au noyau ventromédian (VM) du thalamus, qui se projette vers le cortex insulaire.
+
+Enfin, certaines fibres sont envoyées au noyau intralaminaire (IL) du thalamus via la formation réticulaire.
+
+L'IL se projette de manière diffuse dans toutes les parties du cortex cérébral.
+Les cortex insulaire et cingulaire sont des parties du cerveau qui représentent la position du toucher et la température de la douleur dans le contexte d'autres perceptions simultanées (vue, odorat, goût, audition et équilibre) dans le contexte de la mémoire et de l'état émotionnel.
+
+Les informations périphériques sur la douleur et la température sont transmises directement au cerveau à un niveau profond, sans traitement préalable.
+
+Les informations de position tactile sont traitées différemment.
+
+Les projections thalamiques diffuses de l'IL et d'autres noyaux thalamiques sont responsables d'un niveau de conscience donné, le thalamus et la formation réticulaire « activant » le cerveau ; les informations périphériques sur la douleur et la température alimentent également directement ce système.
+
+
+== Signification clinique ==
+
+La névralgie du trijumeau
+Mal de tête en grappe
+Migraine
+
+
+=== Syndrome de Wallenberg ===
+
+
+Le syndrome de Wallenberg (syndrome médullaire latéral) est une démonstration clinique de l'anatomie du nerf trijumeau, résumant la façon dont il traite les informations sensorielles.
+
+Un accident vasculaire cérébral affecte généralement un seul côté du corps; la perte de sensation due à un accident vasculaire cérébral sera latéralisée à droite ou à gauche du corps.
+
+Les seules exceptions à cette règle sont certaines lésions médullaires et les syndromes médullaires dont le syndrome de Wallenberg est l'exemple le plus connu.
+
+Dans ce syndrome, un accident vasculaire cérébral provoque une perte de sensation douleur-température d'un côté du visage et de l'autre côté du corps.
+Cela s'explique par l'anatomie du tronc cérébral.
+
+Dans la moelle épinière, le tractus spinothalamique ascendant (qui transporte les informations douleur-température du côté opposé du corps) est adjacent au tractus spino-rachidien ascendant du nerf trijumeau (qui transporte les informations douleur-température du même côté du visage).
+
+Un accident vasculaire cérébral qui coupe l'apport sanguin à cette zone (par exemple, un caillot dans l'artère cérébelleuse postérieure inférieure) détruit les deux voies simultanément.
+
+Il en résulte une perte de sensation douleur-température (mais pas de position tactile) en « damier » (face ipsilatérale, corps controlatéral), facilitant le diagnostic.
+
+
+
+https://en.wikipedia.org/wiki/Trijumeau_nerf

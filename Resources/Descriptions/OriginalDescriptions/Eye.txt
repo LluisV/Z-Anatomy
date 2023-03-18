@@ -1,0 +1,493 @@
+
+
+EYE
+
+
+Eyes are organs of the visual system. 
+
+They provide living organisms with vision, the ability to receive and process visual detail, as well as enabling several photo response functions that are independent of vision. 
+
+Eyes detect light and convert it into electro-chemical impulses in neurons. 
+
+In higher organisms, the eye is a complex optical system which collects light from the surrounding environment, regulates its intensity through a diaphragm, focuses it through an adjustable assembly of lenses to form an image, converts this image into a set of electrical signals, and transmits these signals to the brain through complex neural pathways that connect the eye via the optic nerve to the visual cortex and other areas of the brain. 
+
+Eyes with resolving power have come in ten fundamentally different forms, and 96% of animal species possess a complex optical system. 
+
+Image-resolving eyes are present in molluscs, chordates and arthropods.The most simple eyes, pit eyes, are eye-spots which may be set into a pit to reduce the angles of light that enters and affects the eye-spot, to allow the organism to deduce the angle of incoming light. 
+
+From more complex eyes, retinal photosensitive ganglion cells send signals along the retinohypothalamic tract to the suprachiasmatic nuclei to effect circadian adjustment and to the pretectal area to control the pupillary light reflex.
+
+
+== Overview ==
+
+
+Complex eyes can distinguish shapes and colours. 
+
+The visual fields of many organisms, especially predators, involve large areas of binocular vision to improve depth perception. 
+
+In other organisms, eyes are located so as to maximise the field of view, such as in rabbits and horses, which have monocular vision.
+The first proto-eyes evolved among animals 600 million years ago about the time of the Cambrian explosion. 
+
+The last common ancestor of animals possessed the biochemical toolkit necessary for vision, and more advanced eyes have evolved in 96% of animal species in six of the ~35 main phyla. 
+
+In most vertebrates and some molluscs, the eye works by allowing light to enter and project onto a light-sensitive layer of cells at the end of the eye, known as the retina. 
+
+The cone cells (for colour) and the rod cells (for low-light contrasts) in the retina detect and convert light into neural signals for vision. 
+
+The visual signals are then transmitted to the brain via the optic nerve. 
+
+Such eyes are typically roughly spherical, filled with a transparent gel-like substance called the vitreous humour, with a focusing lens and often an iris; the relaxing or tightening of the muscles around the iris change the size of the pupil, thereby regulating the amount of light that enters the eye, and reducing aberrations when there is enough light. 
+
+The eyes of most cephalopods, fish, amphibians and snakes have fixed lens shapes, and focusing vision is achieved by telescoping the lens—similar to how a camera focuses.Compound eyes are found among the arthropods and are composed of many simple facets which, depending on the details of anatomy, may give either a single pixelated image or multiple images, per eye. 
+
+Each sensor has its own lens and photosensitive cell(s). 
+
+Some eyes have up to 28,000 such sensors, which are arranged hexagonally, and which can give a full 360° field of vision. 
+
+Compound eyes are very sensitive to motion. 
+
+Some arthropods, including many Strepsiptera, have compound eyes of only a few facets, each with a retina capable of creating an image, creating vision. 
+
+With each eye viewing a different thing, a fused image from all the eyes is produced in the brain, providing very different, high-resolution images.
+Possessing detailed hyperspectral colour vision, the Mantis shrimp has been reported to have the world's most complex colour vision system. 
+
+Trilobites, which are now extinct, had unique compound eyes. 
+
+They used clear calcite crystals to form the lenses of their eyes. 
+
+In this, they differ from most other arthropods, which have soft eyes. 
+
+The number of lenses in such an eye varied; however, some trilobites had only one, and some had thousands of lenses in one eye.
+In contrast to compound eyes, simple eyes are those that have a single lens. 
+
+For example, jumping spiders have a large pair of simple eyes with a narrow field of view, supported by an array of other, smaller eyes for peripheral vision. 
+
+Some insect larvae, like caterpillars, have a different type of simple eye (stemmata) which usually provides only a rough image, but (as in sawfly larvae) can possess resolving powers of 4 degrees of arc, be polarization-sensitive and capable of increasing its absolute sensitivity at night by a factor of 1,000 or more. 
+
+Some of the simplest eyes, called ocelli, can be found in animals like some of the snails, which cannot actually "see" in the normal sense. 
+
+They do have photosensitive cells, but no lens and no other means of projecting an image onto these cells. 
+
+They can distinguish between light and dark, but no more. 
+
+This enables snails to keep out of direct sunlight.
+In organisms dwelling near deep-sea vents, compound eyes have been secondarily simplified and adapted to see the infra-red light produced by the hot vents—in this way the bearers can avoid being boiled alive.
+
+
+== Types ==
+
+There are ten different eye layouts—indeed every technological method of capturing an optical image commonly used by human beings, with the exceptions of zoom and Fresnel lenses, occur in nature. 
+
+Eye types can be categorised into "simple eyes", with one concave photoreceptive surface, and "compound eyes", which comprise a number of individual lenses laid out on a convex surface. 
+
+Note that "simple" does not imply a reduced level of complexity or acuity. 
+
+Indeed, any eye type can be adapted for almost any behaviour or environment. 
+
+The only limitations specific to eye types are that of resolution—the physics of compound eyes prevents them from achieving a resolution better than 1°. 
+
+Also, superposition eyes can achieve greater sensitivity than apposition eyes, so are better suited to dark-dwelling creatures. 
+
+Eyes also fall into two groups on the basis of their photoreceptor's cellular construction, with the photoreceptor cells either being cilliated (as in the vertebrates) or rhabdomeric. 
+
+These two groups are not monophyletic; the cnidaria also possess cilliated cells,
+ and some gastropods, as well as some annelids possess both.Some organisms have photosensitive cells that do nothing but detect whether the surroundings are light or dark, which is sufficient for the entrainment of circadian rhythms. 
+
+These are not considered eyes because they lack enough structure to be considered an organ, and do not produce an image.
+
+
+=== Non-compound eyes ===
+
+Simple eyes are rather ubiquitous, and lens-bearing eyes have evolved at least seven times in vertebrates, cephalopods, annelids, crustaceans and cubozoa.
+
+
+==== Pit eyes ====
+Pit eyes, also known as stemma, are eye-spots which may be set into a pit to reduce the angles of light that enters and affects the eye-spot, to allow the organism to deduce the angle of incoming light. 
+
+Found in about 85% of phyla, these basic forms were probably the precursors to more advanced types of "simple eyes". 
+
+They are small, comprising up to about 100 cells covering about 100 µm. 
+
+The directionality can be improved by reducing the size of the aperture, by incorporating a reflective layer behind the receptor cells, or by filling the pit with a refractile material.Pit vipers have developed pits that function as eyes by sensing thermal infra-red radiation, in addition to their optical wavelength eyes like those of other vertebrates (see infrared sensing in snakes). 
+
+However, pit organs are fitted with receptors rather different from photoreceptors, namely a specific transient receptor potential channel (TRP channels) called TRPV1. 
+
+The main difference is that photoreceptors are G-protein coupled receptors but TRP are ion channels.
+
+
+==== Spherical lens eye ====
+The resolution of pit eyes can be greatly improved by incorporating a material with a higher refractive index to form a lens, which may greatly reduce the blur radius encountered—hence increasing the resolution obtainable. 
+
+The most basic form, seen in some gastropods and annelids, consists of a lens of one refractive index. 
+
+A far sharper image can be obtained using materials with a high refractive index, decreasing to the edges; this decreases the focal length and thus allows a sharp image to form on the retina. 
+
+This also allows a larger aperture for a given sharpness of image, allowing more light to enter the lens; and a flatter lens, reducing spherical aberration. 
+
+Such a non-homogeneous lens is necessary for the focal length to drop from about 4 times the lens radius, to 2.5 radii.Heterogeneous eyes have evolved at least nine times: four or more times in gastropods, once in the copepods, once in the annelids, once in the cephalopods, and once in the chitons, which have aragonite lenses. 
+
+No extant aquatic organisms possess homogeneous lenses; presumably the evolutionary pressure for a heterogeneous lens is great enough for this stage to be quickly "outgrown".This eye creates an image that is sharp enough that motion of the eye can cause significant blurring. 
+
+To minimise the effect of eye motion while the animal moves, most such eyes have stabilising eye muscles.The ocelli of insects bear a simple lens, but their focal point usually lies behind the retina; consequently, those can't form a sharp image. 
+
+Ocelli (pit-type eyes of arthropods) blur the image across the whole retina, and are consequently excellent at responding to rapid changes in light intensity across the whole visual field; this fast response is further accelerated by the large nerve bundles which rush the information to the brain. 
+
+Focusing the image would also cause the sun's image to be focused on a few receptors, with the possibility of damage under the intense light; shielding the receptors would block out some light and thus reduce their sensitivity.
+This fast response has led to suggestions that the ocelli of insects are used mainly in flight, because they can be used to detect sudden changes in which way is up (because light, especially UV light which is absorbed by vegetation, usually comes from above).
+
+
+==== Multiple lenses ====
+Some marine organisms bear more than one lens; for instance the copepod Pontella has three. 
+
+The outer has a parabolic surface, countering the effects of spherical aberration while allowing a sharp image to be formed. 
+
+Another copepod, Copilia, has two lenses in each eye, arranged like those in a telescope. 
+
+Such arrangements are rare and poorly understood, but represent an alternative construction.
+Multiple lenses are seen in some hunters such as eagles and jumping spiders, which have a refractive cornea: these have a negative lens, enlarging the observed image by up to 50% over the receptor cells, thus increasing their optical resolution.
+
+
+==== Refractive cornea ====
+In the eyes of most mammals, birds, reptiles, and most other terrestrial vertebrates (along with spiders and some insect larvae) the vitreous fluid has a higher refractive index than the air. 
+
+In general, the lens is not spherical. 
+
+Spherical lenses produce spherical aberration. 
+
+In refractive corneas, the lens tissue is corrected with inhomogeneous lens material (see Luneburg lens), or with an aspheric shape. 
+
+Flattening the lens has a disadvantage; the quality of vision is diminished away from the main line of focus. 
+
+Thus, animals that have evolved with a wide field-of-view often have eyes that make use of an inhomogeneous lens.As mentioned above, a refractive cornea is only useful out of water. 
+
+In water, there is little difference in refractive index between the vitreous fluid and the surrounding water. 
+
+Hence creatures that have returned to the water—penguins and seals, for example—lose their highly curved cornea and return to lens-based vision. 
+
+An alternative solution, borne by some divers, is to have a very strongly focusing cornea.
+
+
+==== Reflector eyes ====
+An alternative to a lens is to line the inside of the eye with "mirrors", and reflect the image to focus at a central point. 
+
+The nature of these eyes means that if one were to peer into the pupil of an eye, one would see the same image that the organism would see, reflected back out.Many small organisms such as rotifers, copepods and flatworms use such organs, but these are too small to produce usable images. 
+
+Some larger organisms, such as scallops, also use reflector eyes. 
+
+The scallop Pecten has up to 100 millimetre-scale reflector eyes fringing the edge of its shell. 
+
+It detects moving objects as they pass successive lenses.There is at least one vertebrate, the spookfish, whose eyes include reflective optics for focusing of light. 
+
+Each of the two eyes of a spookfish collects light from both above and below; the light coming from above is focused by a lens, while that coming from below, by a curved mirror composed of many layers of small reflective plates made of guanine crystals.
+
+
+=== Compound eyes ===
+
+
+A compound eye may consist of thousands of individual photoreceptor units or ommatidia (ommatidium, singular). 
+
+The image perceived is a combination of inputs from the numerous ommatidia (individual "eye units"), which are located on a convex surface, thus pointing in slightly different directions. 
+
+Compared with simple eyes, compound eyes possess a very large view angle, and can detect fast movement and, in some cases, the polarisation of light. 
+
+Because the individual lenses are so small, the effects of diffraction impose a limit on the possible resolution that can be obtained (assuming that they do not function as phased arrays). 
+
+This can only be countered by increasing lens size and number. 
+
+To see with a resolution comparable to our simple eyes, humans would require very large compound eyes, around 11 metres (36 ft) in radius.Compound eyes fall into two groups: apposition eyes, which form multiple inverted images, and superposition eyes, which form a single erect image. 
+
+Compound eyes are common in arthropods, annelids and some bivalved molluscs. 
+
+Compound eyes in arthropods grow at their margins by the addition of new ommatidia.
+
+
+==== Apposition eyes ====
+Apposition eyes are the most common form of eyes and are presumably the ancestral form of compound eyes. 
+
+They are found in all arthropod groups, although they may have evolved more than once within this phylum. 
+
+Some annelids and bivalves also have apposition eyes. 
+
+They are also possessed by Limulus, the horseshoe crab, and there are suggestions that other chelicerates developed their simple eyes by reduction from a compound starting point. (Some caterpillars appear to have evolved compound eyes from simple eyes in the opposite fashion.)
+Apposition eyes work by gathering a number of images, one from each eye, and combining them in the brain, with each eye typically contributing a single point of information. 
+
+The typical apposition eye has a lens focusing light from one direction on the rhabdom, while light from other directions is absorbed by the dark wall of the ommatidium.
+
+
+==== Superposition eyes ====
+The second type is named the superposition eye. 
+
+The superposition eye is divided into three types:
+
+refracting,
+reflecting and
+parabolic superpositionThe refracting superposition eye has a gap between the lens and the rhabdom, and no side wall. 
+
+Each lens takes light at an angle to its axis and reflects it to the same angle on the other side. 
+
+The result is an image at half the radius of the eye, which is where the tips of the rhabdoms are. 
+
+This type of compound eye, for which a minimal size exists below which effective superposition cannot occur, is normally found in nocturnal insects, because it can create images up to 1000 times brighter than equivalent apposition eyes, though at the cost of reduced resolution. 
+
+In the parabolic superposition compound eye type, seen in arthropods such as mayflies, the parabolic surfaces of the inside of each facet focus light from a reflector to a sensor array. 
+
+Long-bodied decapod crustaceans such as shrimp, prawns, crayfish and lobsters are alone in having reflecting superposition eyes, which also have a transparent gap but use corner mirrors instead of lenses.
+
+
+==== Parabolic superposition ====
+This eye type functions by refracting light, then using a parabolic mirror to focus the image; it combines features of superposition and apposition eyes.
+
+
+==== Other ====
+Another kind of compound eye, found in males of Order Strepsiptera, employs a series of simple eyes—eyes having one opening that provides light for an entire image-forming retina. 
+
+Several of these eyelets together form the strepsipteran compound eye, which is similar to the 'schizochroal' compound eyes of some trilobites. 
+
+Because each eyelet is a simple eye, it produces an inverted image; those images are combined in the brain to form one unified image. 
+
+Because the aperture of an eyelet is larger than the facets of a compound eye, this arrangement allows vision under low light levels.Good fliers such as flies or honey bees, or prey-catching insects such as praying mantis or dragonflies, have specialised zones of ommatidia organised into a fovea area which gives acute vision. 
+
+In the acute zone, the eyes are flattened and the facets larger. 
+
+The flattening allows more ommatidia to receive light from a spot and therefore higher resolution. 
+
+The black spot that can be seen on the compound eyes of such insects, which always seems to look directly at the observer, is called a pseudopupil. 
+
+This occurs because the ommatidia which one observes "head-on" (along their optical axes) absorb the incident light, while those to one side reflect it.There are some exceptions from the types mentioned above. 
+
+Some insects have a so-called single lens compound eye, a transitional type which is something between a superposition type of the multi-lens compound eye and the single lens eye found in animals with simple eyes. 
+
+Then there is the mysid shrimp, Dioptromysis paucispinosa. 
+
+The shrimp has an eye of the refracting superposition type, in the rear behind this in each eye there is a single large facet that is three times in diameter the others in the eye and behind this is an enlarged crystalline cone. 
+
+This projects an upright image on a specialised retina. 
+
+The resulting eye is a mixture of a simple eye within a compound eye.
+Another version is a compound eye often referred to as "pseudofaceted", as seen in Scutigera. 
+
+This type of eye consists of a cluster of numerous ommatidia on each side of the head, organised in a way that resembles a true compound eye.
+The body of Ophiocoma wendtii, a type of brittle star, is covered with ommatidia, turning its whole skin into a compound eye. 
+
+The same is true of many chitons. 
+
+The tube feet of sea urchins contain photoreceptor proteins, which together act as a compound eye; they lack screening pigments, but can detect the directionality of light by the shadow cast by its opaque body.
+
+
+==== Nutrients ====
+The ciliary body is triangular in horizontal section and is coated by a double layer, the ciliary epithelium. 
+
+The inner layer is transparent and covers the vitreous body, and is continuous from the neural tissue of the retina. 
+
+The outer layer is highly pigmented, continuous with the retinal pigment epithelium, and constitutes the cells of the dilator muscle.
+The vitreous is the transparent, colourless, gelatinous mass that fills the space between the lens of the eye and the retina lining the back of the eye. 
+
+It is produced by certain retinal cells. 
+
+It is of rather similar composition to the cornea, but contains very few cells (mostly phagocytes which remove unwanted cellular debris in the visual field, as well as the hyalocytes of Balazs of the surface of the vitreous, which reprocess the hyaluronic acid), no blood vessels, and 98–99% of its volume is water (as opposed to 75% in the cornea) with salts, sugars, vitrosin (a type of collagen), a network of collagen type II fibres with the mucopolysaccharide hyaluronic acid, and also a wide array of proteins in micro amounts. 
+
+Amazingly, with so little solid matter, it tautly holds the eye.
+
+
+== Evolution ==
+
+
+Photoreception is phylogenetically very old, with various theories of phylogenesis. 
+
+The common origin (monophyly) of all animal eyes is now widely accepted as fact. 
+
+This is based upon the shared genetic features of all eyes; that is, all modern eyes, varied as they are, have their origins in a proto-eye believed to have evolved some 650-600 million years ago, and the PAX6 gene is considered a key factor in this. 
+
+The majority of the advancements in early eyes are believed to have taken only a few million years to develop, since the first predator to gain true imaging would have touched off an "arms race" among all species that did not flee the photopic environment. 
+
+Prey animals and competing predators alike would be at a distinct disadvantage without such capabilities and would be less likely to survive and reproduce. 
+
+Hence multiple eye types and subtypes developed in parallel (except those of groups, such as the vertebrates, that were only forced into the photopic environment at a late stage).
+Eyes in various animals show adaptation to their requirements. 
+
+For example, the eye of a bird of prey has much greater visual acuity than a human eye, and in some cases can detect ultraviolet radiation. 
+
+The different forms of eye in, for example, vertebrates and molluscs are examples of parallel evolution, despite their distant common ancestry. 
+
+Phenotypic convergence of the geometry of cephalopod and most vertebrate eyes creates the impression that the vertebrate eye evolved from an imaging cephalopod eye, but this is not the case, as the reversed roles of their respective ciliary and rhabdomeric opsin classes and different lens crystallins show.The very earliest "eyes", called eye-spots, were simple patches of photoreceptor protein in unicellular animals. 
+
+In multicellular beings, multicellular eyespots evolved, physically similar to the receptor patches for taste and smell. 
+
+These eyespots could only sense ambient brightness: they could distinguish light and dark, but not the direction of the light source.Through gradual change, the eye-spots of species living in well-lit environments depressed into a shallow "cup" shape. 
+
+The ability to slightly discriminate directional brightness was achieved by using the angle at which the light hit certain cells to identify the source. 
+
+The pit deepened over time, the opening diminished in size, and the number of photoreceptor cells increased, forming an effective pinhole camera that was capable of dimly distinguishing shapes. 
+
+However, the ancestors of modern hagfish, thought to be the protovertebrate, were evidently pushed to very deep, dark waters, where they were less vulnerable to sighted predators, and where it is advantageous to have a convex eye-spot, which gathers more light than a flat or concave one. 
+
+This would have led to a somewhat different evolutionary trajectory for the vertebrate eye than for other animal eyes.
+The thin overgrowth of transparent cells over the eye's aperture, originally formed to prevent damage to the eyespot, allowed the segregated contents of the eye chamber to specialise into a transparent humour that optimised colour filtering, blocked harmful radiation, improved the eye's refractive index, and allowed functionality outside of water. 
+
+The transparent protective cells eventually split into two layers, with circulatory fluid in between that allowed wider viewing angles and greater imaging resolution, and the thickness of the transparent layer gradually increased, in most species with the transparent crystallin protein.The gap between tissue layers naturally formed a biconvex shape, an optimally ideal structure for a normal refractive index. 
+
+Independently, a transparent layer and a nontransparent layer split forward from the lens: the cornea and iris. 
+
+Separation of the forward layer again formed a humour, the aqueous humour. 
+
+This increased refractive power and again eased circulatory problems. 
+
+Formation of a nontransparent ring allowed more blood vessels, more circulation, and larger eye sizes.
+
+
+=== Relationship to life requirements ===
+
+Eyes are generally adapted to the environment and life requirements of the organism which bears them. 
+
+For instance, the distribution of photoreceptors tends to match the area in which the highest acuity is required, with horizon-scanning organisms, such as those that live on the African plains, having a horizontal line of high-density ganglia, while tree-dwelling creatures which require good all-round vision tend to have a symmetrical distribution of ganglia, with acuity decreasing outwards from the centre.
+Of course, for most eye types, it is impossible to diverge from a spherical form, so only the density of optical receptors can be altered. 
+
+In organisms with compound eyes, it is the number of ommatidia rather than ganglia that reflects the region of highest data acquisition.: 23–24  Optical superposition eyes are constrained to a spherical shape, but other forms of compound eyes may deform to a shape where more ommatidia are aligned to, say, the horizon, without altering the size or density of individual ommatidia. 
+
+Eyes of horizon-scanning organisms have stalks so they can be easily aligned to the horizon when this is inclined, for example, if the animal is on a slope.An extension of this concept is that the eyes of predators typically have a zone of very acute vision at their centre, to assist in the identification of prey. 
+
+In deep water organisms, it may not be the centre of the eye that is enlarged. 
+
+The hyperiid amphipods are deep water animals that feed on organisms above them. 
+
+Their eyes are almost divided into two, with the upper region thought to be involved in detecting the silhouettes of potential prey—or predators—against the faint light of the sky above. 
+
+Accordingly, deeper water hyperiids, where the light against which the silhouettes must be compared is dimmer, have larger "upper-eyes", and may lose the lower portion of their eyes altogether. 
+
+In the giant Antarctic isopod Glyptonotus a small ventral compound eye is physically completely separated from the much larger dorsal compound eye. 
+
+Depth perception can be enhanced by having eyes which are enlarged in one direction; distorting the eye slightly allows the distance to the object to be estimated with a high degree of accuracy.Acuity is higher among male organisms that mate in mid-air, as they need to be able to spot and assess potential mates against a very large backdrop. 
+
+On the other hand, the eyes of organisms which operate in low light levels, such as around dawn and dusk or in deep water, tend to be larger to increase the amount of light that can be captured.It is not only the shape of the eye that may be affected by lifestyle. 
+
+Eyes can be the most visible parts of organisms, and this can act as a pressure on organisms to have more transparent eyes at the cost of function.Eyes may be mounted on stalks to provide better all-round vision, by lifting them above an organism's carapace; this also allows them to track predators or prey without moving the head.
+
+
+== Physiology ==
+
+
+
+=== Visual acuity ===
+
+
+Visual acuity, or resolving power, is "the ability to distinguish fine detail" and is the property of cone cells. 
+
+It is often measured in cycles per degree (CPD), which measures an angular resolution, or how much an eye can differentiate one object from another in terms of visual angles. 
+
+Resolution in CPD can be measured by bar charts of different numbers of white/black stripe cycles. 
+
+For example, if each pattern is 1.75 cm wide and is placed at 1 m distance from the eye, it will subtend an angle of 1 degree, so the number of white/black bar pairs on the pattern will be a measure of the cycles per degree of that pattern. 
+
+The highest such number that the eye can resolve as stripes, or distinguish from a grey block, is then the measurement of visual acuity of the eye.
+For a human eye with excellent acuity, the maximum theoretical resolution is 50 CPD (1.2 arcminute per line pair, or a 0.35 mm line pair, at 1 m). 
+
+A rat can resolve only about 1 to 2 CPD. 
+
+A horse has higher acuity through most of the visual field of its eyes than a human has, but does not match the high acuity of the human eye's central fovea region.Spherical aberration limits the resolution of a 7 mm pupil to about 3 arcminutes per line pair. 
+
+At a pupil diameter of 3 mm, the spherical aberration is greatly reduced, resulting in an improved resolution of approximately 1.7 arcminutes per line pair. 
+
+A resolution of 2 arcminutes per line pair, equivalent to a 1 arcminute gap in an optotype, corresponds to 20/20 (normal vision) in humans.
+However, in the compound eye, the resolution is related to the size of individual ommatidia and the distance between neighbouring ommatidia. 
+
+Physically these cannot be reduced in size to achieve the acuity seen with single lensed eyes as in mammals. 
+
+Compound eyes have a much lower acuity than vertebrate eyes.
+
+
+=== Colour perception ===
+
+
+"Colour vision is the faculty of the organism to distinguish lights of different spectral qualities." All organisms are restricted to a small range of electromagnetic spectrum; this varies from creature to creature, but is mainly between wavelengths of 400 and 700 nm.
+This is a rather small section of the electromagnetic spectrum, probably reflecting the submarine evolution of the organ: water blocks out all but two small windows of the EM spectrum, and there has been no evolutionary pressure among land animals to broaden this range.The most sensitive pigment, rhodopsin, has a peak response at 500 nm. 
+
+Small changes to the genes coding for this protein can tweak the peak response by a few nm; pigments in the lens can also filter incoming light, changing the peak response. 
+
+Many organisms are unable to discriminate between colours, seeing instead in shades of grey; colour vision necessitates a range of pigment cells which are primarily sensitive to smaller ranges of the spectrum. 
+
+In primates, geckos, and other organisms, these take the form of cone cells, from which the more sensitive rod cells evolved. 
+
+Even if organisms are physically capable of discriminating different colours, this does not necessarily mean that they can perceive the different colours; only with behavioural tests can this be deduced.Most organisms with colour vision can detect ultraviolet light. 
+
+This high energy light can be damaging to receptor cells. 
+
+With a few exceptions (snakes, placental mammals), most organisms avoid these effects by having absorbent oil droplets around their cone cells. 
+
+The alternative, developed by organisms that had lost these oil droplets in the course of evolution, is to make the lens impervious to UV light—this precludes the possibility of any UV light being detected, as it does not even reach the retina.
+
+
+=== Rods and cones ===
+
+The retina contains two major types of light-sensitive photoreceptor cells used for vision: the rods and the cones.
+Rods cannot distinguish colours, but are responsible for low-light (scotopic) monochrome (black-and-white) vision; they work well in dim light as they contain a pigment, rhodopsin (visual purple), which is sensitive at low light intensity, but saturates at higher (photopic) intensities. 
+
+Rods are distributed throughout the retina but there are none at the fovea and none at the blind spot. 
+
+Rod density is greater in the peripheral retina than in the central retina.
+Cones are responsible for colour vision. 
+
+They require brighter light to function than rods require. 
+
+In humans, there are three types of cones, maximally sensitive to long-wavelength, medium-wavelength, and short-wavelength light (often referred to as red, green, and blue, respectively, though the sensitivity peaks are not actually at these colours). 
+
+The colour seen is the combined effect of stimuli to, and responses from, these three types of cone cells. 
+
+Cones are mostly concentrated in and near the fovea. 
+
+Only a few are present at the sides of the retina. 
+
+Objects are seen most sharply in focus when their images fall on the fovea, as when one looks at an object directly. 
+
+Cone cells and rods are connected through intermediate cells in the retina to nerve fibres of the optic nerve. 
+
+When rods and cones are stimulated by light, they connect through adjoining cells within the retina to send an electrical signal to the optic nerve fibres. 
+
+The optic nerves send off impulses through these fibres to the brain.
+
+
+== Pigmentation ==
+
+The pigment molecules used in the eye are various, but can be used to define the evolutionary distance between different groups, and can also be an aid in determining which are closely related—although problems of convergence do exist.Opsins are the pigments involved in photoreception. 
+
+Other pigments, such as melanin, are used to shield the photoreceptor cells from light leaking in from the sides.
+The opsin protein group evolved long before the last common ancestor of animals, and has continued to diversify since.There are two types of opsin involved in vision; c-opsins, which are associated with ciliary-type photoreceptor cells, and r-opsins, associated with rhabdomeric photoreceptor cells. 
+
+The eyes of vertebrates usually contain ciliary cells with c-opsins, and (bilaterian) invertebrates have rhabdomeric cells in the eye with r-opsins. 
+
+However, some ganglion cells of vertebrates express r-opsins, suggesting that their ancestors used this pigment in vision, and that remnants survive in the eyes. 
+
+Likewise, c-opsins have been found to be expressed in the brain of some invertebrates. 
+
+They may have been expressed in ciliary cells of larval eyes, which were subsequently resorbed into the brain on metamorphosis to the adult form. 
+
+C-opsins are also found in some derived bilaterian-invertebrate eyes, such as the pallial eyes of the bivalve molluscs; however, the lateral eyes (which were presumably the ancestral type for this group, if eyes evolved once there) always use r-opsins. 
+
+Cnidaria, which are an outgroup to the taxa mentioned above, express c-opsins—but r-opsins are yet to be found in this group. 
+
+Incidentally, the melanin produced in the cnidaria is produced in the same fashion as that in vertebrates, suggesting the common descent of this pigment.
+
+
+== Notes ==
+
+
+
+=== Bibliography ===
+
+Ali, Mohamed Ather; Klyne, M.A. (1985). 
+
+Vision in Vertebrates. 
+
+New York: Plenum Press. 
+
+ISBN 978-0-306-42065-8.
+
+
+== Further reading ==
+
+Yong, Ed (14 January 2016). "Inside the Eye: Nature's Most Exquisite Creation". 
+
+National Geographic.
+
+
+
+https://en.wikipedia.org/wiki/Eye

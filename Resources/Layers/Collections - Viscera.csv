@@ -1,0 +1,43 @@
+Viscera-1,Viscera-2,Viscera-3,Viscera-4,Viscera-5,Viscera-6,Viscera-7,Viscera-8,Viscera-9,Viscera-10
+Parotid gland.r,Kidney.l,Inferior parathyroid gland.r,Oesophagus,Ejaculatory duct.l,Jejunum,Superior lobe of right lung,Left posterior lateral segment of liver (II),Left posterior lateral segment of liver (II),Mesocolon
+(Accessory parotid gland).r,Kidney.r,Superior parathyroid gland.r,Stomach,Ejaculatory duct.r,Uvula of palate,Middle lobe of right lung,Left anterior lateral segment of liver (III),Left anterior lateral segment of liver (III),Lesser omentum
+Parotid gland.l,Urinary bladder,Inferior parathyroid gland.l,Duodenum,Glans penis,Gingiva,Inferior lobe of right lung,Posterior segment of liver (I),Posterior segment of liver (I),Pleura
+(Accessory parotid gland).l,Urethra,Superior parathyroid gland.l,Gallbladder,Corpus spongiosum of penis,Soft palate,Superior lobe of left lung,Anterior medial segment of liver (V),Anterior medial segment of liver (V),Greater omentum
+Parotid duct.l,Renal pelvis.l,Suprarenal gland.l,Bile duct,Corpus cavernosum of penis,,Inferior lobe of left lung,Posterior medial segment of liver (VIII),Posterior medial segment of liver (VIII),Tongue
+Parotid duct.r,Renal pelvis.r,Suprarenal gland.r,Pancreatic duct,Spermatic cord.r,,Vermiform appendix,Anterior lateral segment of liver (VI),Anterior lateral segment of liver (VI),Meso-appendix
+Sublingual gland.l,Ureter.l,Mucosa of nasal cavity,Accessory pancreatic duct,Spermatic cord.l,,Ascending colon,Posterior lateral segment of liver (VII),Posterior lateral segment of liver (VII),
+Sublingual gland.r,Ureter.r,Nasopharynx,Pancreas,Testis.r,,Transverse colon,Left medial segment of liver (IV),Left medial segment of liver (IV),
+Submandibular gland.l,,Laryngopharynx,Epiglottis,Testis.l,,Descending colon,Liver,,
+Submandibular gland.r,,Oropharynx,Adenohypophysis,Epididymis.r,,Sigmoid colon,,,
+Submandibular duct.l,,,Neurohypophysis,Epididymis.l,,Mesocolic taenia,,,
+Submandibular duct.r,,,Thyroid gland,Ductus deferens.l,,Omental taenia,,,
+Trachea,,,Pineal gland,Ductus deferens.r,,Free taenia,,,
+Left superior lobar bronchus,,,Mucosa of stomach,Seminal gland.r,,,,,
+Apicoposterior segmental bronchus of left lung (BI+BII),,,,Seminal gland.l,,,,,
+Anterior segmental bronchus of left lung (BIII),,,,Prostate,,,,,
+Superior lingular segmental bronchus of left lung (BIV),,,,,,,,,
+Inferior lingular segmental bronchus of left lung (BV),,,,,,,,,
+Superior segmental bronchus of left lung (BVI),,,,,,,,,
+Medial basal segmental bronchus of left lung,,,,,,,,,
+Anterior basal segmental bronchus of left lung (BVIII),,,,,,,,,
+Left inferior lobar bronchus,,,,,,,,,
+Lateral basal segmental bronchus of left lung (BIX),,,,,,,,,
+Left main bronchus,,,,,,,,,
+Superior segmental bronchus of right lung (BVI),,,,,,,,,
+Lateral segmental bronchus of right lung (BIV),,,,,,,,,
+Right inferior lobar bronchus,,,,,,,,,
+Posterior basal segmental bronchus of right lung (BX),,,,,,,,,
+Medial basal segmental bronchus of right lung (BVII),,,,,,,,,
+Lateral basal segmental bronchus of right lung (BIX),,,,,,,,,
+Anterior basal segmental bronchus of right lung (BVIII),,,,,,,,,
+Anterior segmental bronchus of right lung (BIII),,,,,,,,,
+Apical segmental bronchus of right lung (BI),,,,,,,,,
+Posterior segmental bronchus of right lung (BII),,,,,,,,,
+Right superior lobar bronchus,,,,,,,,,
+Right main bronchus,,,,,,,,,
+(Anteromedial basal segmental bronchus of left lung),,,,,,,,,
+Middle lobar bronchus,,,,,,,,,
+Intermediate bronchus,,,,,,,,,
+Medial segmental bronchus of right lung (BV),,,,,,,,,
+Posterior basal segmental bronchus of left lung (BX),,,,,,,,,
+Medial basal segmental bronchus of left lung (BVII),,,,,,,,,

@@ -1,0 +1,724 @@
+
+
+ABDUCENS NERVE (VI)
+
+
+The abducens nerve (or abducent nerve) is the sixth cranial nerve (CNVI), in humans, that controls the movement of the lateral rectus muscle, responsible for outward gaze. 
+
+It is a somatic efferent nerve.
+
+
+== Structure ==
+
+ 
+The abducens nerve leaves the brainstem at the junction of the pons and the medulla, medial to the facial nerve. 
+
+It runs upwards and forwards from this position to reach the eye.
+The nerve enters the subarachnoid space when it emerges from the brainstem. 
+
+It runs upward between the pons and the clivus, and then pierces the dura mater to run between the dura and the skull through Dorello's canal. 
+
+At the tip of the petrous part of the temporal bone it makes a sharp turn forward to enter the cavernous sinus. 
+
+In the cavernous sinus it runs alongside the internal carotid artery. 
+
+It then enters the orbit through the superior orbital fissure and innervates the lateral rectus muscle of the eye.
+
+
+=== Nucleus ===
+
+
+The abducens nucleus is located in the pons, on the floor of the fourth ventricle, at the level of the facial colliculus. 
+
+Axons from the facial nerve loop around the abducens nucleus, creating a slight bulge (the facial colliculus) that is visible on the dorsal surface of the floor of the fourth ventricle. 
+
+The abducens nucleus is close to the midline, like the other motor nuclei that control eye movements (the oculomotor and trochlear nuclei).
+Motor axons leaving the abducens nucleus run ventrally and caudally through the pons. 
+
+They pass lateral to the corticospinal tract (which runs longitudinally through the pons at this level) before exiting the brainstem at the pontomedullary junction.
+
+
+=== Development ===
+
+The human abducens nerve is derived from the basal plate of the embryonic pons.
+
+
+== Function ==
+
+The abducens nerve supplies the lateral rectus muscle of the human eye. 
+
+This muscle is responsible for outward gaze. 
+
+The abducens nerve carries axons of type GSE, general somatic efferent.
+
+
+== Clinical significance ==
+
+
+
+=== Damage ===
+
+
+Damage to the peripheral part of the abducens nerve will cause double vision (diplopia), due to the unopposed muscle tone of the medial rectus muscle. 
+
+The affected eye is pulled to look towards the midline. 
+
+In order to see without double vision, patients will rotate their heads so that both eyes are toward the temple. 
+
+Partial damage to the abducens nerve causes weak or incomplete abduction of the affected eye. 
+
+The diplopia is worse on attempts at looking laterally.
+The long course of the abducens nerve between the brainstem and the eye makes it vulnerable to injury at many levels. 
+
+For example, fractures of the petrous temporal bone can selectively damage the nerve, as can aneurysms of the intracavernous carotid artery. 
+
+Mass lesions that push the brainstem downward can damage the nerve by stretching it between the point where it emerges from the pons and the point where it hooks over the petrous temporal bone.
+The central anatomy of the sixth nerve predicts (correctly) that infarcts affecting the dorsal pons at the level of the abducens nucleus can also affect the facial nerve, producing an ipsilateral facial palsy together with a lateral rectus palsy. 
+
+The anatomy also predicts (correctly) that infarcts involving the ventral pons can affect the sixth nerve and the corticospinal tract simultaneously, producing a lateral rectus palsy associated with a contralateral hemiparesis. 
+
+These rare syndromes are of interest primarily as useful summaries of the anatomy of the brainstem.
+
+
+=== Peripheral lesions ===
+
+Complete interruption of the peripheral sixth nerve causes diplopia (double vision), due to the unopposed action of the medial rectus muscle. 
+
+The affected eye is pulled medially. 
+
+In order to see without double vision, patients will turn their heads sideways so that both eyes are looking sideways. 
+
+On formal testing, the affected eye cannot abduct past the midline – it cannot look sideways, toward the temple. 
+
+Partial damage to the sixth nerve causes weak or incomplete abduction of the affected eye. 
+
+The diplopia is worse on attempted lateral gaze, as would be expected (since the lateral gaze muscle is impaired).
+Peripheral sixth nerve damage can be caused by tumors, aneurysms, or fractures – anything that directly compresses or stretches the nerve. 
+
+Other processes that can damage the sixth nerve include strokes (infarctions), demyelination, infections (e.g. meningitis), cavernous sinus diseases and various neuropathies. 
+
+Perhaps the most common overall cause of sixth nerve impairment is diabetic neuropathy. 
+
+Iatrogenic injury is also known to occur, with the abducens nerve being the most commonly injured cranial nerve in halo orthosis placement. 
+
+The resultant palsy is identified through loss of lateral gaze after application of the orthosis.
+Rare causes of isolated sixth nerve damage include Wernicke–Korsakoff syndrome and Tolosa–Hunt syndrome. 
+
+Wernicke–Korsakoff syndrome is caused by thiamine deficiency, classically due to alcoholism. 
+
+The characteristic ocular abnormalities are nystagmus and lateral rectus weakness. 
+
+Tolosa-Hunt syndrome is an idiopathic granulomatous disease that causes painful oculomotor (especially sixth nerve) palsies.
+Indirect damage to the sixth nerve can be caused by any process (brain tumor, hydrocephalus, pseudotumor cerebri, hemorrhage, edema) that exerts downward pressure on the brainstem, causing the nerve to stretch along the clivus. 
+
+This type of traction injury can affect either side first. 
+
+A right-sided brain tumor can produce either a right-sided or a left-sided sixth nerve palsy as an initial sign. 
+
+Thus a right-sided sixth nerve palsy does not necessarily imply a right-sided cause. 
+
+Sixth nerve palsies are infamous as “false localizing signs.” Neurological signs are described as “false localizing” if they reflect dysfunction distant or remote from the expected anatomical location of pathology. 
+
+Isolated sixth nerve palsies in children are assumed to be due to brain tumors until proven otherwise.
+
+
+=== Nuclear lesions ===
+
+Damage to the abducens nucleus does not produce an isolated sixth nerve palsy, but rather a horizontal gaze palsy that affects both eyes simultaneously. 
+
+The abducens nucleus contains two types of cells: motor neurons that control the lateral rectus muscle on the same side, and interneurons that cross the midline and connect to the contralateral oculomotor nucleus (which controls the medial rectus muscle of the opposite eye). 
+
+In normal vision, lateral movement of one eye (lateral rectus muscle) is precisely coupled to medial movement of the other eye (medial rectus muscle), so that both eyes remain fixed on the same object.
+The control of conjugate gaze is mediated in the brainstem by the medial longitudinal fasciculus (MLF), a nerve tract that connects the three extraocular motor nuclei (abducens, trochlear and oculomotor) into a single functional unit. 
+
+Lesions of the abducens nucleus and the MLF produce observable sixth nerve problems, most notably internuclear ophthalmoplegia (INO).
+
+
+=== Supranuclear lesions ===
+
+The sixth nerve is one of the final common pathways for numerous cortical systems that control eye movement in general. 
+
+Cortical control of eye movement (saccades, smooth pursuit, accommodation) involves conjugate gaze, not unilateral eye movement.
+
+
+=== Tuberculosis ===
+
+15–40% of people with tuberculosis have some resulting cranial nerve deficit. 
+
+The sixth nerve is the most commonly affected cranial nerve in immunocompetent people with tuberculosis.
+Citation: Smith DE1, Blasi A. 
+
+Acquired abducens nerve palsy secondary to tuberculosis. 
+
+Optometry. 2009 Oct;80(10):567-71. doi: 10.1016/j.optm.2009.02.012.
+
+
+== History ==
+
+=== Etymology ===
+
+The Latin name for the sixth cranial nerve is "nervus abducens". 
+
+The Terminologia Anatomica officially recognizes two different English translations: "abducent nerve" and "abducens nerve".“Abducens” is more common in recent literature, while “abducent” predominates in the older literature. 
+
+The United States National Library of Medicine uses “abducens nerve” in its Medical Subject Heading (MeSH) vocabulary to index the vast MEDLINE and PubMed biomedical databases. 
+
+The 39th edition of Gray’s Anatomy (2005) also prefers “abducens nerve.”
+
+
+== Other animals ==
+
+The abducens nerve controls the movement of a single muscle, the lateral rectus muscle of the eye. 
+
+In most other mammals it also innervates the musculus retractor bulbi, which can retract the eye for protection. 
+
+Homologous abducens nerves are found in all vertebrates except lampreys and hagfishes.
+
+
+
+https://en.wikipedia.org/wiki/Abducens_nerve
+;;;ES;;;
+
+
+
+NERVIO ABDUCENTE (VI)
+
+
+El nervio abducens (o nervio abducens) es el sexto nervio craneal (CNVI), en humanos, que controla el movimiento del músculo recto lateral, responsable de la mirada hacia afuera.
+
+Es un nervio eferente somático.
+
+
+== Estructura ==
+
+ 
+El nervio motor ocular externo sale del tronco encefálico en la unión de la protuberancia y el bulbo raquídeo, medial al nervio facial.
+
+Corre hacia arriba y hacia adelante desde esta posición para llegar al ojo.
+El nervio ingresa al espacio subaracnoideo cuando emerge del tronco encefálico.
+
+Corre hacia arriba entre la protuberancia y el clivus, y luego perfora la duramadre para correr entre la duramadre y el cráneo a través del canal de Dorello.
+
+En la punta de la porción petrosa del hueso temporal hace un giro brusco hacia adelante para entrar en el seno cavernoso.
+
+En el seno cavernoso discurre junto a la arteria carótida interna.
+
+Luego ingresa a la órbita a través de la fisura orbitaria superior e inerva el músculo recto lateral del ojo.
+
+
+=== Núcleo ===
+
+
+El núcleo abducens se encuentra en la protuberancia, en el piso del cuarto ventrículo, al nivel del colículo facial.
+
+Los axones del nervio facial giran alrededor del núcleo motor ocular externo, creando una pequeña protuberancia (el colículo facial) que es visible en la superficie dorsal del piso del cuarto ventrículo.
+
+El núcleo motor ocular externo está cerca de la línea media, al igual que los otros núcleos motores que controlan los movimientos oculares (los núcleos oculomotor y troclear).
+Los axones motores que salen del núcleo motor ocular externo discurren ventral y caudalmente a través de la protuberancia.
+
+Pasan laterales al tracto corticoespinal (que discurre longitudinalmente a través de la protuberancia a este nivel) antes de salir del tronco del encéfalo en la unión pontomedular.
+
+
+=== Desarrollo ===
+
+El nervio motor ocular externo humano se deriva de la placa basal de la protuberancia embrionaria.
+
+
+== Función ==
+
+El nervio motor ocular externo inerva el músculo recto lateral del ojo humano.
+
+Este músculo es responsable de la mirada hacia el exterior.
+
+El nervio motor ocular externo transporta axones de tipo GSE, eferente somático general.
+
+
+== Importancia clínica ==
+
+
+
+=== Daño ===
+
+
+El daño a la parte periférica del nervio motor ocular externo causará visión doble (diplopía), debido al tono muscular sin oposición del músculo recto medial.
+
+Se tira del ojo afectado para mirar hacia la línea media.
+
+Para poder ver sin visión doble, los pacientes rotarán la cabeza para que ambos ojos estén hacia la sien.
+
+El daño parcial al nervio motor ocular externo provoca una abducción débil o incompleta del ojo afectado.
+
+La diplopía empeora con los intentos de mirar lateralmente.
+El largo recorrido del nervio motor ocular externo entre el tronco encefálico y el ojo lo hace vulnerable a lesiones en muchos niveles.
+
+Por ejemplo, las fracturas del hueso temporal petroso pueden dañar selectivamente el nervio, al igual que los aneurismas de la arteria carótida intracavernosa.
+
+Las lesiones masivas que empujan el tronco del encéfalo hacia abajo pueden dañar el nervio al estirarlo entre el punto donde emerge de la protuberancia y el punto donde se engancha sobre el hueso temporal petroso.
+La anatomía central del sexto nervio predice (correctamente) que los infartos que afectan a la protuberancia dorsal a nivel del núcleo motor ocular externo también pueden afectar al nervio facial, produciendo una parálisis facial ipsilateral junto con una parálisis del recto lateral.
+
+La anatomía también predice (correctamente) que los infartos que involucran la protuberancia ventral pueden afectar el sexto nervio y el tracto corticoespinal simultáneamente, produciendo una parálisis del recto lateral asociada con una hemiparesia contralateral.
+
+Estos síndromes raros son de interés principalmente como resúmenes útiles de la anatomía del tronco encefálico.
+
+
+=== Lesiones periféricas ===
+
+La interrupción completa del sexto nervio periférico provoca diplopía (visión doble), debido a la acción sin oposición del músculo recto medial.
+
+El ojo afectado se tira medialmente.
+
+Para ver sin visión doble, los pacientes giran la cabeza hacia los lados para que ambos ojos miren hacia los lados.
+
+En las pruebas formales, el ojo afectado no puede abducir más allá de la línea media, no puede mirar hacia los lados, hacia la sien.
+
+El daño parcial al sexto nervio provoca una abducción débil o incompleta del ojo afectado.
+
+La diplopía es peor al intentar la mirada lateral, como sería de esperar (dado que el músculo de la mirada lateral está afectado).
+El daño del sexto nervio periférico puede ser causado por tumores, aneurismas o fracturas, cualquier cosa que comprima o estire directamente el nervio.
+
+Otros procesos que pueden dañar el sexto nervio incluyen accidentes cerebrovasculares (infartos), desmielinización, infecciones (por ejemplo, meningitis), enfermedades del seno cavernoso y diversas neuropatías.
+
+Quizás la causa general más común de deterioro del sexto nervio es la neuropatía diabética.
+
+También se sabe que ocurre una lesión iatrogénica, siendo el nervio motor ocular externo el nervio craneal lesionado con mayor frecuencia en la colocación de ortesis de halo.
+
+La parálisis resultante se identifica por la pérdida de la mirada lateral después de la aplicación de la ortesis.
+Las causas raras de daño aislado del sexto nervio incluyen el síndrome de Wernicke-Korsakoff y el síndrome de Tolosa-Hunt.
+
+El síndrome de Wernicke-Korsakoff es causado por la deficiencia de tiamina, clásicamente debido al alcoholismo.
+
+Las anomalías oculares características son el nistagmo y la debilidad del recto lateral.
+
+El síndrome de Tolosa-Hunt es una enfermedad granulomatosa idiopática que causa parálisis oculomotoras dolorosas (especialmente el sexto nervio).
+Cualquier proceso (tumor cerebral, hidrocefalia, pseudotumor cerebral, hemorragia, edema) que ejerza presión hacia abajo sobre el tronco encefálico, provocando que el nervio se estire a lo largo del clivus, puede causar daño indirecto al sexto nervio.
+
+Este tipo de lesión por tracción puede afectar primero a cualquiera de los lados.
+
+Un tumor cerebral del lado derecho puede producir una parálisis del sexto nervio del lado derecho o del lado izquierdo como signo inicial.
+
+Por lo tanto, una parálisis del sexto nervio del lado derecho no implica necesariamente una causa del lado derecho.
+
+Las parálisis del sexto nervio son conocidas como “signos de localización falsos”. Los signos neurológicos se describen como "localización falsa" si reflejan una disfunción distante o alejada de la ubicación anatómica esperada de la patología.
+
+Se supone que las parálisis aisladas del sexto nervio en niños se deben a tumores cerebrales hasta que se demuestre lo contrario.
+
+
+=== Lesiones nucleares ===
+
+La lesión del núcleo motor ocular externo no produce una parálisis aislada del sexto par craneal, sino una parálisis de la mirada horizontal que afecta a ambos ojos simultáneamente.
+
+El núcleo motor ocular externo contiene dos tipos de células: neuronas motoras que controlan el músculo recto lateral del mismo lado e interneuronas que cruzan la línea media y se conectan al núcleo oculomotor contralateral (que controla el músculo recto medial del ojo opuesto).
+
+En la visión normal, el movimiento lateral de un ojo (músculo recto lateral) está precisamente acoplado al movimiento medial del otro ojo (músculo recto medial), de modo que ambos ojos permanecen fijos en el mismo objeto.
+El control de la mirada conjugada está mediado en el tronco encefálico por el fascículo longitudinal medial (MLF), un tracto nervioso que conecta los tres núcleos motores extraoculares (abducens, troclear y oculomotor) en una sola unidad funcional.
+
+Las lesiones del núcleo motor ocular externo y el MLF producen problemas observables del sexto nervio, más notablemente oftalmoplejía internuclear (INO).
+
+
+=== Lesiones supranucleares ===
+
+El sexto nervio es una de las vías comunes finales para numerosos sistemas corticales que controlan el movimiento ocular en general.
+
+El control cortical del movimiento ocular (sacadas, seguimiento suave, acomodación) implica la mirada conjugada, no el movimiento ocular unilateral.
+
+
+=== Tuberculosis ===
+
+Entre el 15 y el 40% de las personas con tuberculosis tienen algún déficit de los nervios craneales resultante.
+
+El sexto nervio es el nervio craneal más comúnmente afectado en personas inmunocompetentes con tuberculosis.
+Cita: Smith DE1, Blasi A.
+
+Parálisis adquirida del nervio motor ocular externo secundaria a tuberculosis.
+
+Optometría. 2009 octubre; 80 (10): 567-71. doi: 10.1016/j.optm.2009.02.012.
+
+
+== Historia ==
+
+=== Etimología ===
+
+El nombre en latín del sexto par craneal es "nervus abducens".
+
+La Terminologia Anatomica reconoce oficialmente dos traducciones diferentes al inglés: "nervio abducens" y "nervio abducens". "Abducens" es más común en la literatura reciente, mientras que "abducens" predomina en la literatura más antigua.
+
+La Biblioteca Nacional de Medicina de los Estados Unidos utiliza el "nervio abducens" en su vocabulario de encabezado de tema médico (MeSH) para indexar las vastas bases de datos biomédicas de MEDLINE y PubMed.
+
+La 39.ª edición de Grey's Anatomy (2005) también prefiere el "nervio abducens".
+
+
+== Otros animales ==
+
+El nervio motor ocular externo controla el movimiento de un solo músculo, el músculo recto lateral del ojo.
+
+En la mayoría de los demás mamíferos, también inerva el musculus retractor bulbi, que puede retraer el ojo para protegerlo.
+
+Los nervios abducens homólogos se encuentran en todos los vertebrados, excepto en las lampreas y los mixinos.
+
+
+
+https://en.wikipedia.org/wiki/Abducens_nerve
+
+;;;PT;;;
+
+
+
+NERVO ABDUCENTE (VI)
+
+
+O nervo abducente (ou nervo abducente) é o sexto nervo craniano (CNVI), em humanos, que controla o movimento do músculo reto lateral, responsável pelo olhar para fora.
+
+É um nervo eferente somático.
+
+
+== Estrutura ==
+
+ 
+O nervo abducente deixa o tronco encefálico na junção da ponte e da medula, medial ao nervo facial.
+
+Ele corre para cima e para a frente a partir desta posição para alcançar o olho.
+O nervo entra no espaço subaracnóideo quando emerge do tronco encefálico.
+
+Ele corre para cima entre a ponte e o clivus e, em seguida, perfura a dura-máter para passar entre a dura-máter e o crânio através do canal de Dorello.
+
+Na ponta da parte petrosa do osso temporal faz uma curva acentuada para a frente para entrar no seio cavernoso.
+
+No seio cavernoso corre ao longo da artéria carótida interna.
+
+Em seguida, entra na órbita através da fissura orbital superior e inerva o músculo reto lateral do olho.
+
+
+=== Núcleo ===
+
+
+O núcleo abducente está localizado na ponte, no assoalho do quarto ventrículo, ao nível do colículo facial.
+
+Os axônios do nervo facial fazem uma volta ao redor do núcleo abducente, criando uma leve protuberância (o colículo facial) que é visível na superfície dorsal do assoalho do quarto ventrículo.
+
+O núcleo abducente está próximo à linha média, como os outros núcleos motores que controlam os movimentos oculares (os núcleos oculomotor e troclear).
+Os axônios motores que saem do núcleo abducente correm ventralmente e caudalmente através da ponte.
+
+Eles passam lateralmente ao trato corticoespinhal (que corre longitudinalmente através da ponte neste nível) antes de sair do tronco encefálico na junção pontomedular.
+
+
+=== Desenvolvimento ===
+
+O nervo abducente humano é derivado da placa basal da ponte embrionária.
+
+
+== Função ==
+
+O nervo abducente supre o músculo reto lateral do olho humano.
+
+Este músculo é responsável pelo olhar para fora.
+
+O nervo abducente transporta axônios do tipo GSE, eferente somático geral.
+
+
+== Significado clínico ==
+
+
+
+=== Dano ===
+
+
+Danos à parte periférica do nervo abducente causarão visão dupla (diplopia), devido ao tônus ​​muscular sem oposição do músculo reto medial.
+
+O olho afetado é puxado para olhar em direção à linha média.
+
+Para ver sem visão dupla, os pacientes giram a cabeça de modo que ambos os olhos estejam voltados para a têmpora.
+
+Danos parciais ao nervo abducente causam abdução fraca ou incompleta do olho afetado.
+
+A diplopia é pior nas tentativas de olhar lateralmente.
+O longo curso do nervo abducente entre o tronco cerebral e o olho o torna vulnerável a lesões em vários níveis.
+
+Por exemplo, fraturas do osso temporal petroso podem danificar seletivamente o nervo, assim como os aneurismas da artéria carótida intracavernosa.
+
+Lesões em massa que empurram o tronco encefálico para baixo podem danificar o nervo, esticando-o entre o ponto em que emerge da ponte e o ponto em que se prende ao osso temporal petroso.
+A anatomia central do VI nervo prediz (corretamente) que infartos que afetam a ponte dorsal ao nível do núcleo abducente também podem afetar o nervo facial, produzindo uma paralisia facial ipsilateral juntamente com uma paralisia do reto lateral.
+
+A anatomia também prediz (corretamente) que infartos envolvendo a ponte ventral podem afetar o VI nervo e o trato corticoespinhal simultaneamente, produzindo uma paralisia do reto lateral associada a uma hemiparesia contralateral.
+
+Essas síndromes raras são de interesse principalmente como resumos úteis da anatomia do tronco cerebral.
+
+
+=== Lesões periféricas ===
+
+A interrupção completa do sexto nervo periférico causa diplopia (visão dupla), devido à ação sem oposição do músculo reto medial.
+
+O olho afetado é puxado medialmente.
+
+Para ver sem visão dupla, os pacientes virarão a cabeça para os lados, de modo que ambos os olhos estejam olhando para os lados.
+
+No teste formal, o olho afetado não pode abduzir além da linha média – não pode olhar para os lados, em direção à têmpora.
+
+Danos parciais ao sexto nervo causam abdução fraca ou incompleta do olho afetado.
+
+A diplopia é pior na tentativa de olhar lateral, como seria de esperar (uma vez que o músculo do olhar lateral está comprometido).
+O dano periférico do sexto nervo pode ser causado por tumores, aneurismas ou fraturas – qualquer coisa que comprima ou estique diretamente o nervo.
+
+Outros processos que podem danificar o sexto nervo incluem acidentes vasculares cerebrais (infartos), desmielinização, infecções (por exemplo, meningite), doenças do seio cavernoso e várias neuropatias.
+
+Talvez a causa geral mais comum de comprometimento do sexto nervo seja a neuropatia diabética.
+
+A lesão iatrogênica também é conhecida por ocorrer, sendo o nervo abducente o nervo craniano mais comumente lesado na colocação de órteses de halo.
+
+A paralisia resultante é identificada pela perda do olhar lateral após a aplicação da órtese.
+Causas raras de dano isolado do sexto nervo incluem a síndrome de Wernicke-Korsakoff e a síndrome de Tolosa-Hunt.
+
+A síndrome de Wernicke-Korsakoff é causada por deficiência de tiamina, classicamente devido ao alcoolismo.
+
+As anormalidades oculares características são nistagmo e fraqueza do reto lateral.
+
+A síndrome de Tolosa-Hunt é uma doença granulomatosa idiopática que causa paralisias oculomotoras dolorosas (especialmente o VI nervo).
+Danos indiretos ao sexto nervo podem ser causados ​​por qualquer processo (tumor cerebral, hidrocefalia, pseudotumor cerebral, hemorragia, edema) que exerça pressão para baixo no tronco cerebral, fazendo com que o nervo se estique ao longo do clivus.
+
+Esse tipo de lesão por tração pode afetar primeiro um dos lados.
+
+Um tumor cerebral do lado direito pode produzir uma paralisia do sexto nervo do lado direito ou do lado esquerdo como sinal inicial.
+
+Assim, uma paralisia do sexto nervo do lado direito não implica necessariamente uma causa do lado direito.
+
+As paralisias do sexto nervo são famosas como “sinais de localização falsos”. Os sinais neurológicos são descritos como “falsa localização” se refletirem disfunção distante ou distante da localização anatômica esperada da patologia.
+
+Supõe-se que as paralisias isoladas do sexto nervo em crianças sejam devidas a tumores cerebrais até prova em contrário.
+
+
+=== Lesões nucleares ===
+
+A lesão do núcleo abducente não produz uma paralisia isolada do VI nervo, mas sim uma paralisia do olhar horizontal que afeta os dois olhos simultaneamente.
+
+O núcleo abducente contém dois tipos de células: neurônios motores que controlam o músculo reto lateral do mesmo lado e interneurônios que cruzam a linha média e se conectam ao núcleo oculomotor contralateral (que controla o músculo reto medial do olho oposto).
+
+Na visão normal, o movimento lateral de um olho (músculo reto lateral) é acoplado precisamente ao movimento medial do outro olho (músculo reto medial), de modo que ambos os olhos permanecem fixos no mesmo objeto.
+O controle do olhar conjugado é mediado no tronco encefálico pelo fascículo longitudinal medial (FML), um trato nervoso que conecta os três núcleos motores extraoculares (abducente, troclear e oculomotor) em uma única unidade funcional.
+
+As lesões do núcleo abducente e do MLF produzem problemas observáveis ​​no sexto nervo, mais notavelmente oftalmoplegia internuclear (INO).
+
+
+=== Lesões supranucleares ===
+
+O sexto nervo é uma das vias finais comuns para vários sistemas corticais que controlam o movimento dos olhos em geral.
+
+O controle cortical do movimento dos olhos (sacadas, perseguição suave, acomodação) envolve o olhar conjugado, não o movimento unilateral dos olhos.
+
+
+=== Tuberculose ===
+
+15-40% das pessoas com tuberculose têm algum déficit de nervo craniano resultante.
+
+O VI nervo é o nervo craniano mais comumente afetado em pessoas imunocompetentes com tuberculose.
+Citação: Smith DE1, Blasi A.
+
+Paralisia adquirida do nervo abducente secundária à tuberculose.
+
+Optometria. 2009 Out;80(10):567-71. doi: 10.1016/j.optm.2009.02.012.
+
+
+== História ==
+
+=== Etimologia ===
+
+O nome latino para o sexto nervo craniano é "nervus abducens".
+
+A Terminologia Anatomica reconhece oficialmente duas traduções diferentes para o inglês: "abducen nervo" e "abducens nervo". "Abducens" é mais comum na literatura recente, enquanto "abducente" predomina na literatura mais antiga.
+
+A Biblioteca Nacional de Medicina dos Estados Unidos usa “nervo abducente” em seu vocabulário Medical Subject Heading (MeSH) para indexar os vastos bancos de dados biomédicos MEDLINE e PubMed.
+
+A 39ª edição de Gray's Anatomy (2005) também prefere “nervo abducente”.
+
+
+== Outros animais ==
+
+O nervo abducente controla o movimento de um único músculo, o músculo reto lateral do olho.
+
+Na maioria dos outros mamíferos, também inerva o músculo retrator bulbi, que pode retrair o olho para proteção.
+
+Nervos abducens homólogos são encontrados em todos os vertebrados, exceto lampreias e peixes-bruxa.
+
+
+
+https://en.wikipedia.org/wiki/Abducens_nerve
+
+;;;FR;;;
+
+
+
+NERF ABDUCENS (VI)
+
+
+Le nerf abducens (ou nerf abducteur) est le sixième nerf crânien (CNVI), chez l'homme, qui contrôle le mouvement du muscle droit latéral, responsable du regard vers l'extérieur.
+
+C'est un nerf efférent somatique.
+
+
+== Structure ==
+
+ 
+Le nerf abducens quitte le tronc cérébral à la jonction du pont et de la moelle, en dedans du nerf facial.
+
+Il court vers le haut et vers l'avant à partir de cette position pour atteindre l'œil.
+Le nerf pénètre dans l'espace sous-arachnoïdien lorsqu'il émerge du tronc cérébral.
+
+Il monte entre le pont et le clivus, puis perce la dure-mère pour passer entre la dure-mère et le crâne à travers le canal de Dorello.
+
+À l'extrémité de la partie pétreuse de l'os temporal, il fait un virage serré vers l'avant pour pénétrer dans le sinus caverneux.
+
+Dans le sinus caverneux, il longe l'artère carotide interne.
+
+Il pénètre ensuite dans l'orbite par la fissure orbitaire supérieure et innerve le muscle droit latéral de l'œil.
+
+
+=== Noyau ===
+
+
+Le noyau abducens est situé dans le pont, sur le plancher du quatrième ventricule, au niveau du colliculus facial.
+
+Axones de la boucle du nerf facial autour du noyau abducens, créant un léger renflement (le colliculus facial) visible sur la surface dorsale du plancher du quatrième ventricule.
+
+Le noyau abducens est proche de la ligne médiane, comme les autres noyaux moteurs qui contrôlent les mouvements oculaires (les noyaux oculomoteur et trochléaire).
+Les axones moteurs quittant le noyau abducens passent ventralement et caudalement à travers le pont.
+
+Ils passent latéralement au tractus cortico-spinal (qui traverse longitudinalement le pont à ce niveau) avant de sortir du tronc cérébral à la jonction ponto-médullaire.
+
+
+=== Développement ===
+
+Le nerf abducens humain est dérivé de la plaque basale du pont embryonnaire.
+
+
+== Fonction ==
+
+Le nerf abducens alimente le muscle droit latéral de l'œil humain.
+
+Ce muscle est responsable du regard vers l'extérieur.
+
+Le nerf abducens porte des axones de type GSE, efférent somatique général.
+
+
+== Signification clinique ==
+
+
+
+=== Dégâts ===
+
+
+Les dommages à la partie périphérique du nerf abducens entraîneront une vision double (diplopie), en raison du tonus musculaire sans opposition du muscle droit médial.
+
+L'œil affecté est tiré pour regarder vers la ligne médiane.
+
+Afin de voir sans vision double, les patients tourneront la tête de manière à ce que les deux yeux soient tournés vers la tempe.
+
+Une lésion partielle du nerf abducens provoque une abduction faible ou incomplète de l'œil affecté.
+
+La diplopie est pire lors des tentatives de regarder latéralement.
+Le long trajet du nerf abducens entre le tronc cérébral et l'œil le rend vulnérable aux blessures à plusieurs niveaux.
+
+Par exemple, les fractures de l'os temporal pétreux peuvent endommager sélectivement le nerf, tout comme les anévrismes de l'artère carotide intracaverneuse.
+
+Les lésions massives qui poussent le tronc cérébral vers le bas peuvent endommager le nerf en l'étirant entre le point où il émerge du pont et le point où il s'accroche à l'os temporal pétreux.
+L'anatomie centrale du sixième nerf prédit (correctement) que les infarctus affectant le pont dorsal au niveau du noyau abducens peuvent également affecter le nerf facial, produisant une paralysie faciale homolatérale avec une paralysie rectale latérale.
+
+L'anatomie prédit également (correctement) que les infarctus impliquant le pont ventral peuvent affecter simultanément le sixième nerf et le tractus corticospinal, produisant une paralysie du droit latéral associée à une hémiparésie controlatérale.
+
+Ces syndromes rares sont intéressants principalement en tant que résumés utiles de l'anatomie du tronc cérébral.
+
+
+=== Lésions périphériques ===
+
+L'interruption complète du sixième nerf périphérique provoque une diplopie (vision double), due à l'action sans opposition du muscle droit médial.
+
+L'œil atteint est tiré médialement.
+
+Afin de voir sans vision double, les patients tournent la tête sur le côté afin que les deux yeux regardent de côté.
+
+Lors des tests formels, l'œil affecté ne peut pas enlever au-delà de la ligne médiane - il ne peut pas regarder de côté, vers la tempe.
+
+Une lésion partielle du sixième nerf provoque une abduction faible ou incomplète de l'œil affecté.
+
+La diplopie est pire lors d'une tentative de regard latéral, comme on pouvait s'y attendre (puisque le muscle du regard latéral est altéré).
+Les lésions du sixième nerf périphérique peuvent être causées par des tumeurs, des anévrismes ou des fractures - tout ce qui comprime ou étire directement le nerf.
+
+D'autres processus pouvant endommager le sixième nerf comprennent les accidents vasculaires cérébraux (infarctus), la démyélinisation, les infections (par exemple la méningite), les maladies des sinus caverneux et diverses neuropathies.
+
+La neuropathie diabétique est peut-être la cause globale la plus fréquente de déficience du sixième nerf.
+
+Des lésions iatrogènes sont également connues, le nerf abducens étant le nerf crânien le plus souvent lésé lors de la mise en place d'une orthèse halo.
+
+La paralysie résultante est identifiée par la perte du regard latéral après l'application de l'orthèse.
+Les causes rares de lésions isolées du sixième nerf comprennent le syndrome de Wernicke-Korsakoff et le syndrome de Tolosa-Hunt.
+
+Le syndrome de Wernicke-Korsakoff est causé par une carence en thiamine, classiquement due à l'alcoolisme.
+
+Les anomalies oculaires caractéristiques sont le nystagmus et la faiblesse des droits latéraux.
+
+Le syndrome de Tolosa-Hunt est une maladie granulomateuse idiopathique qui provoque des paralysies oculomotrices douloureuses (en particulier le sixième nerf).
+Des dommages indirects au sixième nerf peuvent être causés par tout processus (tumeur cérébrale, hydrocéphalie, pseudotumeur cérébrale, hémorragie, œdème) qui exerce une pression vers le bas sur le tronc cérébral, provoquant l'étirement du nerf le long du clivus.
+
+Ce type de blessure par traction peut affecter l'un ou l'autre côté en premier.
+
+Une tumeur cérébrale du côté droit peut produire une paralysie du sixième nerf du côté droit ou du côté gauche comme signe initial.
+
+Ainsi, une paralysie du sixième nerf du côté droit n'implique pas nécessairement une cause du côté droit.
+
+Les paralysies du sixième nerf sont tristement célèbres en tant que « faux signes de localisation ». Les signes neurologiques sont qualifiés de « fausses localisations » s'ils traduisent un dysfonctionnement distant ou éloigné de la localisation anatomique attendue de la pathologie.
+
+Les paralysies isolées du sixième nerf chez les enfants sont supposées être dues à des tumeurs cérébrales jusqu'à preuve du contraire.
+
+
+=== Lésions nucléaires ===
+
+Les dommages au noyau abducens ne produisent pas une paralysie isolée du sixième nerf, mais plutôt une paralysie du regard horizontal qui affecte les deux yeux simultanément.
+
+Le noyau abducens contient deux types de cellules : les motoneurones qui contrôlent le muscle droit latéral du même côté et les interneurones qui traversent la ligne médiane et se connectent au noyau oculomoteur controlatéral (qui contrôle le muscle droit médial de l'œil opposé).
+
+En vision normale, le mouvement latéral d'un œil (muscle droit latéral) est précisément couplé au mouvement médial de l'autre œil (muscle droit médial), de sorte que les deux yeux restent fixés sur le même objet.
+Le contrôle du regard conjugué est médié dans le tronc cérébral par le faisceau longitudinal médial (MLF), un tractus nerveux qui relie les trois noyaux moteurs extraoculaires (abducens, trochléaire et oculomoteur) en une seule unité fonctionnelle.
+
+Les lésions du noyau abducens et du MLF produisent des problèmes observables du sixième nerf, notamment l'ophtalmoplégie internucléaire (INO).
+
+
+=== Lésions supranucléaires ===
+
+Le sixième nerf est l'une des dernières voies communes pour de nombreux systèmes corticaux qui contrôlent le mouvement des yeux en général.
+
+Le contrôle cortical des mouvements oculaires (saccades, poursuite en douceur, accommodation) implique un regard conjugué et non un mouvement oculaire unilatéral.
+
+
+=== Tuberculose ===
+
+15 à 40% des personnes atteintes de tuberculose ont un déficit des nerfs crâniens qui en résulte.
+
+Le sixième nerf est le nerf crânien le plus fréquemment atteint chez les personnes immunocompétentes atteintes de tuberculose.
+Citation : Smith DE1, Blasi A.
+
+Paralysie acquise du nerf abducens secondaire à la tuberculose.
+
+Optométrie. 2009 Oct;80(10):567-71. doi : 10.1016/j.optm.2009.02.012.
+
+
+== Historique ==
+
+=== Étymologie ===
+
+Le nom latin du sixième nerf crânien est "nervus abducens".
+
+La Terminologia Anatomica reconnaît officiellement deux traductions anglaises différentes : "abducent nerf" et "abducens nerf". "Abducens" est plus courant dans la littérature récente, tandis que "abducent" prédomine dans la littérature plus ancienne.
+
+La National Library of Medicine des États-Unis utilise le « nerf abducens » dans son vocabulaire MeSH (Medical Subject Heading) pour indexer les vastes bases de données biomédicales MEDLINE et PubMed.
+
+La 39e édition de Grey's Anatomy (2005) privilégie également le « nerf abducens ».
+
+
+== Autres animaux ==
+
+Le nerf abducens contrôle le mouvement d'un seul muscle, le muscle droit latéral de l'œil.
+
+Chez la plupart des autres mammifères, il innerve également le muscle rétracteur bulbi, qui peut rétracter l'œil pour se protéger.
+
+Les nerfs abducens homologues se trouvent chez tous les vertébrés à l'exception des lamproies et des myxines.
+
+
+
+https://en.wikipedia.org/wiki/Abducens_nerve

@@ -1,0 +1,144 @@
+
+
+ARMATURE
+
+
+An armature in Blender can be thought of as similar to the armature of a real skeleton, and just like a real skeleton an armature can consist of many bones. 
+
+These bones can be moved around and anything that they are attached to or associated with will move and deform in a similar way.
+
+An “armature” is a type of object used for rigging. 
+A rig is the controls and strings that move a marionette (puppet). Armature object borrows many ideas from real-world skeletons.
+
+------------------------------------
+
+Press 'Ctrl+Tab' to enter Pose mode
+
+The IK/FK button can be moved to switch between 'Inverse Kinematics'(IK) and 'Forward Kinematics'(FK)
+
+------------------------------------
+
+Select a controller with Left Mouse Button (LMB)
+
+Press 'G' to move it
+Press 'R' to rotate it
+    Press 'R+Z' to rotate it along the Z-axis
+    Press 'R+X' to rotate it along the X-axis
+    Press 'R+Y' to rotate it along the Y-axis
+    
+    Press 'R+X+X' to rotate it along the local X-axis
+    
+    Press 'R+R' to rotate it along all axis
+    
+    
+https://www.youtube.com/watch?v=cZ3o5tjO51s
+;;;ES;;;
+
+
+
+ARMADURA
+
+
+Se puede pensar que una armadura en Blender es similar a la armadura de un esqueleto real, y al igual que un esqueleto real, una armadura puede consistir en muchos huesos.
+
+Estos huesos se pueden mover y cualquier cosa a la que estén unidos o asociados se moverá y deformará de manera similar.
+
+Una "armadura" es un tipo de objeto que se utiliza para el aparejo.
+Un rig son los controles y cuerdas que mueven una marioneta (títere). El objeto Armature toma prestadas muchas ideas de esqueletos del mundo real.
+
+------------------------------------
+
+Presiona 'Ctrl+Tab' para ingresar al modo Pose
+
+El botón IK/FK se puede mover para cambiar entre 'Cinemática inversa' (IK) y 'Cinemática directa' (FK)
+
+------------------------------------
+
+Seleccione un controlador con el botón izquierdo del mouse (LMB)
+
+Presiona 'G' para moverlo
+Presiona 'R' para rotarlo
+Presiona 'R+Z' para rotarlo a lo largo del eje Z
+Presiona 'R+X' para rotarlo a lo largo del eje X
+Presiona 'R+Y' para rotarlo a lo largo del eje Y
+ 
+Presione 'R+X+X' para rotarlo a lo largo del eje X local
+ 
+Presione 'R+R' para rotarlo a lo largo de todos los ejes
+ 
+ 
+https://www.youtube.com/watch?v=cZ3o5tjO51s
+
+;;;PT;;;
+
+
+
+ARMADURA
+
+
+Uma armadura no Blender pode ser considerada semelhante à armadura de um esqueleto real, e assim como um esqueleto real, uma armadura pode consistir em muitos ossos.
+
+Esses ossos podem ser movidos e qualquer coisa a que estejam ligados ou associados se moverá e se deformará de maneira semelhante.
+
+Uma “armadura” é um tipo de objeto usado para rigging.
+Um rig são os controles e cordas que movem uma marionete (marionete). O objeto Armature empresta muitas ideias de esqueletos do mundo real.
+
+------------------------------------
+
+Pressione 'Ctrl+Tab' para entrar no modo Pose
+
+O botão IK/FK pode ser movido para alternar entre 'Inverse Kinematics'(IK) e 'Forward Kinematics'(FK)
+
+------------------------------------
+
+Selecione um controlador com o botão esquerdo do mouse (LMB)
+
+Pressione 'G' para movê-lo
+Pressione 'R' para girá-lo
+Pressione 'R+Z' para girá-lo ao longo do eixo Z
+Pressione 'R+X' para girá-lo ao longo do eixo X
+Pressione 'R+Y' para girá-lo ao longo do eixo Y
+ 
+Pressione 'R+X+X' para girá-lo ao longo do eixo X local
+ 
+Pressione 'R+R' para girá-lo ao longo de todos os eixos
+ 
+ 
+https://www.youtube.com/watch?v=cZ3o5tjO51s
+
+;;;FR;;;
+
+
+
+ARMATURE
+
+
+Une armature dans Blender peut être considérée comme similaire à l'armature d'un vrai squelette, et tout comme un vrai squelette, une armature peut être constituée de plusieurs os.
+
+Ces os peuvent être déplacés et tout ce à quoi ils sont attachés ou associés se déplacera et se déformera de la même manière.
+
+Une "armature" est un type d'objet utilisé pour le gréement.
+Une plate-forme est constituée des commandes et des cordes qui déplacent une marionnette (marionnette). L'objet Armature emprunte de nombreuses idées aux squelettes du monde réel.
+
+-----------------------------------------
+
+Appuyez sur 'Ctrl+Tab' pour entrer en mode Pose
+
+Le bouton IK/FK peut être déplacé pour basculer entre 'Inverse Kinematics'(IK) et 'Forward Kinematics'(FK)
+
+-----------------------------------------
+
+Sélectionnez un contrôleur avec le bouton gauche de la souris (LMB)
+
+Appuyez sur 'G' pour le déplacer
+Appuyez sur 'R' pour le faire pivoter
+Appuyez sur 'R + Z' pour le faire pivoter le long de l'axe Z
+Appuyez sur 'R + X' pour le faire pivoter le long de l'axe X
+Appuyez sur 'R + Y' pour le faire pivoter le long de l'axe Y
+ 
+Appuyez sur 'R+X+X' pour le faire pivoter le long de l'axe X local
+ 
+Appuyez sur 'R+R' pour le faire pivoter le long de tous les axes
+ 
+ 
+https://www.youtube.com/watch?v=cZ3o5tjO51s

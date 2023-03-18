@@ -1,0 +1,30 @@
+
+
+SELECTION
+
+
+Press 'A' 
+    to select all the visible objects
+    
+Press 'A;A' or 'Alt+A' 
+    to deselect all
+
+Press Left Mouse Button (LMB) 
+    to select an object
+    
+Press 'Shift+LMB' 
+    to Select several objects
+    
+Clic and drag 'LMB' 
+    to select several objects with box-select
+    
+Press 'C'
+    to enter/exit the brush selection mode
+    Scroll the Mousewheel to adjust the brush size
+    
+
+Press 'RMB' 
+    to Select one of the collections of the active object
+
+Press 'LMB' twice (fast) 
+    to extend the selection to the object's children

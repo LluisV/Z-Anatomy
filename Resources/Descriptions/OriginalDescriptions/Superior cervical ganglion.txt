@@ -1,0 +1,209 @@
+
+
+SUPERIOR CERVICAL GANGLION
+
+
+The superior cervical ganglion (SCG) is part of the autonomic nervous system (ANS), more specifically it is part of the sympathetic nervous system, a division of the ANS most commonly associated with the fight or flight response. 
+
+The ANS is composed of pathways that lead to and from ganglia, groups of nerve cells. 
+
+A ganglion allows a large amount of divergence in a neuronal pathway and also enables a more localized circuitry for control of the innervated targets. 
+
+The SCG is the only ganglion in the sympathetic nervous system that innervates the head and neck. 
+
+It is the largest and most rostral (superior) of the three cervical ganglia. 
+
+The SCG innervates many organs, glands and parts of the carotid system in the head.
+
+
+== Structure ==
+
+
+
+=== Location ===
+
+The SCG is located opposite the second and third cervical vertebrae. 
+
+It lies deep to the sheath of the internal carotid artery and internal jugular vein, and anterior to the Longus capitis muscle. 
+
+The SCG contains neurons that supply sympathetic innervation to a number of target organs within the head.
+The SCG also contributes to the cervical plexus. 
+
+The cervical plexus is formed from a unification of the anterior divisions of the upper four cervical nerves. 
+
+Each receives a gray ramus communicans from the superior cervical ganglion of the sympathetic trunk.
+
+
+=== Morphology and physiology and its neurons ===
+
+The superior cervical ganglion is a reddish-gray color, and usually shaped like a spindle with tapering ends. 
+
+Sometimes the SCG is broad and flattened, and occasionally constricted at intervals. 
+
+It formed by the coalescence of four ganglia, corresponding to the upper four cervical nerves, C1-C4. 
+
+The bodies of these preganglionic sympathetic neurons are specifically located in the lateral horn of the spinal cord. 
+
+These preganglionic neurons then enter the SCG and synapse with the postganglionic neurons that leave the rostral end of the SCG and innervate target organs of the head.
+There are a number of neuron types in the SCG ranging from low threshold to high threshold neurons. 
+
+The neurons with a low threshold have faster action potential firing rate, while the high threshold neurons have a slow firing rate. 
+
+Another distinction between SCG neuron types is made via immunostaining. 
+
+Immunostaining allows the classification of SCG neurons as either positive or negative for neuropeptide Y (NPY), which is found in a subgroup of high-threshold neurons. 
+
+Low threshold, NPY-negative neurons are secretomotor neurons, innervating salivary glands. 
+
+High threshold, NPY-negative neurons are vasomotor neurons, innervating blood vessels. 
+
+High threshold, NPY-positive neurons are vasoconstrictor neurons, which innervate the iris and pineal gland.
+
+
+=== Innervation ===
+
+The SCG receives input from the ciliospinal center. 
+
+The ciliospinal center is located between the C8 and T1 regions of the spinal cord within the intermediolateral column. 
+
+The preganglionic fibers that innervate the SCG are the thoracic spinal nerves, which extend from the T1-T8 region of the ciliospinal center. 
+
+These nerves enter the SCG through the cervical sympathetic nerve. 
+
+A mature preganglionic axon can innervate anywhere from 50-200 SCG cells. 
+
+Postganglionic fibers then leave the SCG via the internal carotid nerve and the external carotid nerve. 
+
+This pathway of SCG innervation is shown through stimulation of the cervical sympathetic nerve, which invokes action potentials in both the external and internal carotid nerves. 
+
+These postganglionic fibers shift from multiple axon innervation of their targets to less profound multiple axon innervation or single axon innervation as the SCG neurons mature during postnatal development.
+
+
+== Function ==
+
+
+
+=== Sympathetic nervous system ===
+
+The SCG provides sympathetic innervation to structures within the head, including the pineal gland, the blood vessels in the cranial muscles and the brain, the choroid plexus, the eyes, the lacrimal glands, the carotid body, the salivary glands, and the thyroid gland.
+
+
+==== Pineal gland ====
+The postganglionic axons of the SCG innervate the pineal gland and are involved in Circadian rhythm. 
+
+This connection regulates production of the hormone melatonin, which regulates sleep and wake cycles, however the influence of SCG neuron innervation of the pineal gland is not fully understood.
+
+
+==== Carotid body ====
+The postganglionic axons of the SCG innervate the internal carotid artery and form the internal carotid plexus. 
+
+The internal carotid plexus carries the postganglionic axons of the SCG to the eye, lacrimal gland, mucous membranes of the mouth, nose, and pharynx, and numerous blood-vessels in the head.
+
+
+==== The eye ====
+The postganglionic axons of the Superior cervical ganglion innervate the eye and lacrimal gland and cause vasoconstriction of the iris and sclera, pupillary dilation, widening of the palpebral fissure, and the reduced production of tears. 
+
+These responses are important during Fight-or-flight response of the ANS. 
+
+Dilation of the pupils allows for an increased clarity in vision, and inhibition of the lacrimal gland stops tear production allowing for unimpaired vision and redirection of energy elsewhere.
+
+
+==== Blood vessels of the skin ====
+The postganglionic axons of the SCG innervate blood vessels in the skin and cause the vessels to constrict. 
+
+Constriction of the blood vessels causes a decrease in blood flow to the skin leading to paling of the skin and retention of body heat. 
+
+This plays into the fight-or-flight response, decreasing blood flow to facial skin and redirecting the blood to more important areas like the blood vessels of muscles.
+
+
+==== Vestibular system ====
+The SCG is connected with vestibular structures, including the neuroepithelium of the semicircular canals and otolith organs, providing a conceivable substrate for modulation of vestibulo-sympathetic reflexes.
+
+
+== Clinical significance ==
+
+
+
+=== Horner's syndrome ===
+
+Horner's syndrome is a disorder resulting from damage to the sympathetic autonomic nervous pathway in the head. 
+
+Damage to the SCG, part of this system, often results in Horner's syndrome. 
+
+Damage to the T1-T3 regions of the spinal cord is responsible for drooping of the eyelids (ptosis), constriction of the pupil (miosis), and sinking of the eyeball (apparent Enophthalmos; not truly sunken, just appears so because of the drooping eyelid). 
+
+Lesion or significant damage to the SCG results in a third order neuron disorder (see Horner's Syndrome: Pathophysiology).
+
+
+=== Familial dysautonomia ===
+
+Familial dysautonomia is a genetic disorder characterized by abnormalities of sensory and sympathetic neurons. 
+
+The SCG is significantly affected by this loss of neurons and may be responsible for some of the resulting symptoms. 
+
+In post-mortem studies the SCG is, on average, one-third of normal size and has only 12 percent of the normal number of neurons. 
+
+Defects in the genetic coding for NGF, which result in less functional, abnormally structured NGF, may be the molecular cause of familial dysautonomia. 
+
+NGF is necessary for survival of some neurons so loss of NGF function could be the cause for neuronal death in the SCG.
+
+
+== History ==
+
+
+
+=== Reinnervation ===
+
+In the late 19th century, John Langley discovered that the superior cervical ganglion is topographically organized. 
+
+When certain areas of the superior cervical ganglion were stimulated, a reflex occurred in specified regions of the head. 
+
+His findings showed that preganglionic neurons innervate specific postganglionic neurons. 
+
+In his further studies of the superior cervical ganglion, Langley discovered that the superior cervical ganglion is regenerative. 
+
+Langley severed the SCG above the T1 portion, causing a loss of reflexes. 
+
+When left to their own accord, the fibers reinnervated the SCG and the initial autonomic reflexes were recovered, though there was limited recovery of pineal gland function. 
+
+When Langley severed the connections between the SCG and the T1–T5 region of the spinal cord and replaced the SCG with a different one, the SCG was still innervated the same portion of the spinal cord as before. 
+
+When he replaced the SCG with a T5 ganglion, the ganglion tended to be innervated by the posterior portion of the spinal cord (T4–T8). 
+
+The replacement of the original SCG with either a different one or a T5 ganglion supported Langley's theory of topographic specificity of the SCG.
+
+
+=== Research ===
+
+Ganglia of the peripheral autonomic nervous system are commonly used to study synaptic connections. 
+
+These ganglia are studied as synaptic connections show many similarities to the central nervous system (CNS) and are also relatively accessible. 
+
+They are easier to study than the CNS since they have the ability to regrow, which neurons in the CNS do not have. 
+
+The SCG is frequently used in these studies being one of the larger ganglia. 
+
+Today, neuroscientists are studying topics on the SCG such as survival and neurite outgrowth of SCG neurons, neuroendocrine aspects of the SCG, and structure and pathways of the SCG. 
+
+These studies are usually performed on rats, guinea-pigs, and rabbits.
+
+
+=== Historical contributions ===
+
+E. 
+
+Rubin studied the development of the SCG in fetal rats. 
+
+Research on the development of nerves in the SCG has implications for the general development of the nervous system.
+The effects of age on dendritic arborisation of sympathetic neurons has been studied in the SCG of rats. 
+
+Findings have shown that there is significant dendritic growth in the SCG of young rats but none in aged rats. 
+
+In aged rats, it was found, that there was a reduction in the number of dendrites.
+SCG cells were used to study nerve growth factor (NGF) and its ability to direct growth of neurons. 
+
+Results showed that NGF did have this directing, or tropic, effect on neurons, guiding the direction of their growth.
+
+
+
+https://en.wikipedia.org/wiki/Superior_cervical_ganglion

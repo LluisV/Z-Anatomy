@@ -1,0 +1,484 @@
+
+
+SACCULE
+
+
+The saccule is a bed of sensory cells in the inner ear. 
+
+It translates head movements into neural impulses for the brain to interpret. 
+
+The saccule detects linear accelerations and head tilts in the vertical plane. 
+
+When the head moves vertically, the sensory cells of the saccule are disturbed and the neurons connected to them begin transmitting impulses to the brain. 
+
+These impulses travel along the vestibular portion of the eighth cranial nerve to the vestibular nuclei in the brainstem.
+The vestibular system is important in maintaining balance, or equilibrium. 
+
+The vestibular system includes the saccule, utricle, and the three semicircular canals. 
+
+The vestibule is the name of the fluid-filled, membranous duct that contains these organs of balance. 
+
+The vestibule is encased in the temporal bone of the skull.
+
+
+== Structure ==
+
+The saccule, or sacculus, is the smaller of the two vestibular sacs. 
+
+It is globular in form and lies in the recessus sphæricus near the opening of the vestibular duct of the cochlea. 
+
+Its cavity does not directly communicate with that of the utricle. 
+
+The anterior part of the saccule exhibits an oval thickening, the macula acustica sacculi, or macula, to which are distributed the saccular filaments of the vestibular branch of the vestibulocochlear nerve, also known as the statoacoustic nerve or cranial nerve VIII.
+Within the macula are hair cells, each having a hair bundle on the apical aspect. 
+
+The hair bundle is composed of a single kinocilium and many (at least 70) stereocilia. 
+
+Stereocilia are connected to mechanically gated ion channels in the hair cell plasma membrane via tip links. 
+
+Supporting cells interdigitate between hair cells and secrete the otolithic membrane, a thick, gelatinous layer of glycoprotein. 
+
+Covering the surface of the otolithic membrane are otoliths, which are crystals of calcium carbonate. 
+
+For this reason, the saccule is sometimes called an "otolithic organ."
+From the posterior wall of the saccule is given off a canal, the ductus endolymphaticus (endolymphatic duct). 
+
+This duct is joined by the ductus utriculosaccularis, and then passes along the aquæductus vestibuli and ends in a blind pouch saccus endolymphaticus (endolymphatic sac) on the posterior surface of the petrous portion of the temporal bone, where it is in contact with the dura mater.
+From the lower part of the saccule a short tube, the canalis reuniens of Hensen, passes downward and opens into the ductus cochlearis near its vestibular extremity.
+Both the utricle and the saccule provide information about acceleration. 
+
+The difference between them is that the utricle is more sensitive to horizontal acceleration, whereas the saccule is more sensitive to vertical acceleration.
+
+
+== Function ==
+
+The saccule gathers sensory information to orient the body in space. 
+
+It primarily gathers information about linear movement in the vertical plane, including the force due to gravity. 
+
+The saccule, like the utricle, provides information to the brain about head position when it is not moving. 
+
+The structures that enable the saccule to gather this vestibular information are the hair cells. 
+
+The 2 by 3 mm patch of hair cells and supporting cells are called a macula. 
+
+Each hair cell of a macula has 40 to 70 stereocilia and one true cilium called a kinocilium. 
+
+The stereocilia are oriented by the striola, a curved ridge that runs through the middle of the macula; in the saccule they are oriented away from the striola The tips of the stereocilia and kinocilium are embedded in a gelatinous otolithic membrane. 
+
+This membrane is weighted with protein-calcium carbonate granules called otoliths, which add to the weight and inertia of the membrane and enhance the sense of gravity and motion.Not much is known of how this organ is used in other species. 
+
+Research has shown, like songbirds, females in some species of fish show seasonal variation in
+auditory processing and the sensitivity of the saccule of females peaks during the breeding season. 
+
+This is due to an increase in the
+density of saccular hair cells, partly resulting from reduced apoptosis. 
+
+The increase the hair cells make also increase the sensitivity to male mating calls. 
+
+An example of this is seen in Porichthys notatus, or plainfin midshipman fish.
+
+
+== Clinical significance ==
+
+
+
+=== Assessment ===
+
+Saccular function can be assessed by the cervical vestibular evoked myogenic potential (cVEMP). 
+
+This is a middle latency (P1 between 12-20 ms) waveform denoting inhibition of the sternocleidomastoid (SCM) muscle ipsilateral to the stimulus. 
+
+While not truly a unilateral reflex (response waveforms can be detected in the SCM contralateral to the stimulus in approximately 40% of cases), cVEMPs are more unilateral than the closely related ocular vestibular evoked myogenic potential (oVEMP). 
+
+The most reliable points on the cVEMP waveform are known as P1 and N1. 
+
+Of all waveform characteristics, P1-N1 amplitude is the most reliable and clinically relevant. cVEMP amplitude is linearly dependent upon stimulus intensity and is most reliably elicited with a loud (generally at or above 95 dB nHL) click or tone burst. 
+
+The cVEMP can also be said to be low-frequency tuned, with largest amplitudes in response to 500–750 Hz tonebursts. 
+
+This myogenic potential is felt to assess saccular function, because the response is present in completely deafened ears and because it is routed through the inferior vestibular nerve, which is known to dominantly innervate the saccule. .
+
+
+== Evolution of the Ear from Saccule ==
+
+Research suggests that in vertebrate evolution, sensory cells became specialized as gravistatic sensors after they became assembled to form the ear. 
+
+After this aggregation, growth, including duplication and segregation of existing neurosensory epithelia, gave rise to new epithelia and can be appreciated by comparing sensory epithelia from the inner ears of different vertebrates and their innervation by different neuronal populations. 
+
+Novel directions of differentiation were apparently further expanded by incorporating unique molecular modules in newly developed sensory epithelia. 
+
+For example, the saccule gave rise to the auditory epithelium and corresponding neuronal population of tetrapods, starting possibly in an aquatic environment.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Saccule
+;;;ES;;;
+
+
+
+SACULO
+
+
+El sáculo es un lecho de células sensoriales en el oído interno.
+
+Traduce los movimientos de la cabeza en impulsos neurales para que el cerebro los interprete.
+
+El sáculo detecta aceleraciones lineales e inclinaciones de la cabeza en el plano vertical.
+
+Cuando la cabeza se mueve verticalmente, las células sensoriales del sáculo se alteran y las neuronas conectadas a ellas comienzan a transmitir impulsos al cerebro.
+
+Estos impulsos viajan a lo largo de la porción vestibular del octavo par craneal hasta los núcleos vestibulares del tronco encefálico.
+El sistema vestibular es importante para mantener el equilibrio o el equilibrio.
+
+El sistema vestibular incluye el sáculo, el utrículo y los tres canales semicirculares.
+
+El vestíbulo es el nombre del conducto membranoso lleno de líquido que contiene estos órganos del equilibrio.
+
+El vestíbulo está encerrado en el hueso temporal del cráneo.
+
+
+== Estructura ==
+
+El sáculo, o sacculus, es el más pequeño de los dos sacos vestibulares.
+
+Tiene forma globular y se encuentra en el recessus sphæricus cerca de la abertura del conducto vestibular de la cóclea.
+
+Su cavidad no comunica directamente con la del utrículo.
+
+La parte anterior del sáculo presenta un engrosamiento ovalado, la mácula acustica sacculi o mácula, a la que se distribuyen los filamentos saculares de la rama vestibular del nervio vestibulococlear, también conocido como nervio estatoacústico o nervio craneal VIII.
+Dentro de la mácula hay células ciliadas, cada una con un haz de cabello en la cara apical.
+
+El haz de cabello está compuesto por un solo cinocilio y muchos (al menos 70) estereocilios.
+
+Los estereocilios están conectados a canales iónicos activados mecánicamente en la membrana plasmática de las células ciliadas a través de enlaces de punta.
+
+Las células de sostén se interdigitan entre las células ciliadas y secretan la membrana otolítica, una capa espesa y gelatinosa de glicoproteína.
+
+Cubriendo la superficie de la membrana otolítica hay otolitos, que son cristales de carbonato de calcio.
+
+Por esta razón, el sáculo a veces se denomina "órgano otolítico".
+De la pared posterior del sáculo sale un canal, el ductus endolymphaticus (conducto endolinfático).
+
+Este conducto está unido por el ductus utriculosaccularis, y luego pasa a lo largo del aquaeductus vestibuli y termina en una bolsa ciega saccus endolymphaticus (saco endolinfático) en la superficie posterior de la porción petrosa del hueso temporal, donde está en contacto con la duramadre. .
+Desde la parte inferior del sáculo, un tubo corto, el canalis reuniens de Hensen, pasa hacia abajo y se abre hacia el ductus cochlearis cerca de su extremo vestibular.
+Tanto el utrículo como el sáculo proporcionan información sobre la aceleración.
+
+La diferencia entre ellos es que el utrículo es más sensible a la aceleración horizontal, mientras que el sáculo es más sensible a la aceleración vertical.
+
+
+== Función ==
+
+El sáculo reúne información sensorial para orientar el cuerpo en el espacio.
+
+Principalmente recopila información sobre el movimiento lineal en el plano vertical, incluida la fuerza debida a la gravedad.
+
+El sáculo, como el utrículo, proporciona información al cerebro sobre la posición de la cabeza cuando no se está moviendo.
+
+Las estructuras que permiten que el sáculo recopile esta información vestibular son las células ciliadas.
+
+El parche de 2 por 3 mm de células ciliadas y células de soporte se llama mácula.
+
+Cada célula ciliada de una mácula tiene de 40 a 70 estereocilios y un verdadero cilio llamado cinocilio.
+
+Los estereocilios están orientados por la estriola, una cresta curva que atraviesa el centro de la mácula; en el sáculo están orientados lejos de la estriola. Las puntas de los estereocilios y el cinocilio están incrustadas en una membrana otolítica gelatinosa.
+
+Esta membrana está cargada con gránulos de proteína y carbonato de calcio llamados otolitos, que aumentan el peso y la inercia de la membrana y mejoran la sensación de gravedad y movimiento. No se sabe mucho sobre cómo se usa este órgano en otras especies.
+
+Las investigaciones han demostrado que, al igual que los pájaros cantores, las hembras de algunas especies de peces muestran variaciones estacionales en
+el procesamiento auditivo y la sensibilidad del sáculo de las hembras alcanza su punto máximo durante la temporada de reproducción.
+
+Esto se debe a un aumento en la
+densidad de las células ciliadas saculares, en parte como resultado de la reducción de la apoptosis.
+
+El aumento de las células ciliadas también aumenta la sensibilidad a las llamadas de apareamiento de los machos.
+
+Un ejemplo de esto se ve en Porichthys notatus, o pez guardiamarina de aleta plana.
+
+
+== Importancia clínica ==
+
+
+
+=== Evaluación ===
+
+La función sacular se puede evaluar mediante el potencial miogénico evocado vestibular cervical (cVEMP).
+
+Esta es una forma de onda de latencia media (P1 entre 12 y 20 ms) que indica la inhibición del músculo esternocleidomastoideo (SCM) ipsilateral al estímulo.
+
+Si bien no es realmente un reflejo unilateral (las formas de onda de respuesta se pueden detectar en el SCM contralateral al estímulo en aproximadamente el 40 % de los casos), los cVEMP son más unilaterales que el potencial miogénico evocado vestibular ocular (oVEMP), estrechamente relacionado.
+
+Los puntos más confiables en la forma de onda de cVEMP se conocen como P1 y N1.
+
+De todas las características de forma de onda, la amplitud P1-N1 es la más confiable y clínicamente relevante. La amplitud de cVEMP depende linealmente de la intensidad del estímulo y se obtiene de manera más confiable con un clic fuerte (generalmente a 95 dB nHL o más) o una ráfaga de tono.
+
+También se puede decir que el cVEMP está sintonizado en baja frecuencia, con amplitudes más grandes en respuesta a ráfagas de tonos de 500 a 750 Hz.
+
+Este potencial miogénico se siente para evaluar la función sacular, porque la respuesta está presente en oídos completamente sordos y porque se dirige a través del nervio vestibular inferior, que se sabe que inerva predominantemente el sáculo. .
+
+
+== Evolución de la oreja de Saccule ==
+
+La investigación sugiere que en la evolución de los vertebrados, las células sensoriales se especializaron como sensores gravistáticos después de ensamblarse para formar el oído.
+
+Después de esta agregación, el crecimiento, incluida la duplicación y segregación de los epitelios neurosensoriales existentes, dio lugar a nuevos epitelios y puede apreciarse comparando los epitelios sensoriales del oído interno de diferentes vertebrados y su inervación por diferentes poblaciones neuronales.
+
+Aparentemente, nuevas direcciones de diferenciación se expandieron aún más mediante la incorporación de módulos moleculares únicos en epitelios sensoriales recientemente desarrollados.
+
+Por ejemplo, el sáculo dio lugar al epitelio auditivo y la correspondiente población neuronal de tetrápodos, comenzando posiblemente en un ambiente acuático.
+
+
+== Referencias ==
+
+
+
+
+https://en.wikipedia.org/wiki/Saccule
+
+;;;PT;;;
+
+
+
+SÁCULO
+
+
+O sáculo é um leito de células sensoriais no ouvido interno.
+
+Ele traduz os movimentos da cabeça em impulsos neurais para o cérebro interpretar.
+
+O sáculo detecta acelerações lineares e inclinações da cabeça no plano vertical.
+
+Quando a cabeça se move verticalmente, as células sensoriais do sáculo são perturbadas e os neurônios conectados a elas começam a transmitir impulsos ao cérebro.
+
+Esses impulsos viajam ao longo da porção vestibular do oitavo nervo craniano até os núcleos vestibulares no tronco encefálico.
+O sistema vestibular é importante na manutenção do equilíbrio ou equilíbrio.
+
+O sistema vestibular inclui o sáculo, o utrículo e os três canais semicirculares.
+
+O vestíbulo é o nome do ducto membranoso cheio de líquido que contém esses órgãos de equilíbrio.
+
+O vestíbulo está envolto no osso temporal do crânio.
+
+
+== Estrutura ==
+
+O sáculo, ou sáculo, é o menor dos dois sacos vestibulares.
+
+É de forma globular e situa-se no recesso esférico próximo à abertura do ducto vestibular da cóclea.
+
+Sua cavidade não se comunica diretamente com a do utrículo.
+
+A parte anterior do sáculo apresenta um espessamento oval, a mácula acustica sacculi, ou mácula, para a qual se distribuem os filamentos saculares do ramo vestibular do nervo vestibulococlear, também conhecido como nervo estatoacústico ou nervo craniano VIII.
+Dentro da mácula estão as células ciliadas, cada uma com um feixe piloso na face apical.
+
+O feixe capilar é composto por um único cinocílio e muitos (pelo menos 70) estereocílios.
+
+Os estereocílios são conectados a canais iônicos mecanicamente fechados na membrana plasmática das células ciliadas por meio de links de ponta.
+
+As células de suporte interdigitam entre as células ciliadas e secretam a membrana otolítica, uma camada espessa e gelatinosa de glicoproteína.
+
+Cobrindo a superfície da membrana otolítica estão os otólitos, que são cristais de carbonato de cálcio.
+
+Por esta razão, o sáculo às vezes é chamado de "órgão otolítico".
+Da parede posterior do sáculo sai um canal, o ducto endolinfático (ducto endolinfático).
+
+Este ducto é unido pelo ductus utriculosaccularis, e então passa ao longo do aquæductus vestibular e termina em uma bolsa cega saccus endolymphaticus (saco endolinfático) na superfície posterior da porção petrosa do osso temporal, onde está em contato com a dura-máter .
+Da parte inferior do sáculo um tubo curto, o canalis reuniens de Hensen, passa para baixo e se abre no ducto coclear próximo à sua extremidade vestibular.
+Tanto o utrículo quanto o sáculo fornecem informações sobre a aceleração.
+
+A diferença entre eles é que o utrículo é mais sensível à aceleração horizontal, enquanto o sáculo é mais sensível à aceleração vertical.
+
+
+== Função ==
+
+O sáculo reúne informações sensoriais para orientar o corpo no espaço.
+
+Ele reúne principalmente informações sobre o movimento linear no plano vertical, incluindo a força devido à gravidade.
+
+O sáculo, como o utrículo, fornece informações ao cérebro sobre a posição da cabeça quando não está se movendo.
+
+As estruturas que permitem ao sáculo reunir essas informações vestibulares são as células ciliadas.
+
+A mancha de 2 por 3 mm de células ciliadas e células de suporte é chamada de mácula.
+
+Cada célula ciliada de uma mácula tem 40 a 70 estereocílios e um cílio verdadeiro chamado cinocílio.
+
+Os estereocílios são orientados pela estria, uma crista curva que atravessa o meio da mácula; no sáculo eles são orientados para longe da estria. As pontas dos estereocílios e cinocílios estão embebidas em uma membrana otolítica gelatinosa.
+
+Essa membrana é pesada com grânulos de carbonato de cálcio e proteína chamados otólitos, que aumentam o peso e a inércia da membrana e aumentam a sensação de gravidade e movimento. Não se sabe muito sobre como esse órgão é usado em outras espécies.
+
+A pesquisa mostrou, como pássaros canoros, as fêmeas em algumas espécies de peixes apresentam variação sazonal em
+processamento auditivo e a sensibilidade do sáculo das fêmeas atingem seus picos durante a estação reprodutiva.
+
+Isso se deve ao aumento da
+densidade das células ciliadas saculares, em parte resultante da redução da apoptose.
+
+O aumento das células ciliadas também aumenta a sensibilidade às chamadas masculinas de acasalamento.
+
+Um exemplo disso é visto em Porichthys notatus, ou peixe-marinha-comum.
+
+
+== Significado clínico ==
+
+
+
+=== Avaliação ===
+
+A função sacular pode ser avaliada pelo potencial miogênico evocado vestibular cervical (cVEMP).
+
+Esta é uma forma de onda de latência média (P1 entre 12-20 ms) denotando inibição do músculo esternocleidomastóideo (SCM) ipsilateral ao estímulo.
+
+Embora não seja verdadeiramente um reflexo unilateral (formas de onda de resposta podem ser detectadas no ECM contralateral ao estímulo em aproximadamente 40% dos casos), os cVEMPs são mais unilaterais do que o potencial miogênico evocado vestibular ocular intimamente relacionado (oVEMP).
+
+Os pontos mais confiáveis ​​na forma de onda do cVEMP são conhecidos como P1 e N1.
+
+De todas as características da forma de onda, a amplitude P1-N1 é a mais confiável e clinicamente relevante. A amplitude do cVEMP é linearmente dependente da intensidade do estímulo e é eliciada de forma mais confiável com um clique alto (geralmente igual ou superior a 95 dB nHL) ou estouro de tom.
+
+O cVEMP também pode ser considerado sintonizado em baixa frequência, com maiores amplitudes em resposta a tonebursts de 500 a 750 Hz.
+
+Este potencial miogênico é sentido para avaliar a função sacular, porque a resposta está presente em ouvidos completamente surdos e porque é encaminhado através do nervo vestibular inferior, que é conhecido por inervar dominantemente o sáculo. .
+
+
+== Evolução da orelha do sáculo ==
+
+Pesquisas sugerem que, na evolução dos vertebrados, as células sensoriais tornaram-se especializadas como sensores gravitastáticos depois de serem montadas para formar o ouvido.
+
+Após essa agregação, o crescimento, incluindo duplicação e segregação de epitélios neurossensoriais existentes, deu origem a novos epitélios e pode ser apreciado comparando-se os epitélios sensoriais das orelhas internas de diferentes vertebrados e sua inervação por diferentes populações neuronais.
+
+Novas direções de diferenciação foram aparentemente expandidas pela incorporação de módulos moleculares únicos em epitélios sensoriais recém-desenvolvidos.
+
+Por exemplo, o sáculo deu origem ao epitélio auditivo e à população neuronal correspondente de tetrápodes, começando possivelmente em um ambiente aquático.
+
+
+== Referências ==
+
+
+
+
+https://en.wikipedia.org/wiki/Saccule
+
+;;;FR;;;
+
+
+
+SACCULE
+
+
+Le saccule est un lit de cellules sensorielles dans l'oreille interne.
+
+Il traduit les mouvements de la tête en impulsions neuronales que le cerveau interprète.
+
+Le saccule détecte les accélérations linéaires et les inclinaisons de la tête dans le plan vertical.
+
+Lorsque la tête se déplace verticalement, les cellules sensorielles du saccule sont perturbées et les neurones qui y sont connectés commencent à transmettre des impulsions au cerveau.
+
+Ces impulsions voyagent le long de la partie vestibulaire du huitième nerf crânien jusqu'aux noyaux vestibulaires du tronc cérébral.
+Le système vestibulaire est important dans le maintien de l'équilibre ou de l'équilibre.
+
+Le système vestibulaire comprend le saccule, l'utricule et les trois canaux semi-circulaires.
+
+Le vestibule est le nom du conduit membraneux rempli de liquide qui contient ces organes de l'équilibre.
+
+Le vestibule est enfermé dans l'os temporal du crâne.
+
+
+== Structure ==
+
+Le saccule, ou sacculus, est le plus petit des deux sacs vestibulaires.
+
+Il est de forme globuleuse et se situe dans le récessus sphæricus près de l'ouverture du canal vestibulaire de la cochlée.
+
+Sa cavité ne communique pas directement avec celle de l'utricule.
+
+La partie antérieure du saccule présente un épaississement ovale, la macula acustica sacculi, ou macula, sur laquelle se répartissent les filaments sacculaires de la branche vestibulaire du nerf vestibulocochléaire, également appelé nerf statoacoustique ou nerf crânien VIII.
+Dans la macula se trouvent des cellules ciliées, chacune ayant un faisceau de cheveux sur la face apicale.
+
+Le faisceau de poils est composé d'un seul kinocil et de nombreux stéréocils (au moins 70).
+
+Les stéréocils sont connectés à des canaux ioniques à déclenchement mécanique dans la membrane plasmique des cellules ciliées via des liens de pointe.
+
+Les cellules de soutien s'interdigitent entre les cellules ciliées et sécrètent la membrane otolithique, une couche épaisse et gélatineuse de glycoprotéine.
+
+Couvrant la surface de la membrane otolithique se trouvent des otolithes, qui sont des cristaux de carbonate de calcium.
+
+Pour cette raison, le saccule est parfois appelé « organe otolithique ».
+De la paroi postérieure du saccule se dégage un canal, le canal endolymphatique (canal endolymphatique).
+
+Ce conduit est rejoint par le ductus utriculosaccularis, puis passe le long de l'aquæductus vestibuli et se termine dans une poche aveugle saccus endolymphaticus (sac endolymphatique) sur la surface postérieure de la partie pétreuse de l'os temporal, où il est en contact avec la dure-mère .
+De la partie inférieure du saccule, un court tube, le canalis reuniens de Hensen, passe vers le bas et s'ouvre dans le canal cochléaire près de son extrémité vestibulaire.
+L'utricule et le saccule fournissent des informations sur l'accélération.
+
+La différence entre eux est que l'utricule est plus sensible à l'accélération horizontale, tandis que le saccule est plus sensible à l'accélération verticale.
+
+
+== Fonction ==
+
+Le saccule recueille des informations sensorielles pour orienter le corps dans l'espace.
+
+Il rassemble principalement des informations sur le mouvement linéaire dans le plan vertical, y compris la force due à la gravité.
+
+Le saccule, comme l'utricule, fournit des informations au cerveau sur la position de la tête lorsqu'elle ne bouge pas.
+
+Les structures qui permettent au saccule de recueillir ces informations vestibulaires sont les cellules ciliées.
+
+Le patch de 2 sur 3 mm de cellules ciliées et de cellules de soutien s'appelle une macula.
+
+Chaque cellule ciliée d'une macula a 40 à 70 stéréocils et un vrai cil appelé kinocilium.
+
+Les stéréocils sont orientés par la striole, une crête incurvée qui traverse le milieu de la macula ; dans le saccule, ils sont orientés à l'opposé de la striole. Les extrémités des stéréocils et du kinocil sont noyées dans une membrane otolithique gélatineuse.
+
+Cette membrane est lestée de granules de carbonate de protéine et de calcium appelés otolithes, qui ajoutent au poids et à l'inertie de la membrane et améliorent le sens de la gravité et du mouvement. On ne sait pas grand-chose de la façon dont cet organe est utilisé chez d'autres espèces.
+
+La recherche a montré, comme les oiseaux chanteurs, les femelles de certaines espèces de poissons présentent des variations saisonnières dans
+le traitement auditif et la sensibilité du saccule des femelles culminent pendant la saison de reproduction.
+
+Cela est dû à une augmentation du
+densité des cellules ciliées sacculaires, résultant en partie d'une apoptose réduite.
+
+L'augmentation des cellules ciliées augmente également la sensibilité aux cris d'accouplement des mâles.
+
+Un exemple de ceci est vu dans Porichthys notatus , ou poisson aspirant plainfin.
+
+
+== Signification clinique ==
+
+
+
+=== Évaluation ===
+
+La fonction sacculaire peut être évaluée par le potentiel myogénique évoqué vestibulaire cervical (cVEMP).
+
+Il s'agit d'une forme d'onde à latence moyenne (P1 entre 12 et 20 ms) indiquant l'inhibition du muscle sternocléidomastoïdien (SCM) ipsilatéral au stimulus.
+
+Bien qu'il ne s'agisse pas vraiment d'un réflexe unilatéral (des formes d'onde de réponse peuvent être détectées dans le SCM controlatéral au stimulus dans environ 40 % des cas), les cVEMP sont plus unilatéraux que le potentiel myogénique évoqué vestibulaire oculaire étroitement apparenté (oVEMP).
+
+Les points les plus fiables sur la forme d'onde cVEMP sont appelés P1 et N1.
+
+De toutes les caractéristiques de forme d'onde, l'amplitude P1-N1 est la plus fiable et la plus pertinente sur le plan clinique. L'amplitude du cVEMP dépend linéairement de l'intensité du stimulus et est obtenue de manière plus fiable avec un clic fort (généralement égal ou supérieur à 95 dB nHL) ou une rafale de tonalité.
+
+On peut également dire que le cVEMP est accordé à basse fréquence, avec les plus grandes amplitudes en réponse à des rafales de tonalité de 500 à 750 Hz.
+
+Ce potentiel myogénique est ressenti pour évaluer la fonction sacculaire, car la réponse est présente dans des oreilles complètement assourdies et parce qu'elle est acheminée par le nerf vestibulaire inférieur, qui est connu pour innerver de manière dominante le saccule. .
+
+
+== Évolution de l'Oreille de Saccule ==
+
+La recherche suggère que dans l'évolution des vertébrés, les cellules sensorielles se sont spécialisées en tant que capteurs gravistatiques après s'être assemblées pour former l'oreille.
+
+Après cette agrégation, la croissance, y compris la duplication et la ségrégation des épithéliums neurosensoriels existants, a donné naissance à de nouveaux épithéliums et peut être appréciée en comparant les épithéliums sensoriels des oreilles internes de différents vertébrés et leur innervation par différentes populations neuronales.
+
+De nouvelles directions de différenciation ont apparemment été élargies en incorporant des modules moléculaires uniques dans des épithéliums sensoriels nouvellement développés.
+
+Par exemple, le saccule a donné naissance à l'épithélium auditif et à la population neuronale correspondante de tétrapodes, commençant peut-être dans un environnement aquatique.
+
+
+== Références ==
+
+
+
+
+https://en.wikipedia.org/wiki/Saccule

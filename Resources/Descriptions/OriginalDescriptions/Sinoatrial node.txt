@@ -1,0 +1,197 @@
+
+
+SINOATRIAL NODE
+
+
+The sinoatrial node (also known as the sinuatrial node, SA node or sinus node) is a group of cells known as pacemaker cells, located in the wall of the right atrium of the heart. 
+
+These cells can produce an electrical impulse (action potential) that travels through the electrical conduction system of the heart, causing it to contract. 
+
+In a healthy heart, the SA node continuously produces action potentials, setting the rhythm of the heart (sinus rhythm), and so is known as the heart's natural pacemaker. 
+
+The rate of action potentials produced (and therefore the heart rate) is influenced by the nerves that supply it.
+
+
+== Structure ==
+
+The sinoatrial node is a banana-shaped structure that varies in size, usually between 10-30 millimeters (mm) long, 5–7 mm wide, and 1–2 mm deep.
+
+
+=== Location ===
+
+The SA node is located in the wall (epicardium) of the right atrium, laterally to the entrance of the superior vena cava in a region called the sinus venarum (hence sino- + atrial). 
+
+It is positioned roughly between a groove called the crista terminalis located on the internal surface of the heart and the corresponding sulcus terminalis, on the external surface. 
+
+These grooves run between the entrance of the superior vena cava and the inferior vena cava.
+
+
+=== Microanatomy ===
+
+
+The cells of the SA node are spread out within a mesh of connective tissue, containing nerves, blood vessels, collagen and fat. 
+
+Immediately surrounding the SA node cells are paranodal cells. 
+
+These cells have structures intermediate between that of the SA node cells and the rest of the atrium. 
+
+The connective tissue, along with the paranodal cells, insulate the SA node from the rest of the atrium, preventing the electrical activity of the atrial cells from affecting the SA node cells. 
+
+The SA node cells are smaller and paler than the surrounding atrial cells, with the average cell being around 8 micrometers in diameter and 20-30 micrometers in length (1 micrometer= 0.000001 meter). 
+
+Unlike the atrial cells, SA node cells contain fewer mitochondria and myofibers, as well as a smaller sarcoplasmic reticulum. 
+
+This means that the SA node cells are less equipped to contract compared to the atrial and ventricular cells.Action potentials pass from one cardiac cell to the next through pores known as gap junctions. 
+
+These gap junctions are made of proteins called connexins. 
+
+There are fewer gap junctions within the SA node and they are smaller in size. 
+
+This is again important in insulating the SA node from the surrounding atrial cells.
+
+
+=== Blood supply ===
+
+The sinoatrial node receives its blood supply from the sinoatrial nodal artery. 
+
+This blood supply, however, can differ hugely between individuals. 
+
+For example, in most humans, this is a single artery, although in some cases there have been either 2 or 3 sinoatrial node arteries supplying the SA node. 
+
+Also, the SA node artery mainly originates as a branch of the right coronary artery; however in some individuals it has arisen from the circumflex artery, which is a branch of the left coronary artery. 
+
+Finally, the SA node artery commonly passes behind the superior vena cava, before reaching the SA node; however in some instances it passes in front. 
+
+Despite these many differences, there doesn’t appear to be any advantage to how many sinoatrial nodal arteries an individual has, or where they originate 
+
+
+=== Venous drainage ===
+
+There are no large veins that drain blood away from the SA node. 
+
+Instead, smaller venules drain the blood directly into the right atrium.
+
+
+== Function ==
+
+
+
+=== Pacemaking ===
+
+
+The main role of a sinoatrial node cell is to initiate action potentials of the heart that can pass through cardiac muscle cells and cause contraction. 
+
+An action potential is a rapid change in membrane potential, produced by the movement of charged atoms (ions). 
+
+In the absence of stimulation, non-pacemaker cells (including the ventricular and atrial cells) have a relatively constant membrane potential; this is known as a resting potential. 
+
+This resting phase (see cardiac action potential, phase 4) ends when an action potential reaches the cell. 
+
+This produces a positive change in membrane potential, known as depolarization, which is propagated throughout the heart and initiates muscle contraction. 
+
+Pacemaker cells, however, do not have a resting potential. 
+
+Instead, immediately after repolarization, the membrane potential of these cells begins to depolarise again automatically, a phenomenon known as the pacemaker potential. 
+
+Once the pacemaker potential reaches a set value, the threshold potential, it produces an action potential. 
+
+Other cells within the heart (including the Purkinje fibers and atrioventricular node) can also initiate action potentials; however, they do so at a slower rate and therefore, if the SA node is functioning properly, its action potentials usually override those that would be produced by other tissues.Outlined below are the 3 phases of a sinoatrial node action potential. 
+
+In the cardiac action potential, there are 5 phases (labelled 0-4), however pacemaker action potentials do not have an obvious phase 1 or 2.
+Phase 4
+
+This phase is also known as the pacemaker potential. 
+
+Immediately following repolarization, when the membrane potential is very negative (it is hyperpolarised), the voltage slowly begins to increase. 
+
+This is initially due to the closing of potassium channels, which reduces the flow of potassium ions (Ik) out of the cell (see phase 2, below). 
+
+Hyperpolarization also causes activation of hyperpolarisation-activated cyclic nucleotide–gated (HCN) channels. 
+
+The activation of ion channels at very negative membrane potentials is unusual, therefore the flow of sodium (Na+) and some K+ through the activated HCN channel is referred to as a funny current (If). 
+
+This funny current causes the membrane potential of the cell to gradually increase, as the positive charge (Na+ and K+) is flowing into the cell. 
+
+Another mechanism involved in pacemaker potential is known as the calcium clock. 
+
+This refers to the spontaneous release of calcium from the sarcoplasmic reticulum (a calcium store) into the cytoplasm, also known as calcium sparks. 
+
+This increase in calcium within the cell then activates a sodium-calcium exchanger (NCX), which removes one Ca2+ from the cell, and exchanges it for 3 Na+ into the cell (therefore removing a charge of +2 from the cell, but allowing a charge of +3 to enter the cell) further increasing the membrane potential. 
+
+Calcium later reenters the cell via SERCA and calcium channels located on the cell membrane. 
+
+The increase in membrane potential produced by these mechanisms, activates T-type calcium channels and then L-type calcium channels (which open very slowly). 
+
+These channels allow a flow of Ca2+ into the cell, making the membrane potential even more positive.
+Phase 0
+This is the depolarization phase. 
+
+When the membrane potential reaches the threshold potential (around -20 to -50 mV), the cell begins to rapidly depolarise (become more positive). 
+
+This is mainly due to the flow of Ca2+ through L-type calcium channels, which are now fully open. 
+
+During this stage, T-type calcium channels and HCN channels deactivate.
+Phase 3
+This phase is the repolarization phase. 
+
+This occurs due to the inactivation of L-type calcium channels (preventing the movement of Ca2+ into the cell) and the activation of potassium channels, which allows the flow of K+ out of the cell, making the membrane potential more negative.
+
+
+== Nerve supply ==
+
+Heart rate depends on the rate at which the sinoatrial node produces action potentials. 
+
+At rest, heart rate is between 60 and 100 beats per minute. 
+
+This is a result of the activity of two sets of nerves, one acting to slow down action potential production (these are parasympathetic nerves) and the other acting to speed up action potential production (sympathetic nerves).The sympathetic nerves begin in the thoracic region of the spinal cord (in particular T1-T4). 
+
+These nerves release a neurotransmitter called noradrenaline (NA). 
+
+This binds to a receptor on the SA node membrane, called a beta-1adrenoceptor. 
+
+Binding of NA to this receptor activates a G-protein (in particular a Gs-Protein, S for stimulatory) which initiates a series of reactions (known as the cAMP pathway) that results in the production of a molecule called cyclic adenosinemonophosphate (cAMP). 
+
+This cAMP binds to the HCN channel (see above). 
+
+Binding of cAMP to the HCN increases the flow of Na+ and K+ into the cell, speeding up the pacemaker potential, so producing action potentials at a quicker rate and increasing heart rate. 
+
+An increase in heart rate is known as positive chronotropy.
+The parasympathetic nerves supplying the SA node (in particular the Vagus nerves) originate in the brain. 
+
+These nerves release a neurotransmitter called acetylcholine (ACh). 
+
+ACh binds to a receptor called an M2 muscarinic receptor, located on the SA node membrane. 
+
+Activation of this M2 receptor then activates a protein called a G-protein (in particular Gi protein, i for inhibitory). 
+
+Activation of this G-protein blocks the cAMP pathway, reducing its effects, therefore inhibiting sympathetic activity and slowing action potential production. 
+
+The G-protein also activates a potassium channel, which allows K+ to flow out of the cell, making the membrane potential more negative and slowing the pacemaker potential, therefore decreasing the rate of action potential production and therefore decreasing heart rate. 
+
+A decrease in heart rate is known as negative chronotropy.
+The first cell to produce the action potential in the SA node isn't always the same; this is known as pacemaker shift. 
+
+In certain species of animals—for example, in dogs—a superior shift (i.e., the cell that produces the fastest action potential in the SA node is higher than previously) usually produces an increased heart rate whereas an inferior shift (i.e. the cell producing the fastest action potential within the SA node is further down than previously) produces a decreased heart rate.
+
+
+== Clinical significance ==
+
+Sinus node dysfunction is an irregular heartbeat caused by faulty electrical signals of the heart. 
+
+When the heart's sinoatrial node is defective, the heart's rhythms become abnormal—typically too slow or exhibiting pauses in its function or a combination, and very rarely faster than normal.Blockage of the arterial blood supply to the SA node (most commonly due to a myocardial infarction or progressive coronary artery disease) can therefore cause ischaemia and cell death in the SA node. 
+
+This can disrupt the electrical pacemaker function of the SA node, and can result in sick sinus syndrome.
+If the SA node does not function or the impulse generated in the SA node is blocked before it travels down the electrical conduction system, a group of cells further down the heart will become its pacemaker.
+
+
+== History ==
+
+The sinoatrial node was first discovered by a young medical student, Martin Flack, in the heart of a mole, whilst his mentor, Sir Arthur Keith, was on a bicycle ride with his wife. 
+
+They made the discovery in a makeshift laboratory set up in a farmhouse in Kent, England, called Mann's Place. 
+
+Their discovery was published in 1907.
+
+
+
+https://en.wikipedia.org/wiki/Sinoatrial_node

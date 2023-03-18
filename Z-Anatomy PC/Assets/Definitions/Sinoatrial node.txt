@@ -1,0 +1,796 @@
+
+
+SINOATRIAL NODE
+
+
+The sinoatrial node (also known as the sinuatrial node, SA node or sinus node) is a group of cells known as pacemaker cells, located in the wall of the right atrium of the heart. 
+
+These cells can produce an electrical impulse (action potential) that travels through the electrical conduction system of the heart, causing it to contract. 
+
+In a healthy heart, the SA node continuously produces action potentials, setting the rhythm of the heart (sinus rhythm), and so is known as the heart's natural pacemaker. 
+
+The rate of action potentials produced (and therefore the heart rate) is influenced by the nerves that supply it.
+
+
+== Structure ==
+
+The sinoatrial node is a banana-shaped structure that varies in size, usually between 10-30 millimeters (mm) long, 5–7 mm wide, and 1–2 mm deep.
+
+
+=== Location ===
+
+The SA node is located in the wall (epicardium) of the right atrium, laterally to the entrance of the superior vena cava in a region called the sinus venarum (hence sino- + atrial). 
+
+It is positioned roughly between a groove called the crista terminalis located on the internal surface of the heart and the corresponding sulcus terminalis, on the external surface. 
+
+These grooves run between the entrance of the superior vena cava and the inferior vena cava.
+
+
+=== Microanatomy ===
+
+
+The cells of the SA node are spread out within a mesh of connective tissue, containing nerves, blood vessels, collagen and fat. 
+
+Immediately surrounding the SA node cells are paranodal cells. 
+
+These cells have structures intermediate between that of the SA node cells and the rest of the atrium. 
+
+The connective tissue, along with the paranodal cells, insulate the SA node from the rest of the atrium, preventing the electrical activity of the atrial cells from affecting the SA node cells. 
+
+The SA node cells are smaller and paler than the surrounding atrial cells, with the average cell being around 8 micrometers in diameter and 20-30 micrometers in length (1 micrometer= 0.000001 meter). 
+
+Unlike the atrial cells, SA node cells contain fewer mitochondria and myofibers, as well as a smaller sarcoplasmic reticulum. 
+
+This means that the SA node cells are less equipped to contract compared to the atrial and ventricular cells.Action potentials pass from one cardiac cell to the next through pores known as gap junctions. 
+
+These gap junctions are made of proteins called connexins. 
+
+There are fewer gap junctions within the SA node and they are smaller in size. 
+
+This is again important in insulating the SA node from the surrounding atrial cells.
+
+
+=== Blood supply ===
+
+The sinoatrial node receives its blood supply from the sinoatrial nodal artery. 
+
+This blood supply, however, can differ hugely between individuals. 
+
+For example, in most humans, this is a single artery, although in some cases there have been either 2 or 3 sinoatrial node arteries supplying the SA node. 
+
+Also, the SA node artery mainly originates as a branch of the right coronary artery; however in some individuals it has arisen from the circumflex artery, which is a branch of the left coronary artery. 
+
+Finally, the SA node artery commonly passes behind the superior vena cava, before reaching the SA node; however in some instances it passes in front. 
+
+Despite these many differences, there doesn’t appear to be any advantage to how many sinoatrial nodal arteries an individual has, or where they originate 
+
+
+=== Venous drainage ===
+
+There are no large veins that drain blood away from the SA node. 
+
+Instead, smaller venules drain the blood directly into the right atrium.
+
+
+== Function ==
+
+
+
+=== Pacemaking ===
+
+
+The main role of a sinoatrial node cell is to initiate action potentials of the heart that can pass through cardiac muscle cells and cause contraction. 
+
+An action potential is a rapid change in membrane potential, produced by the movement of charged atoms (ions). 
+
+In the absence of stimulation, non-pacemaker cells (including the ventricular and atrial cells) have a relatively constant membrane potential; this is known as a resting potential. 
+
+This resting phase (see cardiac action potential, phase 4) ends when an action potential reaches the cell. 
+
+This produces a positive change in membrane potential, known as depolarization, which is propagated throughout the heart and initiates muscle contraction. 
+
+Pacemaker cells, however, do not have a resting potential. 
+
+Instead, immediately after repolarization, the membrane potential of these cells begins to depolarise again automatically, a phenomenon known as the pacemaker potential. 
+
+Once the pacemaker potential reaches a set value, the threshold potential, it produces an action potential. 
+
+Other cells within the heart (including the Purkinje fibers and atrioventricular node) can also initiate action potentials; however, they do so at a slower rate and therefore, if the SA node is functioning properly, its action potentials usually override those that would be produced by other tissues.Outlined below are the 3 phases of a sinoatrial node action potential. 
+
+In the cardiac action potential, there are 5 phases (labelled 0-4), however pacemaker action potentials do not have an obvious phase 1 or 2.
+Phase 4
+
+This phase is also known as the pacemaker potential. 
+
+Immediately following repolarization, when the membrane potential is very negative (it is hyperpolarised), the voltage slowly begins to increase. 
+
+This is initially due to the closing of potassium channels, which reduces the flow of potassium ions (Ik) out of the cell (see phase 2, below). 
+
+Hyperpolarization also causes activation of hyperpolarisation-activated cyclic nucleotide–gated (HCN) channels. 
+
+The activation of ion channels at very negative membrane potentials is unusual, therefore the flow of sodium (Na+) and some K+ through the activated HCN channel is referred to as a funny current (If). 
+
+This funny current causes the membrane potential of the cell to gradually increase, as the positive charge (Na+ and K+) is flowing into the cell. 
+
+Another mechanism involved in pacemaker potential is known as the calcium clock. 
+
+This refers to the spontaneous release of calcium from the sarcoplasmic reticulum (a calcium store) into the cytoplasm, also known as calcium sparks. 
+
+This increase in calcium within the cell then activates a sodium-calcium exchanger (NCX), which removes one Ca2+ from the cell, and exchanges it for 3 Na+ into the cell (therefore removing a charge of +2 from the cell, but allowing a charge of +3 to enter the cell) further increasing the membrane potential. 
+
+Calcium later reenters the cell via SERCA and calcium channels located on the cell membrane. 
+
+The increase in membrane potential produced by these mechanisms, activates T-type calcium channels and then L-type calcium channels (which open very slowly). 
+
+These channels allow a flow of Ca2+ into the cell, making the membrane potential even more positive.
+Phase 0
+This is the depolarization phase. 
+
+When the membrane potential reaches the threshold potential (around -20 to -50 mV), the cell begins to rapidly depolarise (become more positive). 
+
+This is mainly due to the flow of Ca2+ through L-type calcium channels, which are now fully open. 
+
+During this stage, T-type calcium channels and HCN channels deactivate.
+Phase 3
+This phase is the repolarization phase. 
+
+This occurs due to the inactivation of L-type calcium channels (preventing the movement of Ca2+ into the cell) and the activation of potassium channels, which allows the flow of K+ out of the cell, making the membrane potential more negative.
+
+
+== Nerve supply ==
+
+Heart rate depends on the rate at which the sinoatrial node produces action potentials. 
+
+At rest, heart rate is between 60 and 100 beats per minute. 
+
+This is a result of the activity of two sets of nerves, one acting to slow down action potential production (these are parasympathetic nerves) and the other acting to speed up action potential production (sympathetic nerves).The sympathetic nerves begin in the thoracic region of the spinal cord (in particular T1-T4). 
+
+These nerves release a neurotransmitter called noradrenaline (NA). 
+
+This binds to a receptor on the SA node membrane, called a beta-1adrenoceptor. 
+
+Binding of NA to this receptor activates a G-protein (in particular a Gs-Protein, S for stimulatory) which initiates a series of reactions (known as the cAMP pathway) that results in the production of a molecule called cyclic adenosinemonophosphate (cAMP). 
+
+This cAMP binds to the HCN channel (see above). 
+
+Binding of cAMP to the HCN increases the flow of Na+ and K+ into the cell, speeding up the pacemaker potential, so producing action potentials at a quicker rate and increasing heart rate. 
+
+An increase in heart rate is known as positive chronotropy.
+The parasympathetic nerves supplying the SA node (in particular the Vagus nerves) originate in the brain. 
+
+These nerves release a neurotransmitter called acetylcholine (ACh). 
+
+ACh binds to a receptor called an M2 muscarinic receptor, located on the SA node membrane. 
+
+Activation of this M2 receptor then activates a protein called a G-protein (in particular Gi protein, i for inhibitory). 
+
+Activation of this G-protein blocks the cAMP pathway, reducing its effects, therefore inhibiting sympathetic activity and slowing action potential production. 
+
+The G-protein also activates a potassium channel, which allows K+ to flow out of the cell, making the membrane potential more negative and slowing the pacemaker potential, therefore decreasing the rate of action potential production and therefore decreasing heart rate. 
+
+A decrease in heart rate is known as negative chronotropy.
+The first cell to produce the action potential in the SA node isn't always the same; this is known as pacemaker shift. 
+
+In certain species of animals—for example, in dogs—a superior shift (i.e., the cell that produces the fastest action potential in the SA node is higher than previously) usually produces an increased heart rate whereas an inferior shift (i.e. the cell producing the fastest action potential within the SA node is further down than previously) produces a decreased heart rate.
+
+
+== Clinical significance ==
+
+Sinus node dysfunction is an irregular heartbeat caused by faulty electrical signals of the heart. 
+
+When the heart's sinoatrial node is defective, the heart's rhythms become abnormal—typically too slow or exhibiting pauses in its function or a combination, and very rarely faster than normal.Blockage of the arterial blood supply to the SA node (most commonly due to a myocardial infarction or progressive coronary artery disease) can therefore cause ischaemia and cell death in the SA node. 
+
+This can disrupt the electrical pacemaker function of the SA node, and can result in sick sinus syndrome.
+If the SA node does not function or the impulse generated in the SA node is blocked before it travels down the electrical conduction system, a group of cells further down the heart will become its pacemaker.
+
+
+== History ==
+
+The sinoatrial node was first discovered by a young medical student, Martin Flack, in the heart of a mole, whilst his mentor, Sir Arthur Keith, was on a bicycle ride with his wife. 
+
+They made the discovery in a makeshift laboratory set up in a farmhouse in Kent, England, called Mann's Place. 
+
+Their discovery was published in 1907.
+
+
+
+https://en.wikipedia.org/wiki/Sinoatrial_node
+;;;ES;;;
+
+
+
+NÓDULO SINOAURICULAR
+
+
+El nódulo sinoauricular (también conocido como nódulo sinuatrial, nódulo SA o nódulo sinusal) es un grupo de células conocidas como células marcapasos, ubicadas en la pared de la aurícula derecha del corazón.
+
+Estas células pueden producir un impulso eléctrico (potencial de acción) que viaja a través del sistema de conducción eléctrica del corazón, provocando su contracción.
+
+En un corazón sano, el nódulo SA produce continuamente potenciales de acción, marcando el ritmo del corazón (ritmo sinusal), por lo que se conoce como el marcapasos natural del corazón.
+
+La tasa de potenciales de acción producidos (y por lo tanto la frecuencia cardíaca) está influenciada por los nervios que la inervan.
+
+
+== Estructura ==
+
+El nódulo sinoauricular es una estructura en forma de banana que varía en tamaño, generalmente entre 10 y 30 milímetros (mm) de largo, 5 a 7 mm de ancho y 1 a 2 mm de profundidad.
+
+
+=== Ubicación ===
+
+El nódulo SA está ubicado en la pared (epicardio) de la aurícula derecha, lateralmente a la entrada de la vena cava superior en una región llamada sinus venarum (de ahí sino- + auricular).
+
+Se coloca aproximadamente entre un surco llamado crista terminalis ubicado en la superficie interna del corazón y el sulcus terminalis correspondiente, en la superficie externa.
+
+Estos surcos discurren entre la entrada de la vena cava superior y la vena cava inferior.
+
+
+=== Microanatomía ===
+
+
+Las células del nódulo SA se extienden dentro de una malla de tejido conectivo que contiene nervios, vasos sanguíneos, colágeno y grasa.
+
+Inmediatamente rodeando las células del nódulo SA se encuentran las células paranodales.
+
+Estas células tienen estructuras intermedias entre las células del nódulo SA y el resto de la aurícula.
+
+El tejido conectivo, junto con las células paranodales, aíslan el nódulo SA del resto de la aurícula, evitando que la actividad eléctrica de las células auriculares afecte a las células del nódulo SA.
+
+Las células del nódulo SA son más pequeñas y más pálidas que las células auriculares circundantes, con una célula promedio de alrededor de 8 micrómetros de diámetro y 20-30 micrómetros de longitud (1 micrómetro = 0,000001 metros).
+
+A diferencia de las células auriculares, las células del nódulo SA contienen menos mitocondrias y miofibras, así como un retículo sarcoplásmico más pequeño.
+
+Esto significa que las células del nódulo SA están menos equipadas para contraerse en comparación con las células auriculares y ventriculares. Los potenciales de acción pasan de una célula cardíaca a la siguiente a través de poros conocidos como uniones comunicantes.
+
+Estas uniones gap están hechas de proteínas llamadas conexinas.
+
+Hay menos uniones gap dentro del nodo SA y son de menor tamaño.
+
+Esto vuelve a ser importante para aislar el nódulo SA de las células auriculares circundantes.
+
+
+=== Suministro de sangre ===
+
+El nódulo sinoauricular recibe su riego sanguíneo de la arteria del nódulo sinoauricular.
+
+Este suministro de sangre, sin embargo, puede diferir enormemente entre individuos.
+
+Por ejemplo, en la mayoría de los humanos, esta es una sola arteria, aunque en algunos casos ha habido 2 o 3 arterias del nódulo sinoauricular que irrigan el nódulo SA.
+
+Además, la arteria del nódulo SA se origina principalmente como una rama de la arteria coronaria derecha; sin embargo, en algunos individuos ha surgido de la arteria circunfleja, que es una rama de la arteria coronaria izquierda.
+
+Finalmente, la arteria del nódulo SA suele pasar por detrás de la vena cava superior, antes de llegar al nódulo SA; sin embargo, en algunos casos pasa por delante.
+
+A pesar de estas muchas diferencias, no parece haber ninguna ventaja en cuanto a la cantidad de arterias del nódulo sinoauricular que tiene una persona o dónde se originan.
+
+
+=== Drenaje venoso ===
+
+No hay venas grandes que drenen la sangre del nódulo SA.
+
+En cambio, las vénulas más pequeñas drenan la sangre directamente hacia la aurícula derecha.
+
+
+== Función ==
+
+
+
+=== Marcapasos ===
+
+
+La función principal de una célula del nódulo sinoauricular es iniciar los potenciales de acción del corazón que pueden pasar a través de las células del músculo cardíaco y provocar la contracción.
+
+Un potencial de acción es un cambio rápido en el potencial de membrana, producido por el movimiento de átomos cargados (iones).
+
+En ausencia de estimulación, las células que no son marcapasos (incluidas las células ventriculares y auriculares) tienen un potencial de membrana relativamente constante; esto se conoce como potencial de reposo.
+
+Esta fase de reposo (ver potencial de acción cardiaco, fase 4) finaliza cuando un potencial de acción llega a la célula.
+
+Esto produce un cambio positivo en el potencial de membrana, conocido como despolarización, que se propaga por todo el corazón e inicia la contracción muscular.
+
+Sin embargo, las células marcapasos no tienen un potencial de reposo.
+
+En cambio, inmediatamente después de la repolarización, el potencial de membrana de estas células comienza a despolarizarse de nuevo automáticamente, un fenómeno conocido como potencial de marcapasos.
+
+Una vez que el potencial del marcapasos alcanza un valor establecido, el potencial umbral, produce un potencial de acción.
+
+Otras células dentro del corazón (incluidas las fibras de Purkinje y el nódulo auriculoventricular) también pueden iniciar potenciales de acción; sin embargo, lo hacen a un ritmo más lento y, por lo tanto, si el nódulo SA funciona correctamente, sus potenciales de acción generalmente anulan los que producirían otros tejidos. A continuación se describen las 3 fases de un potencial de acción del nódulo sinoauricular.
+
+En el potencial de acción cardíaco, hay 5 fases (etiquetadas 0-4), sin embargo, los potenciales de acción del marcapasos no tienen una fase 1 o 2 obvia.
+Fase 4
+
+Esta fase también se conoce como potencial de marcapasos.
+
+Inmediatamente después de la repolarización, cuando el potencial de membrana es muy negativo (está hiperpolarizado), el voltaje comienza a aumentar lentamente.
+
+Esto se debe inicialmente al cierre de los canales de potasio, lo que reduce el flujo de iones de potasio (Ik) fuera de la célula (consulte la fase 2, a continuación).
+
+La hiperpolarización también provoca la activación de canales activados por nucleótidos cíclicos (HCN) activados por hiperpolarización.
+
+La activación de canales iónicos a potenciales de membrana muy negativos es inusual, por lo que el flujo de sodio (Na+) y algo de K+ a través del canal de HCN activado se conoce como corriente graciosa (If).
+
+Esta extraña corriente hace que el potencial de membrana de la célula aumente gradualmente, a medida que la carga positiva (Na+ y K+) fluye hacia la célula.
+
+Otro mecanismo implicado en el potencial del marcapasos se conoce como reloj de calcio.
+
+Esto se refiere a la liberación espontánea de calcio desde el retículo sarcoplásmico (una reserva de calcio) hacia el citoplasma, también conocida como chispas de calcio.
+
+Este aumento de calcio dentro de la célula luego activa un intercambiador de sodio-calcio (NCX), que elimina un Ca2+ de la célula y lo intercambia por 3 Na+ en la célula (por lo tanto, elimina una carga de +2 de la célula, pero permite un carga de +3 para entrar en la célula) aumentando aún más el potencial de membrana.
+
+Posteriormente, el calcio vuelve a entrar en la célula a través de SERCA y los canales de calcio ubicados en la membrana celular.
+
+El aumento del potencial de membrana producido por estos mecanismos, activa los canales de calcio tipo T y luego los canales de calcio tipo L (que se abren muy lentamente).
+
+Estos canales permiten un flujo de Ca2+ hacia la célula, lo que hace que el potencial de membrana sea aún más positivo.
+Fase 0
+Esta es la fase de despolarización.
+
+Cuando el potencial de membrana alcanza el potencial umbral (alrededor de -20 a -50 mV), la célula comienza a despolarizarse rápidamente (se vuelve más positiva).
+
+Esto se debe principalmente al flujo de Ca2+ a través de los canales de calcio tipo L, que ahora están completamente abiertos.
+
+Durante esta etapa, los canales de calcio tipo T y los canales de HCN se desactivan.
+Fase 3
+Esta fase es la fase de repolarización.
+
+Esto ocurre debido a la inactivación de los canales de calcio de tipo L (que impiden el movimiento de Ca2+ hacia el interior de la célula) y la activación de los canales de potasio, lo que permite el flujo de K+ fuera de la célula, lo que hace que el potencial de membrana sea más negativo.
+
+
+== Suministro nervioso ==
+
+La frecuencia cardíaca depende de la velocidad a la que el nódulo sinoauricular produce potenciales de acción.
+
+En reposo, la frecuencia cardíaca oscila entre 60 y 100 latidos por minuto.
+
+Esto es el resultado de la actividad de dos conjuntos de nervios, uno que actúa para ralentizar la producción del potencial de acción (estos son nervios parasimpáticos) y el otro que actúa para acelerar la producción del potencial de acción (nervios simpáticos). Los nervios simpáticos comienzan en la región torácica. de la médula espinal (en particular T1-T4).
+
+Estos nervios liberan un neurotransmisor llamado noradrenalina (NA).
+
+Este se une a un receptor en la membrana del nódulo SA, llamado adrenoceptor beta-1.
+
+La unión de NA a este receptor activa una proteína G (en particular, una proteína Gs, S de estimulante) que inicia una serie de reacciones (conocidas como la vía del AMPc) que dan como resultado la producción de una molécula llamada monofosfato de adenosina cíclico (AMPc) .
+
+Este cAMP se une al canal HCN (ver arriba).
+
+La unión de AMPc al HCN aumenta el flujo de Na+ y K+ hacia la célula, acelerando el potencial del marcapasos, produciendo así potenciales de acción a un ritmo más rápido y aumentando la frecuencia cardíaca.
+
+Un aumento en la frecuencia cardíaca se conoce como cronotropía positiva.
+Los nervios parasimpáticos que inervan el nódulo SA (en particular, los nervios vagos) se originan en el cerebro.
+
+Estos nervios liberan un neurotransmisor llamado acetilcolina (ACh).
+
+La ACh se une a un receptor llamado receptor muscarínico M2, ubicado en la membrana del nódulo SA.
+
+La activación de este receptor M2 luego activa una proteína llamada proteína G (en particular, proteína Gi, i para inhibidor).
+
+La activación de esta proteína G bloquea la vía del AMPc, reduciendo sus efectos, inhibiendo así la actividad simpática y ralentizando la producción del potencial de acción.
+
+La proteína G también activa un canal de potasio, lo que permite que el K+ fluya fuera de la célula, lo que hace que el potencial de membrana sea más negativo y ralentiza el potencial del marcapasos, por lo tanto, disminuye la tasa de producción del potencial de acción y, por lo tanto, disminuye la frecuencia cardíaca.
+
+Una disminución en la frecuencia cardíaca se conoce como cronotropía negativa.
+La primera célula que produce el potencial de acción en el nódulo SA no siempre es la misma; esto se conoce como cambio de marcapasos.
+
+En ciertas especies de animales, por ejemplo, en perros, un cambio superior (es decir, la célula que produce el potencial de acción más rápido en el nódulo SA es más alto que antes) generalmente produce un aumento de la frecuencia cardíaca, mientras que un cambio inferior (es decir, la célula que produce el potencial de acción más rápido dentro del nódulo SA está más abajo que antes) produce una frecuencia cardíaca disminuida.
+
+
+== Importancia clínica ==
+
+La disfunción del nódulo sinusal es un latido cardíaco irregular causado por señales eléctricas defectuosas del corazón.
+
+Cuando el nódulo sinoauricular del corazón es defectuoso, los ritmos del corazón se vuelven anormales, por lo general demasiado lentos o presentando pausas en su función o una combinación, y muy rara vez más rápido de lo normal. Obstrucción del suministro de sangre arterial al nódulo SA (más comúnmente debido a una infarto de miocardio o enfermedad arterial coronaria progresiva) pueden por lo tanto causar isquemia y muerte celular en el nódulo SA.
+
+Esto puede interrumpir la función de marcapasos eléctrico del nódulo SA y puede provocar el síndrome del seno enfermo.
+Si el nódulo SA no funciona o el impulso generado en el nódulo SA se bloquea antes de viajar por el sistema de conducción eléctrica, un grupo de células más abajo en el corazón se convertirá en su marcapasos.
+
+
+== Historia ==
+
+El nódulo sinoauricular fue descubierto por primera vez por un joven estudiante de medicina, Martin Flack, en el corazón de un lunar, mientras su mentor, Sir Arthur Keith, paseaba en bicicleta con su esposa.
+
+Hicieron el descubrimiento en un laboratorio improvisado instalado en una granja en Kent, Inglaterra, llamada Mann's Place.
+
+Su descubrimiento fue publicado en 1907.
+
+
+
+https://en.wikipedia.org/wiki/Sinoatrial_node
+
+;;;PT;;;
+
+
+
+NÓ SINOATRIAL
+
+
+O nó sinoatrial (também conhecido como nó sinuatrial, nó SA ou nó sinusal) é um grupo de células conhecidas como células marcapasso, localizadas na parede do átrio direito do coração.
+
+Essas células podem produzir um impulso elétrico (potencial de ação) que percorre o sistema de condução elétrica do coração, fazendo com que ele se contraia.
+
+Em um coração saudável, o nodo SA produz continuamente potenciais de ação, definindo o ritmo do coração (ritmo sinusal), e por isso é conhecido como marca-passo natural do coração.
+
+A taxa de potenciais de ação produzidos (e, portanto, a frequência cardíaca) é influenciada pelos nervos que a fornecem.
+
+
+== Estrutura ==
+
+O nó sinoatrial é uma estrutura em forma de banana que varia em tamanho, geralmente entre 10-30 milímetros (mm) de comprimento, 5-7 mm de largura e 1-2 mm de profundidade.
+
+
+=== Localização ===
+
+O nodo SA está localizado na parede (epicárdio) do átrio direito, lateralmente à entrada da veia cava superior em uma região denominada seio venar (daí sino+atrial).
+
+Ele está posicionado aproximadamente entre um sulco chamado crista terminalis localizado na superfície interna do coração e o sulco terminal correspondente, na superfície externa.
+
+Esses sulcos correm entre a entrada da veia cava superior e a veia cava inferior.
+
+
+=== Microanatomia ===
+
+
+As células do nodo SA estão espalhadas dentro de uma malha de tecido conjuntivo, contendo nervos, vasos sanguíneos, colágeno e gordura.
+
+Imediatamente ao redor das células do nodo SA estão as células paranodais.
+
+Essas células possuem estruturas intermediárias entre as células do nó SA e o restante do átrio.
+
+O tecido conjuntivo, juntamente com as células paranodais, isola o nodo SA do restante do átrio, evitando que a atividade elétrica das células atriais afete as células do nodo SA.
+
+As células do nó SA são menores e mais pálidas do que as células atriais circundantes, com a célula média tendo cerca de 8 micrômetros de diâmetro e 20-30 micrômetros de comprimento (1 micrômetro = 0,000001 metro).
+
+Ao contrário das células atriais, as células do nó SA contêm menos mitocôndrias e miofibras, bem como um retículo sarcoplasmático menor.
+
+Isso significa que as células do nó SA estão menos equipadas para se contrair em comparação com as células atriais e ventriculares. Os potenciais de ação passam de uma célula cardíaca para a próxima através de poros conhecidos como junções comunicantes.
+
+Essas junções comunicantes são feitas de proteínas chamadas conexinas.
+
+Há menos junções comunicantes dentro do nó SA e elas são menores em tamanho.
+
+Isso é novamente importante para isolar o nó SA das células atriais circundantes.
+
+
+=== Suprimento sanguíneo ===
+
+O nó sinoatrial recebe seu suprimento sanguíneo da artéria nodal sinoatrial.
+
+Esse suprimento de sangue, no entanto, pode diferir enormemente entre os indivíduos.
+
+Por exemplo, na maioria dos humanos, esta é uma única artéria, embora em alguns casos tenha havido 2 ou 3 artérias do nó sinoatrial que suprem o nó SA.
+
+Além disso, a artéria do nó SA origina-se principalmente como um ramo da artéria coronária direita; no entanto, em alguns indivíduos, surgiu da artéria circunflexa, que é um ramo da artéria coronária esquerda.
+
+Finalmente, a artéria do nó SA comumente passa atrás da veia cava superior, antes de atingir o nó SA; porém em alguns casos passa na frente.
+
+Apesar dessas muitas diferenças, não parece haver nenhuma vantagem em quantas artérias do nodo sinoatrial um indivíduo possui ou onde elas se originam.
+
+
+=== Drenagem venosa ===
+
+Não há grandes veias que drenam o sangue do nó SA.
+
+Em vez disso, vênulas menores drenam o sangue diretamente para o átrio direito.
+
+
+== Função ==
+
+
+
+=== Marcapasso ===
+
+
+O principal papel de uma célula do nó sinoatrial é iniciar potenciais de ação do coração que podem passar pelas células do músculo cardíaco e causar contração.
+
+Um potencial de ação é uma mudança rápida no potencial de membrana, produzida pelo movimento de átomos carregados (íons).
+
+Na ausência de estimulação, as células não marca-passo (incluindo as células ventriculares e atriais) têm um potencial de membrana relativamente constante; isso é conhecido como potencial de repouso.
+
+Esta fase de repouso (ver potencial de ação cardíaco, fase 4) termina quando um potencial de ação atinge a célula.
+
+Isso produz uma mudança positiva no potencial de membrana, conhecida como despolarização, que se propaga por todo o coração e inicia a contração muscular.
+
+As células marcapasso, no entanto, não têm um potencial de repouso.
+
+Em vez disso, imediatamente após a repolarização, o potencial de membrana dessas células começa a se despolarizar novamente automaticamente, um fenômeno conhecido como potencial marcapasso.
+
+Uma vez que o potencial do marcapasso atinge um valor definido, o potencial limiar, ele produz um potencial de ação.
+
+Outras células dentro do coração (incluindo as fibras de Purkinje e o nó atrioventricular) também podem iniciar potenciais de ação; no entanto, eles o fazem em uma taxa mais lenta e, portanto, se o nodo SA estiver funcionando adequadamente, seus potenciais de ação geralmente anulam aqueles que seriam produzidos por outros tecidos. Abaixo estão descritas as 3 fases de um potencial de ação do nodo sinoatrial.
+
+No potencial de ação cardíaco, existem 5 fases (rotuladas 0-4), porém os potenciais de ação do marcapasso não têm uma fase 1 ou 2 óbvia.
+Fase 4
+
+Essa fase também é conhecida como potencial do marcapasso.
+
+Imediatamente após a repolarização, quando o potencial de membrana é muito negativo (está hiperpolarizado), a voltagem começa a aumentar lentamente.
+
+Isso se deve inicialmente ao fechamento dos canais de potássio, o que reduz o fluxo de íons potássio (Ik) para fora da célula (veja a fase 2, abaixo).
+
+A hiperpolarização também causa a ativação de canais ativados por nucleotídeos cíclicos (HCN) ativados por hiperpolarização.
+
+A ativação de canais iônicos em potenciais de membrana muito negativos é incomum, portanto, o fluxo de sódio (Na+) e algum K+ através do canal HCN ativado é referido como uma corrente engraçada (If).
+
+Essa corrente engraçada faz com que o potencial de membrana da célula aumente gradualmente, à medida que a carga positiva (Na+ e K+) está fluindo para dentro da célula.
+
+Outro mecanismo envolvido no potencial do marcapasso é conhecido como relógio de cálcio.
+
+Isso se refere à liberação espontânea de cálcio do retículo sarcoplasmático (um depósito de cálcio) para o citoplasma, também conhecido como faíscas de cálcio.
+
+Esse aumento de cálcio dentro da célula ativa então um trocador sódio-cálcio (NCX), que remove um Ca2+ da célula e o troca por 3 Na+ na célula (removendo, portanto, uma carga de +2 da célula, mas permitindo uma carga de +3 para entrar na célula) aumentando ainda mais o potencial de membrana.
+
+Mais tarde, o cálcio entra novamente na célula via SERCA e canais de cálcio localizados na membrana celular.
+
+O aumento do potencial de membrana produzido por esses mecanismos ativa os canais de cálcio do tipo T e, em seguida, os canais de cálcio do tipo L (que se abrem muito lentamente).
+
+Esses canais permitem um fluxo de Ca2+ para dentro da célula, tornando o potencial de membrana ainda mais positivo.
+Fase 0
+Esta é a fase de despolarização.
+
+Quando o potencial de membrana atinge o potencial limiar (em torno de -20 a -50 mV), a célula começa a despolarizar rapidamente (tornar-se mais positiva).
+
+Isso se deve principalmente ao fluxo de Ca2+ através dos canais de cálcio do tipo L, que agora estão totalmente abertos.
+
+Durante esta fase, os canais de cálcio do tipo T e os canais HCN são desativados.
+Fase 3
+Esta fase é a fase de repolarização.
+
+Isso ocorre devido à inativação dos canais de cálcio do tipo L (impedindo a entrada de Ca2+ na célula) e a ativação dos canais de potássio, o que permite o fluxo de K+ para fora da célula, tornando o potencial de membrana mais negativo.
+
+
+== Suprimento nervoso ==
+
+A frequência cardíaca depende da frequência com que o nó sinoatrial produz potenciais de ação.
+
+Em repouso, a frequência cardíaca está entre 60 e 100 batimentos por minuto.
+
+Isso é resultado da atividade de dois conjuntos de nervos, um agindo para retardar a produção do potencial de ação (estes são os nervos parassimpáticos) e o outro agindo para acelerar a produção do potencial de ação (nervos simpáticos). Os nervos simpáticos começam na região torácica da medula espinhal (em particular T1-T4).
+
+Esses nervos liberam um neurotransmissor chamado noradrenalina (NA).
+
+Este se liga a um receptor na membrana do nodo SA, chamado beta-1adrenoceptor.
+
+A ligação de NA a este receptor ativa uma proteína G (em particular uma proteína Gs, S para estimuladora) que inicia uma série de reações (conhecida como via cAMP) que resulta na produção de uma molécula chamada adenosinamonofosfato cíclico (cAMP) .
+
+Este cAMP liga-se ao canal HCN (ver acima).
+
+A ligação do AMPc ao HCN aumenta o fluxo de Na+ e K+ para dentro da célula, acelerando o potencial do marcapasso, produzindo potenciais de ação em uma frequência mais rápida e aumentando a frequência cardíaca.
+
+Um aumento na frequência cardíaca é conhecido como cronotropia positiva.
+Os nervos parassimpáticos que suprem o nodo SA (em particular os nervos vagos) originam-se no cérebro.
+
+Esses nervos liberam um neurotransmissor chamado acetilcolina (ACh).
+
+A ACh se liga a um receptor chamado receptor muscarínico M2, localizado na membrana do nó SA.
+
+A ativação desse receptor M2 ativa então uma proteína chamada proteína G (em particular a proteína Gi, i para inibitória).
+
+A ativação dessa proteína G bloqueia a via do AMPc, reduzindo seus efeitos, inibindo a atividade simpática e retardando a produção do potencial de ação.
+
+A proteína G também ativa um canal de potássio, que permite que o K+ flua para fora da célula, tornando o potencial de membrana mais negativo e retardando o potencial do marcapasso, diminuindo assim a taxa de produção do potencial de ação e, portanto, diminuindo a frequência cardíaca.
+
+A diminuição da frequência cardíaca é conhecida como cronotropia negativa.
+A primeira célula a produzir o potencial de ação no nodo SA nem sempre é a mesma; isso é conhecido como mudança de marcapasso.
+
+Em certas espécies de animais - por exemplo, em cães - um deslocamento superior (ou seja, a célula que produz o potencial de ação mais rápido no nodo SA é mais alto do que anteriormente) geralmente produz um aumento da frequência cardíaca, enquanto um deslocamento inferior (ou seja, a célula que produz o o potencial de ação mais rápido dentro do nodo SA está mais abaixo do que anteriormente) produz uma diminuição da frequência cardíaca.
+
+
+== Significado clínico ==
+
+A disfunção do nó sinusal é um batimento cardíaco irregular causado por sinais elétricos defeituosos do coração.
+
+Quando o nó sinoatrial do coração está defeituoso, os ritmos do coração tornam-se anormais – normalmente muito lentos ou exibindo pausas em sua função ou uma combinação, e muito raramente mais rápido que o normal. infarto do miocárdio ou doença arterial coronariana progressiva) podem, portanto, causar isquemia e morte celular no nó SA.
+
+Isso pode interromper a função do marcapasso elétrico do nó SA e pode resultar na síndrome do nódulo sinusal.
+Se o nodo SA não funcionar ou o impulso gerado no nodo SA for bloqueado antes de percorrer o sistema de condução elétrica, um grupo de células mais abaixo no coração se tornará seu marcapasso.
+
+
+== História ==
+
+O nó sinoatrial foi descoberto pela primeira vez por um jovem estudante de medicina, Martin Flack, no coração de uma toupeira, enquanto seu mentor, Sir Arthur Keith, estava andando de bicicleta com sua esposa.
+
+Eles fizeram a descoberta em um laboratório improvisado montado em uma casa de fazenda em Kent, Inglaterra, chamada Mann's Place.
+
+Sua descoberta foi publicada em 1907.
+
+
+
+https://en.wikipedia.org/wiki/Sinoatrial_node
+
+;;;FR;;;
+
+
+
+NŒUD SINO-AURICULAIRE
+
+
+Le nœud sino-auriculaire (également connu sous le nom de nœud sinusal, nœud SA ou nœud sinusal) est un groupe de cellules appelées cellules du stimulateur cardiaque, situées dans la paroi de l'oreillette droite du cœur.
+
+Ces cellules peuvent produire une impulsion électrique (potentiel d'action) qui traverse le système de conduction électrique du cœur, provoquant sa contraction.
+
+Dans un cœur sain, le nœud SA produit en continu des potentiels d'action, définissant le rythme du cœur (rythme sinusal), et est donc connu comme le stimulateur cardiaque naturel.
+
+Le taux de potentiels d'action produits (et donc la fréquence cardiaque) est influencé par les nerfs qui l'alimentent.
+
+
+== Structure ==
+
+Le nœud sino-auriculaire est une structure en forme de banane dont la taille varie, généralement entre 10 et 30 millimètres (mm) de long, 5 à 7 mm de large et 1 à 2 mm de profondeur.
+
+
+=== Emplacement ===
+
+Le nœud SA est situé dans la paroi (épicarde) de l'oreillette droite, latéralement à l'entrée de la veine cave supérieure dans une région appelée sinus venarum (donc sino- + auriculaire).
+
+Il est positionné approximativement entre une rainure appelée crista terminalis située sur la surface interne du cœur et le sulcus terminalis correspondant, sur la surface externe.
+
+Ces rainures s'étendent entre l'entrée de la veine cave supérieure et la veine cave inférieure.
+
+
+=== Microanatomie ===
+
+
+Les cellules du nœud SA sont réparties dans un maillage de tissu conjonctif, contenant des nerfs, des vaisseaux sanguins, du collagène et de la graisse.
+
+Immédiatement autour des cellules du nœud SA se trouvent des cellules paranodales.
+
+Ces cellules ont des structures intermédiaires entre celle des cellules du nœud SA et le reste de l'oreillette.
+
+Le tissu conjonctif, ainsi que les cellules paranodales, isolent le nœud SA du reste de l'oreillette, empêchant l'activité électrique des cellules auriculaires d'affecter les cellules du nœud SA.
+
+Les cellules du nœud SA sont plus petites et plus pâles que les cellules auriculaires environnantes, la cellule moyenne mesurant environ 8 micromètres de diamètre et 20 à 30 micromètres de longueur (1 micromètre = 0,000001 mètre).
+
+Contrairement aux cellules auriculaires, les cellules du nœud SA contiennent moins de mitochondries et de myofibres, ainsi qu'un réticulum sarcoplasmique plus petit.
+
+Cela signifie que les cellules du nœud SA sont moins équipées pour se contracter que les cellules auriculaires et ventriculaires. Les potentiels d'action passent d'une cellule cardiaque à l'autre à travers des pores appelés jonctions lacunaires.
+
+Ces jonctions lacunaires sont constituées de protéines appelées connexines.
+
+Il y a moins de jonctions lacunaires dans le nœud SA et elles sont de plus petite taille.
+
+Ceci est à nouveau important pour isoler le nœud SA des cellules auriculaires environnantes.
+
+
+=== Approvisionnement en sang ===
+
+Le nœud sino-auriculaire reçoit son apport sanguin de l'artère nodale sino-auriculaire.
+
+Cet approvisionnement en sang, cependant, peut différer énormément entre les individus.
+
+Par exemple, chez la plupart des humains, il s'agit d'une seule artère, bien que dans certains cas, il y ait eu 2 ou 3 artères du nœud sino-auriculaire alimentant le nœud SA.
+
+En outre, l'artère du nœud SA provient principalement d'une branche de l'artère coronaire droite ; cependant, chez certains individus, il est né de l'artère circonflexe, qui est une branche de l'artère coronaire gauche.
+
+Enfin, l'artère du nœud SA passe couramment derrière la veine cave supérieure, avant d'atteindre le nœud SA ; cependant, dans certains cas, il passe devant.
+
+Malgré ces nombreuses différences, il ne semble pas y avoir d'avantage au nombre d'artères nodales sino-auriculaires d'un individu, ni à leur origine.
+
+
+=== Drainage veineux ===
+
+Il n'y a pas de grosses veines qui drainent le sang du nœud SA.
+
+Au lieu de cela, des veinules plus petites drainent le sang directement dans l'oreillette droite.
+
+
+== Fonction ==
+
+
+
+=== Pacemaking ===
+
+
+Le rôle principal d'une cellule du nœud sino-auriculaire est d'initier des potentiels d'action du cœur qui peuvent traverser les cellules du muscle cardiaque et provoquer une contraction.
+
+Un potentiel d'action est un changement rapide du potentiel de membrane, produit par le mouvement d'atomes chargés (ions).
+
+En l'absence de stimulation, les cellules non stimulateurs cardiaques (y compris les cellules ventriculaires et auriculaires) ont un potentiel de membrane relativement constant ; c'est ce qu'on appelle un potentiel de repos.
+
+Cette phase de repos (voir potentiel d'action cardiaque, phase 4) se termine lorsqu'un potentiel d'action atteint la cellule.
+
+Cela produit un changement positif du potentiel de membrane, connu sous le nom de dépolarisation, qui se propage dans tout le cœur et déclenche la contraction musculaire.
+
+Les cellules de stimulateur cardiaque, cependant, n'ont pas de potentiel de repos.
+
+Au lieu de cela, immédiatement après la repolarisation, le potentiel de membrane de ces cellules recommence à se dépolariser automatiquement, un phénomène connu sous le nom de potentiel de stimulateur cardiaque.
+
+Une fois que le potentiel du stimulateur cardiaque atteint une valeur définie, le potentiel de seuil, il produit un potentiel d'action.
+
+D'autres cellules du cœur (y compris les fibres de Purkinje et le nœud auriculo-ventriculaire) peuvent également initier des potentiels d'action ; cependant, ils le font à un rythme plus lent et, par conséquent, si le nœud SA fonctionne correctement, ses potentiels d'action remplacent généralement ceux qui seraient produits par d'autres tissus. Les 3 phases d'un potentiel d'action du nœud sino-auriculaire sont décrites ci-dessous.
+
+Dans le potentiel d'action cardiaque, il y a 5 phases (marquées de 0 à 4), mais les potentiels d'action du stimulateur cardiaque n'ont pas de phase 1 ou 2 évidente.
+Phase 4
+
+Cette phase est également connue sous le nom de potentiel de stimulateur cardiaque.
+
+Immédiatement après la repolarisation, lorsque le potentiel de membrane est très négatif (il est hyperpolarisé), la tension commence lentement à augmenter.
+
+Cela est initialement dû à la fermeture des canaux potassiques, ce qui réduit le flux d'ions potassium (Ik) hors de la cellule (voir phase 2, ci-dessous).
+
+L'hyperpolarisation provoque également l'activation des canaux nucléotidiques cycliques activés par l'hyperpolarisation (HCN).
+
+L'activation des canaux ioniques à des potentiels membranaires très négatifs est inhabituelle, c'est pourquoi le flux de sodium (Na +) et de K + à travers le canal HCN activé est appelé un courant drôle (If).
+
+Ce drôle de courant fait augmenter progressivement le potentiel de membrane de la cellule, à mesure que la charge positive (Na+ et K+) circule dans la cellule.
+
+Un autre mécanisme impliqué dans le potentiel du stimulateur cardiaque est connu sous le nom d'horloge calcique.
+
+Cela fait référence à la libération spontanée de calcium du réticulum sarcoplasmique (un réservoir de calcium) dans le cytoplasme, également connu sous le nom d'étincelles de calcium.
+
+Cette augmentation de calcium au sein de la cellule active alors un échangeur sodium-calcium (NCX), qui enlève un Ca2+ de la cellule, et l'échange contre 3 Na+ dans la cellule (enlevant donc une charge de +2 à la cellule, mais permettant une charge de +3 pour entrer dans la cellule) augmentant encore le potentiel de membrane.
+
+Le calcium rentre plus tard dans la cellule via SERCA et les canaux calciques situés sur la membrane cellulaire.
+
+L'augmentation du potentiel membranaire produite par ces mécanismes, active les canaux calciques de type T puis les canaux calciques de type L (qui s'ouvrent très lentement).
+
+Ces canaux permettent un flux de Ca2+ dans la cellule, rendant le potentiel membranaire encore plus positif.
+Phase 0
+C'est la phase de dépolarisation.
+
+Lorsque le potentiel de membrane atteint le potentiel seuil (environ -20 à -50 mV), la cellule commence à se dépolariser rapidement (devenir plus positive).
+
+Cela est principalement dû au flux de Ca2+ à travers les canaux calciques de type L, qui sont maintenant complètement ouverts.
+
+Au cours de cette étape, les canaux calciques de type T et les canaux HCN se désactivent.
+Phase 3
+Cette phase est la phase de repolarisation.
+
+Cela se produit en raison de l'inactivation des canaux calciques de type L (empêchant le mouvement du Ca2+ dans la cellule) et de l'activation des canaux potassiques, qui permet le flux de K+ hors de la cellule, rendant le potentiel membranaire plus négatif.
+
+
+== Innervation ==
+
+La fréquence cardiaque dépend de la vitesse à laquelle le nœud sino-auriculaire produit des potentiels d'action.
+
+Au repos, la fréquence cardiaque est comprise entre 60 et 100 battements par minute.
+
+Ceci est le résultat de l'activité de deux ensembles de nerfs, l'un agissant pour ralentir la production du potentiel d'action (ce sont les nerfs parasympathiques) et l'autre agissant pour accélérer la production du potentiel d'action (nerfs sympathiques). Les nerfs sympathiques commencent dans la région thoracique. de la moelle épinière (en particulier T1-T4).
+
+Ces nerfs libèrent un neurotransmetteur appelé noradrénaline (NA).
+
+Celui-ci se lie à un récepteur sur la membrane du nœud SA, appelé récepteur bêta-1adrénergique.
+
+La liaison de NA à ce récepteur active une protéine G (en particulier une Gs-Protein, S pour stimulatory) qui initie une série de réactions (appelée voie cAMP) qui aboutit à la production d'une molécule appelée adénosine monophosphate cyclique (cAMP) .
+
+Cet AMPc se lie au canal HCN (voir ci-dessus).
+
+La liaison de l'AMPc au HCN augmente le flux de Na + et de K + dans la cellule, accélérant le potentiel du stimulateur cardiaque, produisant ainsi des potentiels d'action à un rythme plus rapide et augmentant la fréquence cardiaque.
+
+Une augmentation de la fréquence cardiaque est connue sous le nom de chronotropie positive.
+Les nerfs parasympathiques alimentant le nœud SA (en particulier les nerfs vagues) proviennent du cerveau.
+
+Ces nerfs libèrent un neurotransmetteur appelé acétylcholine (ACh).
+
+L'ACh se lie à un récepteur appelé récepteur muscarinique M2, situé sur la membrane du nœud SA.
+
+L'activation de ce récepteur M2 active alors une protéine appelée protéine G (notamment protéine Gi, i pour inhibitrice).
+
+L'activation de cette protéine G bloque la voie de l'AMPc, réduisant ses effets, inhibant ainsi l'activité sympathique et ralentissant la production du potentiel d'action.
+
+La protéine G active également un canal potassique, qui permet au K+ de s'écouler hors de la cellule, rendant le potentiel de membrane plus négatif et ralentissant le potentiel du stimulateur cardiaque, diminuant ainsi le taux de production du potentiel d'action et donc la fréquence cardiaque.
+
+Une diminution de la fréquence cardiaque est connue sous le nom de chronotropie négative.
+La première cellule à produire le potentiel d'action dans le nœud SA n'est pas toujours la même ; c'est ce qu'on appelle le changement de stimulateur cardiaque.
+
+Chez certaines espèces d'animaux, par exemple chez les chiens, un décalage supérieur (c'est-à-dire que la cellule qui produit le potentiel d'action le plus rapide dans le nœud SA est plus élevé qu'auparavant) produit généralement une augmentation de la fréquence cardiaque, tandis qu'un décalage inférieur (c'est-à-dire que la cellule produisant le potentiel d'action le plus rapide dans le nœud SA est plus bas qu'auparavant) produit une diminution de la fréquence cardiaque.
+
+
+== Signification clinique ==
+
+Le dysfonctionnement du nœud sinusal est un rythme cardiaque irrégulier causé par des signaux électriques défectueux du cœur.
+
+Lorsque le nœud sino-auriculaire du cœur est défectueux, les rythmes cardiaques deviennent anormaux, généralement trop lents ou présentant des pauses dans sa fonction ou une combinaison, et très rarement plus rapides que la normale. Blocage de l'apport sanguin artériel au nœud SA (le plus souvent dû à une infarctus du myocarde ou maladie coronarienne progressive) peut donc provoquer une ischémie et la mort cellulaire dans le nœud SA.
+
+Cela peut perturber la fonction de stimulateur électrique du nœud SA et peut entraîner un syndrome du sinus malade.
+Si le nœud SA ne fonctionne pas ou si l'impulsion générée dans le nœud SA est bloquée avant qu'elle ne parcoure le système de conduction électrique, un groupe de cellules plus bas dans le cœur deviendra son stimulateur cardiaque.
+
+
+== Historique ==
+
+Le nœud sino-auriculaire a été découvert pour la première fois par un jeune étudiant en médecine, Martin Flack, au cœur d'une taupe, alors que son mentor, Sir Arthur Keith, faisait une balade à vélo avec sa femme.
+
+Ils ont fait la découverte dans un laboratoire de fortune installé dans une ferme du Kent, en Angleterre, appelée Mann's Place.
+
+Leur découverte a été publiée en 1907.
+
+
+
+https://en.wikipedia.org/wiki/Sinoatrial_node

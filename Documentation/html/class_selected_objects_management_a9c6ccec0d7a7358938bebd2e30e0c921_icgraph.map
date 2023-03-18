@@ -1,0 +1,8 @@
+<map id="SelectedObjectsManagement.CheckLabelsVisibility" name="SelectedObjectsManagement.CheckLabelsVisibility">
+<area shape="rect" id="node1" title="Checks the visibility of labels for all the active objects, and hides them if there is more than one ..." alt="" coords="495,61,692,101"/>
+<area shape="rect" id="node2" href="$class_hierarchy_button.html#a0906c341355a0461c23265da273e6e80" title=" " alt="" coords="256,15,421,41"/>
+<area shape="rect" id="node4" href="$class_bonus_collections.html#a4f18fdd0b2d21d6bcb40c99a120f10f1" title=" " alt="" coords="231,69,447,94"/>
+<area shape="rect" id="node6" href="$class_selected_objects_management.html#a91bae1160eb4529889e6477e3ea029ba" title=" " alt="" coords="240,119,437,159"/>
+<area shape="rect" id="node3" href="$class_hierarchy_button.html#a1120572edd81dea744858740db7b707f" title=" " alt="" coords="5,5,183,45"/>
+<area shape="rect" id="node5" href="$class_bonus_collection_item.html#acf23cc61e3608a0a5fb56cc7d6aa980f" title=" " alt="" coords="7,70,181,95"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="NameAndDescription.SetDescription" name="NameAndDescription.SetDescription">
+<area shape="rect" id="node1" title="Sets the description of the game object by fetching it from the database." alt="" coords="5,42,239,67"/>
+<area shape="rect" id="node2" href="$class_read_d_b.html#a46129f2273a3bfd9b55d6908eaffe227" title=" " alt="" coords="287,42,447,67"/>
+<area shape="rect" id="node3" href="$class_names_management.html#a8626683bcb15ae246761c32e0e2d871a" title=" " alt="" coords="495,5,717,45"/>
+<area shape="rect" id="node4" href="$class_names_management.html#a187bea184db6fba1986089b5f2740806" title=" " alt="" coords="510,70,702,95"/>
+<area shape="rect" id="node5" href="$class_names_management.html#aefcfe541cea7196d510da01b57769586" title=" " alt="" coords="765,63,1016,103"/>
+<area shape="rect" id="node6" href="$class_highlight_text.html#ad3eb806f90582a81e06d0399850b79d0" title=" " alt="" coords="1064,70,1219,95"/>
+</map>

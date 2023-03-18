@@ -1,0 +1,4 @@
+<map id="CameraController.CenterRotation" name="CameraController.CenterRotation">
+<area shape="rect" id="node1" title="Centers the camera&#39;s rotation on the given label&#39;s line direction." alt="" coords="5,13,217,38"/>
+<area shape="rect" id="node2" href="$class_camera_controller.html#ad6368b486df330594afecf0cb2970b84" title="Initiates a coroutine to smoothly rotate the camera to a given orientation." alt="" coords="265,5,456,45"/>
+</map>

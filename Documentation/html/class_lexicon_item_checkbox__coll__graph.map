@@ -1,0 +1,9 @@
+<map id="LexiconItemCheckbox" name="LexiconItemCheckbox">
+<area shape="rect" id="node1" title=" " alt="" coords="219,168,369,193"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,116,105"/>
+<area shape="rect" id="node3" title=" " alt="" coords="141,80,282,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="307,80,449,105"/>
+<area shape="rect" id="node5" href="$class_button_sprite_swap.html" title=" " alt="" coords="473,80,600,105"/>
+<area shape="rect" id="node6" title=" " alt="" coords="445,5,505,31"/>
+<area shape="rect" id="node7" title=" " alt="" coords="530,5,669,31"/>
+</map>

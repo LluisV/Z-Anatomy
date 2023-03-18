@@ -1,0 +1,17 @@
+<map id="LexiconElement" name="LexiconElement">
+<area shape="rect" id="node1" title=" " alt="" coords="681,280,796,305"/>
+<area shape="rect" id="node15" href="$class_body_part_visibility.html" title="This class manages the visibility of objects in the scene. It contains methods to find insertions,..." alt="" coords="937,443,1063,468"/>
+<area shape="rect" id="node2" title=" " alt="" coords="209,396,320,421"/>
+<area shape="rect" id="node3" href="$class_lexicon_item_expand_btn.html" title=" " alt="" coords="407,207,563,232"/>
+<area shape="rect" id="node6" href="$class_expand_collapse_u_i.html" title=" " alt="" coords="421,347,549,372"/>
+<area shape="rect" id="node7" href="$class_name_and_description.html" title="This class is used to handle the name and description of a game object. It contains variables for sto..." alt="" coords="413,396,557,421"/>
+<area shape="rect" id="node8" href="$class_lexicon_item_checkbox.html" title=" " alt="" coords="409,140,560,165"/>
+<area shape="rect" id="node12" href="$class_label.html" title="Represents a label in 3D space. Updates its color based on its position and handles its selection." alt="" coords="1408,493,1461,519"/>
+<area shape="rect" id="node13" href="$class_line.html" title=" " alt="" coords="599,625,645,651"/>
+<area shape="rect" id="node14" href="$class_tangible_body_part.html" title="Represents a body part in a 3D model. Provides methods for handling selection, highlighting,..." alt="" coords="1195,477,1319,503"/>
+<area shape="rect" id="node4" title=" " alt="" coords="194,173,335,199"/>
+<area shape="rect" id="node5" title=" " alt="" coords="193,84,336,109"/>
+<area shape="rect" id="node9" href="$class_button_sprite_swap.html" title=" " alt="" coords="201,29,328,55"/>
+<area shape="rect" id="node10" title=" " alt="" coords="45,5,105,31"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,55,144,80"/>
+</map>

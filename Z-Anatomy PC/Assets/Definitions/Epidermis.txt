@@ -1,0 +1,912 @@
+
+
+EPIDERMIS
+
+
+The epidermis is the outermost of the three layers that comprise the skin, the inner layers being the dermis and hypodermis. 
+
+The epidermis layer provides a barrier to infection from environmental pathogens and regulates the amount of water released from the body into the atmosphere through transepidermal water loss.The epidermis is composed of multiple layers of flattened cells that overlie a base layer (stratum basale) composed of columnar cells arranged perpendicularly. 
+
+The layers of cells develop from stem cells in the basal layer. 
+
+The human epidermis is a familiar example of epithelium, particularly a stratified squamous epithelium
+The word epidermis is derived through Latin from Ancient Greek epidermis, itself from Ancient Greek epi 'over, upon' and from Ancient Greek derma 'skin'. 
+
+Something related to or part of the epidermis is termed epidermal.
+
+
+== Structure ==
+
+
+
+=== Cellular components ===
+
+The epidermis primarily consists of keratinocytes (proliferating basal and differentiated suprabasal), which comprise 90% of its cells, but also contains melanocytes, Langerhans cells, Merkel cells,: 2–3  and inflammatory cells. 
+
+Epidermal thickenings called Rete ridges (or rete pegs) extend downward between dermal papillae.Blood capillaries are found beneath the epidermis, and are linked to an arteriole and a venule.
+The epidermis itself has no blood supply and is nourished almost exclusively by diffused oxygen from the surrounding air. 
+
+Cellular mechanisms for regulating water and sodium levels (ENaCs) are found in all layers of the epidermis.
+
+
+=== Cell junctions ===
+
+Epidermal cells are tightly interconnected to serve as a tight barrier against the exterior environment. 
+
+The junctions between the epidermal cells are of the adherens junction type, formed by transmembrane proteins called cadherins. 
+
+Inside the cell, the cadherins are linked to actin filaments. 
+
+In immunofluorescence microscopy, the actin filament network appears as a thick border surrounding the cells, although the actin filaments are actually located inside the cell and run parallel to the cell membrane. 
+
+Because of the proximity of the neighboring cells and tightness of the junctions, the actin immunofluorescence appears as a border between cells.
+
+
+=== Layers ===
+
+
+The epidermis is composed of 4 or 5 layers, depending on the region of skin being considered. 
+
+Those layers in descending order are:
+cornified layer (stratum corneum)
+Composed of 10 to 30 layers of polyhedral, anucleated corneocytes (final step of keratinocyte differentiation), with the palms and soles having the most layers. 
+
+Corneocytes contain a protein envelope (cornified envelope proteins) underneath the plasma membrane, are filled with water-retaining keratin proteins, attached together through corneodesmosomes and surrounded in the extracellular space by stacked layers of lipids. 
+
+Most of the barrier functions of the epidermis localize to this layer.
+clear/translucent layer (stratum lucidum, only in palms and soles)
+This narrow layer is found only on the palms and soles. 
+
+The epidermis of these two areas is known as "thick skin" because with this extra layer, the skin has 5 epidermal layers instead of 4.
+granular layer (stratum granulosum)
+Keratinocytes lose their nuclei and their cytoplasm appears granular. 
+
+Lipids, contained into those keratinocytes within lamellar bodies, are released into the extracellular space through exocytosis to form a lipid barrier. 
+
+Those polar lipids are then converted into non-polar lipids and arranged parallel to the cell surface. 
+
+For example glycosphingolipids become ceramides and phospholipids become free fatty acids.
+spinous layer (stratum spinosum)
+Keratinocytes become connected through desmosomes and produce lamellar bodies, from within the Golgi, enriched in polar lipids, glycosphingolipids, free sterols, phospholipids and catabolic enzymes. 
+
+Langerhans cells, immunologically active cells, are located in the middle of this layer.
+basal/germinal layer (stratum basale/germinativum)
+Composed mainly of proliferating and non-proliferating keratinocytes, attached to the basement membrane by hemidesmosomes. 
+
+Melanocytes are present, connected to numerous keratinocytes in this and other strata through dendrites. 
+
+Merkel cells are also found in the stratum basale with large numbers in touch-sensitive sites such as the fingertips and lips. 
+
+They are closely associated with cutaneous nerves and seem to be involved in light touch sensation.
+Malpighian layer (stratum malpighi)
+This is both the stratum basale and stratum spinosum.The epidermis is separated from the dermis, its underlying tissue, by a basement membrane.
+
+
+=== Cellular kinetics ===
+
+
+
+==== Cell division ====
+As a stratified squamous epithelium, the epidermis is maintained by cell division within the stratum basale. 
+
+Differentiating cells delaminate from the basement membrane and are displaced outward through the epidermal layers, undergoing multiple stages of differentiation until, in the stratum corneum, losing their nucleus and fusing to squamous sheets, which are eventually shed from the surface (desquamation). 
+
+Differentiated keratinocytes secrete keratin proteins, which contribute to the formation of an extracellular matrix that is an integral part of the skin barrier function. 
+
+In normal skin, the rate of keratinocyte production equals the rate of loss, taking about two weeks for a cell to journey from the stratum basale to the top of the stratum granulosum, and an additional four weeks to cross the stratum corneum. 
+
+The entire epidermis is replaced by new cell growth over a period of about 48 days.
+
+
+==== Calcium concentration ====
+Keratinocyte differentiation throughout the epidermis is in part mediated by a calcium gradient, increasing from the stratum basale until the outer stratum granulosum, where it reaches its maximum, and decreasing in the stratum corneum. 
+
+Calcium concentration in the stratum corneum is very low in part because those relatively dry cells are not able to dissolve the ions. 
+
+This calcium gradient parallels keratinocyte differentiation and as such is considered a key regulator in the formation of the epidermal layers.Elevation of extracellular calcium concentrations induces an increase in intracellular free calcium concentrations. 
+
+Part of that intracellular increase comes from calcium released from intracellular stores and another part comes from transmembrane calcium influx, through both calcium-sensitive chloride channels and voltage-independent cation channels permeable to calcium. 
+
+Moreover, it has been suggested that an extracellular calcium-sensing receptor (CaSR) also contributes to the rise in intracellular calcium concentration.
+
+
+=== Development ===
+
+Epidermal organogenesis, the formation of the epidermis, begins in the cells covering the embryo after neurulation, the formation of the central nervous system. 
+
+In most vertebrates, this original one-layered structure quickly transforms into a two-layered tissue; a temporary outer layer, the periderm, which is disposed once the inner basal layer or stratum germinativum has formed.This inner layer is a germinal epithelium that gives rise to all epidermal cells. 
+
+It divides to form the outer spinous layer (stratum spinosum). 
+
+The cells of these two layers, together called the Malpighian layer(s) after Marcello Malpighi, divide to form the superficial granular layer (Stratum granulosum) of the epidermis.The cells in the stratum granulosum do not divide, but instead form skin cells called keratinocytes from the granules of keratin. 
+
+These skin cells finally become the cornified layer (stratum corneum), the outermost epidermal layer, where the cells become flattened sacks with their nuclei located at one end of the cell. 
+
+After birth these outermost cells are replaced by new cells from the stratum granulosum and throughout life they are shed at a rate of 0.001 - 0.003 ounces of skin flakes every hour, or 0.024-0.072 ounces per day.Epidermal development is a product of several growth factors, two of which are:
+Transforming growth factor Alpha (TGFα) is an autocrine growth factor by which basal cells stimulate their own division.
+Keratinocyte growth factor (KGF or FGF7) is a paracrine growth factor produced by the underlying dermal fibroblasts in which the proliferation of basal cells is regulated.
+
+
+== Function ==
+
+Introduction
+Skin is the largest organ in the body and covers the body's entire external surface. 
+
+It is made up of three layers, the epidermis, dermis, and the hypodermis, all three of which vary significantly in their anatomy and function. 
+
+The skin's structure is made up of an intricate network which serves as the body’s initial barrier against pathogens, UV light, and chemicals, and mechanical injury. 
+
+It also regulates temperature and the amount of water released into the environment. 
+
+This article discusses the relevant anatomical structures of the skin’s epidermal layer, its structure, function, embryology, vascular supply, innervation, surgical considerations, and clinical relevance.
+Skin Thickness
+The thickness of each layer of the skin varies depending on body region and categorized based on the thickness of the epidermal and dermal layers. 
+
+Hairless skin found in the palms of the hands and soles of the feet is thickest because the epidermis contains an extra layer, the stratum lucidum. 
+
+The upper back is considered thickest based on the thickness of the dermis, but it is considered “thin skin” histologically because the epidermal thickness lacks the stratum lucidum layer and is thinner than hairless skin.
+Layers of Epidermis
+The layers of the epidermis include the stratum basale (the deepest portion of the epidermis), stratum spinosum, stratum granulosum, stratum lucidum, and stratum corneum (the most superficial portion of the epidermis).
+Stratum basale, also known as stratum germinativum, is the deepest layer, separated from the dermis by the basement membrane (basal lamina) and attached to the basement membrane by hemidesmosomes. 
+
+The cells found in this layer are cuboidal to columnar mitotically active stem cells that are constantly producing keratinocytes. 
+
+This layer also contains melanocytes.
+Stratum spinosum, 8-10 cell layers, also known as the prickle cell layer contains irregular, polyhedral cells with cytoplasmic processes, sometimes called “spines”, that extend outward and contact neighboring cells by desmosomes. 
+
+Dendritic cells can be found in this layer.
+Stratum granulosum, 3-5 cell layers, contains diamond shaped cells with keratohyalin granules and lamellar granules. 
+
+Keratohyalin granules contain keratin precursors that eventually aggregate, crosslink, and form bundles. 
+
+The lamellar granules contain the glycolipids that get secreted to the surface of the cells and function as a glue, keeping the cells stuck together.
+Stratum lucidum, 2-3 cell layers, present in thicker skin found in the palms and soles, is a thin clear layer consisting of eleidin which is a transformation product of keratohyalin.
+Stratum corneum, 20-30 cell layers, is the uppermost layer, made up of keratin and horny scales made up of dead keratinocytes, known as anucleate squamous cells. 
+
+This is the layer which varies most in thickness, especially in callused skin. 
+
+Within this layer, the dead keratinocytes secrete defensins which are part of our first immune defense.
+Cells of the Epidermis
+Keratinocytes
+Melanocytes
+Langerhans’ cells
+Merkel’s cell
+
+
+=== Skin hydration ===
+
+The ability of the skin to hold water is primarily due to the stratum corneum and is critical for maintaining healthy skin. 
+
+Skin hydration is quantified using corneometry. 
+
+Lipids arranged through a gradient and in an organized manner between the cells of the stratum corneum form a barrier to transepidermal water loss.
+
+
+=== Skin color ===
+
+The amount and distribution of melanin pigment in the epidermis is the main reason for variation in skin color in Homo sapiens. 
+
+Melanin is found in the small melanosomes, particles formed in melanocytes from where they are transferred to the surrounding keratinocytes. 
+
+The size, number, and arrangement of the melanosomes vary between racial groups, but while the number of melanocytes can vary between different body regions, their numbers remain the same in individual body regions in all human beings. 
+
+In white and Asian skin the melanosomes are packed in "aggregates", but in black skin they are larger and distributed more evenly. 
+
+The number of melanosomes in the keratinocytes increases with UV radiation exposure, while their distribution remain largely unaffected.
+
+
+== Clinical significance ==
+
+
+Laboratory culture of keratinocytes to form a 3D structure (artificial skin) recapitulating most of the properties of the epidermis is routinely used as a tool for drug development and testing.
+
+
+=== Hyperplasia ===
+
+Epidermal hyperplasia (thickening resulting from cell proliferation) has various forms:
+
+Acanthosis is diffuse epidermal hyperplasia (thickening of the skin, and not to be confused with acanthocytes). 
+
+It implies increased thickness of the Malpighian layer (stratum basale and stratum spinosum). 
+
+Acanthosis nigricans is a black, poorly defined, velvety hyperpigmented acanthosis, usually observed in the back of neck, axilla, and other folded regions of the skin.
+Focal epithelial hyperplasia (Heck's disease) is an asymptomatic, benign neoplastic condition characterized by multiple white to pinkish papules that occur diffusely in the oral cavity.: 411 
+Pseudoepitheliomatous hyperplasia (PEH) is a benign condition characterized by hyperplasia of the epidermis and epithelium of skin appendages, with irregular squamous strands extending down into the dermis, and closely simulating squamous cell carcinoma (SCC).
+		
+		
+		
+In contract, hyperkeratosis is a thickening of the stratum corneum, and is not necessarily due to hyperplasia.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Epidermis
+;;;ES;;;
+
+
+
+EPIDERMIS
+
+
+La epidermis es la más externa de las tres capas que componen la piel, siendo las capas internas la dermis y la hipodermis.
+
+La capa de la epidermis proporciona una barrera contra la infección por patógenos ambientales y regula la cantidad de agua liberada del cuerpo a la atmósfera a través de la pérdida transepidérmica de agua. La epidermis está compuesta por múltiples capas de células aplanadas que recubren una capa base (estrato basal) compuesta por Células columnares dispuestas perpendicularmente.
+
+Las capas de células se desarrollan a partir de células madre en la capa basal.
+
+La epidermis humana es un ejemplo familiar de epitelio, particularmente un epitelio escamoso estratificado.
+La palabra epidermis se deriva a través del latín del griego antiguo epidermis, del griego antiguo epi 'sobre' y del griego antiguo derma 'piel'.
+
+Algo relacionado con o parte de la epidermis se denomina epidérmico.
+
+
+== Estructura ==
+
+
+
+=== Componentes celulares ===
+
+La epidermis se compone principalmente de queratinocitos (basales proliferantes y suprabasales diferenciados), que comprenden el 90% de sus células, pero también contiene melanocitos, células de Langerhans, células de Merkel: 2–3 y células inflamatorias.
+
+Los engrosamientos epidérmicos llamados crestas de Rete (o clavijas de Rete) se extienden hacia abajo entre las papilas dérmicas. Los capilares sanguíneos se encuentran debajo de la epidermis y están vinculados a una arteriola y una vénula.
+La epidermis en sí no tiene irrigación sanguínea y se nutre casi exclusivamente del oxígeno difundido del aire circundante.
+
+Los mecanismos celulares para regular los niveles de agua y sodio (ENaC) se encuentran en todas las capas de la epidermis.
+
+
+=== Uniones celulares ===
+
+Las células epidérmicas están estrechamente interconectadas para servir como una barrera hermética contra el entorno exterior.
+
+Las uniones entre las células epidérmicas son del tipo unión adherente, formada por proteínas transmembrana denominadas cadherinas.
+
+Dentro de la célula, las cadherinas están unidas a los filamentos de actina.
+
+En la microscopía de inmunofluorescencia, la red de filamentos de actina aparece como un borde grueso que rodea las células, aunque los filamentos de actina en realidad están ubicados dentro de la célula y corren paralelos a la membrana celular.
+
+Debido a la proximidad de las células vecinas y la estrechez de las uniones, la inmunofluorescencia de actina aparece como un borde entre las células.
+
+
+=== Capas ===
+
+
+La epidermis se compone de 4 o 5 capas, dependiendo de la región de la piel que se considere.
+
+Esas capas en orden descendente son:
+capa cornificada (estrato córneo)
+Compuesto de 10 a 30 capas de corneocitos anucleados poliédricos (paso final de la diferenciación de queratinocitos), con las palmas y las plantas que tienen la mayor cantidad de capas.
+
+Los corneocitos contienen una envoltura de proteína (proteínas de envoltura cornificada) debajo de la membrana plasmática, están llenos de proteínas de queratina que retienen agua, se unen a través de corneodesmosomas y están rodeados en el espacio extracelular por capas apiladas de lípidos.
+
+La mayoría de las funciones de barrera de la epidermis se localizan en esta capa.
+capa clara/translúcida (stratum lucidum, solo en palmas y plantas)
+Esta capa estrecha se encuentra solo en las palmas de las manos y las plantas de los pies.
+
+La epidermis de estas dos zonas se conoce como "piel gruesa" porque con esta capa extra, la piel tiene 5 capas epidérmicas en lugar de 4.
+capa granular (estrato granuloso)
+Los queratinocitos pierden sus núcleos y su citoplasma aparece granular.
+
+Los lípidos, contenidos en esos queratinocitos dentro de los cuerpos laminares, se liberan al espacio extracelular a través de la exocitosis para formar una barrera lipídica.
+
+Esos lípidos polares luego se convierten en lípidos no polares y se organizan paralelos a la superficie celular.
+
+Por ejemplo, los glicoesfingolípidos se convierten en ceramidas y los fosfolípidos en ácidos grasos libres.
+capa espinosa (estrato espinoso)
+Los queratinocitos se conectan a través de los desmosomas y producen cuerpos laminares, desde el Golgi, enriquecidos en lípidos polares, glicoesfingolípidos, esteroles libres, fosfolípidos y enzimas catabólicas.
+
+Las células de Langerhans, células inmunológicamente activas, se encuentran en el medio de esta capa.
+capa basal/germinal (stratum basale/germinativum)
+Compuesto principalmente por queratinocitos proliferantes y no proliferativos, unidos a la membrana basal por hemidesmosomas.
+
+Los melanocitos están presentes, conectados a numerosos queratinocitos en este y otros estratos a través de las dendritas.
+
+Las células de Merkel también se encuentran en el estrato basal con un gran número en sitios sensibles al tacto, como las yemas de los dedos y los labios.
+
+Están estrechamente asociados con los nervios cutáneos y parecen estar involucrados en la sensación del tacto ligero.
+Capa de Malpighi (estrato malpighi)
+Este es tanto el estrato basal como el estrato espinoso. La epidermis está separada de la dermis, su tejido subyacente, por una membrana basal.
+
+
+=== Cinética celular ===
+
+
+
+==== División celular ====
+Como epitelio escamoso estratificado, la epidermis se mantiene mediante la división celular dentro del estrato basal.
+
+Las células en diferenciación se desprenden de la membrana basal y se desplazan hacia el exterior a través de las capas epidérmicas, experimentando múltiples etapas de diferenciación hasta que, en el estrato córneo, pierden su núcleo y se fusionan en láminas escamosas, que finalmente se desprenden de la superficie (descamación).
+
+Los queratinocitos diferenciados secretan proteínas de queratina, que contribuyen a la formación de una matriz extracelular que es parte integral de la función de barrera de la piel.
+
+En la piel normal, la tasa de producción de queratinocitos es igual a la tasa de pérdida, y una célula tarda aproximadamente dos semanas en viajar desde el estrato basal hasta la parte superior del estrato granuloso, y cuatro semanas adicionales para cruzar el estrato córneo.
+
+Toda la epidermis se reemplaza por el crecimiento de nuevas células durante un período de aproximadamente 48 días.
+
+
+==== Concentración de calcio ====
+La diferenciación de queratinocitos en toda la epidermis está mediada en parte por un gradiente de calcio, que aumenta desde el estrato basal hasta el estrato granuloso externo, donde alcanza su máximo, y disminuye en el estrato córneo.
+
+La concentración de calcio en el estrato córneo es muy baja, en parte porque esas células relativamente secas no pueden disolver los iones.
+
+Este gradiente de calcio es paralelo a la diferenciación de los queratinocitos y, como tal, se considera un regulador clave en la formación de las capas epidérmicas. La elevación de las concentraciones de calcio extracelular induce un aumento de las concentraciones de calcio libre intracelular.
+
+Parte de ese aumento intracelular proviene del calcio liberado de las reservas intracelulares y otra parte proviene del flujo de entrada de calcio transmembrana, a través de canales de cloruro sensibles al calcio y canales de cationes independientes del voltaje permeables al calcio.
+
+Además, se ha sugerido que un receptor sensor de calcio extracelular (CaSR) también contribuye al aumento de la concentración de calcio intracelular.
+
+
+=== Desarrollo ===
+
+La organogénesis epidérmica, la formación de la epidermis, comienza en las células que recubren al embrión después de la neurulación, la formación del sistema nervioso central.
+
+En la mayoría de los vertebrados, esta estructura original de una capa se transforma rápidamente en un tejido de dos capas; una capa externa temporal, la periderma, que se desecha una vez que se ha formado la capa basal interna o estrato germinativo. Esta capa interna es un epitelio germinal que da origen a todas las células epidérmicas.
+
+Se divide para formar la capa espinosa externa (estrato espinoso).
+
+Las células de estas dos capas, juntas denominadas capa(s) de Malpighi en honor a Marcello Malpighi, se dividen para formar la capa granular superficial (estrato granuloso) de la epidermis. Las células del estrato granuloso no se dividen, sino que forman células de la piel denominadas queratinocitos de los gránulos de queratina.
+
+Estas células de la piel finalmente se convierten en la capa cornificada (estrato córneo), la capa epidérmica más externa, donde las células se convierten en sacos aplanados con sus núcleos ubicados en un extremo de la célula.
+
+Después del nacimiento, estas células más externas son reemplazadas por nuevas células del estrato granuloso y a lo largo de la vida se desprenden a un ritmo de 0,001 a 0,003 onzas de escamas de piel cada hora, o 0,024 a 0,072 onzas por día. El desarrollo epidérmico es producto de varios crecimientos. factores, dos de los cuales son:
+El factor de crecimiento transformante alfa (TGFα) es un factor de crecimiento autocrino mediante el cual las células basales estimulan su propia división.
+El factor de crecimiento de queratinocitos (KGF o FGF7) es un factor de crecimiento paracrino producido por los fibroblastos dérmicos subyacentes en los que se regula la proliferación de células basales.
+
+
+== Función ==
+
+Introducción
+La piel es el órgano más grande del cuerpo y cubre toda la superficie externa del cuerpo.
+
+Se compone de tres capas, la epidermis, la dermis y la hipodermis, las cuales varían significativamente en su anatomía y función.
+
+La estructura de la piel se compone de una red intrincada que sirve como barrera inicial del cuerpo contra los patógenos, la luz ultravioleta, los productos químicos y las lesiones mecánicas.
+
+También regula la temperatura y la cantidad de agua liberada al medio ambiente.
+
+Este artículo analiza las estructuras anatómicas relevantes de la capa epidérmica de la piel, su estructura, función, embriología, suministro vascular, inervación, consideraciones quirúrgicas y relevancia clínica.
+Grosor de la piel
+El grosor de cada capa de la piel varía según la región del cuerpo y se clasifica según el grosor de las capas epidérmica y dérmica.
+
+La piel sin pelo que se encuentra en las palmas de las manos y las plantas de los pies es más gruesa porque la epidermis contiene una capa adicional, el estrato lúcido.
+
+La parte superior de la espalda se considera más gruesa según el grosor de la dermis, pero histológicamente se considera "piel delgada" porque el grosor de la epidermis carece de la capa del estrato lúcido y es más delgada que la piel sin pelo.
+Capas de epidermis
+Las capas de la epidermis incluyen el estrato basal (la porción más profunda de la epidermis), el estrato espinoso, el estrato granuloso, el estrato lúcido y el estrato córneo (la porción más superficial de la epidermis).
+El estrato basal, también conocido como estrato germinativo, es la capa más profunda, separada de la dermis por la membrana basal (lámina basal) y unida a la membrana basal por hemidesmosomas.
+
+Las células que se encuentran en esta capa son células madre mitóticamente activas de cuboidales a columnares que producen queratinocitos constantemente.
+
+Esta capa también contiene melanocitos.
+El estrato espinoso, de 8 a 10 capas de células, también conocido como capa de células espinosas, contiene células poliédricas irregulares con prolongaciones citoplásmicas, a veces llamadas "espinas", que se extienden hacia afuera y contactan con las células vecinas mediante desmosomas.
+
+Las células dendríticas se pueden encontrar en esta capa.
+Estrato granuloso, 3-5 capas de células, contiene células en forma de diamante con gránulos de queratohialina y gránulos lamelares.
+
+Los gránulos de queratohialina contienen precursores de queratina que eventualmente se agregan, entrecruzan y forman haces.
+
+Los gránulos laminares contienen los glicolípidos que se secretan a la superficie de las células y funcionan como un pegamento, manteniendo las células unidas.
+El estrato lúcido, 2-3 capas de células, presente en la piel más gruesa que se encuentra en las palmas de las manos y las plantas de los pies, es una capa delgada y transparente que consiste en eleidina, que es un producto de transformación de la queratohialina.
+El estrato córneo, de 20 a 30 capas de células, es la capa superior, formada por queratina y escamas córneas formadas por queratinocitos muertos, conocidos como células escamosas anucleadas.
+
+Esta es la capa que más varía en grosor, especialmente en la piel callosa.
+
+Dentro de esta capa, los queratinocitos muertos secretan defensinas que forman parte de nuestra primera defensa inmunológica.
+Células de la epidermis
+queratinocitos
+melanocitos
+células de Langerhans
+la celda de merkel
+
+
+=== Hidratación de la piel ===
+
+La capacidad de la piel para retener agua se debe principalmente al estrato córneo y es fundamental para mantener una piel sana.
+
+La hidratación de la piel se cuantifica mediante corneometría.
+
+Los lípidos dispuestos a través de un gradiente y de manera organizada entre las células del estrato córneo forman una barrera a la pérdida transepidérmica de agua.
+
+
+=== Color de piel ===
+
+La cantidad y distribución del pigmento melanina en la epidermis es la razón principal de la variación en el color de la piel en el Homo sapiens.
+
+La melanina se encuentra en los pequeños melanosomas, partículas formadas en los melanocitos desde donde se transfieren a los queratinocitos circundantes.
+
+El tamaño, el número y la disposición de los melanosomas varían entre los grupos raciales, pero mientras que el número de melanocitos puede variar entre las diferentes regiones del cuerpo, su número sigue siendo el mismo en las regiones individuales del cuerpo en todos los seres humanos.
+
+En la piel blanca y asiática, los melanosomas están empaquetados en "agregados", pero en la piel negra son más grandes y se distribuyen de manera más uniforme.
+
+El número de melanosomas en los queratinocitos aumenta con la exposición a la radiación UV, mientras que su distribución no se ve afectada en gran medida.
+
+
+== Importancia clínica ==
+
+
+El cultivo de laboratorio de queratinocitos para formar una estructura 3D (piel artificial) que recapitule la mayoría de las propiedades de la epidermis se utiliza habitualmente como herramienta para el desarrollo y la prueba de fármacos.
+
+
+=== Hiperplasia ===
+
+La hiperplasia epidérmica (engrosamiento resultante de la proliferación celular) tiene varias formas:
+
+La acantosis es una hiperplasia epidérmica difusa (engrosamiento de la piel, y no debe confundirse con los acantocitos).
+
+Implica un aumento del espesor de la capa de Malpighi (estrato basal y estrato espinoso).
+
+La acantosis nigricans es una acantosis hiperpigmentada aterciopelada, mal definida, negra, que generalmente se observa en la parte posterior del cuello, la axila y otras regiones plegadas de la piel.
+La hiperplasia epitelial focal (enfermedad de Heck) es una afección neoplásica benigna asintomática caracterizada por múltiples pápulas de color blanco a rosado que se presentan de forma difusa en la cavidad oral.: 411 
+La hiperplasia pseudoepiteliomatosa (PEH) es una afección benigna caracterizada por hiperplasia de la epidermis y el epitelio de los apéndices de la piel, con hebras escamosas irregulares que se extienden hacia la dermis y que simulan estrechamente el carcinoma de células escamosas (SCC).
+ 
+ 
+ 
+Por el contrario, la hiperqueratosis es un engrosamiento del estrato córneo y no se debe necesariamente a una hiperplasia.
+
+
+== Referencias ==
+
+
+
+
+https://en.wikipedia.org/wiki/Epidermis
+
+;;;PT;;;
+
+
+
+EPIDERME
+
+
+A epiderme é a mais externa das três camadas que compõem a pele, sendo as camadas internas a derme e a hipoderme.
+
+A camada da epiderme fornece uma barreira à infecção por patógenos ambientais e regula a quantidade de água liberada do corpo para a atmosfera através da perda transepidérmica de água. células colunares dispostas perpendicularmente.
+
+As camadas de células se desenvolvem a partir de células-tronco na camada basal.
+
+A epiderme humana é um exemplo familiar de epitélio, particularmente um epitélio escamoso estratificado
+A palavra epiderme é derivada do latim do grego antigo epidermis, do grego antigo epi 'sobre, sobre' e do grego antigo derma 'pele'.
+
+Algo relacionado ou parte da epiderme é denominado epiderme.
+
+
+== Estrutura ==
+
+
+
+=== Componentes celulares ===
+
+A epiderme consiste principalmente em queratinócitos (basais em proliferação e suprabasais diferenciados), que compreendem 90% de suas células, mas também contém melanócitos, células de Langerhans, células de Merkel: 2-3 e células inflamatórias.
+
+Espessamentos epidérmicos chamados cristas rete (ou rete pegs) estendem-se para baixo entre as papilas dérmicas. Os capilares sanguíneos são encontrados abaixo da epiderme e estão ligados a uma arteríola e uma vênula.
+A própria epiderme não tem suprimento sanguíneo e é nutrida quase exclusivamente pelo oxigênio difundido do ar circundante.
+
+Mecanismos celulares para regular os níveis de água e sódio (ENaCs) são encontrados em todas as camadas da epiderme.
+
+
+=== Junções celulares ===
+
+As células epidérmicas estão fortemente interconectadas para servir como uma barreira firme contra o ambiente externo.
+
+As junções entre as células epidérmicas são do tipo junção aderente, formadas por proteínas transmembranares denominadas caderinas.
+
+Dentro da célula, as caderinas estão ligadas a filamentos de actina.
+
+Na microscopia de imunofluorescência, a rede de filamentos de actina aparece como uma borda espessa ao redor das células, embora os filamentos de actina estejam localizados dentro da célula e sejam paralelos à membrana celular.
+
+Devido à proximidade das células vizinhas e rigidez das junções, a imunofluorescência da actina aparece como uma fronteira entre as células.
+
+
+=== Camadas ===
+
+
+A epiderme é composta por 4 ou 5 camadas, dependendo da região da pele considerada.
+
+Essas camadas em ordem decrescente são:
+camada cornificada (estrato córneo)
+Composto por 10 a 30 camadas de corneócitos poliédricos e anucleados (etapa final da diferenciação dos queratinócitos), sendo as palmas e plantas dos pés as que possuem mais camadas.
+
+Os corneócitos contêm um envelope proteico (proteínas do envelope cornificado) sob a membrana plasmática, são preenchidos com proteínas de queratina que retêm água, unidas por meio de corneodesmossomos e cercadas no espaço extracelular por camadas empilhadas de lipídios.
+
+A maioria das funções de barreira da epiderme se localiza nessa camada.
+camada clara/translúcida (stratum lucidum, apenas nas palmas das mãos e plantas dos pés)
+Esta camada estreita é encontrada apenas nas palmas das mãos e solas dos pés.
+
+A epiderme dessas duas áreas é conhecida como "pele grossa" porque com essa camada extra, a pele tem 5 camadas epidérmicas em vez de 4.
+camada granular (estrato granuloso)
+Os queratinócitos perdem seus núcleos e seu citoplasma aparece granular.
+
+Os lipídios, contidos nesses queratinócitos dentro dos corpos lamelares, são liberados no espaço extracelular por exocitose para formar uma barreira lipídica.
+
+Esses lipídios polares são então convertidos em lipídios apolares e dispostos paralelamente à superfície da célula.
+
+Por exemplo, os glicoesfingolipídeos tornam-se ceramidas e os fosfolipídios tornam-se ácidos graxos livres.
+camada espinhosa (estrato espinhoso)
+Os queratinócitos ligam-se através de desmossomas e produzem corpos lamelares, a partir do Golgi, enriquecidos em lípidos polares, glicoesfingolípidos, esteróis livres, fosfolípidos e enzimas catabólicas.
+
+As células de Langerhans, células imunologicamente ativas, estão localizadas no meio dessa camada.
+camada basal/germinativa (stratum basale/germinativum)
+Composto principalmente por queratinócitos proliferantes e não proliferantes, fixados à membrana basal por hemidesmossomos.
+
+Melanócitos estão presentes, conectados a numerosos queratinócitos neste e em outros estratos através de dendritos.
+
+As células de Merkel também são encontradas no estrato basal com grande número em locais sensíveis ao toque, como as pontas dos dedos e os lábios.
+
+Eles estão intimamente associados aos nervos cutâneos e parecem estar envolvidos na sensação de toque leve.
+Camada de Malpighi (estrato malpighi)
+Este é o estrato basal e o estrato espinhoso. A epiderme é separada da derme, seu tecido subjacente, por uma membrana basal.
+
+
+=== Cinética celular ===
+
+
+
+==== Divisão celular ====
+Como um epitélio escamoso estratificado, a epiderme é mantida pela divisão celular dentro do estrato basal.
+
+As células em diferenciação se descolam da membrana basal e são deslocadas para fora através das camadas epidérmicas, passando por múltiplos estágios de diferenciação até que, no estrato córneo, perdem seu núcleo e se fundem em lâminas escamosas, que eventualmente são descamadas da superfície (descamação).
+
+Os queratinócitos diferenciados secretam proteínas de queratina, que contribuem para a formação de uma matriz extracelular que é parte integrante da função de barreira da pele.
+
+Na pele normal, a taxa de produção de queratinócitos é igual à taxa de perda, levando cerca de duas semanas para uma célula viajar do estrato basal até o topo do estrato granuloso e mais quatro semanas para atravessar o estrato córneo.
+
+Toda a epiderme é substituída por um novo crescimento celular durante um período de cerca de 48 dias.
+
+
+==== Concentração de cálcio ====
+A diferenciação de queratinócitos em toda a epiderme é em parte mediada por um gradiente de cálcio, aumentando do estrato basal até o estrato granuloso externo, onde atinge seu máximo, e diminuindo no estrato córneo.
+
+A concentração de cálcio no estrato córneo é muito baixa em parte porque essas células relativamente secas não são capazes de dissolver os íons.
+
+Este gradiente de cálcio é paralelo à diferenciação de queratinócitos e como tal é considerado um regulador chave na formação das camadas epidérmicas. A elevação das concentrações de cálcio extracelular induz um aumento nas concentrações de cálcio livre intracelular.
+
+Parte desse aumento intracelular vem do cálcio liberado das reservas intracelulares e outra parte vem do influxo de cálcio transmembrana, através de canais de cloreto sensíveis ao cálcio e canais de cátions independentes de voltagem permeáveis ​​ao cálcio.
+
+Além disso, foi sugerido que um receptor extracelular sensível ao cálcio (CaSR) também contribui para o aumento da concentração intracelular de cálcio.
+
+
+=== Desenvolvimento ===
+
+A organogênese epidérmica, a formação da epiderme, começa nas células que cobrem o embrião após a neurulação, a formação do sistema nervoso central.
+
+Na maioria dos vertebrados, essa estrutura original de uma camada rapidamente se transforma em um tecido de duas camadas; uma camada externa temporária, a periderme, que é disposta uma vez que a camada basal interna ou estrato germinativo se formou. Essa camada interna é um epitélio germinativo que dá origem a todas as células epidérmicas.
+
+Ele se divide para formar a camada espinhosa externa (estrato espinhoso).
+
+As células dessas duas camadas, chamadas em conjunto de camada(s) de Malpighi em homenagem a Marcello Malpighi, dividem-se para formar a camada granular superficial (estrato granuloso) da epiderme. queratinócitos dos grânulos de queratina.
+
+Essas células da pele finalmente se tornam a camada cornificada (estrato córneo), a camada epidérmica mais externa, onde as células se tornam sacos achatados com seus núcleos localizados em uma extremidade da célula.
+
+Após o nascimento, essas células mais externas são substituídas por novas células do estrato granuloso e ao longo da vida são eliminadas a uma taxa de 0,001 a 0,003 onças de flocos de pele a cada hora, ou 0,024 a 0,072 onças por dia. fatores, dois dos quais são:
+O fator de crescimento transformador Alfa (TGFα) é um fator de crescimento autócrino pelo qual as células basais estimulam sua própria divisão.
+O fator de crescimento de queratinócitos (KGF ou FGF7) é um fator de crescimento parácrino produzido pelos fibroblastos dérmicos subjacentes nos quais a proliferação de células basais é regulada.
+
+
+== Função ==
+
+Introdução
+A pele é o maior órgão do corpo e cobre toda a superfície externa do corpo.
+
+É composto de três camadas, a epiderme, a derme e a hipoderme, todas as três variam significativamente em sua anatomia e função.
+
+A estrutura da pele é composta por uma rede intrincada que serve como barreira inicial do corpo contra patógenos, luz UV, produtos químicos e lesões mecânicas.
+
+Também regula a temperatura e a quantidade de água liberada no ambiente.
+
+Este artigo discute as estruturas anatômicas relevantes da camada epidérmica da pele, sua estrutura, função, embriologia, suprimento vascular, inervação, considerações cirúrgicas e relevância clínica.
+Espessura da Pele
+A espessura de cada camada da pele varia de acordo com a região do corpo e categorizada com base na espessura das camadas epidérmica e dérmica.
+
+A pele sem pelos encontrada nas palmas das mãos e solas dos pés é mais espessa porque a epiderme contém uma camada extra, o estrato lúcido.
+
+A parte superior das costas é considerada mais espessa com base na espessura da derme, mas é considerada “pele fina” histologicamente porque a espessura epidérmica não possui a camada do estrato lúcido e é mais fina do que a pele sem pelos.
+Camadas da Epiderme
+As camadas da epiderme incluem o estrato basal (a porção mais profunda da epiderme), o estrato espinhoso, o estrato granuloso, o estrato lúcido e o estrato córneo (a porção mais superficial da epiderme).
+Stratum basale, também conhecido como stratum germinativum, é a camada mais profunda, separada da derme pela membrana basal (lâmina basal) e ligada à membrana basal por hemidesmossomas.
+
+As células encontradas nesta camada são células-tronco cubóides a colunares mitoticamente ativas que estão constantemente produzindo queratinócitos.
+
+Esta camada também contém melanócitos.
+O estrato espinhoso, 8-10 camadas de células, também conhecido como camada de células espinhosas, contém células poliédricas irregulares com processos citoplasmáticos, às vezes chamados de “espinhos”, que se estendem para fora e entram em contato com células vizinhas por desmossomos.
+
+As células dendríticas podem ser encontradas nesta camada.
+O estrato granuloso, 3-5 camadas de células, contém células em forma de diamante com grânulos de querato-hialina e grânulos lamelares.
+
+Os grânulos de queratohialina contêm precursores de queratina que eventualmente se agregam, reticulam e formam feixes.
+
+Os grânulos lamelares contêm os glicolipídios que são secretados na superfície das células e funcionam como uma cola, mantendo as células grudadas.
+Stratum lucidum, 2-3 camadas de células, presente na pele mais espessa encontrada nas palmas das mãos e solas dos pés, é uma camada fina e clara composta de eleidina, que é um produto de transformação da querato-hialina.
+O estrato córneo, 20-30 camadas de células, é a camada superior, composta de queratina e escamas córneas compostas de queratinócitos mortos, conhecidas como células escamosas anucleadas.
+
+Esta é a camada que mais varia em espessura, principalmente na pele calejada.
+
+Dentro dessa camada, os queratinócitos mortos secretam defensinas que fazem parte de nossa primeira defesa imunológica.
+Células da Epiderme
+Queratinócitos
+Melanócitos
+Células de Langerhans
+célula de Merkel
+
+
+=== Hidratação da pele ===
+
+A capacidade da pele de reter água deve-se principalmente ao estrato córneo e é fundamental para manter a pele saudável.
+
+A hidratação da pele é quantificada por corneometria.
+
+Os lipídios dispostos através de um gradiente e de forma organizada entre as células do estrato córneo formam uma barreira à perda de água transepidérmica.
+
+
+=== Cor da pele ===
+
+A quantidade e distribuição do pigmento melanina na epiderme é a principal razão para a variação da cor da pele no Homo sapiens.
+
+A melanina é encontrada nos pequenos melanossomas, partículas formadas nos melanócitos de onde são transferidas para os queratinócitos circundantes.
+
+O tamanho, o número e a disposição dos melanossomas variam entre os grupos raciais, mas enquanto o número de melanócitos pode variar entre as diferentes regiões do corpo, seus números permanecem os mesmos em regiões individuais do corpo em todos os seres humanos.
+
+Na pele branca e asiática os melanossomas são acondicionados em "agregados", mas na pele negra são maiores e distribuídos de forma mais uniforme.
+
+O número de melanossomos nos queratinócitos aumenta com a exposição à radiação UV, enquanto sua distribuição permanece praticamente inalterada.
+
+
+== Significado clínico ==
+
+
+A cultura laboratorial de queratinócitos para formar uma estrutura 3D (pele artificial) recapitulando a maioria das propriedades da epiderme é rotineiramente utilizada como ferramenta para desenvolvimento e teste de drogas.
+
+
+=== Hiperplasia ===
+
+A hiperplasia epidérmica (espessamento resultante da proliferação celular) tem várias formas:
+
+A acantose é a hiperplasia epidérmica difusa (espessamento da pele e não deve ser confundida com acantócitos).
+
+Implica aumento da espessura da camada de Malpighi (estrato basal e estrato espinhoso).
+
+Acantose nigricans é uma acantose preta, mal definida, aveludada, hiperpigmentada, geralmente observada na nuca, axila e outras regiões dobradas da pele.
+A hiperplasia epitelial focal (doença de Heck) é uma condição neoplásica benigna assintomática caracterizada por múltiplas pápulas brancas a rosadas que ocorrem difusamente na cavidade oral.: 411 
+A hiperplasia pseudoepiteliomatosa (HPE) é uma condição benigna caracterizada por hiperplasia da epiderme e epitélio dos apêndices cutâneos, com filamentos escamosos irregulares que se estendem até a derme, simulando de perto o carcinoma de células escamosas (CEC).
+ 
+ 
+ 
+No contrato, a hiperqueratose é um espessamento do estrato córneo e não é necessariamente devido à hiperplasia.
+
+
+== Referências ==
+
+
+
+
+https://en.wikipedia.org/wiki/Epidermis
+
+;;;FR;;;
+
+
+
+ÉPIDERME
+
+
+L'épiderme est la plus externe des trois couches qui composent la peau, les couches internes étant le derme et l'hypoderme.
+
+La couche d'épiderme fournit une barrière à l'infection par les agents pathogènes environnementaux et régule la quantité d'eau libérée du corps dans l'atmosphère par la perte d'eau transépidermique. L'épiderme est composé de plusieurs couches de cellules aplaties qui recouvrent une couche de base (stratum basale) composée de cellules cylindriques disposées perpendiculairement.
+
+Les couches de cellules se développent à partir des cellules souches de la couche basale.
+
+L'épiderme humain est un exemple familier d'épithélium, en particulier un épithélium pavimenteux stratifié
+Le mot épiderme est dérivé du latin du grec ancien epidermis, lui-même du grec ancien epi 'sur, sur' et du grec ancien derma 'peau'.
+
+Quelque chose lié à ou faisant partie de l'épiderme est appelé épidermique.
+
+
+== Structure ==
+
+
+
+=== Composants cellulaires ===
+
+L'épiderme est principalement constitué de kératinocytes (basal proliférant et suprabasal différencié), qui constituent 90 % de ses cellules, mais contient également des mélanocytes, des cellules de Langerhans, des cellules de Merkel : 2-3 et des cellules inflammatoires.
+
+Des épaississements épidermiques appelés crêtes de Rete (ou piquets de rete) s'étendent vers le bas entre les papilles dermiques. Les capillaires sanguins se trouvent sous l'épiderme et sont liés à une artériole et à une veinule.
+L'épiderme lui-même n'a pas d'apport sanguin et est alimenté presque exclusivement par l'oxygène diffusé de l'air ambiant.
+
+Les mécanismes cellulaires de régulation des taux d'eau et de sodium (ENaCs) se retrouvent dans toutes les couches de l'épiderme.
+
+
+=== Jonctions cellulaires ===
+
+Les cellules épidermiques sont étroitement interconnectées pour servir de barrière étanche contre l'environnement extérieur.
+
+Les jonctions entre les cellules épidermiques sont du type jonctions adhérentes, formées par des protéines transmembranaires appelées cadhérines.
+
+A l'intérieur de la cellule, les cadhérines sont liées à des filaments d'actine.
+
+En microscopie par immunofluorescence, le réseau de filaments d'actine apparaît comme une bordure épaisse entourant les cellules, bien que les filaments d'actine soient en fait situés à l'intérieur de la cellule et parallèles à la membrane cellulaire.
+
+Du fait de la proximité des cellules voisines et de l'étanchéité des jonctions, l'immunofluorescence de l'actine apparaît comme une frontière entre les cellules.
+
+
+=== Couches ===
+
+
+L'épiderme est composé de 4 ou 5 couches, selon la région de peau considérée.
+
+Ces couches par ordre décroissant sont :
+couche cornée (stratum corneum)
+Composé de 10 à 30 couches de cornéocytes polyédriques et anucléés (étape finale de la différenciation des kératinocytes), les paumes et les plantes ayant le plus de couches.
+
+Les cornéocytes contiennent une enveloppe protéique (protéines d'enveloppe cornifiées) sous la membrane plasmique, sont remplies de protéines de kératine retenant l'eau, attachées ensemble par des cornéodesmosomes et entourées dans l'espace extracellulaire par des couches empilées de lipides.
+
+La plupart des fonctions barrières de l'épiderme se localisent dans cette couche.
+couche claire/translucide (stratum lucidum, uniquement dans les paumes et la plante des pieds)
+Cette couche étroite se trouve uniquement sur les paumes et la plante des pieds.
+
+L'épiderme de ces deux zones est appelé "peau épaisse" car avec cette couche supplémentaire, la peau possède 5 couches épidermiques au lieu de 4.
+couche granuleuse (stratum granulosum)
+Les kératinocytes perdent leurs noyaux et leur cytoplasme apparaît granuleux.
+
+Les lipides, contenus dans ces kératinocytes à l'intérieur des corps lamellaires, sont libérés dans l'espace extracellulaire par exocytose pour former une barrière lipidique.
+
+Ces lipides polaires sont ensuite convertis en lipides non polaires et disposés parallèlement à la surface cellulaire.
+
+Par exemple, les glycosphingolipides deviennent des céramides et les phospholipides deviennent des acides gras libres.
+couche épineuse (stratum spinosum)
+Les kératinocytes se connectent via des desmosomes et produisent des corps lamellaires, à partir de l'appareil de Golgi, enrichis en lipides polaires, glycosphingolipides, stérols libres, phospholipides et enzymes cataboliques.
+
+Les cellules de Langerhans, cellules immunologiquement actives, sont situées au milieu de cette couche.
+couche basale/germinale (stratum basale/germinativum)
+Composé principalement de kératinocytes proliférants et non proliférants, attachés à la membrane basale par des hémidesmosomes.
+
+Les mélanocytes sont présents, reliés à de nombreux kératinocytes dans cette strate et dans d'autres par l'intermédiaire de dendrites.
+
+Les cellules de Merkel se trouvent également dans la couche basale avec un grand nombre de sites sensibles au toucher tels que le bout des doigts et les lèvres.
+
+Ils sont étroitement associés aux nerfs cutanés et semblent être impliqués dans la sensation de toucher léger.
+Couche malpighienne (stratum malpighi)
+C'est à la fois la couche basale et la couche épineuse. L'épiderme est séparé du derme, son tissu sous-jacent, par une membrane basale.
+
+
+=== Cinétique cellulaire ===
+
+
+
+==== Division cellulaire ====
+En tant qu'épithélium pavimenteux stratifié, l'épiderme est maintenu par division cellulaire au sein de la couche basale.
+
+Les cellules en différenciation se délaminent de la membrane basale et sont déplacées vers l'extérieur à travers les couches épidermiques, subissant plusieurs étapes de différenciation jusqu'à ce que, dans la couche cornée, elles perdent leur noyau et fusionnent en feuilles squameuses, qui finissent par se détacher de la surface (desquamation).
+
+Les kératinocytes différenciés sécrètent des protéines kératiniques qui contribuent à la formation d'une matrice extracellulaire faisant partie intégrante de la fonction barrière cutanée.
+
+Dans une peau normale, le taux de production de kératinocytes est égal au taux de perte, prenant environ deux semaines pour qu'une cellule voyage de la couche basale au sommet de la couche granuleuse, et quatre semaines supplémentaires pour traverser la couche cornée.
+
+L'épiderme entier est remplacé par une nouvelle croissance cellulaire sur une période d'environ 48 jours.
+
+
+==== Concentration en calcium ====
+La différenciation des kératinocytes dans l'épiderme est en partie médiée par un gradient calcique, croissant de la couche basale jusqu'à la couche granuleuse externe, où il atteint son maximum, et décroissant dans la couche cornée.
+
+La concentration de calcium dans la couche cornée est très faible en partie parce que ces cellules relativement sèches ne sont pas capables de dissoudre les ions.
+
+Ce gradient de calcium est parallèle à la différenciation des kératinocytes et, en tant que tel, est considéré comme un régulateur clé de la formation des couches épidermiques. L'élévation des concentrations de calcium extracellulaire induit une augmentation des concentrations de calcium libre intracellulaire.
+
+Une partie de cette augmentation intracellulaire provient du calcium libéré des réserves intracellulaires et une autre partie provient de l'afflux de calcium transmembranaire, à la fois par les canaux chlorure sensibles au calcium et les canaux cationiques indépendants de la tension perméables au calcium.
+
+De plus, il a été suggéré qu'un récepteur de détection de calcium extracellulaire (CaSR) contribue également à l'augmentation de la concentration de calcium intracellulaire.
+
+
+=== Développement ===
+
+L'organogenèse épidermique, la formation de l'épiderme, commence dans les cellules recouvrant l'embryon après la neurulation, la formation du système nerveux central.
+
+Chez la plupart des vertébrés, cette structure originale à une couche se transforme rapidement en un tissu à deux couches; une couche externe temporaire, le périderme, qui est disposée une fois que la couche basale interne ou stratum germinativum s'est formée. Cette couche interne est un épithélium germinal qui donne naissance à toutes les cellules épidermiques.
+
+Il se divise pour former la couche épineuse externe (stratum spinosum).
+
+Les cellules de ces deux couches, appelées ensemble la ou les couches de Malpighi d'après Marcello Malpighi, se divisent pour former la couche granuleuse superficielle (Stratum granulosum) de l'épiderme. Les cellules de la couche granuleuse ne se divisent pas, mais forment à la place des cellules cutanées appelées kératinocytes à partir des granules de kératine.
+
+Ces cellules cutanées deviennent finalement la couche cornée (stratum corneum), la couche épidermique la plus externe, où les cellules deviennent des sacs aplatis avec leurs noyaux situés à une extrémité de la cellule.
+
+Après la naissance, ces cellules les plus externes sont remplacées par de nouvelles cellules du stratum granulosum et tout au long de la vie, elles sont éliminées à un rythme de 0,001 à 0,003 once de flocons de peau par heure, soit 0,024 à 0,072 once par jour. Le développement épidermique est le produit de plusieurs croissances facteurs dont deux sont :
+Le facteur de croissance transformant Alpha (TGFα) est un facteur de croissance autocrine par lequel les cellules basales stimulent leur propre division.
+Le facteur de croissance des kératinocytes (KGF ou FGF7) est un facteur de croissance paracrine produit par les fibroblastes dermiques sous-jacents dans lesquels la prolifération des cellules basales est régulée.
+
+
+== Fonction ==
+
+Introduction
+La peau est le plus grand organe du corps et recouvre toute la surface externe du corps.
+
+Il est composé de trois couches, l'épiderme, le derme et l'hypoderme, dont l'anatomie et la fonction varient considérablement.
+
+La structure de la peau est constituée d'un réseau complexe qui sert de barrière initiale du corps contre les agents pathogènes, les rayons UV, les produits chimiques et les blessures mécaniques.
+
+Il régule également la température et la quantité d'eau rejetée dans l'environnement.
+
+Cet article traite des structures anatomiques pertinentes de la couche épidermique de la peau, de sa structure, de sa fonction, de son embryologie, de son apport vasculaire, de son innervation, de considérations chirurgicales et de sa pertinence clinique.
+Épaisseur de la peau
+L'épaisseur de chaque couche de la peau varie en fonction de la région du corps et est classée en fonction de l'épaisseur des couches épidermiques et dermiques.
+
+La peau sans poils de la paume des mains et de la plante des pieds est la plus épaisse car l'épiderme contient une couche supplémentaire, le stratum lucidum.
+
+Le haut du dos est considéré comme le plus épais en fonction de l'épaisseur du derme, mais il est histologiquement considéré comme une «peau fine» car l'épaisseur de l'épiderme n'a pas la couche de stratum lucidum et est plus fine que la peau sans poils.
+Couches d'épiderme
+Les couches de l'épiderme comprennent la couche basale (la partie la plus profonde de l'épiderme), la couche épineuse, la couche granuleuse, la couche lucide et la couche cornée (la partie la plus superficielle de l'épiderme).
+La couche basale, également connue sous le nom de couche germinativum, est la couche la plus profonde, séparée du derme par la membrane basale (lame basale) et attachée à la membrane basale par les hémidesmosomes.
+
+Les cellules trouvées dans cette couche sont des cellules souches cubiques à cylindriques à activité mitotique qui produisent constamment des kératinocytes.
+
+Cette couche contient également des mélanocytes.
+Stratum spinosum, couches de 8 à 10 cellules, également connues sous le nom de couche de cellules épineuses, contient des cellules polyédriques irrégulières avec des processus cytoplasmiques, parfois appelés «épines», qui s'étendent vers l'extérieur et entrent en contact avec les cellules voisines par des desmosomes.
+
+Des cellules dendritiques peuvent être trouvées dans cette couche.
+Stratum granulosum, couches de 3 à 5 cellules, contient des cellules en forme de diamant avec des granules de kératohyaline et des granules lamellaires.
+
+Les granules de kératohyaline contiennent des précurseurs de kératine qui finissent par s'agréger, se réticuler et former des faisceaux.
+
+Les granules lamellaires contiennent les glycolipides qui sont sécrétés à la surface des cellules et fonctionnent comme une colle, maintenant les cellules collées ensemble.
+Stratum lucidum, 2-3 couches de cellules, présentes dans la peau plus épaisse trouvée dans les paumes et les semelles, est une fine couche transparente constituée d'éléidine qui est un produit de transformation de la kératohyaline.
+Stratum corneum, 20-30 couches cellulaires, est la couche supérieure, constituée de kératine et d'écailles cornées constituées de kératinocytes morts, appelés cellules squameuses anucléées.
+
+C'est la couche dont l'épaisseur varie le plus, en particulier dans la peau calleuse.
+
+Au sein de cette couche, les kératinocytes morts sécrètent des défensines qui font partie de notre première défense immunitaire.
+Cellules de l'épiderme
+Kératinocytes
+Mélanocytes
+Cellules de Langerhans
+La cellule de Merkel
+
+
+=== Hydratation de la peau ===
+
+La capacité de la peau à retenir l'eau est principalement due à la couche cornée et est essentielle au maintien d'une peau saine.
+
+L'hydratation de la peau est quantifiée par cornéométrie.
+
+Des lipides disposés selon un gradient et de manière organisée entre les cellules du stratum corneum forment une barrière à la perte d'eau transépidermique.
+
+
+=== Couleur de peau ===
+
+La quantité et la distribution du pigment de mélanine dans l'épiderme est la principale raison de la variation de la couleur de la peau chez Homo sapiens.
+
+La mélanine se trouve dans les petits mélanosomes, particules formées dans les mélanocytes d'où elles sont transférées aux kératinocytes environnants.
+
+La taille, le nombre et la disposition des mélanosomes varient entre les groupes raciaux, mais alors que le nombre de mélanocytes peut varier entre les différentes régions du corps, leur nombre reste le même dans les différentes régions du corps chez tous les êtres humains.
+
+Dans la peau blanche et asiatique, les mélanosomes sont regroupés en "agrégats", mais dans la peau noire, ils sont plus gros et répartis plus uniformément.
+
+Le nombre de mélanosomes dans les kératinocytes augmente avec l'exposition aux rayons UV, tandis que leur distribution reste largement inchangée.
+
+
+== Signification clinique ==
+
+
+La culture en laboratoire de kératinocytes pour former une structure 3D (peau artificielle) récapitulant la plupart des propriétés de l'épiderme est couramment utilisée comme outil de développement et de test de médicaments.
+
+
+=== Hyperplasie ===
+
+L'hyperplasie épidermique (épaississement résultant de la prolifération cellulaire) se présente sous différentes formes :
+
+L'acanthose est une hyperplasie épidermique diffuse (épaississement de la peau, à ne pas confondre avec les acanthocytes).
+
+Elle implique une augmentation de l'épaisseur de la couche malpighienne (stratum basale et stratum spinosum).
+
+L'acanthosis nigricans est une acanthose hyperpigmentée noire, mal définie et veloutée, généralement observée à l'arrière du cou, sous les aisselles et dans d'autres régions plissées de la peau.
+L'hyperplasie épithéliale focale (maladie de Heck) est une affection néoplasique bénigne asymptomatique caractérisée par de multiples papules blanches à rosâtres qui apparaissent de manière diffuse dans la cavité buccale. : 411 
+L'hyperplasie pseudoépithéliomateuse (HPE) est une affection bénigne caractérisée par une hyperplasie de l'épiderme et de l'épithélium des appendices cutanés, avec des brins squameux irréguliers s'étendant dans le derme et simulant étroitement un carcinome épidermoïde (SCC).
+ 
+ 
+ 
+Au contraire, l'hyperkératose est un épaississement de la couche cornée, et n'est pas nécessairement due à une hyperplasie.
+
+
+== Références ==
+
+
+
+
+https://en.wikipedia.org/wiki/Epidermis

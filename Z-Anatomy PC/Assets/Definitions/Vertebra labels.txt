@@ -1,0 +1,88 @@
+VERTEBRA
+    Vertebral body
+        Intervertebral surface
+        Annular epiphysis
+    Vertebral arch
+        Pedicle of vertebral arch
+        Lamina of vertebral arch
+            Pars interarticularis of vertebral arch
+    Intervertebral foramen
+    Superior vertebral notch
+    Inferior vertebral notch
+    Vertebral foramen
+    Spinous process
+    Transverse process
+        Lateral part of transverse process
+        Costal part of transverse process
+    Superior articular process of vertebra
+        Superior articular facet of vertebra
+    Inferior articular process of vertebra
+        Inferior articular facet of vertebra
+;;;ES;;;
+
+VÉRTEBRA
+Cuerpo vertebral
+superficie intervertebral
+epífisis anular
+arco vertebral
+Pedículo del arco vertebral
+Lámina del arco vertebral
+Pars interarticularis del arco vertebral
+Agujero intervertebral
+Muesca vertebral superior
+Muesca vertebral inferior
+Foramen vertebral
+proceso espinoso
+Proceso tranversal
+Parte lateral del proceso transverso
+Parte costal del proceso transverso
+Apófisis articular superior de la vértebra
+Cara articular superior de la vértebra
+Apófisis articular inferior de la vértebra
+Faceta articular inferior de la vértebra
+
+;;;PT;;;
+
+VÉRTEBRA
+Corpo vertebral
+Superfície intervertebral
+Epífise anular
+Arco vertebral
+Pedículo do arco vertebral
+Lâmina do arco vertebral
+Pars interarticularis do arco vertebral
+Forame intervertebral
+Incisura vertebral superior
+Incisura vertebral inferior
+Forame vertebral
+Processo espinhoso
+Processo transverso
+Parte lateral do processo transverso
+Parte costal do processo transverso
+Processo articular superior da vértebra
+Face articular superior da vértebra
+Processo articular inferior da vértebra
+Faceta articular inferior da vértebra
+
+;;;FR;;;
+
+VERTÈBRE
+Corps vertébral
+Surface intervertébrale
+Épiphyse annulaire
+Arc vertébral
+Pédicule de l'arc vertébral
+Lamina de l'arc vertébral
+Pars interarticularis de l'arc vertébral
+Foramen intervertébral
+Encoche vertébrale supérieure
+Encoche vertébrale inférieure
+Foramen vertébral
+Apophyse épineuse
+Processus transversal
+Partie latérale de l'apophyse transverse
+Partie costale du processus transverse
+Processus articulaire supérieur de la vertèbre
+Facette articulaire supérieure de la vertèbre
+Processus articulaire inférieur de la vertèbre
+Facette articulaire inférieure de la vertèbre

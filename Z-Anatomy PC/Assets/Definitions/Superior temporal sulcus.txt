@@ -1,0 +1,700 @@
+
+
+SUPERIOR TEMPORAL SULCUS
+
+
+The superior temporal sulcus (STS) is the sulcus separating the superior temporal gyrus from the middle temporal gyrus in the temporal lobe of the brain. 
+
+A sulcus (plural sulci) is a deep groove that curves into the largest part of the brain, the cerebrum, and a gyrus (plural gyri) is a ridge that curves outward of the cerebrum.
+
+The STS is located under the lateral fissure, which is the fissure that separates the temporal lobe, parietal lobe, and frontal lobe. 
+
+The STS has an asymmetric structure between the left and right hemisphere, with the STS being longer in the left hemisphere, but deeper in the right hemisphere. 
+
+This asymmetrical structural organization between hemispheres has only been found to occur in the STS of the human brain.
+
+The STS has been shown to produce strong responses when subjects perceive stimuli in research areas that include theory of mind, biological motion, faces, voices, and language.
+
+
+== Language Processing ==
+
+
+=== Spoken language processing ===
+
+The superior temporal sulcus also activates when hearing human voices. 
+
+It is thought to be a source of sensory encoding linked to motor output through the superior parietal-temporal areas of the brain inferred from the time course of activation. 
+
+The conclusion of pertinence to vocal processing can be drawn from data showing that the regions of the STS are more active when people are listening to vocal sounds rather than non-vocal environmentally based sounds and corresponding control sounds, which can be scrambled or modulated voices. 
+
+These experimental results indicate the involvement of the STS in the areas of speech and language recognition.
+
+The majority of studies find it is the middle to the posterior portion of the STS that is involved in phonological processing, with bilateral activation indicated though including a mild left hemisphere bias due to greater observed activation. 
+
+However, the role of the anterior STS in the ventral pathway of speech comprehension and production has not been ruled out. 
+
+Evidence for the involvement of the middle portion of the STS in phonological processing comes from repetition-suppression studies, which use fMRI to pinpoint areas of the brain responsible for specialized stimulus involvement by habituating the brain to the stimulus and recording differences in stimulation response. 
+
+The resulting pattern showed expected results in the middle portion of the STS.
+
+Studies using fMRI analysis to measure superior temporal sulcus activation have found that phonemes, words, sentences, and phonological cues all lead to increased activation throughout a posterior-anterior axis in the temporal lobe. 
+
+This pattern of activation, which most frequently occurs in the left hemisphere, has been termed the ventral stream of speech perception. 
+
+Many studies consistently indicate that the superior temporal sulcus activation is associated with the interpretation of phonological signals. 
+
+Although present research suggest that the left hemisphere of the superior temporal sulcus and its associated left ventral stream plays a role in phonological processing, the right hemisphere of the superior temporal sulcus has been connected to the perception of voice and the prosody of speech.
+
+According to the audiological pathway model supplied by Hickok and Poeppel, after the spectrotemporal analysis conducted by the auditory cortex, the STS is responsible for interpretation of vocal input through the phonological network. 
+
+This implication is shown in the activation of the region in tasks of speech perception and processing, which necessarily involves access to and continuance of phonological information. 
+
+By manipulating the interactions of phonological data, represented by the provision of words with high or low neighborhood density (words associated with many or few other words), the fluctuation of activity of the STS region can be seen. 
+
+This changing activation links the STS with the phonological pathway.
+
+
+=== Sign language processing ===
+
+Research shows that the Broca's area of the brain is activated during sign language production and processing. 
+
+Although Broca's area is found in the frontal lobe, it receives connection from the superior temporal gyrus, including the STS. 
+
+Native signers are people who learned and have been using sign language, such as American Sign Language (ASL), from birth, and/or use it as their first language. 
+
+They often learn sign language from their parents and continue its use throughout their lifetime. 
+
+Sign language activates language regions of the brain, including the STS. 
+
+There have been studies that show activation of the STS while deaf and hearing native signers perceive sign language, suggesting the STS is tied to the linguistic processing aspect of sign language. 
+
+Studies also show that there is greater activation of the middle STS in both deaf and hearing signers who acquired ASL earlier than those who acquired it later.
+
+
+== Social processing ==
+
+Studies reveal multiple social processing capabilities. 
+
+Research has documented activation in the STS as a result of five specific social inputs, and thus the STS is assumed to be implicated in social perception. 
+
+It showed increased activation related to: theory of mind (false belief stories versus false physical stories) voices versus environmental sounds, stories versus nonsense speech, moving faces versus moving objects, and biological motion. 
+
+It is involved in the perception of where others are gazing (joint attention) and is important in determining where others' emotions are being directed.
+
+
+=== Theory of mind ===
+
+Neuroimaging studies examining the theory of mind, otherwise known as the ability to attribute mental states to others, have identified the posterior superior temporal sulcus of the right hemisphere as being involved in its processing. 
+
+Activation of this region in the theory of mind has been found to be best predicted by independent ratings from other groups of participants, or more specifically, how much each item in the study made them consider the protagonist’s point of view. 
+
+Reports noted in other studies suggest a number of inconsistencies with the localization of theory of mind processing, such as the middle and anterior portions of the superior temporal sulcus having increased activation in response to theory of mind tasks. 
+
+Thus, further research is needed to expand upon the precise functional role of the superior temporal sulcus in the perception of theory of mind.
+
+
+=== Face perception ===
+
+A recent study identified a region of the posterior superior temporal sulcus that is preferentially activated in the interpretation of facial expressions. 
+
+Similarly, another study found that transcranial magnetic stimulation disrupted the neural response to faces, but not the neural response to bodies or objects. 
+
+The patterns of activations found in this study suggests that facial information is processed by projections in the right hemisphere from the posterior superior temporal sulcus, through the anterior superior temporal sulcus, and into the amygdala. 
+
+Another study showed that the resting-state functional connectivity between the right posterior superior temporal sulcus, the right occipital face area, early visual cortex, and bilateral superior temporal sulcus was positively correlated with each subject’s ability to recognize facial expression.
+
+
+=== Face-voice audiovisual integration ===
+
+Many studies have suggested that the posterior superior temporal sulcus is associated the crossmodal binding of auditory and visual stimuli. 
+
+The activation of this posterior portion of the superior temporal sulcus was reported in the detection of audio-visual incongruences and in voice perception. 
+
+The posterior superior temporal sulcus has also been shown to be preferentially activated by lip reading. 
+
+An area of the right posterior superior temporal sulcus was characterized by a recent study by a stronger response to audiovisual stimuli compared to that of auditory or visual stimuli alone. 
+
+This study also identified this same region to preferentially activated in the processing of stimuli associated with people, such as faces and voices. 
+
+Another fMRI study found that the neural representations of audiovisual integration, non-verbal emotional signals, voice sensitivity, and face sensitivity are all localized to separate regions of the superior temporal sulcus. 
+
+Likewise, this study also noted that the area most sensitive to voice is located in the trunk section of the superior temporal sulcus, the area most sensitive to facial expressions is located in the posterior terminal ascending branch, and audiovisual integration of emotional signals occurs in regions that overlap with face and voice recognition areas at the bifurcation of the superior temporal sulcus.
+
+
+=== Biological motion ===
+
+The superior temporal sulcus has been found to have a unique sensitivity to observable manifestations of movement understanding, which suggest that the superior temporal sulcus is heavily involved in the recognition of movements and gestures required for normal social information processing in humans. 
+
+In fMRI studies evaluating the interpretation of a point-light display that represents a moving human figure as a pattern of dots, a cluster of significant brain activity was observed in the posterior superior temporal sulcus of the right hemisphere in subjects that correctly identified the biological motion being shown in the point-light display. 
+
+Furthermore, movement perception and movement interpretation are believed to be localized in different regions of the superior temporal sulcus, with movement perception being processed in a posterior region of the superior temporal sulcus and movement understanding being processed in a more anterior region.
+
+
+== Neurological disorders ==
+
+In studies on dysfunctional social cognition in neurological disorders, such as what is observed in people with high-functioning autism, the role of the superior temporal sulcus in processing social information has been identified as the mechanism that lies at the root of these impairments in social interpretation.
+
+
+=== Autism ===
+
+Children with high-functioning autism have been reported to have no significant change in superior temporal sulcus activation for biological motion compared to non-biological motion, which suggests that the superior temporal sulcus is not specifically activated in the processing of biological motion like it is in children without autism. 
+
+In subjects with schizophrenia, another neurological disorder associated with significant impairments to social cognition, these social impairment have been linked to an alteration in posterior superior temporal sulcus activation in affective theory of mind, emotional recognition, and the interpretation of neutral facial expressions. 
+
+More specifically, it was determined that schizophrenic subjects exhibited hyperactivity within the posterior superior temporal sulcus of the right hemisphere in processing neutral facial expressions, but they also exhibited hypoactivity within this same region for emotional recognition and affective theory of mind. 
+
+This same study also found impaired connectivity between the right and left hemispheres of the posterior superior temporal sulcus in the processing of affective theory of mind. 
+
+Another recent study showed an inverse relationship between glutamate concentrations within the superior temporal sulcus and neuroticism scores assessed by questionnaire was found in subjects with schizophrenia, which suggests that elevations in glutamate concentrations may act as a compensatory mechanism that allows those with schizophrenia to prevent neuroticism.
+
+
+=== Agnosia ===
+
+Various disorders of the STS have been documented in which patients fail to recognize a certain stimulus, but still exhibit subcortical processing of the stimulus, this is known as an agnosia. 
+
+Pure auditory agnosia (agnosia without aphasia) is found in a patients who can't identify non-speech sounds such as coughing, whistling, and crying but have no deficit in speech comprehension. 
+
+Speech agnosia is known as an incapability to comprehend spoken words despite intact hearing, speech production, and reading ability. 
+
+Patients show a recognition of the familiarity of a word, but are not able to recall its meaning. 
+
+Phonagnosia is characterized as an inability to recognize familiar voices, while having other auditory abilities. 
+
+Patients exhibited a double dissociation with either an inability to match names or faces with a certain famous voice, or to discriminate familiar voices from unfamiliar ones. 
+
+Visual agnosia can be broken into separate disorders in regard to what is being recognized. 
+
+An inability to recognize written words is known as alexia or word blindness, while an inability to recognize familiar faces is known as prosopagnosia. 
+
+Prosopagnosia has been shown to have a similar double dissociation as phonagnosia in that some patients show an impairment of memory for familiar faces while others show impairment when discriminating familiar faces from unfamiliar ones.
+
+
+
+https://en.wikipedia.org/wiki/Superior_temporal_sulcus
+;;;ES;;;
+
+
+
+SURCO TEMPORAL SUPERIOR
+
+
+El surco temporal superior (STS) es el surco que separa la circunvolución temporal superior de la circunvolución temporal media en el lóbulo temporal del cerebro.
+
+Un surco (plural sulci) es un surco profundo que se curva hacia la parte más grande del cerebro, el cerebro, y una circunvolución (plural gyri) es una cresta que se curva hacia afuera del cerebro.
+
+El STS se encuentra debajo de la fisura lateral, que es la fisura que separa el lóbulo temporal, el lóbulo parietal y el lóbulo frontal.
+
+El STS tiene una estructura asimétrica entre el hemisferio izquierdo y derecho, siendo el STS más largo en el hemisferio izquierdo, pero más profundo en el hemisferio derecho.
+
+Esta organización estructural asimétrica entre hemisferios solo se ha encontrado que ocurre en el STS del cerebro humano.
+
+Se ha demostrado que el STS produce fuertes respuestas cuando los sujetos perciben estímulos en áreas de investigación que incluyen teoría de la mente, movimiento biológico, rostros, voces y lenguaje.
+
+
+== Procesamiento del lenguaje ==
+
+
+=== Procesamiento del lenguaje hablado ===
+
+El surco temporal superior también se activa al escuchar voces humanas.
+
+Se cree que es una fuente de codificación sensorial vinculada a la salida motora a través de las áreas parietal-temporales superiores del cerebro deducidas del curso temporal de la activación.
+
+La conclusión de la pertinencia del procesamiento vocal se puede extraer de los datos que muestran que las regiones del STS son más activas cuando las personas escuchan sonidos vocales en lugar de sonidos ambientales no vocales y los sonidos de control correspondientes, que pueden ser voces codificadas o moduladas.
+
+Estos resultados experimentales indican la participación del STS en las áreas de reconocimiento del habla y el lenguaje.
+
+La mayoría de los estudios encuentran que es la porción media a posterior del STS la que está involucrada en el procesamiento fonológico, con activación bilateral indicada aunque incluye un ligero sesgo del hemisferio izquierdo debido a una mayor activación observada.
+
+Sin embargo, no se ha descartado el papel del STS anterior en la vía ventral de comprensión y producción del habla.
+
+La evidencia de la participación de la porción media del STS en el procesamiento fonológico proviene de estudios de supresión de repetición, que utilizan IRMf para identificar áreas del cerebro responsables de la participación de estímulos especializados al habituar el cerebro al estímulo y registrar las diferencias en la respuesta a la estimulación.
+
+El patrón resultante mostró los resultados esperados en la parte media del STS.
+
+Los estudios que utilizan análisis de resonancia magnética funcional para medir la activación del surco temporal superior han encontrado que los fonemas, las palabras, las oraciones y las señales fonológicas conducen a una mayor activación a lo largo de un eje posterior-anterior en el lóbulo temporal.
+
+Este patrón de activación, que ocurre con mayor frecuencia en el hemisferio izquierdo, se ha denominado corriente ventral de percepción del habla.
+
+Muchos estudios indican consistentemente que la activación del surco temporal superior está asociada con la interpretación de señales fonológicas.
+
+Aunque las investigaciones actuales sugieren que el hemisferio izquierdo del surco temporal superior y su corriente ventral izquierda asociada desempeñan un papel en el procesamiento fonológico, el hemisferio derecho del surco temporal superior se ha relacionado con la percepción de la voz y la prosodia del habla.
+
+Según el modelo de vía audiológica proporcionado por Hickok y Poeppel, después del análisis espectrotemporal realizado por la corteza auditiva, el STS es responsable de la interpretación de la entrada vocal a través de la red fonológica.
+
+Esta implicación se manifiesta en la activación de la región en tareas de percepción y procesamiento del habla, lo que implica necesariamente el acceso y permanencia de la información fonológica.
+
+Al manipular las interacciones de los datos fonológicos, representados por la provisión de palabras con alta o baja densidad de vecindad (palabras asociadas con muchas o pocas otras palabras), se puede ver la fluctuación de la actividad de la región STS.
+
+Esta activación cambiante vincula el STS con la vía fonológica.
+
+
+=== Procesamiento de lenguaje de señas ===
+
+La investigación muestra que el área del cerebro de Broca se activa durante la producción y el procesamiento del lenguaje de señas.
+
+Aunque el área de Broca se encuentra en el lóbulo frontal, recibe conexión de la circunvolución temporal superior, incluido el STS.
+
+Los nativos de señas son personas que aprendieron y han estado usando el lenguaje de señas, como el lenguaje de señas americano (ASL), desde su nacimiento y/o lo usan como su primer idioma.
+
+A menudo aprenden el lenguaje de señas de sus padres y continúan usándolo durante toda su vida.
+
+El lenguaje de señas activa las regiones del lenguaje del cerebro, incluido el STS.
+
+Ha habido estudios que muestran la activación del STS mientras que los nativos sordos y oyentes perciben el lenguaje de señas, lo que sugiere que el STS está vinculado al aspecto de procesamiento lingüístico del lenguaje de señas.
+
+Los estudios también muestran que existe una mayor activación del STS medio en los signatarios sordos y oyentes que adquirieron ASL antes que en aquellos que lo adquirieron más tarde.
+
+
+== Procesamiento social ==
+
+Los estudios revelan múltiples capacidades de procesamiento social.
+
+La investigación ha documentado la activación en el STS como resultado de cinco entradas sociales específicas y, por lo tanto, se supone que el STS está implicado en la percepción social.
+
+Mostró una mayor activación relacionada con: teoría de la mente (historias de creencias falsas frente a historias físicas falsas), voces frente a sonidos ambientales, historias frente a discursos sin sentido, rostros en movimiento frente a objetos en movimiento y movimiento biológico.
+
+Está involucrado en la percepción de hacia dónde miran los demás (atención conjunta) y es importante para determinar hacia dónde se dirigen las emociones de los demás.
+
+
+=== Teoría de la mente ===
+
+Los estudios de neuroimagen que examinan la teoría de la mente, también conocida como la capacidad de atribuir estados mentales a otros, han identificado que el surco temporal superior posterior del hemisferio derecho está involucrado en su procesamiento.
+
+Se ha encontrado que la activación de esta región en la teoría de la mente se predice mejor mediante calificaciones independientes de otros grupos de participantes, o más específicamente, cuánto les hizo considerar cada elemento del estudio el punto de vista del protagonista.
+
+Los informes observados en otros estudios sugieren una serie de inconsistencias con la localización del procesamiento de la teoría de la mente, como que las porciones media y anterior del surco temporal superior tienen una mayor activación en respuesta a las tareas de la teoría de la mente.
+
+Por lo tanto, se necesita más investigación para ampliar el papel funcional preciso del surco temporal superior en la percepción de la teoría de la mente.
+
+
+=== Percepción de la cara ===
+
+Un estudio reciente identificó una región del surco temporal superior posterior que se activa preferentemente en la interpretación de las expresiones faciales.
+
+De manera similar, otro estudio encontró que la estimulación magnética transcraneal alteraba la respuesta neuronal a las caras, pero no la respuesta neuronal a los cuerpos u objetos.
+
+Los patrones de activaciones encontrados en este estudio sugieren que la información facial es procesada por proyecciones en el hemisferio derecho desde el surco temporal superior posterior, a través del surco temporal superior anterior y hacia la amígdala.
+
+Otro estudio mostró que la conectividad funcional en estado de reposo entre el surco temporal superior posterior derecho, el área facial occipital derecha, la corteza visual temprana y el surco temporal superior bilateral se correlacionó positivamente con la capacidad de cada sujeto para reconocer la expresión facial.
+
+
+=== Integración audiovisual cara-voz ===
+
+Muchos estudios han sugerido que el surco temporal superior posterior está asociado con la unión transmodal de estímulos auditivos y visuales.
+
+La activación de esta porción posterior del surco temporal superior se reportó en la detección de incongruencias audiovisuales y en la percepción de la voz.
+
+También se ha demostrado que el surco temporal superior posterior se activa preferentemente con la lectura de labios.
+
+Un área del surco temporal superior posterior derecho se caracterizó por un estudio reciente por una respuesta más fuerte a los estímulos audiovisuales en comparación con los estímulos auditivos o visuales solos.
+
+Este estudio también identificó que esta misma región se activa preferentemente en el procesamiento de estímulos asociados con personas, como rostros y voces.
+
+Otro estudio de resonancia magnética funcional encontró que las representaciones neuronales de la integración audiovisual, las señales emocionales no verbales, la sensibilidad de la voz y la sensibilidad facial están localizadas en regiones separadas del surco temporal superior.
+
+Asimismo, este estudio también observó que el área más sensible a la voz se ubica en la sección del tronco del surco temporal superior, el área más sensible a las expresiones faciales se ubica en la rama ascendente terminal posterior y la integración audiovisual de las señales emocionales ocurre en regiones que se superponen con las áreas de reconocimiento de rostro y voz en la bifurcación del surco temporal superior.
+
+
+=== Movimiento biológico ===
+
+Se ha descubierto que el surco temporal superior tiene una sensibilidad única a las manifestaciones observables de la comprensión del movimiento, lo que sugiere que el surco temporal superior está muy involucrado en el reconocimiento de movimientos y gestos necesarios para el procesamiento normal de información social en humanos.
+
+En estudios de resonancia magnética funcional que evaluaron la interpretación de una pantalla de puntos de luz que representa una figura humana en movimiento como un patrón de puntos, se observó un grupo de actividad cerebral significativa en el surco temporal superior posterior del hemisferio derecho en sujetos que identificaron correctamente el movimiento biológico. que se muestra en la pantalla de puntos de luz.
+
+Además, se cree que la percepción del movimiento y la interpretación del movimiento están localizadas en diferentes regiones del surco temporal superior, con la percepción del movimiento procesada en una región posterior del surco temporal superior y la comprensión del movimiento procesada en una región más anterior.
+
+
+== Trastornos neurológicos ==
+
+En estudios sobre cognición social disfuncional en trastornos neurológicos, como el que se observa en personas con autismo de alto funcionamiento, se ha identificado el papel del surco temporal superior en el procesamiento de la información social como el mecanismo que se encuentra en la raíz de estas deficiencias en el desarrollo social. interpretación.
+
+
+=== Autismo ===
+
+Se ha informado que los niños con autismo de alto funcionamiento no tienen cambios significativos en la activación del surco temporal superior para el movimiento biológico en comparación con el movimiento no biológico, lo que sugiere que el surco temporal superior no se activa específicamente en el procesamiento del movimiento biológico como lo está en niños sin autismo.
+
+En sujetos con esquizofrenia, otro trastorno neurológico asociado con alteraciones significativas de la cognición social, estas alteraciones sociales se han relacionado con una alteración en la activación del surco temporal superior posterior en la teoría afectiva de la mente, el reconocimiento emocional y la interpretación de expresiones faciales neutras.
+
+Más específicamente, se determinó que los sujetos esquizofrénicos exhibieron hiperactividad dentro del surco temporal superior posterior del hemisferio derecho al procesar expresiones faciales neutras, pero también exhibieron hipoactividad dentro de esta misma región para el reconocimiento emocional y la teoría afectiva de la mente.
+
+Este mismo estudio también encontró una conectividad deteriorada entre los hemisferios derecho e izquierdo del surco temporal superior posterior en el procesamiento de la teoría afectiva de la mente.
+
+Otro estudio reciente mostró una relación inversa entre las concentraciones de glutamato dentro del surco temporal superior y las puntuaciones de neuroticismo evaluadas mediante un cuestionario en sujetos con esquizofrenia, lo que sugiere que las elevaciones en las concentraciones de glutamato pueden actuar como un mecanismo compensatorio que permite a las personas con esquizofrenia prevenir el neuroticismo.
+
+
+=== Agnosia ===
+
+Se han documentado varios trastornos del STS en los que los pacientes no reconocen un determinado estímulo, pero aún exhiben un procesamiento subcortical del estímulo, esto se conoce como agnosia.
+
+La agnosia auditiva pura (agnosia sin afasia) se encuentra en pacientes que no pueden identificar los sonidos que no son del habla, como toser, silbar y llorar, pero que no tienen déficit en la comprensión del habla.
+
+La agnosia del habla se conoce como la incapacidad para comprender las palabras habladas a pesar de la capacidad auditiva, de producción del habla y de lectura intactas.
+
+Los pacientes muestran un reconocimiento de la familiaridad de una palabra, pero no son capaces de recordar su significado.
+
+La fonagnosia se caracteriza por la incapacidad de reconocer voces familiares, mientras se tienen otras habilidades auditivas.
+
+Los pacientes exhibieron una doble disociación, ya sea con la incapacidad de unir nombres o rostros con una cierta voz famosa, o de discriminar voces familiares de otras desconocidas.
+
+La agnosia visual se puede dividir en trastornos separados con respecto a lo que se reconoce.
+
+La incapacidad para reconocer palabras escritas se conoce como alexia o ceguera de palabras, mientras que la incapacidad para reconocer rostros familiares se conoce como prosopagnosia.
+
+Se ha demostrado que la prosopagnosia tiene una doble disociación similar a la de la fonagnosia en el sentido de que algunos pacientes muestran un deterioro de la memoria para las caras familiares, mientras que otros muestran un deterioro al discriminar las caras familiares de las desconocidas.
+
+
+
+https://en.wikipedia.org/wiki/Superior_temporal_sulcus
+
+;;;PT;;;
+
+
+
+SULCO TEMPORAL SUPERIOR
+
+
+O sulco temporal superior (STS) é o sulco que separa o giro temporal superior do giro temporal médio no lobo temporal do cérebro.
+
+Um sulco (plural sulcos) é um sulco profundo que se curva na maior parte do cérebro, o cérebro, e um giro (plural giros) é uma crista que se curva para fora do cérebro.
+
+O STS está localizado sob a fissura lateral, que é a fissura que separa o lobo temporal, lobo parietal e lobo frontal.
+
+O STS tem uma estrutura assimétrica entre o hemisfério esquerdo e direito, sendo o STS mais longo no hemisfério esquerdo, mas mais profundo no hemisfério direito.
+
+Essa organização estrutural assimétrica entre os hemisférios só ocorre no STS do cérebro humano.
+
+O STS mostrou produzir respostas fortes quando os sujeitos percebem estímulos em áreas de pesquisa que incluem teoria da mente, movimento biológico, rostos, vozes e linguagem.
+
+
+== Processamento de linguagem ==
+
+
+=== Processamento de linguagem falada ===
+
+O sulco temporal superior também se ativa ao ouvir vozes humanas.
+
+Acredita-se que seja uma fonte de codificação sensorial ligada à saída motora através das áreas parieto-temporais superiores do cérebro inferidas a partir do curso de tempo de ativação.
+
+A conclusão da pertinência ao processamento vocal pode ser extraída de dados que mostram que as regiões do STS são mais ativas quando as pessoas estão ouvindo sons vocais em vez de sons não vocais baseados no ambiente e sons de controle correspondentes, que podem ser vozes embaralhadas ou moduladas.
+
+Esses resultados experimentais indicam o envolvimento do STS nas áreas de reconhecimento de fala e linguagem.
+
+A maioria dos estudos constata que é a porção média para a posterior do STS que está envolvida no processamento fonológico, com indicação de ativação bilateral, embora incluindo um leve viés do hemisfério esquerdo devido à maior ativação observada.
+
+No entanto, o papel do STS anterior na via ventral de compreensão e produção da fala não foi descartado.
+
+Evidências para o envolvimento da porção média do STS no processamento fonológico vêm de estudos de supressão de repetição, que usam fMRI para identificar áreas do cérebro responsáveis ​​pelo envolvimento de estímulos especializados, habituando o cérebro ao estímulo e registrando diferenças na resposta à estimulação.
+
+O padrão resultante mostrou resultados esperados na porção média do STS.
+
+Estudos usando a análise de fMRI para medir a ativação do sulco temporal superior descobriram que fonemas, palavras, frases e pistas fonológicas levam ao aumento da ativação ao longo de um eixo posterior-anterior no lobo temporal.
+
+Esse padrão de ativação, que ocorre com mais frequência no hemisfério esquerdo, foi denominado fluxo ventral da percepção da fala.
+
+Muitos estudos indicam consistentemente que a ativação do sulco temporal superior está associada à interpretação dos sinais fonológicos.
+
+Embora as pesquisas atuais sugiram que o hemisfério esquerdo do sulco temporal superior e sua corrente ventral esquerda associada desempenham um papel no processamento fonológico, o hemisfério direito do sulco temporal superior tem sido relacionado à percepção da voz e à prosódia da fala.
+
+De acordo com o modelo de via audiológica fornecido por Hickok e Poeppel, após a análise espectrotemporal realizada pelo córtex auditivo, o STS é responsável pela interpretação do input vocal através da rede fonológica.
+
+Essa implicação se mostra na ativação da região em tarefas de percepção e processamento de fala, o que necessariamente envolve o acesso e a continuidade da informação fonológica.
+
+Ao manipular as interações dos dados fonológicos, representados pelo fornecimento de palavras com alta ou baixa densidade de vizinhança (palavras associadas a muitas ou poucas outras palavras), pode-se observar a flutuação da atividade da região STS.
+
+Essa ativação em mudança liga o STS com a via fonológica.
+
+
+=== Processamento de linguagem de sinais ===
+
+Pesquisas mostram que a área do cérebro de Broca é ativada durante a produção e processamento da linguagem de sinais.
+
+Embora a área de Broca seja encontrada no lobo frontal, ela recebe conexão do giro temporal superior, incluindo o STS.
+
+Signatários nativos são pessoas que aprenderam e usaram a linguagem de sinais, como a American Sign Language (ASL), desde o nascimento e/ou a usam como primeira língua.
+
+Eles geralmente aprendem a língua de sinais com seus pais e continuam seu uso ao longo da vida.
+
+A linguagem de sinais ativa regiões de linguagem do cérebro, incluindo o STS.
+
+Existem estudos que mostram a ativação do STS enquanto surdos e nativos ouvintes percebem a língua de sinais, sugerindo que o STS está ligado ao aspecto do processamento linguístico da língua de sinais.
+
+Estudos também mostram que há maior ativação do STS médio tanto em surdos quanto em ouvintes que adquiriram a ASL mais cedo do que aqueles que a adquiriram mais tarde.
+
+
+== Processamento social ==
+
+Estudos revelam múltiplas capacidades de processamento social.
+
+A pesquisa documentou a ativação no STS como resultado de cinco entradas sociais específicas e, portanto, supõe-se que o STS esteja implicado na percepção social.
+
+Ele mostrou maior ativação relacionada a: teoria da mente (histórias de crenças falsas versus histórias físicas falsas) vozes versus sons ambientais, histórias versus fala sem sentido, rostos em movimento versus objetos em movimento e movimento biológico.
+
+Está envolvido na percepção de onde os outros estão olhando (atenção conjunta) e é importante para determinar para onde as emoções dos outros estão sendo direcionadas.
+
+
+=== Teoria da mente ===
+
+Estudos de neuroimagem examinando a teoria da mente, também conhecida como a capacidade de atribuir estados mentais a outros, identificaram o sulco temporal posterior superior do hemisfério direito como envolvido em seu processamento.
+
+A ativação dessa região na teoria da mente foi mais bem prevista por avaliações independentes de outros grupos de participantes, ou mais especificamente, o quanto cada item do estudo os fez considerar o ponto de vista do protagonista.
+
+Relatos observados em outros estudos sugerem uma série de inconsistências com a localização do processamento da teoria da mente, como as porções média e anterior do sulco temporal superior com ativação aumentada em resposta às tarefas de teoria da mente.
+
+Assim, mais pesquisas são necessárias para expandir o papel funcional preciso do sulco temporal superior na percepção da teoria da mente.
+
+
+=== Percepção do rosto ===
+
+Um estudo recente identificou uma região do sulco temporal póstero-superior que é preferencialmente ativada na interpretação das expressões faciais.
+
+Da mesma forma, outro estudo descobriu que a estimulação magnética transcraniana interrompeu a resposta neural aos rostos, mas não a resposta neural a corpos ou objetos.
+
+Os padrões de ativações encontrados neste estudo sugerem que a informação facial é processada por projeções no hemisfério direito a partir do sulco temporal póstero-superior, através do sulco temporal ântero-superior, até a amígdala.
+
+Outro estudo mostrou que a conectividade funcional em estado de repouso entre o sulco temporal póstero-superior direito, a área occipital direita da face, o córtex visual inicial e o sulco temporal superior bilateral estava positivamente correlacionada com a capacidade de cada sujeito de reconhecer a expressão facial.
+
+
+=== Integração audiovisual face-voz ===
+
+Muitos estudos têm sugerido que o sulco temporal póstero-superior está associado à ligação crossmodal de estímulos auditivos e visuais.
+
+A ativação dessa porção posterior do sulco temporal superior foi relatada na detecção de incongruências audiovisuais e na percepção da voz.
+
+O sulco temporal póstero-superior também demonstrou ser preferencialmente ativado pela leitura labial.
+
+Uma área do sulco temporal póstero-superior direito foi caracterizada por um estudo recente por uma resposta mais forte a estímulos audiovisuais em comparação com estímulos auditivos ou visuais isolados.
+
+Este estudo também identificou essa mesma região como preferencialmente ativada no processamento de estímulos associados a pessoas, como rostos e vozes.
+
+Outro estudo de fMRI descobriu que as representações neurais da integração audiovisual, sinais emocionais não verbais, sensibilidade da voz e sensibilidade do rosto estão localizadas em regiões separadas do sulco temporal superior.
+
+Da mesma forma, este estudo também observou que a área mais sensível à voz está localizada na seção do tronco do sulco temporal superior, a área mais sensível às expressões faciais está localizada no ramo ascendente terminal posterior, e a integração audiovisual dos sinais emocionais ocorre nas regiões que se sobrepõem às áreas de reconhecimento de face e voz na bifurcação do sulco temporal superior.
+
+
+=== Movimento biológico ===
+
+Descobriu-se que o sulco temporal superior tem uma sensibilidade única a manifestações observáveis ​​de compreensão do movimento, o que sugere que o sulco temporal superior está fortemente envolvido no reconhecimento de movimentos e gestos necessários para o processamento normal de informações sociais em humanos.
+
+Em estudos de fMRI avaliando a interpretação de uma exibição de luz pontual que representa uma figura humana em movimento como um padrão de pontos, um conjunto de atividade cerebral significativa foi observado no sulco temporal superior posterior do hemisfério direito em indivíduos que identificaram corretamente o movimento biológico sendo mostrado no visor de ponto de luz.
+
+Além disso, acredita-se que a percepção do movimento e a interpretação do movimento estejam localizadas em diferentes regiões do sulco temporal superior, com a percepção do movimento sendo processada em uma região posterior do sulco temporal superior e a compreensão do movimento sendo processada em uma região mais anterior.
+
+
+== Distúrbios neurológicos ==
+
+Em estudos sobre cognição social disfuncional em distúrbios neurológicos, como o observado em pessoas com autismo de alto funcionamento, o papel do sulco temporal superior no processamento de informações sociais tem sido identificado como o mecanismo que está na raiz desses prejuízos nas relações sociais. interpretação.
+
+
+=== Autismo ===
+
+Crianças com autismo de alto funcionamento foram relatadas como não tendo nenhuma mudança significativa na ativação do sulco temporal superior para o movimento biológico em comparação com o movimento não biológico, o que sugere que o sulco temporal superior não é especificamente ativado no processamento do movimento biológico como é em crianças sem autismo.
+
+Em indivíduos com esquizofrenia, outro distúrbio neurológico associado a prejuízos significativos na cognição social, esses prejuízos sociais têm sido associados a uma alteração na ativação do sulco temporal superior posterior na teoria afetiva da mente, reconhecimento emocional e interpretação de expressões faciais neutras.
+
+Mais especificamente, foi determinado que indivíduos esquizofrênicos exibiam hiperatividade no sulco temporal póstero-superior do hemisfério direito no processamento de expressões faciais neutras, mas também exibiam hipoatividade nessa mesma região para reconhecimento emocional e teoria afetiva da mente.
+
+Este mesmo estudo também encontrou conectividade prejudicada entre os hemisférios direito e esquerdo do sulco temporal póstero-superior no processamento da teoria afetiva da mente.
+
+Outro estudo recente mostrou uma relação inversa entre as concentrações de glutamato no sulco temporal superior e os escores de neuroticismo avaliados por questionário foi encontrado em indivíduos com esquizofrenia, o que sugere que elevações nas concentrações de glutamato podem atuar como um mecanismo compensatório que permite que aqueles com esquizofrenia previnam o neuroticismo.
+
+
+=== Agnosia ===
+
+Vários distúrbios do STS foram documentados em que os pacientes não reconhecem um determinado estímulo, mas ainda exibem processamento subcortical do estímulo, isso é conhecido como agnosia.
+
+A agnosia auditiva pura (agnosia sem afasia) é encontrada em pacientes que não conseguem identificar sons não relacionados à fala, como tosse, assobio e choro, mas não apresentam déficit na compreensão da fala.
+
+A agnosia de fala é conhecida como uma incapacidade de compreender palavras faladas apesar da audição, produção de fala e capacidade de leitura intactas.
+
+Os pacientes mostram um reconhecimento da familiaridade de uma palavra, mas não são capazes de recordar seu significado.
+
+A fonagnosia é caracterizada como uma incapacidade de reconhecer vozes familiares, tendo outras habilidades auditivas.
+
+Os pacientes exibiram uma dupla dissociação com a incapacidade de combinar nomes ou rostos com uma certa voz famosa ou de discriminar vozes familiares de desconhecidas.
+
+A agnosia visual pode ser dividida em distúrbios separados em relação ao que está sendo reconhecido.
+
+A incapacidade de reconhecer palavras escritas é conhecida como alexia ou cegueira de palavras, enquanto a incapacidade de reconhecer rostos familiares é conhecida como prosopagnosia.
+
+Foi demonstrado que a prosopagnosia tem uma dissociação dupla semelhante à fonagnosia, pois alguns pacientes apresentam um comprometimento da memória para rostos familiares, enquanto outros mostram comprometimento ao discriminar rostos familiares de desconhecidos.
+
+
+
+https://en.wikipedia.org/wiki/Superior_temporal_sulcus
+
+;;;FR;;;
+
+
+
+SULCUS TEMPORAL SUPÉRIEUR
+
+
+Le sulcus temporal supérieur (STS) est le sulcus séparant le gyrus temporal supérieur du gyrus temporal moyen dans le lobe temporal du cerveau.
+
+Un sulcus (pluriel sulci) est une rainure profonde qui se courbe dans la plus grande partie du cerveau, le cerveau, et un gyrus (pluriel gyri) est une crête qui se courbe vers l'extérieur du cerveau.
+
+Le STS est situé sous la fissure latérale, qui est la fissure qui sépare le lobe temporal, le lobe pariétal et le lobe frontal.
+
+Le STS a une structure asymétrique entre les hémisphères gauche et droit, le STS étant plus long dans l'hémisphère gauche, mais plus profond dans l'hémisphère droit.
+
+Cette organisation structurelle asymétrique entre les hémisphères ne s'est produite que dans le STS du cerveau humain.
+
+Il a été démontré que le STS produit des réponses fortes lorsque les sujets perçoivent des stimuli dans des domaines de recherche tels que la théorie de l'esprit, le mouvement biologique, les visages, les voix et le langage.
+
+
+== Traitement du langage ==
+
+
+=== Traitement du langage parlé ===
+
+Le sillon temporal supérieur s'active également lors de l'audition de voix humaines.
+
+On pense qu'il s'agit d'une source d'encodage sensoriel liée à la sortie motrice à travers les zones pariétales-temporales supérieures du cerveau déduites de l'évolution temporelle de l'activation.
+
+La conclusion de la pertinence pour le traitement vocal peut être tirée des données montrant que les régions du STS sont plus actives lorsque les gens écoutent des sons vocaux plutôt que des sons non vocaux basés sur l'environnement et des sons de contrôle correspondants, qui peuvent être des voix brouillées ou modulées.
+
+Ces résultats expérimentaux indiquent l'implication du STS dans les domaines de la reconnaissance de la parole et du langage.
+
+La majorité des études constatent que c'est la partie médiane à postérieure du STS qui est impliquée dans le traitement phonologique, avec une activation bilatérale indiquée mais incluant un léger biais de l'hémisphère gauche en raison d'une plus grande activation observée.
+
+Cependant, le rôle du STS antérieur dans la voie ventrale de la compréhension et de la production de la parole n'a pas été exclu.
+
+Les preuves de l'implication de la partie médiane du STS dans le traitement phonologique proviennent d'études de suppression de répétition, qui utilisent l'IRMf pour identifier les zones du cerveau responsables de l'implication de stimulus spécialisés en habituant le cerveau au stimulus et en enregistrant les différences de réponse à la stimulation.
+
+Le modèle résultant a montré les résultats attendus dans la partie médiane du STS.
+
+Des études utilisant l'analyse IRMf pour mesurer l'activation du sulcus temporal supérieur ont montré que les phonèmes, les mots, les phrases et les signaux phonologiques conduisent tous à une activation accrue tout au long d'un axe postéro-antérieur dans le lobe temporal.
+
+Ce modèle d'activation, qui se produit le plus fréquemment dans l'hémisphère gauche, a été appelé le flux ventral de perception de la parole.
+
+De nombreuses études indiquent systématiquement que l'activation supérieure du sillon temporal est associée à l'interprétation des signaux phonologiques.
+
+Bien que les recherches actuelles suggèrent que l'hémisphère gauche du sillon temporal supérieur et son flux ventral gauche associé jouent un rôle dans le traitement phonologique, l'hémisphère droit du sillon temporal supérieur a été relié à la perception de la voix et à la prosodie de la parole.
+
+Selon le modèle de voie audiologique fourni par Hickok et Poeppel, après l'analyse spectro-temporelle menée par le cortex auditif, le STS est responsable de l'interprétation de l'entrée vocale à travers le réseau phonologique.
+
+Cette implication se manifeste dans l'activation de la région dans les tâches de perception et de traitement de la parole, ce qui implique nécessairement l'accès et le maintien de l'information phonologique.
+
+En manipulant les interactions des données phonologiques, représentées par la fourniture de mots à forte ou faible densité de voisinage (mots associés à beaucoup ou peu d'autres mots), la fluctuation d'activité de la région STS peut être observée.
+
+Cette activation changeante relie le STS à la voie phonologique.
+
+
+=== Traitement de la langue des signes ===
+
+La recherche montre que la zone du cerveau de Broca est activée pendant la production et le traitement de la langue des signes.
+
+Bien que l'aire de Broca se trouve dans le lobe frontal, elle reçoit une connexion du gyrus temporal supérieur, y compris le STS.
+
+Les signataires natifs sont des personnes qui ont appris et utilisent la langue des signes, telle que la langue des signes américaine (ASL), depuis leur naissance, et/ou l'utilisent comme première langue.
+
+Ils apprennent souvent la langue des signes de leurs parents et continuent à l'utiliser tout au long de leur vie.
+
+La langue des signes active les régions linguistiques du cerveau, y compris le STS.
+
+Il y a eu des études qui montrent l'activation du STS alors que les signataires natifs sourds et entendants perçoivent le langage des signes, suggérant que le STS est lié à l'aspect de traitement linguistique du langage des signes.
+
+Des études montrent également qu'il y a une plus grande activation du STS moyen chez les signataires sourds et entendants qui ont acquis l'ASL plus tôt que ceux qui l'ont acquis plus tard.
+
+
+== Traitement social ==
+
+Des études révèlent de multiples capacités de traitement social.
+
+La recherche a documenté l'activation dans le STS à la suite de cinq entrées sociales spécifiques, et donc le STS est supposé être impliqué dans la perception sociale.
+
+Il a montré une activation accrue liée à : la théorie de l'esprit (fausses histoires de croyances par rapport aux fausses histoires physiques), les voix par rapport aux sons environnementaux, les histoires par rapport aux discours absurdes, les visages en mouvement par rapport aux objets en mouvement et le mouvement biologique.
+
+Il est impliqué dans la perception de l'endroit où les autres regardent (attention conjointe) et est important pour déterminer où les émotions des autres sont dirigées.
+
+
+=== Théorie de l'esprit ===
+
+Des études de neuroimagerie examinant la théorie de l'esprit, également connue sous le nom de capacité à attribuer des états mentaux à d'autres, ont identifié le sillon temporal supérieur postérieur de l'hémisphère droit comme étant impliqué dans son traitement.
+
+L'activation de cette région dans la théorie de l'esprit s'est avérée être mieux prédite par des évaluations indépendantes d'autres groupes de participants, ou plus précisément, dans quelle mesure chaque élément de l'étude les a amenés à considérer le point de vue du protagoniste.
+
+Les rapports notés dans d'autres études suggèrent un certain nombre d'incohérences avec la localisation de la théorie du traitement de l'esprit, telles que les parties médiane et antérieure du sillon temporal supérieur ayant une activation accrue en réponse à la théorie des tâches de l'esprit.
+
+Ainsi, des recherches supplémentaires sont nécessaires pour développer le rôle fonctionnel précis du sillon temporal supérieur dans la perception de la théorie de l'esprit.
+
+
+=== Perception du visage ===
+
+Une étude récente a identifié une région du sillon temporal supérieur postérieur qui est préférentiellement activée dans l'interprétation des expressions faciales.
+
+De même, une autre étude a révélé que la stimulation magnétique transcrânienne perturbait la réponse neuronale aux visages, mais pas la réponse neuronale aux corps ou aux objets.
+
+Les modèles d'activations trouvés dans cette étude suggèrent que les informations faciales sont traitées par des projections dans l'hémisphère droit à partir du sillon temporal supérieur postérieur, à travers le sillon temporal supérieur antérieur et dans l'amygdale.
+
+Une autre étude a montré que la connectivité fonctionnelle à l'état de repos entre le sillon temporal supérieur postérieur droit, la zone faciale occipitale droite, le cortex visuel précoce et le sillon temporal supérieur bilatéral était positivement corrélée à la capacité de chaque sujet à reconnaître l'expression faciale.
+
+
+=== Intégration audiovisuelle visage-voix ===
+
+De nombreuses études ont suggéré que le sillon temporal supérieur postérieur est associé à la liaison intermodale des stimuli auditifs et visuels.
+
+L'activation de cette partie postérieure du sillon temporal supérieur a été rapportée dans la détection des incongruences audio-visuelles et dans la perception vocale.
+
+Il a également été démontré que le sillon temporal supérieur postérieur est préférentiellement activé par la lecture labiale.
+
+Une zone du sillon temporal supérieur postérieur droit a été caractérisée par une étude récente par une réponse plus forte aux stimuli audiovisuels par rapport à celle des stimuli auditifs ou visuels seuls.
+
+Cette étude a également identifié cette même région comme étant préférentiellement activée dans le traitement des stimuli associés aux personnes, tels que les visages et les voix.
+
+Une autre étude IRMf a révélé que les représentations neuronales de l'intégration audiovisuelle, des signaux émotionnels non verbaux, de la sensibilité vocale et de la sensibilité faciale sont toutes localisées dans des régions distinctes du sillon temporal supérieur.
+
+De même, cette étude a également noté que la zone la plus sensible à la voix est située dans la section du tronc du sillon temporal supérieur, la zone la plus sensible aux expressions faciales est située dans la branche ascendante terminale postérieure, et l'intégration audiovisuelle des signaux émotionnels se produit dans les régions qui chevauchent les zones de reconnaissance faciale et vocale à la bifurcation du sillon temporal supérieur.
+
+
+=== Mouvement biologique ===
+
+Le sillon temporal supérieur s'est avéré avoir une sensibilité unique aux manifestations observables de la compréhension du mouvement, ce qui suggère que le sillon temporal supérieur est fortement impliqué dans la reconnaissance des mouvements et des gestes nécessaires au traitement normal de l'information sociale chez l'homme.
+
+Dans des études d'IRMf évaluant l'interprétation d'un affichage à lumière ponctuelle qui représente une figure humaine en mouvement sous la forme d'un motif de points, un groupe d'activité cérébrale significative a été observé dans le sillon temporal supérieur postérieur de l'hémisphère droit chez des sujets qui ont correctement identifié le mouvement biologique. affiché sur l'affichage ponctuel.
+
+De plus, on pense que la perception et l'interprétation du mouvement sont localisées dans différentes régions du sillon temporal supérieur, la perception du mouvement étant traitée dans une région postérieure du sillon temporal supérieur et la compréhension du mouvement étant traitée dans une région plus antérieure.
+
+
+== Troubles neurologiques ==
+
+Dans les études sur la cognition sociale dysfonctionnelle dans les troubles neurologiques, comme ce qui est observé chez les personnes atteintes d'autisme de haut niveau, le rôle du sillon temporal supérieur dans le traitement de l'information sociale a été identifié comme le mécanisme à l'origine de ces troubles de la cognition sociale. interprétation.
+
+
+=== Autisme ===
+
+Il a été rapporté que les enfants atteints d'autisme de haut niveau n'ont pas de changement significatif dans l'activation du sillon temporal supérieur pour le mouvement biologique par rapport au mouvement non biologique, ce qui suggère que le sillon temporal supérieur n'est pas spécifiquement activé dans le traitement du mouvement biologique comme c'est le cas dans enfants sans autisme.
+
+Chez les sujets atteints de schizophrénie, un autre trouble neurologique associé à des troubles importants de la cognition sociale, ces troubles sociaux ont été liés à une altération de l'activation du sillon temporal supérieur postérieur dans la théorie affective de l'esprit, la reconnaissance émotionnelle et l'interprétation des expressions faciales neutres.
+
+Plus précisément, il a été déterminé que les sujets schizophrènes présentaient une hyperactivité dans le sillon temporal supérieur postérieur de l'hémisphère droit dans le traitement des expressions faciales neutres, mais ils présentaient également une hypoactivité dans cette même région pour la reconnaissance émotionnelle et la théorie affective de l'esprit.
+
+Cette même étude a également révélé une connectivité altérée entre les hémisphères droit et gauche du sillon temporal supérieur postérieur dans le traitement de la théorie affective de l'esprit.
+
+Une autre étude récente a montré qu'une relation inverse entre les concentrations de glutamate dans le sillon temporal supérieur et les scores de névrosisme évalués par questionnaire a été trouvée chez des sujets atteints de schizophrénie, ce qui suggère que des élévations des concentrations de glutamate peuvent agir comme un mécanisme compensatoire permettant aux personnes atteintes de schizophrénie de prévenir le névrosisme.
+
+
+=== Agnosie ===
+
+Divers troubles du STS ont été documentés dans lesquels les patients ne reconnaissent pas un certain stimulus, mais présentent toujours un traitement sous-cortical du stimulus, c'est ce qu'on appelle une agnosie.
+
+L'agnosie auditive pure (agnosie sans aphasie) se trouve chez un patient qui ne peut pas identifier les sons non vocaux tels que la toux, le sifflement et les pleurs, mais qui n'a pas de déficit de compréhension de la parole.
+
+L'agnosie de la parole est connue comme une incapacité à comprendre les mots parlés malgré une audition, une production de la parole et une capacité de lecture intactes.
+
+Les patients montrent une reconnaissance de la familiarité d'un mot, mais ne sont pas capables de se rappeler sa signification.
+
+La phonagnosie se caractérise par une incapacité à reconnaître des voix familières, tout en ayant d'autres capacités auditives.
+
+Les patients présentaient une double dissociation avec soit une incapacité à faire correspondre les noms ou les visages avec une certaine voix célèbre, soit à discriminer les voix familières des voix inconnues.
+
+L'agnosie visuelle peut être divisée en troubles distincts en ce qui concerne ce qui est reconnu.
+
+Une incapacité à reconnaître des mots écrits est connue sous le nom d'alexie ou de cécité des mots, tandis qu'une incapacité à reconnaître des visages familiers est connue sous le nom de prosopagnosie.
+
+Il a été démontré que la prosopagnosie a une double dissociation similaire à la phonagnosie en ce que certains patients présentent une altération de la mémoire pour les visages familiers tandis que d'autres présentent une altération lors de la discrimination des visages familiers des inconnus.
+
+
+
+https://en.wikipedia.org/wiki/Superior_temporal_sulcus

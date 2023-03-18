@@ -1,0 +1,592 @@
+
+
+NEOCORTEX
+
+
+The neocortex, also called the neopallium, isocortex, or the six-layered cortex, is a set of layers of the mammalian cerebral cortex involved in higher-order brain functions such as sensory perception, cognition, generation of motor commands, spatial reasoning and language. 
+
+The neocortex is further subdivided into the true isocortex and the proisocortex.In the human brain, the neocortex is the largest part of the cerebral cortex, which is the outer layer of the cerebrum, with the allocortex making up the rest. 
+
+The neocortex is made up of six layers, labelled from the outermost inwards, I to VI.
+
+
+== Etymology ==
+
+The term is from cortex, Latin, "bark" or "rind", combined with neo-, Greek, "new". 
+
+Neopallium is a similar hybrid, from Latin pallium, "cloak". 
+
+Isocortex and allocortex are hybrids with Greek isos, "same", and allos, "other".
+
+
+== Anatomy ==
+
+The neocortex is the most developed in its organisation and number of layers, of the cerebral tissues. 
+
+The neocortex consists of the grey matter, or neuronal cell bodies and unmyelinated fibers, surrounding the deeper white matter (myelinated axons) in the cerebrum. 
+
+This is a very thin layer though, about 2–4 mm thick. 
+
+There are two types of cortex in the neocortex, the proisocortex and the true isocortex. 
+
+The pro-isocortex is a transitional area between the true isocortex and the periallocortex (part of the allocortex). 
+
+It is found in the cingulate cortex (part of the limbic system), in Brodmann's areas 24, 25, 30 and 32, the insula and the parahippocampal gyrus.
+Of all the mammals studied to date (including humans), a species of oceanic dolphin known as the long-finned pilot whale has been found to have the most neocortical neurons.
+
+
+=== Geometry ===
+
+The neocortex is smooth in rodents and other small mammals, whereas in elephants, dolphins and primates and other larger mammals it has deep grooves (sulci) and ridges (gyri). 
+
+These folds allow the surface area of the neocortex to be greatly increased. 
+
+All human brains have the same overall pattern of main gyri and sulci, although they differ in detail from one person to another. 
+
+The mechanism by which the gyri form during embryogenesis is not entirely clear, and there are several competing hypotheses that explain gyrification, such as axonal tension, cortical buckling or differences in cellular proliferation rates in different areas of the cortex.
+
+
+=== Layers ===
+
+The neocortex contains both excitatory (~80%) and inhibitory (~20%) neurons, named for their effect on other neurons. 
+
+The structure of the neocortex is relatively uniform (hence the alternative names "iso-" and "homotypic" cortex), consisting of six horizontal layers segregated principally by cell type and neuronal connections. 
+
+However, there are many exceptions to this uniformity; for example, layer IV is small or missing in the primary motor cortex. 
+
+There is some canonical circuitry within the cortex; for example, pyramidal neurons in the upper layers II and III project their axons to other areas of neocortex, while those in the deeper layers V and VI often project out of the cortex, e.g. to the thalamus, brainstem, and spinal cord. 
+
+Neurons in layer IV receive the majority of the synaptic connections from outside the cortex (mostly from thalamus), and themselves make short-range, local connections to other cortical layers. 
+
+Thus, layer IV is the main recipient of incoming sensory information and distributes it to the other layers for further processing.
+
+
+=== Cortical columns ===
+
+The neocortex is often described as being arranged in vertical structures called cortical columns, patches of neocortex with a diameter of roughly 0.5 mm (and a depth of 2 mm, i.e., spanning all six layers). 
+
+These columns are often thought of as the basic repeating functional units of the neocortex, but their many definitions, in terms of anatomy, size, or function, are generally not consistent with each other, leading to a lack of consensus regarding their structure or function or even whether it makes sense to try to understand neocortex in terms of columns.
+
+
+== Function ==
+
+The neocortex is derived embryonically from the dorsal telencephalon, which is the rostral part of the forebrain. 
+
+The neocortex is divided, into regions demarcated by the cranial sutures in the skull above, into frontal, parietal, occipital, and temporal lobes, which perform different functions. 
+
+For example, the occipital lobe contains the primary visual cortex, and the temporal lobe contains the primary auditory cortex. 
+
+Further subdivisions or areas of neocortex are responsible for more specific cognitive processes. 
+
+In humans, the frontal lobe contains areas devoted to abilities that are enhanced in or unique to our species, such as complex language processing localized to the ventrolateral prefrontal cortex (Broca's area). 
+
+In humans and other primates, social and emotional processing is localized to the orbitofrontal cortex.
+The neocortex has also been shown to play an influential role in sleep, memory and learning processes. 
+
+Semantic memories appear to be stored in the neocortex, specifically the anterolateral temporal lobe of the neocortex. 
+
+It is also involved in instrumental conditioning; responsible for transmitting sensory information and information about plans for movement to the basal ganglia. 
+
+The firing rate of neurons in the neocortex also has an effect on slow-wave sleep. 
+
+When the neurons are at rest and are hyperpolarizing, a period of inhibition occurs during a slow oscillation, called the down state. 
+
+When the neurons of the neocortex are in the excitatory depolarizing phase and are firing briefly at a high rate, a period of excitation occurs during a slow oscillation, called the up state.
+
+
+== Clinical significance ==
+
+Lesions that develop in neurodegenerative disorders, such as Alzheimer's disease, interrupt the transfer of information from the sensory neocortex to the prefrontal neocortex. 
+
+This disruption of sensory information contributes to the progressive symptoms seen in neurodegenerative disorders such as changes in personality, decline in cognitive abilities, and dementia. 
+
+Damage to the neocortex of the anterolateral temporal lobe results in semantic dementia, which is the loss of memory of factual information (semantic memories). 
+
+These symptoms can also be replicated by transcranial magnetic stimulation of this area. 
+
+If damage is sustained to this area, patients do not develop anterograde amnesia and are able to recall episodic information.
+
+
+== Evolution ==
+
+
+The neocortex is the newest part of the cerebral cortex to evolve (hence the prefix neo meaning new); the other part of the cerebral cortex is the allocortex. 
+
+The cellular organization of the allocortex is different from the six-layered neocortex. 
+
+In humans, 90% of the cerebral cortex and 76% of the entire brain is neocortex.For a species to develop a larger neocortex, the brain must evolve in size so that it is large enough to support the region. 
+
+Body size, basal metabolic rate and life history are factors affecting brain evolution and the coevolution of neocortex size and group size. 
+
+The neocortex increased in size in response to pressures for greater cooperation and competition in early ancestors. 
+
+With the size increase, there was greater voluntary inhibitory control of social behaviors resulting in increased social harmony.The six-layer cortex appears to be a distinguishing feature of mammals; it has been found in the brains of all mammals, but not in any other animals. 
+
+There is some debate, however, as to the cross-species nomenclature for neocortex. 
+
+In avians, for instance, there are clear examples of cognitive processes that are thought to be neocortical in nature, despite the lack of the distinctive six-layer neocortical structure. 
+
+In a similar manner, reptiles, such as turtles, have primary sensory cortices. 
+
+A consistent, alternative name has yet to be agreed upon.
+
+
+== Neocortex ratio ==
+
+The neocortex ratio of a species is the ratio of the size of the neocortex to the rest of the brain. 
+
+A high neocortex ratio is thought to correlate with a number of social variables such as group size and the complexity of social mating behaviors. 
+
+Humans have a large neocortex as a percentage of total brain matter when compared with other mammals. 
+
+For example, there is only a 30:1 ratio of neocortical gray matter to the size of the medulla in the brainstem of chimpanzees, while the ratio is 60:1 in humans.
+
+
+
+https://en.wikipedia.org/wiki/Neocortex
+;;;ES;;;
+
+
+
+NEOCORTEX
+
+
+La neocorteza, también llamada neopalio, isocorteza o corteza de seis capas, es un conjunto de capas de la corteza cerebral de los mamíferos involucradas en funciones cerebrales de orden superior, como la percepción sensorial, la cognición, la generación de comandos motores, el razonamiento espacial y el lenguaje. .
+
+La neocorteza se subdivide en la verdadera isocorteza y la proisocorteza. En el cerebro humano, la neocorteza es la parte más grande de la corteza cerebral, que es la capa externa del cerebro, y la alocorteza constituye el resto.
+
+El neocórtex está formado por seis capas, etiquetadas desde el exterior hacia el interior, I a VI.
+
+
+== Etimología ==
+
+El término proviene de corteza, latín, "corteza" o "corteza", combinado con neo-, griego, "nuevo".
+
+Neopallium es un híbrido similar, del latín pallium, "capa".
+
+Isocortex y allocortex son híbridos del griego isos, "mismo", y allos, "otro".
+
+
+== Anatomía ==
+
+El neocórtex es el más desarrollado en su organización y número de capas, de los tejidos cerebrales.
+
+La neocorteza consta de materia gris, o cuerpos de células neuronales y fibras amielínicas, que rodean la materia blanca más profunda (axones mielinizados) en el cerebro.
+
+Sin embargo, esta es una capa muy delgada, de unos 2 a 4 mm de espesor.
+
+Hay dos tipos de corteza en la neocorteza, la proisocorteza y la verdadera isocorteza.
+
+La pro-isocorteza es un área de transición entre la verdadera isocorteza y la periallocorteza (parte de la alocorteza).
+
+Se encuentra en la corteza cingulada (parte del sistema límbico), en las áreas de Brodmann 24, 25, 30 y 32, la ínsula y la circunvolución parahipocampal.
+De todos los mamíferos estudiados hasta la fecha (incluidos los humanos), se ha descubierto que una especie de delfín oceánico conocida como calderón de aleta larga tiene la mayor cantidad de neuronas neocorticales.
+
+
+=== Geometría ===
+
+La neocorteza es lisa en roedores y otros mamíferos pequeños, mientras que en elefantes, delfines y primates y otros mamíferos más grandes tiene surcos profundos (surcos) y crestas (circunvoluciones).
+
+Estos pliegues permiten que el área superficial de la neocorteza aumente considerablemente.
+
+Todos los cerebros humanos tienen el mismo patrón general de circunvoluciones y surcos principales, aunque difieren en los detalles de una persona a otra.
+
+El mecanismo por el cual se forman las circunvoluciones durante la embriogénesis no está del todo claro, y existen varias hipótesis en competencia que explican la girificación, como la tensión axonal, el pandeo cortical o las diferencias en las tasas de proliferación celular en diferentes áreas de la corteza.
+
+
+=== Capas ===
+
+El neocórtex contiene neuronas excitatorias (~80%) e inhibidoras (~20%), denominadas así por su efecto sobre otras neuronas.
+
+La estructura de la neocorteza es relativamente uniforme (de ahí los nombres alternativos de corteza "iso-" y "homotípica") y consta de seis capas horizontales segregadas principalmente por el tipo de célula y las conexiones neuronales.
+
+Sin embargo, hay muchas excepciones a esta uniformidad; por ejemplo, la capa IV es pequeña o falta en la corteza motora primaria.
+
+Hay algunos circuitos canónicos dentro de la corteza; por ejemplo, las neuronas piramidales de las capas superiores II y III proyectan sus axones a otras áreas de la neocorteza, mientras que las de las capas más profundas V y VI a menudo se proyectan fuera de la corteza, por ejemplo, al tálamo, el tronco encefálico y la médula espinal.
+
+Las neuronas en la capa IV reciben la mayoría de las conexiones sinápticas desde fuera de la corteza (principalmente del tálamo), y ellas mismas establecen conexiones locales de corto alcance con otras capas corticales.
+
+Por lo tanto, la capa IV es el principal receptor de la información sensorial entrante y la distribuye a las otras capas para su posterior procesamiento.
+
+
+=== Columnas corticales ===
+
+La neocorteza a menudo se describe como dispuesta en estructuras verticales denominadas columnas corticales, parches de neocorteza con un diámetro de aproximadamente 0,5 mm (y una profundidad de 2 mm, es decir, que abarcan las seis capas).
+
+Estas columnas a menudo se consideran las unidades funcionales repetitivas básicas de la neocorteza, pero sus muchas definiciones, en términos de anatomía, tamaño o función, generalmente no son consistentes entre sí, lo que lleva a una falta de consenso con respecto a su estructura o función. o incluso si tiene sentido tratar de entender la neocorteza en términos de columnas.
+
+
+== Función ==
+
+El neocórtex se deriva embrionariamente del telencéfalo dorsal, que es la parte rostral del cerebro anterior.
+
+La neocorteza se divide, en regiones delimitadas por las suturas craneales en la parte superior del cráneo, en lóbulos frontal, parietal, occipital y temporal, que realizan diferentes funciones.
+
+Por ejemplo, el lóbulo occipital contiene la corteza visual primaria y el lóbulo temporal contiene la corteza auditiva primaria.
+
+Otras subdivisiones o áreas del neocórtex son responsables de procesos cognitivos más específicos.
+
+En los humanos, el lóbulo frontal contiene áreas dedicadas a habilidades que son mejoradas o exclusivas de nuestra especie, como el procesamiento complejo del lenguaje localizado en la corteza prefrontal ventrolateral (área de Broca).
+
+En humanos y otros primates, el procesamiento social y emocional se localiza en la corteza orbitofrontal.
+También se ha demostrado que la neocorteza juega un papel influyente en los procesos de sueño, memoria y aprendizaje.
+
+Los recuerdos semánticos parecen almacenarse en la neocorteza, específicamente en el lóbulo temporal anterolateral de la neocorteza.
+
+También está involucrado en el condicionamiento instrumental; responsable de transmitir información sensorial e información sobre planes de movimiento a los ganglios basales.
+
+La tasa de activación de las neuronas en la neocorteza también tiene un efecto sobre el sueño de ondas lentas.
+
+Cuando las neuronas están en reposo y se están hiperpolarizando, se produce un período de inhibición durante una oscilación lenta, llamado estado inactivo.
+
+Cuando las neuronas de la neocorteza se encuentran en la fase de despolarización excitatoria y disparan brevemente a un ritmo elevado, se produce un período de excitación durante una oscilación lenta, denominado estado activo.
+
+
+== Importancia clínica ==
+
+Las lesiones que se desarrollan en los trastornos neurodegenerativos, como la enfermedad de Alzheimer, interrumpen la transferencia de información desde la neocorteza sensorial a la neocorteza prefrontal.
+
+Esta interrupción de la información sensorial contribuye a los síntomas progresivos que se observan en los trastornos neurodegenerativos, como cambios en la personalidad, disminución de las capacidades cognitivas y demencia.
+
+El daño a la neocorteza del lóbulo temporal anterolateral da como resultado la demencia semántica, que es la pérdida de la memoria de información fáctica (recuerdos semánticos).
+
+Estos síntomas también pueden replicarse mediante la estimulación magnética transcraneal de esta zona.
+
+Si se mantiene el daño en esta área, los pacientes no desarrollan amnesia anterógrada y pueden recordar información episódica.
+
+
+== Evolución ==
+
+
+La neocorteza es la parte más nueva de la corteza cerebral en evolucionar (de ahí el prefijo neo que significa nuevo); la otra parte de la corteza cerebral es la alocorteza.
+
+La organización celular de la alocorteza es diferente de la neocorteza de seis capas.
+
+En los humanos, el 90 % de la corteza cerebral y el 76 % de todo el cerebro es neocorteza. Para que una especie desarrolle una neocorteza más grande, el cerebro debe evolucionar en tamaño para que sea lo suficientemente grande como para soportar la región.
+
+El tamaño del cuerpo, la tasa metabólica basal y la historia de vida son factores que afectan la evolución del cerebro y la coevolución del tamaño de la neocorteza y el tamaño del grupo.
+
+El neocórtex aumentó de tamaño en respuesta a las presiones por una mayor cooperación y competencia en los primeros antepasados.
+
+Con el aumento de tamaño, hubo un mayor control inhibitorio voluntario de los comportamientos sociales, lo que resultó en una mayor armonía social. La corteza de seis capas parece ser una característica distintiva de los mamíferos; se ha encontrado en el cerebro de todos los mamíferos, pero no en ningún otro animal.
+
+Sin embargo, existe cierto debate en cuanto a la nomenclatura entre especies para el neocórtex.
+
+En las aves, por ejemplo, hay ejemplos claros de procesos cognitivos que se cree que son de naturaleza neocortical, a pesar de la falta de la estructura neocortical distintiva de seis capas.
+
+De manera similar, los reptiles, como las tortugas, tienen cortezas sensoriales primarias.
+
+Aún no se ha acordado un nombre alternativo consistente.
+
+
+== Proporción de neocórtex ==
+
+La proporción de neocorteza de una especie es la proporción del tamaño de la neocorteza con respecto al resto del cerebro.
+
+Se cree que una proporción alta de neocórtex se correlaciona con una serie de variables sociales, como el tamaño del grupo y la complejidad de los comportamientos sociales de apareamiento.
+
+Los humanos tienen una gran neocorteza como porcentaje de la materia cerebral total en comparación con otros mamíferos.
+
+Por ejemplo, solo hay una proporción de 30:1 de materia gris neocortical al tamaño de la médula en el tronco encefálico de los chimpancés, mientras que la proporción es de 60:1 en los humanos.
+
+
+
+https://en.wikipedia.org/wiki/Neocortex
+
+;;;PT;;;
+
+
+
+NEOCÓRTEX
+
+
+O neocórtex, também chamado de neopálio, isocórtex ou córtex de seis camadas, é um conjunto de camadas do córtex cerebral de mamíferos envolvidas em funções cerebrais de ordem superior, como percepção sensorial, cognição, geração de comandos motores, raciocínio espacial e linguagem. .
+
+O neocórtex é subdividido em isocórtex verdadeiro e proisocórtex. No cérebro humano, o neocórtex é a maior parte do córtex cerebral, que é a camada externa do cérebro, com o alocórtex constituindo o resto.
+
+O neocórtex é composto por seis camadas, rotuladas da mais externa para dentro, I a VI.
+
+
+== Etimologia ==
+
+O termo é de córtex, latim, "casca" ou "casca", combinado com neo-, grego, "novo".
+
+Neopallium é um híbrido semelhante, do latim pallium, "manto".
+
+Isocórtex e alocórtex são híbridos com isos gregos, "mesmo", e allos, "outro".
+
+
+== Anatomia ==
+
+O neocórtex é o mais desenvolvido em sua organização e número de camadas, dos tecidos cerebrais.
+
+O neocórtex consiste na substância cinzenta, ou corpos celulares neuronais e fibras não mielinizadas, circundando a substância branca mais profunda (axônios mielinizados) no cérebro.
+
+Esta é uma camada muito fina, com cerca de 2 a 4 mm de espessura.
+
+Existem dois tipos de córtex no neocórtex, o proisocórtex e o verdadeiro isocórtex.
+
+O pró-isocórtex é uma área de transição entre o verdadeiro isocórtex e o periallocórtex (parte do alocórtex).
+
+Encontra-se no córtex cingulado (parte do sistema límbico), nas áreas de Brodmann 24, 25, 30 e 32, na ínsula e no giro parahipocampal.
+De todos os mamíferos estudados até o momento (incluindo humanos), uma espécie de golfinho oceânico conhecida como baleia-piloto de barbatana longa foi encontrada com a maioria dos neurônios neocorticais.
+
+
+=== Geometria ===
+
+O neocórtex é liso em roedores e outros pequenos mamíferos, enquanto em elefantes, golfinhos e primatas e outros mamíferos maiores tem sulcos profundos e sulcos (giros).
+
+Essas dobras permitem que a área de superfície do neocórtex seja muito aumentada.
+
+Todos os cérebros humanos têm o mesmo padrão geral de giros e sulcos principais, embora difiram em detalhes de uma pessoa para outra.
+
+O mecanismo pelo qual os giros se formam durante a embriogênese não é totalmente claro, e existem várias hipóteses concorrentes que explicam a girificação, como tensão axonal, flambagem cortical ou diferenças nas taxas de proliferação celular em diferentes áreas do córtex.
+
+
+=== Camadas ===
+
+O neocórtex contém neurônios excitatórios (~80%) e inibitórios (~20%), nomeados por seu efeito sobre outros neurônios.
+
+A estrutura do neocórtex é relativamente uniforme (daí os nomes alternativos "iso-" e córtex "homotípico"), consistindo de seis camadas horizontais segregadas principalmente por tipo de célula e conexões neuronais.
+
+No entanto, existem muitas exceções a essa uniformidade; por exemplo, a camada IV é pequena ou está ausente no córtex motor primário.
+
+Há alguns circuitos canônicos dentro do córtex; por exemplo, neurônios piramidais nas camadas superiores II e III projetam seus axônios para outras áreas do neocórtex, enquanto aqueles nas camadas mais profundas V e VI frequentemente se projetam para fora do córtex, por exemplo, para o tálamo, tronco cerebral e medula espinhal.
+
+Neurônios na camada IV recebem a maioria das conexões sinápticas de fora do córtex (principalmente do tálamo), e eles próprios fazem conexões locais de curto alcance com outras camadas corticais.
+
+Assim, a camada IV é a principal receptora das informações sensoriais recebidas e as distribui para as outras camadas para processamento posterior.
+
+
+=== Colunas corticais ===
+
+O neocórtex é frequentemente descrito como sendo organizado em estruturas verticais chamadas colunas corticais, manchas de neocórtex com um diâmetro de aproximadamente 0,5 mm (e uma profundidade de 2 mm, ou seja, abrangendo todas as seis camadas).
+
+Essas colunas são muitas vezes consideradas as unidades funcionais repetitivas básicas do neocórtex, mas suas muitas definições, em termos de anatomia, tamanho ou função, geralmente não são consistentes entre si, levando a uma falta de consenso em relação à sua estrutura ou função. ou mesmo se faz sentido tentar entender o neocórtex em termos de colunas.
+
+
+== Função ==
+
+O neocórtex é derivado embrionário do telencéfalo dorsal, que é a parte rostral do prosencéfalo.
+
+O neocórtex é dividido, em regiões demarcadas pelas suturas cranianas no crânio acima, em lobos frontal, parietal, occipital e temporal, que desempenham diferentes funções.
+
+Por exemplo, o lobo occipital contém o córtex visual primário e o lobo temporal contém o córtex auditivo primário.
+
+Outras subdivisões ou áreas do neocórtex são responsáveis ​​por processos cognitivos mais específicos.
+
+Nos humanos, o lobo frontal contém áreas dedicadas a habilidades que são aprimoradas ou exclusivas de nossa espécie, como o processamento de linguagem complexo localizado no córtex pré-frontal ventrolateral (área de Broca).
+
+Em humanos e outros primatas, o processamento social e emocional está localizado no córtex orbitofrontal.
+O neocórtex também demonstrou desempenhar um papel influente nos processos de sono, memória e aprendizado.
+
+As memórias semânticas parecem ser armazenadas no neocórtex, especificamente no lobo temporal anterolateral do neocórtex.
+
+Também está envolvido no condicionamento instrumental; responsável por transmitir informações sensoriais e informações sobre planos de movimento para os gânglios da base.
+
+A taxa de disparo dos neurônios no neocórtex também afeta o sono de ondas lentas.
+
+Quando os neurônios estão em repouso e hiperpolarizando, ocorre um período de inibição durante uma oscilação lenta, chamada de estado descendente.
+
+Quando os neurônios do neocórtex estão na fase excitatória despolarizante e estão disparando brevemente em alta taxa, ocorre um período de excitação durante uma oscilação lenta, chamada de estado ascendente.
+
+
+== Significado clínico ==
+
+As lesões que se desenvolvem em distúrbios neurodegenerativos, como a doença de Alzheimer, interrompem a transferência de informações do neocórtex sensorial para o neocórtex pré-frontal.
+
+Essa interrupção da informação sensorial contribui para os sintomas progressivos observados em distúrbios neurodegenerativos, como mudanças na personalidade, declínio nas habilidades cognitivas e demência.
+
+Danos ao neocórtex do lobo temporal anterolateral resulta em demência semântica, que é a perda de memória de informações factuais (memórias semânticas).
+
+Esses sintomas também podem ser replicados pela estimulação magnética transcraniana dessa área.
+
+Se houver dano nessa área, os pacientes não desenvolvem amnésia anterógrada e são capazes de recordar informações episódicas.
+
+
+== Evolução ==
+
+
+O neocórtex é a parte mais recente do córtex cerebral a evoluir (daí o prefixo neo significa novo); a outra parte do córtex cerebral é o alocórtex.
+
+A organização celular do alocórtex é diferente do neocórtex de seis camadas.
+
+Nos humanos, 90% do córtex cerebral e 76% de todo o cérebro é neocórtex. Para uma espécie desenvolver um neocórtex maior, o cérebro deve evoluir em tamanho para que seja grande o suficiente para sustentar a região.
+
+O tamanho corporal, a taxa metabólica basal e a história de vida são fatores que afetam a evolução do cérebro e a coevolução do tamanho do neocórtex e do tamanho do grupo.
+
+O neocórtex aumentou de tamanho em resposta às pressões por maior cooperação e competição nos primeiros ancestrais.
+
+Com o aumento do tamanho, houve maior controle inibitório voluntário dos comportamentos sociais, resultando em maior harmonia social. O córtex de seis camadas parece ser uma característica distintiva dos mamíferos; foi encontrado nos cérebros de todos os mamíferos, mas não em quaisquer outros animais.
+
+Há algum debate, no entanto, quanto à nomenclatura entre espécies para neocórtex.
+
+Em aves, por exemplo, há exemplos claros de processos cognitivos que se acredita serem de natureza neocortical, apesar da falta da estrutura neocortical distinta de seis camadas.
+
+De maneira semelhante, os répteis, como as tartarugas, têm córtices sensoriais primários.
+
+Um nome alternativo consistente ainda não foi acordado.
+
+
+== Relação do neocórtex ==
+
+A razão do neocórtex de uma espécie é a razão entre o tamanho do neocórtex e o resto do cérebro.
+
+Acredita-se que uma alta proporção de neocórtex esteja correlacionada com várias variáveis ​​sociais, como tamanho do grupo e a complexidade dos comportamentos sociais de acasalamento.
+
+Os humanos têm um grande neocórtex como porcentagem da matéria cerebral total quando comparados com outros mamíferos.
+
+Por exemplo, existe apenas uma proporção de 30:1 de matéria cinzenta neocortical para o tamanho da medula no tronco cerebral de chimpanzés, enquanto a proporção é de 60:1 em humanos.
+
+
+
+https://en.wikipedia.org/wiki/Neocortex
+
+;;;FR;;;
+
+
+
+NÉOCORTEX
+
+
+Le néocortex, également appelé néopallium, isocortex ou cortex à six couches, est un ensemble de couches du cortex cérébral des mammifères impliquées dans les fonctions cérébrales d'ordre supérieur telles que la perception sensorielle, la cognition, la génération de commandes motrices, le raisonnement spatial et le langage. .
+
+Le néocortex est subdivisé en isocortex véritable et proisocortex. Dans le cerveau humain, le néocortex est la plus grande partie du cortex cérébral, qui est la couche externe du cerveau, l'allocortex constituant le reste.
+
+Le néocortex est composé de six couches, étiquetées de l'extrême vers l'intérieur, I à VI.
+
+
+== Etymologie ==
+
+Le terme vient du cortex, latin, "écorce" ou "écorce", combiné avec néo-, grec, "nouveau".
+
+Neopallium est un hybride similaire, du latin pallium, "manteau".
+
+L'isocortex et l'allocortex sont des hybrides avec le grec isos, "même", et allos, "autre".
+
+
+== Anatomie ==
+
+Le néocortex est le plus développé dans son organisation et son nombre de couches, des tissus cérébraux.
+
+Le néocortex est constitué de la matière grise, ou des corps cellulaires neuronaux et des fibres non myélinisées, entourant la substance blanche plus profonde (axones myélinisés) dans le cerveau.
+
+Il s'agit cependant d'une couche très fine, d'environ 2 à 4 mm d'épaisseur.
+
+Il existe deux types de cortex dans le néocortex, le proisocortex et le véritable isocortex.
+
+Le pro-isocortex est une zone de transition entre le véritable isocortex et le périallocortex (partie de l'allocortex).
+
+On le trouve dans le cortex cingulaire (partie du système limbique), dans les aires de Brodmann 24, 25, 30 et 32, l'insula et le gyrus parahippocampique.
+De tous les mammifères étudiés à ce jour (y compris les humains), une espèce de dauphin océanique connue sous le nom de globicéphale à longues nageoires s'est avérée avoir le plus de neurones néocorticaux.
+
+
+=== Géométrie ===
+
+Le néocortex est lisse chez les rongeurs et autres petits mammifères, tandis que chez les éléphants, les dauphins et les primates et autres grands mammifères, il présente des rainures profondes (sulci) et des crêtes (gyri).
+
+Ces plis permettent d'augmenter fortement la surface du néocortex.
+
+Tous les cerveaux humains ont le même schéma global de gyri et de sulci principaux, bien qu'ils diffèrent en détail d'une personne à l'autre.
+
+Le mécanisme par lequel les gyri se forment au cours de l'embryogenèse n'est pas entièrement clair, et il existe plusieurs hypothèses concurrentes qui expliquent la gyrification, telles que la tension axonale, le flambage cortical ou les différences de taux de prolifération cellulaire dans différentes zones du cortex.
+
+
+=== Couches ===
+
+Le néocortex contient à la fois des neurones excitateurs (~ 80%) et inhibiteurs (~ 20%), nommés pour leur effet sur d'autres neurones.
+
+La structure du néocortex est relativement uniforme (d'où les noms alternatifs de cortex "iso-" et "homotypique"), constituée de six couches horizontales séparées principalement par le type de cellule et les connexions neuronales.
+
+Cependant, il existe de nombreuses exceptions à cette uniformité; par exemple, la couche IV est petite ou manquante dans le cortex moteur primaire.
+
+Il existe des circuits canoniques dans le cortex; par exemple, les neurones pyramidaux des couches supérieures II et III projettent leurs axones vers d'autres zones du néocortex, tandis que ceux des couches plus profondes V et VI se projettent souvent hors du cortex, par exemple vers le thalamus, le tronc cérébral et la moelle épinière.
+
+Les neurones de la couche IV reçoivent la majorité des connexions synaptiques de l'extérieur du cortex (principalement du thalamus) et établissent eux-mêmes des connexions locales à courte portée avec d'autres couches corticales.
+
+Ainsi, la couche IV est le principal destinataire des informations sensorielles entrantes et les distribue aux autres couches pour un traitement ultérieur.
+
+
+=== Colonnes corticales ===
+
+Le néocortex est souvent décrit comme étant disposé en structures verticales appelées colonnes corticales, des plaques de néocortex d'un diamètre d'environ 0,5 mm (et d'une profondeur de 2 mm, c'est-à-dire couvrant les six couches).
+
+Ces colonnes sont souvent considérées comme les unités fonctionnelles répétitives de base du néocortex, mais leurs nombreuses définitions, en termes d'anatomie, de taille ou de fonction, ne sont généralement pas cohérentes les unes avec les autres, ce qui conduit à un manque de consensus concernant leur structure ou leur fonction. ou même s'il est logique d'essayer de comprendre le néocortex en termes de colonnes.
+
+
+== Fonction ==
+
+Le néocortex est dérivé embryonnairement du télencéphale dorsal, qui est la partie rostrale du cerveau antérieur.
+
+Le néocortex est divisé, en régions délimitées par les sutures crâniennes dans le crâne au-dessus, en lobes frontal, pariétal, occipital et temporal, qui remplissent différentes fonctions.
+
+Par exemple, le lobe occipital contient le cortex visuel primaire et le lobe temporal contient le cortex auditif primaire.
+
+D'autres subdivisions ou zones du néocortex sont responsables de processus cognitifs plus spécifiques.
+
+Chez l'homme, le lobe frontal contient des zones consacrées à des capacités améliorées ou uniques à notre espèce, telles que le traitement complexe du langage localisé dans le cortex préfrontal ventrolatéral (aire de Broca).
+
+Chez les humains et les autres primates, le traitement social et émotionnel est localisé dans le cortex orbitofrontal.
+Il a également été démontré que le néocortex joue un rôle influent dans les processus de sommeil, de mémoire et d'apprentissage.
+
+Les mémoires sémantiques semblent être stockées dans le néocortex, en particulier le lobe temporal antérolatéral du néocortex.
+
+Il est également impliqué dans le conditionnement instrumental ; responsable de la transmission des informations sensorielles et des informations sur les plans de mouvement aux ganglions de la base.
+
+Le taux de déclenchement des neurones dans le néocortex a également un effet sur le sommeil à ondes lentes.
+
+Lorsque les neurones sont au repos et en hyperpolarisation, une période d'inhibition se produit lors d'une oscillation lente, appelée état bas.
+
+Lorsque les neurones du néocortex sont en phase de dépolarisation excitatrice et s'activent brièvement à un rythme élevé, une période d'excitation se produit lors d'une oscillation lente, appelée état haut.
+
+
+== Signification clinique ==
+
+Les lésions qui se développent dans les maladies neurodégénératives, telles que la maladie d'Alzheimer, interrompent le transfert d'informations du néocortex sensoriel vers le néocortex préfrontal.
+
+Cette perturbation des informations sensorielles contribue aux symptômes progressifs observés dans les troubles neurodégénératifs tels que les changements de personnalité, le déclin des capacités cognitives et la démence.
+
+Les dommages au néocortex du lobe temporal antérolatéral entraînent une démence sémantique, qui est la perte de mémoire d'informations factuelles (mémoires sémantiques).
+
+Ces symptômes peuvent également être reproduits par une stimulation magnétique transcrânienne de cette zone.
+
+Si des dommages sont subis dans cette zone, les patients ne développent pas d'amnésie antérograde et sont capables de se rappeler des informations épisodiques.
+
+
+== Évolution ==
+
+
+Le néocortex est la partie la plus récente du cortex cérébral à évoluer (d'où le préfixe néo signifiant nouveau) ; l'autre partie du cortex cérébral est l'allocortex.
+
+L'organisation cellulaire de l'allocortex est différente de celle du néocortex à six couches.
+
+Chez l'homme, 90 % du cortex cérébral et 76 % de l'ensemble du cerveau sont du néocortex. Pour qu'une espèce développe un néocortex plus grand, le cerveau doit évoluer en taille afin qu'il soit suffisamment grand pour supporter la région.
+
+La taille corporelle, le taux métabolique basal et l'histoire de la vie sont des facteurs affectant l'évolution du cerveau et la coévolution de la taille du néocortex et de la taille du groupe.
+
+Le néocortex a augmenté de taille en réponse aux pressions pour une plus grande coopération et compétition chez les premiers ancêtres.
+
+Avec l'augmentation de la taille, il y avait un plus grand contrôle inhibiteur volontaire des comportements sociaux résultant en une harmonie sociale accrue. Le cortex à six couches semble être une caractéristique distinctive des mammifères; il a été trouvé dans le cerveau de tous les mammifères, mais pas chez d'autres animaux.
+
+Il y a cependant un débat sur la nomenclature inter-espèces du néocortex.
+
+Chez les oiseaux, par exemple, il existe des exemples clairs de processus cognitifs que l'on pense être de nature néocorticale, malgré l'absence de la structure néocorticale distinctive à six couches.
+
+De la même manière, les reptiles, tels que les tortues, ont des cortex sensoriels primaires.
+
+Un nom alternatif cohérent doit encore être convenu.
+
+
+== Rapport néocortex ==
+
+Le rapport néocortex d'une espèce est le rapport de la taille du néocortex au reste du cerveau.
+
+On pense qu'un ratio élevé de néocortex est en corrélation avec un certain nombre de variables sociales telles que la taille du groupe et la complexité des comportements sociaux d'accouplement.
+
+Les humains ont un grand néocortex en pourcentage de la matière cérébrale totale par rapport aux autres mammifères.
+
+Par exemple, il n'y a qu'un rapport de 30: 1 de matière grise néocorticale à la taille de la moelle dans le tronc cérébral des chimpanzés, alors que le rapport est de 60: 1 chez l'homme.
+
+
+
+https://en.wikipedia.org/wiki/Néocortex

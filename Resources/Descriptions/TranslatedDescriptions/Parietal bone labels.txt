@@ -1,0 +1,72 @@
+PARIETAL BONE
+    Internal surface of parietal bone
+        Groove for middle meningeal artery
+    External surface of parietal bone
+        Superior temporal line
+        Inferior temporal line
+        Parietal eminence
+    Occipital border of parietal bone
+    Squamosal border of parietal bone
+    Sagittal border of parietal bone
+    Frontal border of parietal bone
+    Frontal angle of parietal bone
+    Occipital angle of parietal bone
+    Sphenoidal angle of parietal bone
+    Mastoid angle of parietal bone
+    Parietal foramen
+;;;ES;;;
+
+HUESO PARIETAL
+Superficie interna del hueso parietal
+Surco para arteria meníngea media
+Superficie externa del hueso parietal
+Línea temporal superior
+Línea temporal inferior
+eminencia parietal
+Borde occipital del hueso parietal
+Borde escamoso del hueso parietal
+Borde sagital del hueso parietal
+Borde frontal del hueso parietal
+Ángulo frontal del hueso parietal
+Ángulo occipital del hueso parietal
+Ángulo esfenoidal del hueso parietal
+Ángulo mastoideo del hueso parietal
+Agujero parietal
+
+;;;PT;;;
+
+OSSO PARIETAL
+Superfície interna do osso parietal
+Sulco para a artéria meníngea média
+Superfície externa do osso parietal
+Linha temporal superior
+Linha temporal inferior
+Eminência parietal
+Margem occipital do osso parietal
+Borda esquamosal do osso parietal
+Borda sagital do osso parietal
+Borda frontal do osso parietal
+Ângulo frontal do osso parietal
+Ângulo occipital do osso parietal
+Ângulo esfenoidal do osso parietal
+Ângulo mastóide do osso parietal
+Forame parietal
+
+;;;FR;;;
+
+L'OS PARIÉTAL
+Face interne de l'os pariétal
+Rainure pour l'artère méningée moyenne
+Surface externe de l'os pariétal
+Ligne temporale supérieure
+Ligne temporale inférieure
+Éminence pariétale
+Bord occipital de l'os pariétal
+Bord squamosal de l'os pariétal
+Bord sagittal de l'os pariétal
+Bord frontal de l'os pariétal
+Angle frontal de l'os pariétal
+Angle occipital de l'os pariétal
+Angle sphénoïdal de l'os pariétal
+Angle mastoïde de l'os pariétal
+Foramen pariétal

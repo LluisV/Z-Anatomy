@@ -1,0 +1,260 @@
+
+
+HABENULAR NUCLEI
+
+
+The habenular nuclei (habenula is Latin for "little rein") act as regulators of key central nervous system neurotransmitters, connecting the forebrain and midbrain within the epithalamus. 
+
+Although they were predominantly studied for their demonstration of asymmetrical brain development and function, in recent years many scientists have begun to examine the habenular nuclei's role in motivation and behavior as it relates to an understanding of the physiology of addiction.
+
+
+== Anatomy and connectivity ==
+
+The habenular nuclei comprise a small group of nuclei that are part of the epithalamus of the diencephalon, and is located just above the thalamus and is divided into two asymmetric halves: the medial habenula (MHb) and the lateral habenula (LHb). 
+
+These nuclei are hypothesized to be involved in regulation of monamines, such as dopamine and serotonin. 
+
+The medial habenula receives connections from posterior septum pellucidum and diagonal band of Broca; the lateral habenula receives afferents from the lateral hypothalamus, nucleus accumbens, internal globus pallidus, ventral pallidum, and diagonal band of Broca. 
+
+As a whole, this complexly interconnected region is part of the dorsal diencephalic conduction (DDC) system, responsible for relaying information from the limbic system to the midbrain, hindbrain, and medial forebrain.The right and left habenular nuclei are connected to each other by the habenular commissure.
+Habenula nuclear divisions:
+
+lateral habenular nucleus (hier-278 at NeuroNames, )
+medial habenular nucleus (hier-279 at NeuroNames, )The pineal gland is attached to the brain in this region.
+Nerve impulses from the habenular nuclei are transmitted to the septal nuclei via the stria medullaris, which is found on the medial surface of the thalamus.
+Axons from habenular nucleus pass to interpeduncular fossa, the tectum of midbrain, the thalamus and the reticular formation of the midbrain.
+
+
+== Motivation and addiction ==
+
+Recent exploration of the habenular nuclei has begun to associate the structure with an organism's current mood, feeling of motivation, and reward recognition. 
+
+Previously, the LHb has been identified as an "anti-reward" signal, but recent research suggests that the LHb helps identify preference, helping the brain to discriminate between potential actions and subsequent motivation decisions. 
+
+In a study using a Pavlovian conditioning model, results showed an increase in the habenula response. 
+
+This increase coincided with conditioned stimuli associated with more aversive punishments (ie. electric shock). 
+
+Therefore, researchers speculate that inhibition or damage to the LHb resulting in a failure to process such information may lead to random motivation behavior.LHb is especially important in understanding the reward and motivation relationship as it relates to addictive behaviors. 
+
+The LHb inhibits dopaminergic neurons, decreasing the release of dopamine. 
+
+It was determined by several animal studies that receiving a reward coincided with elevated dopamine levels, but once the learned association was learned by the animal, dopamine levels remain elevated, only decreasing when the reward is removed. 
+
+Therefore, dopamine levels only increase with unpredicted rewards and with a "positive prediction error". 
+
+Moreover, it was determined that removal of an anticipated award activated LHb, inhibited dopamine levels. 
+
+This finding helps explain why addictive drugs are associated with elevated dopamine levels.
+
+
+=== Nicotine and nAChRs ===
+
+According to the National Institute on Drug Abuse, 1 in 5 preventable deaths, in the United States, is caused by tobacco use. 
+
+Nicotine is the addictive drug found in most tobacco products and is easily absorbed by the bloodstream of the body. 
+
+Despite common misconceptions regarding the relaxing effects of tobacco and nicotine use, behavioral testing in animals has demonstrated nicotine to have an anxiogenic effect. 
+
+Nicotinic acetylcholine receptors (nAChRs) have been identified as the primary site for nicotine activity and regulate consequent cellular polarization. nAChRs are made up a number of α and β subunits and are found in both the LHb and MHb, where research suggests they may play a key role in addiction and withdrawal behaviors.
+
+
+
+https://en.wikipedia.org/wiki/Habenular_nuclei
+;;;ES;;;
+
+
+
+NÚCLEO HABENULAR
+
+
+Los núcleos habenulares (habenula en latín significa "pequeña rienda") actúan como reguladores de los neurotransmisores clave del sistema nervioso central, conectando el prosencéfalo y el mesencéfalo dentro del epitálamo.
+
+Aunque se estudiaron predominantemente por su demostración de desarrollo y función cerebral asimétrica, en los últimos años muchos científicos han comenzado a examinar el papel de los núcleos habenulares en la motivación y el comportamiento en relación con la comprensión de la fisiología de la adicción.
+
+
+== Anatomía y conectividad ==
+
+Los núcleos habenulares comprenden un pequeño grupo de núcleos que forman parte del epitálamo del diencéfalo, y se encuentra justo encima del tálamo y se divide en dos mitades asimétricas: la habénula medial (MHb) y la habénula lateral (LHb).
+
+Se supone que estos núcleos están involucrados en la regulación de las monaminas, como la dopamina y la serotonina.
+
+La habénula medial recibe conexiones del septum pellucidum posterior y la banda diagonal de Broca; la habénula lateral recibe aferentes del hipotálamo lateral, el núcleo accumbens, el globo pálido interno, el globo pálido ventral y la banda diagonal de Broca.
+
+En su conjunto, esta región complejamente interconectada es parte del sistema de conducción diencefálica dorsal (DDC), responsable de transmitir información desde el sistema límbico hasta el mesencéfalo, el rombencéfalo y el prosencéfalo medio. Los núcleos habenulares derecho e izquierdo están conectados entre sí por la comisura habenular.
+Divisiones nucleares de Habenula:
+
+núcleo habenular lateral (hier-278 en NeuroNames,)
+núcleo habenular medial (hier-279 en NeuroNames, ) La glándula pineal está unida al cerebro en esta región.
+Los impulsos nerviosos de los núcleos habenulares se transmiten a los núcleos septales a través de la estría medular, que se encuentra en la superficie medial del tálamo.
+Los axones del núcleo habenular pasan a la fosa interpeduncular, el techo del mesencéfalo, el tálamo y la formación reticular del mesencéfalo.
+
+
+== Motivación y adicción ==
+
+La exploración reciente de los núcleos habenulares ha comenzado a asociar la estructura con el estado de ánimo actual de un organismo, el sentimiento de motivación y el reconocimiento de recompensas.
+
+Previamente, la LHb se identificó como una señal "anti-recompensa", pero investigaciones recientes sugieren que la LHb ayuda a identificar preferencias, ayudando al cerebro a discriminar entre acciones potenciales y decisiones de motivación subsiguientes.
+
+En un estudio que utilizó un modelo de condicionamiento pavloviano, los resultados mostraron un aumento en la respuesta de la habénula.
+
+Este aumento coincidió con estímulos condicionados asociados con castigos más aversivos (es decir, descargas eléctricas).
+
+Por lo tanto, los investigadores especulan que la inhibición o el daño a la LHb que resulta en una falla en el procesamiento de dicha información puede conducir a un comportamiento de motivación aleatoria. La LHb es especialmente importante para comprender la relación de recompensa y motivación en relación con los comportamientos adictivos.
+
+La LHb inhibe las neuronas dopaminérgicas, disminuyendo la liberación de dopamina.
+
+Varios estudios en animales determinaron que recibir una recompensa coincidía con niveles elevados de dopamina, pero una vez que el animal aprendió la asociación aprendida, los niveles de dopamina permanecen elevados y solo disminuyen cuando se elimina la recompensa.
+
+Por lo tanto, los niveles de dopamina solo aumentan con recompensas imprevistas y con un "error de predicción positivo".
+
+Además, se determinó que la eliminación de un premio anticipado activado LHb, inhibió los niveles de dopamina.
+
+Este hallazgo ayuda a explicar por qué las drogas adictivas se asocian con niveles elevados de dopamina.
+
+
+=== Nicotina y nAChR ===
+
+Según el Instituto Nacional sobre el Abuso de Drogas, 1 de cada 5 muertes prevenibles en los Estados Unidos es causada por el consumo de tabaco.
+
+La nicotina es la droga adictiva que se encuentra en la mayoría de los productos de tabaco y se absorbe fácilmente en el torrente sanguíneo del cuerpo.
+
+A pesar de los conceptos erróneos comunes sobre los efectos relajantes del consumo de tabaco y nicotina, las pruebas de comportamiento en animales han demostrado que la nicotina tiene un efecto ansiogénico.
+
+Los receptores nicotínicos de acetilcolina (nAChR) se han identificado como el sitio principal para la actividad de la nicotina y regulan la polarización celular consiguiente. Los nAChR están compuestos por varias subunidades α y β y se encuentran tanto en LHb como en MHb, donde la investigación sugiere que pueden desempeñar un papel clave en las conductas de adicción y abstinencia.
+
+
+
+https://en.wikipedia.org/wiki/Habenular_nuclei
+
+;;;PT;;;
+
+
+
+NÚCLEO HABENULAR
+
+
+Os núcleos habenulares (habenula é latim para "pequena rédea") atuam como reguladores dos principais neurotransmissores do sistema nervoso central, conectando o prosencéfalo e o mesencéfalo dentro do epitálamo.
+
+Embora tenham sido predominantemente estudados por sua demonstração de desenvolvimento e função assimétrica do cérebro, nos últimos anos muitos cientistas começaram a examinar o papel dos núcleos habenulares na motivação e no comportamento no que se refere à compreensão da fisiologia do vício.
+
+
+== Anatomia e conectividade ==
+
+Os núcleos habenulares compreendem um pequeno grupo de núcleos que fazem parte do epitálamo do diencéfalo, e está localizado logo acima do tálamo e é dividido em duas metades assimétricas: a habênula medial (MHb) e a habênula lateral (LHb).
+
+Acredita-se que esses núcleos estejam envolvidos na regulação das monaminas, como a dopamina e a serotonina.
+
+A habênula medial recebe conexões do septo pelúcido posterior e da banda diagonal de Broca; a habênula lateral recebe aferências do hipotálamo lateral, núcleo accumbens, globo pálido interno, pálido ventral e banda diagonal de Broca.
+
+Como um todo, essa região complexamente interconectada faz parte do sistema de condução diencefálica dorsal (DDC), responsável por transmitir informações do sistema límbico para o mesencéfalo, rombencéfalo e prosencéfalo medial. a comissura habenular.
+Divisões nucleares de Habenula:
+
+núcleo habenular lateral (hier-278 em NeuroNames, )
+núcleo habenular medial (hier-279 em NeuroNames, )A glândula pineal está ligada ao cérebro nesta região.
+Os impulsos nervosos dos núcleos habenulares são transmitidos aos núcleos septais através da estria medular, que se encontra na superfície medial do tálamo.
+Os axônios do núcleo habenular passam para a fossa interpeduncular, o tecto do mesencéfalo, o tálamo e a formação reticular do mesencéfalo.
+
+
+== Motivação e vício ==
+
+A exploração recente dos núcleos habenulares começou a associar a estrutura com o humor atual de um organismo, sentimento de motivação e reconhecimento de recompensa.
+
+Anteriormente, o LHb foi identificado como um sinal de "anti-recompensa", mas pesquisas recentes sugerem que o LHb ajuda a identificar a preferência, ajudando o cérebro a discriminar entre ações potenciais e decisões de motivação subsequentes.
+
+Em um estudo usando um modelo de condicionamento pavloviano, os resultados mostraram um aumento na resposta da habênula.
+
+Esse aumento coincidiu com estímulos condicionados associados a punições mais aversivas (ou seja, choque elétrico).
+
+Portanto, os pesquisadores especulam que a inibição ou dano ao LHb, resultando em uma falha no processamento de tais informações, pode levar a um comportamento de motivação aleatório. O LHb é especialmente importante na compreensão da relação recompensa e motivação no que se refere a comportamentos aditivos.
+
+A LHb inibe os neurônios dopaminérgicos, diminuindo a liberação de dopamina.
+
+Foi determinado por vários estudos em animais que receber uma recompensa coincidiu com níveis elevados de dopamina, mas uma vez que a associação aprendida foi aprendida pelo animal, os níveis de dopamina permanecem elevados, diminuindo apenas quando a recompensa é removida.
+
+Portanto, os níveis de dopamina só aumentam com recompensas imprevistas e com um "erro de previsão positivo".
+
+Além disso, foi determinado que a remoção de um prêmio antecipado ativou LHb, inibiu os níveis de dopamina.
+
+Essa descoberta ajuda a explicar por que as drogas viciantes estão associadas a níveis elevados de dopamina.
+
+
+=== Nicotina e nAChRs ===
+
+De acordo com o Instituto Nacional de Abuso de Drogas, 1 em cada 5 mortes evitáveis, nos Estados Unidos, é causada pelo uso do tabaco.
+
+A nicotina é a droga viciante encontrada na maioria dos produtos de tabaco e é facilmente absorvida pela corrente sanguínea do corpo.
+
+Apesar dos equívocos comuns sobre os efeitos relaxantes do uso de tabaco e nicotina, testes comportamentais em animais demonstraram que a nicotina tem um efeito ansiogênico.
+
+Os receptores nicotínicos de acetilcolina (nAChRs) têm sido identificados como o principal sítio de atividade da nicotina e regulam a consequente polarização celular. Os nAChRs são compostos por várias subunidades α e β e são encontrados tanto no LHb quanto no MHb, onde pesquisas sugerem que eles podem desempenhar um papel fundamental nos comportamentos de dependência e abstinência.
+
+
+
+https://en.wikipedia.org/wiki/Habenular_nuclei
+
+;;;FR;;;
+
+
+
+NOYAUX HABENULAR
+
+
+Les noyaux habénulaires (habenula est le latin pour "petite rêne") agissent comme des régulateurs des neurotransmetteurs clés du système nerveux central, reliant le cerveau antérieur et le mésencéphale dans l'épithalamus.
+
+Bien qu'ils aient été principalement étudiés pour leur démonstration du développement et du fonctionnement asymétriques du cerveau, ces dernières années, de nombreux scientifiques ont commencé à examiner le rôle des noyaux habénulaires dans la motivation et le comportement en ce qui concerne la compréhension de la physiologie de la dépendance.
+
+
+== Anatomie et connectivité ==
+
+Les noyaux habénulaires comprennent un petit groupe de noyaux qui font partie de l'épithalamus du diencéphale, et sont situés juste au-dessus du thalamus et sont divisés en deux moitiés asymétriques : l'habénule médiale (MHb) et l'habénule latérale (LHb).
+
+Ces noyaux sont supposés être impliqués dans la régulation des monamines, telles que la dopamine et la sérotonine.
+
+L'habenula médiale reçoit des connexions du septum pellucidum postérieur et de la bande diagonale de Broca ; l'habenula latéral reçoit des afférences de l'hypothalamus latéral, du noyau accumbens, du globus pallidus interne, du pallidum ventral et de la bande diagonale de Broca.
+
+Dans son ensemble, cette région interconnectée de manière complexe fait partie du système de conduction diencéphalique dorsale (DDC), responsable de la transmission des informations du système limbique au mésencéphale, au cerveau postérieur et au cerveau antérieur médial. Les noyaux habénulaires droit et gauche sont reliés l'un à l'autre par la commissure habénulaire.
+Divisions nucléaires Habenula :
+
+noyau habénulaire latéral (hier-278 chez NeuroNames, )
+noyau habénulaire médial (hier-279 chez NeuroNames, )La glande pinéale est attachée au cerveau dans cette région.
+Les impulsions nerveuses des noyaux habénulaires sont transmises aux noyaux septaux via la strie médullaire, qui se trouve sur la surface médiale du thalamus.
+Les axones du noyau habénulaire passent dans la fosse interpédonculaire, le tectum du mésencéphale, le thalamus et la formation réticulaire du mésencéphale.
+
+
+== Motivation et dépendance ==
+
+L'exploration récente des noyaux habénulaires a commencé à associer la structure à l'humeur actuelle d'un organisme, au sentiment de motivation et à la reconnaissance des récompenses.
+
+Auparavant, la LHb était identifiée comme un signal "anti-récompense", mais des recherches récentes suggèrent que la LHb aide à identifier les préférences, aidant le cerveau à faire la distinction entre les actions potentielles et les décisions de motivation ultérieures.
+
+Dans une étude utilisant un modèle de conditionnement pavlovien, les résultats ont montré une augmentation de la réponse de l'habenula.
+
+Cette augmentation a coïncidé avec des stimuli conditionnés associés à des punitions plus aversives (c'est-à-dire un choc électrique).
+
+Par conséquent, les chercheurs supposent que l'inhibition ou les dommages à la LHb entraînant une incapacité à traiter ces informations peuvent conduire à un comportement de motivation aléatoire. La LHb est particulièrement importante pour comprendre la relation de récompense et de motivation en ce qui concerne les comportements addictifs.
+
+La LHb inhibe les neurones dopaminergiques, diminuant la libération de dopamine.
+
+Il a été déterminé par plusieurs études animales que recevoir une récompense coïncidait avec des niveaux élevés de dopamine, mais une fois que l'association apprise a été apprise par l'animal, les niveaux de dopamine restent élevés, ne diminuant que lorsque la récompense est supprimée.
+
+Par conséquent, les niveaux de dopamine n'augmentent qu'avec des récompenses imprévues et avec une "erreur de prédiction positive".
+
+De plus, il a été déterminé que la suppression d'une récompense anticipée activait la LHb, inhibait les niveaux de dopamine.
+
+Cette découverte aide à expliquer pourquoi les drogues addictives sont associées à des niveaux élevés de dopamine.
+
+
+=== Nicotine et nAChR ===
+
+Selon le National Institute on Drug Abuse, 1 décès évitable sur 5, aux États-Unis, est causé par l'usage du tabac.
+
+La nicotine est la drogue addictive présente dans la plupart des produits du tabac et est facilement absorbée par la circulation sanguine du corps.
+
+Malgré les idées fausses courantes concernant les effets relaxants de la consommation de tabac et de nicotine, les tests comportementaux chez les animaux ont démontré que la nicotine avait un effet anxiogène.
+
+Les récepteurs nicotiniques de l'acétylcholine (nAChR) ont été identifiés comme le site principal de l'activité de la nicotine et régulent la polarisation cellulaire qui en résulte. Les nAChR sont constitués d'un certain nombre de sous-unités α et β et se trouvent à la fois dans le LHb et le MHb, où la recherche suggère qu'ils peuvent jouer un rôle clé dans les comportements de dépendance et de sevrage.
+
+
+
+https://en.wikipedia.org/wiki/Habenular_nuclei

@@ -1,0 +1,80 @@
+
+
+INTERLOBAR SULCI
+
+
+central sulcus
+lateral sulcus
+parieto-occipital sulcus
+pre-occipital notch
+sulcus of corpus callosum
+cingulate sulcus
+subparietal sulcus
+collateral sulcus
+rhinal sulcus
+circular sulcus of insula
+
+
+
+;;;ES;;;
+
+
+
+SURCO INTERLOBAR
+
+
+surco central
+surco lateral
+surco parieto-occipital
+muesca preoccipital
+surco del cuerpo calloso
+surco cingulado
+surco subparietal
+surco colateral
+surco rinal
+surco circular de la ínsula
+
+
+
+
+;;;PT;;;
+
+
+
+SUL INTERLOBAR
+
+
+sulco central
+sulco lateral
+sulco parieto-occipital
+entalhe pré-occipital
+sulco do corpo caloso
+sulco cingulado
+sulco subparietal
+sulco colateral
+sulco rinal
+sulco circular da ínsula
+
+
+
+
+;;;FR;;;
+
+
+
+SULCI INTERLOBAR
+
+
+sillon central
+sillon latéral
+sillon pariéto-occipital
+encoche préoccipitale
+sulcus du corps calleux
+sulcus cingulaire
+sillon sous-pariétal
+sillon collatéral
+sillon rhinal
+sillon circulaire de l'insula
+
+
+

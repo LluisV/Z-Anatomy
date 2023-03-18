@@ -1,0 +1,17 @@
+
+
+OUTLINER
+                    
+                    
+Press '+' or '-' once or several times
+    with the mouse cursor over the upper right window
+    to develop or collapse all
+    
+Press the arrows 
+    to navigate and develop/collapse each line
+    
+Press the eye icon
+    to show/hide the underlying visible collection
+    
+Press 'Shift + the eye icon'
+    to show/hide all the objects inside a collection

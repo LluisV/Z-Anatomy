@@ -1,0 +1,364 @@
+
+
+RETINOHYPOTHALAMIC TRACT
+
+
+The retinohypothalamic tract (RHT) is a photic neural input pathway involved in the circadian rhythms of mammals. 
+
+The origin of the retinohypothalamic tract is the intrinsically photosensitive retinal ganglion cells (ipRGC), which contain the photopigment melanopsin. 
+
+The axons of the ipRGCs belonging to the retinohypothalamic tract project directly, monosynaptically, to the suprachiasmatic nuclei (SCN) via the optic nerve and the optic chiasm. 
+
+The suprachiasmatic nuclei receive and interpret information on environmental light, dark and day length, important in the entrainment of the "body clock". 
+
+They can coordinate peripheral "clocks" and direct the pineal gland to secrete the hormone melatonin.
+
+
+== Structure ==
+
+The retinohypothalamic tract consists of retinal ganglion cells. 
+
+A distinct population of ganglion cells, known as intrinsically photosensitive retinal ganglion cells (ipRGCs), is critically responsible for providing non-image-forming visual signals to the brain. 
+
+Only about two percent of all retinal ganglion cells are ipRGCs, whose cell bodies are in mainly the ganglion cell layer (and some are displaced in the inner nuclear layer of the retina). 
+
+The photopigment melanopsin is present on the dendrites of ipRGCs, giving ipRGCs sensitivity to light in the absence of rod or cone input. 
+
+The dendrites spread outwards from ipRGCs within the inner plexiform layer. 
+
+These dendrites can also receive more canonical signals from the rest of the neuroretina. 
+
+These signals are then carried through the optic nerve, which projects to the suprachiasmatic nucleus (SCN), anterior hypothalamic area, retrochiasmatic area, and lateral hypothalamus. 
+
+However, a major portion of the RHT ends in the SCN.
+
+
+== Neurotransmitters ==
+
+
+
+=== Glutamate ===
+
+Glutamate levels in the RHT are measured by means of immunoreactivity. 
+
+Retinal nerve terminals display a significantly higher content of glutamate immunoreactivity than the postsynaptic dendrites and non-retinal terminals. 
+
+The higher immunoreactivity in terminals shows that is readily available before transmission and is used up as the electrical signals travel along the RHT. 
+
+The synapse of glutamate to the SCN has been shown to cause phase shifts in circadian rhythms, discussed more in detail later.
+
+
+=== Pituitary adenylate cyclase-activating polypeptide (PACAP) ===
+
+Pituitary adenylate cyclase-activating polypeptide (PACAP) is co-stored and co-transmitted with glutamate in retinal terminals. 
+
+More than ninety percent of all RHT projecting fibers to the SCN store PACAP. 
+
+White light induces activation of ganglion cells containing PACAP. 
+
+This allows for the concentration in SCN to be lower during the day and higher at night because humans are exposed to light more during the day and are having greater optic nerve stimulation.
+
+
+== Effect on circadian rhythms ==
+
+
+The SCN of the hypothalamus contains an endogenous pacemaker that regulates circadian rhythms. 
+
+The zeitgeber found to have the most profound effect on the SCN is light, which is the form of stimulation of which conversion is needed for it to be processed by the brain. 
+
+Neurotransmitters that travel the RHT are responsible for delivering this message to other parts of the brain. 
+
+If damage is done to this important pathway, alterations in circadian rhythms including phase shifts may occur. 
+
+Studies done on rats show that even with severely degenerated photoreceptors (blind, no visible light perception), they have the ability to entrain to the light/dark cycle because they have intact RHTs.A study was conducted to observe the differences in three groups of Sprague-Dawley rats: ones that had part of the RHT pathway cut when it was an adult (AE), ones that had part of the pathway cut within 24 hours of their birth (NE), and a control group. 
+
+Further development of the brains of those in the NE group showed that the two suprachaismatic nuclei (SCN) have nearly equal inputs shortly after the pathway is cut. 
+
+This was shown to drastically slow down the re-synchronization of internal biological rhythms to the external time cues, primarily light. 
+
+Rats in the AE and NE groups similarly reduced the amount of fluid intake during the study during the hours they were exposed to constant light. 
+
+This may indicate that the intake of water is affected by the number of connections in this pathway and affect the further development of other parts of the brain that are dependent on light.
+
+
+== References ==
+
+
+
+
+https://en.wikipedia.org/wiki/Retinohypothalamic_tract
+;;;ES;;;
+
+
+
+TRACTO RETINOHIPOTALÁMICO
+
+
+El tracto retinohipotalámico (RHT) es una vía de entrada neuronal fótica involucrada en los ritmos circadianos de los mamíferos.
+
+El origen del tracto retinohipotalámico son las células ganglionares de la retina intrínsecamente fotosensibles (ipRGC), que contienen el fotopigmento melanopsina.
+
+Los axones de las ipRGC pertenecientes al tracto retinohipotalámico se proyectan directamente, monosinápticamente, a los núcleos supraquiasmáticos (SCN) a través del nervio óptico y el quiasma óptico.
+
+Los núcleos supraquiasmáticos reciben e interpretan información sobre la luz ambiental, la oscuridad y la duración del día, importante en el encarrilamiento del "reloj corporal".
+
+Pueden coordinar "relojes" periféricos y dirigir a la glándula pineal para que secrete la hormona melatonina.
+
+
+== Estructura ==
+
+El tracto retinohipotalámico consiste en células ganglionares de la retina.
+
+Una población distinta de células ganglionares, conocidas como células ganglionares de la retina intrínsecamente fotosensibles (ipRGC), es críticamente responsable de proporcionar señales visuales que no forman imágenes al cerebro.
+
+Solo alrededor del dos por ciento de todas las células ganglionares de la retina son ipRGC, cuyos cuerpos celulares se encuentran principalmente en la capa de células ganglionares (y algunos están desplazados en la capa nuclear interna de la retina).
+
+El fotopigmento melanopsina está presente en las dendritas de las ipRGC, lo que otorga a las ipRGC sensibilidad a la luz en ausencia de entrada de bastones o conos.
+
+Las dendritas se extienden hacia afuera desde las ipRGC dentro de la capa plexiforme interna.
+
+Estas dendritas también pueden recibir señales más canónicas del resto de la neurorretina.
+
+Luego, estas señales se transmiten a través del nervio óptico, que se proyecta al núcleo supraquiasmático (SCN), el área hipotalámica anterior, el área retroquiasmática y el hipotálamo lateral.
+
+Sin embargo, una parte importante del RHT termina en el SCN.
+
+
+== Neurotransmisores ==
+
+
+
+=== Glutamato ===
+
+Los niveles de glutamato en el RHT se miden mediante inmunorreactividad.
+
+Las terminales nerviosas de la retina muestran un contenido significativamente mayor de inmunorreactividad de glutamato que las dendritas postsinápticas y las terminales no retinales.
+
+La mayor inmunorreactividad en los terminales muestra que está fácilmente disponible antes de la transmisión y se agota a medida que las señales eléctricas viajan a lo largo del RHT.
+
+Se ha demostrado que la sinapsis del glutamato con el SCN provoca cambios de fase en los ritmos circadianos, que se analizan con más detalle más adelante.
+
+
+=== Polipéptido activador de la adenilato ciclasa pituitaria (PACAP) ===
+
+El polipéptido activador de la adenilato ciclasa pituitaria (PACAP) se almacena y se transmite junto con el glutamato en las terminales de la retina.
+
+Más del noventa por ciento de todas las fibras de proyección RHT al PACAP de la tienda SCN.
+
+La luz blanca induce la activación de las células ganglionares que contienen PACAP.
+
+Esto permite que la concentración en SCN sea más baja durante el día y más alta durante la noche porque los humanos están más expuestos a la luz durante el día y tienen una mayor estimulación del nervio óptico.
+
+
+== Efecto sobre los ritmos circadianos ==
+
+
+El SCN del hipotálamo contiene un marcapasos endógeno que regula los ritmos circadianos.
+
+El zeitgeber que se descubrió que tiene el efecto más profundo en el SCN es la luz, que es la forma de estimulación cuya conversión se necesita para que el cerebro la procese.
+
+Los neurotransmisores que viajan por el RHT son responsables de enviar este mensaje a otras partes del cerebro.
+
+Si se daña esta importante vía, pueden ocurrir alteraciones en los ritmos circadianos, incluidos cambios de fase.
+
+Los estudios realizados en ratas muestran que incluso con fotorreceptores severamente degenerados (ciegos, sin percepción de luz visible), tienen la capacidad de adaptarse al ciclo de luz/oscuridad porque tienen RHT intactos. Se realizó un estudio para observar las diferencias en tres grupos de Ratas Sprague-Dawley: las que tenían cortada parte de la vía RHT cuando eran adultas (AE), las que tenían cortada parte de la vía dentro de las 24 horas de su nacimiento (NE) y un grupo de control.
+
+El desarrollo posterior de los cerebros de los del grupo NE mostró que los dos núcleos suprachaismáticos (SCN) tienen entradas casi iguales poco después de que se corta la vía.
+
+Se demostró que esto ralentiza drásticamente la resincronización de los ritmos biológicos internos con las señales de tiempo externas, principalmente la luz.
+
+Las ratas en los grupos AE y NE redujeron de manera similar la cantidad de ingesta de líquidos durante el estudio durante las horas en que estuvieron expuestas a luz constante.
+
+Esto puede indicar que la ingesta de agua se ve afectada por la cantidad de conexiones en esta vía y afectar el desarrollo posterior de otras partes del cerebro que dependen de la luz.
+
+
+== Referencias ==
+
+
+
+
+https://en.wikipedia.org/wiki/Retinohypothalamic_tract
+
+;;;PT;;;
+
+
+
+TRATO RETINO-HIPOTALÂMICO
+
+
+O trato retino-hipotalâmico (RHT) é uma via de entrada neural fótica envolvida nos ritmos circadianos de mamíferos.
+
+A origem do trato retino-hipotalâmico são as células ganglionares da retina intrinsecamente fotossensíveis (ipRGC), que contêm o fotopigmento melanopsina.
+
+Os axônios dos ipRGCs pertencentes ao trato retino-hipotalâmico projetam-se diretamente, monossinapticamente, para os núcleos supraquiasmáticos (SCN) através do nervo óptico e do quiasma óptico.
+
+Os núcleos supraquiasmáticos recebem e interpretam informações sobre luz, escuridão e duração do dia do ambiente, importantes no arrastamento do "relógio biológico".
+
+Eles podem coordenar "relógios" periféricos e direcionar a glândula pineal para secretar o hormônio melatonina.
+
+
+== Estrutura ==
+
+O trato retino-hipotalâmico consiste em células ganglionares da retina.
+
+Uma população distinta de células ganglionares, conhecidas como células ganglionares da retina intrinsecamente fotossensíveis (ipRGCs), é criticamente responsável por fornecer sinais visuais não formadores de imagem ao cérebro.
+
+Apenas cerca de dois por cento de todas as células ganglionares da retina são ipRGCs, cujos corpos celulares estão principalmente na camada de células ganglionares (e algumas estão deslocadas na camada nuclear interna da retina).
+
+O fotopigmento melanopsina está presente nos dendritos dos ipRGCs, dando aos ipRGCs sensibilidade à luz na ausência de entrada de bastonetes ou cones.
+
+Os dendritos se espalham para fora dos ipRGCs dentro da camada plexiforme interna.
+
+Esses dendritos também podem receber mais sinais canônicos do resto da neurorretina.
+
+Esses sinais são então conduzidos pelo nervo óptico, que se projeta para o núcleo supraquiasmático (NSQ), área hipotalâmica anterior, área retroquiasmática e hipotálamo lateral.
+
+No entanto, a maior parte do RHT termina no SCN.
+
+
+== Neurotransmissores ==
+
+
+
+=== Glutamato ===
+
+Os níveis de glutamato no RHT são medidos por meio de imunorreatividade.
+
+Os terminais nervosos da retina exibem um conteúdo significativamente maior de imunorreatividade ao glutamato do que os dendritos pós-sinápticos e os terminais não retinianos.
+
+A maior imunorreatividade nos terminais mostra que está prontamente disponível antes da transmissão e é usada à medida que os sinais elétricos viajam ao longo do RHT.
+
+Demonstrou-se que a sinapse do glutamato com o SCN causa mudanças de fase nos ritmos circadianos, discutidas com mais detalhes posteriormente.
+
+
+=== Polipeptídeo ativador da adenilato ciclase pituitária (PACAP) ===
+
+O polipeptídeo ativador da adenilato ciclase pituitária (PACAP) é co-armazenado e cotransmitido com glutamato nos terminais da retina.
+
+Mais de noventa por cento de todos os RHT projetam fibras para o SCN armazenam PACAP.
+
+A luz branca induz a ativação de células ganglionares contendo PACAP.
+
+Isso permite que a concentração no SCN seja menor durante o dia e maior à noite, porque os humanos são mais expostos à luz durante o dia e têm maior estimulação do nervo óptico.
+
+
+== Efeito nos ritmos circadianos ==
+
+
+O SCN do hipotálamo contém um marcapasso endógeno que regula os ritmos circadianos.
+
+O zeitgeber encontrado para ter o efeito mais profundo no SCN é a luz, que é a forma de estimulação da qual a conversão é necessária para que seja processada pelo cérebro.
+
+Os neurotransmissores que percorrem o RHT são responsáveis ​​por entregar esta mensagem a outras partes do cérebro.
+
+Se houver dano a essa importante via, podem ocorrer alterações nos ritmos circadianos, incluindo mudanças de fase.
+
+Estudos feitos em ratos mostram que mesmo com fotorreceptores severamente degenerados (cegos, sem percepção de luz visível), eles têm a capacidade de entrar no ciclo claro/escuro porque possuem RHTs intactos. Um estudo foi realizado para observar as diferenças em três grupos de Ratos Sprague-Dawley: aqueles que tiveram parte da via RHT cortada quando era adulto (AE), aqueles que tiveram parte da via cortada dentro de 24 horas após o nascimento (NE), e um grupo controle.
+
+O desenvolvimento posterior dos cérebros daqueles no grupo NE mostrou que os dois núcleos suprachaismáticos (SCN) têm entradas quase iguais logo após o corte da via.
+
+Isso foi mostrado para diminuir drasticamente a ressincronização dos ritmos biológicos internos com os sinais de tempo externos, principalmente a luz.
+
+Ratos nos grupos AE e NE reduziram de forma semelhante a quantidade de ingestão de líquidos durante o estudo durante as horas em que foram expostos à luz constante.
+
+Isso pode indicar que a ingestão de água é afetada pelo número de conexões nessa via e afeta o desenvolvimento de outras partes do cérebro que dependem da luz.
+
+
+== Referências ==
+
+
+
+
+https://en.wikipedia.org/wiki/Retinohypothalamic_tract
+
+;;;FR;;;
+
+
+
+TRACTUS RÉTININOHYPOTHALAMIQUE
+
+
+Le tractus rétinohypothalamique (RHT) est une voie d'entrée neuronale photique impliquée dans les rythmes circadiens des mammifères.
+
+L'origine du tractus rétinohypothalamique est les cellules ganglionnaires rétiniennes intrinsèquement photosensibles (ipRGC), qui contiennent le photopigment mélanopsine.
+
+Les axones des ipRGC appartenant au tractus rétinohypothalamique se projettent directement, de manière monosynaptique, sur les noyaux suprachiasmatiques (SCN) via le nerf optique et le chiasma optique.
+
+Les noyaux suprachiasmatiques reçoivent et interprètent les informations sur la lumière ambiante, l'obscurité et la durée du jour, importantes dans l'entraînement de "l'horloge biologique".
+
+Ils peuvent coordonner les "horloges" périphériques et diriger la glande pinéale pour qu'elle sécrète l'hormone mélatonine.
+
+
+== Structure ==
+
+Le tractus rétinohypothalamique est constitué de cellules ganglionnaires rétiniennes.
+
+Une population distincte de cellules ganglionnaires, connues sous le nom de cellules ganglionnaires rétiniennes intrinsèquement photosensibles (ipRGC), est essentiellement responsable de fournir des signaux visuels non formateurs d'image au cerveau.
+
+Seulement environ deux pour cent de toutes les cellules ganglionnaires rétiniennes sont des ipRGC, dont les corps cellulaires se trouvent principalement dans la couche de cellules ganglionnaires (et certains sont déplacés dans la couche nucléaire interne de la rétine).
+
+Le photopigment mélanopsine est présent sur les dendrites des ipRGC, conférant aux ipRGC une sensibilité à la lumière en l'absence d'entrée de tige ou de cône.
+
+Les dendrites se sont propagées vers l'extérieur à partir des ipRGC dans la couche plexiforme interne.
+
+Ces dendrites peuvent également recevoir des signaux plus canoniques du reste de la neurorétine.
+
+Ces signaux sont ensuite transportés à travers le nerf optique, qui se projette vers le noyau suprachiasmatique (SCN), la zone hypothalamique antérieure, la zone rétrochiasmatique et l'hypothalamus latéral.
+
+Cependant, une grande partie de la RHT se termine dans le SCN.
+
+
+== Neurotransmetteurs ==
+
+
+
+=== Glutamate ===
+
+Les niveaux de glutamate dans la RHT sont mesurés au moyen de l'immunoréactivité.
+
+Les terminaisons nerveuses rétiniennes présentent un contenu significativement plus élevé d'immunoréactivité du glutamate que les dendrites postsynaptiques et les terminaisons non rétiniennes.
+
+L'immunoréactivité plus élevée dans les terminaux montre qu'elle est facilement disponible avant la transmission et est utilisée lorsque les signaux électriques se déplacent le long de la RHT.
+
+Il a été démontré que la synapse du glutamate au SCN provoque des déphasages dans les rythmes circadiens, discutés plus en détail plus tard.
+
+
+=== Polypeptide activant l'adénylate cyclase hypophysaire (PACAP) ===
+
+Le polypeptide activant l'adénylate cyclase hypophysaire (PACAP) est co-stocké et co-transmis avec le glutamate dans les terminaisons rétiniennes.
+
+Plus de quatre-vingt-dix pour cent de toutes les fibres projetées RHT au magasin SCN PACAP.
+
+La lumière blanche induit l'activation des cellules ganglionnaires contenant PACAP.
+
+Cela permet à la concentration de SCN d'être plus faible pendant la journée et plus élevée la nuit car les humains sont davantage exposés à la lumière pendant la journée et ont une plus grande stimulation du nerf optique.
+
+
+== Effet sur les rythmes circadiens ==
+
+
+Le SCN de l'hypothalamus contient un stimulateur cardiaque endogène qui régule les rythmes circadiens.
+
+Le zeitgeber qui a l'effet le plus profond sur le SCN est la lumière, qui est la forme de stimulation dont la conversion est nécessaire pour qu'elle soit traitée par le cerveau.
+
+Les neurotransmetteurs qui parcourent la RHT sont chargés de transmettre ce message à d'autres parties du cerveau.
+
+Si des dommages sont causés à cette voie importante, des altérations des rythmes circadiens, y compris des déphasages, peuvent se produire.
+
+Des études réalisées sur des rats montrent que même avec des photorécepteurs gravement dégénérés (aveugles, pas de perception de la lumière visible), ils ont la capacité de s'entraîner dans le cycle lumière/obscurité car ils ont des RHT intacts. Une étude a été menée pour observer les différences dans trois groupes de Rats Sprague-Dawley : ceux dont une partie de la voie RHT a été coupée à l'âge adulte (AE), ceux dont une partie de la voie a été coupée dans les 24 heures suivant leur naissance (NE) et un groupe témoin.
+
+Un développement plus poussé du cerveau de ceux du groupe NE a montré que les deux noyaux suprachaismatiques (SCN) ont des apports presque égaux peu de temps après la coupure de la voie.
+
+Il a été démontré que cela ralentissait considérablement la resynchronisation des rythmes biologiques internes avec les signaux temporels externes, principalement la lumière.
+
+Les rats des groupes AE et NE ont également réduit la quantité de liquide ingéré au cours de l'étude pendant les heures où ils ont été exposés à une lumière constante.
+
+Cela peut indiquer que la consommation d'eau est affectée par le nombre de connexions dans cette voie et affecte le développement ultérieur d'autres parties du cerveau qui dépendent de la lumière.
+
+
+== Références ==
+
+
+
+
+https://en.wikipedia.org/wiki/Retinohypothalamic_tract

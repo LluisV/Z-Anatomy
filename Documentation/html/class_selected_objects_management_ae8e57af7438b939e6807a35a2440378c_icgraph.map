@@ -1,0 +1,4 @@
+<map id="SelectedObjectsManagement.DeleteSelected" name="SelectedObjectsManagement.DeleteSelected">
+<area shape="rect" id="node1" title="Deletes the selected objects." alt="" coords="228,5,425,45"/>
+<area shape="rect" id="node2" href="$class_contextual_menu.html#ae952072e6aebdc34154809d257b87cee" title=" " alt="" coords="5,13,180,38"/>
+</map>

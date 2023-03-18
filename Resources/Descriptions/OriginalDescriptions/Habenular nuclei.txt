@@ -1,0 +1,63 @@
+
+
+HABENULAR NUCLEI
+
+
+The habenular nuclei (habenula is Latin for "little rein") act as regulators of key central nervous system neurotransmitters, connecting the forebrain and midbrain within the epithalamus. 
+
+Although they were predominantly studied for their demonstration of asymmetrical brain development and function, in recent years many scientists have begun to examine the habenular nuclei's role in motivation and behavior as it relates to an understanding of the physiology of addiction.
+
+
+== Anatomy and connectivity ==
+
+The habenular nuclei comprise a small group of nuclei that are part of the epithalamus of the diencephalon, and is located just above the thalamus and is divided into two asymmetric halves: the medial habenula (MHb) and the lateral habenula (LHb). 
+
+These nuclei are hypothesized to be involved in regulation of monamines, such as dopamine and serotonin. 
+
+The medial habenula receives connections from posterior septum pellucidum and diagonal band of Broca; the lateral habenula receives afferents from the lateral hypothalamus, nucleus accumbens, internal globus pallidus, ventral pallidum, and diagonal band of Broca. 
+
+As a whole, this complexly interconnected region is part of the dorsal diencephalic conduction (DDC) system, responsible for relaying information from the limbic system to the midbrain, hindbrain, and medial forebrain.The right and left habenular nuclei are connected to each other by the habenular commissure.
+Habenula nuclear divisions:
+
+lateral habenular nucleus (hier-278 at NeuroNames, )
+medial habenular nucleus (hier-279 at NeuroNames, )The pineal gland is attached to the brain in this region.
+Nerve impulses from the habenular nuclei are transmitted to the septal nuclei via the stria medullaris, which is found on the medial surface of the thalamus.
+Axons from habenular nucleus pass to interpeduncular fossa, the tectum of midbrain, the thalamus and the reticular formation of the midbrain.
+
+
+== Motivation and addiction ==
+
+Recent exploration of the habenular nuclei has begun to associate the structure with an organism's current mood, feeling of motivation, and reward recognition. 
+
+Previously, the LHb has been identified as an "anti-reward" signal, but recent research suggests that the LHb helps identify preference, helping the brain to discriminate between potential actions and subsequent motivation decisions. 
+
+In a study using a Pavlovian conditioning model, results showed an increase in the habenula response. 
+
+This increase coincided with conditioned stimuli associated with more aversive punishments (ie. electric shock). 
+
+Therefore, researchers speculate that inhibition or damage to the LHb resulting in a failure to process such information may lead to random motivation behavior.LHb is especially important in understanding the reward and motivation relationship as it relates to addictive behaviors. 
+
+The LHb inhibits dopaminergic neurons, decreasing the release of dopamine. 
+
+It was determined by several animal studies that receiving a reward coincided with elevated dopamine levels, but once the learned association was learned by the animal, dopamine levels remain elevated, only decreasing when the reward is removed. 
+
+Therefore, dopamine levels only increase with unpredicted rewards and with a "positive prediction error". 
+
+Moreover, it was determined that removal of an anticipated award activated LHb, inhibited dopamine levels. 
+
+This finding helps explain why addictive drugs are associated with elevated dopamine levels.
+
+
+=== Nicotine and nAChRs ===
+
+According to the National Institute on Drug Abuse, 1 in 5 preventable deaths, in the United States, is caused by tobacco use. 
+
+Nicotine is the addictive drug found in most tobacco products and is easily absorbed by the bloodstream of the body. 
+
+Despite common misconceptions regarding the relaxing effects of tobacco and nicotine use, behavioral testing in animals has demonstrated nicotine to have an anxiogenic effect. 
+
+Nicotinic acetylcholine receptors (nAChRs) have been identified as the primary site for nicotine activity and regulate consequent cellular polarization. nAChRs are made up a number of α and β subunits and are found in both the LHb and MHb, where research suggests they may play a key role in addiction and withdrawal behaviors.
+
+
+
+https://en.wikipedia.org/wiki/Habenular_nuclei

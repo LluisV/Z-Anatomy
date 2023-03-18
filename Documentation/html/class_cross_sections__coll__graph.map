@@ -1,0 +1,9 @@
+<map id="CrossSections" name="CrossSections">
+<area shape="rect" id="node1" title=" " alt="" coords="277,447,384,472"/>
+<area shape="rect" id="node2" title=" " alt="" coords="378,5,488,31"/>
+<area shape="rect" id="node3" href="$class_expand_collapse_u_i.html" title=" " alt="" coords="68,129,196,155"/>
+<area shape="rect" id="node4" href="$class_toggle_change_color.html" title=" " alt="" coords="340,129,475,155"/>
+<area shape="rect" id="node5" href="$class_cross_section_plane.html" title=" " alt="" coords="456,195,589,221"/>
+<area shape="rect" id="node6" href="$class_mesh_management.html" title=" " alt="" coords="496,80,626,105"/>
+<area shape="rect" id="node7" href="$class_switch_button.html" title=" " alt="" coords="665,195,764,221"/>
+</map>

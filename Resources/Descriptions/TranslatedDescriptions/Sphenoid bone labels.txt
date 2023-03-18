@@ -1,0 +1,236 @@
+SPHENOID BONE
+    Body of sphenoid bone
+        Sphenoidal yoke
+        Limbus of sphenoid
+        Chiasmatic sulcus
+        Sella turcica
+            Tuberculum sellae
+            Middle clinoid process
+            Hypophysial fossa
+            Craniopharyngeal canal
+            Dorsum sellae
+            Posterior clinoid process
+        Carotid sulcus
+        Sphenoidal lingula
+        Sphenoidal crest
+        Sphenoidal rostrum
+        Sinus of sphenoid bone
+            Opening of sinus of sphenoid bone
+        Septum of sphenoidal sinuses
+        Sphenoidal concha
+    Lesser wing
+        Optic canal
+        Infra-optic tubercle
+        Anterior clinoid process
+            Caroticoclinoid foramen
+        Crista alaris
+    Greater wing
+        Cerebral surface of greater wing
+        Temporal surface of greater wing
+        Infratemporal surface of greater wing
+        Infratemporal crest
+        Maxillary surface of greater wing
+        Orbital surface of greater wing
+        Zygomatic margin of greater wing
+        Frontal margin of greater wing
+        Parietal margin of greater wing
+        Squamosal margin of greater wing
+        Foramen rotundum
+        Foramen ovale
+        Sphenoidal emissary foramen
+        Foramen spinosum
+        Foramen petrosum
+        Spine of sphenoid bone
+        Sulcus of auditory tube
+    Pterygoid process
+        Lateral pterygoid plate
+        Medial pterygoid plate
+    Pterygoid notch
+    Pterygoid fossa
+    Scaphoid fossa
+    Vaginal process of sphenoid bone
+        Palatovaginal groove
+        Vomerovaginal groove
+    Pterygoid hamulus
+        Groove of pterygoid hamulus
+    Pterygoid canal
+    Pterygospinous process
+;;;ES;;;
+
+HUESO ESFENOIDE
+Cuerpo del hueso esfenoides
+Yugo esfenoidal
+Limbo del esfenoides
+Surco quiasmático
+silla turca
+Tuberculo de la silla
+proceso clinoides medio
+fosa hipofisaria
+Canal craneofaríngeo
+Dorso de la silla turca
+Proceso clinoides posterior
+surco carotideo
+língula esfenoidal
+Cresta esfenoidal
+tribuna esfenoidal
+Seno del hueso esfenoides
+Abertura del seno del esfenoides
+Tabique de los senos esfenoidales
+Concha esfenoidal
+ala menor
+canal óptico
+tubérculo infraóptico
+proceso clinoides anterior
+Agujero caroticoclinoideo
+crista alaris
+ala mayor
+Superficie cerebral del ala mayor
+Superficie temporal del ala mayor
+Superficie infratemporal del ala mayor
+Cresta infratemporal
+Superficie maxilar del ala mayor
+Superficie orbital del ala mayor
+Margen cigomático del ala mayor
+Margen frontal del ala mayor
+Margen parietal del ala mayor
+Margen escamoso del ala mayor
+Agujero redondo
+Foramen oval
+Agujero emisario esfenoidal
+Foramen espinoso
+Foramen petroso
+Columna vertebral del hueso esfenoides
+Surco de la trompa auditiva
+Proceso pterigoideo
+placa pterigoideo lateral
+placa pterigoideo medial
+Muesca pterigoideo
+fosa pterigoideo
+fosa escafoides
+Proceso vaginal del hueso esfenoides
+Surco palatovaginal
+Surco vomerovaginal
+hamulo pterigoideo
+Surco del hamulus pterigoideo
+canal pterigoideo
+Proceso pterigoespinoso
+
+;;;PT;;;
+
+OSSO ESFENOIDE
+Corpo do osso esfenóide
+Jugo esfenoidal
+Limbo do esfenóide
+Sulco quiasmático
+Sela turca
+Tuberculose
+Processo clinóide médio
+fossa hipofisária
+Canal craniofaríngeo
+Dorso selar
+Processo clinóide posterior
+Sulco carotídeo
+Lingula esfenoidal
+Crista esfenoidal
+Rostro esfenoidal
+Seio do osso esfenóide
+Abertura do seio do osso esfenóide
+Septo dos seios esfenoidais
+Concha esfenoidal
+Asa menor
+canal óptico
+Tubérculo infra-óptico
+Processo clinóide anterior
+Forame caroticoclinóideo
+Crista alaris
+Ala maior
+Superfície cerebral da asa maior
+Superfície temporal da asa maior
+Superfície infratemporal da asa maior
+Crista infratemporal
+Superfície maxilar da asa maior
+Superfície orbital da asa maior
+Margem zigomática da asa maior
+Margem frontal da asa maior
+Margem parietal da asa maior
+Margem esquamosal da asa maior
+Forame redondo
+Forame oval
+Forame emissário esfenoidal
+Forame espinhoso
+Forame petroso
+Espinha do osso esfenóide
+Sulco da tuba auditiva
+Processo pterigóide
+Placa pterigóide lateral
+Placa pterigóide medial
+Incisura pterigóide
+fossa pterigóide
+fossa escafóide
+Processo vaginal do osso esfenóide
+Sulco palatovaginal
+Sulco vomerovaginal
+Hâmulo pterigóide
+Sulco do hamulus pterigóide
+canal pterigóide
+Processo pterigoespinhoso
+
+;;;FR;;;
+
+L'OS SPHÉNOÏDE
+Corps de l'os sphénoïde
+Joug sphénoïdal
+limbe du sphénoïde
+Sillon chiasmatique
+Selle turcique
+Tuberculum sellae
+Processus clinoïde moyen
+Fosse hypophysaire
+Canal craniopharyngé
+Dos de la selle
+Processus clinoïde postérieur
+Sillon carotidien
+Lingula sphénoïdale
+Crête sphénoïdale
+Tribune sphénoïdale
+Sinus de l'os sphénoïde
+Ouverture du sinus de l'os sphénoïde
+Septum des sinus sphénoïdaux
+Conque sphénoïdale
+Petite aile
+Canal optique
+Tubercule infra-optique
+Processus clinoïde antérieur
+Foramen caroticoclinoïde
+Crista alaris
+Grande aile
+Surface cérébrale de la grande aile
+Surface temporale de la grande aile
+Surface infratemporale de la grande aile
+Crête infratemporale
+Surface maxillaire de la grande aile
+Surface orbitale de la grande aile
+Marge zygomatique de la grande aile
+Marge frontale de la grande aile
+Marge pariétale de la grande aile
+Marge squamosale de la grande aile
+Foramen rond
+Foramen ovale
+Foramen émissaire sphénoïdal
+Foramen épineux
+Foramen pétreux
+Épine de l'os sphénoïde
+Sillon du tube auditif
+Processus ptérygoïdien
+Plaque ptérygoïdienne latérale
+Plaque ptérygoïdienne médiale
+Encoche ptérygoïdienne
+Fosse ptérygoïdienne
+Fosse scaphoïde
+Processus vaginal de l'os sphénoïde
+Sillon palatovaginal
+Sillon vomé-vaginal
+Hamulus ptérygoïdien
+Rainure de l'hamulus ptérygoïdien
+Canal ptérygoïdien
+Processus ptérygoépineux

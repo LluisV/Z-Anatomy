@@ -1,0 +1,9 @@
+<map id="ContextualMenu.UpdateEnabledButtons" name="ContextualMenu.UpdateEnabledButtons">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,213,103"/>
+<area shape="rect" id="node2" href="$class_selected_objects_management.html#af4780a1ea7a0a2b1ec1b996698e5b85d" title="This method clears the list of active objects and updates it with all currently active objects in the..." alt="" coords="277,5,475,45"/>
+<area shape="rect" id="node4" href="$class_contextual_menu.html#aa6ce06fe00cfbc45380a045e89454d5a" title=" " alt="" coords="265,119,487,145"/>
+<area shape="rect" id="node7" href="$class_contextual_menu.html#a9595ead8723b0f00abf47f28aa667e25" title=" " alt="" coords="261,70,491,95"/>
+<area shape="rect" id="node3" href="$class_camera_controller.html#aaa7e8228113908116a25b1a69eea1c1b" title="Updates the bounds." alt="" coords="539,13,749,38"/>
+<area shape="rect" id="node5" href="$class_key_colors.html#aefa26830312ebb29b1aca4de9e3f6ddd" title=" " alt="" coords="563,119,725,145"/>
+<area shape="rect" id="node6" href="$class_key_colors.html#a149435c7a68f591a8deba0315cc6e418" title=" " alt="" coords="560,70,728,95"/>
+</map>

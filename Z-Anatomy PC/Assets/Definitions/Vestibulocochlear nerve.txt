@@ -1,0 +1,436 @@
+
+
+VESTIBULOCOCHLEAR NERVE
+
+
+The vestibulocochlear nerve or auditory vestibular nerve, also known as the eighth cranial nerve, cranial nerve VIII, or simply CN VIII, is a cranial nerve that transmits sound and equilibrium (balance) information from the inner ear to the brain. 
+
+Through olivocochlear fibers, it also transmits motor and modulatory information from the superior olivary complex in the brainstem to the cochlea.
+
+
+== Structure ==
+
+The vestibulocochlear nerve consists mostly of bipolar neurons and splits into two large divisions: the cochlear nerve and the vestibular nerve.
+Cranial nerve 8, the vestibulocochlear nerve, goes to the middle portion of the brainstem called the pons, (which then is largely composed of fibers going to the cerebellum). 
+The 8th cranial nerve runs between the base of the pons (the middle portion of the brainstem) and medulla oblongata (the lower portion of the brainstem). 
+
+This junction between the pons, medulla, and cerebellum that contains the 8th nerve is called the cerebellopontine angle.
+The vestibulocochlear nerve is accompanied by the labyrinthine artery, which usually branches off from the anterior inferior cerebellar artery (AICA) at the cerebellopontine angle, and then goes with the 7th nerve through the internal acoustic meatus to the internal ear.
+The cochlear nerve travels away from the cochlea of the inner ear where it starts as the spiral ganglia. 
+
+Processes from the organ of Corti conduct afferent transmission to the spiral ganglia. 
+
+It is the inner hair cells of the organ of Corti that are responsible for activation of afferent receptors in response to pressure waves reaching the basilar membrane through the transduction of sound. 
+
+The exact mechanism by which sound is transmitted by the neurons of the cochlear nerve is uncertain; the two competing theories are place theory and temporal theory.
+The vestibular nerve travels from the vestibular system of the inner ear. 
+
+The vestibular ganglion houses the cell bodies of the bipolar neurons and extends processes to five sensory organs. 
+
+Three of these are the cristae located in the ampullae of the semicircular canals. 
+
+Hair cells of the cristae activate afferent receptors in response to rotational acceleration. 
+
+The other two sensory organs supplied by the vestibular neurons are the maculae of the saccule and utricle. 
+
+Hair cells of the maculae in the utricle activate afferent receptors in response to linear acceleration while hair cells of the maculae in the saccule respond to vertically directed linear force.
+
+
+=== Development ===
+
+The vestibulocochlear nerve is derived from the embryonic otic placode.
+
+
+== Function ==
+
+This is the nerve along which the sensory cells (the hair cells) of the inner ear transmit information to the brain. 
+
+It consists of the cochlear nerve, carrying details about hearing, and the vestibular nerve, carrying information about balance. 
+It emerges from the pontomedullary junction and exits the inner skull via the internal acoustic meatus (or internal auditory meatus) in the temporal bone.
+The vestibulocochlear nerve carries axons of type SSA (special somatic afferent).
+
+
+== Clinical significance ==
+
+
+
+=== Symptoms of damage ===
+
+Damage to the vestibulocochlear nerve may cause the following symptoms:
+
+hearing loss
+vertigo
+false sense of motion
+loss of equilibrium (in dark places)
+nystagmus
+motion sickness
+gaze-evoked tinnitus.
+
+
+=== Examination ===
+
+Examinations that can be done include the Rinne test and the Weber test.
+Rinne's test involves Rinne's Right Test and Rinne's Left Test since auditory acuity is equal in both ears. 
+
+If Bone Conduction(BC) is more than Air Conduction(AC) i.e. 
+
+BC>AC indicates Rinne Test is negative or abnormal. 
+
+If AC>BC Rinne test is normal or positive. 
+
+If BC>AC and Weber's test lateralizes to abnormal side then it is Conductive hearing loss. 
+
+If AC>BC and Weber's test lateralizes to normal side then it concludes Sensorineural hearing loss.
+After pure-tone testing, if the AC and BC responses at all frequencies 500–8000 Hz are better than 25 dB HL, meaning 0-24 dB HL, the results are considered normal hearing sensitivity. 
+
+If the AC and BC are worse than 25 dB HL at any one or more frequency between 500 and 8000 Hz, meaning 25+, and there is a no bigger difference between AC and BC beyond 10 dB at any frequency, there is a sensori-neural hearing loss present. 
+
+If the BC responses are normal, 0-24 dB HL, and the AC are worse than 25 dB HL, as well as a 10 dB gap between the air and bone responses, a conductive hearing loss is present.
+{updated March 2019}
+The modified Hughson–Westlake method is used by many audiologists during testing. 
+
+A battery of (1) otoscopy, to view the ear canal and tympanic membrane, (2) tympanometry, to assess the immittance of the tympanic membrane and how well it moves, (3) otoacoustic emissions, to measure the response of the outer hair cells located in the cochlea, (4) audiobooth pure-tone testing, to obtain thresholds to determine the type, severity, and pathology of the hearing loss present, and (5) speech tests, to measure the patients recognition and ability to repeat the speech heard, is all taken into consideration when diagnosing the pathology of the patient.
+
+
+== History ==
+
+
+
+=== Etymology ===
+
+Some older texts call the nerve the acoustic or auditory nerve, but these terms have fallen out of widespread use because they fail to recognize the nerve's role in the vestibular system. 
+
+Vestibulocochlear nerve is therefore preferred by most.
+
+
+
+https://en.wikipedia.org/wiki/Vestibulocochlear_nerve
+;;;ES;;;
+
+
+
+NERVIO VESTIBULOCLEAR
+
+
+El nervio vestibulococlear o nervio auditivo vestibular, también conocido como octavo nervio craneal, nervio craneal VIII o simplemente CN VIII, es un nervio craneal que transmite información de sonido y equilibrio (equilibrio) desde el oído interno hasta el cerebro.
+
+A través de las fibras olivococleares, también transmite información motora y moduladora desde el complejo olivar superior en el tronco del encéfalo hasta la cóclea.
+
+
+== Estructura ==
+
+El nervio vestibulococlear consta principalmente de neuronas bipolares y se divide en dos grandes divisiones: el nervio coclear y el nervio vestibular.
+El nervio craneal 8, el nervio vestibulococlear, se dirige a la porción media del tronco del encéfalo llamada protuberancia (que luego se compone en gran parte de fibras que van al cerebelo).
+El octavo nervio craneal corre entre la base de la protuberancia (la porción media del tronco encefálico) y el bulbo raquídeo (la porción inferior del tronco encefálico).
+
+Esta unión entre la protuberancia, el bulbo raquídeo y el cerebelo que contiene el octavo nervio se denomina ángulo pontocerebeloso.
+El nervio vestibulococlear está acompañado por la arteria laberíntica, que por lo general se ramifica desde la arteria cerebelosa inferior anterior (AICA) en el ángulo pontocerebeloso, y luego se dirige con el séptimo nervio a través del conducto auditivo interno hasta el oído interno.
+El nervio coclear se aleja de la cóclea del oído interno donde comienza como los ganglios espirales.
+
+Los procesos del órgano de Corti conducen la transmisión aferente a los ganglios espirales.
+
+Son las células ciliadas internas del órgano de Corti las responsables de la activación de los receptores aferentes en respuesta a las ondas de presión que llegan a la membrana basilar a través de la transducción del sonido.
+
+El mecanismo exacto por el cual las neuronas del nervio coclear transmiten el sonido es incierto; las dos teorías en competencia son la teoría del lugar y la teoría temporal.
+El nervio vestibular viaja desde el sistema vestibular del oído interno.
+
+El ganglio vestibular alberga los cuerpos celulares de las neuronas bipolares y extiende procesos a cinco órganos sensoriales.
+
+Tres de estos son las crestas ubicadas en las ampollas de los canales semicirculares.
+
+Las células ciliadas de las crestas activan receptores aferentes en respuesta a la aceleración rotacional.
+
+Los otros dos órganos sensoriales inervados por las neuronas vestibulares son las máculas del sáculo y el utrículo.
+
+Las células ciliadas de las máculas en el utrículo activan receptores aferentes en respuesta a la aceleración lineal, mientras que las células ciliadas de las máculas en el sáculo responden a la fuerza lineal dirigida verticalmente.
+
+
+=== Desarrollo ===
+
+El nervio vestibulococlear se deriva de la placoda ótica embrionaria.
+
+
+== Función ==
+
+Este es el nervio a lo largo del cual las células sensoriales (las células ciliadas) del oído interno transmiten información al cerebro.
+
+Consiste en el nervio coclear, que lleva información sobre la audición, y el nervio vestibular, que lleva información sobre el equilibrio.
+Emerge de la unión pontomedular y sale del interior del cráneo a través del meato acústico interno (o meato auditivo interno) en el hueso temporal.
+El nervio vestibulococlear transporta axones de tipo SSA (aferente somático especial).
+
+
+== Importancia clínica ==
+
+
+
+=== Síntomas de daño ===
+
+El daño al nervio vestibulococlear puede causar los siguientes síntomas:
+
+pérdida de la audición
+vértigo
+falsa sensación de movimiento
+pérdida de equilibrio (en lugares oscuros)
+nistagmo
+cinetosis
+tinnitus provocado por la mirada.
+
+
+=== Examen ===
+
+Los exámenes que se pueden hacer incluyen la prueba de Rinne y la prueba de Weber.
+La prueba de Rinne incluye la prueba derecha de Rinne y la prueba izquierda de Rinne, ya que la agudeza auditiva es igual en ambos oídos.
+
+Si la conducción ósea (BC) es mayor que la conducción aérea (AC), es decir
+
+BC>AC indica que la prueba Rinne es negativa o anormal.
+
+Si la prueba AC>BC Rinne es normal o positiva.
+
+Si BC>AC y la prueba de Weber se lateraliza hacia el lado anormal, entonces se trata de una pérdida auditiva conductiva.
+
+Si AC>BC y la prueba de Weber se lateraliza al lado normal, se concluye que hay una pérdida auditiva neurosensorial.
+Después de la prueba de tonos puros, si las respuestas de CA y BC en todas las frecuencias de 500 a 8000 Hz son mejores que 25 dB HL, es decir, 0-24 dB HL, los resultados se consideran sensibilidad auditiva normal.
+
+Si AC y BC son peores que 25 dB HL en una o más frecuencias entre 500 y 8000 Hz, lo que significa 25+, y no hay una diferencia mayor entre AC y BC más allá de 10 dB en cualquier frecuencia, hay un sensori- hipoacusia neural presente.
+
+Si las respuestas de BC son normales, de 0 a 24 dB HL, y las de CA son peores que 25 dB HL, así como una brecha de 10 dB entre las respuestas del aire y los huesos, existe una pérdida auditiva conductiva.
+{actualizado en marzo de 2019}
+Muchos audiólogos utilizan el método modificado de Hughson-Westlake durante las pruebas.
+
+Una batería de (1) otoscopia, para ver el canal auditivo y la membrana timpánica, (2) timpanometría, para evaluar la inmitancia de la membrana timpánica y qué tan bien se mueve, (3) emisiones otoacústicas, para medir la respuesta del vello externo células ubicadas en la cóclea, (4) pruebas de tonos puros en cabina de audio, para obtener umbrales para determinar el tipo, la gravedad y la patología de la pérdida auditiva presente, y (5) pruebas del habla, para medir el reconocimiento de los pacientes y la capacidad de repetir la habla escuchada, todo se tiene en cuenta al diagnosticar la patología del paciente.
+
+
+== Historia ==
+
+
+
+=== Etimología ===
+
+Algunos textos más antiguos llaman al nervio nervio acústico o auditivo, pero estos términos han perdido su uso generalizado porque no reconocen el papel del nervio en el sistema vestibular.
+
+Por lo tanto, la mayoría prefiere el nervio vestibulococlear.
+
+
+
+https://en.wikipedia.org/wiki/Vestibulocochlear_nerve
+
+;;;PT;;;
+
+
+
+NERVO VESTIBULOCOCLEAR
+
+
+O nervo vestibulococlear ou nervo vestibular auditivo, também conhecido como oitavo nervo craniano, nervo craniano VIII, ou simplesmente NC VIII, é um nervo craniano que transmite informações de som e equilíbrio (equilíbrio) do ouvido interno para o cérebro.
+
+Por meio de fibras olivococleares, também transmite informações motoras e modulatórias do complexo olivar superior no tronco encefálico para a cóclea.
+
+
+== Estrutura ==
+
+O nervo vestibulococlear consiste principalmente de neurônios bipolares e se divide em duas grandes divisões: o nervo coclear e o nervo vestibular.
+O nervo craniano 8, o nervo vestibulococlear, vai para a porção média do tronco encefálico chamada ponte (que então é composta em grande parte por fibras que vão para o cerebelo).
+O 8º nervo craniano corre entre a base da ponte (a porção média do tronco encefálico) e a medula oblonga (a porção inferior do tronco encefálico).
+
+Essa junção entre a ponte, a medula e o cerebelo que contém o 8º nervo é chamada de ângulo pontocerebelar.
+O nervo vestibulococlear é acompanhado pela artéria labiríntica, que geralmente se ramifica da artéria cerebelar ântero-inferior (AICA) no ângulo pontocerebelar, e depois segue com o 7º nervo através do meato acústico interno até a orelha interna.
+O nervo coclear se afasta da cóclea do ouvido interno, onde começa como os gânglios espirais.
+
+Processos do órgão de Corti conduzem a transmissão aferente para os gânglios espirais.
+
+São as células ciliadas internas do órgão de Corti que são responsáveis ​​pela ativação dos receptores aferentes em resposta às ondas de pressão que atingem a membrana basilar através da transdução do som.
+
+O mecanismo exato pelo qual o som é transmitido pelos neurônios do nervo coclear é incerto; as duas teorias concorrentes são a teoria do lugar e a teoria temporal.
+O nervo vestibular viaja do sistema vestibular do ouvido interno.
+
+O gânglio vestibular abriga os corpos celulares dos neurônios bipolares e estende os processos para cinco órgãos sensoriais.
+
+Três delas são as cristas localizadas nas ampolas dos canais semicirculares.
+
+As células ciliadas das cristas ativam receptores aferentes em resposta à aceleração rotacional.
+
+Os outros dois órgãos sensoriais supridos pelos neurônios vestibulares são as máculas do sáculo e do utrículo.
+
+As células ciliadas das máculas no utrículo ativam receptores aferentes em resposta à aceleração linear, enquanto as células ciliadas das máculas no sáculo respondem à força linear direcionada verticalmente.
+
+
+=== Desenvolvimento ===
+
+O nervo vestibulococlear é derivado do placódio ótico embrionário.
+
+
+== Função ==
+
+Este é o nervo ao longo do qual as células sensoriais (as células ciliadas) do ouvido interno transmitem informações ao cérebro.
+
+É constituído pelo nervo coclear, que transporta detalhes sobre a audição, e pelo nervo vestibular, que transporta informações sobre o equilíbrio.
+Ele emerge da junção pontomedular e sai do interior do crânio através do meato acústico interno (ou meato auditivo interno) no osso temporal.
+O nervo vestibulococlear transporta axônios do tipo SSA (aferente somático especial).
+
+
+== Significado clínico ==
+
+
+
+=== Sintomas de danos ===
+
+Danos ao nervo vestibulococlear podem causar os seguintes sintomas:
+
+Perda de audição
+vertigem
+falsa sensação de movimento
+perda de equilíbrio (em locais escuros)
+nistagmo
+enjoo de movimento
+zumbido evocado pelo olhar.
+
+
+=== Exame ===
+
+Os exames que podem ser feitos incluem o teste de Rinne e o teste de Weber.
+O teste de Rinne envolve o teste direito de Rinne e o teste esquerdo de Rinne, uma vez que a acuidade auditiva é igual em ambas as orelhas.
+
+Se a condução óssea (BC) for maior que a condução aérea (AC), ou seja,
+
+BC>AC indica que o teste de Rinne é negativo ou anormal.
+
+Se o teste AC>BC Rinne for normal ou positivo.
+
+Se BC>AC e teste de Weber lateralizam para o lado anormal, então é perda auditiva condutiva.
+
+Se AC>BC e o teste de Weber lateralizam para o lado normal, conclui-se perda auditiva neurossensorial.
+Após o teste de tom puro, se as respostas AC e BC em todas as frequências de 500-8000 Hz forem melhores que 25 dB NA, significando 0-24 dB NA, os resultados são considerados sensibilidade auditiva normal.
+
+Se AC e BC forem piores que 25 dB NA em qualquer uma ou mais frequências entre 500 e 8000 Hz, ou seja, 25+, e não houver uma diferença maior entre AC e BC além de 10 dB em qualquer frequência, há um sensoriamento perda auditiva neural presente.
+
+Se as respostas BC forem normais, 0-24 dB NA, e a AC for pior que 25 dB NA, bem como um gap de 10 dB entre as respostas aérea e óssea, uma perda auditiva condutiva está presente.
+{atualizado em março de 2019}
+O método modificado de Hughson-Westlake é usado por muitos audiologistas durante os testes.
+
+Uma bateria de (1) otoscopia, para visualizar o canal auditivo e a membrana timpânica, (2) timpanometria, para avaliar a imitância da membrana timpânica e quão bem ela se move, (3) emissões otoacústicas, para medir a resposta do cabelo externo células localizadas na cóclea, (4) teste de tom puro em cabine de áudio, para obter limiares para determinar o tipo, gravidade e patologia da perda auditiva presente, e (5) testes de fala, para medir o reconhecimento do paciente e a capacidade de repetir o fala ouvida, tudo é levado em consideração no diagnóstico da patologia do paciente.
+
+
+== História ==
+
+
+
+=== Etimologia ===
+
+Alguns textos mais antigos chamam o nervo de nervo acústico ou auditivo, mas esses termos caíram em desuso porque não reconhecem o papel do nervo no sistema vestibular.
+
+O nervo vestibulococlear é, portanto, preferido pela maioria.
+
+
+
+https://en.wikipedia.org/wiki/Vestibulocochlear_nerve
+
+;;;FR;;;
+
+
+
+NERF VESTIBULOCOCHLAIRE
+
+
+Le nerf vestibulocochléaire ou nerf vestibulaire auditif, également connu sous le nom de huitième nerf crânien, nerf crânien VIII, ou simplement CN VIII, est un nerf crânien qui transmet les informations sonores et d'équilibre (équilibre) de l'oreille interne au cerveau.
+
+À travers les fibres olivocochléaires, il transmet également les informations motrices et modulatrices du complexe olivaire supérieur du tronc cérébral à la cochlée.
+
+
+== Structure ==
+
+Le nerf vestibulocochléaire est constitué principalement de neurones bipolaires et se divise en deux grandes divisions : le nerf cochléaire et le nerf vestibulaire.
+Le nerf crânien 8, le nerf vestibulocochléaire, va à la partie médiane du tronc cérébral appelée pont (qui est alors en grande partie composée de fibres allant au cervelet).
+Le 8e nerf crânien s'étend entre la base du pont (la partie médiane du tronc cérébral) et le bulbe rachidien (la partie inférieure du tronc cérébral).
+
+Cette jonction entre le pont, la moelle et le cervelet qui contient le 8ème nerf s'appelle l'angle cérébellopontin.
+Le nerf vestibulocochléaire est accompagné de l'artère labyrinthique, qui part généralement de l'artère cérébelleuse antéro-inférieure (AICA) à l'angle cérébellopontin, puis va avec le 7e nerf à travers le méat acoustique interne jusqu'à l'oreille interne.
+Le nerf cochléaire s'éloigne de la cochlée de l'oreille interne où il commence par les ganglions spiralés.
+
+Les processus de l'organe de Corti conduisent la transmission afférente aux ganglions spiralés.
+
+Ce sont les cellules ciliées internes de l'organe de Corti qui sont responsables de l'activation des récepteurs afférents en réponse aux ondes de pression atteignant la membrane basilaire par la transduction du son.
+
+Le mécanisme exact par lequel le son est transmis par les neurones du nerf cochléaire est incertain ; les deux théories concurrentes sont la théorie des lieux et la théorie temporelle.
+Le nerf vestibulaire part du système vestibulaire de l'oreille interne.
+
+Le ganglion vestibulaire abrite les corps cellulaires des neurones bipolaires et étend les processus à cinq organes sensoriels.
+
+Trois d'entre eux sont les crêtes situées dans les ampoules des canaux semi-circulaires.
+
+Les cellules ciliées des crêtes activent les récepteurs afférents en réponse à l'accélération de rotation.
+
+Les deux autres organes sensoriels alimentés par les neurones vestibulaires sont les macules du saccule et de l'utricule.
+
+Les cellules ciliées des macules dans l'utricule activent les récepteurs afférents en réponse à une accélération linéaire tandis que les cellules ciliées des macules dans le saccule répondent à une force linéaire dirigée verticalement.
+
+
+=== Développement ===
+
+Le nerf vestibulocochléaire est dérivé de la placode otique embryonnaire.
+
+
+== Fonction ==
+
+C'est le nerf le long duquel les cellules sensorielles (les cellules ciliées) de l'oreille interne transmettent les informations au cerveau.
+
+Il se compose du nerf cochléaire, porteur de détails sur l'audition, et du nerf vestibulaire, porteur d'informations sur l'équilibre.
+Il émerge de la jonction ponto-médullaire et sort du crâne interne via le méat acoustique interne (ou méat auditif interne) dans l'os temporal.
+Le nerf vestibulocochléaire porte des axones de type SSA (afférence somatique spéciale).
+
+
+== Signification clinique ==
+
+
+
+=== Symptômes de dommages ===
+
+Les dommages au nerf vestibulocochléaire peuvent provoquer les symptômes suivants :
+
+perte d'audition
+vertige
+fausse sensation de mouvement
+perte d'équilibre (dans les endroits sombres)
+nystagmus
+mal des transports
+acouphènes évoqués par le regard.
+
+
+=== Examen ===
+
+Les examens qui peuvent être effectués comprennent le test de Rinne et le test de Weber.
+Le test de Rinne implique le test droit de Rinne et le test gauche de Rinne puisque l'acuité auditive est égale dans les deux oreilles.
+
+Si la conduction osseuse (BC) est supérieure à la conduction aérienne (AC), c'est-à-dire
+
+BC>AC indique que le test de Rinne est négatif ou anormal.
+
+Si le test AC>BC Rinne est normal ou positif.
+
+Si BC> AC et que le test de Weber se latéralise du côté anormal, il s'agit d'une perte auditive conductrice.
+
+Si AC> BC et que le test de Weber se latéralise du côté normal, il conclut à une perte auditive neurosensorielle.
+Après le test de tonalité pure, si les réponses AC et BC à toutes les fréquences 500–8000 Hz sont meilleures que 25 dB HL, c'est-à-dire 0-24 dB HL, les résultats sont considérés comme une sensibilité auditive normale.
+
+Si l'AC et le BC sont inférieurs à 25 dB HL à une ou plusieurs fréquences entre 500 et 8000 Hz, c'est-à-dire 25+, et qu'il n'y a pas de plus grande différence entre AC et BC au-delà de 10 dB à n'importe quelle fréquence, il y a un capteur perte auditive neurale présente.
+
+Si les réponses BC sont normales, 0-24 dB HL, et les AC sont inférieures à 25 dB HL, ainsi qu'un écart de 10 dB entre les réponses aériennes et osseuses, une surdité de transmission est présente.
+{mise à jour mars 2019}
+La méthode Hughson-Westlake modifiée est utilisée par de nombreux audiologistes lors des tests.
+
+Une batterie de (1) otoscopie, pour visualiser le conduit auditif et la membrane tympanique, (2) tympanométrie, pour évaluer l'immitance de la membrane tympanique et sa capacité à bouger, (3) les émissions otoacoustiques, pour mesurer la réponse des poils externes cellules situées dans la cochlée, (4) tests de tonalité pure en cabine audio, pour obtenir des seuils permettant de déterminer le type, la gravité et la pathologie de la perte auditive présente, et (5) tests de parole, pour mesurer la reconnaissance du patient et sa capacité à répéter le parole entendue, est prise en compte dans le diagnostic de la pathologie du patient.
+
+
+== Historique ==
+
+
+
+=== Étymologie ===
+
+Certains textes plus anciens appellent le nerf le nerf acoustique ou auditif, mais ces termes ne sont plus largement utilisés car ils ne reconnaissent pas le rôle du nerf dans le système vestibulaire.
+
+Le nerf vestibulocochléaire est donc préféré par la plupart.
+
+
+
+https://en.wikipedia.org/wiki/Vestibulocochlear_nerve

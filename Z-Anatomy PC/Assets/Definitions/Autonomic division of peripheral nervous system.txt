@@ -1,0 +1,1212 @@
+
+
+AUTONOMIC DIVISION OF PERIPHERAL NERVOUS SYSTEM
+
+
+The autonomic nervous system (ANS), formerly referred to as the vegetative nervous system, is a division of the peripheral nervous system that supplies smooth muscle and glands, and thus influences the function of internal organs. 
+
+The autonomic nervous system is a control system that acts largely unconsciously and regulates bodily functions, such as the heart rate, digestion, respiratory rate, pupillary response, urination, and sexual arousal. 
+
+This system is the primary mechanism in control of the fight-or-flight response.
+
+The autonomic nervous system is regulated by integrated reflexes through the brainstem to the spinal cord and organs. 
+
+Autonomic functions include control of respiration, cardiac regulation (the cardiac control center), vasomotor activity (the vasomotor center), and certain reflex actions such as coughing, sneezing, swallowing and vomiting. 
+
+Those are then subdivided into other areas and are also linked to autonomic subsystems and the peripheral nervous system. 
+
+The hypothalamus, just above the brain stem, acts as an integrator for autonomic functions, receiving autonomic regulatory input from the limbic system.
+
+The autonomic nervous system has three branches: 
+    
+    the sympathetic nervous system, the parasympathetic nervous system and the enteric nervous system. 
+
+Some textbooks do not include the enteric nervous system as part of this system. 
+
+The sympathetic nervous system is often considered the "fight or flight" system, while the parasympathetic nervous system is often considered the "rest and digest" or "feed and breed" system. 
+
+In many cases, both of these systems have "opposite" actions where one system activates a physiological response and the other inhibits it. 
+
+An older simplification of the sympathetic and parasympathetic nervous systems as "excitatory" and "inhibitory" was overturned due to the many exceptions found. 
+
+A more modern characterization is that the sympathetic nervous system is a "quick response mobilizing system" and the parasympathetic is a "more slowly activated dampening system", but even this has exceptions, such as in sexual arousal and orgasm, wherein both play a role.
+
+There are inhibitory and excitatory synapses between neurons. 
+
+A third subsystem of neurons has been named as non-noradrenergic, non-cholinergic transmitters (because they use nitric oxide as a neurotransmitter) and are integral in autonomic function, in particular in the gut and the lungs.
+
+Although the ANS is also known as the visceral nervous system, the ANS is only connected with the motor side. 
+
+Most autonomous functions are involuntary but they can often work in conjunction with the somatic nervous system which provides voluntary control.
+
+
+== Structure ==
+
+
+The autonomic nervous system is divided into the sympathetic nervous system and parasympathetic nervous system. 
+
+The sympathetic division emerges from the spinal cord in the thoracic and lumbar areas, terminating around L2-3. 
+
+The parasympathetic division has craniosacral “outflow”, meaning that the neurons begin at the cranial nerves (specifically the oculomotor nerve, facial nerve, glossopharyngeal nerve and vagus nerve) and sacral (S2-S4) spinal cord.
+
+The autonomic nervous system is unique in that it requires a sequential two-neuron efferent pathway; the preganglionic neuron must first synapse onto a postganglionic neuron before innervating the target organ. 
+
+The preganglionic, or first, neuron will begin at the “outflow” and will synapse at the postganglionic, or second, neuron's cell body. 
+
+The postganglionic neuron will then synapse at the target organ.
+
+
+=== Sympathetic division ===
+
+The sympathetic nervous system consists of cells with bodies in the lateral grey column from T1 to L2/3. 
+
+These cell bodies are "GVE" (general visceral efferent) neurons and are the preganglionic neurons. 
+
+There are several locations upon which preganglionic neurons can synapse for their postganglionic neurons:
+
+Paravertebral ganglia of the sympathetic chain (these run on either side of the vertebral bodies)cervical ganglia
+thoracic ganglia and rostral lumbar ganglia
+caudal lumbar ganglia and sacral gangliaPrevertebral ganglia (celiac ganglion, aorticorenal ganglion, superior mesenteric ganglion, inferior mesenteric ganglion)
+
+Chromaffin cells of the adrenal medulla (this is the one exception to the two-neuron pathway rule: 
+    
+    the synapse is directly efferent onto the target cell bodies)These ganglia provide the postganglionic neurons from which innervation of target organs follows. 
+
+Examples of splanchnic (visceral) nerves are:
+
+Cervical cardiac nerves and thoracic visceral nerves, which synapse in the sympathetic chain
+
+Thoracic splanchnic nerves (greater, lesser, least), which synapse in the prevertebral ganglia
+
+Lumbar splanchnic nerves, which synapse in the prevertebral ganglia
+
+Sacral splanchnic nerves, which synapse in the inferior hypogastric plexusThese all contain afferent (sensory) nerves as well, known as GVA (general visceral afferent) neurons.
+
+
+=== Parasympathetic division ===
+
+
+The parasympathetic nervous system consists of cells with bodies in one of two locations: the brainstem (Cranial Nerves III, VII, IX, X) or the sacral spinal cord (S2, S3, S4). 
+
+These are the preganglionic neurons, which synapse with postganglionic neurons in these locations:
+
+Parasympathetic ganglia of the head: Ciliary (Cranial nerve III), Submandibular (Cranial nerve VII), Pterygopalatine (Cranial nerve VII), and Otic (Cranial nerve IX)
+In or near the wall of an organ innervated by the Vagus (Cranial nerve X) or Sacral nerves (S2, S3, S4)
+
+These ganglia provide the postganglionic neurons from which innervations of target organs follows. 
+
+Examples are:
+
+The postganglionic parasympathetic splanchnic (visceral) nerves
+The vagus nerve, which passes through the thorax and abdominal regions innervating, among other organs, the heart, lungs, liver and stomach
+
+
+=== Sensory neurons ===
+
+The sensory arm is composed of primary visceral sensory neurons found in the peripheral nervous system (PNS), in cranial sensory ganglia: the geniculate, petrosal and nodose ganglia, appended respectively to cranial nerves VII, IX and X. 
+
+These sensory neurons monitor the levels of carbon dioxide, oxygen and sugar in the blood, arterial pressure and the chemical composition of the stomach and gut content. 
+
+They also convey the sense of taste and smell, which, unlike most functions of the ANS, is a conscious perception. 
+
+Blood oxygen and carbon dioxide are in fact directly sensed by the carotid body, a small collection of chemosensors at the bifurcation of the carotid artery, innervated by the petrosal (IXth) ganglion.
+Primary sensory neurons project (synapse) onto “second order” visceral sensory neurons located in the medulla oblongata, forming the nucleus of the solitary tract (nTS), that integrates all visceral information. 
+
+The nTS also receives input from a nearby chemosensory center, the area postrema, that detects toxins in the blood and the cerebrospinal fluid and is essential for chemically induced vomiting or conditional taste aversion (the memory that ensures that an animal that has been poisoned by a food never touches it again). 
+
+All this visceral sensory information constantly and unconsciously modulates the activity of the motor neurons of the ANS.
+
+
+=== Innervation ===
+
+Autonomic nerves travel to organs throughout the body. 
+
+Most organs receive parasympathetic supply by the vagus nerve and sympathetic supply by splanchnic nerves. 
+
+The sensory part of the latter reaches the spinal column at certain spinal segments. 
+
+Pain in any internal organ is perceived as referred pain, more specifically as pain from the dermatome corresponding to the spinal segment.
+
+
+=== Motor neurons ===
+
+
+Motor neurons of the autonomic nervous system are found in ‘’autonomic ganglia’’. 
+
+Those of the parasympathetic branch are located close to the target organ whilst the ganglia of the sympathetic branch are located close to the spinal cord.
+
+The sympathetic ganglia here, are found in two chains: the pre-vertebral and pre-aortic chains. 
+
+The activity of autonomic ganglionic neurons is modulated by “preganglionic neurons” located in the central nervous system. 
+
+Preganglionic sympathetic neurons are located in the spinal cord, at the thorax and upper lumbar levels. 
+
+Preganglionic parasympathetic neurons are found in the medulla oblongata where they form visceral motor nuclei; the dorsal motor nucleus of the vagus nerve; the nucleus ambiguus, the salivatory nuclei, and in the sacral region of the spinal cord.
+
+
+== Function ==
+
+Sympathetic and parasympathetic divisions typically function in opposition to each other. 
+
+But this opposition is better termed complementary in nature rather than antagonistic. 
+
+For an analogy, one may think of the sympathetic division as the accelerator and the parasympathetic division as the brake. 
+
+The sympathetic division typically functions in actions requiring quick responses. 
+
+The parasympathetic division functions with actions that do not require immediate reaction. 
+
+The sympathetic system is often considered the "fight or flight" system, while the parasympathetic system is often considered the "rest and digest" or "feed and breed" system.
+
+However, many instances of sympathetic and parasympathetic activity cannot be ascribed to "fight" or "rest" situations. 
+
+For example, standing up from a reclining or sitting position would entail an unsustainable drop in blood pressure if not for a compensatory increase in the arterial sympathetic tonus. 
+
+Another example is the constant, second-to-second, modulation of heart rate by sympathetic and parasympathetic influences, as a function of the respiratory cycles. 
+
+In general, these two systems should be seen as permanently modulating vital functions, in a usually antagonistic fashion, to achieve homeostasis. 
+
+Higher organisms maintain their integrity via homeostasis which relies on negative feedback regulation which, in turn, typically depends on the autonomic nervous system. 
+
+Some typical actions of the sympathetic and parasympathetic nervous systems are listed below.
+
+
+=== Sympathetic nervous system ===
+
+Promotes a fight-or-flight response, corresponds with arousal and energy generation, and inhibits digestion
+
+Diverts blood flow away from the gastro-intestinal (GI) tract and skin via vasoconstriction
+
+Blood flow to skeletal muscles and the lungs is enhanced (by as much as 1200% in the case of skeletal muscles)
+
+Dilates bronchioles of the lung through circulating epinephrine, which allows for greater alveolar oxygen exchange
+
+Increases heart rate and the contractility of cardiac cells (myocytes), thereby providing a mechanism for enhanced blood flow to skeletal muscles
+
+Dilates pupils and relaxes the ciliary muscle to the lens, allowing more light to enter the eye and enhances far vision
+
+Provides vasodilation for the coronary vessels of the heart
+
+Constricts all the intestinal sphincters and the urinary sphincter
+
+Inhibits peristalsis
+
+Stimulates orgasm
+
+
+The pattern of innervation of the sweat gland—namely, the postganglionic sympathetic nerve fibers—allows clinicians and researchers to use sudomotor function testing to assess dysfunction of the autonomic nervous systems, through electrochemical skin conductance.
+
+
+=== Parasympathetic nervous system ===
+
+The parasympathetic nervous system has been said to promote a "rest and digest" response, promotes calming of the nerves return to regular function, and enhancing digestion. 
+
+Functions of nerves within the parasympathetic nervous system include:
+    
+Dilating blood vessels leading to the GI tract, increasing the blood flow.
+
+Constricting the bronchiolar diameter when the need for oxygen has diminished
+
+Dedicated cardiac branches of the vagus and thoracic spinal accessory nerves impart parasympathetic control of the heart (myocardium)
+
+Constriction of the pupil and contraction of the ciliary muscles, facilitating accommodation and allowing for closer vision
+
+Stimulating salivary gland secretion, and accelerates peristalsis, mediating digestion of food and, indirectly, the absorption of nutrients
+
+
+Sexual. 
+
+Nerves of the peripheral nervous system are involved in the erection of genital tissues via the pelvic splanchnic nerves 2–4. 
+
+They are also responsible for stimulating sexual arousal.
+
+
+=== Enteric nervous system ===
+
+
+The enteric nervous system is the intrinsic nervous system of the gastrointestinal system. 
+
+It has been described as "the Second Brain of the Human Body". 
+
+Its functions include:
+
+Sensing chemical and mechanical changes in the gut
+Regulating secretions in the gut
+
+Controlling peristalsis and some other movements
+
+
+=== Neurotransmitters ===
+
+At the effector organs, sympathetic ganglionic neurons release noradrenaline (norepinephrine), along with other cotransmitters such as ATP, to act on adrenergic receptors, with the exception of the sweat glands and the adrenal medulla:
+
+Acetylcholine is the preganglionic neurotransmitter for both divisions of the ANS, as well as the postganglionic neurotransmitter of parasympathetic neurons. 
+
+Nerves that release acetylcholine are said to be cholinergic. 
+
+In the parasympathetic system, ganglionic neurons use acetylcholine as a neurotransmitter to stimulate muscarinic receptors.
+
+At the adrenal medulla, there is no postsynaptic neuron. 
+
+Instead, the presynaptic neuron releases acetylcholine to act on nicotinic receptors. 
+
+Stimulation of the adrenal medulla releases adrenaline (epinephrine) into the bloodstream, which acts on adrenoceptors, thereby indirectly mediating or mimicking sympathetic activity.
+
+A full table is found at Table of neurotransmitter actions in the ANS.
+
+
+== History ==
+
+The specialised system of the autonomic nervous system was recognised by Galen. 
+
+In 1665, Willis used the terminology, and in 1900, Langley used the term, defining the two divisions as the sympathetic and parasympathetic nervous systems.
+
+
+== Caffeine effects ==
+
+Caffeine is a bioactive ingredient found in commonly consumed beverages such as coffee, tea, and sodas. 
+
+Short-term physiological effects of caffeine include increased blood pressure and sympathetic nerve outflow. 
+
+Habitual consumption of caffeine may inhibit physiological short-term effects. 
+
+Consumption of caffeinated espresso increases parasympathetic activity in habitual caffeine consumers; however, decaffeinated espresso inhibits parasympathetic activity in habitual caffeine consumers. 
+
+It is possible that other bioactive ingredients in decaffeinated espresso may also contribute to the inhibition of parasympathetic activity in habitual caffeine consumers.
+
+Caffeine is capable of increasing work capacity while individuals perform strenuous tasks. 
+
+In one study, caffeine provoked a greater maximum heart rate while a strenuous task was being performed compared to a placebo. 
+
+This tendency is likely due to caffeine's ability to increase sympathetic nerve outflow. 
+
+Furthermore, this study found that recovery after intense exercise was slower when caffeine was consumed prior to exercise. 
+
+This finding is indicative of caffeine's tendency to inhibit parasympathetic activity in non-habitual consumers. 
+
+The caffeine-stimulated increase in nerve activity is likely to evoke other physiological effects as the body attempts to maintain homeostasis.
+
+The effects of caffeine on parasympathetic activity may vary depending on the position of the individual when autonomic responses are measured. 
+
+One study found that the seated position inhibited autonomic activity after caffeine consumption (75 mg); however, parasympathetic activity increased in the supine position. 
+
+This finding may explain why some habitual caffeine consumers (75 mg or less) do not experience short-term effects of caffeine if their routine requires many hours in a seated position. 
+
+It is important to note that the data supporting increased parasympathetic activity in the supine position was derived from an experiment involving participants between the ages of 25 and 30 who were considered healthy and sedentary. 
+
+Caffeine may influence autonomic activity differently for individuals who are more active or elderly.
+
+
+
+https://en.wikipedia.org/wiki/Autonomic_nervous_system
+;;;ES;;;
+
+
+
+DIVISIÓN AUTONÓMICA DEL SISTEMA NERVIOSO PERIFÉRICO
+
+
+El sistema nervioso autónomo (SNA), anteriormente denominado sistema nervioso vegetativo, es una división del sistema nervioso periférico que inerva el músculo liso y las glándulas y, por lo tanto, influye en la función de los órganos internos.
+
+El sistema nervioso autónomo es un sistema de control que actúa en gran medida inconscientemente y regula las funciones corporales, como la frecuencia cardíaca, la digestión, la frecuencia respiratoria, la respuesta pupilar, la micción y la excitación sexual.
+
+Este sistema es el principal mecanismo de control de la respuesta de lucha o huida.
+
+El sistema nervioso autónomo está regulado por reflejos integrados a través del tronco encefálico hasta la médula espinal y los órganos.
+
+Las funciones autonómicas incluyen el control de la respiración, la regulación cardíaca (el centro de control cardíaco), la actividad vasomotora (el centro vasomotor) y ciertas acciones reflejas como toser, estornudar, tragar y vomitar.
+
+Estos se subdividen luego en otras áreas y también están vinculados a los subsistemas autónomos y al sistema nervioso periférico.
+
+El hipotálamo, justo por encima del tronco encefálico, actúa como un integrador de funciones autónomas, recibiendo información reguladora autónoma del sistema límbico.
+
+El sistema nervioso autónomo tiene tres ramas:
+ 
+el sistema nervioso simpático, el sistema nervioso parasimpático y el sistema nervioso entérico.
+
+Algunos libros de texto no incluyen el sistema nervioso entérico como parte de este sistema.
+
+El sistema nervioso simpático a menudo se considera el sistema de "lucha o huida", mientras que el sistema nervioso parasimpático a menudo se considera el sistema de "descanso y digestión" o "alimentación y reproducción".
+
+En muchos casos, ambos sistemas tienen acciones "opuestas" donde un sistema activa una respuesta fisiológica y el otro la inhibe.
+
+Una simplificación anterior de los sistemas nerviosos simpático y parasimpático como "excitador" e "inhibidor" fue anulada debido a las muchas excepciones encontradas.
+
+Una caracterización más moderna es que el sistema nervioso simpático es un "sistema de movilización de respuesta rápida" y el parasimpático es un "sistema amortiguador de activación más lenta", pero incluso esto tiene excepciones, como en la excitación sexual y el orgasmo, donde ambos juegan un papel. .
+
+Hay sinapsis inhibitorias y excitatorias entre las neuronas.
+
+Un tercer subsistema de neuronas se ha denominado transmisores no noradrenérgicos, no colinérgicos (porque utilizan óxido nítrico como neurotransmisor) y son parte integral de la función autonómica, en particular en el intestino y los pulmones.
+
+Aunque el ANS también se conoce como el sistema nervioso visceral, el ANS solo está conectado con el lado motor.
+
+La mayoría de las funciones autónomas son involuntarias, pero a menudo pueden funcionar junto con el sistema nervioso somático que proporciona el control voluntario.
+
+
+== Estructura ==
+
+
+El sistema nervioso autónomo se divide en sistema nervioso simpático y sistema nervioso parasimpático.
+
+La división simpática emerge de la médula espinal en las áreas torácica y lumbar, y termina alrededor de L2-3.
+
+La división parasimpática tiene un "flujo de salida" craneosacral, lo que significa que las neuronas comienzan en los nervios craneales (específicamente el nervio oculomotor, el nervio facial, el nervio glosofaríngeo y el nervio vago) y la médula espinal sacra (S2-S4).
+
+El sistema nervioso autónomo es único porque requiere una vía eferente secuencial de dos neuronas; la neurona preganglionar primero debe hacer sinapsis con una neurona posganglionar antes de inervar el órgano diana.
+
+La neurona preganglionar, o primera, comenzará en el "flujo de salida" y hará sinapsis en el cuerpo celular de la neurona posganglionar, o segunda.
+
+La neurona posganglionar luego hará sinapsis en el órgano objetivo.
+
+
+=== División simpática ===
+
+El sistema nervioso simpático consta de células con cuerpos en la columna gris lateral de T1 a L2/3.
+
+Estos cuerpos celulares son neuronas "GVE" (eferente visceral general) y son las neuronas preganglionares.
+
+Hay varios lugares en los que las neuronas preganglionares pueden establecer sinapsis con sus neuronas posganglionares:
+
+Ganglios paravertebrales de la cadena simpática (estos discurren a ambos lados de los cuerpos vertebrales)ganglios cervicales
+ganglios torácicos y ganglios lumbares rostrales
+ganglios lumbares caudales y ganglios sacrosGanglios prevertebrales (ganglio celíaco, ganglio aorticorrenal, ganglio mesentérico superior, ganglio mesentérico inferior)
+
+Células cromafines de la médula suprarrenal (esta es la única excepción a la regla de la vía de dos neuronas:
+ 
+la sinapsis es directamente eferente hacia los cuerpos de las células diana). Estos ganglios proporcionan las neuronas posganglionares de las que sigue la inervación de los órganos diana.
+
+Ejemplos de nervios esplácnicos (viscerales) son:
+
+Nervios cardíacos cervicales y nervios viscerales torácicos, que hacen sinapsis en la cadena simpática
+
+Nervios esplácnicos torácicos (mayor, menor, menor), que hacen sinapsis en los ganglios prevertebrales
+
+Nervios esplácnicos lumbares, que hacen sinapsis en los ganglios prevertebrales
+
+Nervios esplácnicos sacros, que hacen sinapsis en el plexo hipogástrico inferior. Todos estos también contienen nervios aferentes (sensoriales), conocidos como neuronas GVA (aferente visceral general).
+
+
+=== División parasimpática ===
+
+
+El sistema nervioso parasimpático consta de células con cuerpos en una de dos ubicaciones: el tronco encefálico (nervios craneales III, VII, IX, X) o la médula espinal sacra (S2, S3, S4).
+
+Estas son las neuronas preganglionares, que hacen sinapsis con las neuronas posganglionares en estos lugares:
+
+Ganglios parasimpáticos de la cabeza: ciliar (nervio craneal III), submandibular (nervio craneal VII), pterigopalatino (nervio craneal VII) y ótico (nervio craneal IX)
+En o cerca de la pared de un órgano inervado por el vago (nervio craneal X) o los nervios sacros (S2, S3, S4)
+
+Estos ganglios proporcionan las neuronas posganglionares de las que se deriva la inervación de los órganos diana.
+
+Los ejemplos son:
+
+Los nervios esplácnicos (viscerales) parasimpáticos posganglionares
+El nervio vago, que atraviesa el tórax y las regiones abdominales e inerva, entre otros órganos, el corazón, los pulmones, el hígado y el estómago.
+
+
+=== Neuronas sensoriales ===
+
+El brazo sensorial está compuesto por neuronas sensoriales viscerales primarias que se encuentran en el sistema nervioso periférico (SNP), en los ganglios sensoriales craneales: los ganglios geniculado, petroso y nodoso, anexos respectivamente a los nervios craneales VII, IX y X.
+
+Estas neuronas sensoriales monitorean los niveles de dióxido de carbono, oxígeno y azúcar en la sangre, la presión arterial y la composición química del estómago y el contenido intestinal.
+
+También transmiten el sentido del gusto y el olfato, que, a diferencia de la mayoría de las funciones del SNA, es una percepción consciente.
+
+De hecho, el oxígeno y el dióxido de carbono en sangre son detectados directamente por el cuerpo carotídeo, un pequeño grupo de quimiosensores en la bifurcación de la arteria carótida, inervados por el ganglio petroso (IX).
+Las neuronas sensoriales primarias se proyectan (sinapsis) sobre las neuronas sensoriales viscerales de “segundo orden” ubicadas en el bulbo raquídeo, formando el núcleo del tracto solitario (nTS), que integra toda la información visceral.
+
+El nTS también recibe información de un centro quimiosensorial cercano, el área postrema, que detecta toxinas en la sangre y el líquido cefalorraquídeo y es esencial para el vómito inducido químicamente o la aversión al gusto condicional (la memoria que asegura que un animal que ha sido envenenado por un la comida nunca lo vuelve a tocar).
+
+Toda esta información sensorial visceral modula constante e inconscientemente la actividad de las neuronas motoras del SNA.
+
+
+=== Inervación ===
+
+Los nervios autónomos viajan a los órganos de todo el cuerpo.
+
+La mayoría de los órganos reciben suministro parasimpático del nervio vago y suministro simpático de los nervios esplácnicos.
+
+La parte sensorial de este último llega a la columna vertebral en ciertos segmentos espinales.
+
+El dolor en cualquier órgano interno se percibe como dolor referido, más concretamente como dolor del dermatoma correspondiente al segmento medular.
+
+
+=== Neuronas motoras ===
+
+
+Las neuronas motoras del sistema nervioso autónomo se encuentran en los «ganglios autónomos».
+
+Los de la rama parasimpática se ubican cerca del órgano diana mientras que los ganglios de la rama simpática se ubican cerca de la médula espinal.
+
+Los ganglios simpáticos aquí se encuentran en dos cadenas: las cadenas prevertebral y preaórtica.
+
+La actividad de las neuronas ganglionares autonómicas es modulada por “neuronas preganglionares” ubicadas en el sistema nervioso central.
+
+Las neuronas simpáticas preganglionares se localizan en la médula espinal, en el tórax y niveles lumbares superiores.
+
+Las neuronas parasimpáticas preganglionares se encuentran en el bulbo raquídeo donde forman núcleos motores viscerales; el núcleo motor dorsal del nervio vago; el núcleo ambiguo, los núcleos salivales y en la región sacra de la médula espinal.
+
+
+== Función ==
+
+Las divisiones simpática y parasimpática suelen funcionar en oposición entre sí.
+
+Pero esta oposición es mejor denominarla de naturaleza complementaria que antagónica.
+
+Como analogía, uno puede pensar en la división simpática como el acelerador y la división parasimpática como el freno.
+
+La división simpática normalmente funciona en acciones que requieren respuestas rápidas.
+
+La división parasimpática funciona con acciones que no requieren una reacción inmediata.
+
+El sistema simpático a menudo se considera el sistema de "lucha o huida", mientras que el sistema parasimpático a menudo se considera el sistema de "descanso y digestión" o "alimentación y reproducción".
+
+Sin embargo, muchos casos de actividad simpática y parasimpática no pueden atribuirse a situaciones de "lucha" o "descanso".
+
+Por ejemplo, ponerse de pie desde una posición reclinada o sentada supondría una caída insostenible de la presión arterial si no fuera por un aumento compensatorio del tono simpático arterial.
+
+Otro ejemplo es la modulación constante, segundo a segundo, de la frecuencia cardíaca por influencias simpáticas y parasimpáticas, en función de los ciclos respiratorios.
+
+En general, estos dos sistemas deben verse como moduladores permanentes de las funciones vitales, generalmente de forma antagónica, para lograr la homeostasis.
+
+Los organismos superiores mantienen su integridad a través de la homeostasis que se basa en la regulación de retroalimentación negativa que, a su vez, depende típicamente del sistema nervioso autónomo.
+
+Algunas acciones típicas de los sistemas nerviosos simpático y parasimpático se enumeran a continuación.
+
+
+=== Sistema nervioso simpático ===
+
+Promueve una respuesta de lucha o huida, se corresponde con la excitación y la generación de energía, e inhibe la digestión
+
+Desvía el flujo sanguíneo del tracto gastrointestinal (GI) y la piel a través de la vasoconstricción
+
+Se mejora el flujo de sangre a los músculos esqueléticos y los pulmones (hasta en un 1200% en el caso de los músculos esqueléticos)
+
+Dilata los bronquiolos del pulmón a través de la epinefrina circulante, lo que permite un mayor intercambio de oxígeno alveolar.
+
+Aumenta la frecuencia cardíaca y la contractilidad de las células cardíacas (miocitos), proporcionando así un mecanismo para mejorar el flujo sanguíneo a los músculos esqueléticos.
+
+Dilata las pupilas y relaja el músculo ciliar del cristalino, lo que permite que entre más luz en el ojo y mejora la visión lejana.
+
+Proporciona vasodilatación para los vasos coronarios del corazón.
+
+Constriñe todos los esfínteres intestinales y el esfínter urinario.
+
+Inhibe el peristaltismo
+
+Estimula el orgasmo
+
+
+El patrón de inervación de la glándula sudorípara, es decir, las fibras nerviosas simpáticas posganglionares, permite a los médicos e investigadores utilizar pruebas de función sudomotora para evaluar la disfunción de los sistemas nerviosos autónomos, a través de la conductancia electroquímica de la piel.
+
+
+=== Sistema nervioso parasimpático ===
+
+Se ha dicho que el sistema nervioso parasimpático promueve una respuesta de "descanso y digestión", promueve la calma del retorno de los nervios a su función normal y mejora la digestión.
+
+Las funciones de los nervios dentro del sistema nervioso parasimpático incluyen:
+ 
+Dilatación de los vasos sanguíneos que conducen al tracto GI, lo que aumenta el flujo sanguíneo.
+
+Constricción del diámetro bronquiolar cuando la necesidad de oxígeno ha disminuido
+
+Ramas cardíacas dedicadas de los nervios accesorios espinales vago y torácico imparten control parasimpático del corazón (miocardio)
+
+Constricción de la pupila y contracción de los músculos ciliares, facilitando la acomodación y permitiendo una visión más cercana
+
+Estimula la secreción de las glándulas salivales y acelera el peristaltismo, mediando en la digestión de los alimentos e, indirectamente, en la absorción de nutrientes
+
+
+Sexual.
+
+Los nervios del sistema nervioso periférico participan en la erección de los tejidos genitales a través de los nervios esplácnicos pélvicos 2–4.
+
+También son responsables de estimular la excitación sexual.
+
+
+=== Sistema nervioso entérico ===
+
+
+El sistema nervioso entérico es el sistema nervioso intrínseco del sistema gastrointestinal.
+
+Ha sido descrito como "el segundo cerebro del cuerpo humano".
+
+Sus funciones incluyen:
+
+Detectar cambios químicos y mecánicos en el intestino
+Regular las secreciones en el intestino
+
+Control del peristaltismo y algunos otros movimientos
+
+
+=== Neurotransmisores ===
+
+En los órganos efectores, las neuronas ganglionares simpáticas liberan noradrenalina (norepinefrina), junto con otros cotransmisores como ATP, para actuar sobre los receptores adrenérgicos, a excepción de las glándulas sudoríparas y la médula suprarrenal:
+
+La acetilcolina es el neurotransmisor preganglionar de ambas divisiones del SNA, así como el neurotransmisor posganglionar de las neuronas parasimpáticas.
+
+Se dice que los nervios que liberan acetilcolina son colinérgicos.
+
+En el sistema parasimpático, las neuronas ganglionares utilizan la acetilcolina como neurotransmisor para estimular los receptores muscarínicos.
+
+En la médula suprarrenal, no hay neurona postsináptica.
+
+En cambio, la neurona presináptica libera acetilcolina para actuar sobre los receptores nicotínicos.
+
+La estimulación de la médula suprarrenal libera adrenalina (epinefrina) en el torrente sanguíneo, que actúa sobre los receptores adrenérgicos, mediando así indirectamente o imitando la actividad simpática.
+
+Se encuentra una tabla completa en Tabla de acciones de neurotransmisores en el SNA.
+
+
+== Historia ==
+
+Galeno reconoció el sistema especializado del sistema nervioso autónomo.
+
+En 1665, Willis usó la terminología, y en 1900, Langley usó el término, definiendo las dos divisiones como los sistemas nerviosos simpático y parasimpático.
+
+
+== Efectos de la cafeína ==
+
+La cafeína es un ingrediente bioactivo que se encuentra en bebidas de consumo común como el café, el té y las gaseosas.
+
+Los efectos fisiológicos a corto plazo de la cafeína incluyen aumento de la presión arterial y salida del nervio simpático.
+
+El consumo habitual de cafeína puede inhibir los efectos fisiológicos a corto plazo.
+
+El consumo de espresso con cafeína aumenta la actividad parasimpática en los consumidores habituales de cafeína; sin embargo, el espresso descafeinado inhibe la actividad parasimpática en los consumidores habituales de cafeína.
+
+Es posible que otros ingredientes bioactivos en el espresso descafeinado también puedan contribuir a la inhibición de la actividad parasimpática en los consumidores habituales de cafeína.
+
+La cafeína es capaz de aumentar la capacidad de trabajo mientras las personas realizan tareas extenuantes.
+
+En un estudio, la cafeína provocó una mayor frecuencia cardíaca máxima mientras se realizaba una tarea extenuante en comparación con un placebo.
+
+Esta tendencia probablemente se deba a la capacidad de la cafeína para aumentar el flujo de salida del nervio simpático.
+
+Además, este estudio encontró que la recuperación después del ejercicio intenso era más lenta cuando se consumía cafeína antes del ejercicio.
+
+Este hallazgo es indicativo de la tendencia de la cafeína a inhibir la actividad parasimpática en consumidores no habituales.
+
+Es probable que el aumento de la actividad nerviosa estimulado por la cafeína provoque otros efectos fisiológicos a medida que el cuerpo intenta mantener la homeostasis.
+
+Los efectos de la cafeína sobre la actividad parasimpática pueden variar según la posición del individuo cuando se miden las respuestas autonómicas.
+
+Un estudio encontró que la posición sentada inhibía la actividad autónoma después del consumo de cafeína (75 mg); sin embargo, la actividad parasimpática aumentó en la posición supina.
+
+Este hallazgo puede explicar por qué algunos consumidores habituales de cafeína (75 mg o menos) no experimentan los efectos a corto plazo de la cafeína si su rutina requiere muchas horas sentados.
+
+Es importante señalar que los datos que respaldan el aumento de la actividad parasimpática en la posición supina se derivaron de un experimento en el que participaron participantes de entre 25 y 30 años que se consideraban sanos y sedentarios.
+
+La cafeína puede influir en la actividad autonómica de manera diferente para las personas más activas o de edad avanzada.
+
+
+
+https://en.wikipedia.org/wiki/Autonomic_nervous_system
+
+;;;PT;;;
+
+
+
+DIVISÃO AUTÔNICA DO SISTEMA NERVOSO PERIFÉRICO
+
+
+O sistema nervoso autônomo (SNA), anteriormente conhecido como sistema nervoso vegetativo, é uma divisão do sistema nervoso periférico que fornece músculo liso e glândulas e, portanto, influencia a função dos órgãos internos.
+
+O sistema nervoso autônomo é um sistema de controle que age em grande parte inconscientemente e regula as funções corporais, como a frequência cardíaca, digestão, frequência respiratória, resposta pupilar, micção e excitação sexual.
+
+Este sistema é o principal mecanismo de controle da resposta de luta ou fuga.
+
+O sistema nervoso autônomo é regulado por reflexos integrados através do tronco encefálico para a medula espinhal e órgãos.
+
+As funções autonômicas incluem o controle da respiração, a regulação cardíaca (o centro de controle cardíaco), a atividade vasomotora (o centro vasomotor) e certas ações reflexas, como tossir, espirrar, engolir e vomitar.
+
+Esses são então subdivididos em outras áreas e também estão ligados aos subsistemas autônomos e ao sistema nervoso periférico.
+
+O hipotálamo, logo acima do tronco encefálico, atua como integrador das funções autonômicas, recebendo estímulos regulatórios autônomos do sistema límbico.
+
+O sistema nervoso autônomo tem três ramos:
+ 
+o sistema nervoso simpático, o sistema nervoso parassimpático e o sistema nervoso entérico.
+
+Alguns livros didáticos não incluem o sistema nervoso entérico como parte desse sistema.
+
+O sistema nervoso simpático é frequentemente considerado o sistema de "luta ou fuga", enquanto o sistema nervoso parassimpático é muitas vezes considerado o sistema de "descansar e digerir" ou "alimentar e reproduzir".
+
+Em muitos casos, ambos os sistemas têm ações "opostas", onde um sistema ativa uma resposta fisiológica e o outro a inibe.
+
+Uma simplificação mais antiga dos sistemas nervosos simpático e parassimpático como "excitatório" e "inibitório" foi derrubada devido às muitas exceções encontradas.
+
+Uma caracterização mais moderna é que o sistema nervoso simpático é um "sistema mobilizador de resposta rápida" e o parassimpático é um "sistema de amortecimento ativado mais lentamente", mas mesmo isso tem exceções, como na excitação sexual e no orgasmo, em que ambos desempenham um papel .
+
+Existem sinapses inibitórias e excitatórias entre os neurônios.
+
+Um terceiro subsistema de neurônios foi nomeado como transmissores não noradrenérgicos e não colinérgicos (porque usam o óxido nítrico como neurotransmissor) e são parte integrante da função autonômica, em particular no intestino e nos pulmões.
+
+Embora o SNA também seja conhecido como sistema nervoso visceral, o SNA está conectado apenas com o lado motor.
+
+A maioria das funções autônomas são involuntárias, mas muitas vezes podem trabalhar em conjunto com o sistema nervoso somático, que fornece controle voluntário.
+
+
+== Estrutura ==
+
+
+O sistema nervoso autônomo é dividido em sistema nervoso simpático e sistema nervoso parassimpático.
+
+A divisão simpática emerge da medula espinhal nas áreas torácica e lombar, terminando em torno de L2-3.
+
+A divisão parassimpática tem “saída” craniossacral, o que significa que os neurônios começam nos nervos cranianos (especificamente o nervo oculomotor, nervo facial, nervo glossofaríngeo e nervo vago) e medula espinhal sacral (S2-S4).
+
+O sistema nervoso autônomo é único porque requer uma via eferente sequencial de dois neurônios; o neurônio pré-ganglionar deve primeiro fazer sinapse com um neurônio pós-ganglionar antes de inervar o órgão-alvo.
+
+O neurônio pré-ganglionar, ou primeiro, começará na “saída” e fará sinapse no corpo celular do neurônio pós-ganglionar, ou segundo.
+
+O neurônio pós-ganglionar fará então sinapse no órgão alvo.
+
+
+=== Divisão simpática ===
+
+O sistema nervoso simpático consiste em células com corpos na coluna cinza lateral de T1 a L2/3.
+
+Esses corpos celulares são neurônios "GVE" (eferentes viscerais gerais) e são os neurônios pré-ganglionares.
+
+Existem vários locais em que os neurônios pré-ganglionares podem fazer sinapse para seus neurônios pós-ganglionares:
+
+Gânglios paravertebrais da cadeia simpática (estes correm em ambos os lados dos corpos vertebrais) gânglios cervicais
+gânglios torácicos e gânglios lombares rostrais
+Gânglios lombares caudais e gânglios sacrais Gânglios pré-vertebrais (gânglio celíaco, gânglio aorticorrenal, gânglio mesentérico superior, gânglio mesentérico inferior)
+
+Células cromafins da medula adrenal (esta é a única exceção à regra da via de dois neurônios:
+ 
+a sinapse é diretamente eferente para os corpos celulares alvo). Esses gânglios fornecem os neurônios pós-ganglionares dos quais segue a inervação dos órgãos alvo.
+
+Exemplos de nervos esplâncnicos (viscerais) são:
+
+Nervos cardíacos cervicais e nervos viscerais torácicos, que fazem sinapse na cadeia simpática
+
+Nervos esplâncnicos torácicos (maior, menor, menor), que fazem sinapse nos gânglios pré-vertebrais
+
+Nervos esplâncnicos lombares, que fazem sinapse nos gânglios pré-vertebrais
+
+Nervos esplâncnicos sacrais, que fazem sinapse no plexo hipogástrico inferior. Todos eles também contêm nervos aferentes (sensoriais), conhecidos como neurônios GVA (aferentes viscerais gerais).
+
+
+=== Divisão parassimpática ===
+
+
+O sistema nervoso parassimpático consiste em células com corpos em um dos dois locais: o tronco encefálico (nervos cranianos III, VII, IX, X) ou a medula espinhal sacral (S2, S3, S4).
+
+Estes são os neurônios pré-ganglionares, que fazem sinapse com neurônios pós-ganglionares nestes locais:
+
+Gânglios parassimpáticos da cabeça: ciliar (III nervo craniano), submandibular (nervo craniano VII), pterigopalatino (nervo craniano VII) e ótico (nervo craniano IX)
+Dentro ou perto da parede de um órgão inervado pelo nervo vago (nervo craniano X) ou pelos nervos sacrais (S2, S3, S4)
+
+Esses gânglios fornecem os neurônios pós-ganglionares dos quais segue a inervação dos órgãos-alvo.
+
+Exemplos são:
+
+Os nervos esplâncnicos (viscerais) parassimpáticos pós-ganglionares
+O nervo vago, que passa pelas regiões do tórax e do abdome inerva, entre outros órgãos, o coração, os pulmões, o fígado e o estômago
+
+
+=== Neurônios sensoriais ===
+
+O braço sensitivo é composto por neurônios sensitivos viscerais primários encontrados no sistema nervoso periférico (SNP), nos gânglios sensitivos cranianos: os gânglios geniculados, petrosos e nodosos, anexados respectivamente aos nervos cranianos VII, IX e X.
+
+Esses neurônios sensoriais monitoram os níveis de dióxido de carbono, oxigênio e açúcar no sangue, a pressão arterial e a composição química do estômago e do conteúdo intestinal.
+
+Eles também transmitem o sentido do paladar e do olfato, que, ao contrário da maioria das funções do SNA, é uma percepção consciente.
+
+O oxigênio do sangue e o dióxido de carbono são, de fato, diretamente detectados pelo corpo carotídeo, uma pequena coleção de quimiossensores na bifurcação da artéria carótida, inervada pelo gânglio petroso (IX).
+Neurônios sensoriais primários projetam-se (sinapse) em neurônios sensoriais viscerais de “segunda ordem” localizados na medula oblonga, formando o núcleo do trato solitário (nTS), que integra todas as informações viscerais.
+
+O NTS também recebe informações de um centro quimiossensorial próximo, a área postrema, que detecta toxinas no sangue e no líquido cefalorraquidiano e é essencial para vômitos induzidos quimicamente ou aversão condicional ao paladar (a memória que garante que um animal que foi envenenado por um comida nunca mais toca nela).
+
+Toda essa informação sensorial visceral modula constante e inconscientemente a atividade dos neurônios motores do SNA.
+
+
+=== Inervação ===
+
+Os nervos autônomos viajam para órgãos por todo o corpo.
+
+A maioria dos órgãos recebe inervação parassimpática pelo nervo vago e inervação simpática pelos nervos esplâncnicos.
+
+A parte sensorial deste último atinge a coluna vertebral em determinados segmentos da coluna vertebral.
+
+A dor em qualquer órgão interno é percebida como dor referida, mais especificamente como dor do dermátomo correspondente ao segmento espinhal.
+
+
+=== Neurônios motores ===
+
+
+Neurônios motores do sistema nervoso autônomo são encontrados em ''gânglios autônomos''.
+
+Os do ramo parassimpático estão localizados próximos ao órgão-alvo, enquanto os gânglios do ramo simpático estão localizados próximos à medula espinhal.
+
+Os gânglios simpáticos aqui são encontrados em duas cadeias: as cadeias pré-vertebrais e pré-aórticas.
+
+A atividade dos neurônios ganglionares autônomos é modulada por “neurônios pré-ganglionares” localizados no sistema nervoso central.
+
+Os neurônios simpáticos pré-ganglionares estão localizados na medula espinhal, no tórax e nos níveis lombares superiores.
+
+Neurônios parassimpáticos pré-ganglionares são encontrados na medula oblonga, onde formam núcleos motores viscerais; o núcleo motor dorsal do nervo vago; o núcleo ambíguo, os núcleos salivatórios e na região sacral da medula espinhal.
+
+
+== Função ==
+
+As divisões simpática e parassimpática normalmente funcionam em oposição uma à outra.
+
+Mas essa oposição é melhor denominada de natureza complementar do que antagônica.
+
+Para uma analogia, pode-se pensar na divisão simpática como o acelerador e na divisão parassimpática como o freio.
+
+A divisão simpática normalmente funciona em ações que exigem respostas rápidas.
+
+A divisão parassimpática funciona com ações que não requerem reação imediata.
+
+O sistema simpático é frequentemente considerado o sistema de "luta ou fuga", enquanto o sistema parassimpático é frequentemente considerado o sistema de "descansar e digerir" ou "alimentar e reproduzir".
+
+No entanto, muitos casos de atividade simpática e parassimpática não podem ser atribuídos a situações de "luta" ou "descanso".
+
+Por exemplo, levantar-se de uma posição reclinada ou sentada acarretaria uma queda insustentável da pressão arterial se não fosse um aumento compensatório do tônus ​​simpático arterial.
+
+Outro exemplo é a modulação constante, segundo a segundo, da frequência cardíaca por influências simpáticas e parassimpáticas, em função dos ciclos respiratórios.
+
+Em geral, esses dois sistemas devem ser vistos como modulando permanentemente as funções vitais, de forma geralmente antagônica, para alcançar a homeostase.
+
+Organismos superiores mantêm sua integridade por meio da homeostase, que depende da regulação de feedback negativo que, por sua vez, normalmente depende do sistema nervoso autônomo.
+
+Algumas ações típicas dos sistemas nervosos simpático e parassimpático estão listadas abaixo.
+
+
+=== Sistema nervoso simpático ===
+
+Promove uma resposta de luta ou fuga, corresponde à excitação e geração de energia e inibe a digestão
+
+Desvia o fluxo sanguíneo para longe do trato gastrointestinal (GI) e da pele por meio de vasoconstrição
+
+O fluxo sanguíneo para os músculos esqueléticos e os pulmões é aumentado (até 1200% no caso dos músculos esqueléticos)
+
+Dilata os bronquíolos do pulmão através da epinefrina circulante, o que permite maior troca de oxigênio alveolar
+
+Aumenta a frequência cardíaca e a contratilidade das células cardíacas (miócitos), proporcionando assim um mecanismo para aumento do fluxo sanguíneo para os músculos esqueléticos
+
+Dilata as pupilas e relaxa o músculo ciliar do cristalino, permitindo que mais luz entre no olho e melhora a visão ao longe
+
+Fornece vasodilatação para os vasos coronários do coração
+
+Contrai todos os esfíncteres intestinais e o esfíncter urinário
+
+Inibe o peristaltismo
+
+Estimula o orgasmo
+
+
+O padrão de inervação da glândula sudorípara – ou seja, as fibras nervosas simpáticas pós-ganglionares – permite que clínicos e pesquisadores usem testes de função sudomotora para avaliar a disfunção do sistema nervoso autônomo, por meio da condutância eletroquímica da pele.
+
+
+=== Sistema nervoso parassimpático ===
+
+Diz-se que o sistema nervoso parassimpático promove uma resposta de "descanso e digestão", promove a calma do retorno dos nervos à função normal e melhora a digestão.
+
+As funções dos nervos dentro do sistema nervoso parassimpático incluem:
+ 
+Dilatando os vasos sanguíneos que levam ao trato GI, aumentando o fluxo sanguíneo.
+
+Constrição do diâmetro bronquiolar quando a necessidade de oxigênio diminuiu
+
+Ramos cardíacos dedicados dos nervos acessórios espinais vago e torácico conferem controle parassimpático do coração (miocárdio)
+
+Constrição da pupila e contração dos músculos ciliares, facilitando a acomodação e permitindo uma visão mais próxima
+
+Estimula a secreção das glândulas salivares e acelera o peristaltismo, mediando a digestão dos alimentos e, indiretamente, a absorção de nutrientes
+
+
+Sexual.
+
+Os nervos do sistema nervoso periférico estão envolvidos na ereção dos tecidos genitais através dos nervos esplâncnicos pélvicos 2-4.
+
+Eles também são responsáveis ​​por estimular a excitação sexual.
+
+
+=== Sistema nervoso entérico ===
+
+
+O sistema nervoso entérico é o sistema nervoso intrínseco do sistema gastrointestinal.
+
+Foi descrito como "o segundo cérebro do corpo humano".
+
+Suas funções incluem:
+
+Detectando mudanças químicas e mecânicas no intestino
+Regulação de secreções no intestino
+
+Controlando o peristaltismo e alguns outros movimentos
+
+
+=== Neurotransmissores ===
+
+Nos órgãos efetores, os neurônios ganglionares simpáticos liberam noradrenalina (norepinefrina), juntamente com outros cotransmissores como o ATP, para atuar nos receptores adrenérgicos, com exceção das glândulas sudoríparas e da medula adrenal:
+
+A acetilcolina é o neurotransmissor pré-ganglionar para ambas as divisões do SNA, bem como o neurotransmissor pós-ganglionar dos neurônios parassimpáticos.
+
+Os nervos que liberam acetilcolina são chamados de colinérgicos.
+
+No sistema parassimpático, os neurônios ganglionares usam a acetilcolina como neurotransmissor para estimular os receptores muscarínicos.
+
+Na medula adrenal, não há neurônio pós-sináptico.
+
+Em vez disso, o neurônio pré-sináptico libera acetilcolina para atuar nos receptores nicotínicos.
+
+A estimulação da medula adrenal libera adrenalina (epinefrina) na corrente sanguínea, que atua nos adrenoceptores, mediando indiretamente ou imitando a atividade simpática.
+
+Uma tabela completa é encontrada em Tabela de ações de neurotransmissores no SNA.
+
+
+== História ==
+
+O sistema especializado do sistema nervoso autônomo foi reconhecido por Galeno.
+
+Em 1665, Willis usou a terminologia, e em 1900, Langley usou o termo, definindo as duas divisões como os sistemas nervosos simpático e parassimpático.
+
+
+== Efeitos da cafeína ==
+
+A cafeína é um ingrediente bioativo encontrado em bebidas comumente consumidas, como café, chá e refrigerantes.
+
+Os efeitos fisiológicos de curto prazo da cafeína incluem aumento da pressão arterial e do fluxo nervoso simpático.
+
+O consumo habitual de cafeína pode inibir os efeitos fisiológicos de curto prazo.
+
+O consumo de café expresso com cafeína aumenta a atividade parassimpática em consumidores habituais de cafeína; no entanto, o espresso descafeinado inibe a atividade parassimpática em consumidores habituais de cafeína.
+
+É possível que outros ingredientes bioativos no expresso descafeinado também possam contribuir para a inibição da atividade parassimpática em consumidores habituais de cafeína.
+
+A cafeína é capaz de aumentar a capacidade de trabalho enquanto os indivíduos realizam tarefas extenuantes.
+
+Em um estudo, a cafeína provocou uma maior frequência cardíaca máxima enquanto uma tarefa extenuante estava sendo realizada em comparação com um placebo.
+
+Essa tendência provavelmente se deve à capacidade da cafeína de aumentar o fluxo nervoso simpático.
+
+Além disso, este estudo descobriu que a recuperação após o exercício intenso foi mais lenta quando a cafeína foi consumida antes do exercício.
+
+Esse achado é indicativo da tendência da cafeína em inibir a atividade parassimpática em consumidores não habituais.
+
+O aumento da atividade nervosa estimulado pela cafeína provavelmente evoca outros efeitos fisiológicos à medida que o corpo tenta manter a homeostase.
+
+Os efeitos da cafeína na atividade parassimpática podem variar dependendo da posição do indivíduo quando as respostas autonômicas são medidas.
+
+Um estudo descobriu que a posição sentada inibia a atividade autonômica após o consumo de cafeína (75 mg); entretanto, a atividade parassimpática aumentou na posição supina.
+
+Essa descoberta pode explicar por que alguns consumidores habituais de cafeína (75 mg ou menos) não experimentam efeitos a curto prazo da cafeína se sua rotina exigir muitas horas na posição sentada.
+
+É importante notar que os dados que suportam o aumento da atividade parassimpática na posição supina foram derivados de um experimento envolvendo participantes entre 25 e 30 anos, considerados saudáveis ​​e sedentários.
+
+A cafeína pode influenciar a atividade autonômica de forma diferente para indivíduos mais ativos ou idosos.
+
+
+
+https://en.wikipedia.org/wiki/Autonomic_nervous_system
+
+;;;FR;;;
+
+
+
+DIVISION AUTONOMIQUE DU SYSTÈME NERVEUX PÉRIPHÉRIQUE
+
+
+Le système nerveux autonome (ANS), anciennement appelé système nerveux végétatif, est une division du système nerveux périphérique qui alimente les muscles lisses et les glandes, et influence ainsi la fonction des organes internes.
+
+Le système nerveux autonome est un système de contrôle qui agit en grande partie inconsciemment et régule les fonctions corporelles, telles que la fréquence cardiaque, la digestion, la fréquence respiratoire, la réponse pupillaire, la miction et l'excitation sexuelle.
+
+Ce système est le principal mécanisme de contrôle de la réaction de combat ou de fuite.
+
+Le système nerveux autonome est régulé par des réflexes intégrés à travers le tronc cérébral jusqu'à la moelle épinière et les organes.
+
+Les fonctions autonomes comprennent le contrôle de la respiration, la régulation cardiaque (le centre de contrôle cardiaque), l'activité vasomotrice (le centre vasomoteur) et certaines actions réflexes telles que la toux, les éternuements, la déglutition et les vomissements.
+
+Ceux-ci sont ensuite subdivisés en d'autres domaines et sont également liés aux sous-systèmes autonomes et au système nerveux périphérique.
+
+L'hypothalamus, juste au-dessus du tronc cérébral, agit comme un intégrateur pour les fonctions autonomes, recevant des informations régulatrices autonomes du système limbique.
+
+Le système nerveux autonome a trois branches :
+ 
+le système nerveux sympathique, le système nerveux parasympathique et le système nerveux entérique.
+
+Certains manuels n'incluent pas le système nerveux entérique dans le cadre de ce système.
+
+Le système nerveux sympathique est souvent considéré comme le système "combat ou fuite", tandis que le système nerveux parasympathique est souvent considéré comme le système "repos et digestion" ou "alimentation et reproduction".
+
+Dans de nombreux cas, ces deux systèmes ont des actions "opposées" où un système active une réponse physiologique et l'autre l'inhibe.
+
+Une simplification plus ancienne des systèmes nerveux sympathique et parasympathique comme "excitateur" et "inhibiteur" a été renversée en raison des nombreuses exceptions trouvées.
+
+Une caractérisation plus moderne est que le système nerveux sympathique est un "système de mobilisation de réponse rapide" et le parasympathique est un "système d'amortissement activé plus lentement", mais même cela a des exceptions, comme dans l'excitation sexuelle et l'orgasme, où les deux jouent un rôle. .
+
+Il existe des synapses inhibitrices et excitatrices entre les neurones.
+
+Un troisième sous-système de neurones a été nommé émetteurs non noradrénergiques et non cholinergiques (car ils utilisent l'oxyde nitrique comme neurotransmetteur) et font partie intégrante de la fonction autonome, en particulier dans l'intestin et les poumons.
+
+Bien que le SNA soit également connu sous le nom de système nerveux viscéral, le SNA n'est connecté qu'au côté moteur.
+
+La plupart des fonctions autonomes sont involontaires, mais elles peuvent souvent fonctionner en conjonction avec le système nerveux somatique qui assure le contrôle volontaire.
+
+
+== Structure ==
+
+
+Le système nerveux autonome est divisé en système nerveux sympathique et système nerveux parasympathique.
+
+La division sympathique émerge de la moelle épinière dans les régions thoracique et lombaire, se terminant autour de L2-3.
+
+La division parasympathique a une « sortie » crânio-sacrée, ce qui signifie que les neurones commencent au niveau des nerfs crâniens (en particulier le nerf oculomoteur, le nerf facial, le nerf glossopharyngé et le nerf vague) et la moelle épinière sacrée (S2-S4).
+
+Le système nerveux autonome est unique en ce qu'il nécessite une voie efférente séquentielle à deux neurones; le neurone préganglionnaire doit d'abord se synapser sur un neurone postganglionnaire avant d'innerver l'organe cible.
+
+Le neurone préganglionnaire, ou premier, commencera à la « sortie » et fera synapse au niveau du corps cellulaire postganglionnaire, ou second neurone.
+
+Le neurone postganglionnaire fera alors synapse au niveau de l'organe cible.
+
+
+=== Division sympathique ===
+
+Le système nerveux sympathique est constitué de cellules avec des corps dans la colonne grise latérale de T1 à L2/3.
+
+Ces corps cellulaires sont des neurones « GVE » (General Visceral Efferent) et sont les neurones préganglionnaires.
+
+Il existe plusieurs emplacements sur lesquels les neurones préganglionnaires peuvent se synapser pour leurs neurones postganglionnaires :
+
+Ganglions paravertébraux de la chaîne sympathique (ceux-ci courent de part et d'autre des corps vertébraux) ganglions cervicaux
+ganglions thoraciques et ganglions lombaires rostrales
+Ganglions lombaires caudaux et ganglions sacrés Ganglions prévertébraux (ganglion cœliaque, ganglion aorticorénal, ganglion mésentérique supérieur, ganglion mésentérique inférieur)
+
+Cellules chromaffines de la médullosurrénale (c'est la seule exception à la règle de la voie à deux neurones :
+ 
+la synapse est directement efférente sur les corps cellulaires cibles) Ces ganglions fournissent les neurones postganglionnaires à partir desquels s'ensuit l'innervation des organes cibles.
+
+Des exemples de nerfs splanchniques (viscéraux) sont :
+
+Nerfs cardiaques cervicaux et nerfs viscéraux thoraciques, qui font synapse dans la chaîne sympathique
+
+Nerfs splanchniques thoraciques (grand, petit, petit), qui synapse dans les ganglions prévertébraux
+
+Nerfs splanchniques lombaires, synapses dans les ganglions prévertébraux
+
+Nerfs splanchniques sacrés, synapses dans le plexus hypogastrique inférieur. Ils contiennent tous également des nerfs afférents (sensitifs), connus sous le nom de neurones GVA (afférents viscéraux généraux).
+
+
+=== Division parasympathique ===
+
+
+Le système nerveux parasympathique est constitué de cellules dont les corps se trouvent dans l'un des deux emplacements suivants : le tronc cérébral (nerfs crâniens III, VII, IX, X) ou la moelle épinière sacrée (S2, S3, S4).
+
+Ce sont les neurones préganglionnaires, qui synapsent avec les neurones postganglionnaires à ces endroits :
+
+Ganglions parasympathiques de la tête : Ciliaire (nerf crânien III), sous-mandibulaire (nerf crânien VII), ptérygopalatin (nerf crânien VII) et otique (nerf crânien IX)
+Dans ou près de la paroi d'un organe innervé par le nerf vague (nerf crânien X) ou les nerfs sacrés (S2, S3, S4)
+
+Ces ganglions fournissent les neurones postganglionnaires à partir desquels s'ensuit l'innervation des organes cibles.
+
+Les exemples sont :
+
+Les nerfs splanchniques parasympathiques postganglionnaires (viscéraux)
+Le nerf vague, qui traverse le thorax et les régions abdominales innervant, entre autres organes, le cœur, les poumons, le foie et l'estomac
+
+
+=== Neurones sensoriels ===
+
+Le bras sensoriel est composé de neurones sensoriels viscéraux primaires trouvés dans le système nerveux périphérique (SNP), dans les ganglions sensoriels crâniens : les ganglions géniculé, pétreux et noueux, respectivement annexés aux nerfs crâniens VII, IX et X.
+
+Ces neurones sensoriels surveillent les niveaux de dioxyde de carbone, d'oxygène et de sucre dans le sang, la pression artérielle et la composition chimique du contenu de l'estomac et des intestins.
+
+Ils transmettent également le sens du goût et de l'odorat, qui, contrairement à la plupart des fonctions du SNA, est une perception consciente.
+
+L'oxygène sanguin et le gaz carbonique sont en effet directement captés par le corps carotidien, petit ensemble de chimiocapteurs à la bifurcation de l'artère carotide, innervé par le ganglion pétreux (IXème).
+Les neurones sensoriels primaires se projettent (synapse) sur les neurones sensoriels viscéraux « de second ordre » situés dans le bulbe rachidien, formant le noyau du tractus solitaire (nTS), qui intègre toutes les informations viscérales.
+
+Le nTS reçoit également des informations d'un centre chimiosensoriel voisin, l'area postrema, qui détecte les toxines dans le sang et le liquide céphalo-rachidien et est essentiel pour les vomissements provoqués chimiquement ou l'aversion conditionnelle au goût (la mémoire qui garantit qu'un animal qui a été empoisonné par un la nourriture n'y touche plus jamais).
+
+Toutes ces informations sensorielles viscérales modulent constamment et inconsciemment l'activité des motoneurones du SNA.
+
+
+=== Innervation ===
+
+Les nerfs autonomes se déplacent vers les organes dans tout le corps.
+
+La plupart des organes reçoivent un apport parasympathique par le nerf vague et un apport sympathique par les nerfs splanchniques.
+
+La partie sensorielle de ce dernier atteint la colonne vertébrale au niveau de certains segments rachidiens.
+
+La douleur dans tout organe interne est perçue comme une douleur projetée, plus précisément comme une douleur du dermatome correspondant au segment rachidien.
+
+
+=== Motoneurones ===
+
+
+Les motoneurones du système nerveux autonome se trouvent dans les « ganglions autonomes ».
+
+Ceux de la branche parasympathique sont situés à proximité de l'organe cible tandis que les ganglions de la branche sympathique sont situés à proximité de la moelle épinière.
+
+Les ganglions sympathiques se retrouvent ici en deux chaînes : les chaînes pré-vertébrales et pré-aortiques.
+
+L'activité des neurones ganglionnaires autonomes est modulée par des « neurones préganglionnaires » situés dans le système nerveux central.
+
+Les neurones sympathiques préganglionnaires sont situés dans la moelle épinière, au niveau du thorax et des lombaires supérieurs.
+
+Les neurones parasympathiques préganglionnaires se trouvent dans le bulbe rachidien où ils forment des noyaux moteurs viscéraux; le noyau moteur dorsal du nerf vague ; le noyau ambigu, les noyaux salivaires et dans la région sacrée de la moelle épinière.
+
+
+== Fonction ==
+
+Les divisions sympathiques et parasympathiques fonctionnent généralement en opposition les unes avec les autres.
+
+Mais cette opposition est mieux qualifiée de complémentaire qu'antagoniste.
+
+Par analogie, on peut considérer la division sympathique comme l'accélérateur et la division parasympathique comme le frein.
+
+La division sympathique fonctionne généralement dans des actions nécessitant des réponses rapides.
+
+La division parasympathique fonctionne avec des actions qui ne nécessitent pas de réaction immédiate.
+
+Le système sympathique est souvent considéré comme le système "combat ou fuite", tandis que le système parasympathique est souvent considéré comme le système "repos et digestion" ou "alimentation et reproduction".
+
+Cependant, de nombreux cas d'activité sympathique et parasympathique ne peuvent être attribués à des situations de "combat" ou de "repos".
+
+Par exemple, se lever d'une position allongée ou assise entraînerait une baisse insoutenable de la pression artérielle si ce n'était une augmentation compensatoire du tonus sympathique artériel.
+
+Un autre exemple est la modulation constante, de seconde en seconde, du rythme cardiaque par des influences sympathiques et parasympathiques, en fonction des cycles respiratoires.
+
+De manière générale, ces deux systèmes doivent être considérés comme modulant en permanence les fonctions vitales, de manière généralement antagoniste, pour atteindre l'homéostasie.
+
+Les organismes supérieurs maintiennent leur intégrité via l'homéostasie qui repose sur une régulation par rétroaction négative qui, à son tour, dépend généralement du système nerveux autonome.
+
+Certaines actions typiques des systèmes nerveux sympathique et parasympathique sont énumérées ci-dessous.
+
+
+=== Système nerveux sympathique ===
+
+Favorise une réponse de combat ou de fuite, correspond à l'excitation et à la génération d'énergie et inhibe la digestion
+
+Détourne le flux sanguin du tractus gastro-intestinal (GI) et de la peau par vasoconstriction
+
+Le flux sanguin vers les muscles squelettiques et les poumons est amélioré (jusqu'à 1 200 % dans le cas des muscles squelettiques)
+
+Dilate les bronchioles du poumon grâce à l'épinéphrine circulante, ce qui permet un plus grand échange d'oxygène alvéolaire
+
+Augmente la fréquence cardiaque et la contractilité des cellules cardiaques (myocytes), fournissant ainsi un mécanisme pour améliorer le flux sanguin vers les muscles squelettiques
+
+Dilate les pupilles et détend le muscle ciliaire à la lentille, permettant à plus de lumière d'entrer dans l'œil et améliore la vision de loin
+
+Fournit une vasodilatation pour les vaisseaux coronaires du cœur
+
+Resserre tous les sphincters intestinaux et le sphincter urinaire
+
+Inhibe le péristaltisme
+
+Stimule l'orgasme
+
+
+Le schéma d'innervation de la glande sudoripare, à savoir les fibres nerveuses sympathiques postganglionnaires, permet aux cliniciens et aux chercheurs d'utiliser des tests de la fonction sudomotrice pour évaluer le dysfonctionnement du système nerveux autonome, par conductance électrochimique de la peau.
+
+
+=== Système nerveux parasympathique ===
+
+Il a été dit que le système nerveux parasympathique favorise une réponse "repos et digestion", favorise le retour de l'apaisement des nerfs à une fonction régulière et améliore la digestion.
+
+Les fonctions des nerfs du système nerveux parasympathique comprennent :
+ 
+Dilatation des vaisseaux sanguins menant au tractus gastro-intestinal, augmentant le flux sanguin.
+
+Constriction du diamètre bronchiolaire lorsque le besoin en oxygène a diminué
+
+Des branches cardiaques dédiées du nerf vague et des nerfs spinaux accessoires thoraciques confèrent un contrôle parasympathique du cœur (myocarde)
+
+Constriction de la pupille et contraction des muscles ciliaires, facilitant l'accommodation et permettant une vision plus rapprochée
+
+Stimulation de la sécrétion des glandes salivaires et accélération du péristaltisme, médiation de la digestion des aliments et, indirectement, de l'absorption des nutriments
+
+
+Sexuel.
+
+Les nerfs du système nerveux périphérique sont impliqués dans l'érection des tissus génitaux via les nerfs splanchniques pelviens 2–4.
+
+Ils sont également responsables de la stimulation de l'excitation sexuelle.
+
+
+=== Système nerveux entérique ===
+
+
+Le système nerveux entérique est le système nerveux intrinsèque du système gastro-intestinal.
+
+Il a été décrit comme "le deuxième cerveau du corps humain".
+
+Ses fonctions incluent :
+
+Détection des changements chimiques et mécaniques dans l'intestin
+Régulation des sécrétions dans l'intestin
+
+Contrôler le péristaltisme et certains autres mouvements
+
+
+=== Neurotransmetteurs ===
+
+Au niveau des organes effecteurs, les neurones ganglionnaires sympathiques libèrent de la noradrénaline (norépinéphrine), ainsi que d'autres cotransmetteurs tels que l'ATP, pour agir sur les récepteurs adrénergiques, à l'exception des glandes sudoripares et de la médullosurrénale :
+
+L'acétylcholine est le neurotransmetteur préganglionnaire des deux divisions du SNA, ainsi que le neurotransmetteur postganglionnaire des neurones parasympathiques.
+
+Les nerfs qui libèrent de l'acétylcholine sont dits cholinergiques.
+
+Dans le système parasympathique, les neurones ganglionnaires utilisent l'acétylcholine comme neurotransmetteur pour stimuler les récepteurs muscariniques.
+
+Au niveau de la médullosurrénale, il n'y a pas de neurone post-synaptique.
+
+Au lieu de cela, le neurone présynaptique libère de l'acétylcholine pour agir sur les récepteurs nicotiniques.
+
+La stimulation de la médullosurrénale libère de l'adrénaline (épinéphrine) dans la circulation sanguine, qui agit sur les récepteurs adrénergiques, médiant ou imitant ainsi indirectement l'activité sympathique.
+
+Un tableau complet se trouve dans le tableau des actions des neurotransmetteurs dans le SNA.
+
+
+== Historique ==
+
+Le système spécialisé du système nerveux autonome a été reconnu par Galien.
+
+En 1665, Willis a utilisé la terminologie, et en 1900, Langley a utilisé le terme, définissant les deux divisions comme les systèmes nerveux sympathique et parasympathique.
+
+
+== Effets de la caféine ==
+
+La caféine est un ingrédient bioactif présent dans les boissons couramment consommées telles que le café, le thé et les sodas.
+
+Les effets physiologiques à court terme de la caféine comprennent une augmentation de la pression artérielle et une sortie du nerf sympathique.
+
+La consommation habituelle de caféine peut inhiber les effets physiologiques à court terme.
+
+La consommation d'espresso contenant de la caféine augmente l'activité parasympathique chez les consommateurs habituels de caféine ; cependant, l'espresso décaféiné inhibe l'activité parasympathique chez les consommateurs habituels de caféine.
+
+Il est possible que d'autres ingrédients bioactifs contenus dans l'espresso décaféiné contribuent également à l'inhibition de l'activité parasympathique chez les consommateurs habituels de caféine.
+
+La caféine est capable d'augmenter la capacité de travail pendant que les individus effectuent des tâches ardues.
+
+Dans une étude, la caféine a provoqué une fréquence cardiaque maximale plus élevée lors de l'exécution d'une tâche ardue par rapport à un placebo.
+
+Cette tendance est probablement due à la capacité de la caféine à augmenter la sortie du nerf sympathique.
+
+De plus, cette étude a révélé que la récupération après un exercice intense était plus lente lorsque la caféine était consommée avant l'exercice.
+
+Cette découverte est révélatrice de la tendance de la caféine à inhiber l'activité parasympathique chez les consommateurs non habituels.
+
+L'augmentation de l'activité nerveuse stimulée par la caféine est susceptible d'évoquer d'autres effets physiologiques alors que le corps tente de maintenir l'homéostasie.
+
+Les effets de la caféine sur l'activité parasympathique peuvent varier en fonction de la position de l'individu lorsque les réponses autonomes sont mesurées.
+
+Une étude a révélé que la position assise inhibait l'activité autonome après la consommation de caféine (75 mg) ; cependant, l'activité parasympathique a augmenté en position couchée.
+
+Cette découverte peut expliquer pourquoi certains consommateurs habituels de caféine (75 mg ou moins) ne ressentent pas les effets à court terme de la caféine si leur routine nécessite de nombreuses heures en position assise.
+
+Il est important de noter que les données à l'appui de l'augmentation de l'activité parasympathique en décubitus dorsal proviennent d'une expérience impliquant des participants âgés de 25 à 30 ans considérés comme sains et sédentaires.
+
+La caféine peut influencer différemment l'activité autonome chez les personnes plus actives ou âgées.
+
+
+
+https://en.wikipedia.org/wiki/Autonomic_nervous_system

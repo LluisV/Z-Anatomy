@@ -1,0 +1,321 @@
+
+
+OLFACTORY BULB
+
+
+The olfactory bulb (Latin: bulbus olfactorius) is a neural structure of the vertebrate forebrain involved in olfaction, the sense of smell. 
+
+It sends olfactory information to be further processed in the amygdala, the orbitofrontal cortex (OFC) and the hippocampus where it plays a role in emotion, memory and learning. 
+
+The bulb is divided into two distinct structures: the main olfactory bulb and the accessory olfactory bulb. 
+
+The main olfactory bulb connects to the amygdala via the piriform cortex of the primary olfactory cortex and directly projects from the main olfactory bulb to specific amygdala areas. 
+
+The accessory olfactory bulb resides on the dorsal-posterior region of the main olfactory bulb and forms a parallel pathway. 
+
+Destruction of the olfactory bulb results in ipsilateral anosmia, while irritative lesions of the uncus can result in olfactory and gustatory hallucinations.
+
+
+== Structure ==
+
+In most vertebrates, the olfactory bulb is the most rostral (forward) part of the brain, as seen in rats. 
+
+In humans, however, the olfactory bulb is on the inferior (bottom) side of the brain. 
+
+The olfactory bulb is supported and protected by the cribriform plate of the ethmoid bone, which in mammals separates it from the olfactory epithelium, and which is perforated by olfactory nerve axons. 
+
+The bulb is divided into two distinct structures: the main olfactory bulb and the accessory olfactory bulb.
+
+
+=== Layers ===
+
+The main olfactory bulb has a multi-layered cellular architecture. 
+
+In order from surface to the center the layers are:
+
+Glomerular layer
+External plexiform layer
+Mitral cell layer
+Internal plexiform layer
+Granule cell layerThe olfactory bulb transmits smell information from the nose to the brain, and is thus necessary for a proper sense of smell. 
+
+As a neural circuit, the glomerular layer receives direct input from afferent nerves, made up of the axons from approximately ten million olfactory receptor neurons in the olfactory mucosa, a region of the nasal cavity. 
+
+The ends of the axons cluster in spherical structures known as glomeruli such that each glomerulus receives input primarily from olfactory receptor neurons that express the same olfactory receptor. 
+
+The glomeruli layer of the olfactory bulb is the first level of synaptic processing. 
+
+The glomeruli layer represents a spatial odor map organized by chemical structure of odorants like functional group and carbon chain length. 
+
+This spatial map is divided into zones and clusters, which represent similar glomeruli and therefore similar odors. 
+
+One cluster in particular is associated with rank, spoiled smells which are represented by certain chemical characteristics. 
+
+This classification may be evolutionary to help identify food that is no longer good to eat.
+The spatial map of the glomeruli layer may be used for perception of odor in the olfactory cortex. 
+
+The next level of synaptic processing in the olfactory bulb occurs in the external plexiform layer, between the glomerular layer and the mitral cell layer. 
+
+The external plexiform layer contains astrocytes, interneurons and some mitral cells. 
+
+It does not contain many cell bodies, rather mostly dendrites of mitral cells and GABAergic granule cells are also permeated by dendrites from neurons called mitral cells, which in turn output to the olfactory cortex. 
+
+Numerous interneuron types exist in the olfactory bulb including periglomerular cells which synapse within and between glomeruli, and granule cells which synapse with mitral cells. 
+
+The granule cell layer is the deepest layer in the olfactory bulb. 
+
+It is made up of dendrodendritic granule cells that synapse to the mitral cell layer.
+
+
+== Function ==
+
+This part of the brain receives sensations of smell.
+As a neural circuit, the olfactory bulb has one source of sensory input (axons from olfactory receptor neurons of the olfactory epithelium), and one output (mitral cell axons). 
+
+As a result, it is generally assumed that it functions as a filter, as opposed to an associative circuit that has many inputs and many outputs. 
+
+However, the olfactory bulb also receives "top-down" information from such brain areas as the amygdala, neocortex, hippocampus, locus coeruleus, and substantia nigra.
+Its potential functions can be placed into four non-exclusive categories:
+discriminating among odors
+enhancing sensitivity of odor detection
+filtering out many background odors to enhance the transmission of a few select odors
+permitting higher brain areas involved in arousal and attention to modify the detection or the discrimination of odors.While all of these functions could theoretically arise from the olfactory bulb's circuit layout, it is unclear which, if any, of these functions are performed exclusively by the olfactory bulb. 
+
+By analogy to similar parts of the brain such as the retina, many researchers have focused on how the olfactory bulb filters incoming information from receptor neurons in space, or how it filters incoming information in time. 
+
+At the core of these proposed filters are the two classes of interneurons; the periglomerular cells, and the granule cells. 
+
+Processing occurs at each level of the main olfactory bulb, beginning with the spatial maps that categorize odors in the glomeruli layer.Interneurons in the external plexiform layer are responsive to pre-synaptic action potentials and exhibit both excitatory postsynaptic potentials and inhibitory postsynaptic potentials. 
+
+Neural firing varies temporally, there are periods of fast, spontaneous firing and slow modulation of firing. 
+
+These patterns may be related to sniffing or change in intensity and concentration of odorant. 
+
+Temporal patterns may have effect in later processing of spatial awareness of odorant. 
+
+For example, synchronized mitral cell spike trains appear to help to discriminate similar odors better than when those spike trains are not synchronized. 
+
+Destruction to the olfactory bulb results in ipsilateral anosmia while irritative lesion of the uncus can result in olfactory and gustatory hallucinations.
+
+
+=== Lateral inhibition ===
+
+External plexiform layerThe interneurons in the external plexiform layer perform feedback inhibition on the mitral cells to control back propagation. 
+
+They also participate in lateral inhibition of the mitral cells. 
+
+This inhibition is an important part of olfaction as it aids in odor discrimination by decreasing firing in response to background odors and differentiating the responses of olfactory nerve inputs in the mitral cell layer. 
+
+Inhibition of the mitral cell layer by the other layers contributes to odor discrimination and higher level processing by modulating the output from the olfactory bulb. 
+
+These hyperpolarizations during odor stimulation shape the responses of the mitral cells to make them more specific to an odor.There is a lack of information regarding the function of the internal plexiform layer which lies between the mitral cell layer and the granule cell layer.
+Granule cell layerThe basal dendrites of mitral cells are connected to interneurons known as granule cells, which by some theories produce lateral inhibition between mitral cells. 
+
+The synapse between mitral and granule cells is of a rare class of synapses that are "dendro-dendritic" which means that both sides of the synapse are dendrites that release neurotransmitter. 
+
+In this specific case, mitral cells release the excitatory neurotransmitter glutamate, and granule cells release the inhibitory neurotransmitter Gamma-aminobutyric acid (GABA). 
+
+As a result of its bi-directionality, the dendro-dendritic synapse can cause mitral cells to inhibit themselves (auto-inhibition), as well as neighboring mitral cells (lateral inhibition). 
+
+More specifically, the granule cell layer receives excitatory glutamate signals from the basal dendrites of the mitral and tufted cells. 
+
+The granule cell in turn releases GABA to cause an inhibitory effect on the mitral cell. 
+
+More neurotransmitter is released from the activated mitral cell to the connected dendrite of the granule cell, making the inhibitory effect from the granule cell to the activated mitral cell stronger than the surrounding mitral cells. 
+
+It is not clear what the functional role of lateral inhibition would be, though it may be involved in boosting the signal-to-noise ratio of odor signals by silencing the basal firing rate of surrounding non-activated neurons. 
+
+This in turn aids in odor discrimination. 
+
+Other research suggest that the lateral inhibition contributes to differentiated odor responses, which aids in the processing and perception of distinct odors. 
+
+There is also evidence of cholinergic effects on granule cells that enhance depolarization of granule cells making them more excitable which in turn increases inhibition of mitral cells. 
+
+This may contribute to a more specific output from the olfactory bulb that would closer resemble the glomerular odor map.
+Olfaction is distinct from the other sensory systems where peripheral sensory receptors have a relay in the diencephalon. 
+
+Therefore, the olfactory bulb plays this role for the olfactory system.
+
+
+=== Accessory olfactory bulb ===
+
+In vertebrates, the accessory olfactory bulb (AOB), which resides on the dorsal-posterior region of the main olfactory bulb, forms a parallel pathway independent from the main olfactory bulb. 
+
+The vomeronasal organ sends projections to the accessory olfactory bulb making it the second processing stage of the accessory olfactory system. 
+
+As in the main olfactory bulb, axonal input to the accessory olfactory bulb forms synapses with mitral cells within glomeruli. 
+
+The accessory olfactory bulb receives axonal input from the vomeronasal organ, a distinct sensory epithelium from the main olfactory epithelium that detects chemical stimuli relevant for social and reproductive behaviors, but probably also generic odorants. 
+
+It has been hypothesized that, in order for the vomernasal pump to turn on, the main olfactory epithelium must first detect the appropriate odor. 
+
+However, the possibility that the vomeronasal system works in parallel or independently from generic olfactory inputs has not been ruled out yet.
+Vomeronasal sensory neurons provide direct excitatory inputs to AOB principle neurons called mitral cells which are transmitted to the amygdala and hypothalamus and therefore are directly involved in sex hormone activity and may influence aggressiveness and mating behavior. 
+
+Axons of the vomeronasal sensory neurons express a given receptor type which, differently from what occurs in the main olfactory bulb, diverge between 6 and 30 AOB glomeruli. 
+
+Mitral cell dendritic endings go through a dramatic period of targeting and clustering just after presynaptic unification of the sensory neuron axons. 
+
+The connectivity of the vomernasal sensorglomery neurons to mitral cells is precise, with mitral cell dendrites targeting the glomeruli. 
+
+There is evidence against the presence of a functional accessory olfactory bulb in humans and other higher primates.The AOB is divided into two main subregions, anterior and posterior, which receive segregated synaptic inputs from two main categories of vomeronasal sensory neurons, V1R and V2R, respectively. 
+
+This appears as a clear functional specialization, given the differential role of the two populations of sensory neurons in detecting chemical stimuli of different type and molecular weight. 
+
+Although it doesn't seem to be maintained centrally, where mitral cell projections from both sides of the AOB converge. 
+
+A clear difference of the AOB circuitry, compared to the rest of the bulb, is its heterogeneous connectivity between mitral cells and vomeronasal sensory afferents within neuropil glomeruli. 
+
+AOB mitral cells indeed contact through apical dendritic processes glomeruli formed by afferents of different receptor neurons, thus breaking the one-receptor-one-neuron rule which generally holds for the main olfactory system. 
+
+This implies that stimuli sensed through the VNO and elaborated in the AOB are subjected to a different and probably more complex level of elaboration. 
+
+Accordingly, AOB mitral cells show clearly different firing patterns compared to other bulbar projection neurons. 
+
+Additionally, top down input to the olfactory bulb differentially affects olfactory outputs.
+
+
+=== Further processing ===
+
+The olfactory bulb sends olfactory information to be further processed in the amygdala, the orbitofrontal cortex (OFC) and the hippocampus where it plays a role in emotion, memory and learning. 
+
+The main olfactory bulb connects to the amygdala via the piriform cortex of the primary olfactory cortex and directly projects from the main olfactory bulb to specific amygdala areas. 
+
+The amygdala passes olfactory information on to the hippocampus. 
+
+The orbitofrontal cortex, amygdala, hippocampus, thalamus, and olfactory bulb have many interconnections directly and indirectly through the cortices of the primary olfactory cortex. 
+
+These connections are indicative of the association between the olfactory bulb and higher areas of processing, specifically those related to emotion and memory.
+
+
+==== Amygdala ====
+Associative learning between odors and behavioral responses takes place in the amygdala. 
+
+The odors serve as the reinforcers or the punishers during the associative learning process; odors that occur with positive states reinforce the behavior that resulted in the positive state while odors that occur with negative states do the opposite. 
+
+Odor cues are coded by neurons in the amygdala with the behavioral effect or emotion that they produce. 
+
+In this way odors reflect certain emotions or physiological states. 
+
+Odors become associated with pleasant and unpleasant responses, and eventually the odor becomes a cue and can cause an emotional response. 
+
+These odor associations contribute to emotional states such as fear. 
+
+Brain imaging shows amygdala activation correlated with pleasant and unpleasant odors, reflecting the association between odors and emotions.
+
+
+==== Hippocampus ====
+The hippocampus aids in olfactory memory and learning as well. 
+
+Several olfaction-memory processes occur in the hippocampus. 
+
+Similar to the process in the amygdala, an odor is associated with a particular reward, i.e. the smell of food with receiving sustenance. 
+
+Odor in the hippocampus also contributes to the formation of episodic memory; the memories of events at a specific place or time. 
+
+The time at which certain neurons fire in the hippocampus is associated by neurons with a stimulus such as an odor. 
+
+Presentation of the odor at a different time may cause recall of the memory, therefore odor aids in recall of episodic memories.
+
+
+==== Olfactory coding in Habenula ====
+In lower vertebrates (lampreys and teleost fishes), mitral cell (principal olfactory neurons) axons project exclusively to the right hemisphere of Habenula in an asymmetric manner. 
+
+It is reported that dorsal Habenula (Hb) are functional asymmetric with predominant odor responses in right hemisphere. 
+
+It was also shown that Hb neurons are spontaneous active even in absence of olfactory stimulation. 
+
+These spontaneous active Hb neurons are organized into functional clusters which were proposed to govern olfactory responses. (Jetti, SK. et al. 2014, Current Biology)
+
+Depression modelsFurther evidence of the link between the olfactory bulb and emotion and memory is shown through animal depression models. 
+
+Olfactory bulb removal in rats effectively causes structural changes in the amygdala and hippocampus and behavioral changes similar to that of a person with depression. 
+
+Researchers use rats with olfactory bulbectomies to research antidepressants. 
+
+Research has shown that removal of the olfactory bulb in rats leads to dendrite reorganization, disrupted cell growth in the hippocampus, and decreased neuroplasticity in the hippocampus. 
+
+These hippocampal changes due to olfactory bulb removal are associated with behavioral changes characteristic of depression, demonstrating the correlation between the olfactory bulb and emotion. 
+
+The hippocampus and amygdala affect odor perception. 
+
+During certain physiological states such as hunger a food odor may seem more pleasant and rewarding due to the associations in the amygdala and hippocampus of the food odor stimulus with the reward of eating.
+
+
+==== Orbitofrontal cortex ====
+Olfactory information is sent to the primary olfactory cortex, where projections are sent to the orbitofrontal cortex. 
+
+The OFC contributes to this odor-reward association as well as it assesses the value of a reward, i.e. the nutritional value of a food. 
+
+The OFC receives projections from the piriform cortex, amygdala, and parahippocampal cortices. 
+
+Neurons in the OFC that encode food reward information activate the reward system when stimulated, associating the act of eating with reward. 
+
+The OFC further projects to the anterior cingulate cortex where it plays a role in appetite. 
+
+The OFC also associates odors with other stimuli, such as taste. 
+
+Odor perception and discrimination also involve the OFC. 
+
+The spatial odor map in the glomeruli layer of the olfactory bulb may contribute to these functions. 
+
+The odor map begins processing of olfactory information by spatially organizing the glomeruli. 
+
+This organizing aids the olfactory cortices in its functions of perceiving and discriminating odors.
+
+
+=== Adult neurogenesis ===
+
+The olfactory bulb is, along with both the subventricular zone and the subgranular zone of the dentate gyrus of the hippocampus, one of only three structures in the brain observed to undergo continuing neurogenesis in adult mammals. 
+
+In most mammals, new neurons are born from neural stem cells in the sub-ventricular zone and migrate rostrally towards the main and accessory  olfactory bulbs. 
+
+Within the olfactory bulb these immature neuroblasts develop into fully functional granule cell interneurons and periglomerular cell interneurons that reside in the granule cell layer and glomerular layers, respectively. 
+
+The olfactory sensory neuron axons that form synapses in olfactory bulb glomeruli are also capable of regeneration following regrowth of an olfactory sensory neuron residing in the olfactory epithelium. 
+
+Despite dynamic turnover of sensory axons and interneurons, the projection neurons (mitral and tufted neurons) that form synapses with these axons are not structurally plastic.The function of adult neurogenesis in this region remains a matter of study. 
+
+The survival of immature neurons as they enter the circuit is highly sensitive to olfactory activity and in particular associative learning tasks. 
+
+This has led to the hypothesis that new neurons participate in learning processes. 
+
+No definitive behavioral effect has been observed in loss-of-function experiments suggesting that the function of this process, if at all related to olfactory processing, may be subtle.
+
+
+== Clinical significance ==
+
+The olfactory lobe is a structure of the vertebrate forebrain involved in olfaction, or sense of smell. 
+
+Destruction of the olfactory bulb results in ipsilateral anosmia.
+
+
+== Other animals ==
+
+
+
+=== Evolution ===
+
+
+Comparing the structure of the olfactory bulb among vertebrate species, such as the leopard frog and the lab mouse, reveals that they all share the same fundamental layout (five layers containing the nuclei of three major cell types; see "Anatomy" for details), despite being dissimilar in shape and size. 
+
+A similar structure is shared by the analogous olfactory center in the fruit fly Drosophila melanogaster, the antennal lobe. 
+
+One possibility is that vertebrate olfactory bulb and insect antennal lobe structure may be similar because they contain an optimal solution to a computational problem experienced by all olfactory systems and thus may have evolved independently in different phyla – a phenomenon generally known as convergent evolution.
+"The increase of brain size relative to body size—encephalization—is intimately linked with human evolution. 
+
+However, two genetically different evolutionary lineages, Neanderthals and modern humans, have produced similarly large-brained human species. 
+
+Thus, understanding human brain evolution should include research into specific cerebral reorganization, possibly reflected by brain shape changes. 
+
+Here we exploit developmental integration between the brain and its underlying skeletal base to test hypotheses about brain evolution in Homo. 
+
+Three-dimensional geometric morphometric analyses of endobasicranial shape reveal previously undocumented details of evolutionary changes in Homo sapiens. 
+
+Larger olfactory bulbs, relatively wider orbitofrontal cortex, relatively increased and forward projecting temporal lobe poles appear unique to modern humans. 
+
+Such brain reorganization, beside physical consequences for overall skull shape, might have contributed to the evolution of H. sapiens' learning and social capacities, in which higher olfactory functions and its cognitive, neurological behavioral implications could have been hitherto underestimated factors."
+
+
+
+https://en.wikipedia.org/wiki/Olfactory_bulb

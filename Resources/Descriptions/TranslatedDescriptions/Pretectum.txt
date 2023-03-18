@@ -1,0 +1,608 @@
+
+
+PRETECTUM
+
+
+The pretectum, or pretectal area, is a midbrain structure composed of seven nuclei and comprises part of the subcortical visual system. 
+
+Through reciprocal bilateral projections from the retina, it is involved primarily in mediating behavioral responses to acute changes in ambient light such as the pupillary light reflex, the optokinetic reflex, and temporary changes to the circadian rhythm. 
+
+In addition to the pretectum's role in the visual system, the anterior pretectal nucleus has been found to mediate somatosensory and nociceptive information.
+
+
+== Location and structure ==
+
+The pretectum is a bilateral group of highly interconnected nuclei located near the junction of the midbrain and forebrain. 
+
+The pretectum is generally classified as a midbrain structure, although because of its proximity to the forebrain it is sometimes classified as part of the caudal diencephalon (forebrain). 
+
+Within vertebrates, the pretectum is located directly anterior to the superior colliculus and posterior to the thalamus. 
+
+It is situated above the periaqueductal grey and nucleus of the posterior commissure.
+
+Several nuclei have been identified within the pretectum, although their borders can be difficult to define and there has been debate over which regions should be included and their precise names. 
+
+The five primary nuclei are: the olivary pretectal nucleus (ON), the nucleus of the optic tract (NOT), and the anterior (NPA), medial (NPM), and posterior (NPP) pretectal nuclei. 
+
+The NOT consists of relatively large cells and is located between the superior colliculi. 
+
+The ON is located medial to the NOT and has a tail that extends between the NOT and NPP, which is ventral to the ON. 
+
+Two additional nuclei have also been identified: the posterior limitans (PLi) and the commisural pretectal area (CPA). 
+
+While these two regions have not been examined to the same extent as the five primary nuclei, research has shown both the PLi and CPA to receive retinal input, which suggests a role in processing visual information.
+
+
+=== Inputs ===
+
+The pretectum receives significant binocular input from photosensitive ganglion cells in the retina. 
+
+In primates these afferents are bilateral while in rodents they project from the contralateral retina. 
+
+The majority of these retino-pretectal projections go to the ON and NOT while other pretectal nuclei receive minor retinal input in mammals including the posterior, medial, and anterior pretectal nuclei.
+
+The NOT receives input from several regions. 
+
+From the thalamus the NOT receives inhibitory projections from GABA-producing neurons in the ipsilateral lateral geniculate nucleus and bilateral intergeniculate leaflets. 
+
+The ipsilateral superficial suprachiasmatic nucleus and the medial, dorsal, and lateral terminal nuclei in the midbrain project onto the NOT. 
+
+Fibers also project to the NOT from the nucleus prepositus hypoglossi in the medulla, the contralateral NOT, and from various cortical regions.
+
+
+=== Outputs ===
+
+Many pretectal nuclei share targets of efferent projections. 
+
+All pretectal nuclei, except for the ON, project to nuclei in the thalamus, subthalamus, superior colliculus, reticular formation, pons, and inferior olive. 
+
+Both the ON and the CPA have efferent projections to the Edinger-Westphal nucleus. 
+
+The NPP and NPA both project to the pulvinar, the lateral posterior nucleus of the thalamus, and several precerebellar nuclei.
+
+The NOT has efferent projections to the zona incerta of the subthalamus, several nuclei of the pons, medulla, intralaminar nuclei, midbrain, and dorsal and ventral thalamic nuclei. 
+
+Its bilateral inhibitory projections to the accessory optic system include connections to the lateral and medial terminal nuclei. 
+
+Projections to the subthalamus are target toward the lateral geniculate nucleus and pulvinar. 
+
+The NOT projects bilaterally to the superior colliculus, although the ipsilateral connections appear to be more dominant. 
+
+In addition to these projections, the NOT projects to the vestibular and vestibulocerebellar relay nuclei.
+
+
+== Function ==
+
+As part of the subcortical visual system, neurons within the pretectal nuclei respond to varying intensities of illuminance and are primarily involved in mediating non-conscious behavioral responses to acute changes in light. 
+
+In general, these responses involve the initiation of optokinetic reflexes, although the pretectum can also regulate nociception and REM sleep.
+
+
+=== Pupillary light reflex ===
+
+The pupillary light reflex is mediated by the pretectum. 
+
+This reflex is responsible for the constriction of the pupils upon light's entering the eye. 
+
+Several pretectal nuclei, in particular the ON, receive illuminance information from the ipsilateral retina via the optic tract. 
+
+Nuclei in the ON are known to gradually increase in activation in response to increasing levels of illuminance. 
+
+This information is then relayed directly to the Edinger-Westphal nucleus, which proceeds to relay the command to constrict the pupils to the pupillary sphincter via the ciliary ganglion.
+
+
+=== Smooth pursuit ===
+
+Pretectal nuclei, in particular the NOT, are involved in coordinating eye movements during smooth pursuit. 
+
+These movements allow the eye to closely follow a moving object and to catch up to an object after an unexpected change in direction or velocity. 
+
+Direction-sensitive retinal slip neurons within the NOT provide ipsiversive horizontal retinal error information to the cortex through the inferior olive. 
+
+During the day, this information is sensed and relayed by neurons with large receptive fields, whereas parafoveal neurons with small receptive fields do so in the dark. 
+
+It is through this pathway that the NOT is able to provide retinal error information to guide eye movements. 
+
+In addition to its role in maintaining smooth pursuit, the pretectum is activated during the optokinetic nystagmus in which the eye returns to a central, forward-facing position after an object it was following passes out of the field of vision.
+
+
+=== Accommodation reflex ===
+
+
+Part of the pretectum, particularly the NOT and NPP, are implicated in the accommodation reflex by which the eye maintains focus. 
+
+Proprioceptive information from the retina reaches the pretectum via the occulomotor nerve and the trigeminal nerve. 
+
+From that point, the mechanism by which the eye maintains focus through muscular contractions of the retina is similar to that of the pupillary light reflex.
+
+
+=== Antinociception ===
+
+The NPA participates in the active diminishing of the perception of pain stimuli (antinociception). 
+
+Although the mechanism by which the NPA alters an organism's response to painful stimuli is not fully known, research has shown that activity in the ventral NPA triggers cholinergic and serotonergic neurons. 
+
+These neurons activate descending pathways that synapse in the spinal cord and inhibit nociceptive cells in the dorsal horn. 
+
+In addition to its direct antionociceptive mechanism, the NPA projects onto brain regions that, through connections to the somatosensory cortex, regulate the perception of painful stimuli. 
+
+Two of these regions that the NPA is known to project to are the zona incerta and posterior thalamic nucleus. 
+
+Regions of the NPA may be specialized to respond to different types of pain. 
+
+Research has found that the dorsal NPA best diminished the perception of brief pain whereas the ventral NPA reduced the perception of chronic pain. 
+
+Because of its role in the reduction of chronic pain, abnormal activity of the NPA is thought to be implicated in central pain syndrome.
+
+
+=== REM sleep ===
+
+Multiple pretectal nuclei may be involved in regulating REM sleep and sleep behaviors. 
+
+Research has shown that the pretectum, in conjunction with the superior colliculus, may be responsible for causing non-circadian changes in REM sleep behaviors. 
+
+Pretectal nuclei receiving retinal input, in particular the NOT and the NPP, have been shown to be partially responsible for initiating REM sleep in albino rats. 
+
+The discovery of projections from the pretectum to several thalamic nuclei involved in cortical activation during REM sleep, to be specific the projection to the superchiasmatic nucleus, which is part of a known REM sleep regulatory mechanism, supports this hypothesis.
+
+
+
+https://en.wikipedia.org/wiki/Pretectal_area
+;;;ES;;;
+
+
+
+PRETECTO
+
+
+El pretectum, o área pretectal, es una estructura del mesencéfalo compuesta por siete núcleos y forma parte del sistema visual subcortical.
+
+A través de proyecciones bilaterales recíprocas desde la retina, participa principalmente en la mediación de respuestas conductuales a cambios agudos en la luz ambiental, como el reflejo pupilar a la luz, el reflejo optocinético y cambios temporales en el ritmo circadiano.
+
+Además del papel del pretectum en el sistema visual, se ha encontrado que el núcleo pretectal anterior media la información somatosensorial y nociceptiva.
+
+
+== Ubicación y estructura ==
+
+El pretectum es un grupo bilateral de núcleos altamente interconectados ubicado cerca de la unión del mesencéfalo y el prosencéfalo.
+
+El pretectum generalmente se clasifica como una estructura del mesencéfalo, aunque debido a su proximidad al prosencéfalo, a veces se clasifica como parte del diencéfalo caudal (prosencéfalo).
+
+Dentro de los vertebrados, el pretectum está ubicado directamente anterior al colículo superior y posterior al tálamo.
+
+Se sitúa por encima de la sustancia gris periacueductal y del núcleo de la comisura posterior.
+
+Se han identificado varios núcleos dentro del pretectum, aunque sus límites pueden ser difíciles de definir y ha habido debate sobre qué regiones deberían incluirse y sus nombres precisos.
+
+Los cinco núcleos primarios son: el núcleo olivar pretectal (ON), el núcleo del tracto óptico (NOT) y los núcleos pretectal anterior (NPA), medial (NPM) y posterior (NPP).
+
+El NO consta de células relativamente grandes y se ubica entre los colículos superiores.
+
+El ON está ubicado medial al NOT y tiene una cola que se extiende entre el NOT y el NPP, que es ventral al ON.
+
+También se han identificado dos núcleos adicionales: el limitante posterior (PLi) y el área pretectal comisural (CPA).
+
+Si bien estas dos regiones no se han examinado en la misma medida que los cinco núcleos primarios, la investigación ha demostrado que tanto el PLi como el CPA reciben información de la retina, lo que sugiere un papel en el procesamiento de la información visual.
+
+
+=== Entradas ===
+
+El pretectum recibe una entrada binocular significativa de las células ganglionares fotosensibles en la retina.
+
+En primates estos aferentes son bilaterales mientras que en roedores se proyectan desde la retina contralateral.
+
+La mayoría de estas proyecciones retino-pretectales van al ENCENDIDO y NO, mientras que otros núcleos pretectales reciben información retiniana menor en mamíferos, incluidos los núcleos pretectales posterior, medial y anterior.
+
+El NOT recibe información de varias regiones.
+
+Desde el tálamo, el NOT recibe proyecciones inhibitorias de las neuronas productoras de GABA en el núcleo geniculado lateral ipsolateral y las valvas intergeniculadas bilaterales.
+
+El núcleo supraquiasmático superficial ipsolateral y los núcleos terminal medial, dorsal y lateral del mesencéfalo se proyectan sobre el NO.
+
+Las fibras también se proyectan al NOT desde el núcleo prepositus hypoglossi en el bulbo raquídeo, el NOT contralateral y desde varias regiones corticales.
+
+
+=== Salidas ===
+
+Muchos núcleos pretectales comparten objetivos de proyecciones eferentes.
+
+Todos los núcleos pretectales, excepto el ON, se proyectan a los núcleos del tálamo, subtálamo, colículo superior, formación reticular, protuberancia y oliva inferior.
+
+Tanto el ON como el CPA tienen proyecciones eferentes al núcleo de Edinger-Westphal.
+
+Tanto el NPP como el NPA se proyectan hacia el pulvinar, el núcleo posterior lateral del tálamo y varios núcleos precerebelosos.
+
+El NOT tiene proyecciones eferentes a la zona incerta del subtálamo, varios núcleos de la protuberancia, bulbo raquídeo, núcleos intralaminares, mesencéfalo y núcleos talámicos dorsal y ventral.
+
+Sus proyecciones inhibitorias bilaterales al sistema óptico accesorio incluyen conexiones a los núcleos terminales lateral y medial.
+
+Las proyecciones al subtálamo se dirigen hacia el núcleo geniculado lateral y el pulvinar.
+
+El NOT se proyecta bilateralmente al colículo superior, aunque las conexiones ipsilaterales parecen ser más dominantes.
+
+Además de estas proyecciones, el NOT proyecta a los núcleos de relevo vestibular y vestibulocerebeloso.
+
+
+== Función ==
+
+Como parte del sistema visual subcortical, las neuronas dentro de los núcleos pretectales responden a distintas intensidades de iluminación y están involucradas principalmente en la mediación de respuestas conductuales no conscientes a cambios agudos en la luz.
+
+En general, estas respuestas implican la iniciación de reflejos optocinéticos, aunque el pretectum también puede regular la nocicepción y el sueño REM.
+
+
+=== Reflejo pupilar a la luz ===
+
+El reflejo pupilar a la luz está mediado por el pretectum.
+
+Este reflejo es responsable de la constricción de las pupilas al entrar la luz en el ojo.
+
+Varios núcleos pretectales, en particular el ON, reciben información de iluminancia de la retina ipsilateral a través del tracto óptico.
+
+Se sabe que los núcleos en el ON aumentan gradualmente su activación en respuesta a niveles crecientes de iluminancia.
+
+Luego, esta información se transmite directamente al núcleo de Edinger-Westphal, que procede a transmitir la orden de contraer las pupilas al esfínter pupilar a través del ganglio ciliar.
+
+
+=== Persecución suave ===
+
+Los núcleos pretectales, en particular el NOT, están involucrados en la coordinación de los movimientos oculares durante una búsqueda suave.
+
+Estos movimientos permiten que el ojo siga de cerca un objeto en movimiento y lo alcance después de un cambio inesperado en la dirección o la velocidad.
+
+Las neuronas de deslizamiento retinal sensibles a la dirección dentro del NO proporcionan información de error retinal horizontal ipsiversiva a la corteza a través de la oliva inferior.
+
+Durante el día, esta información es detectada y transmitida por neuronas con grandes campos receptivos, mientras que las neuronas parafoveales con pequeños campos receptivos lo hacen en la oscuridad.
+
+Es a través de esta vía que el NOT puede proporcionar información sobre errores en la retina para guiar los movimientos oculares.
+
+Además de su papel en el mantenimiento de un seguimiento suave, el pretectum se activa durante el nistagmo optocinético en el que el ojo vuelve a una posición central, mirando hacia adelante, después de que el objeto que estaba siguiendo sale del campo de visión.
+
+
+=== Reflejo de acomodación ===
+
+
+Parte del pretectum, particularmente el NOT y el NPP, están implicados en el reflejo de acomodación mediante el cual el ojo mantiene el foco.
+
+La información propioceptiva de la retina llega al pretectum a través del nervio oculomotor y el nervio trigémino.
+
+A partir de ahí, el mecanismo por el cual el ojo mantiene el foco a través de las contracciones musculares de la retina es similar al del reflejo pupilar a la luz.
+
+
+=== Antinocicepción ===
+
+El NPA participa en la disminución activa de la percepción de los estímulos dolorosos (antinocicepción).
+
+Aunque el mecanismo por el cual el NPA altera la respuesta de un organismo a los estímulos dolorosos no se conoce completamente, la investigación ha demostrado que la actividad en el NPA ventral desencadena neuronas colinérgicas y serotoninérgicas.
+
+Estas neuronas activan vías descendentes que hacen sinapsis en la médula espinal e inhiben las células nociceptivas del asta dorsal.
+
+Además de su mecanismo antionociceptivo directo, el NPA se proyecta sobre regiones cerebrales que, a través de conexiones con la corteza somatosensorial, regulan la percepción de estímulos dolorosos.
+
+Dos de estas regiones a las que se sabe que se proyecta el NPA son la zona incerta y el núcleo talámico posterior.
+
+Las regiones del NPA pueden especializarse para responder a diferentes tipos de dolor.
+
+La investigación ha encontrado que el NPA dorsal disminuyó mejor la percepción del dolor breve, mientras que el NPA ventral redujo la percepción del dolor crónico.
+
+Debido a su papel en la reducción del dolor crónico, se cree que la actividad anormal del NPA está implicada en el síndrome de dolor central.
+
+
+=== sueño REM ===
+
+Múltiples núcleos pretectales pueden estar involucrados en la regulación del sueño REM y los comportamientos del sueño.
+
+La investigación ha demostrado que el pretectum, junto con el colículo superior, puede ser responsable de causar cambios no circadianos en los comportamientos del sueño REM.
+
+Se ha demostrado que los núcleos pretectales que reciben información retiniana, en particular NOT y NPP, son parcialmente responsables de iniciar el sueño REM en ratas albinas.
+
+El descubrimiento de proyecciones desde el pretectum a varios núcleos talámicos implicados en la activación cortical durante el sueño REM, en concreto la proyección al núcleo superquiasmático, que forma parte de un conocido mecanismo regulador del sueño REM, apoya esta hipótesis.
+
+
+
+https://en.wikipedia.org/wiki/Pretectal_area
+
+;;;PT;;;
+
+
+
+PRETECTO
+
+
+O pretectum, ou área pretectal, é uma estrutura do mesencéfalo composta por sete núcleos e compreende parte do sistema visual subcortical.
+
+Por meio de projeções bilaterais recíprocas da retina, ele está envolvido principalmente na mediação de respostas comportamentais a mudanças agudas na luz ambiente, como o reflexo pupilar à luz, o reflexo optocinético e alterações temporárias no ritmo circadiano.
+
+Além do papel do pretectum no sistema visual, descobriu-se que o núcleo pretectal anterior medeia informações somatossensoriais e nociceptivas.
+
+
+== Localização e estrutura ==
+
+O pretectum é um grupo bilateral de núcleos altamente interconectados localizados perto da junção do mesencéfalo e do prosencéfalo.
+
+O pretectum é geralmente classificado como uma estrutura do mesencéfalo, embora, devido à sua proximidade com o prosencéfalo, às vezes seja classificado como parte do diencéfalo caudal (prosencéfalo).
+
+Dentro dos vertebrados, o pretectum está localizado diretamente anterior ao colículo superior e posterior ao tálamo.
+
+Situa-se acima da substância cinzenta periaquedutal e do núcleo da comissura posterior.
+
+Vários núcleos foram identificados dentro do pretectum, embora suas fronteiras possam ser difíceis de definir e tem havido debate sobre quais regiões devem ser incluídas e seus nomes precisos.
+
+Os cinco núcleos primários são: o núcleo pré-tectal olivar (ON), o núcleo do trato óptico (NOT) e os núcleos pré-tectal anterior (NPA), medial (NPM) e posterior (NPP).
+
+O NOT consiste em células relativamente grandes e está localizado entre os colículos superiores.
+
+O ON está localizado medialmente ao NOT e possui uma cauda que se estende entre o NOT e o NPP, que é ventral ao ON.
+
+Dois núcleos adicionais também foram identificados: os limites posteriores (PLi) e a área pré-tectal comisural (CPA).
+
+Embora essas duas regiões não tenham sido examinadas na mesma medida que os cinco núcleos primários, a pesquisa mostrou que o PLi e o CPA recebem entrada da retina, o que sugere um papel no processamento de informações visuais.
+
+
+=== Entradas ===
+
+O pretectum recebe entrada binocular significativa de células ganglionares fotossensíveis na retina.
+
+Nos primatas, esses aferentes são bilaterais, enquanto nos roedores eles se projetam da retina contralateral.
+
+A maioria dessas projeções retino-pré-tetais vão para o ON e NOT, enquanto outros núcleos pré-tectais recebem menor entrada retiniana em mamíferos, incluindo os núcleos pré-tectais posteriores, mediais e anteriores.
+
+O NOT recebe entrada de várias regiões.
+
+Do tálamo o NOT recebe projeções inibitórias de neurônios produtores de GABA no núcleo geniculado lateral ipsilateral e folhetos intergeniculados bilaterais.
+
+O núcleo supraquiasmático superficial ipsilateral e os núcleos terminais medial, dorsal e lateral no mesencéfalo projetam-se para o NOT.
+
+As fibras também se projetam para o NOT do núcleo prepositus hypoglossi na medula, do NOT contralateral e de várias regiões corticais.
+
+
+=== Saídas ===
+
+Muitos núcleos pré-tetais compartilham alvos de projeções eferentes.
+
+Todos os núcleos pré-tetais, exceto o ON, projetam-se para os núcleos do tálamo, subtálamo, colículo superior, formação reticular, ponte e oliva inferior.
+
+Tanto o ON quanto o CPA têm projeções eferentes para o núcleo de Edinger-Westphal.
+
+O NPP e o NPA projetam-se para o pulvinar, o núcleo lateral posterior do tálamo e vários núcleos pré-cerebelares.
+
+O NOT tem projeções eferentes para a zona incerta do subtálamo, vários núcleos da ponte, medula, núcleos intralaminares, mesencéfalo e núcleos talâmicos dorsal e ventral.
+
+Suas projeções inibitórias bilaterais para o sistema óptico acessório incluem conexões com os núcleos terminais lateral e medial.
+
+As projeções para o subtálamo são direcionadas para o núcleo geniculado lateral e pulvinar.
+
+O NOT projeta-se bilateralmente para o colículo superior, embora as conexões ipsilaterais pareçam ser mais dominantes.
+
+Além dessas projeções, o NOT projeta-se para os núcleos do relé vestibular e vestibulocerebelar.
+
+
+== Função ==
+
+Como parte do sistema visual subcortical, os neurônios dentro dos núcleos pré-tectais respondem a intensidades variadas de iluminância e estão envolvidos principalmente na mediação de respostas comportamentais não conscientes a mudanças agudas na luz.
+
+Em geral, essas respostas envolvem a iniciação de reflexos optocinéticos, embora o pretectum também possa regular a nocicepção e o sono REM.
+
+
+=== Reflexo pupilar à luz ===
+
+O reflexo pupilar à luz é mediado pelo pretectum.
+
+Este reflexo é responsável pela constrição das pupilas quando a luz entra no olho.
+
+Vários núcleos pré-tectais, em particular o ON, recebem informações de iluminância da retina ipsilateral através do trato óptico.
+
+Sabe-se que os núcleos no ON aumentam gradualmente na ativação em resposta aos níveis crescentes de iluminância.
+
+Esta informação é então retransmitida diretamente para o núcleo de Edinger-Westphal, que passa a retransmitir o comando para contrair as pupilas ao esfíncter pupilar através do gânglio ciliar.
+
+
+=== Perseguição suave ===
+
+Os núcleos pré-tetais, em particular o NOT, estão envolvidos na coordenação dos movimentos oculares durante a perseguição suave.
+
+Esses movimentos permitem que o olho acompanhe de perto um objeto em movimento e alcance um objeto após uma mudança inesperada de direção ou velocidade.
+
+Os neurônios de deslizamento retinianos sensíveis à direção dentro do NOT fornecem informações de erro retiniano horizontal ipsiversivo para o córtex através da oliva inferior.
+
+Durante o dia, essa informação é percebida e retransmitida por neurônios com grandes campos receptivos, enquanto os neurônios parafoveais com pequenos campos receptivos o fazem no escuro.
+
+É por esse caminho que o NOT é capaz de fornecer informações de erro da retina para orientar os movimentos dos olhos.
+
+Além de seu papel na manutenção da perseguição suave, o pretectum é ativado durante o nistagmo optocinético no qual o olho retorna a uma posição central, voltada para a frente, depois que um objeto que estava seguindo sai do campo de visão.
+
+
+=== Reflexo de acomodação ===
+
+
+Parte do pretectum, particularmente o NOT e o NPP, estão implicados no reflexo de acomodação pelo qual o olho mantém o foco.
+
+A informação proprioceptiva da retina chega ao pretectum através do nervo oculomotor e do nervo trigêmeo.
+
+A partir desse ponto, o mecanismo pelo qual o olho mantém o foco por meio de contrações musculares da retina é semelhante ao do reflexo pupilar à luz.
+
+
+=== Antinocicepção ===
+
+O NPA participa da diminuição ativa da percepção dos estímulos dolorosos (antinocicepção).
+
+Embora o mecanismo pelo qual o NPA altera a resposta de um organismo a estímulos dolorosos não seja totalmente conhecido, pesquisas mostraram que a atividade no NPA ventral desencadeia neurônios colinérgicos e serotoninérgicos.
+
+Esses neurônios ativam vias descendentes que fazem sinapse na medula espinhal e inibem as células nociceptivas no corno dorsal.
+
+Além de seu mecanismo antinociceptivo direto, o NPA projeta-se em regiões cerebrais que, por meio de conexões com o córtex somatossensorial, regulam a percepção de estímulos dolorosos.
+
+Duas dessas regiões que o NPA é conhecido por projetar são a zona incerta e o núcleo talâmico posterior.
+
+Regiões do NPA podem ser especializadas para responder a diferentes tipos de dor.
+
+A pesquisa descobriu que o NPA dorsal diminuiu melhor a percepção de dor breve, enquanto o NPA ventral reduziu a percepção de dor crônica.
+
+Devido ao seu papel na redução da dor crônica, acredita-se que a atividade anormal do NPA esteja implicada na síndrome da dor central.
+
+
+=== sono REM ===
+
+Múltiplos núcleos pré-tetais podem estar envolvidos na regulação do sono REM e nos comportamentos do sono.
+
+A pesquisa mostrou que o pretectum, em conjunto com o colículo superior, pode ser responsável por causar alterações não circadianas nos comportamentos do sono REM.
+
+Núcleos pré-tetais que recebem estímulos retinianos, em particular o NOT e o NPP, demonstraram ser parcialmente responsáveis ​​pelo início do sono REM em ratos albinos.
+
+A descoberta de projeções do pretectum para vários núcleos talâmicos envolvidos na ativação cortical durante o sono REM, mais especificamente a projeção para o núcleo superquiasmático, que faz parte de um conhecido mecanismo regulador do sono REM, corrobora essa hipótese.
+
+
+
+https://en.wikipedia.org/wiki/Pretectal_area
+
+;;;FR;;;
+
+
+
+PRETECTUM
+
+
+Le prétectum, ou zone prétectale, est une structure du mésencéphale composée de sept noyaux et comprend une partie du système visuel sous-cortical.
+
+Grâce à des projections bilatérales réciproques de la rétine, il est principalement impliqué dans la médiation des réponses comportementales aux changements aigus de la lumière ambiante tels que le réflexe lumineux pupillaire, le réflexe optocinétique et les changements temporaires du rythme circadien.
+
+En plus du rôle du prétectum dans le système visuel, le noyau prétectal antérieur s'est avéré médier les informations somatosensorielles et nociceptives.
+
+
+== Emplacement et structure ==
+
+Le prétectum est un groupe bilatéral de noyaux hautement interconnectés situés près de la jonction du mésencéphale et du cerveau antérieur.
+
+Le prétectum est généralement classé comme une structure du mésencéphale, bien qu'en raison de sa proximité avec le cerveau antérieur, il soit parfois classé comme faisant partie du diencéphale caudal (cerveau antérieur).
+
+Chez les vertébrés, le prétectum est situé directement en avant du colliculus supérieur et en arrière du thalamus.
+
+Il est situé au-dessus du gris périaqueducal et du noyau de la commissure postérieure.
+
+Plusieurs noyaux ont été identifiés dans le prétectum, bien que leurs frontières puissent être difficiles à définir et qu'il y ait eu un débat sur les régions à inclure et leurs noms précis.
+
+Les cinq noyaux principaux sont : le noyau prétectal olivaire (ON), le noyau du tractus optique (NOT) et les noyaux prétectal antérieur (NPA), médial (NPM) et postérieur (NPP).
+
+Le NOT se compose de cellules relativement grandes et est situé entre les colliculi supérieurs.
+
+Le ON est situé médialement au NOT et a une queue qui s'étend entre le NOT et NPP, qui est ventrale au ON.
+
+Deux noyaux supplémentaires ont également été identifiés : le limiteur postérieur (PLi) et l'aire commisurale prétectale (CPA).
+
+Bien que ces deux régions n'aient pas été examinées dans la même mesure que les cinq noyaux primaires, la recherche a montré que le PLi et le CPA reçoivent une entrée rétinienne, ce qui suggère un rôle dans le traitement de l'information visuelle.
+
+
+=== Entrées ===
+
+Le prétectum reçoit un apport binoculaire important des cellules ganglionnaires photosensibles de la rétine.
+
+Chez les primates, ces afférences sont bilatérales alors que chez les rongeurs, elles se projettent à partir de la rétine controlatérale.
+
+La majorité de ces projections rétino-prétectales vont à ON et NON tandis que d'autres noyaux prétectaux reçoivent une entrée rétinienne mineure chez les mammifères, y compris les noyaux prétectaux postérieur, médial et antérieur.
+
+Le NOT reçoit des contributions de plusieurs régions.
+
+Du thalamus, le NOT reçoit des projections inhibitrices des neurones producteurs de GABA dans le noyau géniculé latéral ipsilatéral et les folioles intergéniculées bilatérales.
+
+Le noyau suprachiasmatique superficiel ipsilatéral et les noyaux terminaux médial, dorsal et latéral du mésencéphale se projettent sur le NOT.
+
+Les fibres se projettent également vers le NOT à partir du noyau prépositus hypoglossi dans la moelle, le NOT controlatéral et à partir de diverses régions corticales.
+
+
+=== Sorties ===
+
+De nombreux noyaux prétectaux partagent des cibles de projections efférentes.
+
+Tous les noyaux prétectaux, à l'exception de l'ON, se projettent sur les noyaux du thalamus, du sous-thalamus, du colliculus supérieur, de la formation réticulaire, du pont et de l'olive inférieure.
+
+L'ON et le CPA ont tous deux des projections efférentes vers le noyau d'Edinger-Westphal.
+
+Le NPP et le NPA se projettent tous deux vers le pulvinar, le noyau postérieur latéral du thalamus et plusieurs noyaux précérébelleux.
+
+Le NOT a des projections efférentes vers la zone incerta du sous-thalamus, plusieurs noyaux du pont, de la moelle, des noyaux intralaminaires, du mésencéphale et des noyaux thalamiques dorsaux et ventraux.
+
+Ses projections inhibitrices bilatérales vers le système optique accessoire comprennent des connexions aux noyaux terminaux latéral et médial.
+
+Les projections vers le sous-thalamus sont ciblées vers le noyau géniculé latéral et le pulvinar.
+
+Le NOT se projette bilatéralement sur le colliculus supérieur, bien que les connexions homolatérales semblent être plus dominantes.
+
+En plus de ces projections, le NOT se projette vers les noyaux relais vestibulaire et vestibulocérébelleux.
+
+
+== Fonction ==
+
+Dans le cadre du système visuel sous-cortical, les neurones des noyaux prétectaux répondent à des intensités variables d'éclairement et sont principalement impliqués dans la médiation des réponses comportementales non conscientes aux changements aigus de lumière.
+
+En général, ces réponses impliquent l'initiation de réflexes optocinétiques, bien que le prétectum puisse également réguler la nociception et le sommeil paradoxal.
+
+
+=== Réflexe lumineux pupillaire ===
+
+Le réflexe lumineux pupillaire est médié par le prétectum.
+
+Ce réflexe est responsable de la constriction des pupilles lors de l'entrée de la lumière dans l'œil.
+
+Plusieurs noyaux prétectaux, en particulier l'ON, reçoivent des informations d'éclairement de la rétine ipsilatérale via le tractus optique.
+
+Les noyaux de l'ON sont connus pour augmenter progressivement leur activation en réponse à des niveaux croissants d'éclairement.
+
+Cette information est ensuite transmise directement au noyau d'Edinger-Westphal, qui procède au relais de la commande de constriction des pupilles vers le sphincter pupillaire via le ganglion ciliaire.
+
+
+=== Poursuite en douceur ===
+
+Les noyaux prétectaux, en particulier le NOT, sont impliqués dans la coordination des mouvements oculaires lors d'une poursuite en douceur.
+
+Ces mouvements permettent à l'œil de suivre de près un objet en mouvement et de rattraper un objet après un changement inattendu de direction ou de vitesse.
+
+Les neurones de glissement rétiniens sensibles à la direction dans le NOT fournissent des informations d'erreur rétinienne horizontales ipsiversives au cortex à travers l'olive inférieure.
+
+Pendant la journée, ces informations sont captées et relayées par des neurones à grands champs récepteurs, alors que les neurones parafovéaux à petits champs récepteurs le font dans l'obscurité.
+
+C'est par cette voie que le NOT est capable de fournir des informations sur les erreurs rétiniennes pour guider les mouvements oculaires.
+
+En plus de son rôle dans le maintien d'une poursuite en douceur, le prétectum est activé pendant le nystagmus optocinétique dans lequel l'œil revient à une position centrale tournée vers l'avant après qu'un objet qu'il suivait est sorti du champ de vision.
+
+
+=== Réflexe d'hébergement ===
+
+
+Une partie du prétectum, en particulier le NOT et le NPP, est impliquée dans le réflexe d'accommodation par lequel l'œil maintient sa concentration.
+
+Les informations proprioceptives de la rétine atteignent le prétectum via le nerf occulomoteur et le nerf trijumeau.
+
+A partir de là, le mécanisme par lequel l'œil maintient la focalisation par les contractions musculaires de la rétine est similaire à celui du réflexe lumineux pupillaire.
+
+
+=== Antinociception ===
+
+Le NPA participe à la diminution active de la perception des stimuli douloureux (antinociception).
+
+Bien que le mécanisme par lequel le NPA modifie la réponse d'un organisme aux stimuli douloureux ne soit pas entièrement connu, la recherche a montré que l'activité dans le NPA ventral déclenche les neurones cholinergiques et sérotoninergiques.
+
+Ces neurones activent les voies descendantes qui se synapsent dans la moelle épinière et inhibent les cellules nociceptives de la corne dorsale.
+
+En plus de son mécanisme antiionociceptif direct, le NPA se projette sur des régions cérébrales qui, par des connexions au cortex somatosensoriel, régulent la perception des stimuli douloureux.
+
+Deux de ces régions sur lesquelles le NPA est connu pour projeter sont la zona incerta et le noyau thalamique postérieur.
+
+Les régions du NPA peuvent être spécialisées pour répondre à différents types de douleur.
+
+La recherche a montré que le NPA dorsal diminuait le mieux la perception de la douleur brève tandis que le NPA ventral réduisait la perception de la douleur chronique.
+
+En raison de son rôle dans la réduction de la douleur chronique, on pense que l'activité anormale du NPA est impliquée dans le syndrome de la douleur centrale.
+
+
+=== sommeil paradoxal ===
+
+Plusieurs noyaux prétectaux peuvent être impliqués dans la régulation du sommeil paradoxal et des comportements de sommeil.
+
+La recherche a montré que le prétectum, en conjonction avec le colliculus supérieur, peut être responsable de provoquer des changements non circadiens dans les comportements de sommeil paradoxal.
+
+Les noyaux prétectaux recevant une entrée rétinienne, en particulier le NOT et le NPP, se sont avérés partiellement responsables de l'initiation du sommeil paradoxal chez les rats albinos.
+
+La découverte de projections du prétectum vers plusieurs noyaux thalamiques impliqués dans l'activation corticale pendant le sommeil paradoxal, plus précisément la projection vers le noyau superchiasmatique, qui fait partie d'un mécanisme de régulation du sommeil paradoxal connu, soutient cette hypothèse.
+
+
+
+https://en.wikipedia.org/wiki/Pretectal_area

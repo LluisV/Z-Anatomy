@@ -1,0 +1,84 @@
+
+
+ATRIOVENTRICULAR NODE
+
+
+The atrioventricular node or AV node electrically connects the heart's atria and ventricles to coordinate beating in the top of the heart; it is part of the electrical conduction system of the heart. 
+
+The AV node lies at the lower back section of the interatrial septum near the opening of the coronary sinus, and conducts the normal electrical impulse from the atria to the ventricles. 
+
+The AV node is quite compact (~1 x 3 x 5 mm).
+
+
+== Structure ==
+
+
+
+=== Location ===
+
+The AV node lies at the lower back section of the interatrial septum near the opening of the coronary sinus, which conducts the normal electrical impulse from the atria to the ventricles. 
+
+The AV node is quite compact (~1 x 3 x 5 mm). 
+
+It is located at the center of Koch's triangle—a triangle enclosed by the septal leaflet of the tricuspid valve, the coronary sinus, and the membranous part of the interatrial septum.
+
+
+=== Blood supply ===
+
+The blood supply of the AV node is from the atrioventricular nodal branch. 
+
+The origin of this artery is most commonly (80-90% of hearts) a branch of the right coronary artery, with the remainder originating from the left circumflex artery. 
+
+This is associated with the dominance of the coronary artery circulation. 
+
+In right-dominant individuals the blood supply is from the right coronary artery while in left dominant individuals it originates from the left circumflex artery.
+
+
+=== Development ===
+
+BMP (Bone morphogenetic protein) cell signaling plays a key role in diverse aspects of cardiac differentiation and morphogenesis. (BMPs) are multifunctional signaling molecules critical for the development of AV node. 
+
+BMP influences AV node development through Alk3 receptor (Activin receptor-like kinase 3). 
+
+Abnormalities seen in BMP and Alk3 are associated with some cardiovascular diseases like Ebstein’s anomaly and AV conduction disease.
+
+
+== Function ==
+
+
+The AV node receives two inputs from the right atrium: posteriorly, via the crista terminalis, and anteriorly, via the interatrial septum.Contraction of heart muscle cells requires depolarization and repolarization of their cell membranes. 
+
+Movement of ions across cell membranes causes these events. 
+
+The cardiac conduction system (and AV node part of it) coordinates myocyte mechanical activity. 
+
+A wave of excitation spreads out from the sinoatrial node through the atria along specialized conduction channels. 
+
+This activates the AV node. 
+
+The atrioventricular node delays impulses by approximately 0.09s. 
+
+This delay in the cardiac pulse is extremely important: It ensures that the atria have ejected their blood into the ventricles first before the ventricles contract.This also protects the ventricles from excessively fast rate response to atrial arrhythmias (see below).AV conduction during normal cardiac rhythm occurs through two different pathways:
+
+the first “pathway” has a slow conduction velocity but shorter refractory period
+the second “pathway” has a faster conduction velocity but longer refractory period.An important property that is unique to the AV node is decremental conduction, in which the more frequently the node is stimulated the slower it conducts. 
+
+This is the property of the AV node that prevents rapid conduction to the ventricle in cases of rapid atrial rhythms, such as atrial fibrillation or atrial flutter.
+The AV node's normal intrinsic firing rate without stimulation (such as that from the SA node) is 40-60 times/minute. 
+
+This property is important because loss of the conduction system before the AV node should still result in pacing of the ventricles by the — slower — pacemaking ability of the AV node.
+
+
+== Clinical significance ==
+
+Atrioventricular conduction disease (AV block) describes impairment of the electrical continuity between the atria and ventricles. 
+
+It occurs when the atrial depolarization fail to reach the ventricles or is conducted with an abnormally long delay. 
+
+It can result from an injury or be a genetically inherited disorder.
+Atrioventricular nodal re-entry tachycardia.
+Cystic tumour of atrioventricular nodal region (CTAVN) CTAVN is of endodermal origin and occurs exclusively in the area of the AV node, tricuspid valve, and interatrial septum.
+
+
+
+https://en.wikipedia.org/wiki/Atrioventricular_node

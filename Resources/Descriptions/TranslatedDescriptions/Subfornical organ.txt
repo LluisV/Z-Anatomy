@@ -1,0 +1,544 @@
+
+
+SUBFORNICAL ORGAN
+
+
+The subfornical organ (SFO) is one of the circumventricular organs of the brain. 
+
+Its name comes from its location on the ventral surface of the fornix near the interventricular foramina (foramina of Monro), which interconnect the lateral ventricles and the third ventricle. 
+
+Like all circumventricular organs, the subfornical organ is well-vascularized, and like all circumventricular organs except the subcommissural organ, some SFO capillaries have fenestrations, which increase capillary permeability. 
+
+The SFO is considered a sensory circumventricular organ because it is responsive to a wide variety of hormones and neurotransmitters, as opposed to secretory circumventricular organs, which are specialized in the release of certain substances.
+
+
+== Anatomy ==
+
+
+As noted above, capillaries in some subregions within the SFO are fenestrated, and thus lack a blood-brain barrier. 
+
+All circumventricular organs except the subcommissural organ contain fenestrated capillaries, a feature that distinguishes them from most other parts of the brain. 
+
+The SFO can be divided into six anatomical zones based on its capillary topography: two zones in the coronal plane and four zones in the sagittal plane. 
+
+The central zone is composed of the glial cells, neuronal cell bodies and a high density of fenestrated capillaries. 
+
+Conversely, the rostral and caudal areas have a lower density of capillaries and are mostly made of nerve fibers, with fewer neurons and glial cells seen in this area. 
+
+Functionally, however, the SFO may be viewed in two portions, the dorsolateral peripheral division, and the ventromedial core segment.The subfornical organ contains endothelin receptors mediating vasoconstriction and high rates of glucose metabolism mediated by calcium channels.
+
+
+== General function ==
+
+The subfornical organ is active in many bodily processes, including osmoregulation, cardiovascular regulation, and energy homeostasis. 
+
+Most of these processes involve fluid balance through the control of the release of certain hormones, particularly angiotensin or vasopressin.
+
+
+=== Cardiovascular regulation ===
+
+The impact of the SFO on the cardiovascular system is mostly mediated through its influence on fluid balance. 
+
+The SFO plays a role in vasopressin regulation. 
+
+Vasopressin is a hormone that, when bound to receptors in the kidneys, increases water retention by decreasing the amount of fluid transferred from blood to urine by the kidneys. 
+
+This regulation of blood volume affects other aspects of the cardiovascular system. 
+
+Increased or decreased blood volume influences blood pressure, which is regulated by baroreceptors, and can in turn affect the strength of ventricular contraction in the heart. 
+
+Additional research has demonstrated that the subfornical organ may be an important intermediary through which leptin acts to maintain blood pressure within normal physiological limits via descending autonomic pathways associated with cardiovascular control.SFO neurons have also been experimentally shown to send efferent projections to regions involved in cardiovascular regulation including the lateral hypothalamus, with fibers terminating in the supraoptic (SON) and paraventricular (PVN) nuclei, and the anteroventral 3rd ventricle (AV3V) with fibers terminating in the OVLT and the median preoptic area.
+
+
+== Relationship with other circumventricular organs ==
+
+Other circumventricular organs participating in systemic regulatory processes are the area postrema and the OVLT. 
+
+The OVLT and SFO are both interconnected with the nucleus medianus, and together these three structures comprise the so-called "AV3V" region – the region anterior and ventral to the third ventricle. 
+
+The AV3V region is important in the regulation of fluid and electrolyte balance, by controlling thirst, sodium excretion, blood volume regulation, and vasopressin secretion. 
+
+The SFO, area postrema, and OVLT have capillaries permeable to circulating hormonal signals, enabling these three circumventricular organs to have integrative roles in cardiovascular, electrolyte, and fluid regulation.
+
+
+== Hormones and receptors ==
+
+Neurons in the subfornical organ have receptors for many hormones that circulate in the blood but which do not cross the blood–brain barrier, including angiotensin, atrial natriuretic peptide, endothelin and relaxin. 
+
+The role of the SFO in angiotensin regulation is particularly important, as it is involved in communication with the nucleus medianus (also called the median preoptic nucleus). 
+
+Some neurons in the SFO are osmoreceptors, being sensitive to the osmotic pressure of the blood. 
+
+These neurons project to the supraoptic nucleus and paraventricular nucleus to regulate the activity of vasopressin-secreting neurons. 
+
+These neurons also project to the nucleus medianus which is involved in controlling thirst. 
+
+Thus, the subfornical organ is involved in fluid balance.
+Other important hormones have been shown to excite the SFO, specifically serotonin, carbamylcholine (carbachol), and atropine. 
+
+These neurotransmitters however seem to have an effect on deeper areas of the SFO than angiotensin, and antagonists of these hormones have been shown to also primarily effect the non-superficial regions of the SFO (other than atropine antagonists, which showed little effects). 
+
+In this context, the superficial region is considered to be 15-55μm deep into the SFO, and the "deep" region anything below that.
+From these reactions to certain hormones and other molecules, a model of the neuronal organization of the SFO is suggested in which angiotensin-sensitive neurons lying superficially are excited by substances borne by blood or cerebrospinal fluid, and synapse with deeper carbachol-sensitive neurons. 
+
+The axons of these deep neurons pass out of the SFO in the columns and body of the fornix. 
+
+Afferent fibers from the body and columns of the fornix polysynaptically excite both superficial and deep neurons. 
+
+A recurrent inhibitory circuit is suggested on the output path.
+
+
+== Genetics ==
+
+The expression of various genes in the subfornical organ have been studied. 
+
+For example, it was seen that water deprivation in rats led to an upregulation of the mRNA that codes for angiotensin II receptors, allowing for a lower angiotensin concentration in the blood that produce the "thirst" response. 
+
+It also has been observed to be a site of thyroid transcription factor 1 (TTF1) production, a protein generally produced in the hypothalamus.
+
+
+== Pathology ==
+
+
+
+=== Hypertension ===
+
+Hypertension, or high blood pressure, is highly affected by the concentration of angiotensin. 
+
+Injection of angiontensin has actually been long used to induce hypertension in animal test models to study the effects of various therapies and medications. 
+
+In such experiments, it has been observed that an intact and functioning subfornical organ limits the increase in mean arterial pressure due to the increased angiotensin.
+
+
+=== Dehydration ===
+
+As stated above, angiotensin receptors (AT1) have been shown to be upregulated due to water deprivation. 
+
+These AT1 receptors have also shown an increased bonding with circulating angiotensin after water deprivation. 
+
+These findings could indicate some sort of morphological change in the AT1 receptor, likely due to some signal protein modification of the AT1 receptor at a non-bonding site, leading to an increased affinity of the AT1 receptor for angiotensin bonding.
+
+
+== Research ==
+
+
+
+=== Feeding ===
+
+Although generally viewed primarily as having roles in homeostasis and cardiovascular regulation, the subfornical organ has been thought to control feeding patterns through taking inputs from the blood (various peptides indicating satiety) and then stimulating hunger. 
+
+It has been shown to induce drinking in rats as well as eating.
+
+
+
+https://en.wikipedia.org/wiki/Subfornical_organ
+;;;ES;;;
+
+
+
+ÓRGANO SUBFORNICAL
+
+
+El órgano subfornical (SFO) es uno de los órganos circunventriculares del cerebro.
+
+Su nombre proviene de su ubicación en la superficie ventral del fórnix cerca de los agujeros interventriculares (agujeros de Monro), que interconectan los ventrículos laterales y el tercer ventrículo.
+
+Como todos los órganos circunventriculares, el órgano subfornical está bien vascularizado y, como todos los órganos circunventriculares excepto el órgano subcomisural, algunos capilares del OFS tienen fenestraciones que aumentan la permeabilidad capilar.
+
+El SFO se considera un órgano circunventricular sensorial porque responde a una amplia variedad de hormonas y neurotransmisores, a diferencia de los órganos circunventriculares secretores, que están especializados en la liberación de ciertas sustancias.
+
+
+== Anatomía ==
+
+
+Como se señaló anteriormente, los capilares en algunas subregiones dentro del SFO están fenestrados y, por lo tanto, carecen de una barrera hematoencefálica.
+
+Todos los órganos circunventriculares excepto el órgano subcomisural contienen capilares fenestrados, una característica que los distingue de la mayoría de las otras partes del cerebro.
+
+El OFS se puede dividir en seis zonas anatómicas según su topografía capilar: dos zonas en el plano coronal y cuatro zonas en el plano sagital.
+
+La zona central está compuesta por células gliales, cuerpos celulares neuronales y una alta densidad de capilares fenestrados.
+
+Por el contrario, las áreas rostral y caudal tienen una menor densidad de capilares y están compuestas principalmente de fibras nerviosas, con menos neuronas y células gliales en esta área.
+
+Funcionalmente, sin embargo, el SFO se puede ver en dos porciones, la división periférica dorsolateral y el segmento central ventromedial. El órgano subfornical contiene receptores de endotelina que median la vasoconstricción y altas tasas de metabolismo de la glucosa mediada por canales de calcio.
+
+
+== Función general ==
+
+El órgano subfornical está activo en muchos procesos corporales, incluida la osmorregulación, la regulación cardiovascular y la homeostasis energética.
+
+La mayoría de estos procesos involucran el equilibrio de líquidos a través del control de la liberación de ciertas hormonas, particularmente angiotensina o vasopresina.
+
+
+=== Regulación cardiovascular ===
+
+El impacto de la SFO en el sistema cardiovascular está mediado principalmente por su influencia en el balance de líquidos.
+
+La SFO juega un papel en la regulación de la vasopresina.
+
+La vasopresina es una hormona que, cuando se une a los receptores de los riñones, aumenta la retención de agua al disminuir la cantidad de líquido que los riñones transfieren de la sangre a la orina.
+
+Esta regulación del volumen sanguíneo afecta a otros aspectos del sistema cardiovascular.
+
+El volumen de sangre aumentado o disminuido influye en la presión arterial, que está regulada por los barorreceptores y, a su vez, puede afectar la fuerza de la contracción ventricular en el corazón.
+
+Investigaciones adicionales han demostrado que el órgano subfornical puede ser un intermediario importante a través del cual la leptina actúa para mantener la presión arterial dentro de los límites fisiológicos normales a través de vías autónomas descendentes asociadas con el control cardiovascular. También se ha demostrado experimentalmente que las neuronas SFO envían proyecciones eferentes a las regiones involucradas en el control cardiovascular regulación que incluye el hipotálamo lateral, con fibras que terminan en los núcleos supraóptico (SON) y paraventricular (PVN), y el tercer ventrículo anteroventral (AV3V) con fibras que terminan en el OVLT y el área preóptica media.
+
+
+== Relación con otros órganos circunventriculares ==
+
+Otros órganos circunventriculares que participan en procesos de regulación sistémica son el área postrema y el OVLT.
+
+Tanto el OVLT como el SFO están interconectados con el núcleo medio y, juntas, estas tres estructuras comprenden la denominada región "AV3V", la región anterior y ventral al tercer ventrículo.
+
+La región AV3V es importante en la regulación del equilibrio de líquidos y electrolitos, al controlar la sed, la excreción de sodio, la regulación del volumen sanguíneo y la secreción de vasopresina.
+
+El SFO, el área postrema y el OVLT tienen capilares permeables a las señales hormonales circulantes, lo que permite que estos tres órganos circunventriculares tengan funciones integradoras en la regulación cardiovascular, de electrolitos y de líquidos.
+
+
+== Hormonas y receptores ==
+
+Las neuronas del órgano subfornical tienen receptores para muchas hormonas que circulan en la sangre pero que no cruzan la barrera hematoencefálica, como la angiotensina, el péptido natriurético auricular, la endotelina y la relaxina.
+
+El papel de la SFO en la regulación de la angiotensina es particularmente importante, ya que está involucrada en la comunicación con el núcleo medio (también llamado núcleo preóptico medio).
+
+Algunas neuronas en el SFO son osmorreceptores, siendo sensibles a la presión osmótica de la sangre.
+
+Estas neuronas se proyectan al núcleo supraóptico y al núcleo paraventricular para regular la actividad de las neuronas secretoras de vasopresina.
+
+Estas neuronas también se proyectan al núcleo medio, que está involucrado en el control de la sed.
+
+Por lo tanto, el órgano subfornical está involucrado en el equilibrio de líquidos.
+Se ha demostrado que otras hormonas importantes estimulan el SFO, específicamente la serotonina, la carbamilcolina (carbacol) y la atropina.
+
+Sin embargo, estos neurotransmisores parecen tener un efecto en áreas más profundas del SFO que la angiotensina, y se ha demostrado que los antagonistas de estas hormonas también afectan principalmente las regiones no superficiales del SFO (aparte de los antagonistas de la atropina, que mostraron pocos efectos).
+
+En este contexto, se considera que la región superficial está entre 15 y 55 μm de profundidad en la OFS, y la región "profunda" cualquier cosa por debajo de eso.
+A partir de estas reacciones a ciertas hormonas y otras moléculas, se sugiere un modelo de organización neuronal de la SFO en el que las neuronas sensibles a la angiotensina que se encuentran superficialmente son excitadas por sustancias transportadas por la sangre o el líquido cefalorraquídeo y hacen sinapsis con neuronas sensibles al carbacol más profundas.
+
+Los axones de estas neuronas profundas salen del SFO en las columnas y el cuerpo del fórnix.
+
+Las fibras aferentes del cuerpo y las columnas del fórnix excitan polisinápticamente tanto las neuronas superficiales como las profundas.
+
+Se sugiere un circuito inhibitorio recurrente en la ruta de salida.
+
+
+== Genética ==
+
+Se ha estudiado la expresión de varios genes en el órgano subfornical.
+
+Por ejemplo, se observó que la privación de agua en ratas condujo a una regulación positiva del ARNm que codifica los receptores de angiotensina II, lo que permite una concentración más baja de angiotensina en la sangre que produce la respuesta de "sed".
+
+También se ha observado que es un sitio de producción del factor de transcripción tiroideo 1 (TTF1), una proteína que generalmente se produce en el hipotálamo.
+
+
+== Patología ==
+
+
+
+=== Hipertensión ===
+
+La hipertensión, o presión arterial alta, se ve muy afectada por la concentración de angiotensina.
+
+La inyección de angiotensina en realidad se ha utilizado durante mucho tiempo para inducir la hipertensión en modelos de prueba con animales para estudiar los efectos de varias terapias y medicamentos.
+
+En tales experimentos, se ha observado que un órgano subfornical intacto y en funcionamiento limita el aumento de la presión arterial media debido al aumento de la angiotensina.
+
+
+=== Deshidratación ===
+
+Como se indicó anteriormente, se ha demostrado que los receptores de angiotensina (AT1) aumentan debido a la privación de agua.
+
+Estos receptores AT1 también han mostrado una mayor unión con la angiotensina circulante después de la privación de agua.
+
+Estos hallazgos podrían indicar algún tipo de cambio morfológico en el receptor AT1, probablemente debido a alguna modificación de la proteína señal del receptor AT1 en un sitio de no unión, lo que lleva a una mayor afinidad del receptor AT1 por la unión de la angiotensina.
+
+
+== Investigación ==
+
+
+
+=== Alimentación ===
+
+Aunque en general se considera que tiene funciones en la homeostasis y la regulación cardiovascular, se cree que el órgano subfornical controla los patrones de alimentación mediante la toma de aportes de la sangre (varios péptidos que indican saciedad) y luego estimula el hambre.
+
+Se ha demostrado que induce a beber en ratas además de comer.
+
+
+
+https://en.wikipedia.org/wiki/Subfornical_organ
+
+;;;PT;;;
+
+
+
+ÓRGÃO SUBFORNICAL
+
+
+O órgão subfornical (SFO) é um dos órgãos circunventriculares do cérebro.
+
+Seu nome vem de sua localização na superfície ventral do fórnice próximo aos forames interventriculares (forames de Monro), que interligam os ventrículos laterais e o terceiro ventrículo.
+
+Como todos os órgãos circunventriculares, o órgão subfornical é bem vascularizado e, como todos os órgãos circunventriculares, exceto o órgão subcomissural, alguns capilares SFO possuem fenestrações, que aumentam a permeabilidade capilar.
+
+O SFO é considerado um órgão sensorial circunventricular porque responde a uma grande variedade de hormônios e neurotransmissores, ao contrário dos órgãos secretores circunventriculares, que são especializados na liberação de determinadas substâncias.
+
+
+== Anatomia ==
+
+
+Como observado acima, os capilares em algumas sub-regiões da OFS são fenestrados e, portanto, não possuem uma barreira hematoencefálica.
+
+Todos os órgãos circunventriculares, exceto o órgão subcomissural, contêm capilares fenestrados, uma característica que os distingue da maioria das outras partes do cérebro.
+
+A OFS pode ser dividida em seis zonas anatômicas com base em sua topografia capilar: duas zonas no plano coronal e quatro zonas no plano sagital.
+
+A zona central é composta pelas células gliais, corpos celulares neuronais e uma alta densidade de capilares fenestrados.
+
+Por outro lado, as áreas rostral e caudal têm menor densidade de capilares e são compostas principalmente de fibras nervosas, com menos neurônios e células gliais vistas nessa área.
+
+Funcionalmente, entretanto, o SFO pode ser visualizado em duas porções, a divisão periférica dorsolateral e o segmento central ventromedial. O órgão subfornical contém receptores de endotelina mediando vasoconstrição e altas taxas de metabolismo de glicose mediado por canais de cálcio.
+
+
+== Função geral ==
+
+O órgão subfornical é ativo em muitos processos corporais, incluindo osmorregulação, regulação cardiovascular e homeostase energética.
+
+A maioria desses processos envolve o equilíbrio hídrico por meio do controle da liberação de certos hormônios, principalmente a angiotensina ou a vasopressina.
+
+
+=== Regulação cardiovascular ===
+
+O impacto da OFS no sistema cardiovascular é principalmente mediado por sua influência no equilíbrio hídrico.
+
+O SFO desempenha um papel na regulação da vasopressina.
+
+A vasopressina é um hormônio que, quando ligado a receptores nos rins, aumenta a retenção de água, diminuindo a quantidade de fluido transferido do sangue para a urina pelos rins.
+
+Essa regulação do volume sanguíneo afeta outros aspectos do sistema cardiovascular.
+
+O aumento ou diminuição do volume sanguíneo influencia a pressão arterial, que é regulada pelos barorreceptores e pode, por sua vez, afetar a força da contração ventricular no coração.
+
+Pesquisas adicionais demonstraram que o órgão subfornical pode ser um importante intermediário através do qual a leptina atua para manter a pressão arterial dentro dos limites fisiológicos normais por meio de vias autonômicas descendentes associadas ao controle cardiovascular. regulação incluindo o hipotálamo lateral, com fibras que terminam nos núcleos supraóptico (SON) e paraventricular (PVN), e o 3º ventrículo anteroventral (AV3V) com fibras que terminam no OVLT e na área pré-óptica mediana.
+
+
+== Relação com outros órgãos circunventriculares ==
+
+Outros órgãos circunventriculares que participam de processos regulatórios sistêmicos são a área postrema e o OVLT.
+
+O OVLT e o SFO estão interligados com o núcleo mediano e, juntos, essas três estruturas compõem a chamada região "AV3V" - a região anterior e ventral ao terceiro ventrículo.
+
+A região AV3V é importante na regulação do equilíbrio hidroeletrolítico, controlando a sede, excreção de sódio, regulação do volume sanguíneo e secreção de vasopressina.
+
+O SFO, a área postrema e o OVLT possuem capilares permeáveis ​​aos sinais hormonais circulantes, permitindo que esses três órgãos circunventriculares tenham papéis integradores na regulação cardiovascular, eletrolítica e de fluidos.
+
+
+== Hormônios e receptores ==
+
+Neurônios no órgão subfornical têm receptores para muitos hormônios que circulam no sangue, mas que não atravessam a barreira hematoencefálica, incluindo angiotensina, peptídeo natriurético atrial, endotelina e relaxina.
+
+O papel do SFO na regulação da angiotensina é particularmente importante, pois está envolvido na comunicação com o núcleo mediano (também chamado de núcleo pré-óptico mediano).
+
+Alguns neurônios no SFO são osmorreceptores, sendo sensíveis à pressão osmótica do sangue.
+
+Esses neurônios se projetam para o núcleo supraóptico e para o núcleo paraventricular para regular a atividade dos neurônios secretores de vasopressina.
+
+Esses neurônios também se projetam para o núcleo mediano, que está envolvido no controle da sede.
+
+Assim, o órgão subfornical está envolvido no equilíbrio hídrico.
+Outros hormônios importantes demonstraram excitar o OFS, especificamente a serotonina, a carbamilcolina (carbacol) e a atropina.
+
+Esses neurotransmissores, no entanto, parecem ter um efeito em áreas mais profundas do OFS do que a angiotensina, e os antagonistas desses hormônios também afetam principalmente as regiões não superficiais do OFS (além dos antagonistas da atropina, que mostraram poucos efeitos).
+
+Neste contexto, a região superficial é considerada 15-55μm de profundidade no SFO, e a região "profunda" qualquer coisa abaixo disso.
+A partir dessas reações a certos hormônios e outras moléculas, sugere-se um modelo da organização neuronal do SFO no qual os neurônios sensíveis à angiotensina situados superficialmente são excitados por substâncias transportadas pelo sangue ou líquido cefalorraquidiano e fazem sinapse com neurônios sensíveis ao carbacol mais profundos.
+
+Os axônios desses neurônios profundos saem do SFO nas colunas e no corpo do fórnice.
+
+As fibras aferentes do corpo e das colunas do fórnice excitam polissinapticamente os neurônios superficiais e profundos.
+
+Um circuito inibitório recorrente é sugerido no caminho de saída.
+
+
+== Genética ==
+
+A expressão de vários genes no órgão subfornical tem sido estudada.
+
+Por exemplo, foi visto que a privação de água em ratos levou a uma regulação positiva do mRNA que codifica os receptores de angiotensina II, permitindo uma menor concentração de angiotensina no sangue que produz a resposta de "sede".
+
+Também foi observado que é um local de produção do fator de transcrição da tireóide 1 (TTF1), uma proteína geralmente produzida no hipotálamo.
+
+
+== Patologia ==
+
+
+
+=== Hipertensão ===
+
+A hipertensão, ou pressão alta, é altamente afetada pela concentração de angiotensina.
+
+A injeção de angiontesina tem sido usada há muito tempo para induzir hipertensão em modelos de teste em animais para estudar os efeitos de várias terapias e medicamentos.
+
+Em tais experimentos, observou-se que um órgão subfornical intacto e funcional limita o aumento da pressão arterial média devido ao aumento da angiotensina.
+
+
+=== Desidratação ===
+
+Como afirmado acima, os receptores de angiotensina (AT1) demonstraram ser regulados positivamente devido à privação de água.
+
+Esses receptores AT1 também mostraram uma ligação aumentada com a angiotensina circulante após a privação de água.
+
+Esses achados podem indicar algum tipo de alteração morfológica no receptor AT1, provavelmente devido a alguma modificação da proteína sinal do receptor AT1 em um local sem ligação, levando a um aumento da afinidade do receptor AT1 para a ligação da angiotensina.
+
+
+== Pesquisa ==
+
+
+
+=== Alimentação ===
+
+Embora geralmente visto principalmente como tendo papéis na homeostase e na regulação cardiovascular, acredita-se que o órgão subfornical controle os padrões de alimentação por meio de entradas do sangue (vários peptídeos indicando saciedade) e, em seguida, estimulando a fome.
+
+Demonstrou-se que induz a beber em ratos, bem como comer.
+
+
+
+https://en.wikipedia.org/wiki/Subfornical_organ
+
+;;;FR;;;
+
+
+
+ORGANE SOUS-FORNAL
+
+
+L'organe sous-fornique (OFS) est l'un des organes circumventriculaires du cerveau.
+
+Son nom vient de son emplacement sur la face ventrale du fornix près des foramens interventriculaires (foramina de Monro), qui relient les ventricules latéraux et le troisième ventricule.
+
+Comme tous les organes circumventriculaires, l'organe sous-fornique est bien vascularisé, et comme tous les organes circumventriculaires à l'exception de l'organe sous-commissural, certains capillaires SFO ont des fenestrations, qui augmentent la perméabilité capillaire.
+
+L'OFS est considéré comme un organe sensoriel circumventriculaire car il répond à une grande variété d'hormones et de neurotransmetteurs, par opposition aux organes sécrétoires circumventriculaires, qui sont spécialisés dans la libération de certaines substances.
+
+
+== Anatomie ==
+
+
+Comme indiqué ci-dessus, les capillaires de certaines sous-régions du SFO sont fenestrés et manquent donc de barrière hémato-encéphalique.
+
+Tous les organes circumventriculaires, à l'exception de l'organe sous-commissural, contiennent des capillaires fenêtrés, une caractéristique qui les distingue de la plupart des autres parties du cerveau.
+
+Le SFO peut être divisé en six zones anatomiques en fonction de sa topographie capillaire : deux zones dans le plan coronal et quatre zones dans le plan sagittal.
+
+La zone centrale est composée des cellules gliales, des corps cellulaires neuronaux et d'une forte densité de capillaires fenestrés.
+
+À l'inverse, les zones rostrale et caudale ont une densité de capillaires plus faible et sont principalement constituées de fibres nerveuses, avec moins de neurones et de cellules gliales observées dans cette zone.
+
+Fonctionnellement, cependant, le SFO peut être visualisé en deux parties, la division périphérique dorsolatérale et le segment central ventromédian. L'organe sous-fornique contient des récepteurs d'endothéline médiant la vasoconstriction et des taux élevés de métabolisme du glucose médiés par les canaux calciques.
+
+
+== Fonction générale ==
+
+L'organe sous-fornique est actif dans de nombreux processus corporels, notamment l'osmorégulation, la régulation cardiovasculaire et l'homéostasie énergétique.
+
+La plupart de ces processus impliquent l'équilibre hydrique par le contrôle de la libération de certaines hormones, en particulier l'angiotensine ou la vasopressine.
+
+
+=== Régulation cardiovasculaire ===
+
+L'impact de l'OFS sur le système cardiovasculaire est principalement médié par son influence sur l'équilibre hydrique.
+
+Le SFO joue un rôle dans la régulation de la vasopressine.
+
+La vasopressine est une hormone qui, lorsqu'elle est liée à des récepteurs dans les reins, augmente la rétention d'eau en diminuant la quantité de liquide transféré du sang à l'urine par les reins.
+
+Cette régulation du volume sanguin affecte d'autres aspects du système cardiovasculaire.
+
+L'augmentation ou la diminution du volume sanguin influence la pression artérielle, qui est régulée par les barorécepteurs, et peut à son tour affecter la force de la contraction ventriculaire dans le cœur.
+
+Des recherches supplémentaires ont démontré que l'organe sous-fornique peut être un intermédiaire important par lequel la leptine agit pour maintenir la pression artérielle dans les limites physiologiques normales via des voies autonomes descendantes associées au contrôle cardiovasculaire. Il a également été démontré expérimentalement que les neurones SFO envoient des projections efférentes aux régions impliquées dans le système cardiovasculaire. régulation comprenant l'hypothalamus latéral, avec des fibres se terminant dans les noyaux supraoptique (SON) et paraventriculaire (PVN), et le 3e ventricule antéroventral (AV3V) avec des fibres se terminant dans l'OVLT et l'aire préoptique médiane.
+
+
+== Relation avec les autres organes circumventriculaires ==
+
+D'autres organes circumventriculaires participant aux processus de régulation systémiques sont l'area postrema et l'OVLT.
+
+L'OVLT et le SFO sont tous deux interconnectés avec le noyau médian et, ensemble, ces trois structures constituent la région dite "AV3V" - la région antérieure et ventrale au troisième ventricule.
+
+La région AV3V est importante dans la régulation de l'équilibre hydrique et électrolytique, en contrôlant la soif, l'excrétion de sodium, la régulation du volume sanguin et la sécrétion de vasopressine.
+
+Le SFO, l'area postrema et l'OVLT ont des capillaires perméables aux signaux hormonaux circulants, permettant à ces trois organes circumventriculaires d'avoir des rôles intégratifs dans la régulation cardiovasculaire, électrolytique et liquidienne.
+
+
+== Hormones et récepteurs ==
+
+Les neurones de l'organe sous-fornique possèdent des récepteurs pour de nombreuses hormones qui circulent dans le sang mais qui ne traversent pas la barrière hémato-encéphalique, notamment l'angiotensine, le peptide natriurétique auriculaire, l'endothéline et la relaxine.
+
+Le rôle du SFO dans la régulation de l'angiotensine est particulièrement important, car il est impliqué dans la communication avec le noyau médian (également appelé noyau préoptique médian).
+
+Certains neurones du SFO sont des osmorécepteurs, étant sensibles à la pression osmotique du sang.
+
+Ces neurones se projettent vers le noyau supraoptique et le noyau paraventriculaire pour réguler l'activité des neurones sécrétant de la vasopressine.
+
+Ces neurones se projettent également vers le noyau médian qui est impliqué dans le contrôle de la soif.
+
+Ainsi, l'organe sous-fornique est impliqué dans l'équilibre hydrique.
+Il a été démontré que d'autres hormones importantes excitent le SFO, en particulier la sérotonine, la carbamylcholine (carbachol) et l'atropine.
+
+Ces neurotransmetteurs semblent cependant avoir un effet sur les zones plus profondes de l'OFS que l'angiotensine, et il a été démontré que les antagonistes de ces hormones affectent également principalement les régions non superficielles de l'OFS (autres que les antagonistes de l'atropine, qui ont montré peu d'effets).
+
+Dans ce contexte, la région superficielle est considérée comme étant de 15 à 55 μm de profondeur dans le SFO, et la région "profonde" n'importe quoi en dessous.
+A partir de ces réactions à certaines hormones et à d'autres molécules, un modèle d'organisation neuronale de l'OFS est suggéré dans lequel les neurones sensibles à l'angiotensine situés superficiellement sont excités par des substances portées par le sang ou le liquide céphalo-rachidien et font synapse avec des neurones sensibles au carbachol plus profonds.
+
+Les axones de ces neurones profonds sortent du SFO dans les colonnes et le corps du fornix.
+
+Les fibres afférentes du corps et des colonnes du fornix excitent de manière polysynaptique les neurones superficiels et profonds.
+
+Un circuit inhibiteur récurrent est suggéré sur le chemin de sortie.
+
+
+== Génétique ==
+
+L'expression de divers gènes dans l'organe sous-fornique a été étudiée.
+
+Par exemple, on a vu que la privation d'eau chez les rats entraînait une régulation à la hausse de l'ARNm qui code pour les récepteurs de l'angiotensine II, permettant une concentration plus faible d'angiotensine dans le sang qui produit la réponse « soif ».
+
+Il a également été observé qu'il s'agissait d'un site de production du facteur de transcription thyroïdien 1 (TTF1), une protéine généralement produite dans l'hypothalamus.
+
+
+== Pathologie ==
+
+
+
+=== Hypertension ===
+
+L'hypertension, ou hypertension artérielle, est fortement affectée par la concentration d'angiotensine.
+
+L'injection d'angiontensine est en fait utilisée depuis longtemps pour induire l'hypertension dans des modèles d'essais sur des animaux afin d'étudier les effets de divers traitements et médicaments.
+
+Dans de telles expériences, il a été observé qu'un organe sous-fornique intact et fonctionnel limite l'augmentation de la pression artérielle moyenne due à l'augmentation de l'angiotensine.
+
+
+=== Déshydratation ===
+
+Comme indiqué ci-dessus, il a été démontré que les récepteurs de l'angiotensine (AT1) sont régulés à la hausse en raison de la privation d'eau.
+
+Ces récepteurs AT1 ont également montré une liaison accrue avec l'angiotensine circulante après une privation d'eau.
+
+Ces résultats pourraient indiquer une sorte de changement morphologique du récepteur AT1, probablement dû à une modification de la protéine signal du récepteur AT1 sur un site non lié, conduisant à une affinité accrue du récepteur AT1 pour la liaison à l'angiotensine.
+
+
+== Recherche ==
+
+
+
+=== Alimentation ===
+
+Bien que généralement considéré principalement comme jouant un rôle dans l'homéostasie et la régulation cardiovasculaire, on pense que l'organe sous-fornique contrôle les schémas d'alimentation en prenant des apports sanguins (divers peptides indiquant la satiété) puis en stimulant la faim.
+
+Il a été démontré qu'il incite à boire chez les rats ainsi qu'à manger.
+
+
+
+https://en.wikipedia.org/wiki/Subfornical_organ
