@@ -108,6 +108,7 @@ public class GlobalVariables : MonoBehaviour
 
     }
 
+
     private void Start()
     {
         foreach (var insertion in insertions)

@@ -2,9 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 #if !UNITY_WEBGL
-using Firebase;
-using Firebase.RemoteConfig;
-using Firebase.Extensions;
+//using Firebase;
+//using Firebase.RemoteConfig;
+//using Firebase.Extensions;
 #endif
 using System;
 using TMPro;
@@ -33,7 +33,7 @@ public class RemoteConfig : MonoBehaviour
 
     public void Fetch()
     {
-#if UNITY_WEBGL
+/*#if UNITY_WEBGL
 
 #else
         localVersion = updatedVersion = Application.version;
@@ -46,7 +46,7 @@ public class RemoteConfig : MonoBehaviour
                     ShowUpdate();
             });
         });
-#endif
+#endif*/
     }
 
     private void ShowUpdate()

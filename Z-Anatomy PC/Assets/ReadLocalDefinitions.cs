@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ReadLocalDefinitions : MonoBehaviour
 {
-#if UNITY_WEBGL
+//#if UNITY_WEBGL
     public static ReadLocalDefinitions Instance;
 
     public TextAsset[] descriptions;
@@ -106,5 +106,5 @@ public class ReadLocalDefinitions : MonoBehaviour
         }
     }
 
-#endif
+//#endif
 }

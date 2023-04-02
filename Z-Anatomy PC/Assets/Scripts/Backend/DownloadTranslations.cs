@@ -1,8 +1,8 @@
         
 #if !UNITY_WEBGL
-using Firebase.Storage;
-using Firebase.Extensions;
-using Firebase.RemoteConfig;
+//using Firebase.Storage;
+//using Firebase.Extensions;
+//using Firebase.RemoteConfig;
 #endif
 
 using UnityEngine;
@@ -14,7 +14,7 @@ public class DownloadTranslations : MonoBehaviour
 {
     public static DownloadTranslations Instance;
 #if !UNITY_WEBGL
-    FirebaseStorage storage;
+    //FirebaseStorage storage;
 #endif
     int newVersion = 0;
     int localVersion = 0;
@@ -37,7 +37,7 @@ public class DownloadTranslations : MonoBehaviour
         localVersion = PlayerPrefs.GetInt("TranslationsVersion", 0);
         newVersion = localVersion;
         string localUrl = Application.persistentDataPath + "/Translations" + localVersion + ".txt";
-
+        /*
 #if UNITY_WEBGL
             LoadText(localUrl);
             NamesManagement.Instance.GetNamesTranslations();
@@ -84,13 +84,18 @@ public class DownloadTranslations : MonoBehaviour
             NamesManagement.Instance.GetNamesTranslations();
         }
 #endif
+        */
+        LoadText(localUrl);
+        NamesManagement.Instance.GetNamesTranslations();
+
     }
 
     private void DownloadNewTranslationsVersion(string localURL)
     {
-#if UNITY_WEBGL
+        /*
+//if UNITY_WEBGL
 
-#else
+//else
         storage = FirebaseStorage.DefaultInstance;
 
         StorageReference storageRef = storage.GetReferenceFromUrl("gs://z-anatomy.appspot.com/Translations/Translations" + newVersion + ".txt");
@@ -134,7 +139,9 @@ public class DownloadTranslations : MonoBehaviour
 
             NamesManagement.Instance.GetNamesTranslations();
         });
-#endif
+        
+//endif
+        */
     }
 
     public void LoadText(string localURL)

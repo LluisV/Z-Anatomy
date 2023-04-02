@@ -1,6 +1,6 @@
 #if !UNITY_WEBGL
-using Firebase.Extensions;
-using Firebase.Firestore;
+//using Firebase.Extensions;
+//using Firebase.Firestore;
 #endif
 using System;
 using System.Collections;
@@ -37,7 +37,7 @@ public class FirestoreAnalytics : MonoBehaviour
         int windowsValue = 0;
 #if UNITY_WEBGL
 #else
-        DocumentReference docRef = ReadFirestore.db.Collection("Analytics").Document("User acquisition");
+        /*DocumentReference docRef = ReadFirestore.db.Collection("Analytics").Document("User acquisition");
         docRef.GetSnapshotAsync().ContinueWithOnMainThread(task =>
         {
             DocumentSnapshot snapshot = task.Result;
@@ -77,7 +77,7 @@ public class FirestoreAnalytics : MonoBehaviour
             {
                 Debug.Log(String.Format("Document {0} does not exist!", snapshot.Id));
             }
-        });
+        });*/
 #endif
     }
 
@@ -86,7 +86,7 @@ public class FirestoreAnalytics : MonoBehaviour
         int todayValue = 0;
 #if UNITY_WEBGL
 #else
-        DocumentReference docRef = ReadFirestore.db.Collection("Analytics").Document("Sessions");
+        /*DocumentReference docRef = ReadFirestore.db.Collection("Analytics").Document("Sessions");
         docRef.GetSnapshotAsync().ContinueWithOnMainThread(task =>
         {
             DocumentSnapshot snapshot = task.Result;
@@ -112,7 +112,7 @@ public class FirestoreAnalytics : MonoBehaviour
             {
                 Debug.Log(String.Format("Document {0} does not exist!", snapshot.Id));
             }
-        });
+        });*/
 #endif
     }
 
@@ -135,7 +135,7 @@ public class FirestoreAnalytics : MonoBehaviour
     {
 #if UNITY_WEBGL
 #else
-        DocumentReference docRef = ReadFirestore.db.Collection("Analytics").Document(document);
+        /*DocumentReference docRef = ReadFirestore.db.Collection("Analytics").Document(document);
         docRef.SetAsync(data, SetOptions.MergeAll).ContinueWithOnMainThread(task =>
         {
             if (task.IsCompleted)
@@ -145,7 +145,7 @@ public class FirestoreAnalytics : MonoBehaviour
             }
             else
                 Debug.Log("Set value was faulted");
-        });
+        });*/
 #endif
     }
 

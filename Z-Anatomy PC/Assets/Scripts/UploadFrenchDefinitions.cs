@@ -1,6 +1,6 @@
 #if !UNITY_WEBGL
-using Firebase.Extensions;
-using Firebase.Firestore;
+//using Firebase.Extensions;
+//using Firebase.Firestore;
 #endif
 using System.Collections;
 using System.Collections.Generic;
@@ -21,7 +21,7 @@ public class UploadFrenchDefinitions : MonoBehaviour
     private void Upload()
     {
 #if !UNITY_WEBGL
-        List<string> wrong = new List<string>();
+        /*List<string> wrong = new List<string>();
         foreach (var file in descriptionFiles)
         {
             try
@@ -40,7 +40,7 @@ public class UploadFrenchDefinitions : MonoBehaviour
             {
                 Debug.LogError("Error uploading " + file);
             }
-        }
+        }*/
 #endif
     }
 }

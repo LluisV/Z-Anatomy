@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "410270737457",
+    "firebase_url": "https://z-anatomy-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "z-anatomy",
     "storage_bucket": "z-anatomy.appspot.com"
   },

@@ -9,6 +9,7 @@
 /Z-Anatomy PC/[Bb]uilds/
 /Z-Anatomy PC/[Ll]ogs/
 /Z-Anatomy PC/[Mm]emoryCaptures/
+/[Bb]uilds/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta

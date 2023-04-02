@@ -1,6 +1,6 @@
 #if !UNITY_WEBGL
-using Firebase.Extensions;
-using Firebase.Firestore;
+//using Firebase.Extensions;
+//using Firebase.Firestore;
 #endif
 using Newtonsoft.Json;
 using System;
@@ -16,23 +16,21 @@ public class ReadDB : MonoBehaviour
 {
     public static ReadDB instance;
 #if !UNITY_WEBGL
-    public static FirebaseFirestore db;
+    //public static FirebaseFirestore db;
 #endif
 
     private void Awake()
     {
         instance = this;
 #if !UNITY_WEBGL
-        db = FirebaseFirestore.DefaultInstance;
-#endif
-#if !UNITY_WEBGL
-        db.Settings.PersistenceEnabled = false;
+        //db = FirebaseFirestore.DefaultInstance;
+        //db.Settings.PersistenceEnabled = false;
 #endif
     }
 
     public void GetDescription(string documentName, string translatedName)
     {
-        if (Application.internetReachability == NetworkReachability.NotReachable)
+        /*if (Application.internetReachability == NetworkReachability.NotReachable)
         {
             NamesManagement.Instance.NoConnectionScreen();
             return;
@@ -78,6 +76,10 @@ public class ReadDB : MonoBehaviour
             }
         });
 #endif
+        */
+        bool check = false;
+        var desc = ReadLocalDefinitions.Instance.GetDescription(documentName, ref check);
+        NamesManagement.Instance.SetDesc(desc, check, translatedName);
     }
 
     public class pageval

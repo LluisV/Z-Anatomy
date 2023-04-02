@@ -3,8 +3,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 #if !UNITY_WEBGL
-using Firebase.Extensions;
-using Firebase.Firestore;
+//using Firebase.Extensions;
+//using Firebase.Firestore;
 #endif
 
 
@@ -23,7 +23,7 @@ public class UploadDescriptions : MonoBehaviour
 #else
         foreach (var file in descriptionFiles)
         {
-            DocumentReference docRef = ReadFirestore.db.Collection("Descriptions").Document(file.name.ToLower());
+           /* DocumentReference docRef = ReadFirestore.db.Collection("Descriptions").Document(file.name.ToLower());
             Dictionary<string, object> desc = new Dictionary<string, object>
             {
                     { "English", GetTranslatedDescription(file.text, SystemLanguage.English)},
@@ -34,7 +34,7 @@ public class UploadDescriptions : MonoBehaviour
             };
             docRef.SetAsync(desc).ContinueWithOnMainThread(task => {
                 Debug.Log("Added " + file.name);
-            });
+            });*/
         }
 #endif
     }
