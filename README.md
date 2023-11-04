@@ -15,4 +15,4 @@ This work is licensed under a
 This app was made by Lluís Vinent Juanico, featuring models from the Z-Anatomy project [CC-BY-SA 4.0].
 You can find more information about the license in the LICENSE file.
 
-[![Z-Anatomy video](https://img.youtube.com/vi/h6NNGB-_cSY/0.jpg)](https://www.youtube.com/watch?v=h6NNGB-_cSY&t=28s)
+[![Z-Anatomy video](https://img.youtube.com/vi/h6NNGB-_cSY/0.jpg)](https://www.youtube.com/watch?v=h6NNGB-_cSY)
