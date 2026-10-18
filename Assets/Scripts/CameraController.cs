@@ -60,6 +60,9 @@ public class CameraController : MonoBehaviour
         eventSys = EventSystem.current;
         distance = defaulDistance;
         lastMousePosition = cameraCenter;
+
+        // Snap camera immediately to model center at startup
+        ResetCamera();
     }
 
 
@@ -71,9 +74,17 @@ public class CameraController : MonoBehaviour
         //If dragging UI
         if (UIManager.draggingUI)
             return;
+
         //If click on UI
-        if (Input.touchCount > 0 && eventSys.IsPointerOverGameObject(Input.GetTouch(0).fingerId) ||(Input.GetMouseButton(0) && eventSys.IsPointerOverGameObject()))
-            return;
+        if (eventSys == null)
+            eventSys = EventSystem.current;
+        if (eventSys != null)
+        {
+            if (Input.touchCount > 0 && eventSys.IsPointerOverGameObject(Input.GetTouch(0).fingerId))
+                return;
+            if (Input.GetMouseButton(0) && eventSys.IsPointerOverGameObject())
+                return;
+        }
 
         if (distance < 0.005f) distance = 0.005f;
         if (distance > 10) distance = 10;
@@ -109,7 +120,11 @@ public class CameraController : MonoBehaviour
                 }
                 //Zoom
                 else 
+                {
                     distance += deltaMagDiff * Time.deltaTime * zoomRate * 0.0025f * Mathf.Abs(distance);
+                    var rotation = Quaternion.Euler(y, x, 0);
+                    SetCameraPosition(rotation);
+                }
                
             }
             else

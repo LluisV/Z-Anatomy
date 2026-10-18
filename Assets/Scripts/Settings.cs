@@ -34,7 +34,7 @@ public class Settings : MonoBehaviour
     private int lastFontSliderValue = 0;
     private TextMeshProUGUI[] texts;
     private Camera cam;
-    public ForwardRendererData rendererData;
+    public UniversalRendererData rendererData;
     public Light mainLight;
     public Light mainLight2;
     public Toggle settingsAdReminderToggle;
@@ -77,13 +77,12 @@ public class Settings : MonoBehaviour
 
     private void ReadPlayerPrefs()
     {
-        //Welcome Panel
-        if(!PlayerPrefs.HasKey("FirstOpen") && GlobalVariables.instance.mobile)
-        {
-            welcomePanel.SetActive(true);
-            MeshManagement.instance.globalParent.SetActive(false);
-            PlayerPrefs.SetInt("FirstOpen", 1);
-        }
+        //Welcome Panel - ensure 3D model is active and visible
+        if (welcomePanel != null)
+            welcomePanel.SetActive(false);
+        if (MeshManagement.instance != null && MeshManagement.instance.globalParent != null)
+            MeshManagement.instance.globalParent.SetActive(true);
+        PlayerPrefs.SetInt("FirstOpen", 1);
         //Ad Reminder
        /* else if(PlayerPrefs.HasKey("AdReminder"))
         {

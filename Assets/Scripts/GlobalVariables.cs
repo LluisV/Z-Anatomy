@@ -15,7 +15,7 @@ public class GlobalVariables : MonoBehaviour
         instance = this;
         screenOrientation = Screen.orientation;
         actualScreenSize = new Vector2(Screen.width, Screen.height);
-        mobile = SystemInfo.deviceType == DeviceType.Handheld;
+        mobile = Application.isMobilePlatform || SystemInfo.deviceType == DeviceType.Handheld;
     }
 
 }

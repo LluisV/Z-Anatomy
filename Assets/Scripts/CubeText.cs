@@ -50,6 +50,8 @@ public class CubeText : MonoBehaviour
 
     void UpdateColor()
     {
+        if (cam == null) return;
+        
         float angle = Vector3.Angle(cubeCenter.position - transform.position, -cam.transform.forward);
         float a = angle * angle * angle * angle * 0.000000025f;
         if (a > maxAlpha)

@@ -37,10 +37,43 @@ public class MeshManagement : MonoBehaviour
     private void Awake()
     {
         instance = this;
+        // ANDROID FIX: Ensure all Canvas components pass TexCoord1 (UV1) to shaders.
+        // Without this, TextMeshPro SDF rendering produces solid white triangles on Android.
+        FixAllCanvasShaderChannels();
+        // Hook to catch any Canvas created later (e.g. popups, settings panels)
+        Canvas.willRenderCanvases += FixAllCanvasShaderChannels;
+    }
+
+    private static float lastChannelFixTime = -1f;
+
+    private static void FixAllCanvasShaderChannels()
+    {
+        if (Time.unscaledTime - lastChannelFixTime < 0.5f) return;
+        lastChannelFixTime = Time.unscaledTime;
+
+        const AdditionalCanvasShaderChannels required =
+            AdditionalCanvasShaderChannels.TexCoord1 |
+            AdditionalCanvasShaderChannels.Normal |
+            AdditionalCanvasShaderChannels.Tangent;
+
+        Canvas[] canvases = FindObjectsByType<Canvas>(FindObjectsInactive.Include);
+        foreach (Canvas canvas in canvases)
+        {
+            if ((canvas.additionalShaderChannels & required) != required)
+                canvas.additionalShaderChannels |= required;
+        }
+    }
+
+    private void OnDestroy()
+    {
+        Canvas.willRenderCanvases -= FixAllCanvasShaderChannels;
     }
 
     private void Start()
     {
+        if (globalParent != null)
+            globalParent.SetActive(true);
+
         selectedObjectsManagement = GetComponent<SelectedObjectsManagement>();
         Color col = Color.white;
         bodyPartsRenderers = globalParent.GetComponentsInChildren<MeshRenderer>().Where(it => it.GetComponent<Label>() == null &&  !it.gameObject.name.Contains(".g") && !it.gameObject.name.Contains(".labels")).ToList();
@@ -131,13 +164,13 @@ public class MeshManagement : MonoBehaviour
             }
         }
 
-        //Set default shader params
+        //Set default shader params - plane position FAR below scene so nothing is clipped by default
         for (i = 0; i < rendererMaterials.Count; i++)
         {
             foreach (Material material in rendererMaterials[i])
             {
-                material.SetVector("_PlanePosition", new Vector3(0, 0, 0));
-                material.SetVector("_PlaneNormal", transform.up);
+                material.SetVector("_PlanePosition", new Vector3(0, -99999, 0)); // Far below scene = no clipping
+                material.SetVector("_PlaneNormal", Vector3.up);
             }
         }
 

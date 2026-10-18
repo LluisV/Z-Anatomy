@@ -48,8 +48,14 @@ public class ResponsiveCanvas : MonoBehaviour
         float elementWidth = elements[0].rect.width;
         float elementHeight = elements[0].rect.height;
 
-        int columns = (int)(resolution.x / canvas.scaleFactor / (elementWidth + horizontalSpacing));
-        columns = (int)(resolution.x / canvas.scaleFactor / (elementWidth + horizontalSpacing + horizontalSpacing / columns * 2));
+        float divisor = elementWidth + horizontalSpacing;
+        if (divisor <= 0.001f) divisor = 100f;
+        float scale = canvas != null && canvas.scaleFactor > 0 ? canvas.scaleFactor : 1f;
+
+        int columns = Mathf.Max(1, (int)(resolution.x / scale / divisor));
+        float adjustedDivisor = divisor + (horizontalSpacing / columns * 2);
+        if (adjustedDivisor > 0.001f)
+            columns = Mathf.Max(1, (int)(resolution.x / scale / adjustedDivisor));
 
         RectTransform rt = elementsParent.GetComponent<RectTransform>();
         RectTransform panelRt = panel.GetComponent<RectTransform>();

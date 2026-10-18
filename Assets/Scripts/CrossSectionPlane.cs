@@ -40,8 +40,8 @@ public class CrossSectionPlane : MonoBehaviour
         {
             foreach (Material material in meshManagement.rendererMaterials[i])
             {
-                material.SetVector("_PlanePosition", Vector3.zero);
-                material.SetVector("_PlaneNormal", Vector3.zero);
+                material.SetVector("_PlanePosition", new Vector3(0, -99999, 0)); // Far below scene = no clipping
+                material.SetVector("_PlaneNormal", Vector3.up);
             }
         }
      /*   foreach (Material material in meshManagement.colorMaterials)

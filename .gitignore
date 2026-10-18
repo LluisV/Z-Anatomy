@@ -5,7 +5,10 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
+/[Bb]uild/*
+!/[Bb]uild/Android/
+/[Bb]uild/Android/*
+!/[Bb]uild/Android/ZAnatomy.apk
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
@@ -53,8 +56,15 @@ sysinfo.txt
 
 # Builds
 *.apk
+!Build/Android/ZAnatomy.apk
 *.unitypackage
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+.utmp/
+.vscode/
+UserSettings/
+*.slnx
+*.log
 

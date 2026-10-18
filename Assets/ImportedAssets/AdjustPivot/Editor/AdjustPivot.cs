@@ -1,12 +1,14 @@
-﻿using System.Globalization;
+using System.Globalization;
 using System.IO;
 using System.Text;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.SceneManagement;
-#if UNITY_5_5_OR_NEWER
-using UnityEngine.AI;
+#if UNITY_2021_2_OR_NEWER
+using UnityEditor.SceneManagement;
+#elif UNITY_2018_3_OR_NEWER
+using UnityEditor.Experimental.SceneManagement;
 #endif
 
 public class AdjustPivot : EditorWindow
@@ -92,7 +94,7 @@ public class AdjustPivot : EditorWindow
 			if( !IsNull( selection.parent ) )
 			{
 #if UNITY_2018_3_OR_NEWER
-				if( UnityEditor.Experimental.SceneManagement.PrefabStageUtility.GetCurrentPrefabStage() == null )
+				if( PrefabStageUtility.GetCurrentPrefabStage() == null )
 				{
 #endif
 					if( selection.localPosition != Vector3.zero || selection.localEulerAngles != Vector3.zero )
